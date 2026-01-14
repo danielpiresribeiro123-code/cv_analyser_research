@@ -1,0 +1,9 @@
+[project]
+name = "ai_3d_reconstruction"
+version = "0.1.0"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
