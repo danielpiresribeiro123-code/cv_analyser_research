@@ -50,11 +50,11 @@ def _flatten_features(prefix: str, feats: dict) -> dict:
                 out[f"{key}_mean"] = float(np.mean(v))
                 out[f"{key}_std"] = float(np.std(v))
                 out[f"{key}_energy"] = float(np.sum(v ** 2))
-                continue  # 👈 CORRECTO
+                continue  
 
             # Caso 2: achatar apenas se permitido
             if key not in FLATTEN_ALLOW:
-                continue  # 👈 CORRECTO
+                continue  
 
             v = v.flatten()
             for i, val in enumerate(v):
@@ -62,7 +62,8 @@ def _flatten_features(prefix: str, feats: dict) -> dict:
 
         elif isinstance(v, (list, tuple)):
             for i, val in enumerate(v):
-                out[f"{key}_{i:03d}"] = float(val)
+                if isinstance(val, (int, float, np.floating, np.integer)):
+                    out[f"{key}_{i:03d}"] = float(val)
 
         elif isinstance(v, (np.floating, np.integer)):
             out[key] = float(v)
@@ -85,19 +86,28 @@ def build_dataset(
     return_df: bool = True,
 ):
     """
-    Cria um dataset de features a partir de um directório de imagens.
+    Cria um dataset de features a partir de um diretório de imagens.
 
-    Modos (feature_set):
-    - "quality"     -> só features de filtragem/qualidade
-    - "clustering"  -> só features para clustering/comparação
-    - "both"        -> junta ambos
+    Estrutura esperada (with_label=True):
 
-    Labels (with_label=True):
-      Espera subpastas:
-        - bad_images  -> label 1
-        - good_images -> label 0
-        - custom_images -> label -1
+        images_dir/
+            Defocused Blur/
+                (pode ter imagens diretamente ou subpastas)
+            Good/
+                kwentar-sharp/
+                personal-sharp/
+                ...
+            Motion Blur/
+            Noisy/
+            Pixelated/
+            Very Noisy/
+
+    As labels são strings:
+        "Defocused Blur", "Good", "Motion Blur", "Noisy", "Pixelated", "Very Noisy"
+
+    A função percorre recursivamente todas as subpastas de cada classe.
     """
+
     images_dir = Path(images_dir)
 
     if feature_set not in {"quality", "clustering", "both"}:
@@ -105,8 +115,7 @@ def build_dataset(
 
     rows = []
 
-    def process_one(img_path: Path, label: int | None):
-        # Extrai features conforme o modo escolhido
+    def process_one(img_path: Path, label: str | None):
         feats = {}
 
         if feature_set in {"quality", "both"}:
@@ -123,39 +132,46 @@ def build_dataset(
 
         row = {"image_path": str(img_path)}
         if label is not None:
-            row["label"] = label # type: ignore
+            row["label"] = label
         row.update(feats)
         rows.append(row)
 
     if with_label:
-        class_dirs = {
-            "bad_images": 1,
-            "good_images": 0,
-            "custom_images": -1,
-        }
 
-        for class_name, label in class_dirs.items():
+        class_names = [
+            "Defocused Blur",
+            "Good",
+            "Motion Blur",
+            "Noisy",
+            "Pixelated",
+            "Very Noisy",
+        ]
+
+        for class_name in class_names:
             class_path = images_dir / class_name
+
             if not class_path.exists():
                 raise ValueError(f"Pasta não encontrada: {class_path}")
 
-            for img_path in tqdm(class_path.iterdir(), desc=f"Processando {class_name}"):
+            # Percurso recursivo: aceita imagens em qualquer subpasta
+            for img_path in tqdm(class_path.rglob("*"), desc=f"Processando {class_name}"):
                 if not img_path.is_file():
                     continue
                 if img_path.suffix.lower() not in IMG_EXTS:
                     continue
 
-                process_one(img_path, label)
+                process_one(img_path, class_name)
 
     else:
-        for img_path in tqdm(images_dir.iterdir(), desc="Processando imagens"):
+        # Sem labels: percorre todo o diretório recursivamente
+        for img_path in tqdm(images_dir.rglob("*"), desc="Processando imagens"):
             if not img_path.is_file():
                 continue
             if img_path.suffix.lower() not in IMG_EXTS:
                 continue
 
             process_one(img_path, None)
-    
+
     df = pd.DataFrame(rows)
 
     if output_csv is not None:
@@ -167,4 +183,5 @@ def build_dataset(
 
     if return_df:
         return df
+
     return None

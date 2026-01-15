@@ -1,4 +1,20 @@
 # Projeto 2D → 3D
+Este projeto tem como objetivo transformar imagens 2D ou frames extraídos de vídeo em uma reconstrução 3D do espaço, garantindo primeiro a qualidade dos dados utilizados.
+Para isso, é criado um pipeline que combina filtragem automática, classificação por Deep Learning, remoção opcional de objetos dinâmicos, clustering de imagens semelhantes e, por fim, reconstrução 3D com o COLMAP.
+
+A ideia principal é:
+
+> só usar imagens realmente adequadas para reconstrução 3D, evitando ruído, blur, baixa textura, redundâncias e interferências de objetos em movimento.
+
+O projeto junta:
+
+* Regras simples de visão computacional (filtros iniciais)
+* Modelos de Deep Learning para classificação e segmentação
+* Técnicas de seleção e redução de dados
+* Reconstrução 3D baseada em fotogrametria
+
+O pipeline é modular, permitindo ativar ou desativar componentes como MatAnyOne ou masking com YOLO, conforme o tipo de input (vídeo ou imagens) e a complexidade desejada.
+
 
 ## Instalação
 

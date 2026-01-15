@@ -24,7 +24,7 @@ OUTPUT_FRAMES = paths["data"]["frames"]
 # ==================================================
 # Extras Functions
 # ==================================================
-from src.capture.video_recorder import record_video
+from src.capture_video.video_recorder import record_video
 from data_edit.video_to_frames import video_to_frames
 from utils.pipeline_manifest import PipelineManifest
 # from segmentation.matanyone_runner import run_matanyone
