@@ -16,9 +16,54 @@ O projeto junta:
 O pipeline é modular, permitindo ativar ou desativar componentes como MatAnyOne ou masking com YOLO, conforme o tipo de input (vídeo ou imagens) e a complexidade desejada.
 
 
+## Configuração do ambiente (.env)
+
+Este projeto utiliza variáveis de ambiente para definir todos os caminhos importantes (dados, modelos, executáveis, etc.).
+Por esse motivo, o ficheiro `.env` é **específico de cada computador** e **não deve ser enviado para o repositório**.
+
+No repositório existe apenas um ficheiro de exemplo:
+
+```
+.env.example
+```
+
+Quando clonares o projeto, deves fazer o seguinte:
+
+1. Criar uma cópia do ficheiro de exemplo:
+
+```bash
+cp .env.example .env
+```
+
+(no Windows podes simplesmente copiar e renomear o ficheiro manualmente)
+
+2. Abrir o ficheiro `.env` e preencher a variável `PROJECT_ROOT` com o caminho onde o projeto está no teu computador.
+
+Exemplo:
+
+```env
+PROJECT_ROOT=C:/Users/teu_utilizador/Desktop/CapStone
+```
+
+
+O resto do ficheiro funciona como configuração automática.
+
+> O ficheiro `.env` é ignorado pelo Git através do `.gitignore`, garantindo que:
+>
+> * Caminhos pessoais não são enviados para o repositório
+> * Cada utilizador pode usar o seu próprio computador sem conflitos
+
+---
+
 ## Instalação
 
 Recomendado: usar `venv` no VSCode
+
+```bash
+python -m venv .venv
+.\.venv\Scripts\activate
+pip install -e .
+```
 
 Ou com conda:
 
@@ -26,19 +71,31 @@ Ou com conda:
 conda create -n 3d_reconstruction python=3.11.9
 conda init
 conda activate 3d_reconstruction
+pip install -e .
 ```
 
----
-
-## Dependências
+O comando:
 
 ```bash
-pip install ultralytics
-pip install opencv-python pillow onvif-zeep pandas
-pip install scikit-learn seaborn ipython tqdm scikit-image
+pip install -e .
 ```
 
+instala automaticamente:
+
+* o projeto em modo editable
+* todas as dependências definidas no `pyproject.toml`
+
 ---
+
+Isto deixa o teu README com um fluxo de instalação totalmente profissional:
+
+1. Clonar repositório
+2. Criar ambiente virtual
+3. Copiar `.env.example` → `.env`
+4. Definir `PROJECT_ROOT`
+5. Executar `pip install -e .`
+6. Projeto pronto a usar
+
 
 ## Models / AIs
 

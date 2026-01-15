@@ -6,6 +6,8 @@ venv/
 # Modelos pesados
 # models/
 
+# Tem de criar em cada computador o .env com base em .env.example para por o project root.
+.env/
 
 # Python cache
 __pycache__/
@@ -29,6 +31,7 @@ Thumbs.db
 # Dados grandes / gerados automaticamente
 data/frames/
 data/input/
+data/images_degraded
 data/Random/
 data/video_piano/
 

@@ -1,6 +1,19 @@
 [project]
 name = "ai_3d_reconstruction"
 version = "0.1.0"
+dependencies = [
+    "ultralytics",
+    "opencv-python",
+    "pillow",
+    "onvif-zeep",
+    "pandas",
+    "scikit-learn",
+    "seaborn",
+    "ipython",
+    "tqdm",
+    "scikit-image",
+    "python-dotenv"
+]
 
 [tool.setuptools]
 package-dir = {"" = "src"}
