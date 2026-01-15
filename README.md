@@ -141,8 +141,7 @@ Transforma vídeos em imagens/frames (caso ainda não sejam) e guarda-os.
 
 * Pessoas, carros, animais, etc.
 * YOLO11l.pt → deteção
-* YOLO11l-seg.pt → masks
-* Escolher: remover, manter ou mascarar
+* Escolher: remover ou manter imagens
 
 4. Imagens obviamente inadequadas
 
@@ -167,6 +166,35 @@ O modelo DL vai classificar em:
 
 Apenas imagens classificadas como **Good** são usadas para reconstrução 3D.
 Todas as restantes são descartadas.
+
+---
+### Masking de Objetos Dinâmicos (opcional)
+
+Aplicado apenas às imagens classificadas como **Good**, antes do clustering.
+Não possivel de aplicar caso se tenha em **Filtragem Simples (antes de ML/DL)** no ponto 3 escolhido remover as imagens com objetos dinâmicos.
+
+Objetivo:
+
+* Remover ou reduzir a influência de objetos dinâmicos como:
+
+  * Pessoas
+  * Carros
+  * Animais
+  * Outros elementos em movimento
+
+É usado o modelo:
+* **YOLO11l-seg.pt** → deteção + criação de masks por segmentação
+
+Processo:
+
+* Detetar objetos dinâmicos na imagem
+* Criar máscaras para essas regiões
+
+Pipeline atualizado:
+
+```
+Filtragem → Classificação → Masking Dynamic (opcional) → Clustering → 3D
+```
 
 ---
 ### Clustering
