@@ -44,7 +44,6 @@ Documentação útil para YOLO segmentation:
 * [https://docs.ultralytics.com/pt/datasets/segment/coco/#dataset-yaml](https://docs.ultralytics.com/pt/datasets/segment/coco/#dataset-yaml)
 
 ---
-
 ## Dataset para Classificação de Imagens
 
 Para cada tipo de classificação serão usadas **500 imagens**:
@@ -54,10 +53,28 @@ Para cada tipo de classificação serão usadas **500 imagens**:
   * [https://www.kaggle.com/datasets/kwentar/blur-dataset](https://www.kaggle.com/datasets/kwentar/blur-dataset)
 * **150 imagens próprias**, obtidas por nós
 
-Isto garante:
+Além disso, a partir das imagens consideradas adequadas (**Good**), foram criadas versões artificiais para gerar mais classes:
+
+* **Noisy**
+* **Very Noisy**
+* **Pixelated**
+
+Estas transformações são feitas usando **scikit-image**, aplicando:
+
+* Adição controlada de ruído
+* Aumento da intensidade do ruído
+* Pixelização por redução e reamostragem da resolução
+
+Isto permite:
+
+* Ter dados realistas para classes que são difíceis de recolher manualmente
+* Controlar o nível de degradação da imagem
+* Garantir consistência entre classes
+
+No conjunto, isto garante:
 
 * Diversidade real de dados
-* Mistura entre dados públicos e dados controlados
+* Mistura entre dados públicos, dados próprios e dados sintéticos controlados
 * Melhor generalização do modelo
 
 ---
@@ -71,7 +88,7 @@ Aceita:
 * Ambos
 * Ou gravação direta de vídeo em tempo real
 
-
+---
 ### Segmentação do objeto principal com MatAnyOne (opcional / futuro)
 
 Usado apenas quando o input é um **vídeo** (não é adequado para imagens soltas).
@@ -131,8 +148,12 @@ Transforma vídeos em imagens/frames (caso ainda não sejam) e guarda-os.
 
 * Muito noisy ou muito blurry
 * Features muito fora dos valores normais
+```
+Este filtro é baseado nos **valores mínimo e máximo das features** extraídas das imagens consideradas adequadas (**Good**) no dataset de treino.
+Qualquer imagem cujas features fiquem fora destes limites é automaticamente descartada, por ser considerada fora da distribuição normal de imagens válidas para reconstrução 3D.
+```
 
-
+---
 ### Classificação de Imagens
 
 O modelo DL vai classificar em:
@@ -147,7 +168,7 @@ O modelo DL vai classificar em:
 Apenas imagens classificadas como **Good** são usadas para reconstrução 3D.
 Todas as restantes são descartadas.
 
-
+---
 ### Clustering
 
 Entre imagens semelhantes, escolher a mais adequada e eliminar redundâncias.
