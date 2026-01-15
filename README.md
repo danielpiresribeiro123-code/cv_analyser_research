@@ -1,3 +1,4 @@
+# Projeto 2d -> 3d
 ## Instalação
 
 Recomendado: usar `venv` no VSCode
@@ -21,7 +22,6 @@ pip install scikit-learn seaborn ipython tqdm scikit-image
 ```
 
 ---
-
 ## Models
 
 São usados:
@@ -35,8 +35,8 @@ Documentação útil para YOLO segmentation:
 * [https://docs.ultralytics.com/pt/datasets/segment/coco/#dataset-yaml](https://docs.ultralytics.com/pt/datasets/segment/coco/#dataset-yaml)
 
 ---
-
-## Filtragem simples (antes de ML/DL)
+## Processamento e Filtragem
+### Filtragem simples (antes de ML/DL)
 
 1. Exposição
 
@@ -60,9 +60,8 @@ Documentação útil para YOLO segmentation:
 * Muito noisy ou muito blurry
 * Features muito fora dos valores normais
 
----
 
-## Classificação de Imagens
+### Classificação de Imagens
 
 * **Defocused Blur** → imagem desfocada
 * **Motion Blur** → imagem com movimento
@@ -71,14 +70,46 @@ Documentação útil para YOLO segmentation:
 * **Pixelated** → blocos visíveis de cor
 * **Good** → imagem adequada
 
----
 
-## Clustering
+### Clustering
 
 Entre imagens semelhantes, escolher a mais adequada e eliminar redundâncias.
 
 ---
-
 ## Representação 3D
 
 Reconstrução do espaço 3D usando **COLMAP** a partir das imagens filtradas.
+
+---
+## Segmentação de vídeo com MatAnyOne (opcional / futuro)
+
+Usado apenas quando o input é um **vídeo** (não é adequado para imagens soltas).
+
+O MatAnyOne permite:
+
+* Criar **masks temporais** consistentes ao longo do vídeo
+* Isolar automaticamente o objeto principal em cada frame
+
+
+Vantagens:
+
+* Masks mais estáveis entre frames
+* Melhor separação do objeto e fundo
+* Ajuda muito em cenas com movimento de câmara ou objeto
+
+Nota:
+
+> Este passo é opcional e só faz sentido quando se trabalha diretamente com vídeo.
+
+
+Pipeline com MatAnyOne:
+
+```
+Vídeo → MatAnyOne → Frames + Masks → Filtragem → Classificação → Clustering → 3D
+```
+
+Pipeline sem MatAnyOne:
+
+```
+Vídeo → Filtragem → Classificação → Clustering → 3D
+```
