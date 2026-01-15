@@ -86,17 +86,6 @@ instala automaticamente:
 * todas as dependências definidas no `pyproject.toml`
 
 ---
-
-Isto deixa o teu README com um fluxo de instalação totalmente profissional:
-
-1. Clonar repositório
-2. Criar ambiente virtual
-3. Copiar `.env.example` → `.env`
-4. Definir `PROJECT_ROOT`
-5. Executar `pip install -e .`
-6. Projeto pronto a usar
-
-
 ## Models / AIs
 
 São usados:

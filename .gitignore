@@ -7,7 +7,7 @@ venv/
 # models/
 
 # Tem de criar em cada computador o .env com base em .env.example para por o project root.
-.env/
+.env
 
 # Python cache
 __pycache__/
