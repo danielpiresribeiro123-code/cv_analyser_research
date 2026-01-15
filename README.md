@@ -148,10 +148,10 @@ Transforma vídeos em imagens/frames (caso ainda não sejam) e guarda-os.
 
 * Muito noisy ou muito blurry
 * Features muito fora dos valores normais
-```
-Este filtro é baseado nos **valores mínimo e máximo das features** extraídas das imagens consideradas adequadas (**Good**) no dataset de treino.
+
+Este filtro considerado no ponto 4 é baseado nos **valores mínimo e máximo das features** extraídas das imagens consideradas adequadas (**Good**) no dataset de treino.
 Qualquer imagem cujas features fiquem fora destes limites é automaticamente descartada, por ser considerada fora da distribuição normal de imagens válidas para reconstrução 3D.
-```
+
 
 ---
 ### Classificação de Imagens
