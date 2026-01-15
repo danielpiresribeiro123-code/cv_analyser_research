@@ -119,6 +119,7 @@ Pipeline sem MatAnyOne:
 Vídeo → Frames → Filtragem → Classificação → Clustering → 3D
 ```
 
+---
 ### Processamento Inicial
 
 Transforma vídeos em imagens/frames (caso ainda não sejam) e guarda-os.
