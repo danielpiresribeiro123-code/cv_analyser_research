@@ -61,8 +61,8 @@ Isto garante:
 * Melhor generalização do modelo
 
 ---
-
-## Input / Filmagem
+# Pipeline Input Process
+### Input / Filmagem
 
 Aceita:
 
@@ -71,9 +71,8 @@ Aceita:
 * Ambos
 * Ou gravação direta de vídeo em tempo real
 
----
 
-## Segmentação do objeto principal com MatAnyOne (opcional / futuro)
+### Segmentação do objeto principal com MatAnyOne (opcional / futuro)
 
 Usado apenas quando o input é um **vídeo** (não é adequado para imagens soltas).
 
@@ -100,18 +99,16 @@ Vídeo → MatAnyOne → Frames + Masks → Filtragem → Classificação → Cl
 Pipeline sem MatAnyOne:
 
 ```
-Vídeo → Filtragem → Classificação → Clustering → 3D
+Vídeo → Frames → Filtragem → Classificação → Clustering → 3D
 ```
 
----
-
-## Processamento Inicial
+### Processamento Inicial
 
 Transforma vídeos em imagens/frames (caso ainda não sejam) e guarda-os.
 
 ---
-
-## Filtragem Simples (antes de ML/DL)
+# Pipeline Quality Selection
+### Filtragem Simples (antes de ML/DL)
 
 1. Exposição
 
@@ -135,9 +132,8 @@ Transforma vídeos em imagens/frames (caso ainda não sejam) e guarda-os.
 * Muito noisy ou muito blurry
 * Features muito fora dos valores normais
 
----
 
-## Classificação de Imagens
+### Classificação de Imagens
 
 O modelo DL vai classificar em:
 
@@ -151,14 +147,12 @@ O modelo DL vai classificar em:
 Apenas imagens classificadas como **Good** são usadas para reconstrução 3D.
 Todas as restantes são descartadas.
 
----
 
-## Clustering
+### Clustering
 
 Entre imagens semelhantes, escolher a mais adequada e eliminar redundâncias.
 
 ---
-
 ## Representação 3D
 
 Reconstrução do espaço 3D usando **COLMAP** a partir das imagens filtradas e selecionadas.
