@@ -42,7 +42,9 @@ def load_paths():
 
             "frames": get_env("FRAMES_ROOT"),
 
-            "train": get_env("TRAIN_ROOT"),
+            "datasets": get_env("DATASETS_ROOT"),
+
+            "graphics": get_env("GRAPHICS_ROOT"),
 
             "input": {
                 "video": get_env("INPUT_VIDEO_ROOT"),
