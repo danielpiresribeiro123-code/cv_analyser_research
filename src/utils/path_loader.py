@@ -34,6 +34,9 @@ def load_paths():
         # -------------------------
         "project_root": get_env("PROJECT_ROOT"),
 
+        "train_random_images": get_env("TRAIN_IMAGES_RANDOM_ROOT"),
+        "train_video_images": get_env("TRAIN_IMAGES_VIDEO_ROOT"),
+
         # -------------------------
         # Dados
         # -------------------------

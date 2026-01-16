@@ -71,12 +71,61 @@ def mosaic_pixelation(image, block_range=(8, 50), num_patches_range=(3, 8)):
         "patches": params
     }
 
+def isolated_blocks_pixelation(
+    image,
+    block_range=(10, 40),
+    num_blocks_range=(2, 10),
+    size_range=(20, 80)
+):
+    """
+    Cria pequenos quadrados pixelados isolados espalhados pela imagem.
+    
+    block_range: tamanho do bloco de pixelation
+    num_blocks_range: quantos quadrados aparecem na imagem
+    size_range: tamanho (em píxeis) de cada quadrado isolado
+    """
+    h, w = image.shape[:2]
+    output = image.copy()
+
+    num_blocks = random.randint(*num_blocks_range)
+    block_size = random.randint(*block_range)
+
+    params = []
+
+    for _ in range(num_blocks):
+        # tamanho do quadrado isolado
+        sq = random.randint(*size_range)
+
+        # garante que cabe na imagem
+        sq = min(sq, w, h)
+
+        x = random.randint(0, w - sq)
+        y = random.randint(0, h - sq)
+
+        patch = output[y:y+sq, x:x+sq]
+        pixel_patch = pixelate(patch, block_size)
+
+        output[y:y+sq, x:x+sq] = pixel_patch
+
+        params.append({
+            "x": x, "y": y,
+            "size": sq,
+            "block_size": block_size
+        })
+
+    return output, {
+        "num_blocks": num_blocks,
+        "blocks": params
+    }
+
 
 PIXELATION_FUNCTIONS = {
     "global": global_pixelation,
     "local": local_pixelation,
-    "mosaic": mosaic_pixelation
+    "mosaic": mosaic_pixelation,
+    "isolated": isolated_blocks_pixelation
 }
+
 
 def sample_num_pixelations(distribution: dict):
     """

@@ -5,29 +5,43 @@ from pathlib import Path
 
 import cv2
 import random
-
 def apply_defocus_blur(image, strength="normal"):
-    if strength == "normal":
+    if strength == "low":
         kernel_sizes = [5, 7, 9]
+        passes = 1
+    elif strength == "normal":
+        kernel_sizes = [15, 21, 31]
+        passes = 1
     elif strength == "strong":
-        kernel_sizes = [11, 15, 21]
-    elif strength == "random":
-        kernel_sizes = [5, 7, 9, 11, 15, 21]
+        kernel_sizes = [31, 41, 61, 81]
+        passes = 2
+    elif strength == "extreme":
+        kernel_sizes = [61, 81, 101, 121, 151]
+        passes = 3
+    elif strength == "random_low":
+        kernel_sizes = [5, 7, 9, 15, 21, 31, 41, 61, 81]
+        passes = random.randint(1, 3)
+    elif strength == "random_strong":
+        kernel_sizes = [31, 41, 61, 81, 101, 121, 151]
+        passes = random.randint(1, 3)
     elif isinstance(strength, list):
         kernel_sizes = strength
+        passes = 1
     else:
-        raise ValueError("strength must be 'normal', 'strong', 'random' or a list of odd integers")
+        raise ValueError("strength inválido")
 
-    # garantir que todos os valores são inteiros ímpares
     kernel_sizes = [int(k) for k in kernel_sizes if int(k) % 2 == 1]
-
     if not kernel_sizes:
-        raise ValueError("kernel_sizes must contain at least one odd integer")
+        raise ValueError("kernel_sizes precisa de ímpares")
 
-    k = int(random.choice(kernel_sizes))
-    blurred = cv2.GaussianBlur(image, (k, k), 0)
+    k = random.choice(kernel_sizes)
 
-    return blurred, k
+    blurred = image.copy()
+    for _ in range(passes):
+        blurred = cv2.GaussianBlur(blurred, (k, k), 0)
+
+    return blurred, {"kernel": k, "passes": passes}
+
 
 
 

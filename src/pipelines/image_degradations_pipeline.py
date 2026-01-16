@@ -6,6 +6,7 @@ from utils.path_loader import load_paths
 paths = load_paths()
 
 PROJECT_ROOT = paths["project_root"]
+TRAIN_IMAGES_RANDOM_ROOT = paths["train_random_images"]
 
 from data_edit.image_degradations.defocused_blur import process_folder_defocus_blur
 from data_edit.image_degradations.noise import process_folder_noise
@@ -48,7 +49,7 @@ def run_degradations_pipeline(
         process_folder_defocus_blur(
             input_dir=path_input,
             output_dir=path_output / "defocused",
-            strength="random"
+            strength="random_strong"
         )
 
     # -----------------------------
@@ -58,16 +59,17 @@ def run_degradations_pipeline(
         print("\nA aplicar Noisy...")
 
         num_noises_distribution = {
-            1: 0.5,
-            2: 0.4,
-            3: 0.1
+            1: 0.6,
+            2: 0.3,
+            3: 0.09,
+            4: 0.01
         }
 
         strengths_noisy = {
-            "gaussian": {"std_range": (10, 25)},
-            "salt_pepper": {"amount_range": (0.005, 0.02)},
-            "speckle": {"std_range": (0.05, 0.25)},
-            "poisson": {"scale_range": (0.8, 1.2)}
+            "gaussian": {"std_range": (10, 30)},
+            "salt_pepper": {"amount_range": (0.005, 0.05)},
+            "speckle": {"std_range": (0.09, 0.35)},
+            "poisson": {"scale_range": (0.8, 2.3)}
         }
 
         process_folder_noise(
@@ -85,16 +87,17 @@ def run_degradations_pipeline(
         print("\nA aplicar Very Noisy...")
 
         num_noises_distribution = {
-            1: 0.4,
-            2: 0.4,
-            3: 0.2
+            1: 0.6,
+            2: 0.3,
+            3: 0.09,
+            4: 0.01
         }
 
         strengths_very_noisy = {
-            "gaussian": {"std_range": (30, 70)},
-            "salt_pepper": {"amount_range": (0.02, 0.08)},
-            "speckle": {"std_range": (0.3, 0.8)},
-            "poisson": {"scale_range": (1.5, 3.0)}
+            "gaussian": {"std_range": (34, 90)},
+            "salt_pepper": {"amount_range": (0.06, 0.25)},
+            "speckle": {"std_range": (0.4, 0.95)},
+            "poisson": {"scale_range": (2.5, 4.0)}
         }
 
         process_folder_noise(
@@ -112,15 +115,17 @@ def run_degradations_pipeline(
         print("\nA aplicar Pixelation...")
 
         num_pixelations_distribution = {
-            1: 0.5,
-            2: 0.4,
-            3: 0.1
+            1: 0.6,
+            2: 0.3,
+            3: 0.09,
+            4: 0.01,
         }
 
         strengths_pixelated = {
             "global": {"block_range": (12, 40)},
             "local": {"block_range": (15, 60), "area_range": (0.2, 0.5)},
-            "mosaic": {"block_range": (20, 80), "num_patches_range": (2, 6)}
+            "mosaic": {"block_range": (20, 80), "num_patches_range": (2, 6)},
+            "isolated": {"block_range": (10, 35),"num_blocks_range": (1, 10),"size_range": (20, 80)}
         }
 
         process_folder_pixelation(
@@ -133,6 +138,6 @@ def run_degradations_pipeline(
 
 if __name__ == "__main__":
     run_degradations_pipeline(
-        path_input=r"C:\Users\danie\Desktop\My_Things\Hobbies\VSCODE\Data\Random_images\Good\personal-sharp\camera_GalaxyS215G_SM-G991BDS",
+        path_input=TRAIN_IMAGES_RANDOM_ROOT /"Good"/"kwentar-sharp",
         path_output=PROJECT_ROOT /"data"/"images_degraded"
     )
