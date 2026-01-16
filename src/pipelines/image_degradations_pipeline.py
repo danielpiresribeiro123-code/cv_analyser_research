@@ -70,10 +70,10 @@ def run_degradations_pipeline(
         }
 
         strengths_noisy = {
-            "gaussian": {"std_range": (10, 30)},
-            "salt_pepper": {"amount_range": (0.005, 0.05)},
-            "speckle": {"std_range": (0.09, 0.35)},
-            "poisson": {"scale_range": (0.8, 2.3)}
+            "gaussian": {"std_range": (10, 35)},
+            "salt_pepper": {"amount_range": (0.005, 0.07)},
+            "speckle": {"std_range": (0.08, 0.4)},
+            "poisson": {"scale_range": (0.9, 3.5)}
         }
 
         process_folder_noise(
@@ -98,10 +98,10 @@ def run_degradations_pipeline(
         }
 
         strengths_very_noisy = {
-            "gaussian": {"std_range": (34, 90)},
-            "salt_pepper": {"amount_range": (0.06, 0.25)},
-            "speckle": {"std_range": (0.4, 0.95)},
-            "poisson": {"scale_range": (2.5, 4.0)}
+            "gaussian": {"std_range": (39, 110)},
+            "salt_pepper": {"amount_range": (0.08, 0.3)},
+            "speckle": {"std_range": (0.45, 1.1)},
+            "poisson": {"scale_range": (3.5, 8.0)}
         }
 
         process_folder_noise(
@@ -129,8 +129,36 @@ def run_degradations_pipeline(
             "global": {"block_range": (12, 40)},
             "local": {"block_range": (15, 60), "area_range": (0.2, 0.5)},
             "mosaic": {"block_range": (20, 80), "num_patches_range": (2, 6)},
-            "isolated": {"block_range": (10, 35),"num_blocks_range": (1, 10),"size_range": (20, 80)}
+
+            # Blocos grandes
+            "isolated_small": {
+                "block_range": (10, 38),            # píxel relativamente fino
+                "num_clusters_range": (2, 30),      # quantos aglomerados aparecem
+                "blocks_per_cluster_range": (5, 30), # quantos “píxeis grandes” por aglomerado
+                "size_range": (10, 50),             # tamanho de cada bloco
+                "cluster_radius_range": (50, 800)   # quão compacto é cada aglomerado
+            },
+
+            # Blocos médios
+            "isolated_medium": {
+                "block_range": (45, 100),            # píxeis médios
+                "num_clusters_range": (5, 10),
+                "blocks_per_cluster_range": (2, 10),
+                "size_range": (50, 200),
+                "cluster_radius_range": (80, 1000)
+            },
+
+            # Blocos enormes
+            "isolated_big": {
+                "block_range": (100, 230),            # píxeis gigantes
+                "num_clusters_range": (1, 5),
+                "blocks_per_cluster_range": (1, 2),
+                "size_range": (120, 400),
+                "cluster_radius_range": (150, 1000)
+            }
         }
+
+
 
         process_folder_pixelation(
             input_dir=path_input,

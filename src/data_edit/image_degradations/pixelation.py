@@ -6,9 +6,16 @@ import json
 
 def pixelate(image, block_size):
     h, w = image.shape[:2]
-    temp = cv2.resize(image, (w // block_size, h // block_size), interpolation=cv2.INTER_LINEAR)
+
+    # garantir que nunca fica 0
+    new_w = max(1, w // block_size)
+    new_h = max(1, h // block_size)
+
+    temp = cv2.resize(image, (new_w, new_h), interpolation=cv2.INTER_LINEAR)
     pixelated = cv2.resize(temp, (w, h), interpolation=cv2.INTER_NEAREST)
+
     return pixelated
+
 
 
 def global_pixelation(image, block_range=(6, 40)):
@@ -74,57 +81,97 @@ def mosaic_pixelation(image, block_range=(8, 50), num_patches_range=(3, 8)):
 def isolated_blocks_pixelation(
     image,
     block_range=(10, 40),
-    num_blocks_range=(2, 10),
-    size_range=(20, 80)
+    num_clusters_range=(1, 5),
+    blocks_per_cluster_range=(2, 8),
+    size_range=(20, 80),
+    cluster_radius_range=(40, 120)
 ):
     """
-    Cria pequenos quadrados pixelados isolados espalhados pela imagem.
-    
-    block_range: tamanho do bloco de pixelation
-    num_blocks_range: quantos quadrados aparecem na imagem
-    size_range: tamanho (em píxeis) de cada quadrado isolado
+    Cria vários aglomerados de quadrados pixelados.
+
+    block_range              : intensidade da pixelização dentro de cada bloco
+    num_clusters_range       : número de aglomerados na imagem
+    blocks_per_cluster_range : quantos blocos existem dentro de cada aglomerado
+    size_range               : tamanho de cada bloco (quadrado)
+    cluster_radius_range     : quão espalhados ficam os blocos dentro do aglomerado
     """
+
     h, w = image.shape[:2]
     output = image.copy()
 
-    num_blocks = random.randint(*num_blocks_range)
+    num_clusters = random.randint(*num_clusters_range)
     block_size = random.randint(*block_range)
 
     params = []
 
-    for _ in range(num_blocks):
-        # tamanho do quadrado isolado
-        sq = random.randint(*size_range)
+    for _ in range(num_clusters):
 
-        # garante que cabe na imagem
-        sq = min(sq, w, h)
+        # centro do aglomerado
+        cx = random.randint(0, w)
+        cy = random.randint(0, h)
 
-        x = random.randint(0, w - sq)
-        y = random.randint(0, h - sq)
+        num_blocks = random.randint(*blocks_per_cluster_range)
+        cluster_radius = random.randint(*cluster_radius_range)
 
-        patch = output[y:y+sq, x:x+sq]
-        pixel_patch = pixelate(patch, block_size)
+        cluster_blocks = []
 
-        output[y:y+sq, x:x+sq] = pixel_patch
+        for _ in range(num_blocks):
+            sq = random.randint(*size_range)
+            sq = min(sq, w, h)
+
+            # posição relativa ao centro do aglomerado
+            dx = random.randint(-cluster_radius, cluster_radius)
+            dy = random.randint(-cluster_radius, cluster_radius)
+
+            x = int(cx + dx - sq // 2)
+            y = int(cy + dy - sq // 2)
+
+            # garantir que fica dentro da imagem
+            x = max(0, min(w - sq, x))
+            y = max(0, min(h - sq, y))
+
+            patch = output[y:y+sq, x:x+sq]
+
+            # garantir que block_size nunca é maior que o patch
+            local_block_size = min(block_size, sq)
+            if local_block_size % 2 == 0:
+                local_block_size -= 1
+            local_block_size = max(1, local_block_size)
+
+            pixel_patch = pixelate(patch, local_block_size)
+            output[y:y+sq, x:x+sq] = pixel_patch
+
+            cluster_blocks.append({
+                "x": x,
+                "y": y,
+                "size": sq,
+                "block_size": local_block_size
+            })
 
         params.append({
-            "x": x, "y": y,
-            "size": sq,
-            "block_size": block_size
+            "center": (cx, cy),
+            "num_blocks": num_blocks,
+            "radius": cluster_radius,
+            "blocks": cluster_blocks
         })
 
     return output, {
-        "num_blocks": num_blocks,
-        "blocks": params
+        "num_clusters": num_clusters,
+        "clusters": params
     }
+
 
 
 PIXELATION_FUNCTIONS = {
     "global": global_pixelation,
     "local": local_pixelation,
     "mosaic": mosaic_pixelation,
-    "isolated": isolated_blocks_pixelation
+    "isolated_small": isolated_blocks_pixelation,
+    "isolated_medium": isolated_blocks_pixelation,
+    "isolated_big": isolated_blocks_pixelation
 }
+
+
 
 
 def sample_num_pixelations(distribution: dict):
