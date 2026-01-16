@@ -19,10 +19,10 @@ def apply_defocus_blur(image, strength="normal"):
         kernel_sizes = [61, 81, 101, 121, 151]
         passes = 3
     elif strength == "random_low":
-        kernel_sizes = [5, 7, 9, 15, 21, 31, 41, 61, 81]
+        kernel_sizes = [5, 7, 9, 15, 21, 25, 31, 41, 61, 81]
         passes = random.randint(1, 3)
     elif strength == "random_strong":
-        kernel_sizes = [31, 41, 61, 81, 101, 121, 151]
+        kernel_sizes = [23, 25, 31, 35, 41, 51, 61, 81, 101, 121, 151]
         passes = random.randint(1, 3)
     elif isinstance(strength, list):
         kernel_sizes = strength
@@ -73,12 +73,16 @@ def process_folder_defocus_blur(
             print(f"Erro ao ler: {img_path}")
             continue
 
-        blurred, k = apply_defocus_blur(image, strength=strength)
+        blurred, info = apply_defocus_blur(image, strength=strength)
 
-        # opcional: incluir o kernel no nome do ficheiro
-        output_name = f"{img_path.stem}_defocus_k{k}{img_path.suffix}"
+        k = info["kernel"]
+        passes = info["passes"]
+
+        output_name = f"{img_path.stem}_defocus_k{k}_p{passes}{img_path.suffix}"
         output_path = output_dir / output_name
 
-        cv2.imwrite(str(output_path), blurred)
+        ok = cv2.imwrite(str(output_path), blurred)
+        if not ok:
+            print(f"Erro ao guardar: {output_path}")
 
-        print(f"{img_path.name} -> {output_name} (k={k})")
+        print(f"{img_path.name} -> {output_name} (kernel={k}, passes={passes})")

@@ -33,6 +33,10 @@ def run_degradations_pipeline(
     path_output = Path(path_output)
     path_output.mkdir(parents=True, exist_ok=True)
 
+    print(f"Input: {path_input}")
+    print(f"Output: {path_output}")
+
+
     print("\nEscolhe o tipo de degradação:")
     print("[1] Defocused Blur")
     print("[2] Noisy")
