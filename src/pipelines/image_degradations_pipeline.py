@@ -141,7 +141,7 @@ def run_degradations_pipeline(
 
             # Blocos médios
             "isolated_medium": {
-                "block_range": (45, 100),            # píxeis médios
+                "block_range": (45, 100),          
                 "num_clusters_range": (5, 10),
                 "blocks_per_cluster_range": (2, 10),
                 "size_range": (50, 200),
@@ -150,9 +150,9 @@ def run_degradations_pipeline(
 
             # Blocos enormes
             "isolated_big": {
-                "block_range": (100, 230),            # píxeis gigantes
-                "num_clusters_range": (1, 5),
-                "blocks_per_cluster_range": (1, 2),
+                "block_range": (100, 230),           
+                "num_clusters_range": (2, 5),
+                "blocks_per_cluster_range": (1, 3),
                 "size_range": (120, 400),
                 "cluster_radius_range": (150, 1000)
             }
