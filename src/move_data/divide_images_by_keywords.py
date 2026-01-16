@@ -1,6 +1,11 @@
 from pathlib import Path
 import shutil
 
+from utils.path_loader import load_paths
+paths = load_paths()
+
+TRAIN_IMAGES_PERSONAL_ROOT = paths["train_personal_images"]
+
 def split_images_by_keywords(
     input_dir,
     output_dir,
@@ -53,8 +58,8 @@ def split_images_by_keywords(
 keywords = ["-sharp", "-blur", "-partial_blur"]
 
 split_images_by_keywords(
-    input_dir=r"C:\Users\danie\Desktop\My_Things\Hobbies\VSCODE\Data\Personal\1",
-    output_dir=r"C:\Users\danie\Desktop\My_Things\Hobbies\VSCODE\Data\Personal\1_1",
+    input_dir=TRAIN_IMAGES_PERSONAL_ROOT / "1",
+    output_dir=TRAIN_IMAGES_PERSONAL_ROOT / "1_1",
     keywords=keywords,
     move_files=False   # False = copia, True = move
 )

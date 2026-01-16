@@ -36,6 +36,7 @@ def load_paths():
 
         "train_random_images": get_env("TRAIN_IMAGES_RANDOM_ROOT"),
         "train_video_images": get_env("TRAIN_IMAGES_VIDEO_ROOT"),
+        "train_personal_images": get_env("TRAIN_IMAGES_PERSONAL_ROOT"),
 
         # -------------------------
         # Dados
