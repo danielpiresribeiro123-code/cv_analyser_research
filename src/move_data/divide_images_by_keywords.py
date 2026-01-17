@@ -55,11 +55,11 @@ def split_images_by_keywords(
             print(f"{img_path.name} -> nenhuma keyword encontrada")
 
 
-keywords = ["-sharp", "-blur", "-partial_blur"]
+keywords = ["-sharp", "-motion_blur", "-partial_blur"]
 
 split_images_by_keywords(
-    input_dir=TRAIN_IMAGES_PERSONAL_ROOT / "1",
-    output_dir=TRAIN_IMAGES_PERSONAL_ROOT / "1_1",
+    input_dir=TRAIN_IMAGES_PERSONAL_ROOT / "2",
+    output_dir=TRAIN_IMAGES_PERSONAL_ROOT / "2_1",
     keywords=keywords,
     move_files=False   # False = copia, True = move
 )

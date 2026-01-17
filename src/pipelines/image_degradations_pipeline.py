@@ -11,7 +11,8 @@ TRAIN_IMAGES_RANDOM_ROOT = paths["train_random_images"]
 from data_edit.image_degradations.defocused_blur import process_folder_defocus_blur
 from data_edit.image_degradations.noise import process_folder_noise
 from data_edit.image_degradations.pixelation import process_folder_pixelation
-
+from data_edit.image_degradations.jpeg_compression import process_folder_compression
+from data_edit.image_degradations.fast_fading_rayleigh import process_folder_channel
 
 
 
@@ -36,19 +37,25 @@ def run_degradations_pipeline(
     print(f"Input: {path_input}")
     print(f"Output: {path_output}")
 
-
+    # Opções
     print("\nEscolhe o tipo de degradação:")
     print("[1] Defocused Blur")
     print("[2] Noisy")
     print("[3] Very Noisy")
-    print("[4] Pixelation")
-    print("[5] Todas")
+    print("[4] Pixelated")
+    print("[5] Very Pixelated")
+    print("[6] JPEG / JPEG2000 (Compression)")
+    print("[7] JPEG2000 + Fast Fading Rayleigh (Channel Errors)")
+    print("[8] Todas")
+
     escolha = input("Opção: ").strip().lower()
+    ALL = escolha in ["8", "all", "todos"]
 
     # -----------------------------
-    # DEFUSED BLUR
+    # DEFOCUSED BLUR
     # -----------------------------
-    if escolha in ["1", "blur", "defocused", "defocused_blur", "d", "5"]:
+    if escolha in ["1", "blur", "defocused", "defocused_blur", "d", "db","d_b"] or ALL:
+        (path_output / "defocused").mkdir(parents=True, exist_ok=True)
         print("\nA aplicar Defocused Blur...")
         process_folder_defocus_blur(
             input_dir=path_input,
@@ -59,7 +66,8 @@ def run_degradations_pipeline(
     # -----------------------------
     # NOISY
     # -----------------------------
-    if escolha in ["2", "noisy", "n", "5"]:
+    if escolha in ["2", "noisy", "noise", "n", "no"] or ALL:
+        (path_output / "noisy").mkdir(parents=True, exist_ok=True)
         print("\nA aplicar Noisy...")
 
         num_noises_distribution = {
@@ -87,7 +95,8 @@ def run_degradations_pipeline(
     # -----------------------------
     # VERY NOISY
     # -----------------------------
-    if escolha in ["3", "very_noisy", "vn", "5"]:
+    if escolha in ["3", "very_noisy", "vn", "v_n", "v_noisy", "vnoise"] or ALL:
+        (path_output / "very_noisy").mkdir(parents=True, exist_ok=True)
         print("\nA aplicar Very Noisy...")
 
         num_noises_distribution = {
@@ -113,10 +122,11 @@ def run_degradations_pipeline(
         )
 
     # -----------------------------
-    # PIXELATION
+    # PIXELATED
     # -----------------------------
-    if escolha in ["4", "pixelation", "pixel", "p", "5"]:
-        print("\nA aplicar Pixelation...")
+    if escolha in ["4", "pixelation", "pixelated", "pixel", "p"] or ALL:
+        (path_output / "pixelated").mkdir(parents=True, exist_ok=True)
+        print("\nA aplicar Pixelated...")
 
         num_pixelations_distribution = {
             1: 0.6,
@@ -126,9 +136,8 @@ def run_degradations_pipeline(
         }
 
         strengths_pixelated = {
-            "global": {"block_range": (12, 40)},
-            "local": {"block_range": (15, 60), "area_range": (0.2, 0.5)},
-            "mosaic": {"block_range": (20, 80), "num_patches_range": (2, 6)},
+            "mosaic_small": {"block_range": (10, 55), "num_patches_range": (4, 12)},
+            "mosaic_big": {"block_range": (50, 100), "num_patches_range": (1, 6)},
 
             # Blocos grandes
             "isolated_small": {
@@ -167,6 +176,98 @@ def run_degradations_pipeline(
             num_pixelations_distribution=num_pixelations_distribution,
             strength_ranges=strengths_pixelated
         )
+
+    # -----------------------------
+    # VERY PIXELATED
+    # -----------------------------
+    if escolha in ["5", "very_pixelated", "v_pixelated","vpixelated", "very_pixelation", "vpixel", "vp"] or ALL:
+        (path_output / "very_pixelated").mkdir(parents=True, exist_ok=True)
+        print("\nA aplicar Very Pixelated...")
+
+        num_pixelations_distribution = {
+            1: 0.70,
+            2: 0.23,
+            3: 0.06,
+            4: 0.01,
+        }
+
+        strengths_pixelated = {
+            "global_small": {"block_range": (5, 30)},
+            "global_big": {"block_range": (31, 60)},
+            "mosaic_big": {"block_range": (50, 120), "num_patches_range": (10, 20)},
+            "isolated_small": {
+                "block_range": (10, 45),            # píxel relativamente fino
+                "num_clusters_range": (30, 60),      # quantos aglomerados aparecem
+                "blocks_per_cluster_range": (5, 30), # quantos “píxeis grandes” por aglomerado
+                "size_range": (20, 100),             # tamanho de cada bloco
+                "cluster_radius_range": (300, 2000)   # quão compacto é cada aglomerado
+            },
+            "isolated_big": {
+                "block_range": (100, 230),           
+                "num_clusters_range": (9, 20),
+                "blocks_per_cluster_range": (1, 4),
+                "size_range": (120, 500),
+                "cluster_radius_range": (300, 2500)
+            }
+        }
+
+
+
+        process_folder_pixelation(
+            input_dir=path_input,
+            output_dir=path_output / "very_pixelated",
+            pixelation_types="all",
+            num_pixelations_distribution=num_pixelations_distribution,
+            strength_ranges=strengths_pixelated
+        )
+    # -----------------------------
+    # JPEG / JPEG2000 COMPRESSION
+    # -----------------------------
+    if escolha in ["6", "jpeg", "compression", "c", "jpeg_compression","comp"] or ALL:
+        (path_output / "jpeg_compression").mkdir(parents=True, exist_ok=True)
+        print("\nA aplicar JPEG / JPEG2000 Compression...")
+
+        strengths_compression = {
+            "jpeg": {
+                "quality_range": (5, 50)      # compressão forte a média
+            },
+            "jpeg2000": {
+                "rate_range": (0.15, 2.5)     # em bits por pixel, como no LIVE IQA
+            }
+        }
+
+        process_folder_compression(
+            input_dir=path_input,
+            output_dir=path_output / "jpeg_compression",
+            compression_types="all",
+            strength_ranges=strengths_compression,
+            use_kakadu=False   # muda para True se tiveres Kakadu real instalado
+        )
+
+    # -----------------------------
+    # FAST FADING RAYLEIGH
+    # -----------------------------
+    if escolha in ["7", "rayleigh", "fast_fading_rayleigh", "fastfading", "ffr","ff", "channel"] or ALL:
+        (path_output / "fast_fading_rayleigh").mkdir(parents=True, exist_ok=True)
+        print("\nA aplicar Fast Fading Rayleigh Channel...")
+
+        strengths_channel = {
+            "fast_fading_rayleigh": {
+                "snr_range": (2, 25)   # SNR baixo → muito erro, alto → pouco erro
+            }
+        }
+
+        process_folder_channel(
+            input_dir=path_input,
+            output_dir=path_output / "fast_fading_rayleigh",
+            channel_types="all",
+            strength_ranges=strengths_channel
+        )
+    
+    print("\nPipeline terminada com sucesso.")
+
+
+
 
 if __name__ == "__main__":
     run_degradations_pipeline(

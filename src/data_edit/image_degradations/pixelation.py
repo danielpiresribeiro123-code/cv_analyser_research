@@ -23,29 +23,6 @@ def global_pixelation(image, block_range=(6, 40)):
     return pixelate(image, block_size), {"block_size": block_size}
 
 
-def local_pixelation(image, block_range=(6, 40), area_range=(0.2, 0.6)):
-    h, w = image.shape[:2]
-    block_size = random.randint(*block_range)
-
-    area_ratio = random.uniform(*area_range)
-    patch_w = int(w * area_ratio)
-    patch_h = int(h * area_ratio)
-
-    x = random.randint(0, w - patch_w)
-    y = random.randint(0, h - patch_h)
-
-    patch = image[y:y+patch_h, x:x+patch_w]
-    pixel_patch = pixelate(patch, block_size)
-
-    output = image.copy()
-    output[y:y+patch_h, x:x+patch_w] = pixel_patch
-
-    return output, {
-        "block_size": block_size,
-        "x": x, "y": y,
-        "patch_w": patch_w, "patch_h": patch_h
-    }
-
 
 def mosaic_pixelation(image, block_range=(8, 50), num_patches_range=(3, 8)):
     h, w = image.shape[:2]
@@ -163,9 +140,10 @@ def isolated_blocks_pixelation(
 
 
 PIXELATION_FUNCTIONS = {
-    "global": global_pixelation,
-    "local": local_pixelation,
-    "mosaic": mosaic_pixelation,
+    "global_small": global_pixelation,
+    "global_big": global_pixelation,
+    "mosaic_small": mosaic_pixelation,
+    "mosaic_big": mosaic_pixelation,
     "isolated_small": isolated_blocks_pixelation,
     "isolated_medium": isolated_blocks_pixelation,
     "isolated_big": isolated_blocks_pixelation
