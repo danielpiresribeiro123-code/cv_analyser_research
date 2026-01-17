@@ -22,12 +22,13 @@ def salt_and_pepper_noise(image, amount_range=(0.001, 0.02), salt_vs_pepper=0.5)
 
     # Salt
     num_salt = int(num_pixels * salt_vs_pepper)
-    coords = [np.random.randint(0, i - 1, num_salt) for i in (h, w)]
+    coords = [np.random.randint(0, i, num_salt) for i in (h, w)]
+
     noisy[coords[0], coords[1], :] = 255
 
     # Pepper
     num_pepper = int(num_pixels * (1 - salt_vs_pepper))
-    coords = [np.random.randint(0, i - 1, num_pepper) for i in (h, w)]
+    coords = [np.random.randint(0, i, num_pepper) for i in (h, w)]
     noisy[coords[0], coords[1], :] = 0
 
     return noisy, {"amount": amount}
@@ -40,19 +41,140 @@ def speckle_noise(image, std_range=(0.05, 0.3)):
     return np.clip(noisy, 0, 255).astype(np.uint8), {"std": std}
 
 
-def poisson_noise(image, scale_range=(0.5, 2.0)):
+def poisson_noise(image, scale_range=(0.5, 5.0)):
     scale = random.uniform(*scale_range)
-    vals = len(np.unique(image))
-    vals = 2 ** np.ceil(np.log2(vals))
-    noisy = np.random.poisson(image.astype(np.float32) * vals * scale) / (vals * scale)
+
+    image_f = image.astype(np.float32)
+
+    # normalizar para [0,1]
+    image_norm = image_f / 255.0
+
+    # aplicar Poisson
+    noisy = np.random.poisson(image_norm * scale) / scale
+
+    # voltar para [0,255]
+    noisy = noisy * 255.0
+
     return np.clip(noisy, 0, 255).astype(np.uint8), {"scale": scale}
 
+
+def _get_luminance(img):
+    # img em BGR (OpenCV)
+    return 0.114*img[:,:,0] + 0.587*img[:,:,1] + 0.299*img[:,:,2]
+
+
+def luminance_gaussian_noise(image, std_range=(5, 25)):
+    std = random.uniform(*std_range)
+
+    img = image.astype(np.float32)
+    lum = _get_luminance(img)
+
+    noise = np.random.normal(0, std, lum.shape).astype(np.float32)
+    lum_noisy = lum + noise
+
+    delta = lum_noisy - lum
+    img[:,:,0] += delta
+    img[:,:,1] += delta
+    img[:,:,2] += delta
+
+    return np.clip(img, 0, 255).astype(np.uint8), {
+        "std": std,
+        "mode": "luminance"
+    }
+
+
+def luminance_poisson_noise(image, scale_range=(0.5, 5.0)):
+    scale = random.uniform(*scale_range)
+
+    img = image.astype(np.float32)
+    lum = _get_luminance(img) / 255.0
+
+    noisy = np.random.poisson(lum * scale) / scale
+    noisy = noisy * 255.0
+
+    delta = noisy - (lum * 255.0)
+    img[:,:,0] += delta
+    img[:,:,1] += delta
+    img[:,:,2] += delta
+
+    return np.clip(img, 0, 255).astype(np.uint8), {
+        "scale": scale,
+        "mode": "luminance"
+    }
+
+def luminance_speckle_noise(image, std_range=(0.05, 0.3)):
+    std = random.uniform(*std_range)
+
+    img = image.astype(np.float32)
+    lum = _get_luminance(img)
+
+    noise = np.random.normal(0, std, lum.shape).astype(np.float32)
+    lum_noisy = lum + lum * noise
+
+    delta = lum_noisy - lum
+    img[:,:,0] += delta
+    img[:,:,1] += delta
+    img[:,:,2] += delta
+
+    return np.clip(img, 0, 255).astype(np.uint8), {
+        "std": std,
+        "mode": "luminance"
+    }
+
+def uniform_noise(image, range_val=(5, 30)):
+    a = random.uniform(*range_val)
+    noise = np.random.uniform(-a, a, image.shape).astype(np.float32)
+    noisy = image.astype(np.float32) + noise
+    return np.clip(noisy, 0, 255).astype(np.uint8), {"range": a}
+"""
+def banding_noise(image, amplitude_range=(10, 60), frequency_range=(2, 10), orientation=None):
+    amp = random.uniform(*amplitude_range)
+    freq = random.randint(*frequency_range)
+
+    img = image.astype(np.float32)
+    h, w, _ = img.shape
+
+    if orientation is None:
+        orientation = random.choice(["horizontal", "vertical"])
+
+    if orientation == "horizontal":
+        # várias ondas ao longo da altura
+        x = np.linspace(0, 2*np.pi * freq, h)
+        band = np.sin(x).reshape(h, 1) * amp
+    else:
+        # várias ondas ao longo da largura
+        x = np.linspace(0, 2*np.pi * freq, w)
+        band = np.sin(x).reshape(1, w) * amp
+
+    img[:,:,0] += band
+    img[:,:,1] += band
+    img[:,:,2] += band
+
+    return np.clip(img, 0, 255).astype(np.uint8), {
+        "amplitude": amp,
+        "frequency": freq,
+        "orientation": orientation
+    }
+"""
+
+
 NOISE_FUNCTIONS = {
+    # RGB noise (colorido)
     "gaussian": gaussian_noise,
     "salt_pepper": salt_and_pepper_noise,
     "speckle": speckle_noise,
     "poisson": poisson_noise,
+    "uniform": uniform_noise,
+
+    # Luminance noise (fotográfico, realista)
+    "lum_gaussian": luminance_gaussian_noise,
+    "lum_poisson": luminance_poisson_noise,
+    "lum_speckle": luminance_speckle_noise,
+
+    # Estrutural / sensor
+    #"banding": banding_noise, não usado
 }
+
 
 def sample_num_noises(distribution: dict):
     """

@@ -71,18 +71,29 @@ def run_degradations_pipeline(
         print("\nA aplicar Noisy...")
 
         num_noises_distribution = {
-            1: 0.6,
-            2: 0.3,
-            3: 0.09,
+            1: 0.75,
+            2: 0.2,
+            3: 0.04,
             4: 0.01
         }
 
         strengths_noisy = {
-            "gaussian": {"std_range": (10, 35)},
-            "salt_pepper": {"amount_range": (0.005, 0.07)},
-            "speckle": {"std_range": (0.08, 0.4)},
-            "poisson": {"scale_range": (0.9, 3.5)}
-        }
+            # RGB noise (moderado)
+            "gaussian": {"std_range": (8, 35)},
+            "salt_pepper": {"amount_range": (0.003, 0.05)},
+            "speckle": {"std_range": (0.05, 0.35)},
+            "poisson": {"scale_range": (2.5, 7.0)},
+            "uniform": {"range_val": (5, 25)},
+
+            # Luminance noise (mais suave)
+            "lum_gaussian": {"std_range": (3, 18)},
+            "lum_poisson": {"scale_range": (2.5, 7.0)},
+            "lum_speckle": {"std_range": (0.03, 0.25)},
+
+            # Estrutural
+            #"banding": {"amplitude_range": (8, 25),"frequency_range": (2, 5)}
+            }
+
 
         process_folder_noise(
             input_dir=path_input,
@@ -92,6 +103,7 @@ def run_degradations_pipeline(
             strength_ranges=strengths_noisy
         )
 
+
     # -----------------------------
     # VERY NOISY
     # -----------------------------
@@ -100,18 +112,29 @@ def run_degradations_pipeline(
         print("\nA aplicar Very Noisy...")
 
         num_noises_distribution = {
-            1: 0.6,
-            2: 0.3,
-            3: 0.09,
+            1: 0.75,
+            2: 0.2,
+            3: 0.04,
             4: 0.01
         }
 
         strengths_very_noisy = {
-            "gaussian": {"std_range": (39, 110)},
-            "salt_pepper": {"amount_range": (0.08, 0.3)},
-            "speckle": {"std_range": (0.45, 1.1)},
-            "poisson": {"scale_range": (3.5, 8.0)}
-        }
+            # RGB noise (forte / destrutivo)
+            "gaussian": {"std_range": (45, 220)},
+            "salt_pepper": {"amount_range": (0.08, 0.6)},
+            "speckle": {"std_range": (0.6, 4.0)},
+            "poisson": {"scale_range": (0.2, 2.4)},
+            "uniform": {"range_val": (30, 120)},
+
+            # Luminance noise (forte mas ainda fotográfico)
+            "lum_gaussian": {"std_range": (20, 80)},
+            "lum_poisson": {"scale_range": (0.2, 2.4)},
+            "lum_speckle": {"std_range": (0.3, 1.5)},
+
+            # Estrutural
+            #"banding": {"amplitude_range": (26, 80),"frequency_range": (5, 12)}
+            }
+
 
         process_folder_noise(
             input_dir=path_input,
@@ -120,6 +143,7 @@ def run_degradations_pipeline(
             num_noises_distribution=num_noises_distribution,
             strength_ranges=strengths_very_noisy
         )
+
 
     # -----------------------------
     # PIXELATED
@@ -172,7 +196,7 @@ def run_degradations_pipeline(
         process_folder_pixelation(
             input_dir=path_input,
             output_dir=path_output / "pixelated",
-            pixelation_types="all",
+            pixelation_types="p",
             num_pixelations_distribution=num_pixelations_distribution,
             strength_ranges=strengths_pixelated
         )
@@ -192,22 +216,23 @@ def run_degradations_pipeline(
         }
 
         strengths_pixelated = {
-            "global_small": {"block_range": (5, 30)},
-            "global_big": {"block_range": (31, 60)},
-            "mosaic_big": {"block_range": (50, 120), "num_patches_range": (10, 20)},
+            "global_small": {"block_range": (10, 35)},
+            "global_big": {"block_range": (36, 70)},
+            "mosaic_small": {"block_range": (10, 40), "num_patches_range": (150, 300)},
+            "mosaic_big": {"block_range": (50, 250), "num_patches_range": (40, 100)},
             "isolated_small": {
                 "block_range": (10, 45),            # píxel relativamente fino
-                "num_clusters_range": (30, 60),      # quantos aglomerados aparecem
-                "blocks_per_cluster_range": (5, 30), # quantos “píxeis grandes” por aglomerado
-                "size_range": (20, 100),             # tamanho de cada bloco
-                "cluster_radius_range": (300, 2000)   # quão compacto é cada aglomerado
+                "num_clusters_range": (50, 100),      # quantos aglomerados aparecem
+                "blocks_per_cluster_range": (8, 40), # quantos “píxeis grandes” por aglomerado
+                "size_range": (50, 500),             # tamanho de cada bloco
+                "cluster_radius_range": (200, 2000)   # quão compacto é cada aglomerado
             },
             "isolated_big": {
                 "block_range": (100, 230),           
-                "num_clusters_range": (9, 20),
-                "blocks_per_cluster_range": (1, 4),
-                "size_range": (120, 500),
-                "cluster_radius_range": (300, 2500)
+                "num_clusters_range": (15, 50),
+                "blocks_per_cluster_range": (1, 5),
+                "size_range": (50, 500),
+                "cluster_radius_range": (200, 2500)
             }
         }
 
@@ -216,7 +241,7 @@ def run_degradations_pipeline(
         process_folder_pixelation(
             input_dir=path_input,
             output_dir=path_output / "very_pixelated",
-            pixelation_types="all",
+            pixelation_types="vp",
             num_pixelations_distribution=num_pixelations_distribution,
             strength_ranges=strengths_pixelated
         )
@@ -232,7 +257,7 @@ def run_degradations_pipeline(
                 "quality_range": (5, 50)      # compressão forte a média
             },
             "jpeg2000": {
-                "rate_range": (0.15, 2.5)     # em bits por pixel, como no LIVE IQA
+                "rate_range": (0.01, 0.05)     # em bits por pixel, como no LIVE IQA
             }
         }
 

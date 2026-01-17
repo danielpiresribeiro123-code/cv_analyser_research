@@ -3,9 +3,9 @@ import pandas as pd
 import numpy as np
 from tqdm import tqdm
 
-from data_extraction.features import (
-    extract_quality_features_from_path,
-    extract_clustering_features_from_path,
+from data_features.features_extractors import (
+    extrair_features_qualidade_path,
+    extrair_features_clustering_path,
 )
 
 IMG_EXTS = {".jpg", ".jpeg", ".png", ".bmp", ".tif", ".tiff", ".webp"}
@@ -19,8 +19,6 @@ FLATTEN_ALLOW = {
     "c_lightness_grid",
     "c_orb_desc_mean",
     "c_orb_desc_std",
-
-    # quality (escalares já vêm bem)
 }
 
 # Features que devem ser RESUMIDAS (não achatadas)
@@ -29,14 +27,7 @@ REDUCE_STATS = {
 }
 
 
-
 def _flatten_features(prefix: str, feats: dict) -> dict:
-    """
-    Converte features que sejam np.ndarray/list em colunas escalares:
-    - { "color_hist_hsv": array([..]) } -> { "color_hist_hsv_000": ..., ... }
-    Mantém escalares como estão.
-    Ignora None.
-    """
     out = {}
     for k, v in feats.items():
         if v is None:
@@ -45,14 +36,12 @@ def _flatten_features(prefix: str, feats: dict) -> dict:
         key = f"{prefix}{k}" if prefix else k
 
         if isinstance(v, np.ndarray):
-            # Caso 1: resumir (ex: geometry_edges)
             if key in REDUCE_STATS:
                 out[f"{key}_mean"] = float(np.mean(v))
                 out[f"{key}_std"] = float(np.std(v))
                 out[f"{key}_energy"] = float(np.sum(v ** 2))
                 continue  
 
-            # Caso 2: achatar apenas se permitido
             if key not in FLATTEN_ALLOW:
                 continue  
 
@@ -77,35 +66,33 @@ def _flatten_features(prefix: str, feats: dict) -> dict:
     return out
 
 
-
 def build_dataset(
     images_dir: str | Path,
     output_csv: str | Path | None = None,
     with_label: bool = True,
+    class_names: list[str] | None = None,
     feature_set: str = "both",  # "quality" | "clustering" | "both"
     return_df: bool = True,
 ):
     """
-    Cria um dataset de features a partir de um diretório de imagens.
+    Modos de funcionamento:
 
-    Estrutura esperada (with_label=True):
+    1) Com classes explícitas:
+        build_dataset(..., with_label=True, class_names=["Good", "Noisy", "Blur"])
 
-        images_dir/
-            Defocused Blur/
-                (pode ter imagens diretamente ou subpastas)
-            Good/
-                kwentar-sharp/
-                personal-sharp/
-                ...
-            Motion Blur/
-            Noisy/
-            Pixelated/
-            Very Noisy/
+       Espera:
+           images_dir/
+               Good/
+               Noisy/
+               Blur/
 
-    As labels são strings:
-        "Defocused Blur", "Good", "Motion Blur", "Noisy", "Pixelated", "Very Noisy"
+    2) Labels automáticas pelo nome da pasta:
+        build_dataset(..., with_label=True, class_names=None)
 
-    A função percorre recursivamente todas as subpastas de cada classe.
+       A label de cada imagem será o nome da pasta onde ela está.
+
+    3) Sem labels:
+        build_dataset(..., with_label=False)
     """
 
     images_dir = Path(images_dir)
@@ -119,13 +106,13 @@ def build_dataset(
         feats = {}
 
         if feature_set in {"quality", "both"}:
-            q = extract_quality_features_from_path(img_path)
+            q = extrair_features_qualidade_path(img_path)
             if q is None:
                 return
             feats.update(_flatten_features("q_", q))
 
         if feature_set in {"clustering", "both"}:
-            c = extract_clustering_features_from_path(img_path)
+            c = extrair_features_clustering_path(img_path)
             if c is None:
                 return
             feats.update(_flatten_features("c_", c))
@@ -136,34 +123,46 @@ def build_dataset(
         row.update(feats)
         rows.append(row)
 
+    # -------------------------------------------------
+    # COM LABELS
+    # -------------------------------------------------
     if with_label:
 
-        class_names = [
-            "Defocused Blur",
-            "Good",
-            "Motion Blur",
-            "Noisy",
-            "Pixelated",
-            "Very Noisy",
-        ]
+        # Caso 1: classes fornecidas explicitamente
+        if class_names is not None:
+            for class_name in class_names:
+                class_path = images_dir / class_name
 
-        for class_name in class_names:
-            class_path = images_dir / class_name
+                if not class_path.exists():
+                    raise ValueError(f"Pasta não encontrada: {class_path}")
 
-            if not class_path.exists():
-                raise ValueError(f"Pasta não encontrada: {class_path}")
+                for img_path in tqdm(
+                    class_path.rglob("*"),
+                    desc=f"Processando {class_name}"
+                ):
+                    if not img_path.is_file():
+                        continue
+                    if img_path.suffix.lower() not in IMG_EXTS:
+                        continue
 
-            # Percurso recursivo: aceita imagens em qualquer subpasta
-            for img_path in tqdm(class_path.rglob("*"), desc=f"Processando {class_name}"):
+                    process_one(img_path, class_name)
+
+        # Caso 2: labels automáticas pelo nome da pasta
+        else:
+            for img_path in tqdm(images_dir.rglob("*"), desc="Processando imagens"):
                 if not img_path.is_file():
                     continue
                 if img_path.suffix.lower() not in IMG_EXTS:
                     continue
 
-                process_one(img_path, class_name)
+                # label = nome da pasta onde a imagem está
+                label = img_path.parent.name
+                process_one(img_path, label)
 
+    # -------------------------------------------------
+    # SEM LABELS
+    # -------------------------------------------------
     else:
-        # Sem labels: percorre todo o diretório recursivamente
         for img_path in tqdm(images_dir.rglob("*"), desc="Processando imagens"):
             if not img_path.is_file():
                 continue
@@ -179,9 +178,40 @@ def build_dataset(
         output_csv.parent.mkdir(parents=True, exist_ok=True)
         df.to_csv(output_csv, index=False)
     else:
-        print("Esqueceste-te da variável output_csv na função!")
+        print("Aviso: output_csv não foi fornecido, apenas devolvo o DataFrame.")
 
     if return_df:
         return df
 
     return None
+
+
+
+"""
+Exemplos de uso:
+Classes explícitas:
+build_dataset(
+    "data/images",
+    "dataset.csv",
+    with_label=True,
+    class_names=["Good", "Noisy", "Defocused Blur"]
+)
+
+
+Labels automáticas:
+build_dataset(
+    "data/images",
+    "dataset.csv",
+    with_label=True,
+    class_names=None
+)
+
+
+Sem labels:
+build_dataset(
+    "data/images",
+    "dataset.csv",
+    with_label=False
+)
+
+"""

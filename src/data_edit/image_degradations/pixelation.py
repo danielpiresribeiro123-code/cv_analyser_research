@@ -149,7 +149,22 @@ PIXELATION_FUNCTIONS = {
     "isolated_big": isolated_blocks_pixelation
 }
 
+P_PIXELATION_FUNCTIONS = {
+    "mosaic_small": mosaic_pixelation,
+    "mosaic_big": mosaic_pixelation,
+    "isolated_small": isolated_blocks_pixelation,
+    "isolated_medium": isolated_blocks_pixelation,
+    "isolated_big": isolated_blocks_pixelation
+}
 
+VP_PIXELATION_FUNCTIONS = {
+    "global_small": global_pixelation,
+    "global_big": global_pixelation,
+    "mosaic_small": mosaic_pixelation,
+    "mosaic_big": mosaic_pixelation,
+    "isolated_small": isolated_blocks_pixelation,
+    "isolated_big": isolated_blocks_pixelation
+}
 
 
 def sample_num_pixelations(distribution: dict):
@@ -166,13 +181,17 @@ def apply_random_pixelation(
     num_pixelations=1,
     num_pixelations_distribution=None,
     strength_ranges=None
-):
-    if pixelation_types == "all":
+):  
+    if pixelation_types == "all" or pixelation_types == "p" or pixelation_types == "vp":
+        if pixelation_types == "p":
+            PIXELATION_FUNCTIONS = P_PIXELATION_FUNCTIONS
+        else:
+            PIXELATION_FUNCTIONS = VP_PIXELATION_FUNCTIONS
         available = list(PIXELATION_FUNCTIONS.keys())
     elif isinstance(pixelation_types, list):
         available = pixelation_types
     else:
-        raise ValueError("pixelation_types must be 'all' or list")
+        raise ValueError("pixelation_types must be 'all', 'p', 'vp' or list")
 
     # Escolher quantas pixelations aplicar
     if num_pixelations_distribution is not None:
