@@ -1,125 +1,109 @@
 import cv2
-from data_features.roi_analysis import analisar_roi, get_center_crop
-
-from data_features.features.color_features import color_hist_hsv,color_stats,lightness_stats,saturation_stats,brightness_stats,colorfulness,lightness_grid
+from data_features.features.blur_features import blur_grid_features
+from data_features.features.color_features import (color_hist_hsv,color_stats,lightness_stats,
+    saturation_stats,brightness_stats,colorfulness,lightness_grid)
 from data_features.features.texture_features import texture_lbp
 from data_features.features.geometry_features import geometry_edges_signature,shape_hu_moments
 from data_features.features.orb_features import geometry_orb,orb_descriptor_stats,orb_kp_stats
+from data_features.roi_analysis import analisar_roi
 
-
-def extrair_features_qualidade(
-    image,
-    log_sigma=1.0,
-    log_quantile=0.999
-):
-    """
-    Features escalares para:
-    - decidir se a imagem é utilizável
-    - rankear imagens semelhantes
-    """
+def extrair_features_common(image):
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     features = {}
 
-    # -------------------------
-    # Qualidade global
-    # -------------------------
-    quality = analisar_roi(gray, log_sigma, log_quantile)
-    for k, v in quality.items():
-        features[f"quality_{k}"] = float(v)
+    # Cor e iluminação
+    features["c_color_hist_hsv"] = color_hist_hsv(image)
+    features["c_color_stats"] = color_stats(image)
+    for k, v in lightness_stats(image).items():
+        features[f"c_{k}"] = v
+    for k, v in saturation_stats(image).items():
+        features[f"c_{k}"] = v
+    for k, v in brightness_stats(image).items():
+        features[f"c_{k}"] = v
+    features["c_colorfulness"] = colorfulness(image)
+    features["c_lightness_grid"] = lightness_grid(image)
 
-    # -------------------------
-    # Centro (foco / subject bias)
-    # -------------------------
-    roi = get_center_crop(gray, 0.3)
-    roi_q = analisar_roi(roi, log_sigma, log_quantile)
+    # Textura
+    features["c_texture_lbp"] = texture_lbp(gray)
 
-    features["center_laplacian_ratio"] = (
-        roi_q["laplacian_var"] /
-        (quality["laplacian_var"] + 1e-6)
-    )
+    # Geometria global
+    features["c_geometry_edges"] = geometry_edges_signature(gray)
+    features["c_geometry_hu"] = shape_hu_moments(gray)
 
-    # -------------------------
-    # Capacidade para reconstrução 3D (ORB)
-    # -------------------------
+    # ORB (estatísticas básicas)
     orb_stats = orb_kp_stats(gray)
+    for k, v in orb_stats.items():
+        features[f"c_{k}"] = float(v)
 
-    features["orb_kp_count"] = orb_stats["orb_kp_count"]
-    features["orb_kp_entropy"] = orb_stats["orb_kp_entropy"]
-    features["orb_response_mean"] = orb_stats["orb_response_mean"]
-    features["orb_size_mean"] = orb_stats["orb_size_mean"]
+    # Blur grid
+    blur_grid = blur_grid_features(gray, grid=4)
+
+    # Common
+    features["c_blur_lap_mean"]  = blur_grid["blur_lap_mean"]
+    features["c_blur_lap_ratio"] = blur_grid["blur_lap_ratio"]
+    features["c_blur_lap_ratio_max"] = blur_grid["blur_lap_ratio"]
+    features["c_blur_ten_ratio"] = blur_grid["blur_ten_ratio"]
+    features["c_blur_ten_ratio_max"] = blur_grid["blur_ten_ratio"]
+
+    # Blur grid completo, rico, só para qualidade
+    features["q_blur_lap_std"]   = blur_grid["blur_lap_std"]
+    features["q_blur_lap_p10"]   = blur_grid["blur_lap_p10"]
+    features["q_blur_lap_p90"]   = blur_grid["blur_lap_p90"]
+    features["q_blur_lap_max"]   = blur_grid["blur_lap_max"]
+
+    features["q_blur_ten_mean"]  = blur_grid["blur_ten_mean"]
+    features["q_blur_ten_std"]   = blur_grid["blur_ten_std"]
+    features["q_blur_ten_p10"]   = blur_grid["blur_ten_p10"]
+    features["q_blur_ten_p90"]   = blur_grid["blur_ten_p90"]
+    features["q_blur_ten_max"]   = blur_grid["blur_ten_max"]
+
+    features["q_motion_mean"]  = blur_grid["motion_mean"]
+    features["q_motion_std"]   = blur_grid["motion_std"]
+    features["q_motion_p90"]   = blur_grid["motion_p90"]
+    features["q_motion_max"]   = blur_grid["motion_max"]
+    features["q_motion_ratio"]   = blur_grid["motion_ratio"]
+    features["q_motion_ratio_max"]   = blur_grid["motion_ratio"]
+
 
     return features
 
+
+def extrair_features_quality_only(image, log_sigma=1.0, log_quantile=0.999, blur_grid_size=4):
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    features = {}
+
+    # Qualidade global clássica
+    quality = analisar_roi(gray, log_sigma, log_quantile)
+    for k, v in quality.items():
+        features[f"q_{k}"] = float(v)
+
+    return features
+
+
+def extrair_features_clustering_only(image):
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    features = {}
+
+    # ORB descritores agregados
+    desc = orb_descriptor_stats(geometry_orb(gray))
+    for k, v in desc.items():
+        features[f"cl_{k}"] = float(v)
+
+    return features
+
+
+
+
+
+def extrair_features_qualidade(image):
+    features = {}
+    features.update(extrair_features_common(image))
+    features.update(extrair_features_quality_only(image))
+    return features
 
 
 def extrair_features_clustering(image):
-    """
-    Features para clustering e comparação entre imagens
-    do mesmo objecto (robustas a blur e noise).
-    """
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     features = {}
-
-    # -------------------------
-    # Cor (distribuição e estatísticas)
-    # -------------------------
-    features["color_hist_hsv"] = color_hist_hsv(image)
-    features["color_stats"] = color_stats(image)
-
-    # -------------------------
-    # Iluminação / saturação
-    # -------------------------
-    features.update(lightness_stats(image))
-    features.update(saturation_stats(image))
-    features.update(brightness_stats(image))
-
-    features["colorfulness"] = colorfulness(image)
-    features["lightness_grid"] = lightness_grid(image)
-
-    # -------------------------
-    # Textura
-    # -------------------------
-    features["texture_lbp"] = texture_lbp(gray)
-
-    # -------------------------
-    # Geometria global
-    # -------------------------
-    features["geometry_edges"] = geometry_edges_signature(gray)
-    features["geometry_hu"] = shape_hu_moments(gray)
-
-    # -------------------------
-    # Geometria local — ORB (estatísticas)
-    # -------------------------
-    features.update(
-        orb_kp_stats(gray)
-    )
-
-    # -------------------------
-    # Geometria local — ORB (descritores agregados)
-    # -------------------------
-    desc = geometry_orb(gray)
-    features.update(
-        orb_descriptor_stats(desc)
-    )
-
+    features.update(extrair_features_common(image))
+    features.update(extrair_features_clustering_only(image))
     return features
-
-
-
-
-
-def extrair_features_qualidade_path(image_path):
-    image = cv2.imread(image_path)
-    if image is None:
-        return None
-    return extrair_features_qualidade(image)
-
-
-def extrair_features_clustering_path(image_path):
-    image = cv2.imread(image_path)
-    if image is None:
-        return None
-    return extrair_features_clustering(image)
-
-
-

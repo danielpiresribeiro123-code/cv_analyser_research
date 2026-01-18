@@ -3,6 +3,14 @@ import numpy as np
 import random
 from pathlib import Path
 import json
+import os
+import json
+import tempfile
+from typing import Union, List
+from PIL import Image
+import subprocess
+
+
 
 def pixelate(image, block_size):
     h, w = image.shape[:2]
@@ -137,9 +145,43 @@ def isolated_blocks_pixelation(
         "clusters": params
     }
 
+def jpeg_compress(image, quality_range=(5, 95)):
+    """
+    Simula o:
+        imwrite(image, filename, 'Quality', q)
+    e mede o bitrate real (bpp).
+    """
+    quality = random.randint(*quality_range)
+
+    pil_img = Image.fromarray(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
+
+    with tempfile.NamedTemporaryFile(suffix=".jpg", delete=False) as tmp:
+        tmp_path = tmp.name
+
+    pil_img.save(tmp_path, "JPEG", quality=quality)
+
+    # Ler imagem comprimida
+    compressed = cv2.imread(tmp_path)
+
+    # Calcular bitrate real
+    size_bytes = os.path.getsize(tmp_path)
+    h, w = image.shape[:2]
+    bpp = (size_bytes * 8) / (h * w)
+
+    os.remove(tmp_path)
+
+    return compressed, {
+        "codec": "jpeg",
+        "quality": quality,
+        "bpp": bpp
+    }
+
+
 
 
 PIXELATION_FUNCTIONS = {
+    "jpeg_compress_small": jpeg_compress,
+    "jpeg_compress_big": jpeg_compress,
     "global_small": global_pixelation,
     "global_big": global_pixelation,
     "mosaic_small": mosaic_pixelation,
@@ -150,6 +192,8 @@ PIXELATION_FUNCTIONS = {
 }
 
 P_PIXELATION_FUNCTIONS = {
+    "jpeg_compress_small": jpeg_compress,
+    "jpeg_compress_big": jpeg_compress,
     "mosaic_small": mosaic_pixelation,
     "mosaic_big": mosaic_pixelation,
     "isolated_small": isolated_blocks_pixelation,
@@ -158,6 +202,8 @@ P_PIXELATION_FUNCTIONS = {
 }
 
 VP_PIXELATION_FUNCTIONS = {
+    "jpeg_compress_small": jpeg_compress,
+    "jpeg_compress_big": jpeg_compress,
     "global_small": global_pixelation,
     "global_big": global_pixelation,
     "mosaic_small": mosaic_pixelation,
@@ -182,16 +228,19 @@ def apply_random_pixelation(
     num_pixelations_distribution=None,
     strength_ranges=None
 ):  
-    if pixelation_types == "all" or pixelation_types == "p" or pixelation_types == "vp":
-        if pixelation_types == "p":
-            PIXELATION_FUNCTIONS = P_PIXELATION_FUNCTIONS
-        else:
-            PIXELATION_FUNCTIONS = VP_PIXELATION_FUNCTIONS
-        available = list(PIXELATION_FUNCTIONS.keys())
+    if pixelation_types == "p":
+        funcs = P_PIXELATION_FUNCTIONS
+    elif pixelation_types == "vp":
+        funcs = VP_PIXELATION_FUNCTIONS
+    elif pixelation_types == "all":
+        funcs = PIXELATION_FUNCTIONS
     elif isinstance(pixelation_types, list):
-        available = pixelation_types
+        funcs = {k: PIXELATION_FUNCTIONS[k] for k in pixelation_types}
     else:
-        raise ValueError("pixelation_types must be 'all', 'p', 'vp' or list")
+        raise ValueError("pixelation_types must be 'all', 'p', 'vp' or a list of valid pixelation keys")
+
+
+    available = list(funcs.keys())
 
     # Escolher quantas pixelations aplicar
     if num_pixelations_distribution is not None:
@@ -206,8 +255,12 @@ def apply_random_pixelation(
     params_used = []
 
     for ptype in chosen:
-        func = PIXELATION_FUNCTIONS[ptype]
-        params = strength_ranges.get(ptype, {}) if strength_ranges else {}
+        func = funcs[ptype]
+        if strength_ranges is None:
+            params = {}
+        else:
+            params = strength_ranges.get(ptype, {})
+        
         out, p = func(out, **params)
         applied.append(ptype)
         params_used.append(p)

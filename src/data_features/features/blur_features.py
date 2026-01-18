@@ -188,3 +188,149 @@ def blur_log_quantile(gray, sigma=1.0, quantile=0.999):
     # Quantil alto (robusto a ruído)
     return np.quantile(log_abs, quantile)
 
+
+
+
+
+
+def split_into_grid(gray, grid=4):
+    """
+    Divide a imagem em grid x grid blocos.
+    Returns: lista de patches (sub-imagens)
+    """
+    h, w = gray.shape
+    patches = []
+
+    for gy in range(grid):
+        for gx in range(grid):
+            y1 = int(gy * h / grid)
+            y2 = int((gy + 1) * h / grid)
+            x1 = int(gx * w / grid)
+            x2 = int((gx + 1) * w / grid)
+
+            patch = gray[y1:y2, x1:x2]
+            patches.append(patch)
+
+    return patches
+
+
+
+
+def blur_grid_features(gray, grid=4):
+    """
+    Extrai métricas de blur por blocos e agrega estatisticamente.
+    Serve para detetar:
+      - defocus parcial
+      - motion blur parcial
+      - zonas localmente nítidas
+
+    Returns: dict com métricas robustas.
+    """
+    patches = split_into_grid(gray, grid=grid)
+
+    lap_vals = []
+    ten_vals = []
+    motion_vals = []
+
+    for p in patches:
+        if p.size == 0:
+            continue
+
+        lap_vals.append(blur_laplacian(p))
+        ten_vals.append(blur_tenengrad(p))
+        motion_vals.append(blur_motion(p))
+
+    lap_vals = np.array(lap_vals, dtype=np.float32)
+    ten_vals = np.array(ten_vals, dtype=np.float32)
+    motion_vals = np.array(motion_vals, dtype=np.float32)
+
+    def stats(x):
+        p10 = np.percentile(x, 10)
+        p90 = np.percentile(x, 90)
+        maxv = np.max(x)
+
+        return {
+            "mean": float(np.mean(x)),
+            "std": float(np.std(x)),
+            "p10": float(p10),
+            "p90": float(p90),
+            "max": float(maxv),
+            "ratio_p90_p10": float(p90 / (p10 + 1e-6)),
+            "ratio_max_p10": float(maxv / (p10 + 1e-6))}
+
+    lap_stats = stats(lap_vals)
+    ten_stats = stats(ten_vals)
+    motion_stats = stats(motion_vals)
+
+    return {
+        # Laplacian (defocused blur)
+        "blur_lap_mean": lap_stats["mean"],
+        "blur_lap_std": lap_stats["std"],
+        "blur_lap_p10": lap_stats["p10"],
+        "blur_lap_p90": lap_stats["p90"],
+        "blur_lap_max": lap_stats["max"],
+        "blur_lap_ratio": lap_stats["ratio_p90_p10"],
+        "blur_lap_ratio_max": lap_stats["ratio_max_p10"],
+
+        # Tenengrad
+        "blur_ten_mean": ten_stats["mean"],
+        "blur_ten_std": ten_stats["std"],
+        "blur_ten_p10": ten_stats["p10"],
+        "blur_ten_p90": ten_stats["p90"],
+        "blur_ten_max": ten_stats["max"],
+        "blur_ten_ratio": ten_stats["ratio_p90_p10"],
+        "blur_ten_ratio_max": ten_stats["ratio_max_p10"],
+
+        # Motion
+        "motion_mean": motion_stats["mean"],
+        "motion_std": motion_stats["std"],
+        "motion_p90": motion_stats["p90"],
+        "motion_max": motion_stats["max"],
+        "motion_ratio": motion_stats["ratio_p90_p10"],
+        "motion_ratio_max": motion_stats["ratio_max_p10"]}
+
+
+
+# Opcional
+def blur_all_features(gray, grid=4):
+    """
+    Extrai:
+      - blur global clássico
+      - blur por grid
+      - relações entre global e grid
+
+    Serve apenas para experimentação / ablação.
+    Não usar por defeito no pipeline.
+    """
+    feats = {}
+
+    # Global
+    global_lap = blur_laplacian(gray)
+    global_ten = blur_tenengrad(gray)
+    global_motion = blur_motion(gray)
+
+    feats["global_blur_laplacian"] = float(global_lap)
+    feats["global_blur_tenengrad"] = float(global_ten)
+    feats["global_blur_motion"] = float(global_motion)
+
+    # Grid
+    grid_feats = blur_grid_features(gray, grid=grid)
+    for k, v in grid_feats.items():
+        feats[f"grid_{k}"] = float(v)
+
+    # Relações global vs grid (experimentais)
+    feats["lap_global_minus_grid_mean"] = float(
+        global_lap - grid_feats["blur_lap_mean"]
+    )
+    feats["lap_global_ratio_grid_mean"] = float(
+        global_lap / (grid_feats["blur_lap_mean"] + 1e-6)
+    )
+
+    feats["ten_global_minus_grid_mean"] = float(
+        global_ten - grid_feats["blur_ten_mean"]
+    )
+    feats["ten_global_ratio_grid_mean"] = float(
+        global_ten / (grid_feats["blur_ten_mean"] + 1e-6)
+    )
+
+    return feats

@@ -153,43 +153,38 @@ def run_degradations_pipeline(
         print("\nA aplicar Pixelated...")
 
         num_pixelations_distribution = {
-            1: 0.6,
-            2: 0.3,
-            3: 0.09,
-            4: 0.01,
-        }
-
+            1: 0.70,
+            2: 0.25,
+            3: 0.04,
+            4: 0.01}
+        
         strengths_pixelated = {
-            "mosaic_small": {"block_range": (10, 55), "num_patches_range": (4, 12)},
-            "mosaic_big": {"block_range": (50, 100), "num_patches_range": (1, 6)},
+            "jpeg_compress_small": {"quality_range": (30, 45)},
+            "jpeg_compress_big": {"quality_range": (25, 35)},
 
-            # Blocos grandes
+            "mosaic_small": {"block_range": (10, 50), "num_patches_range": (4, 10)},
+            "mosaic_big": {"block_range": (40, 100), "num_patches_range": (2, 6)},
+
             "isolated_small": {
-                "block_range": (10, 38),            # píxel relativamente fino
-                "num_clusters_range": (2, 30),      # quantos aglomerados aparecem
-                "blocks_per_cluster_range": (5, 30), # quantos “píxeis grandes” por aglomerado
-                "size_range": (10, 50),             # tamanho de cada bloco
-                "cluster_radius_range": (50, 800)   # quão compacto é cada aglomerado
-            },
+                "block_range": (10, 35),
+                "num_clusters_range": (2, 25),
+                "blocks_per_cluster_range": (4, 20),
+                "size_range": (10, 50),
+                "cluster_radius_range": (50, 700)},
 
-            # Blocos médios
             "isolated_medium": {
-                "block_range": (45, 100),          
-                "num_clusters_range": (5, 10),
+                "block_range": (40, 90),
+                "num_clusters_range": (4, 10),
                 "blocks_per_cluster_range": (2, 10),
-                "size_range": (50, 200),
-                "cluster_radius_range": (80, 1000)
-            },
+                "size_range": (40, 180),
+                "cluster_radius_range": (80, 900)},
 
-            # Blocos enormes
             "isolated_big": {
-                "block_range": (100, 230),           
-                "num_clusters_range": (2, 5),
+                "block_range": (90, 180),
+                "num_clusters_range": (1, 4),
                 "blocks_per_cluster_range": (1, 3),
-                "size_range": (120, 400),
-                "cluster_radius_range": (150, 1000)
-            }
-        }
+                "size_range": (100, 350),
+                "cluster_radius_range": (150, 900)}}
 
 
 
@@ -209,32 +204,34 @@ def run_degradations_pipeline(
         print("\nA aplicar Very Pixelated...")
 
         num_pixelations_distribution = {
-            1: 0.70,
-            2: 0.23,
-            3: 0.06,
-            4: 0.01,
-        }
+            1: 0.60,
+            2: 0.30,
+            3: 0.09,
+            4: 0.01,}
 
-        strengths_pixelated = {
-            "global_small": {"block_range": (10, 35)},
-            "global_big": {"block_range": (36, 70)},
-            "mosaic_small": {"block_range": (10, 40), "num_patches_range": (150, 300)},
-            "mosaic_big": {"block_range": (50, 250), "num_patches_range": (40, 100)},
+        strengths_very_pixelated = {
+            "jpeg_compress_small": {"quality_range": (7, 24)},
+            "jpeg_compress_big": {"quality_range": (1, 10)},
+
+            "global_small": {"block_range": (10, 40)},
+            "global_big": {"block_range": (40, 120)},
+
+            "mosaic_small": {"block_range": (15, 50), "num_patches_range": (20, 60)},
+            "mosaic_big": {"block_range": (50, 200), "num_patches_range": (8, 25)},
+
             "isolated_small": {
-                "block_range": (10, 45),            # píxel relativamente fino
-                "num_clusters_range": (50, 100),      # quantos aglomerados aparecem
-                "blocks_per_cluster_range": (8, 40), # quantos “píxeis grandes” por aglomerado
-                "size_range": (50, 500),             # tamanho de cada bloco
-                "cluster_radius_range": (200, 2000)   # quão compacto é cada aglomerado
-            },
+                "block_range": (20, 60),
+                "num_clusters_range": (20, 50),
+                "blocks_per_cluster_range": (5, 25),
+                "size_range": (40, 300),
+                "cluster_radius_range": (150, 1500)},
+
             "isolated_big": {
-                "block_range": (100, 230),           
-                "num_clusters_range": (15, 50),
-                "blocks_per_cluster_range": (1, 5),
-                "size_range": (50, 500),
-                "cluster_radius_range": (200, 2500)
-            }
-        }
+                "block_range": (80, 220),
+                "num_clusters_range": (12, 25),
+                "blocks_per_cluster_range": (1, 6),
+                "size_range": (100, 500),
+                "cluster_radius_range": (200, 2000)}}
 
 
 
@@ -243,7 +240,7 @@ def run_degradations_pipeline(
             output_dir=path_output / "very_pixelated",
             pixelation_types="vp",
             num_pixelations_distribution=num_pixelations_distribution,
-            strength_ranges=strengths_pixelated
+            strength_ranges=strengths_very_pixelated
         )
     # -----------------------------
     # JPEG / JPEG2000 COMPRESSION
@@ -253,12 +250,8 @@ def run_degradations_pipeline(
         print("\nA aplicar JPEG / JPEG2000 Compression...")
 
         strengths_compression = {
-            "jpeg": {
-                "quality_range": (5, 50)      # compressão forte a média
-            },
-            "jpeg2000": {
-                "rate_range": (0.01, 0.05)     # em bits por pixel, como no LIVE IQA
-            }
+            "jpeg": {"quality_range": (5, 50)},      # compressão forte a média
+            #"jpeg2000": {"rate_range": (0.01, 0.05)}     # em bits por pixel, como no LIVE IQA
         }
 
         process_folder_compression(

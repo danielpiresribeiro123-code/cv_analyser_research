@@ -1,27 +1,8 @@
-from data_features.features.blur_features import blur_laplacian, blur_fft, blur_motion, blur_local, blur_contrast, blur_tenengrad, blur_log_quantile
+import cv2
+from data_features.features.blur_features import (blur_laplacian, blur_fft, blur_motion, blur_local,
+    blur_contrast, blur_tenengrad, blur_log_quantile)
 from data_features.features.noise_features import noise_residual_std, noise_flat_regions, noise_fft, jpeg_blockiness
 from data_features.features.exposure_features import exposure_clipping, intensity_dynamic_range
-
-
-def get_center_crop(gray, frac):
-    """
-    Extrai um crop centrado da imagem.
-
-    Args:
-        gray (np.ndarray): Imagem em grayscale.
-        frac (float): Fração do tamanho (ex: 0.3 = 30%).
-
-    Returns:
-        np.ndarray: Região central da imagem.
-    """
-    h, w = gray.shape
-    ch, cw = int(h * frac), int(w * frac)
-
-    y1 = (h - ch) // 2
-    x1 = (w - cw) // 2
-
-    return gray[y1:y1 + ch, x1:x1 + cw]
-
 
 
 def analisar_roi(gray, log_sigma=1.0, log_quantile=0.999):
@@ -32,7 +13,7 @@ def analisar_roi(gray, log_sigma=1.0, log_quantile=0.999):
     local_mean, local_std = blur_local(gray)
 
     return {
-        # Nitidez / blur
+        # Nitidez / blur (global)
         "laplacian_var": blur_laplacian(gray),
         "fft_energy": blur_fft(gray),
         "motion_dominance": blur_motion(gray),

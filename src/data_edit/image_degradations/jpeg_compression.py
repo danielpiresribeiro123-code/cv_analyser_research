@@ -104,7 +104,7 @@ def jpeg2000_compress(image, rate_range=(0.1, 3.0), use_kakadu=False, kakadu_pat
 
 COMPRESSION_FUNCTIONS = {
     "jpeg": jpeg_compress,
-    "jpeg2000": jpeg2000_compress,
+    #"jpeg2000": jpeg2000_compress,
 }
 
 

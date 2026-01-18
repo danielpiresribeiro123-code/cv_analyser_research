@@ -1,37 +1,34 @@
+import cv2
 from pathlib import Path
 import pandas as pd
 import numpy as np
 from tqdm import tqdm
 
-from data_features.features_extractors import (
-    extrair_features_qualidade_path,
-    extrair_features_clustering_path,
-)
+from data_features.features_extractors import (extrair_features_common,extrair_features_quality_only,
+    extrair_features_clustering_only,extrair_features_qualidade,extrair_features_clustering)
 
 IMG_EXTS = {".jpg", ".jpeg", ".png", ".bmp", ".tif", ".tiff", ".webp"}
 
-# Features que PODEM ser achatadas para CSV
+# Features que podem ser achatadas para CSV
 FLATTEN_ALLOW = {
-    # clustering
+    # common
     "c_color_hist_hsv",
     "c_texture_lbp",
     "c_geometry_hu",
     "c_lightness_grid",
-    "c_orb_desc_mean",
-    "c_orb_desc_std",
-}
 
-# Features que devem ser RESUMIDAS (não achatadas)
-REDUCE_STATS = {
-    "c_geometry_edges",
-}
+    # clustering
+    "cl_orb_desc_mean",
+    "cl_orb_desc_std"}
+
+# Features que devem ser resumidas (não achatadas)
+REDUCE_STATS = {"c_geometry_edges"}
 
 
 def _flatten_features(prefix: str, feats: dict) -> dict:
     out = {}
-    for k, v in feats.items():
-        if v is None:
-            continue
+    for k in sorted(feats.keys()):
+        v = feats[k]
 
         key = f"{prefix}{k}" if prefix else k
 
@@ -50,6 +47,7 @@ def _flatten_features(prefix: str, feats: dict) -> dict:
                 out[f"{key}_{i:03d}"] = float(val)
 
         elif isinstance(v, (list, tuple)):
+            # usado apenas para vetores muito pequenos
             for i, val in enumerate(v):
                 if isinstance(val, (int, float, np.floating, np.integer)):
                     out[f"{key}_{i:03d}"] = float(val)
@@ -65,70 +63,100 @@ def _flatten_features(prefix: str, feats: dict) -> dict:
 
     return out
 
-
 def build_dataset(
     images_dir: str | Path,
     output_csv: str | Path | None = None,
     with_label: bool = True,
     class_names: list[str] | None = None,
-    feature_set: str = "both",  # "quality" | "clustering" | "both"
+    feature_mode: str = "quality",  
+    # "common" | "quality_only" | "clustering_only" |
+    # "quality" | "clustering" | "all"
     return_df: bool = True,
 ):
     """
-    Modos de funcionamento:
+    Prefixos das features no CSV:
+        c_  -> common features
+        q_  -> quality_only features
+        cl_ -> clustering_only features
 
-    1) Com classes explícitas:
-        build_dataset(..., with_label=True, class_names=["Good", "Noisy", "Blur"])
-
-       Espera:
-           images_dir/
-               Good/
-               Noisy/
-               Blur/
-
-    2) Labels automáticas pelo nome da pasta:
-        build_dataset(..., with_label=True, class_names=None)
-
-       A label de cada imagem será o nome da pasta onde ela está.
-
-    3) Sem labels:
-        build_dataset(..., with_label=False)
+    Modos:
+        common           -> só common
+        quality_only     -> só quality_only
+        clustering_only  -> só clustering_only
+        quality          -> common + quality_only
+        clustering       -> common + clustering_only
+        all              -> common + quality_only + clustering_only
     """
+
 
     images_dir = Path(images_dir)
 
-    if feature_set not in {"quality", "clustering", "both"}:
-        raise ValueError("feature_set tem de ser 'quality', 'clustering' ou 'both'")
+    valid_modes = {
+        "common",
+        "quality_only",
+        "clustering_only",
+        "quality",
+        "clustering",
+        "all"
+    }
+    if feature_mode not in valid_modes:
+        raise ValueError(f"feature_mode tem de ser um de {valid_modes}")
 
     rows = []
 
     def process_one(img_path: Path, label: str | None):
         feats = {}
 
-        if feature_set in {"quality", "both"}:
-            q = extrair_features_qualidade_path(img_path)
-            if q is None:
-                return
-            feats.update(_flatten_features("q_", q))
+        image = cv2.imread(str(img_path))
+        if image is None:
+            return
 
-        if feature_set in {"clustering", "both"}:
-            c = extrair_features_clustering_path(img_path)
-            if c is None:
-                return
-            feats.update(_flatten_features("c_", c))
+        # ---------------------------
+        # COMMON
+        # ---------------------------
+        if feature_mode in {"common", "quality", "clustering", "all"}:
+            try:
+                c = extrair_features_common(image)
+                feats.update(_flatten_features("", c))
+            except Exception as e:
+                print(f"[ERRO] {img_path} - common features: {e}")
+
+        # ---------------------------
+        # QUALITY ONLY
+        # ---------------------------
+        if feature_mode in {"quality_only", "quality", "all"}:
+            try:
+                q = extrair_features_quality_only(image)
+                feats.update(_flatten_features("", q))
+            except Exception as e:
+                print(f"[ERRO] {img_path} - quality_only features: {e}")
+
+        # ---------------------------
+        # CLUSTERING ONLY
+        # ---------------------------
+        if feature_mode in {"clustering_only", "clustering", "all"}:
+            try:
+                cl = extrair_features_clustering_only(image)
+                feats.update(_flatten_features("", cl))
+            except Exception as e:
+                print(f"[ERRO] {img_path} - clustering_only features: {e}")
+
+        if not feats:
+            print(f"[AVISO] Nenhuma feature extraída para {img_path}")
+            return
 
         row = {"image_path": str(img_path)}
         if label is not None:
             row["label"] = label
+
         row.update(feats)
         rows.append(row)
+
 
     # -------------------------------------------------
     # COM LABELS
     # -------------------------------------------------
     if with_label:
-
-        # Caso 1: classes fornecidas explicitamente
         if class_names is not None:
             for class_name in class_names:
                 class_path = images_dir / class_name
@@ -147,7 +175,6 @@ def build_dataset(
 
                     process_one(img_path, class_name)
 
-        # Caso 2: labels automáticas pelo nome da pasta
         else:
             for img_path in tqdm(images_dir.rglob("*"), desc="Processando imagens"):
                 if not img_path.is_file():
@@ -155,7 +182,6 @@ def build_dataset(
                 if img_path.suffix.lower() not in IMG_EXTS:
                     continue
 
-                # label = nome da pasta onde a imagem está
                 label = img_path.parent.name
                 process_one(img_path, label)
 
@@ -184,34 +210,3 @@ def build_dataset(
         return df
 
     return None
-
-
-
-"""
-Exemplos de uso:
-Classes explícitas:
-build_dataset(
-    "data/images",
-    "dataset.csv",
-    with_label=True,
-    class_names=["Good", "Noisy", "Defocused Blur"]
-)
-
-
-Labels automáticas:
-build_dataset(
-    "data/images",
-    "dataset.csv",
-    with_label=True,
-    class_names=None
-)
-
-
-Sem labels:
-build_dataset(
-    "data/images",
-    "dataset.csv",
-    with_label=False
-)
-
-"""
