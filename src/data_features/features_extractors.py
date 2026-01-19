@@ -14,9 +14,9 @@ from data_features.features.geometry_features import geometry_edges_signature,sh
 from data_features.features.orb_features import geometry_orb,orb_descriptor_stats,orb_kp_stats
 
 # Extras:
-def analisar_qualidade(gray, log_sigma=1.0, log_quantile=0.999, block=32):
+def analisar_quality_features(gray, log_sigma=1.0, log_quantile=0.999, block=32):
     """
-    Analisa qualidade local/global de uma imagem.
+    Analisa quality local/global de uma imagem.
     Retorna apenas features escalares.
     """
     local_mean, local_std = blur_local(gray, block)
@@ -40,35 +40,44 @@ def analisar_qualidade(gray, log_sigma=1.0, log_quantile=0.999, block=32):
         "dynamic_range": intensity_dynamic_range(gray),
     }
 
-def analisar_cor_iluminacao(image, features: dict, type = "c", use_function:bool = False):
+def analisar_cor_iluminacao(image, features: dict, type = "c"):
     """
     Analisa a cor e a iluminação de uma imagem.
     Retorna apenas features escalares.
     """
-    if use_function:
-        features[f"{type}_color_hist_hsv"] = color_hist_hsv(image)
-        features[f"{type}_color_stats"] = color_stats(image)
-        for k, v in lightness_stats(image).items():
-            features[f"{type}_{k}"] = v
-        for k, v in saturation_stats(image).items():
-            features[f"{type}_{k}"] = v
-        for k, v in brightness_stats(image).items():
-            features[f"{type}_{k}"] = v
-        features[f"{type}_colorfulness"] = colorfulness(image)
-        features[f"{type}_lightness_grid"] = lightness_grid(image)
+    features[f"{type}_color_hist_hsv"] = color_hist_hsv(image)
+    features[f"{type}_color_stats"] = color_stats(image)
+    for k, v in lightness_stats(image).items():
+        features[f"{type}_{k}"] = v
+    for k, v in saturation_stats(image).items():
+        features[f"{type}_{k}"] = v
+    for k, v in brightness_stats(image).items():
+        features[f"{type}_{k}"] = v
+    features[f"{type}_colorfulness"] = colorfulness(image)
+    features[f"{type}_lightness_grid"] = lightness_grid(image)
 
     return features
 
-    
+def gray_image(image, gray = None):
+    if gray is None:
+        try:
+            gray= cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+        except Exception as e:
+            raise ValueError(f"[ERRO] Não foi possível converter a imagem para grayscale: {e}")
+    return gray
 
-# Funções version 1:
 
-def extrair_features_common_v1(image, blur_grid_size=4, include_color_light_features:bool=True):
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+
+
+# Função common version 1:
+
+def extrair_features_common_v1(image, gray = None, blur_grid_size=4, common_color_light_features:bool=True):
+    gray=gray_image(image, gray)
     features = {}
 
     # Cor e iluminação
-    features = analisar_cor_iluminacao(image, features, type = "c", use_function = include_color_light_features)
+    if common_color_light_features:
+        features = analisar_cor_iluminacao(image, features, type = "c")
 
     # Textura
     features["c_texture_lbp"] = texture_lbp(gray)
@@ -100,7 +109,7 @@ def extrair_features_common_v1(image, blur_grid_size=4, include_color_light_feat
     features["c_global_blur_tenengrad"] = blur_tenengrad(gray)
     features["c_global_blur_motion"] = blur_motion(gray)
 
-    # Blur só para qualidade
+    # Blur só para quality
     features["q_grid_blur_lap_std"]  = blur_grid["grid_blur_lap_std"]
     features["q_grid_blur_lap_p10"]  = blur_grid["grid_blur_lap_p10"]
     features["q_grid_blur_lap_p90"]  = blur_grid["grid_blur_lap_p90"]
@@ -118,69 +127,20 @@ def extrair_features_common_v1(image, blur_grid_size=4, include_color_light_feat
     features["q_grid_motion_p90"]   = blur_grid["grid_motion_p90"]
     features["q_grid_motion_max"]   = blur_grid["grid_motion_max"]
 
-
-    return features
-
-
-def extrair_features_quality_only_v1(image, log_sigma=1.0, log_quantile=0.999, block=32):
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-    features = {}
-
-    # Qualidade global clássica
-    quality = analisar_qualidade(gray, log_sigma, log_quantile, block)
-    for k, v in quality.items():
-        features[f"q_{k}"] = float(v)
-
-    return features
-
-
-def extrair_features_clustering_only_v1(image, include_color_light_features:bool=False):
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-    features = {}
-    # Cor e iluminação
-    features = analisar_cor_iluminacao(image, features, type = "cl", use_function = include_color_light_features)
-
-    # ORB descritores agregados
-    desc = orb_descriptor_stats(geometry_orb(gray))
-    for k, v in desc.items():
-        features[f"cl_{k}"] = float(v)
-    
-    
-
-    return features
-
-def extrair_features_qualidade_v1(image):
-    features = {}
-    features.update(extrair_features_common_v1(image))
-    features.update(extrair_features_quality_only_v1(image))
-    return features
-
-
-def extrair_features_clustering_v1(image):
-    features = {}
-    features.update(extrair_features_common_v1(image))
-    features.update(extrair_features_clustering_only_v1(image))
-    return features
-
-def extrair_features_total_v1(image):
-    features = {}
-    features.update(extrair_features_common_v1(image))
-    features.update(extrair_features_quality_only_v1(image))
-    features.update(extrair_features_clustering_only_v1(image))
     return features
 
 
 
 
+# Função common version 2:
 
-# Funções version 2:
-
-def extrair_features_common_v2(image, blur_grid_size=4, include_color_light_features:bool=True):
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+def extrair_features_common_v2(image, gray=None,blur_grid_size=4, common_color_light_features:bool=True):
+    gray=gray_image(image, gray)
     features = {}
 
     # Cor e iluminação
-    features = analisar_cor_iluminacao(image, features, type = "c", use_function = include_color_light_features)
+    if common_color_light_features:
+        features = analisar_cor_iluminacao(image, features, type = "c")
 
     # Textura
     features["c_texture_lbp"] = texture_lbp(gray)
@@ -212,7 +172,7 @@ def extrair_features_common_v2(image, blur_grid_size=4, include_color_light_feat
     features["c_global_blur_tenengrad"] =blur_all["global_blur_tenengrad"]
     features["c_global_blur_motion"] = blur_all["global_blur_motion"]
 
-    # Blur só para qualidade
+    # Blur só para quality
     features["q_grid_blur_lap_std"]  = blur_all["grid_blur_lap_std"]
     features["q_grid_blur_lap_p10"]  = blur_all["grid_blur_lap_p10"]
     features["q_grid_blur_lap_p90"]  = blur_all["grid_blur_lap_p90"]
@@ -245,56 +205,18 @@ def extrair_features_common_v2(image, blur_grid_size=4, include_color_light_feat
     return features
 
 
-def extrair_features_quality_only_v2(image, log_sigma=1.0, log_quantile=0.999, block=32):
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-    features = {}
-
-    # Qualidade global clássica
-    quality = analisar_qualidade(gray, log_sigma, log_quantile, block)
-    for k, v in quality.items():
-        features[f"q_{k}"] = float(v)
-
-    return features
-
-
-# Não existe extrair_features_clustering_only_v2(image)
-
-
-def extrair_features_qualidade_v2(image):
-    features = {}
-    features.update(extrair_features_common_v2(image))
-    features.update(extrair_features_quality_only_v2(image))
-    return features
-
-
-def extrair_features_clustering_v2(image):
-    features = {}
-    features.update(extrair_features_common_v2(image))
-    features.update(extrair_features_clustering_only_v1(image))
-    return features
-
-
-def extrair_features_total_v2(image):
-    features = {}
-    features.update(extrair_features_common_v2(image))
-    features.update(extrair_features_quality_only_v2(image))
-    features.update(extrair_features_clustering_only_v1(image))
-    return features
 
 
 
+# Função common version 3:
 
-
-
-
-# Funções version 3:
-
-def extrair_features_common_v3(image, include_color_light_features:bool=True):
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+def extrair_features_common_v3(image, gray=None,common_color_light_features:bool=True):
+    gray=gray_image(image, gray)
     features = {}
 
     # Cor e iluminação
-    features = analisar_cor_iluminacao(image, features, type = "c", use_function = include_color_light_features)
+    if common_color_light_features:
+        features = analisar_cor_iluminacao(image, features, type = "c")
 
     # Textura
     features["c_texture_lbp"] = texture_lbp(gray)
@@ -316,37 +238,68 @@ def extrair_features_common_v3(image, include_color_light_features:bool=True):
     return features
 
 
-def extrair_features_quality_only_v3(image, log_sigma=1.0, log_quantile=0.999, block=32):
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+
+
+
+# Funções que inglobam todas as versões
+
+def extrair_features_common(image, gray=None,blur_grid_size=4, common_color_light_features:bool=True, version = 1):
+    if version == 1:
+        return extrair_features_common_v1(image, gray,blur_grid_size, common_color_light_features)
+    if version == 2:
+        return extrair_features_common_v2(image, gray,blur_grid_size, common_color_light_features)
+    if version == 3:
+        return extrair_features_common_v3(image, gray, common_color_light_features) # Sem blur_grid_size
+    else:
+        raise ValueError("Selecione entre as versões 1, 2 e 3.")
+
+
+def extrair_features_quality_only(image, gray=None,log_sigma=1.0, log_quantile=0.999, block=32):
+    gray=gray_image(image, gray)
     features = {}
 
-    # Qualidade global clássica
-    quality = analisar_qualidade(gray, log_sigma, log_quantile, block)
+    # quality global clássica
+    quality = analisar_quality_features(gray, log_sigma, log_quantile, block)
     for k, v in quality.items():
         features[f"q_{k}"] = float(v)
 
     return features
 
 
-# Não existe extrair_features_clustering_only_v3(image)
-
-
-def extrair_features_qualidade_v3(image):
+def extrair_features_clustering_only(image, gray=None, common_color_light_features:bool=True):
+    gray=gray_image(image, gray)
     features = {}
-    features.update(extrair_features_common_v3(image))
-    features.update(extrair_features_quality_only_v3(image))
+    # Cor e iluminação
+    if common_color_light_features == False:
+        features = analisar_cor_iluminacao(image, features, type = "cl")
+
+    # ORB descritores agregados
+    desc = orb_descriptor_stats(geometry_orb(gray))
+    for k, v in desc.items():
+        features[f"cl_{k}"] = float(v)
+
     return features
 
 
-def extrair_features_clustering_v3(image):
+def extrair_features_quality(image, gray=None, log_sigma=1.0, log_quantile=0.999, block=32, blur_grid_size=4, common_color_light_features:bool=True, version=1):
     features = {}
-    features.update(extrair_features_common_v3(image))
-    features.update(extrair_features_clustering_only_v1(image))
+    features.update(extrair_features_common(image, gray,blur_grid_size, common_color_light_features, version))
+    features.update(extrair_features_quality_only(image,gray,log_sigma, log_quantile, block))
+
     return features
 
-def extrair_features_total_v3(image):
+
+def extrair_features_clustering(image, gray=None, blur_grid_size=4, common_color_light_features:bool=True, version=1):
     features = {}
-    features.update(extrair_features_common_v3(image))
-    features.update(extrair_features_quality_only_v3(image))
-    features.update(extrair_features_clustering_only_v1(image))
+    features.update(extrair_features_common(image, gray,blur_grid_size, common_color_light_features, version))
+    features.update(extrair_features_clustering_only(image,gray,common_color_light_features))
+
+    return features
+
+def extrair_features_total(image, gray=None, log_sigma=1.0, log_quantile=0.999, block=32, blur_grid_size=4, common_color_light_features:bool=True, version=1):
+    features = {}
+    features.update(extrair_features_common(image, gray,blur_grid_size, common_color_light_features, version))
+    features.update(extrair_features_quality_only(image,gray,log_sigma, log_quantile, block))
+    features.update(extrair_features_clustering_only(image,gray,common_color_light_features))
+
     return features
