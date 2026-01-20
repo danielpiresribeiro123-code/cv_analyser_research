@@ -58,8 +58,8 @@ def split_images_by_keywords(
 keywords = ["-sharp", "-motion_blur", "-partial_blur"]
 
 split_images_by_keywords(
-    input_dir=TRAIN_IMAGES_PERSONAL_ROOT / "2",
-    output_dir=TRAIN_IMAGES_PERSONAL_ROOT / "2_1",
+    input_dir=TRAIN_IMAGES_PERSONAL_ROOT / "inside",
+    output_dir=TRAIN_IMAGES_PERSONAL_ROOT / "inside_divided",
     keywords=keywords,
     move_files=False   # False = copia, True = move
 )
