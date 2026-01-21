@@ -6,6 +6,7 @@ paths = load_paths()
 
 PROJECT_ROOT = paths["project_root"]
 TRAIN_IMAGES_RANDOM_ROOT = paths["train_random_images"]
+TRAIN_IMAGES_PERSONAL_ROOT = paths["train_personal_images"]
 
 from data_edit.image_degradations.defocused_blur import process_folder_defocus_blur
 from data_edit.image_degradations.motion_blur import process_folder_motion_blur
@@ -359,6 +360,6 @@ if __name__ == "__main__":
 """
 if __name__ == "__main__":
     run_degradations_pipeline(
-        path_input=r"C:\Users\danie\Desktop\My_Things\Hobbies\VSCODE\Data\Personal_images",
+        path_input=TRAIN_IMAGES_PERSONAL_ROOT,
         path_output=PROJECT_ROOT / "data" / "images_degraded"
     )
