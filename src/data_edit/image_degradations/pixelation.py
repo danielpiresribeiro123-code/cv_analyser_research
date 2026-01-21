@@ -3,16 +3,12 @@ import numpy as np
 import random
 from pathlib import Path
 import json
-import os
-import json
-import tempfile
-from typing import Union, List
-from PIL import Image
-import subprocess
+
 
 
 
 def pixelate(image, block_size):
+    block_size = max(1, int(block_size))
     h, w = image.shape[:2]
 
     # garantir que nunca fica 0
@@ -32,7 +28,7 @@ def global_pixelation(image, block_range=(6, 40)):
 
 
 
-def mosaic_pixelation(image, block_range=(8, 50), num_patches_range=(3, 8)):
+def partial_pixelation(image, block_range=(8, 50), num_patches_range=(3, 8)):
     h, w = image.shape[:2]
     output = image.copy()
 
@@ -145,138 +141,105 @@ def isolated_blocks_pixelation(
         "clusters": params
     }
 
-def jpeg_compress(image, quality_range=(5, 95)):
-    """
-    Simula o:
-        imwrite(image, filename, 'Quality', q)
-    e mede o bitrate real (bpp).
-    """
-    quality = random.randint(*quality_range)
 
-    pil_img = Image.fromarray(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
 
-    with tempfile.NamedTemporaryFile(suffix=".jpg", delete=False) as tmp:
-        tmp_path = tmp.name
+PIXELATION_STRENGTHS = {
+    "global": {
+        "low":    {"block_range": (6, 12)},
+        "medium": {"block_range": (12, 25)},
+        "strong": {"block_range": (25, 50)},
+    },
 
-    pil_img.save(tmp_path, "JPEG", quality=quality)
+    "partial": {
+        "low": {
+            "block_range": (8, 15),
+            "num_patches_range": (1, 3)
+        },
+        "medium": {
+            "block_range": (15, 30),
+            "num_patches_range": (3, 6)
+        },
+        "strong": {
+            "block_range": (30, 60),
+            "num_patches_range": (6, 10)
+        }
+    },
 
-    # Ler imagem comprimida
-    compressed = cv2.imread(tmp_path)
-
-    # Calcular bitrate real
-    size_bytes = os.path.getsize(tmp_path)
-    h, w = image.shape[:2]
-    bpp = (size_bytes * 8) / (h * w)
-
-    os.remove(tmp_path)
-
-    return compressed, {
-        "codec": "jpeg",
-        "quality": quality,
-        "bpp": bpp
+    "isolated": {
+        "low": {
+            "block_range": (10, 20),
+            "num_clusters_range": (1, 2),
+            "blocks_per_cluster_range": (1, 3),
+            "size_range": (20, 50),
+            "cluster_radius_range": (40, 80)
+        },
+        "medium": {
+            "block_range": (20, 35),
+            "num_clusters_range": (2, 4),
+            "blocks_per_cluster_range": (3, 6),
+            "size_range": (40, 100),
+            "cluster_radius_range": (80, 150)
+        },
+        "strong": {
+            "block_range": (35, 70),
+            "num_clusters_range": (4, 8),
+            "blocks_per_cluster_range": (5, 12),
+            "size_range": (80, 200),
+            "cluster_radius_range": (120, 300)
+        }
     }
-
-
-
-
-PIXELATION_FUNCTIONS = {
-    "jpeg_compress_small": jpeg_compress,
-    "jpeg_compress_big": jpeg_compress,
-    "global_small": global_pixelation,
-    "global_big": global_pixelation,
-    "mosaic_small": mosaic_pixelation,
-    "mosaic_big": mosaic_pixelation,
-    "isolated_small": isolated_blocks_pixelation,
-    "isolated_medium": isolated_blocks_pixelation,
-    "isolated_big": isolated_blocks_pixelation
 }
 
-P_PIXELATION_FUNCTIONS = {
-    "jpeg_compress_small": jpeg_compress,
-    "jpeg_compress_big": jpeg_compress,
-    "mosaic_small": mosaic_pixelation,
-    "mosaic_big": mosaic_pixelation,
-    "isolated_small": isolated_blocks_pixelation,
-    "isolated_medium": isolated_blocks_pixelation,
-    "isolated_big": isolated_blocks_pixelation
-}
-
-VP_PIXELATION_FUNCTIONS = {
-    "jpeg_compress_small": jpeg_compress,
-    "jpeg_compress_big": jpeg_compress,
-    "global_small": global_pixelation,
-    "global_big": global_pixelation,
-    "mosaic_small": mosaic_pixelation,
-    "mosaic_big": mosaic_pixelation,
-    "isolated_small": isolated_blocks_pixelation,
-    "isolated_big": isolated_blocks_pixelation
+PIXELATION_TYPES = {
+    "global": global_pixelation,
+    "partial": partial_pixelation,
+    "isolated": isolated_blocks_pixelation
 }
 
 
-def sample_num_pixelations(distribution: dict):
-    """
-    distribution: {num_pixelations: probability}
-    Ex: {1: 0.5, 2: 0.4, 3: 0.1}
-    """
-    nums = list(distribution.keys())
-    probs = list(distribution.values())
-    return random.choices(nums, weights=probs, k=1)[0]
-def apply_random_pixelation(
+def apply_pixelation(
     image,
-    pixelation_types="all",
-    num_pixelations=1,
-    num_pixelations_distribution=None,
-    strength_ranges=None
-):  
-    if pixelation_types == "p":
-        funcs = P_PIXELATION_FUNCTIONS
-    elif pixelation_types == "vp":
-        funcs = VP_PIXELATION_FUNCTIONS
-    elif pixelation_types == "all":
-        funcs = PIXELATION_FUNCTIONS
-    elif isinstance(pixelation_types, list):
-        funcs = {k: PIXELATION_FUNCTIONS[k] for k in pixelation_types}
-    else:
-        raise ValueError("pixelation_types must be 'all', 'p', 'vp' or a list of valid pixelation keys")
+    pixelation_type: str,
+    strength: str
+):
+    """
+    pixelation_type : 'global', 'partial' ou 'isolated'
+    strength        : 'low', 'medium' ou 'strong'
+    """
+
+    if pixelation_type not in PIXELATION_TYPES:
+        raise ValueError(f"Tipo inválido: {pixelation_type}")
+
+    if strength not in PIXELATION_STRENGTHS[pixelation_type]:
+        raise ValueError(f"Força inválida para {pixelation_type}: {strength}")
+
+    func = PIXELATION_TYPES[pixelation_type]
+    params = PIXELATION_STRENGTHS[pixelation_type][strength]
+
+    out, p = func(image, **params)
+
+    applied = f"{pixelation_type}_{strength}"
+    return out, applied, p
 
 
-    available = list(funcs.keys())
 
-    # Escolher quantas pixelations aplicar
-    if num_pixelations_distribution is not None:
-        num_pixelations = sample_num_pixelations(num_pixelations_distribution)
 
-    num_pixelations = min(num_pixelations, len(available))
+def apply_random_pixelation(image):
+    pixelation_type = random.choice(["global", "partial", "isolated"])
+    strength = random.choice(["low", "medium", "strong"])
+    return apply_pixelation(image, pixelation_type, strength)
 
-    chosen = random.sample(available, num_pixelations)
 
-    out = image.copy()
-    applied = []
-    params_used = []
-
-    for ptype in chosen:
-        func = funcs[ptype]
-        if strength_ranges is None:
-            params = {}
-        else:
-            params = strength_ranges.get(ptype, {})
-        
-        out, p = func(out, **params)
-        applied.append(ptype)
-        params_used.append(p)
-
-    return out, applied, params_used
 
 def process_folder_pixelation(
     input_dir,
     output_dir,
-    num_pixelations=1,
-    num_pixelations_distribution=None,
-    pixelation_types="all",
-    strength_ranges=None,
     valid_exts=(".jpg", ".jpeg", ".png", ".bmp", ".tiff"),
     save_manifest=True,
-    manifest_name="pixelation_manifest.json"
+    manifest_name="pixelation_manifest.json",
+    use_random: bool = False,
+    pixelation_type ="isolated", #isolated, partial, global
+    strength ="strong" #low, medium, strong
 ):
     input_dir = Path(input_dir)
     output_dir = Path(output_dir)
@@ -292,15 +255,14 @@ def process_folder_pixelation(
         if image is None:
             continue
 
-        pixelated, applied, params = apply_random_pixelation(
-            image,
-            pixelation_types=pixelation_types,
-            num_pixelations=num_pixelations,
-            num_pixelations_distribution=num_pixelations_distribution,
-            strength_ranges=strength_ranges
-        )
+        # agora é simples e consistente
+        if use_random:
+            pixelated, applied, params = apply_random_pixelation(image)
+        else:
+            pixelated, applied, params = apply_pixelation(image, pixelation_type,strength)
 
-        tag = "_".join(applied) if applied else "none"
+
+        tag = applied if applied else "none"
         out_name = f"{img_path.stem}_pixel_{tag}{img_path.suffix}"
         cv2.imwrite(str(output_dir / out_name), pixelated)
 
@@ -308,7 +270,7 @@ def process_folder_pixelation(
             manifest.append({
                 "input": img_path.name,
                 "output": out_name,
-                "applied_pixelations": applied,
+                "applied_pixelation": applied,
                 "params": params
             })
 

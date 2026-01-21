@@ -35,13 +35,13 @@ def replace_in_filenames(
             print(f"{old_name} -> {new_path.name}")
         else:
             print(f"Nenhuma mudança em {old_name}.")
-
+"""
 replace_in_filenames(
-    folder=TRAIN_IMAGES_PERSONAL_ROOT / "inside",
-    new_str="_GalaxyS21-5G-SM-G991BDS_",
-    change_str="-"
+    folder=TRAIN_IMAGES_PERSONAL_ROOT / "market",
+    new_str="-dark",
+    change_str="_GalaxyS21-5G-SM-G991BDS_dark"
 )
-
+"""
 
 from pathlib import Path
 
@@ -78,12 +78,12 @@ def add_suffix_to_filenames(
         img_path.rename(new_path)
         print(f"{old_name} -> {new_path.name}")
 
+"""
+add_suffix_to_filenames(folder=TRAIN_IMAGES_PERSONAL_ROOT / "market",
+                        suffix="_market")
 
-add_suffix_to_filenames(folder=r"C:\Users\danie\Desktop\My_Things\Hobbies\VSCODE\Data\Images\Chinese_Univeristy_of_Hong_Kong\Blur\motion\partial\unknown\motion_blur_background",
-                        suffix="_background")
+add_suffix_to_filenames(folder=TRAIN_IMAGES_PERSONAL_ROOT / "inside",
+                        suffix="_inside")
 
-add_suffix_to_filenames(folder=r"C:\Users\danie\Desktop\My_Things\Hobbies\VSCODE\Data\Images\Chinese_Univeristy_of_Hong_Kong\Blur\motion\partial\unknown\motion_blur_special",
-                        suffix="_special")
-
-add_suffix_to_filenames(folder=r"C:\Users\danie\Desktop\My_Things\Hobbies\VSCODE\Data\Images\Chinese_Univeristy_of_Hong_Kong\Blur\motion\partial\unknown\motion_blur_front",
-                        suffix="_front")
+add_suffix_to_filenames(folder=TRAIN_IMAGES_PERSONAL_ROOT / "outside",
+                        suffix="_outside")"""

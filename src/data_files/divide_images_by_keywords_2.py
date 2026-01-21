@@ -63,10 +63,11 @@ def split_images_by_pattern(
             shutil.copy2(str(img_path), str(dest))
 
         print(f"{img_path.name} -> {keyword}/")
-
+"""
 split_images_by_pattern(
-    input_dir=TRAIN_IMAGES_PERSONAL_ROOT / "inside",
-    output_dir=TRAIN_IMAGES_PERSONAL_ROOT / "inside_divided",
+    input_dir=TRAIN_IMAGES_PERSONAL_ROOT / "outside",
+    output_dir=TRAIN_IMAGES_PERSONAL_ROOT / "outside_divided",
     move_files=False,   # False = copia, True = move
     divide_str="_"
 )
+"""
