@@ -46,6 +46,32 @@ COMPRESSION_TYPES = [
     "jpeg_xl"
 ]
 
+def ask_option(title, options):
+    """
+    options = lista de strings válidas, ex:
+    ["global", "partial_random", "partial_radial"]
+    automaticamente adiciona: all, random
+    """
+    print(f"\n{title}")
+    mapping = {}
+    idx = 1
+
+    for opt in options:
+        print(f"[{idx}] {opt}")
+        mapping[str(idx)] = opt
+        idx += 1
+
+    print(f"[{idx}] all")
+    mapping[str(idx)] = "all"
+    idx += 1
+
+    print(f"[{idx}] random")
+    mapping[str(idx)] = "random"
+
+    choice = input("Escolhe: ").strip().lower()
+    return mapping.get(choice, choice)
+
+
 
 # ==================================================
 # Runner genérico
@@ -197,13 +223,10 @@ def run_degradations_pipeline(
     if choice in ["1", "7"]:
         blur_types = ["global", "partial_random", "partial_radial"]
 
-        print("\nTipos de Defocused Blur:")
-        for t in blur_types:
-            print(f"  {t}")
-        print("  all")
-        print("  random")
-
-        blur_type_mode = input("Escolhe: ").strip().lower()
+        blur_type_mode = ask_option(
+            "Tipos de Defocused Blur:",
+            blur_types
+        )
 
         run_transform_with_types(
             process_func=process_folder_defocus_blur,
@@ -217,19 +240,17 @@ def run_degradations_pipeline(
         )
 
 
+
     # --------------------------------------------------
     # 2. Motion Blur
     # --------------------------------------------------
     if choice in ["2", "7"]:
         blur_types = ["global", "partial_random", "partial_radial"]
 
-        print("\nTipos de Motion Blur:")
-        for t in blur_types:
-            print(f"  {t}")
-        print("  all")
-        print("  random")
-
-        blur_type_mode = input("Escolhe: ").strip().lower()
+        blur_type_mode = ask_option(
+            "Tipos de Motion Blur:",
+            blur_types
+        )
 
         run_transform_with_types(
             process_func=process_folder_motion_blur,
@@ -247,13 +268,10 @@ def run_degradations_pipeline(
     # 3. Noise
     # --------------------------------------------------
     if choice in ["3", "7"]:
-        print("\nTipos de Noise:")
-        for t in NOISE_TYPES:
-            print(f"  {t}")
-        print("  all")
-        print("  random")
-
-        noise_type_mode = input("Escolhe: ").strip().lower()
+        noise_type_mode = ask_option(
+            "Tipos de Noise:",
+            NOISE_TYPES
+        )
 
         run_transform_with_types(
             process_func=process_folder_noise,
@@ -270,13 +288,10 @@ def run_degradations_pipeline(
     # 4. Pixelation
     # --------------------------------------------------
     if choice in ["4", "7"]:
-        print("\nTipos de Pixelation:")
-        for t in PIXELATION_TYPES:
-            print(f"  {t}")
-        print("  all")
-        print("  random")
-
-        pixel_type_mode = input("Escolhe: ").strip().lower()
+        pixel_type_mode = ask_option(
+            "Tipos de Pixelation:",
+            PIXELATION_TYPES
+        )
 
         run_transform_with_types(
             process_func=process_folder_pixelation,
@@ -289,17 +304,15 @@ def run_degradations_pipeline(
             type_kw_name="pixelation_type"
         )
 
+
     # --------------------------------------------------
     # 5. JPEG Compression
     # --------------------------------------------------
     if choice in ["5", "7"]:
-        print("\nTipos de Compressão:")
-        for t in COMPRESSION_TYPES:
-            print(f"  {t}")
-        print("  all")
-        print("  random")
-
-        comp_type_mode = input("Escolhe: ").strip().lower()
+        comp_type_mode = ask_option(
+            "Tipos de Compressão:",
+            COMPRESSION_TYPES
+        )
 
         run_transform_with_types(
             process_func=process_folder_compression,
@@ -311,6 +324,7 @@ def run_degradations_pipeline(
             strength_mode=strength_mode,
             type_kw_name="compression_type"
         )
+
 
     # --------------------------------------------------
     # 6. Glitches
@@ -325,13 +339,10 @@ def run_degradations_pipeline(
             "random_bit_flip"
         ]
 
-        print("\nTipos de Glitch:")
-        for t in glitch_types:
-            print(f"  {t}")
-        print("  all")
-        print("  random")
-
-        glitch_type_mode = input("Escolhe: ").strip().lower()
+        glitch_type_mode = ask_option(
+            "Tipos de Glitch:",
+            glitch_types
+        )
 
         run_transform_with_types(
             process_func=process_folder_channel,
@@ -343,6 +354,7 @@ def run_degradations_pipeline(
             strength_mode=strength_mode,
             type_kw_name="channel_type"
         )
+
 
 
     print("\nPipeline terminada com sucesso.")
