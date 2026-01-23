@@ -58,8 +58,8 @@ def split_images_by_keywords(
 keywords = ["sharp", "motion_blur", "partial_blur", "defocused_blur"]
 
 split_images_by_keywords(
-    input_dir=TRAIN_IMAGES_PERSONAL_ROOT / "market",
-    output_dir=TRAIN_IMAGES_PERSONAL_ROOT / "market_divided",
+    input_dir=TRAIN_IMAGES_PERSONAL_ROOT / "GalaxyS21-5G-SM-G991BDS",
+    output_dir=TRAIN_IMAGES_PERSONAL_ROOT / "GalaxyS21-5G-SM-G991BDS_divided",
     keywords=keywords,
     move_files=False   # False = copia, True = move
 )

@@ -372,6 +372,6 @@ if __name__ == "__main__":
 """
 if __name__ == "__main__":
     run_degradations_pipeline(
-        path_input=TRAIN_IMAGES_PERSONAL_ROOT,
+        path_input=TRAIN_IMAGES_PERSONAL_ROOT /"GalaxyS21-5G-SM-G991BDS",
         path_output=PROJECT_ROOT / "data" / "images_degraded"
     )

@@ -78,12 +78,41 @@ def add_suffix_to_filenames(
         img_path.rename(new_path)
         print(f"{old_name} -> {new_path.name}")
 
+
+
+from pathlib import Path
+
+
+def adicionar_sufixo_a_folders(root_path, sufixo):
+    """
+    Adiciona um sufixo ao nome de todos os folders dentro de root_path.
+    Não altera o conteúdo interno dos folders.
+
+    Exemplo:
+        pasta1  -> pasta1_sufixo
+        dados   -> dados_sufixo
+    """
+    root = Path(root_path)
+
+    if not root.exists() or not root.is_dir():
+        raise ValueError(f"O caminho '{root_path}' não é um diretório válido.")
+
+    for folder in root.iterdir():
+        if folder.is_dir():
+            # Evita duplicar o sufixo se já existir
+            if folder.name.endswith(sufixo):
+                print(f"Ignorado (já tem sufixo): {folder.name}")
+                continue
+
+            novo_nome = folder.name + sufixo
+            novo_caminho = folder.with_name(novo_nome)
+
+            folder.rename(novo_caminho)
+            print(f"{folder.name} -> {novo_nome}")
+
 """
-add_suffix_to_filenames(folder=TRAIN_IMAGES_PERSONAL_ROOT / "market",
-                        suffix="_market")
-
-add_suffix_to_filenames(folder=TRAIN_IMAGES_PERSONAL_ROOT / "inside",
-                        suffix="_inside")
-
-add_suffix_to_filenames(folder=TRAIN_IMAGES_PERSONAL_ROOT / "outside",
-                        suffix="_outside")"""
+adicionar_sufixo_a_folders(
+    root_path="C:/Users/danie/Downloads/CVs_Resumes_Datasets/roboflow",
+    sufixo="_roboflow"
+)
+"""
