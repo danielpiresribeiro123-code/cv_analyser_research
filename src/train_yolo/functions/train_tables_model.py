@@ -7,6 +7,8 @@ paths = load_paths()
 # Caminho base do projeto
 PROJECT_ROOT = paths["project_root"]
 
+
+
 def train_tables_model():
     """
     Treina um modelo YOLOv8s para detetar apenas tabelas (class: table)

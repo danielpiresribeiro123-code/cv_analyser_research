@@ -4,7 +4,7 @@ env/
 venv/
 
 # Modelos pesados
-# models/
+models/downloaded
 
 # Tem de criar em cada computador o .env com base em .env.example para por o project root.
 .env

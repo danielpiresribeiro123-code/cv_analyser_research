@@ -1,0 +1,10 @@
+path: C:/Users/danie/Desktop/labellmg/Yolo-CV-Datasets
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 2
+names:
+  0: text_block
+  1: photo
