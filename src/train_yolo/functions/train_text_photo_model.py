@@ -18,9 +18,9 @@ def train_text_photo_model():
     em CVs / Resumes.
     """
 
-    BASE_MODEL = PROJECT_ROOT / "models" / "downloaded" / "yolo11s.pt"
+    BASE_MODEL = PROJECT_ROOT / "models" / "downloaded" / "yolo26s.pt"
 
-    SAVE_DIR = PROJECT_ROOT / "src" / "train_yolo" / "yolo11s-text-photo"
+    SAVE_DIR = PROJECT_ROOT / "src" / "train_yolo" / "yolo26s-text-photo"
     SAVE_DIR.mkdir(parents=True, exist_ok=True)
 
     # 🔎 Validações rápidas (muito recomendadas)

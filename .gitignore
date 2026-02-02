@@ -28,12 +28,7 @@ Thumbs.db
 # Logs
 *.log
 
-# Dados grandes / gerados automaticamente
-data/frames/
-data/input/
-data/images_degraded
-data/Random/
-data/video_piano/
+
 
 # Em train_data ignora tudo…
 data/train_data/*
@@ -41,12 +36,6 @@ data/train_data/*
 # …exceto o features.csv
 !data/train_data/features.csv
 
-# Também ignora subpastas específicas dentro de train_data
-data/train_data/best_train_images/
-data/train_data/bad_images/
-data/train_data/custom_images/
-data/train_data/good_images/
-data/train_data/Random_images/
 
 # CSVs gerados automaticamente fora de train_data (se não quiseres versionar)
 # data/features.csv
