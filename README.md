@@ -81,3 +81,25 @@ Documentação útil para YOLO segmentation:
 
 * [https://docs.ultralytics.com/pt/tasks/segment/#train](https://docs.ultralytics.com/pt/tasks/segment/#train)
 * [https://docs.ultralytics.com/pt/datasets/segment/coco/#dataset-yaml](https://docs.ultralytics.com/pt/datasets/segment/coco/#dataset-yaml)
+
+
+
+## Remover todos os arquivos ignorados de uma vez (Melhor opção)
+Se você adicionou várias regras ao .gitignore e quer limpar tudo de uma vez:
+1. Commit as alterações do seu .gitignore primeiro.
+2. Execute o seguinte comando para remover tudo o que está no cache e agora está ignorado:
+```bash
+git rm -r --cached .
+```
+3. Adicione novamente os arquivos (o Git agora vai ignorar os arquivos listados no .gitignore):
+```bash
+git add .
+```
+4. Faça o commit dessa limpeza:
+```bash
+git commit -m "Removendo arquivos rastreados que agora estão no .gitignore"
+```
+5. Faça o push (se necessário):
+```bash
+git push
+```
