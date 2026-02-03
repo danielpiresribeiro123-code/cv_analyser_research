@@ -38,15 +38,16 @@ def train_text_photo_model():
 
     model.train(
         data=str(DATASET_YAML),   # ← garante compatibilidade
-        epochs=5,
+        epochs=150,
         imgsz=640,
-        batch=4,
-        device="cpu",                 # usa "cpu" se não tiveres GPU (0 para gpu)
+        batch=8,
+        device=0,                 # usa "cpu" se não tiveres GPU (0 para gpu)
         workers=4,
         seed=42,
         project=str(SAVE_DIR),
         name="train",
         exist_ok=True)
+
 
 
 if __name__ == "__main__":
