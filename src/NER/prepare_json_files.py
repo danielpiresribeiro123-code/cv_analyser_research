@@ -1,6 +1,8 @@
 import json
 from pathlib import Path
 from datasets import Dataset
+from transformers import AutoTokenizer
+
 
 from utils.path_loader import load_paths
 paths = load_paths()
@@ -65,10 +67,13 @@ def json_to_bert_ner_features(
         if not token_idxs:
             continue
 
-        # BIO
-        labels[token_idxs[0]] = "B-SKILL"
+        # BIO (com proteção contra sobreposição)
+        if labels[token_idxs[0]] == "O":
+            labels[token_idxs[0]] = "B-SKILL"
+
         for idx in token_idxs[1:]:
-            labels[idx] = "I-SKILL"
+            if labels[idx] == "O":
+                labels[idx] = "I-SKILL"
 
     # 4) converter para ids + ignorar tokens especiais
     label_ids = []
@@ -82,7 +87,6 @@ def json_to_bert_ner_features(
     encoding["labels"] = label_ids
 
     return encoding
-
 
 
 
@@ -123,7 +127,14 @@ def build_bert_ner_dataset(
 
 
 
-from transformers import AutoTokenizer
+def debug_tokens(sample, tokenizer, id2label):
+    tokens = tokenizer.convert_ids_to_tokens(sample["input_ids"])
+    for t, l in zip(tokens, sample["labels"]):
+        if l == -100:
+            continue
+        print(f"{t:15} -> {id2label[l]}")
+
+
 
 tokenizer = AutoTokenizer.from_pretrained(
     PROJECT_ROOT / "models" / "BERT" / "bert-base-cased",
@@ -144,3 +155,7 @@ dataset = build_bert_ner_dataset(
 
 print(dataset)
 print(dataset[0].keys())
+
+
+id2label = {v: k for k, v in label2id.items()}
+debug_tokens(dataset[0], tokenizer, id2label)
