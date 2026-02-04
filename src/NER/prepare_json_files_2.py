@@ -115,12 +115,14 @@ def json_to_bert_ner_features(
     return encoding
 
 def build_bert_ner_dataset(
-    input_path: Path,
+    input_path,
     tokenizer,
     label2id: dict,
-    output_dir: Path | None = None,
+    output_dir=None,
     max_length: int = 512
 ):
+    input_path = Path(input_path).resolve()
+
     records = []
     invalid_texts = 0
     no_annotations = 0
@@ -177,7 +179,13 @@ def iter_json_files(input_path: Path):
     elif input_path.is_dir():
         yield from input_path.rglob("*.json")
     else:
-        raise ValueError(f"Input inválido: {input_path}")
+        raise ValueError(
+            f"Input inválido: {input_path}\n"
+            f"Existe: {input_path.exists()}\n"
+            f"É ficheiro: {input_path.is_file()}\n"
+            f"É pasta: {input_path.is_dir()}"
+        )
+
 
 
 
