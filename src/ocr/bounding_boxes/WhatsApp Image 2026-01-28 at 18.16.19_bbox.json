@@ -1,0 +1,14 @@
+[
+  {
+    "image_path": "src\\ocr\\WhatsApp Image 2026-01-28 at 18.16.19.jpeg",
+    "index": 0,
+    "class": "text_block",
+    "confidence": 0.8057401776313782,
+    "bbox": [
+      10,
+      0,
+      360,
+      507
+    ]
+  }
+]
