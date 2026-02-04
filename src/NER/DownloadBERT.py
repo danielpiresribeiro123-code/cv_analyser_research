@@ -1,6 +1,11 @@
 from pathlib import Path
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 
+from utils.path_loader import load_paths
+paths = load_paths()
+
+# Caminho base do projeto
+PROJECT_ROOT = paths["project_root"]
 
 def download_bert_model(
     model_name: str = "bert-base-cased",
@@ -39,6 +44,6 @@ def download_bert_model(
 if __name__ == "__main__":
     download_bert_model(
         model_name="bert-base-cased",
-        output_dir="C:\\Users\\duart\\OneDrive\\Ambiente de Trabalho\\Faculdade\\Samsung\\CapStone\\Repository\\CapStone\\models\\BERT\\bert-base-cased",
+        output_dir=PROJECT_ROOT / "models" /"BERT" /"bert-base-cased",
         num_labels=3
     )
