@@ -39,6 +39,7 @@ Thumbs.db
 
 # Em train_data ignora tudo…
 data/
+data/raw/Json/
 
 
 
