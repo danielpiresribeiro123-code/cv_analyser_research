@@ -6,7 +6,7 @@ paths = load_paths()
 
 # Caminho base do projeto
 PROJECT_ROOT = paths["project_root"]
-input_path = PROJECT_ROOT / 'data' / 'raw'
+input_path = PROJECT_ROOT / 'data' / 'raw' / "Json"
 output_path = PROJECT_ROOT / 'data' / 'processed' / "output"
 model_checkpoint = "bert-base-cased"
 
