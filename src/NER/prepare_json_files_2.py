@@ -210,7 +210,7 @@ label2id = {
 }
 
 dataset = build_bert_ner_dataset(
-    input_path=PROJECT_ROOT / "data" / "ResumesJsonAnnotated",  # ou ficheiro .json
+    input_path=PROJECT_ROOT / "data" / "raw" /"Json",  # ou ficheiro .json
     tokenizer=tokenizer,
     label2id=label2id,
     output_dir=PROJECT_ROOT / "data" / "bert_ner_dataset"
