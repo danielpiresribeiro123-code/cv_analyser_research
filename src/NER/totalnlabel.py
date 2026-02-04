@@ -15,6 +15,11 @@
 import json
 from pathlib import Path
 
+import torch
+from transformers import AutoTokenizer, AutoModelForTokenClassification
+
+print("Torch:", torch.__version__)
+print("CUDA disponível:", torch.cuda.is_available())
 
 from utils.path_loader import load_paths
 paths = load_paths()
