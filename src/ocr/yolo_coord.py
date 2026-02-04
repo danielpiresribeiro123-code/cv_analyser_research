@@ -10,7 +10,7 @@ paths = load_paths()
 # Caminho base do projeto
 PROJECT_ROOT = paths["project_root"]
 
-MOLDEL_PATH = PROJECT_ROOT / "models" / "trained" / "yolov8s-text-photo-5.pt"
+MODEL_PATH = PROJECT_ROOT / "models" / "trained" / "yolo11s-text-photo-150e4b.pt"
 
 import cv2
 from PIL import Image
@@ -88,7 +88,7 @@ if __name__ == "__main__":
 
     detections = detect_and_segment_cv(
         image_path=image_path,
-        model_path=MOLDEL_PATH)
+        model_path=MODEL_PATH)
 
     bbox_data = []
     for i, d in enumerate(detections):

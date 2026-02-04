@@ -3,12 +3,24 @@
     "image_path": "src\\ocr\\test_image.jpeg",
     "index": 0,
     "class": "text_block",
-    "confidence": 0.8057401776313782,
+    "confidence": 0.7544199228286743,
     "bbox": [
-      10,
+      8,
       0,
-      360,
-      507
+      365,
+      510
+    ]
+  },
+  {
+    "image_path": "src\\ocr\\test_image.jpeg",
+    "index": 1,
+    "class": "text_block",
+    "confidence": 0.36881935596466064,
+    "bbox": [
+      9,
+      314,
+      362,
+      512
     ]
   }
 ]

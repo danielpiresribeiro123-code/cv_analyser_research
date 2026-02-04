@@ -10,12 +10,11 @@ import os
 from pathlib import Path
 
 from utils.path_loader import load_paths
-from yolo_coord import detect_and_segment_cv, PROJECT_ROOT
+from yolo_coord import detect_and_segment_cv, MODEL_PATH, PROJECT_ROOT
 from ocr_image import process_image_with_bbox
 
 # Image extensions to process
 IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".bmp", ".tiff"}
-YOLO_MODEL_PATH = PROJECT_ROOT / "models" / "trained" / "yolov8s-text-photo-5.pt"
 
 
 def process_image_folder(folder_path):
@@ -63,7 +62,7 @@ def process_image_folder(folder_path):
             print(f"\nStep 1: Detecting bounding boxes...")
             detections = detect_and_segment_cv(
                 image_path=str(image_path),
-                model_path=YOLO_MODEL_PATH
+                model_path=MODEL_PATH
             )
             print(f"Found {len(detections)} bounding boxes")
             
