@@ -5,6 +5,7 @@ venv/
 
 # Modelos pesados
 models/downloaded
+models/BERT
 src/train_yolo/yolov8s-text-photo
 src/train_yolo/yolo11s-text-photo
 src/train_yolo/yolo26s-text-photo
@@ -35,6 +36,7 @@ Thumbs.db
 
 # Em train_data ignora tudo…
 data/train_data/*
+data/raw_BERT
 
 # …exceto o features.csv
 !data/train_data/features.csv
