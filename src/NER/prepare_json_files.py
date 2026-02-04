@@ -1,143 +1,146 @@
 import json
-import torch
-import numpy as np
-import evaluate
-from datasets import Dataset, DatasetDict
-from transformers import (
-    AutoTokenizer, 
-    AutoModelForTokenClassification, 
-    TrainingArguments, 
-    Trainer, 
-    DataCollatorForTokenClassification
+from pathlib import Path
+from datasets import Dataset
+
+from utils.path_loader import load_paths
+paths = load_paths()
+
+# Caminho base do projeto
+PROJECT_ROOT = paths["project_root"]
+
+
+def json_to_bert_ner_features(
+    text: str,
+    annotations: list,
+    tokenizer,
+    label2id: dict,
+    max_length: int = 512
+):
+    """
+    Converte um CV (texto + spans char) para input BERT NER (BIO).
+
+    Returns:
+        dict com input_ids, attention_mask e labels
+    """
+
+    # 1) manter apenas spans SKILL
+    spans = []
+    for ann in annotations:
+        if len(ann) < 3:
+            continue
+        start, end, label = ann
+        if str(label).upper().startswith("SKILL"):
+            spans.append((int(start), int(end)))
+
+    spans.sort(key=lambda x: x[0])
+
+    # 2) tokenizar com offsets
+    encoding = tokenizer(
+        text,
+        return_offsets_mapping=True,
+        truncation=True,
+        max_length=max_length
+    )
+
+    offsets = encoding["offset_mapping"]
+    labels = ["O"] * len(offsets)
+
+    # 3) alinhar spans → tokens
+    for (span_start, span_end) in spans:
+        token_idxs = []
+
+        for i, (tok_start, tok_end) in enumerate(offsets):
+            # tokens especiais ([CLS], [SEP])
+            if tok_start == tok_end:
+                continue
+
+            # interseção token ↔ span
+            if tok_end <= span_start:
+                continue
+            if tok_start >= span_end:
+                continue
+
+            token_idxs.append(i)
+
+        if not token_idxs:
+            continue
+
+        # BIO
+        labels[token_idxs[0]] = "B-SKILL"
+        for idx in token_idxs[1:]:
+            labels[idx] = "I-SKILL"
+
+    # 4) converter para ids + ignorar tokens especiais
+    label_ids = []
+    for (tok_start, tok_end), lab in zip(offsets, labels):
+        if tok_start == tok_end:
+            label_ids.append(-100)
+        else:
+            label_ids.append(label2id[lab])
+
+    encoding.pop("offset_mapping")
+    encoding["labels"] = label_ids
+
+    return encoding
+
+
+
+
+def build_bert_ner_dataset(
+    json_folder: Path,
+    tokenizer,
+    label2id: dict,
+    max_length: int = 512
+):
+    """
+    Converte todos os JSON anotados num Dataset HuggingFace.
+    Ignora ficheiros sem annotations.
+    """
+
+    records = []
+
+    for json_file in json_folder.rglob("*.json"):
+        data = json.loads(json_file.read_text(encoding="utf-8"))
+
+        annotations = data.get("annotations", [])
+        if not annotations:
+            continue  # ignora os 58 ficheiros vazios
+
+        text = data["text"]
+
+        features = json_to_bert_ner_features(
+            text=text,
+            annotations=annotations,
+            tokenizer=tokenizer,
+            label2id=label2id,
+            max_length=max_length
+        )
+
+        records.append(features)
+
+    print(f"✅ Dataset criado com {len(records)} CVs anotados")
+    return Dataset.from_list(records)
+
+
+
+from transformers import AutoTokenizer
+
+tokenizer = AutoTokenizer.from_pretrained(
+    PROJECT_ROOT / "models" / "BERT" / "bert-base-cased",
+    use_fast=True
 )
 
-# 1. Configurações de Labels e Modelo
-model_nm = "bert-base-cased"
-# Adiciona aqui todas as variantes de labels que aparecem no teu JSON
-label_list = ["O", "B-SKILL", "I-SKILL"] 
-label2id = {l: i for i, l in enumerate(label_list)}
-id2label = {i: l for i, l in enumerate(label_list)}
-
-# Mapeamento para converter as strings do teu JSON em números
-# Se o teu JSON tem "SKILL: Building", ele será mapeado para 1 (B-SKILL)
-tag_to_id_map = {
+label2id = {
     "O": 0,
-    "SKILL: Building": 1,
     "B-SKILL": 1,
     "I-SKILL": 2
 }
 
-# 2. Carregar Tokenizer e Modelo
-tokenizer = AutoTokenizer.from_pretrained(model_nm)
-model = AutoModelForTokenClassification.from_pretrained(
-    model_nm, 
-    num_labels=len(label_list),
-    id2label=id2label,
+dataset = build_bert_ner_dataset(
+    json_folder=PROJECT_ROOT / "data" / "ResumesJsonAnnotated",
+    tokenizer=tokenizer,
     label2id=label2id
 )
 
-# 3. Carregamento e Tratamento Manual do JSON
-path_json = 'C:\\Users\\duart\\OneDrive\\Ambiente de Trabalho\\Faculdade\\Samsung\\CapStone\\Repository\\CapStone\\data\\raw\\ResumesJsonAnnotated\\cv (1)_annotated.json'
-
-with open(path_json, 'r', encoding='utf-8') as f:
-    data = json.load(f)
-
-# Se o JSON tiver uma chave "data", usa: data = data['data']
-# Se for uma lista direta, ignora.
-
-tokens_list = []
-labels_list = []
-
-for item in data:
-    tokens_list.append(item['tokens'])
-    # Converte as strings das anotações em números usando o nosso mapa
-    # Se não encontrar a tag, assume 0 ("O")
-    numeric_tags = [tag_to_id_map.get(tag, 0) for tag in item['annotations']]
-    labels_list.append(numeric_tags)
-
-# Criar o Dataset formatado
-raw_datasets = DatasetDict({
-    "train": Dataset.from_dict({"tokens": tokens_list, "ner_tags": labels_list})
-})
-# Divide em 80% treino e 20% teste
-raw_datasets = raw_datasets['train'].train_test_split(test_size=0.2)
-
-# 4. Função de Alinhamento (Lida com sub-tokens do BERT)
-def tokenize_and_align_labels(examples):
-    tokenized_inputs = tokenizer(
-        examples["tokens"], 
-        truncation=True, 
-        is_split_into_words=True
-    )
-    labels = []
-    for i, label in enumerate(examples["ner_tags"]):
-        word_ids = tokenized_inputs.word_ids(batch_index=i)
-        previous_word_idx = None
-        label_ids = []
-        for word_idx in word_ids:
-            if word_idx is None:
-                label_ids.append(-100)
-            elif word_idx != previous_word_idx:
-                label_ids.append(label[word_idx])
-            else:
-                label_ids.append(label[word_idx])
-            previous_word_idx = word_idx
-        labels.append(label_ids)
-    tokenized_inputs["labels"] = labels
-    return tokenized_inputs
-
-tokenized_datasets = raw_datasets.map(tokenize_and_align_labels, batched=True)
-
-# 5. Métricas
-metric = evaluate.load("seqeval")
-
-def compute_metrics(p):
-    predictions, labels = p
-    predictions = np.argmax(predictions, axis=2)
-    true_predictions = [
-        [label_list[p] for (p, l) in zip(prediction, label) if l != -100]
-        for prediction, label in zip(predictions, labels)
-    ]
-    true_labels = [
-        [label_list[l] for (p, l) in zip(prediction, label) if l != -100]
-        for prediction, label in zip(predictions, labels)
-    ]
-    results = metric.compute(predictions=true_predictions, references=true_labels)
-    return {
-        "precision": results["overall_precision"],
-        "recall": results["overall_recall"],
-        "f1": results["overall_f1"],
-        "accuracy": results["overall_accuracy"],
-    }
-
-# 6. Treino
-training_args = TrainingArguments(
-    output_dir="./bert-skill-results",
-    learning_rate=2e-5,
-    per_device_train_batch_size=8, # Reduzido para poupar memória
-    num_train_epochs=3,
-    weight_decay=0.01,
-    evaluation_strategy="epoch",
-    save_strategy="epoch",
-    load_best_model_at_end=True,
-    report_to="none" # Evita avisos de falta de login em plataformas de log
-)
-
-trainer = Trainer(
-    model=model,
-    args=training_args,
-    train_dataset=tokenized_datasets["train"],
-    eval_dataset=tokenized_datasets["test"],
-    tokenizer=tokenizer,
-    data_collator=DataCollatorForTokenClassification(tokenizer),
-    compute_metrics=compute_metrics
-)
-
-# 7. Execução
-print("A iniciar o fine-tuning...")
-trainer.train()
-
-# 8. Guardar resultados
-model.save_pretrained("./meu_modelo_skills")
-tokenizer.save_pretrained("./meu_modelo_skills")
-print("Modelo guardado em ./meu_modelo_skills")
+print(dataset)
+print(dataset[0].keys())
