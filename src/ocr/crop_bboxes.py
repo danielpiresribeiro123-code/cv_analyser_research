@@ -76,10 +76,6 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         image_path = sys.argv[1]
         bbox_json_path = sys.argv[2] if len(sys.argv) > 2 else None
-    else:
-        # Default example
-        image_path = PROJECT_ROOT / "src" / "ocr" / "WhatsApp Image 2026-01-28 at 18.16.19.jpeg"
-        bbox_json_path = None
     
     try:
         crop_bboxes(image_path, bbox_json_path)

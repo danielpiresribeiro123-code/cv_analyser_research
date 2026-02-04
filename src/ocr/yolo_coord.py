@@ -104,10 +104,7 @@ if __name__ == "__main__":
     
     if len(sys.argv) > 1:
         image_path = sys.argv[1]
-    else:
-        # Default example image
-        image_path = r"C:\Users\Tomás\Documents\GitHub\CapStone\src\ocr\WhatsApp Image 2026-01-28 at 18.16.19.jpeg"
-
+    
     detections = detect_and_segment_cv(
         image_path=image_path,
         model_path=MODEL_PATH)
