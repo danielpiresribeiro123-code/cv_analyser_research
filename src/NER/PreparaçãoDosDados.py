@@ -37,7 +37,7 @@ model = AutoModelForTokenClassification.from_pretrained(
 )
 
 # 3. Carregamento e Tratamento Manual do JSON
-path_json = 'C:\\Users\\duart\\OneDrive\\Ambiente de Trabalho\\Faculdade\\Samsung\\CapStone\\Repository\\CapStone\\Data\\raw\\ResumesJsonAnnotated\\cv (1)_annotated.json'
+path_json = 'C:\\Users\\duart\\OneDrive\\Ambiente de Trabalho\\Faculdade\\Samsung\\CapStone\\Repository\\CapStone\\data\\raw\\ResumesJsonAnnotated\\cv (1)_annotated.json'
 
 with open(path_json, 'r', encoding='utf-8') as f:
     data = json.load(f)
