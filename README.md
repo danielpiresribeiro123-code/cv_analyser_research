@@ -42,9 +42,7 @@ O resto do ficheiro funciona como configuração automática.
 Recomendado: usar `venv` no VSCode
 
 ```bash
-python -m venv .venv
-.\.venv\Scripts\activate
-pip install -e .
+pip install torch numpy evaluate datasets transformers python-dotenv ultralytics
 ```
 
 Ou com conda:
