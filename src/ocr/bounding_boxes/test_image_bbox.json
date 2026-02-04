@@ -1,6 +1,6 @@
 [
   {
-    "image_path": "src\\ocr\\WhatsApp Image 2026-01-28 at 18.16.19.jpeg",
+    "image_path": "src\\ocr\\test_image.jpeg",
     "index": 0,
     "class": "text_block",
     "confidence": 0.8057401776313782,

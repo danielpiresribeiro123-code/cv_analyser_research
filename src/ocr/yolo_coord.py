@@ -78,8 +78,13 @@ def detect_and_segment_cv(
 
 
 if __name__ == "__main__":
-    # Example run (adjust `image_path` as needed)
-    image_path = r"C:\Users\Tomás\Documents\GitHub\CapStone\src\ocr\WhatsApp Image 2026-01-28 at 18.16.19.jpeg"
+    import sys
+    
+    if len(sys.argv) > 1:
+        image_path = sys.argv[1]
+    else:
+        # Default example image
+        image_path = r"C:\Users\Tomás\Documents\GitHub\CapStone\src\ocr\WhatsApp Image 2026-01-28 at 18.16.19.jpeg"
 
     detections = detect_and_segment_cv(
         image_path=image_path,
@@ -96,13 +101,12 @@ if __name__ == "__main__":
             "bbox": list(d["bbox"])  # [x1, y1, x2, y2]
         })
 
-    base_name = os.path.basename(image_path)
-    name, _ = os.path.splitext(base_name)
-
     # Save JSON to `src/ocr/bounding_boxes/` directory
     bb_dir = PROJECT_ROOT / "src" / "ocr" / "bounding_boxes"
     bb_dir.mkdir(parents=True, exist_ok=True)
 
-    out_path = bb_dir / f"{name}_bbox.json"
+    base_name = Path(image_path).stem
+    out_path = bb_dir / f"{base_name}_bbox.json"
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(bbox_data, f, indent=2, ensure_ascii=False)
+    print(f"Saved: {out_path}")

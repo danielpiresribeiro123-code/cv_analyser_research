@@ -1,4 +1,7 @@
 import os
+import json
+from pathlib import Path
+from PIL import Image
 
 # --- CRITICAL FIX FOR SPECIAL CHARACTERS IN USERNAME ---
 # We force Paddle to look for models in a simple path without accents.
@@ -29,37 +32,137 @@ except ImportError:
 
 # OCR Initialization
 from paddleocr import PaddleOCR
+from utils.path_loader import load_paths
+
+paths = load_paths()
+PROJECT_ROOT = paths["project_root"]
 
 ocr = PaddleOCR(use_angle_cls=True, lang='en', enable_mkldnn=False)
 
-print("✅ Initialization successful!")
+print("OCR initialized with PaddleOCR. Ready to process images.")
 
-def run_ocr_base(path: str, save: bool = False):
-  result = ocr.predict(path)
 
-  text_doc = ''
-  for res in result:
-    for text_line in res['rec_texts']:
-      text_doc += (text_line + '\n')
+def extract_text_from_bboxes(image_path, bbox_json_path):
+    """
+    Extract text from bounding boxes using OCR.
+    
+    Args:
+        image_path: Path to the image file
+        bbox_json_path: Path to the bounding box JSON (from yolo_coord)
+    
+    Returns:
+        List of dicts with structure:
+        {
+            "index": int,
+            "class": str,
+            "confidence": float,
+            "bbox": [x1, y1, x2, y2],
+            "text": str
+        }
+    """
+    # Load image
+    img = Image.open(image_path).convert("RGB")
+    
+    # Load bounding box data
+    with open(bbox_json_path, "r", encoding="utf-8") as f:
+        bbox_data = json.load(f)
+    
+    results = []
+    
+    print(f"\n📸 Processing {len(bbox_data)} bounding boxes from {Path(image_path).name}...\n")
+    
+    for item in bbox_data:
+        x1, y1, x2, y2 = item["bbox"]
+        crop = img.crop((x1, y1, x2, y2))
+        
+        # Convert PIL Image to numpy array for OCR
+        import numpy as np
+        crop_array = np.array(crop)
+        
+        # Run OCR on crop
+        ocr_result = ocr.predict(crop_array)
+        
+        # Extract text from OCR result
+        text_lines = []
+        if ocr_result and len(ocr_result) > 0:
+            for res in ocr_result:
+                for line in res['rec_texts']: 
+                    text = line
+                    text_lines.append(text)
+        
+        extracted_text = " ".join(text_lines)
+        
+        results.append({
+            "index": item["index"],
+            "class": item["class"],
+            "confidence": item["confidence"],
+            "bbox": item["bbox"],
+            "text": extracted_text
+        })
+        
+        print(f"[{item['index']}] {item['class']} (conf={item['confidence']:.2f}): {extracted_text[:60]}...")
+    
+    return results
 
-  print("\n--- RAW EXTRACTED TEXT ---\n")
-  print(text_doc)
-  print("\n--------------------------\n")
 
-  if save:
-    base_name = os.path.basename(path)
-    name, _ = os.path.splitext(base_name)
-    out_path = os.path.join(os.path.dirname(path), f"{name}_ocr.json")
-    with open(out_path, 'w', encoding='utf-8') as f:
-      f.write(text_doc)
-    print(f"✅ Text saved to: {out_path}")
+def process_image_with_bbox(image_path, bbox_json_path=None):
+    """
+    Full pipeline: load image + bbox JSON, extract text, save to extracted_text folder as TXT.
+    Concatenates all text in order (top to bottom, left to right).
+    
+    Args:
+        image_path: Path to image
+        bbox_json_path: Path to bbox JSON. If None, infer from image name in bounding_boxes/
+    """
+    image_path = Path(image_path)
+    
+    # Auto-find bbox JSON if not provided
+    if bbox_json_path is None:
+        bbox_json_path = PROJECT_ROOT / "src" / "ocr" / "bounding_boxes" / f"{image_path.stem}_bbox.json"
+    
+    bbox_json_path = Path(bbox_json_path)
+    
+    if not image_path.exists():
+        raise FileNotFoundError(f"Image not found: {image_path}")
+    if not bbox_json_path.exists():
+        raise FileNotFoundError(f"Bbox JSON not found: {bbox_json_path}")
+    
+    # Extract text from bboxes
+    ocr_results = extract_text_from_bboxes(str(image_path), str(bbox_json_path))
+    
+    # Concatenate all text in order
+    concatenated_text = "\n".join([item["text"] for item in ocr_results])
+    
+    # Create output directory
+    out_dir = PROJECT_ROOT / "src" / "ocr" / "extracted_text"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Save as TXT file
+    out_path = out_dir / f"{image_path.stem}_text.txt"
+    with open(out_path, "w", encoding="utf-8") as f:
+        f.write(concatenated_text)
+    
+    print(f"\n--- EXTRACTED TEXT ---\n")
+    print(concatenated_text)
+    print(f"\n--- END ---\n")
+    print(f"Text extraction complete. Saved to: {out_path}\n")
+    
+    return concatenated_text
 
-img_path = r"C:\Users\Tomás\Documents\GitHub\CapStone\src\ocr\WhatsApp Image 2026-01-28 at 18.16.19.jpeg"
 
-if os.path.exists(img_path):
-    print(f"✅ File found: {img_path}")
-else:
-    print(f"❌ File NOT found. Check the name and path.")
-    exit() 
-
-run_ocr_base(img_path, save=True)
+if __name__ == "__main__":
+    import sys
+    
+    if len(sys.argv) > 1:
+        image_path = sys.argv[1]
+        bbox_json_path = sys.argv[2] if len(sys.argv) > 2 else None
+    else:
+        # Default example
+        image_path = PROJECT_ROOT / "src" / "ocr" / "WhatsApp Image 2026-01-28 at 18.16.19.jpeg"
+        bbox_json_path = None
+    
+    try:
+        process_image_with_bbox(image_path, bbox_json_path)
+    except Exception as e:
+        print(f"Error: {e}")
+        sys.exit(1)
