@@ -69,7 +69,7 @@ def extract_text_from_bboxes(image_path, bbox_json_path):
     
     results = []
     
-    print(f"\n📸 Processing {len(bbox_data)} bounding boxes from {Path(image_path).name}...\n")
+    print(f"\n Processing {len(bbox_data)} bounding boxes from {Path(image_path).name}...\n")
     
     for item in bbox_data:
         x1, y1, x2, y2 = item["bbox"]
@@ -142,10 +142,6 @@ def process_image_with_bbox(image_path, bbox_json_path=None):
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(concatenated_text)
     
-    print(f"\n--- EXTRACTED TEXT ---\n")
-    print(concatenated_text)
-    print(f"\n--- END ---\n")
-    print(f"Text extraction complete. Saved to: {out_path}\n")
     
     return concatenated_text
 
