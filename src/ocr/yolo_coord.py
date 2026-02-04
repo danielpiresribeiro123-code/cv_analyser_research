@@ -73,8 +73,30 @@ def detect_and_segment_cv(
 
     # Ordenação: cima → baixo, esquerda → direita
     detections.sort(key=lambda d: (d["y"], d["x"]))
-
-    return detections
+    
+    # Remove bboxes fully contained within another bbox of the same class
+    filtered_detections = []
+    for i, det_i in enumerate(detections):
+        x1_i, y1_i, x2_i, y2_i = det_i["bbox"]
+        is_contained = False
+        
+        for j, det_j in enumerate(detections):
+            if i == j or det_i["class"] != det_j["class"]:
+                continue
+            
+            x1_j, y1_j, x2_j, y2_j = det_j["bbox"]
+            
+            # Check if det_i is fully contained in det_j
+            if (x1_i >= x1_j and y1_i >= y1_j and 
+                x2_i <= x2_j and y2_i <= y2_j and
+                (x1_i, y1_i, x2_i, y2_i) != (x1_j, y1_j, x2_j, y2_j)):
+                is_contained = True
+                break
+        
+        if not is_contained:
+            filtered_detections.append(det_i)
+    
+    return filtered_detections
 
 
 if __name__ == "__main__":

@@ -37,6 +37,9 @@ from utils.path_loader import load_paths
 paths = load_paths()
 PROJECT_ROOT = paths["project_root"]
 
+# Conservative buffer to capture clipped text without including unrelated content
+BBOX_BUFFER = 5  # pixels
+
 ocr = PaddleOCR(use_angle_cls=True, lang='en', enable_mkldnn=False)
 
 print("OCR initialized with PaddleOCR. Ready to process images.")
@@ -62,6 +65,7 @@ def extract_text_from_bboxes(image_path, bbox_json_path):
     """
     # Load image
     img = Image.open(image_path).convert("RGB")
+    img_w, img_h = img.size
     
     # Load bounding box data
     with open(bbox_json_path, "r", encoding="utf-8") as f:
@@ -73,6 +77,13 @@ def extract_text_from_bboxes(image_path, bbox_json_path):
     
     for item in bbox_data:
         x1, y1, x2, y2 = item["bbox"]
+        
+        # Apply buffer with bounds checking
+        x1 = max(0, x1 - BBOX_BUFFER)
+        y1 = max(0, y1 - BBOX_BUFFER)
+        x2 = min(img_w, x2 + BBOX_BUFFER)
+        y2 = min(img_h, y2 + BBOX_BUFFER)
+        
         crop = img.crop((x1, y1, x2, y2))
         
         # Convert PIL Image to numpy array for OCR
