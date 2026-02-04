@@ -1,49 +1,53 @@
 from pathlib import Path
-from transformers import AutoTokenizer, AutoModelForTokenClassification
+from transformers import AutoTokenizer, AutoModelForTokenClassification, AutoConfig
 
 from utils.path_loader import load_paths
 paths = load_paths()
 
 # Caminho base do projeto
 PROJECT_ROOT = paths["project_root"]
+from pathlib import Path
+from transformers import AutoTokenizer, AutoModelForTokenClassification
 
 def download_bert_model(
-    model_name: str = "bert-base-cased",
-    output_dir: str = "models/bert-base-cased",
-    num_labels: int = 3
+    model_name: str,
+    output_dir: Path,
+    label2id: dict
 ):
     """
-    Faz download do tokenizer e do modelo BERT para um diretório específico.
-
-    Args:
-        model_name (str): Nome do modelo HuggingFace (ex: bert-base-cased)
-        output_dir (str): Path onde o modelo será guardado
-        num_labels (int): Número de labels para TokenClassification (NER)
+    Download do tokenizer e modelo BERT preparado para NER.
     """
 
-    output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    print(f"📥 A fazer download de '{model_name}'...")
-    print(f"📁 Diretório: {output_dir.resolve()}")
+    id2label = {v: k for k, v in label2id.items()}
 
-    # Tokenizer
+    print(f"📥 Download do modelo: {model_name}")
+    print(f"📁 A guardar em: {output_dir.resolve()}")
+
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     tokenizer.save_pretrained(output_dir)
 
-    # Modelo (NER)
     model = AutoModelForTokenClassification.from_pretrained(
         model_name,
-        num_labels=num_labels
+        num_labels=len(label2id),
+        label2id=label2id,
+        id2label=id2label
     )
     model.save_pretrained(output_dir)
 
-    print("✅ Download concluído com sucesso!")
+    print("✅ Modelo BERT NER pronto.")
 
 
-if __name__ == "__main__":
-    download_bert_model(
-        model_name="bert-base-cased",
-        output_dir=PROJECT_ROOT / "models" /"BERT" /"bert-base-cased",
-        num_labels=3
-    )
+label2id = {
+    "O": 0,
+    "B-SKILL": 1,
+    "I-SKILL": 2
+}
+
+
+download_bert_model(model_name="bert-base-cased",output_dir=PROJECT_ROOT / "models" / "BERT" / "bert-base-cased",label2id=label2id)
+
+cfg = AutoConfig.from_pretrained(PROJECT_ROOT / "models" / "BERT" / "bert-base-cased")
+print("\nConfirmar que o modelo ficou bem configurado:")
+print(cfg.id2label)

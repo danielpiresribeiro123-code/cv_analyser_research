@@ -1,136 +1,127 @@
-import json
-from pathlib import Path
+"""Resultado deste programa:
 
+🔍 Ficheiros .json encontrados (recursivo): 5029
 
-def analyze_ner_labels_in_folder(folder_path):
-    folder = Path(folder_path)
-
-    if not folder.exists() or not folder.is_dir():
-        raise ValueError(f"O caminho '{folder_path}' não é um diretório válido.")
-
-    results = {}
-    max_labels = 0
-    files_with_more_labels = []
-
-    for json_file in folder.glob("*.json"):
-        try:
-            with open(json_file, "r", encoding="utf-8") as f:
-                data = json.load(f)
-
-            # Extrair entidades base (antes do :)
-            unique_entities = {
-                ann[2].split(":")[0].strip()
-                for ann in data.get("annotations", [])
-            }
-
-            num_labels = 1 + (len(unique_entities) * 2)
-
-            results[json_file.name] = {
-                "entities": unique_entities,
-                "num_labels": num_labels
-            }
-
-            if num_labels > max_labels:
-                max_labels = num_labels
-                files_with_more_labels = [json_file.name]
-            elif num_labels == max_labels:
-                files_with_more_labels.append(json_file.name)
-
-        except Exception as e:
-            print(f"❌ Erro ao processar {json_file.name}: {e}")
-
-    # ---------- Relatório ----------
-    print("\n📊 RELATÓRIO GLOBAL NER\n")
-
-    unique_label_counts = sorted(
-        set(r["num_labels"] for r in results.values())
-    )
-
-    print(f"✔️ Valores de num_labels encontrados: {unique_label_counts}")
-
-    if len(unique_label_counts) == 1:
-        print(f"🎯 Todos os ficheiros usam num_labels = {unique_label_counts[0]}")
-    else:
-        print("⚠️ Foram encontrados ficheiros com num_labels diferentes:")
-        for fname, info in results.items():
-            print(
-                f" - {fname}: num_labels = {info['num_labels']} | entidades = {info['entities']}"
-            )
-
-    print("\n🔝 Valor máximo de num_labels encontrado:", max_labels)
-    print("📂 Ficheiros com esse valor:")
-    for f in files_with_more_labels:
-        print(" -", f)
-
-    return results
-
-
-if __name__ == "__main__":
-    analyze_ner_labels_in_folder(
-        folder_path=r"C:\Users\duart\OneDrive\Ambiente de Trabalho\Faculdade\Samsung\CapStone\NerData\ResumesJsonAnnotated\ResumesJsonAnnotated"
-    )
+📊 RELATÓRIO GLOBAL NER
+✔️ Distribuição de num_labels (BIO):
+  - 3: 4971 ficheiros
+🏷️ Entidades únicas globais (1): ['SKILL']
+🔥 Top 10 entidades mais frequentes (nº de ficheiros onde aparecem):
+  - SKILL: 4971
+🔝 Máximo de tipos de entidade num ficheiro: 1
+   Exemplo: cv (1)_annotated.json -> ['SKILL']
+⚠️ Ficheiros sem annotations: 58 (ex.: cv (1038)_annotated.json)"""
 
 import json
 from pathlib import Path
 
-#Não Estava a gerar relatório então verifiquei se o caminho estava errado
-def analyze_ner_labels_in_folder(folder_path):
+
+from utils.path_loader import load_paths
+paths = load_paths()
+
+# Caminho base do projeto
+PROJECT_ROOT = paths["project_root"]
+
+import json
+from pathlib import Path
+from collections import Counter, defaultdict
+
+def analyze_ner_labels_in_folder(folder_path: str | Path):
     folder = Path(folder_path)
 
     if not folder.exists():
-        print(f"❌ Erro: O caminho não existe: {folder.resolve()}")
-        return
+        raise FileNotFoundError(f"O caminho não existe: {folder.resolve()}")
 
-    json_files = list(folder.glob("*.json"))
-    print(f"🔍 Ficheiros .json encontrados: {len(json_files)}")
+    json_files = list(folder.rglob("*.json"))  # <-- recursivo
+    print(f"🔍 Ficheiros .json encontrados (recursivo): {len(json_files)}")
 
-    if len(json_files) == 0:
-        print("⚠️ Verificação: A pasta está vazia ou os ficheiros não têm extensão .json")
-        return
+    if not json_files:
+        print("⚠️ A pasta não tem ficheiros .json")
+        return None
 
-    results = {}
-    max_labels = 0
-    files_with_more_labels = []
+    # por ficheiro
+    file_entities = {}
+    file_num_labels = {}
 
-    for json_file in json_files:
+    # global
+    global_entity_counter = Counter()
+    num_labels_counter = Counter()
+    files_with_errors = []
+    files_with_no_annotations = []
+
+    for jf in json_files:
         try:
-            with open(json_file, "r", encoding="utf-8") as f:
-                data = json.load(f)
+            data = json.loads(jf.read_text(encoding="utf-8"))
 
-            unique_entities = {
-                ann[2].split(":")[0].strip()
-                for ann in data.get("annotations", [])
-            }
+            anns = data.get("annotations", [])
+            if not anns:
+                files_with_no_annotations.append(jf)
+                continue
 
-            num_labels = 1 + (len(unique_entities) * 2)
+            # entidades do tipo "SKILL: python" -> "SKILL"
+            ents = set()
+            for ann in anns:
+                if len(ann) < 3:
+                    continue
+                raw = str(ann[2])
+                ent = raw.split(":", 1)[0].strip().upper()  # normaliza
+                if ent:
+                    ents.add(ent)
 
-            results[json_file.name] = {
-                "entities": unique_entities,
-                "num_labels": num_labels
-            }
+            file_entities[jf] = ents
+            global_entity_counter.update(ents)
 
-            if num_labels > max_labels:
-                max_labels = num_labels
-                files_with_more_labels = [json_file.name]
-            elif num_labels == max_labels:
-                files_with_more_labels.append(json_file.name)
+            # BIO: O + B/I por entidade
+            num_labels = 1 + 2 * len(ents)
+            file_num_labels[jf] = num_labels
+            num_labels_counter[num_labels] += 1
 
         except Exception as e:
-            print(f"❌ Erro ao processar {json_file.name}: {e}")
+            files_with_errors.append((jf, str(e)))
 
     print("\n📊 RELATÓRIO GLOBAL NER\n")
-    unique_label_counts = sorted(set(r["num_labels"] for r in results.values()))
-    print(f"✔️ Valores de num_labels encontrados: {unique_label_counts}")
 
-    if len(unique_label_counts) == 1:
-        print(f"🎯 Todos os ficheiros usam num_labels = {unique_label_counts[0]}")
+    # 1) Distribuição de num_labels
+    if num_labels_counter:
+        print("✔️ Distribuição de num_labels (BIO):")
+        for k in sorted(num_labels_counter):
+            print(f"  - {k}: {num_labels_counter[k]} ficheiros")
     else:
-        for fname, info in results.items():
-            print(f" - {fname}: num_labels = {info['num_labels']} | entidades = {info['entities']}")
+        print("⚠️ Não foi possível calcular num_labels (talvez sem annotations).")
 
-    print("\n🔝 Valor máximo de num_labels encontrado:", max_labels)
-    return results
+    # 2) Labels globais encontradas
+    all_labels = sorted(global_entity_counter.keys())
+    print(f"\n🏷️ Entidades únicas globais ({len(all_labels)}): {all_labels}")
+
+    # 3) Top labels mais comuns (por ficheiro, não por ocorrência)
+    if global_entity_counter:
+        print("\n🔥 Top 10 entidades mais frequentes (nº de ficheiros onde aparecem):")
+        for lab, c in global_entity_counter.most_common(10):
+            print(f"  - {lab}: {c}")
+
+    # 4) Máximo de entidades num ficheiro
+    if file_entities:
+        jf_max = max(file_entities, key=lambda p: len(file_entities[p]))
+        print(f"\n🔝 Máximo de tipos de entidade num ficheiro: {len(file_entities[jf_max])}")
+        print(f"   Exemplo: {jf_max.name} -> {sorted(file_entities[jf_max])}")
+
+    # 5) Ficheiros sem annotations / com erro
+    if files_with_no_annotations:
+        print(f"\n⚠️ Ficheiros sem annotations: {len(files_with_no_annotations)} (ex.: {files_with_no_annotations[0].name})")
+    if files_with_errors:
+        print(f"\n❌ Ficheiros com erro: {len(files_with_errors)}")
+        print(f"   Ex.: {files_with_errors[0][0].name} -> {files_with_errors[0][1]}")
+
+    return {
+        "file_entities": {p.name: sorted(v) for p, v in file_entities.items()},
+        "num_labels_distribution": dict(num_labels_counter),
+        "global_entities": all_labels,
+        "top_entities": global_entity_counter.most_common(10),
+        "no_annotations": [p.name for p in files_with_no_annotations],
+        "errors": [(p.name, err) for p, err in files_with_errors],
+    }
+
 
 if __name__ == "__main__":
-    path = r"C:\Users\duart\OneDrive\Ambiente de Trabalho\Faculdade\Samsung\CapStone\NerData\ResumesJsonAnnotated\ResumesJsonAnnotated"
-    analyze_ner_labels_in_folder(path)
+    path = PROJECT_ROOT / "data" /"ResumesJsonAnnotated"
+    report = analyze_ner_labels_in_folder(path)
