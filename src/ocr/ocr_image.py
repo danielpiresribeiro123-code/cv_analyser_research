@@ -76,6 +76,10 @@ def extract_text_from_bboxes(image_path, bbox_json_path):
     print(f"\n Processing {len(bbox_data)} bounding boxes from {Path(image_path).name}...\n")
     
     for item in bbox_data:
+        # Skip photo class bounding boxes
+        if item["class"] == "photo":
+            continue
+        
         x1, y1, x2, y2 = item["bbox"]
         
         # Apply buffer with bounds checking
@@ -163,10 +167,6 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         image_path = sys.argv[1]
         bbox_json_path = sys.argv[2] if len(sys.argv) > 2 else None
-    else:
-        # Default example
-        image_path = PROJECT_ROOT / "src" / "ocr" / "WhatsApp Image 2026-01-28 at 18.16.19.jpeg"
-        bbox_json_path = None
     
     try:
         process_image_with_bbox(image_path, bbox_json_path)
