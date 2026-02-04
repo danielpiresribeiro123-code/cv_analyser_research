@@ -2,25 +2,85 @@
   {
     "image_path": "src\\ocr\\test_image.jpeg",
     "index": 0,
-    "class": "text_block",
-    "confidence": 0.7544199228286743,
+    "class": "photo",
+    "confidence": 0.9424965977668762,
     "bbox": [
-      8,
-      0,
-      365,
-      510
+      27,
+      29,
+      159,
+      159
     ]
   },
   {
     "image_path": "src\\ocr\\test_image.jpeg",
     "index": 1,
     "class": "text_block",
-    "confidence": 0.36881935596466064,
+    "confidence": 0.8918133974075317,
     "bbox": [
-      9,
-      314,
-      362,
-      512
+      183,
+      43,
+      351,
+      93
+    ]
+  },
+  {
+    "image_path": "src\\ocr\\test_image.jpeg",
+    "index": 2,
+    "class": "text_block",
+    "confidence": 0.8646100163459778,
+    "bbox": [
+      183,
+      111,
+      434,
+      147
+    ]
+  },
+  {
+    "image_path": "src\\ocr\\test_image.jpeg",
+    "index": 3,
+    "class": "text_block",
+    "confidence": 0.9030969142913818,
+    "bbox": [
+      20,
+      179,
+      157,
+      337
+    ]
+  },
+  {
+    "image_path": "src\\ocr\\test_image.jpeg",
+    "index": 4,
+    "class": "text_block",
+    "confidence": 0.9439782500267029,
+    "bbox": [
+      180,
+      180,
+      521,
+      309
+    ]
+  },
+  {
+    "image_path": "src\\ocr\\test_image.jpeg",
+    "index": 5,
+    "class": "text_block",
+    "confidence": 0.9682258367538452,
+    "bbox": [
+      181,
+      317,
+      519,
+      702
+    ]
+  },
+  {
+    "image_path": "src\\ocr\\test_image.jpeg",
+    "index": 6,
+    "class": "text_block",
+    "confidence": 0.6905474662780762,
+    "bbox": [
+      183,
+      713,
+      260,
+      741
     ]
   }
 ]
