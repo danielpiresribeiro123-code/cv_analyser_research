@@ -18,9 +18,9 @@ def train_text_photo_model():
     em CVs / Resumes.
     """
 
-    BASE_MODEL = PROJECT_ROOT / "models" / "downloaded" / "yolo26s.pt"
+    BASE_MODEL = PROJECT_ROOT / "models" / "downloaded" / "yolo11s.pt"
 
-    SAVE_DIR = PROJECT_ROOT / "src" / "train_yolo" / "yolo26s-text-photo"
+    SAVE_DIR = PROJECT_ROOT / "src" / "train_yolo" / "yolo11s-text-photo"
     SAVE_DIR.mkdir(parents=True, exist_ok=True)
 
     # 🔎 Validações rápidas (muito recomendadas)
@@ -40,12 +40,12 @@ def train_text_photo_model():
         data=str(DATASET_YAML),   # ← garante compatibilidade
         epochs=150,
         imgsz=640,
-        batch=4,
+        batch=6,
         device=0,                 # usa "cpu" se não tiveres GPU (0 para gpu)
         workers=4,
         seed=42,
         project=str(SAVE_DIR),
-        name="train-150e4b",
+        name="train-150e6b",
         exist_ok=True)
 
 
