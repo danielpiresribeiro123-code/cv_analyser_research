@@ -2,12 +2,12 @@ from pathlib import Path
 from transformers import AutoTokenizer, AutoModelForTokenClassification, AutoConfig
 
 from utils.path_loader import load_paths
+from pathlib import Path
+from transformers import AutoTokenizer, AutoModelForTokenClassification
 paths = load_paths()
 
 # Caminho base do projeto
 PROJECT_ROOT = paths["project_root"]
-from pathlib import Path
-from transformers import AutoTokenizer, AutoModelForTokenClassification
 
 def download_bert_model(
     model_name: str,
