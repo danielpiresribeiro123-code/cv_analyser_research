@@ -166,9 +166,10 @@ def build_bert_ner_dataset(
 
     if output_dir is not None:
         output_dir.mkdir(parents=True, exist_ok=True)
-        dataset.save_to_disk(output_dir)
-        print(f"💾 Dataset guardado em: {output_dir.resolve()}")
-
+        output_file = output_dir / "dataset.json"
+        dataset.to_json(output_file)
+        
+        print(f"💾 Dataset guardado em: {output_file.resolve()}")
     return dataset
 
 
@@ -213,7 +214,7 @@ dataset = build_bert_ner_dataset(
     input_path=PROJECT_ROOT / "data" / "raw" /"Json",  # ou ficheiro .json
     tokenizer=tokenizer,
     label2id=label2id,
-    output_dir=PROJECT_ROOT / "data" / "bert_ner_dataset"
+    output_dir=PROJECT_ROOT / "data" / "process_Json"
 )
 
 print(dataset)
