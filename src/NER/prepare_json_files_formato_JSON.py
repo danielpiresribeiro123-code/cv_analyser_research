@@ -2,7 +2,11 @@ import json
 from pathlib import Path
 from datasets import Dataset
 from transformers import AutoTokenizer
+import os
+import sys
 
+# Não sei porquê não reconhecia a pasta "utils"
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from utils.path_loader import load_paths
 paths = load_paths()
