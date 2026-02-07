@@ -81,6 +81,8 @@ def load_paths():
                 "dynamic_seg": get_env("YOLO_DYNAMIC_SEG"),
             },
         },
+
+        "git.path": "D:\\Microsoft VS Code\\Git\\cmd\\git.exe",
     }
 
     return paths
