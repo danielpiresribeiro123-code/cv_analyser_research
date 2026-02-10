@@ -12,6 +12,21 @@ MODELS_DATA_PATH = PROJECT_ROOT / "src" / "train_yolo"
 
 
 # ---------------------------------------------------------
+# Utils
+# ---------------------------------------------------------
+
+def to_relative(path: Path) -> str:
+    """
+    Converte path absoluto para relativo ao PROJECT_ROOT.
+    Se não for possível, devolve string normal.
+    """
+    try:
+        return str(path.relative_to(PROJECT_ROOT))
+    except ValueError:
+        return str(path)
+
+
+# ---------------------------------------------------------
 # Helpers de parsing
 # ---------------------------------------------------------
 
@@ -84,7 +99,7 @@ def extract_yolo_results(run_path: Path):
         "val_cls_loss": best_row["val/cls_loss"],
         "val_dfl_loss": best_row["val/dfl_loss"],
         "has_best_weights": best_weights.exists(),
-        "run_path": str(run_path),
+        "run_path": to_relative(run_path),  # 🔹 AGORA RELATIVO
     }
 
 
@@ -131,6 +146,7 @@ def collect_models_results(models_root: Path = MODELS_DATA_PATH):
     df = df.sort_values("mAP50-95", ascending=False).reset_index(drop=True)
 
     return df
+
 
 # Exemplo de uso:
 # df_models = collect_all_models()
