@@ -1,7 +1,7 @@
 import random
 
 import time
-from ultralytics import YOLO
+from ultralytics import YOLO # type: ignore
 
 import pandas as pd
 

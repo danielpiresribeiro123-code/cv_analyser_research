@@ -75,7 +75,7 @@ def extract_yolo_results(run_path: Path):
         "train_run": train_folder,
         "epochs_config": epochs,
         "batch_config": batch,
-        "best_epoch": int(best_row["epoch"]),
+        "best_epoch": int(best_row["epoch"].item()),
         "mAP50": best_row["metrics/mAP50(B)"],
         "mAP50-95": best_row["metrics/mAP50-95(B)"],
         "precision": best_row["metrics/precision(B)"],
