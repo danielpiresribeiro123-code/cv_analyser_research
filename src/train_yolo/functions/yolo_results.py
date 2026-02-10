@@ -92,7 +92,7 @@ def extract_yolo_results(run_path: Path):
 # Recolha global baseada em MODELS_DATA_PATH
 # ---------------------------------------------------------
 
-def collect_all_models(models_root: Path = MODELS_DATA_PATH):
+def collect_models_results(models_root: Path = MODELS_DATA_PATH):
     """
     Percorre MODELS_DATA_PATH e recolhe todos os treinos YOLO.
     Retorna DataFrame ordenado por mAP50-95.
