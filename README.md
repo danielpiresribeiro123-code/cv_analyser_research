@@ -101,3 +101,21 @@ git commit -m "Removendo arquivos rastreados que agora estão no .gitignore"
 ```bash
 git push
 ```
+
+### Extra
+Para cancelar commit antes de push: 
+```bash
+git reset --soft HEAD~1
+```
+
+
+Para fazer commit e push apenas do .gitignore, tens de garantir que só esse ficheiro está staged: 
+```bash
+git reset
+```
+
+```bash
+git add .gitignore
+git commit -m "Atualiza .gitignore"
+git push
+```

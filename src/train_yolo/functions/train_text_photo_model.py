@@ -40,13 +40,14 @@ def train_text_photo_model():
         data=str(DATASET_YAML),   # ← garante compatibilidade
         epochs=150,
         imgsz=640,
-        batch=6,
+        batch=14,
         device=0,                 # usa "cpu" se não tiveres GPU (0 para gpu)
         workers=4,
         seed=42,
         project=str(SAVE_DIR),
-        name="train-150e6b",
-        exist_ok=True)
+        name="train-150e14b",
+        exist_ok=True,
+        cache=True)
 
 
 
