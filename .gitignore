@@ -12,6 +12,7 @@ src/train_yolo/yolo26s-text-photo
 src/train_yolo/yolov8m-text-photo
 src/train_yolo/yolo11m-text-photo
 src/train_yolo/yolo26m-text-photo
+src/train_yolo/yolo11s-skill_table
 yolo11n.pt
 
 # Tem de criar em cada computador o .env com base em .env.example para por o project root.
