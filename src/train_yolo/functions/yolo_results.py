@@ -107,13 +107,19 @@ def extract_yolo_results(run_path: Path):
 # Recolha global baseada em MODELS_DATA_PATH
 # ---------------------------------------------------------
 
-def collect_models_results(models_root: Path = MODELS_DATA_PATH):
+def collect_models_results(models_root: Path = MODELS_DATA_PATH,verbose: bool = True) -> pd.DataFrame:
     """
     Percorre MODELS_DATA_PATH e recolhe todos os treinos YOLO.
-    Retorna DataFrame ordenado por mAP50-95.
+    Se verbose=True, imprime um resumo compacto tipo benchmark.
     """
 
+    if verbose:
+        print("\n=== YOLO RESULTS SUMMARY ===")
+        print(f"Models root: {models_root}\n")
+
+
     all_results = []
+    info = []
 
     if not models_root.exists():
         raise FileNotFoundError(f"MODELS_DATA_PATH não existe: {models_root}")
@@ -124,30 +130,50 @@ def collect_models_results(models_root: Path = MODELS_DATA_PATH):
     #       train-150e4b /
     #           results.csv
 
+    # descobrir info (só para contar + progresso)
     for model_dir in models_root.iterdir():
         if not model_dir.is_dir():
             continue
-
         for train_dir in model_dir.iterdir():
             if not train_dir.is_dir():
                 continue
+            if (train_dir / "results.csv").exists():
+                info.append(train_dir)
 
-            info = extract_yolo_results(train_dir)
+    if verbose:
+        print(f"Número de runs com results.csv: {len(info)}\n")
 
-            if info:
-                all_results.append(info)
+    for i, train_dir in enumerate(info, 1):
+        info = extract_yolo_results(train_dir)
+        if not info:
+            continue
+
+        all_results.append(info)
+
+        if verbose:
+            print(
+                f"[{i:02d}/{len(info)}] "
+                f"{info['yolo_version'].upper():>7} | "
+                f"TASK={str(info['task']):<10} | "
+                f"TRAIN={info['train_run']:<12} | "
+                f"mAP50-95={info['mAP50-95']:.4f} | "
+                f"best_epoch={info['best_epoch']}"
+            )
 
     if not all_results:
+        if verbose:
+            print("\nNenhum results.csv válido encontrado.\n")
         return pd.DataFrame()
 
-    df = pd.DataFrame(all_results)
+    df = pd.DataFrame(all_results).sort_values("mAP50-95", ascending=False).reset_index(drop=True)
 
-    # ordenar pelo critério principal
-    df = df.sort_values("mAP50-95", ascending=False).reset_index(drop=True)
+    if verbose:
+        best = df.iloc[0]
+        print("\n=== BEST (by mAP50-95) ===")
+        print(
+            f"{best['yolo_version'].upper()} | TASK={best['task']} | TRAIN={best['train_run']} | "
+            f"mAP50-95={best['mAP50-95']:.4f} | run_path={best['run_path']}"
+        )
+        print("=========================\n")
 
     return df
-
-
-# Exemplo de uso:
-# df_models = collect_all_models()
-# print(df_models)

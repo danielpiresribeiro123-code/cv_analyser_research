@@ -28,27 +28,50 @@ def to_relative(path: Path) -> str:
 
 def get_test_images_from_labels(labels_path: Path, num_images: int = 150):
     """
-    A partir de labels/test encontra as imagens correspondentes em images/test.
-    Seleciona aleatoriamente até num_images.
+    A partir de labels/test encontra as imagens correspondentes em images/test,
+    suportando múltiplas extensões.
+
+    Seleciona aleatoriamente até num_images imagens existentes.
     """
+
     labels_path = Path(labels_path)
     images_path = labels_path.parent.parent / "images" / "test"
+
+    # extensões comuns em datasets YOLO
+    valid_exts = [".jpg", ".jpeg", ".png", ".webp", ".bmp", ".tif", ".tiff"]
 
     image_paths = []
 
     for label_file in labels_path.glob("*.txt"):
-        img = images_path / (label_file.stem + ".jpg")
-        if img.exists():
-            image_paths.append(img)
+        stem = label_file.stem
+
+        # procurar qualquer extensão válida
+        for ext in valid_exts:
+            img = images_path / f"{stem}{ext}"
+            if img.exists():
+                image_paths.append(img)
+                break  # encontrou imagem correspondente → parar extensões
 
     if len(image_paths) == 0:
         raise RuntimeError(f"Nenhuma imagem encontrada para {labels_path}")
 
+    # embaralhar para amostragem aleatória
     random.shuffle(image_paths)
-    return image_paths[:num_images]
+
+    # garantir no máximo num_images
+    selected = image_paths[:num_images]
+
+    print(
+        f"[DATA] {labels_path.name}: "
+        f"{len(image_paths)} imagens válidas encontradas | "
+        f"usando {len(selected)} para benchmark"
+    )
+
+    return selected
 
 
-def measure_model_speed(model_path: Path, images, device="cpu"):
+
+def measure_model_speed(model_path: Path, images, device: str | int = "cpu"):
     """
     Mede ms/img e FPS de um modelo YOLO.
     """
@@ -79,7 +102,7 @@ def measure_model_speed(model_path: Path, images, device="cpu"):
 def collect_models_speed(
     models_root: Path = MODELS_DATA_PATH,
     num_images: int = 150,
-    device: str = "cpu",
+    device: str | int = "cpu",
 ):
     """
     Mede velocidade de inferência de todos os best.pt.
@@ -127,11 +150,13 @@ def collect_models_speed(
         images = text_photo_imgs if task == "text-photo" else skill_table_imgs
 
         print(
-            f"[{i}/{len(model_jobs)}] "
-            f"Benchmarking {best_path.name} | "
-            f"task={task} | "
-            f"train={train_dir.name}"
+            f"[{i:02d}/{len(model_jobs)}] "
+            f"{yolo_version.upper():>7} | "
+            f"TASK={task:<10} | "
+            f"TRAIN={train_dir.name:<12} | "
+            f"WEIGHTS={best_path.name}"
         )
+
 
         ms, fps = measure_model_speed(best_path, images, device=device)
 

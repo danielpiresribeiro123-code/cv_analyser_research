@@ -40,12 +40,12 @@ def train_skill_table_model():
         data=str(DATASET_YAML),   # ← garante compatibilidade
         epochs=150,
         imgsz=640,
-        batch=4,
+        batch=2,
         device=0,                 # usa "cpu" se não tiveres GPU (0 para gpu)
         workers=4,
         seed=42,\
         project=str(SAVE_DIR),
-        name="train-150e4b",
+        name="train-150e2b",
         exist_ok=True,
         cache=True,
         pretrained=True
