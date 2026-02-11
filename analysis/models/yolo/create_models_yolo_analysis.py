@@ -6,8 +6,8 @@ paths = load_paths()
 PROJECT_ROOT = paths["project_root"]
 # print(PROJECT_ROOT)
 
-from train_yolo.functions.reports.yolo_results import collect_models_results
-from train_yolo.functions.reports.yolo_speed import collect_models_speed
+from analysis.models.yolo.support.yolo_results import collect_models_results
+from analysis.models.yolo.support.yolo_speed import collect_models_speed
 
 #------------------------------------------
 # Funcões:
@@ -122,8 +122,8 @@ def save_dataframe(
 def create_yolo_models_benchmarks(
     device: str | int = "cpu",
     num_analysed_images: int = 150,
-    output_dir: Path = PROJECT_ROOT / "reports" / "yolo",
-    filename: str = "yolo_models_benchmarks",
+    output_dir: Path = PROJECT_ROOT / "analysis" / "models"/"yolo",
+    filename: str = "yolo_models_analysis",
     format: str = "csv",
 ) -> pd.DataFrame:
     """
@@ -164,4 +164,4 @@ def create_yolo_models_benchmarks(
 
 
 if __name__ == "__main__":
-    create_yolo_models_benchmarks(device=0)
+    create_yolo_models_benchmarks(device=0) #mudar para "cpu" caso não tenhas gpu ou a versão torch não esteja instalada
