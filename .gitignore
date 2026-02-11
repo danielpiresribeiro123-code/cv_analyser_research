@@ -1,53 +1,88 @@
-# Ambiente virtual
+# =========================
+# Virtual environments
+# =========================
 .venv/
-env/
 venv/
+env/
 
-# Modelos pesados
-models/downloaded
-models/BERT
-src/train_yolo/yolov8s-text-photo
-src/train_yolo/yolo11s-text-photo
-src/train_yolo/yolo26s-text-photo
-src/train_yolo/yolov8m-text-photo
-src/train_yolo/yolo11m-text-photo
-src/train_yolo/yolo26m-text-photo
-yolo11n.pt
-
-# Tem de criar em cada computador o .env com base em .env.example para por o project root.
+# =========================
+# Environment variables
+# =========================
 .env
 
+# =========================
+# IDEs / Editors
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# System files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Data (ignore raw data but keep structure)
+# =========================
+data/*
+!data/README.md
+
+# =========================
+# Models
+# =========================
+
+# Ignore common weight formats elsewhere
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.bin
+
+# Ignore everything inside train_yolo
+src/train_yolo/*
+
+# Keep only source code and configs
+!src/train_yolo/functions/
+!src/train_yolo/functions/**
+
+!src/train_yolo/data_yaml_used/
+!src/train_yolo/data_yaml_used/**
+
+
+# Ignore everything inside models
+models/*
+
+# BUT keep trained models
+!models/trained/
+!models/trained/**
+
+
+
+
+# =========================
+# Build / distribution
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Local configs
+# =========================
+config/*.local.*
+
+
+# =========================
 # Python cache
+# =========================
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
 *.so
-
-
-# VSCode / IDEs
-.vscode/
-.idea/
-
-# Sistema
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
-
-
-# Em train_data ignora tudo…
-data/
-
-
-
-
-# Builds e distribuições
-build/
-dist/
-*.egg-info/
-
-# Configurações locais
-config/*.local.*

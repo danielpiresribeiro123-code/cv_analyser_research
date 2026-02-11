@@ -3,86 +3,76 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 
-def load_paths():
+def load_paths() -> dict:
     """
-    Lê todos os paths a partir do .env e devolve um dicionário estruturado.
+    Load all project paths from the .env file and return
+    a structured dictionary.
 
-    Exemplo:
-    from config.path_loader import load_paths
+    Usage:
+        from config.path_loader import load_paths
 
-    paths = load_paths()
+        paths = load_paths()
 
-    good_frames = paths["data"]["frames"]["good"]
-    masked_frames = paths["data"]["frames"]["masked"]
+        project_root = paths["project_root"]
+        datasets_root = paths["data"]["datasets_root"]
+        skill_tables = paths["data"]["skill_tables"]
 
-    colmap_exe = paths["models"]["colmap"]["exe_cuda"]
-    yolo_seg = paths["models"]["yolo"]["dynamic_seg"]
-
+        models_root = paths["models"]["root"]
+        env_name = paths["env"]
     """
 
+    # Load .env variables
     load_dotenv()
 
-    def get_env(key):
+    def get_env_path(key: str, must_exist: bool = True) -> Path:
+        """
+        Retrieve a path from environment variables and optionally
+        validate that it exists.
+        """
         value = os.getenv(key)
+
         if value is None:
-            raise RuntimeError(f"Variável de ambiente não definida: {key}")
-        return Path(value)
+            raise RuntimeError(f"Environment variable not defined: {key}")
+
+        path = Path(value)
+
+        if must_exist and not path.exists():
+            raise RuntimeError(f"Path does not exist for {key}: {path}")
+
+        return path
+
+    def get_env_str(key: str) -> str:
+        """Retrieve a string environment variable."""
+        value = os.getenv(key)
+
+        if value is None:
+            raise RuntimeError(f"Environment variable not defined: {key}")
+
+        return value
 
     paths = {
-        # -------------------------
-        # Raiz
-        # -------------------------
-        "project_root": get_env("PROJECT_ROOT"),
+        # --------------------------------------------------
+        # Project root
+        # --------------------------------------------------
+        "project_root": get_env_path("PROJECT_ROOT"),
 
         # --------------------------------------------------
-        # Imagens de treino 
+        # Data
         # --------------------------------------------------
-        "train_random_images": get_env("TRAIN_IMAGES_RANDOM_ROOT"),
-        "train_video_images": get_env("TRAIN_IMAGES_VIDEO_ROOT"),
-        "train_personal_images": get_env("TRAIN_IMAGES_PERSONAL_ROOT"),
-
-        # -------------------------
-        # Dados
-        # -------------------------
         "data": {
-            "root": get_env("DATA_ROOT"),
+            "datasets_root": get_env_path("DATASETS_ROOT"),
+            "skill_tables": get_env_path("DATASETS_SKILL_TABLE")},
 
-            "frames": get_env("FRAMES_ROOT"),
+        # --------------------------------------------------
+        # Models
+        # --------------------------------------------------
+        "models": {"root": get_env_path("MODELS_IN_ROOT", must_exist=False),
+                   "out": get_env_path("MODELS_OUT_ROOT", must_exist=False)},
 
-            "datasets": get_env("DATASETS_ROOT"),
-
-            "graphics": get_env("GRAPHICS_ROOT"),
-
-            "input": {
-                "video": get_env("INPUT_VIDEO_ROOT"),
-                "images": get_env("INPUT_IMAGES_ROOT"),
-            },
-        },
-
-        # -------------------------
-        # Modelos
-        # -------------------------
-        "models": {
-            "root": get_env("MODELS_ROOT"),
-
-            "colmap": {
-                "bat_cuda": get_env("COLMAP_BAT_CUDA"),
-                "bin_cuda": get_env("COLMAP_BIN_CUDA"),
-                "exe_cuda": get_env("COLMAP_EXECUTABLE_CUDA"),
-
-                "bat_nocuda": get_env("COLMAP_BAT_NOCUDA"),
-                "bin_nocuda": get_env("COLMAP_BIN_NOCUDA"),
-                "exe_nocuda": get_env("COLMAP_EXECUTABLE_NOCUDA"),
-            },
-
-            "yolo": {
-                "root": get_env("YOLO_ROOT"),
-                "dynamic_det": get_env("YOLO_DYNAMIC_DET"),
-                "dynamic_seg": get_env("YOLO_DYNAMIC_SEG"),
-            },
-        },
-
-        "git.path": "D:\\Microsoft VS Code\\Git\\cmd\\git.exe",
+        # --------------------------------------------------
+        # Environment
+        # --------------------------------------------------
+        "env": get_env_str("ENV"),
     }
 
     return paths

@@ -1,18 +1,42 @@
 [project]
 name = "cv_analyzer"
 version = "0.1.0"
+description = "CV analysis pipeline with YOLO, OCR and NER"
+requires-python = ">=3.10"
+
 dependencies = [
+    # --- Core ML ---
+    "torch",
     "ultralytics",
+    "transformers",
+    "datasets",
+    "paddleocr",
+
+    # --- Vision / Image ---
     "opencv-python",
     "pillow",
-    "onvif-zeep",
+    "scikit-image",
+
+    # --- Data ---
     "pandas",
     "scikit-learn",
-    "seaborn",
-    "ipython",
     "tqdm",
-    "scikit-image",
-    "python-dotenv"
+
+    # --- Utils ---
+    "python-dotenv",
+    "onvif-zeep"
+]
+
+# Dependências apenas de desenvolvimento
+[project.optional-dependencies]
+dev = [
+    "ipython",
+    "seaborn",
+    "matplotlib",
+    "jupyter",
+    "notebook",
+    "black",
+    "ruff"
 ]
 
 [tool.setuptools]

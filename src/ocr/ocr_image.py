@@ -122,7 +122,7 @@ def extract_text_from_bboxes(image_path, bbox_json_path):
 
 def process_image_with_bbox(image_path, bbox_json_path=None):
     """
-    Full pipeline: load image + bbox JSON, extract text, save to extracted_text folder as TXT.
+    Full pipeline: load image + bbox JSON, extract text, save to extracted_text folder as JSON.
     Concatenates all text in order (top to bottom, left to right).
     
     Args:
@@ -152,8 +152,8 @@ def process_image_with_bbox(image_path, bbox_json_path=None):
     out_dir = PROJECT_ROOT / "src" / "ocr" / "extracted_text"
     out_dir.mkdir(parents=True, exist_ok=True)
     
-    # Save as TXT file
-    out_path = out_dir / f"{image_path.stem}_text.txt"
+    # Save as JSON file
+    out_path = out_dir / f"{image_path.stem}_text.json"
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(concatenated_text)
     

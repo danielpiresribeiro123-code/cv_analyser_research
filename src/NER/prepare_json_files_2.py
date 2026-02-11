@@ -1,14 +1,17 @@
+import os
+import sys
 import json
 from pathlib import Path
 from datasets import Dataset
 from transformers import AutoTokenizer
 
-
+# Não sei porquê não reconhecia a pasta "utils"
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from utils.path_loader import load_paths
 paths = load_paths()
-
-# Caminho base do projeto
 PROJECT_ROOT = paths["project_root"]
+
+
 
 def normalize_text_field(text):
     """

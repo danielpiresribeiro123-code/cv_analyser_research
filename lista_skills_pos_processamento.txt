@@ -1,0 +1,94 @@
+c: 1203
+r: 622
+sql: 235
+python: 223
+machine learning: 219
+java: 147
+data analysis: 118
+deep learning: 99
+data science: 98
+statistics: 68
+nlp: 61
+javascript: 59
+tableau: 58
+aws: 52
+algorithms: 48
+computer vision: 33
+pyspark: 24
+azure: 24
+neural networks: 21
+ocr: 16
+hadoop: 13
+git: 13
+docker: 13
+spark: 13
+per: 12
+pattern recognition: 10
+computer: 9
+object detection: 8
+cnn: 7
+kubernetes: 7
+company: 6
+com: 6
+contracting: 5
+college: 5
+camera: 5
+for: 4
+contact: 4
+personal: 4
+scala: 4
+from: 3
+objective: 3
+ch: 3
+kubeflow: 2
+[UNK]: 2
+inspector: 2
+transport: 2
+career: 2
+electrical: 2
+manufacturer: 2
+con: 2
+hr: 2
+capacity: 2
+carry: 2
+reducing: 2
+word: 2
+worker: 2
+customer: 2
+radar: 1
+higher: 1
+recommendations: 1
+eral: 1
+andra: 1
+concerned: 1
+cloud: 1
+cs: 1
+co: 1
+consultant: 1
+experience: 1
+engineer: 1
+tech: 1
+trigger: 1
+learn: 1
+developer: 1
+music: 1
+tro: 1
+board: 1
+plc: 1
+collaboration: 1
+area: 1
+re: 1
+university: 1
+wara: 1
+ler: 1
+tur: 1
+ca: 1
+cross: 1
+prediction: 1
+census: 1
+senior: 1
+medical: 1
+replacement: 1
+commercials: 1
+ran: 1
+ary: 1
