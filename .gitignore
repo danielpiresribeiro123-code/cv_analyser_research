@@ -36,6 +36,14 @@ data/*
 # =========================
 # Models
 # =========================
+
+# Ignore common weight formats elsewhere
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.bin
+
 # Ignore everything inside train_yolo
 src/train_yolo/*
 
@@ -54,12 +62,7 @@ models/*
 !models/trained/
 !models/trained/**
 
-# Ignore common weight formats elsewhere
-*.pt
-*.pth
-*.onnx
-*.ckpt
-*.bin
+
 
 
 # =========================
