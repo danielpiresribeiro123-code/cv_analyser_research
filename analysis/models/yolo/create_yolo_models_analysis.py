@@ -6,6 +6,10 @@ paths = load_paths()
 PROJECT_ROOT = paths["project_root"]
 # print(PROJECT_ROOT)
 
+TEXT_PHOTO_TEST = paths["datasets_root"] / "labels" / "test"
+SKILL_TABLE_TEST = paths["skill_tables"] / "labels" / "test"
+
+
 from analysis.models.yolo.support.yolo_results import collect_models_results
 from analysis.models.yolo.support.yolo_speed import collect_models_speed
 
@@ -125,6 +129,8 @@ def create_yolo_models_benchmarks(
     output_dir: Path = PROJECT_ROOT / "analysis" / "models"/"yolo",
     filename: str = "yolo_models_analysis",
     format: str = "csv",
+    text_photo_imgs_path: str | Path= TEXT_PHOTO_TEST,
+    skill_table_imgs_path: str | Path= SKILL_TABLE_TEST
 ) -> pd.DataFrame:
     """
     Pipeline completo de benchmarking YOLO:
@@ -143,21 +149,18 @@ def create_yolo_models_benchmarks(
     df_yolo_speed = collect_models_speed(
         device=device,
         num_images=num_analysed_images,
-    )
+        text_photo_imgs_path= text_photo_imgs_path,
+        skill_table_imgs_path= skill_table_imgs_path)
 
     # --- 3. Merge ---
-    df_yolo_final = merge_yolo_results_and_speed(
-        df_yolo_results,
-        df_yolo_speed,
-    )
+    df_yolo_final = merge_yolo_results_and_speed(df_yolo_results,df_yolo_speed,)
 
     # --- 4. Guardar ---
     save_dataframe(
         df_yolo_final,
         output_path=output_dir,
         filename=filename,
-        format=format,
-    )
+        format=format,)
 
     # --- 5. Retornar ---
     return df_yolo_final

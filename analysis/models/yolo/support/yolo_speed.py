@@ -15,8 +15,6 @@ paths = load_paths()
 PROJECT_ROOT = paths["project_root"]
 MODELS_DATA_PATH = PROJECT_ROOT / "src" / "train_yolo"
 
-TEXT_PHOTO_TEST = Path(r"C:\Users\danie\Desktop\labellmg\Yolo-CV-Datasets\labels\test")
-SKILL_TABLE_TEST = Path(r"C:\Users\danie\Desktop\labellmg\Yolo-CV-Datasets\Skill_tables\labels\test")
 
 
 # ---------------------------------------------------------
@@ -131,6 +129,8 @@ def collect_models_speed(
     models_root: Path = MODELS_DATA_PATH,
     num_images: int = 150,
     device: str | int = "cpu",
+    text_photo_imgs_path: str | Path| None = None,
+    skill_table_imgs_path: str | Path| None = None,
 ):
     """
     Mede velocidade de inferência de todos os best.pt.
@@ -142,12 +142,39 @@ def collect_models_speed(
     print(f"Device: {device}")
     print(f"Images per test: {num_images}\n")
 
-    # preparar imagens de teste
-    text_photo_imgs = get_test_images_from_labels(TEXT_PHOTO_TEST, num_images)
-    skill_table_imgs = get_test_images_from_labels(SKILL_TABLE_TEST, num_images)
+    # ---------------------------------------------------------
+    # Validação dos caminhos de imagens de teste
+    # ---------------------------------------------------------
+    if text_photo_imgs_path is None and skill_table_imgs_path is None:
+        raise ValueError(
+            "É necessário fornecer pelo menos um caminho de imagens "
+            "(text_photo_imgs_path ou skill_table_imgs_path).")
+    
+    # ---------------------------------------------------------
+    # Converter str → Path (se necessário)
+    # ---------------------------------------------------------
+    if isinstance(text_photo_imgs_path, str):
+        text_photo_imgs_path = Path(text_photo_imgs_path)
+
+    if isinstance(skill_table_imgs_path, str):
+        skill_table_imgs_path = Path(skill_table_imgs_path)
+
+
+    # ---------------------------------------------------------
+    # Preparar imagens de teste
+    # ---------------------------------------------------------
+    text_photo_imgs = []
+    skill_table_imgs = []
+
+    if text_photo_imgs_path is not None:
+        text_photo_imgs = get_test_images_from_labels(text_photo_imgs_path, num_images)
+
+    if skill_table_imgs_path is not None:
+        skill_table_imgs = get_test_images_from_labels(skill_table_imgs_path, num_images)
+
 
     rows = []
-    model_jobs = []
+    model_info = []
 
     # descobrir todos os modelos primeiro (para mostrar progresso)
     for model_dir in models_root.iterdir():
@@ -166,19 +193,19 @@ def collect_models_speed(
         for train_dir in model_dir.iterdir():
             best_path = train_dir / "weights" / "best.pt"
             if best_path.exists():
-                model_jobs.append((yolo_version, task, train_dir, best_path))
+                model_info.append((yolo_version, task, train_dir, best_path))
 
-    print(f"Número de trains encontrados: {len(model_jobs)}\n")
+    print(f"Número de trains encontrados: {len(model_info)}\n")
 
     # benchmarking
     t0 = time.time()
 
-    for i, (yolo_version, task, train_dir, best_path) in enumerate(model_jobs, 1):
+    for i, (yolo_version, task, train_dir, best_path) in enumerate(model_info, 1):
 
         images = text_photo_imgs if task == "text-photo" else skill_table_imgs
 
         print(
-            f"[{i:02d}/{len(model_jobs)}] "
+            f"[{i:02d}/{len(model_info)}] "
             f"{yolo_version.upper():>7} | "
             f"TASK={task:<10} | "
             f"TRAIN={train_dir.name:<12} | "
