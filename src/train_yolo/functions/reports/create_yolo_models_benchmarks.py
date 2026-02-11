@@ -6,8 +6,8 @@ paths = load_paths()
 PROJECT_ROOT = paths["project_root"]
 # print(PROJECT_ROOT)
 
-from train_yolo.functions.yolo_results import collect_models_results
-from train_yolo.functions.yolo_speed import collect_models_speed
+from train_yolo.functions.reports.yolo_results import collect_models_results
+from train_yolo.functions.reports.yolo_speed import collect_models_speed
 
 #------------------------------------------
 # Funcões:
@@ -48,6 +48,14 @@ def merge_yolo_results_and_speed(df_yolo_results: pd.DataFrame,
         suffixes=("", "_speed"),
     )
 
+    # -------------------------------------------------
+    # Criar nome único do modelo
+    # Ex: yolo11s-text-photo-150e4b
+    # -------------------------------------------------
+    df_merged["model_name"] = (
+        df_merged["yolo_version"].astype(str)+ "-"+ df_merged["task"].astype(str)+ "-"
+        + df_merged["train_run"].str.replace("train-", "", regex=False).astype(str))
+
     # Ordenação útil para análise científica
     if "mAP50-95" in df_merged.columns:
         df_merged = df_merged.sort_values(
@@ -55,6 +63,10 @@ def merge_yolo_results_and_speed(df_yolo_results: pd.DataFrame,
             ascending=[True, False, False],
         ).reset_index(drop=True)
 
+    if not df_merged["model_name"].is_unique:
+        raise ValueError("model_name não é único — verificar duplicados nos runs.")
+
+    df_merged = df_merged.set_index("model_name", drop=False)
     return df_merged
 
 from pathlib import Path
@@ -110,7 +122,7 @@ def save_dataframe(
 def create_yolo_models_benchmarks(
     device: str | int = "cpu",
     num_analysed_images: int = 150,
-    output_dir: Path = PROJECT_ROOT / "src" / "train_yolo",
+    output_dir: Path = PROJECT_ROOT / "reports" / "yolo",
     filename: str = "yolo_models_benchmarks",
     format: str = "csv",
 ) -> pd.DataFrame:
