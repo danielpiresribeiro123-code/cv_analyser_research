@@ -125,11 +125,6 @@ Links:
 
 * YOLO: [https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
 
-Documentação útil para YOLO segmentation:
-
-* [https://docs.ultralytics.com/pt/tasks/segment/#train](https://docs.ultralytics.com/pt/tasks/segment/#train)
-* [https://docs.ultralytics.com/pt/datasets/segment/coco/#dataset-yaml](https://docs.ultralytics.com/pt/datasets/segment/coco/#dataset-yaml)
-
 
 
 ## Remover todos os arquivos ignorados de uma vez (Melhor opção)

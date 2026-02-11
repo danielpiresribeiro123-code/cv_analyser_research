@@ -1,6 +1,11 @@
 import random
 import time
 from ultralytics import YOLO  # type: ignore
+
+import torch
+import numpy as np
+import cv2
+
 import pandas as pd
 from pathlib import Path
 
@@ -73,18 +78,39 @@ def get_test_images_from_labels(labels_path: Path, num_images: int = 150):
 
 def measure_model_speed(model_path: Path, images, device: str | int = "cpu"):
     """
-    Mede ms/img e FPS de um modelo YOLO.
+    Mede velocidade real de inferência (forward pass puro).
+    NÃO cria pastas runs/.
     """
-    model = YOLO(model_path)
 
-    # warmup (importante)
-    for img in images[:5]:
-        _ = model.predict(source=img, device=device, verbose=False)
+    # carregar modelo
+    yolo = YOLO(model_path)
+    model = yolo.model.to(device)  #O pylance não sabe o type # type: ignore
+
+    # preparar tensor de entrada
+    img = cv2.imread(str(images[0]))
+    if img is None:
+        raise RuntimeError("Falha ao ler imagem de benchmark")
+
+    img = cv2.resize(img, (640, 640))
+    img = img[:, :, ::-1].transpose(2, 0, 1)  # BGR → RGB, CHW
+    img = np.ascontiguousarray(img) / 255.0
+
+    x = torch.from_numpy(img).float().unsqueeze(0).to(device)
+
+    # warmup GPU
+    for _ in range(10):
+        _ = model(x)
+
+    if device != "cpu":
+        torch.cuda.synchronize()
 
     start = time.time()
 
-    for img in images:
-        _ = model.predict(source=img, device=device, verbose=False)
+    for _ in images:
+        _ = model(x)
+
+    if device != "cpu":
+        torch.cuda.synchronize()
 
     total_time = time.time() - start
     n = len(images)
@@ -93,6 +119,8 @@ def measure_model_speed(model_path: Path, images, device: str | int = "cpu"):
     fps = 1000 / ms_per_image
 
     return ms_per_image, fps
+
+
 
 
 # ---------------------------------------------------------
