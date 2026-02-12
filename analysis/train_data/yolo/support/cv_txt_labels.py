@@ -4,26 +4,6 @@ import pandas as pd
 from PIL import Image
 
 
-# ---------------------------------------------------------
-# Métricas de cor
-# ---------------------------------------------------------
-def _colorfulness(rgb: np.ndarray) -> float:
-    r, g, b = rgb[..., 0], rgb[..., 1], rgb[..., 2]
-
-    rg = np.abs(r - g)
-    yb = np.abs(0.5 * (r + g) - b)
-
-    return float(np.sqrt(rg.std() ** 2 + yb.std() ** 2) + 0.3 * np.sqrt(rg.mean() ** 2 + yb.mean() ** 2))
-
-
-def _color_variation(rgb: np.ndarray) -> float:
-    x = rgb.astype(np.float32) / 255.0
-    return float(x.reshape(-1, 3).std(axis=0).mean())
-
-
-# ---------------------------------------------------------
-# Função principal de análise YOLO
-# ---------------------------------------------------------
 def analyze_cv_yolo_datasets(
     text_photo_images: str | Path,
     text_photo_labels: str | Path,
@@ -37,8 +17,7 @@ def analyze_cv_yolo_datasets(
         - Dataset SKILL-TABLE
 
     Retorna DataFrame com:
-        filename, width, height, aspect_ratio
-        colorfulness, color_variation
+        filename
         number_text_block, number_photo, number_skill_table
         x_center_mean, y_center_mean
     """
@@ -51,29 +30,27 @@ def analyze_cv_yolo_datasets(
     rows: list[dict] = []
 
     # -----------------------------------------------------
-    # Conjunto total de imagens (união dos dois datasets)
+    # Conjunto total de imagens (sem colisões de nome)
     # -----------------------------------------------------
-    image_files = {
-        p.name: p
-        for root in [text_photo_images, skill_images]
-        for p in Path(root).rglob("*")
-        if p.suffix.lower() in img_exts
-    }
+    image_files = list(text_photo_images.rglob("*")) + list(skill_images.rglob("*"))
+    image_files = [p for p in image_files if p.suffix.lower() in img_exts]
+
+    # remover duplicados reais por caminho absoluto
+    image_files = list(dict.fromkeys(image_files))
 
     # -----------------------------------------------------
     # Iterar imagens
     # -----------------------------------------------------
-    for filename, img_path in image_files.items():
+    for img_path in image_files:
 
-        # ---------- Ler imagem ----------
-        with Image.open(img_path) as im:
-            im = im.convert("RGB")
-            w, h = im.size
-            rgb = np.array(im)
+        filename = img_path.name
 
-        aspect_ratio = w / h if h else np.nan
-        colorfulness = _colorfulness(rgb)
-        color_variation = _color_variation(rgb)
+        # ---------- Proteção contra imagem corrompida ----------
+        try:
+            with Image.open(img_path) as im:
+                w, h = im.size
+        except Exception:
+            continue  # ignora imagem inválida
 
         # ---------- Inicializar contagens ----------
         n_text = 0
@@ -85,7 +62,7 @@ def analyze_cv_yolo_datasets(
         # =================================================
         # TEXT-PHOTO labels
         # =================================================
-        tp_label = text_photo_labels / f"{Path(filename).stem}.txt"
+        tp_label = text_photo_labels / f"{img_path.stem}.txt"
 
         if tp_label.exists():
             lines = tp_label.read_text(encoding="utf-8", errors="ignore").splitlines()
@@ -109,7 +86,7 @@ def analyze_cv_yolo_datasets(
         # =================================================
         # SKILL-TABLE labels
         # =================================================
-        sk_label = skill_labels / f"{Path(filename).stem}.txt"
+        sk_label = skill_labels / f"{img_path.stem}.txt"
 
         if sk_label.exists():
             lines = sk_label.read_text(encoding="utf-8", errors="ignore").splitlines()
@@ -119,7 +96,7 @@ def analyze_cv_yolo_datasets(
                 if len(parts) != 5:
                     continue
 
-                _, x, y, _, _ = parts  # class_id = 0 sempre
+                _, x, y, _, _ = parts
                 n_skill += 1
 
                 x_centers.append(float(x))
@@ -132,12 +109,6 @@ def analyze_cv_yolo_datasets(
         rows.append(
             {
                 "filename": filename,
-                "width": int(w),
-                "height": int(h),
-                "width_height": f"{w}x{h}",
-                "aspect_ratio": float(aspect_ratio),
-                "colorfulness": float(colorfulness),
-                "color_variation": float(color_variation),
                 "number_text_block": int(n_text),
                 "number_photo": int(n_photo),
                 "number_skill_table": int(n_skill),

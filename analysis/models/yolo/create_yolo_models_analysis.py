@@ -6,8 +6,8 @@ paths = load_paths()
 PROJECT_ROOT = paths["project_root"]
 # print(PROJECT_ROOT)
 
-TEXT_PHOTO_TEST = paths["datasets_root"] / "labels" / "test"
-SKILL_TABLE_TEST = paths["skill_tables"] / "labels" / "test"
+TEXT_PHOTO_TEST = paths["data"]["datasets_root"] / "labels" / "test"
+SKILL_TABLE_TEST = paths["data"]["skill_tables"] / "labels" / "test"
 
 
 from analysis.models.yolo.support.yolo_results import collect_models_results
