@@ -11,16 +11,15 @@ from analysis.train_data.yolo.support.cv_txt_labels import analyze_cv_yolo_datas
 # =========================================================
 paths = load_paths()
 
-PROJECT_ROOT = paths["project_root"]
+PROJECT_ROOT: Path = paths["project_root"]
 
-TEXT_PHOTO_IMAGES = paths["datasets_root"] / "images" / "all"
-SKILL_TABLE_IMAGES = paths["skill_tables"] / "images" / "all"
+TEXT_PHOTO_IMAGES: Path = paths["data"]["datasets_root"] / "images" / "all"
+SKILL_TABLE_IMAGES: Path = paths["data"]["skill_tables"] / "images" / "all"
 
-TEXT_PHOTO_LABELS = paths["datasets_root"] / "labels" / "all"
-SKILL_TABLE_LABELS = paths["skill_tables"] / "labels" / "all"
+TEXT_PHOTO_LABELS: Path = paths["data"]["datasets_root"] / "labels" / "all"
+SKILL_TABLE_LABELS: Path = paths["data"]["skill_tables"] / "labels" / "all"
 
-# Novo SAVE_PATH
-SAVE_PATH = PROJECT_ROOT / "analysis" / "train_data" / "yolo"
+SAVE_PATH: Path = PROJECT_ROOT / "analysis" / "train_data" / "yolo"
 SAVE_PATH.mkdir(parents=True, exist_ok=True)
 
 
@@ -28,17 +27,31 @@ SAVE_PATH.mkdir(parents=True, exist_ok=True)
 # 1) DataFrame completo de análise YOLO
 # =========================================================
 def build_cv_yolo_full_analysis_df(
-    text_photo_images: str | Path,
-    text_photo_labels: str | Path,
-    skill_images: str | Path,
-    skill_labels: str | Path,
+    text_photo_images: Path,
+    text_photo_labels: Path,
+    skill_images: Path,
+    skill_labels: Path,
 ) -> pd.DataFrame:
+    """
+    Constrói o DataFrame completo de EDA dos datasets YOLO de CVs.
 
+    Integra:
+        - metadata das imagens
+        - análise dos labels YOLO
+        - flags semânticas de pertença ao dataset
+    """
+
+    # -------------------------
+    # Metadata de imagens
+    # -------------------------
     df_images = build_images_metadata_df(
         images_dir=text_photo_images,
         labels_dir=text_photo_labels,
     )
 
+    # -------------------------
+    # Labels YOLO
+    # -------------------------
     df_labels = analyze_cv_yolo_datasets(
         text_photo_images=text_photo_images,
         text_photo_labels=text_photo_labels,
@@ -46,30 +59,42 @@ def build_cv_yolo_full_analysis_df(
         skill_labels=skill_labels,
     )
 
-    df = df_images.merge(df_labels, on="filename", how="outer", suffixes=("", "_yolo"))
+    # -------------------------
+    # Merge seguro
+    # -------------------------
+    df = df_images.merge(df_labels, on="filename", how="outer")
 
-    text_photo_label_names = {p.stem for p in Path(text_photo_labels).glob("*.txt")}
-    skill_label_names = {p.stem for p in Path(skill_labels).glob("*.txt")}
+    # -------------------------
+    # Flags de pertença a datasets
+    # -------------------------
+    text_photo_label_names = {p.stem for p in text_photo_labels.glob("*.txt")}
+    skill_label_names = {p.stem for p in skill_labels.glob("*.txt")}
 
     df["in_text_photo_dataset"] = df["filename"].apply(
-        lambda x: Path(x).stem in text_photo_label_names
+        lambda x: Path(x).stem in text_photo_label_names if pd.notna(x) else False
     )
 
     df["in_skill_table_dataset"] = df["filename"].apply(
-        lambda x: Path(x).stem in skill_label_names
+        lambda x: Path(x).stem in skill_label_names if pd.notna(x) else False
     )
 
-    df["has_any_object"] = (
-        df[["number_text_block", "number_photo", "number_skill_table"]]
-        .fillna(0)
-        .sum(axis=1)
-        > 0
-    )
-
+    # -------------------------
+    # Flags semânticas
+    # -------------------------
     for col in ["number_text_block", "number_photo", "number_skill_table"]:
         if col in df.columns:
             df[col] = df[col].fillna(0).astype(int)
 
+    df["has_any_object"] = (
+        df[["number_text_block", "number_photo", "number_skill_table"]]
+        .sum(axis=1)
+        > 0
+    )
+
+    # garantir booleano correto
+    df["have_to_remove"] = df["have_to_remove"].fillna(True).astype(bool)
+
+    # ordenar
     df = df.sort_values(
         ["have_to_remove", "has_any_object", "filename"]
     ).reset_index(drop=True)
@@ -81,9 +106,17 @@ def build_cv_yolo_full_analysis_df(
 # 2) Summary estatístico
 # =========================================================
 def compute_cv_yolo_dataset_summary(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Calcula métricas estatísticas principais do dataset YOLO de CVs.
+    """
+
+    if df.empty:
+        raise ValueError("DataFrame de EDA está vazio.")
 
     total_images = len(df)
-    valid_images = (~df["have_to_remove"]).sum()
+    have_to_remove = df["have_to_remove"].fillna(True).astype(bool)
+    valid_images = (~have_to_remove).sum()
+
 
     summary = {
         "total_images": total_images,
@@ -106,10 +139,16 @@ def compute_cv_yolo_dataset_summary(df: pd.DataFrame) -> pd.DataFrame:
 # 3) Texto automático para relatório
 # =========================================================
 def generate_eda_text(summary_df: pd.DataFrame) -> str:
+    """
+    Gera descrição textual académica do EDA.
+    """
+
+    if summary_df.empty:
+        raise ValueError("Summary DataFrame está vazio.")
 
     s = summary_df.iloc[0]
 
-    text = f"""
+    return f"""
 An exploratory analysis of the CV object-detection datasets was conducted prior to YOLO model training.
 The dataset contains {int(s.total_images)} images, of which {int(s.valid_images)} are valid annotated samples.
 
@@ -125,19 +164,25 @@ variation of {s.mean_color_variation}, indicating moderate visual diversity with
 
 These findings confirm that the dataset provides sufficient structural variability and annotation
 coverage to support robust YOLO-based layout detection in curriculum vitae documents.
-"""
-    return text.strip()
+""".strip()
 
 
 # =========================================================
-# 4) Runner completo com opção de guardar CSV
+# 4) Runner completo com export opcional
 # =========================================================
-def run_full_cv_yolo_eda(save_csv: bool = True) -> tuple[pd.DataFrame, pd.DataFrame, str]:
+def run_full_cv_yolo_eda(
+    save_csv: bool = True,
+) -> tuple[pd.DataFrame, pd.DataFrame, str]:
     """
-    Executa pipeline completo de EDA e opcionalmente guarda:
-        - cv_yolo_full_analysis.csv
-        - cv_yolo_dataset_summary.csv
-        - eda_description.txt
+    Executa pipeline completo de EDA dos datasets YOLO de CVs.
+
+    Retorna:
+        df (DataFrame completo)
+        summary_df (tabela estatística)
+        eda_text (texto académico)
+
+    Opcional:
+        Guarda resultados em CSV/TXT.
     """
 
     df = build_cv_yolo_full_analysis_df(
@@ -150,9 +195,9 @@ def run_full_cv_yolo_eda(save_csv: bool = True) -> tuple[pd.DataFrame, pd.DataFr
     summary_df = compute_cv_yolo_dataset_summary(df)
     eda_text = generate_eda_text(summary_df)
 
-    # -----------------------------------------------------
-    # Guardar resultados
-    # -----------------------------------------------------
+    # -------------------------
+    # Export
+    # -------------------------
     if save_csv:
         df.to_csv(SAVE_PATH / "cv_yolo_full_analysis.csv", index=False)
         summary_df.to_csv(SAVE_PATH / "cv_yolo_dataset_summary.csv", index=False)
@@ -161,15 +206,3 @@ def run_full_cv_yolo_eda(save_csv: bool = True) -> tuple[pd.DataFrame, pd.DataFr
             f.write(eda_text)
 
     return df, summary_df, eda_text
-
-
-def main():
-    df, summary_df, eda_text = run_full_cv_yolo_eda(save_csv=True)
-
-    print("=== EDA CONCLUÍDO ===")
-    print()
-    print("Resumo estatístico:")
-    print(summary_df)
-    print()
-    print("Texto gerado para o relatório:")
-    print(eda_text)

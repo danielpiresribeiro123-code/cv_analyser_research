@@ -7,7 +7,6 @@ from PIL import Image
 def _colorfulness_hasler_susstrunk(rgb: np.ndarray) -> float:
     """
     Métrica de 'colorfulness' (Hasler & Süsstrunk).
-    Entrada: imagem RGB uint8 com shape (H, W, 3).
     """
     r = rgb[..., 0].astype(np.float32)
     g = rgb[..., 1].astype(np.float32)
@@ -24,11 +23,10 @@ def _colorfulness_hasler_susstrunk(rgb: np.ndarray) -> float:
 
 def _color_variation_rgb(rgb: np.ndarray) -> float:
     """
-    Variação global de cor: desvio padrão médio dos canais RGB (normalizado 0..1).
+    Variação global de cor: desvio padrão médio dos canais RGB (0..1).
     """
     x = rgb.astype(np.float32) / 255.0
-    stds = x.reshape(-1, 3).std(axis=0)  # std por canal
-    return float(stds.mean())
+    return float(x.reshape(-1, 3).std(axis=0).mean())
 
 
 def build_images_metadata_df(
@@ -37,13 +35,9 @@ def build_images_metadata_df(
     img_exts: tuple[str, ...] = (".jpg", ".jpeg", ".png", ".bmp", ".webp"),
 ) -> pd.DataFrame:
     """
-    Cria um DataFrame com características das imagens e flags relativas aos labels YOLO (.txt).
-
-    Regras:
-    - label_path = labels_dir / (image_stem + ".txt")
-    - have_to_remove = True se o .txt NÃO existir
-    - has_labels = True se o .txt existir e tiver pelo menos 1 linha (1 bbox)
+    Cria DataFrame com metadata das imagens e flags de labels YOLO.
     """
+
     images_dir = Path(images_dir)
     labels_dir = Path(labels_dir)
 
@@ -55,46 +49,66 @@ def build_images_metadata_df(
     image_files = [p for p in images_dir.rglob("*") if p.suffix.lower() in img_exts]
 
     rows: list[dict] = []
+
     for img_path in image_files:
         label_path = labels_dir / f"{img_path.stem}.txt"
         label_exists = label_path.exists()
 
-        # has_labels: existe e tem pelo menos 1 bbox (1 linha não vazia)
+        # -------------------------
+        # has_labels
+        # -------------------------
         has_labels = False
         if label_exists:
             try:
-                lines = [ln.strip() for ln in label_path.read_text(encoding="utf-8", errors="ignore").splitlines()]
-                has_labels = any(len(ln) > 0 for ln in lines)
+                lines = label_path.read_text(encoding="utf-8", errors="ignore").splitlines()
+                has_labels = any(len(ln.strip()) > 0 for ln in lines)
             except Exception:
-                # se houver algum txt corrompido, marca como "sem labels"
                 has_labels = False
 
-        have_to_remove = not label_exists  # sem txt = esqueceste de apagar / fora do dataset
+        have_to_remove = not label_exists
 
-        # Ler imagem e extrair stats
-        with Image.open(img_path) as im:
-            im = im.convert("RGB")
-            w, h = im.size
-            rgb = np.array(im)  # (H, W, 3) uint8
+        # -------------------------
+        # Ler imagem com proteção
+        # -------------------------
+        try:
+            with Image.open(img_path) as im:
+                im = im.convert("RGB")
+                w, h = im.size
+                rgb = np.array(im)
 
-        aspect_ratio = (w / h) if h else np.nan
-        colorfulness = _colorfulness_hasler_susstrunk(rgb)
-        color_variation = _color_variation_rgb(rgb)
+            aspect_ratio = (w / h) if h else np.nan
+            num_pixels = w * h
+            colorfulness = _colorfulness_hasler_susstrunk(rgb)
+            color_variation = _color_variation_rgb(rgb)
+
+        except Exception:
+            # imagem inválida/corrompida
+            w = h = num_pixels = np.nan
+            aspect_ratio = np.nan
+            colorfulness = np.nan
+            color_variation = np.nan
+            have_to_remove = True
 
         rows.append(
             {
                 "filename": img_path.name,
                 "path": str(img_path),
-                "width": int(w),
-                "height": int(h),
-                "width_height": f"{w}x{h}",
-                "aspect_ratio": float(aspect_ratio),
-                "colorfulness": float(colorfulness),
-                "color_variation": float(color_variation),
+                "width": w,
+                "height": h,
+                "num_pixels": num_pixels,
+                "width_height": f"{int(w)}x{int(h)}" if pd.notna(w) else None,
+                "aspect_ratio": aspect_ratio,
+                "colorfulness": colorfulness,
+                "color_variation": color_variation,
                 "has_labels": bool(has_labels),
                 "have_to_remove": bool(have_to_remove),
             }
         )
 
-    df = pd.DataFrame(rows).sort_values(["have_to_remove", "has_labels", "filename"]).reset_index(drop=True)
+    df = (
+        pd.DataFrame(rows)
+        .sort_values(["have_to_remove", "has_labels", "filename"])
+        .reset_index(drop=True)
+    )
+
     return df
