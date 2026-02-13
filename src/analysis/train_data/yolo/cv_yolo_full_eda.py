@@ -107,7 +107,8 @@ def build_cv_yolo_full_analysis_df(
 # =========================================================
 def compute_cv_yolo_dataset_summary(df: pd.DataFrame) -> pd.DataFrame:
     """
-    Calcula métricas estatísticas principais do dataset YOLO de CVs.
+    Calcula métricas estatísticas principais do dataset YOLO de CVs,
+    incluindo estatísticas RGB globais.
     """
 
     if df.empty:
@@ -117,6 +118,11 @@ def compute_cv_yolo_dataset_summary(df: pd.DataFrame) -> pd.DataFrame:
     have_to_remove = df["have_to_remove"].fillna(True).astype(bool)
     valid_images = (~have_to_remove).sum()
 
+    # -------------------------
+    # Funções seguras para colunas opcionais
+    # -------------------------
+    def safe_mean(col: str, ndigits: int = 3):
+        return round(df[col].mean(), ndigits) if col in df.columns else None
 
     summary = {
         "total_images": total_images,
@@ -130,9 +136,20 @@ def compute_cv_yolo_dataset_summary(df: pd.DataFrame) -> pd.DataFrame:
         "median_aspect_ratio": round(df["aspect_ratio"].median(), 3),
         "mean_colorfulness": round(df["colorfulness"].mean(), 3),
         "mean_color_variation": round(df["color_variation"].mean(), 3),
+
+        # -------------------------
+        # Estatísticas RGB
+        # -------------------------
+        "mean_r": safe_mean("mean_r"),
+        "mean_g": safe_mean("mean_g"),
+        "mean_b": safe_mean("mean_b"),
+        "std_r": safe_mean("std_r"),
+        "std_g": safe_mean("std_g"),
+        "std_b": safe_mean("std_b"),
     }
 
     return pd.DataFrame([summary])
+
 
 
 # =========================================================
@@ -140,13 +157,23 @@ def compute_cv_yolo_dataset_summary(df: pd.DataFrame) -> pd.DataFrame:
 # =========================================================
 def generate_eda_text(summary_df: pd.DataFrame) -> str:
     """
-    Gera descrição textual académica do EDA.
+    Gera descrição textual académica do EDA,
+    incluindo análise de distribuição de cor RGB.
     """
 
     if summary_df.empty:
         raise ValueError("Summary DataFrame está vazio.")
 
     s = summary_df.iloc[0]
+
+    rgb_text = ""
+    if pd.notna(s.get("mean_r")):
+        rgb_text = f"""
+Channel-wise color statistics indicate mean RGB intensities of
+R={s.mean_r}, G={s.mean_g}, and B={s.mean_b}, with corresponding
+standard deviations of {s.std_r}, {s.std_g}, and {s.std_b},
+suggesting stable document coloration and limited chromatic noise.
+""".strip()
 
     return f"""
 An exploratory analysis of the CV object-detection datasets was conducted prior to YOLO model training.
@@ -161,6 +188,8 @@ and {s.avg_skill_tables_per_cv} skill tables. The median aspect ratio of the ima
 
 Color distribution analysis shows a mean colorfulness of {s.mean_colorfulness} and an average color
 variation of {s.mean_color_variation}, indicating moderate visual diversity with consistent document structure.
+
+{rgb_text}
 
 These findings confirm that the dataset provides sufficient structural variability and annotation
 coverage to support robust YOLO-based layout detection in curriculum vitae documents.

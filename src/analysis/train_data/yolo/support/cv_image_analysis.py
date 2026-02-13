@@ -5,9 +5,6 @@ from PIL import Image
 
 
 def _colorfulness_hasler_susstrunk(rgb: np.ndarray) -> float:
-    """
-    Métrica de 'colorfulness' (Hasler & Süsstrunk).
-    """
     r = rgb[..., 0].astype(np.float32)
     g = rgb[..., 1].astype(np.float32)
     b = rgb[..., 2].astype(np.float32)
@@ -22,9 +19,6 @@ def _colorfulness_hasler_susstrunk(rgb: np.ndarray) -> float:
 
 
 def _color_variation_rgb(rgb: np.ndarray) -> float:
-    """
-    Variação global de cor: desvio padrão médio dos canais RGB (0..1).
-    """
     x = rgb.astype(np.float32) / 255.0
     return float(x.reshape(-1, 3).std(axis=0).mean())
 
@@ -34,9 +28,6 @@ def build_images_metadata_df(
     labels_dir: str | Path,
     img_exts: tuple[str, ...] = (".jpg", ".jpeg", ".png", ".bmp", ".webp"),
 ) -> pd.DataFrame:
-    """
-    Cria DataFrame com metadata das imagens e flags de labels YOLO.
-    """
 
     images_dir = Path(images_dir)
     labels_dir = Path(labels_dir)
@@ -81,12 +72,24 @@ def build_images_metadata_df(
             colorfulness = _colorfulness_hasler_susstrunk(rgb)
             color_variation = _color_variation_rgb(rgb)
 
+            # -------------------------
+            # Estatísticas RGB
+            # -------------------------
+            r = rgb[..., 0].astype(np.float32)
+            g = rgb[..., 1].astype(np.float32)
+            b = rgb[..., 2].astype(np.float32)
+
+            mean_r, mean_g, mean_b = r.mean(), g.mean(), b.mean()
+            std_r, std_g, std_b = r.std(), g.std(), b.std()
+
         except Exception:
             # imagem inválida/corrompida
             w = h = num_pixels = np.nan
             aspect_ratio = np.nan
             colorfulness = np.nan
             color_variation = np.nan
+            mean_r = mean_g = mean_b = np.nan
+            std_r = std_g = std_b = np.nan
             have_to_remove = True
 
         rows.append(
@@ -100,6 +103,12 @@ def build_images_metadata_df(
                 "aspect_ratio": aspect_ratio,
                 "colorfulness": colorfulness,
                 "color_variation": color_variation,
+                "mean_r": mean_r,
+                "mean_g": mean_g,
+                "mean_b": mean_b,
+                "std_r": std_r,
+                "std_g": std_g,
+                "std_b": std_b,
                 "has_labels": bool(has_labels),
                 "have_to_remove": bool(have_to_remove),
             }
