@@ -1,2 +1,2 @@
-total_images,valid_images,images_with_any_object_%,images_with_photo_%,images_with_skill_table_%,avg_text_blocks_per_cv,avg_photos_per_cv,avg_skill_tables_per_cv,median_aspect_ratio,mean_colorfulness,mean_color_variation,mean_r,mean_g,mean_b,std_r,std_g,std_b
-3497,3351,98.31,46.93,32.37,7.46,0.47,1.95,1.0,17.346,0.2,222.841,223.902,223.879,52.512,50.511,49.977
+total_images,valid_images,images_with_any_object_%,images_with_photo_%,images_with_skill_table_%,avg_text_blocks_per_cv,avg_photos_per_cv,avg_skill_tables_per_cv,median_aspect_ratio,mean_colorfulness,mean_color_variation,mean_red,mean_green,mean_blue,std_red,std_green,std_blue,mean_hue,mean_saturation,mean_value,std_hue,std_saturation,std_value
+3497,3351,98.31,46.93,32.37,7.46,0.47,1.95,1.0,17.346,0.2,222.841,223.902,223.879,52.512,50.511,49.977,0.109,0.055,0.893,0.16,0.101,0.185
