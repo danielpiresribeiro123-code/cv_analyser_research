@@ -2,6 +2,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 from PIL import Image
+from matplotlib.colors import rgb_to_hsv
 
 
 def _colorfulness_hasler_susstrunk(rgb: np.ndarray) -> float:
@@ -82,14 +83,32 @@ def build_images_metadata_df(
             mean_r, mean_g, mean_b = r.mean(), g.mean(), b.mean()
             std_r, std_g, std_b = r.std(), g.std(), b.std()
 
+            # -------------------------
+            # Converter para HSV (pixel-a-pixel)
+            # -------------------------
+            rgb_norm = rgb.astype(np.float32) / 255.0
+            hsv = rgb_to_hsv(rgb_norm)
+
+            h_ch = hsv[..., 0]
+            s_ch = hsv[..., 1]
+            v_ch = hsv[..., 2]
+
+            mean_h, mean_s, mean_v = h_ch.mean(), s_ch.mean(), v_ch.mean()
+            std_h, std_s, std_v = h_ch.std(), s_ch.std(), v_ch.std()
+
         except Exception:
             # imagem inválida/corrompida
             w = h = num_pixels = np.nan
             aspect_ratio = np.nan
             colorfulness = np.nan
             color_variation = np.nan
+
             mean_r = mean_g = mean_b = np.nan
             std_r = std_g = std_b = np.nan
+
+            mean_h = mean_s = mean_v = np.nan
+            std_h = std_s = std_v = np.nan
+
             have_to_remove = True
 
         rows.append(
@@ -103,12 +122,23 @@ def build_images_metadata_df(
                 "aspect_ratio": aspect_ratio,
                 "colorfulness": colorfulness,
                 "color_variation": color_variation,
+
+                # RGB
                 "mean_r": mean_r,
                 "mean_g": mean_g,
                 "mean_b": mean_b,
                 "std_r": std_r,
                 "std_g": std_g,
                 "std_b": std_b,
+
+                # HSV
+                "mean_h": mean_h,
+                "mean_s": mean_s,
+                "mean_v": mean_v,
+                "std_h": std_h,
+                "std_s": std_s,
+                "std_v": std_v,
+
                 "has_labels": bool(has_labels),
                 "have_to_remove": bool(have_to_remove),
             }
