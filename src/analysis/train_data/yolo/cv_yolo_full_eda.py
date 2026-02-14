@@ -19,7 +19,7 @@ SKILL_TABLE_IMAGES: Path = paths["data"]["skill_tables"] / "images" / "all"
 TEXT_PHOTO_LABELS: Path = paths["data"]["datasets_root"] / "labels" / "all"
 SKILL_TABLE_LABELS: Path = paths["data"]["skill_tables"] / "labels" / "all"
 
-SAVE_PATH: Path = PROJECT_ROOT / "analysis" / "train_data" / "yolo"
+SAVE_PATH: Path = PROJECT_ROOT / "src"/ "analysis" / "train_data" / "yolo"
 SAVE_PATH.mkdir(parents=True, exist_ok=True)
 
 

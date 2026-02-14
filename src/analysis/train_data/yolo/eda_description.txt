@@ -1,0 +1,20 @@
+An exploratory analysis of the CV object-detection datasets was conducted prior to YOLO model training.
+The dataset contains 3497 images, of which 3351 are valid annotated samples.
+
+Overall, 98.31% of the CVs contain at least one detectable visual element.
+Photographs are present in 46.93% of the resumes, while skill tables appear in
+32.37% of the documents.
+
+On average, each CV includes 7.46 text regions, 0.47 photographs,
+and 1.95 skill tables. The median aspect ratio of the images is 1.0.
+
+Color distribution analysis shows a mean colorfulness of 17.346 and an average color
+variation of 0.2, indicating moderate visual diversity with consistent document structure.
+
+Channel-wise color statistics indicate mean RGB intensities of
+R=222.84100341796875, G=223.90199279785156, and B=223.87899780273438, with corresponding
+standard deviations of 52.512001037597656, 50.51100158691406, and 49.97700119018555,
+suggesting stable document coloration and limited chromatic noise.
+
+These findings confirm that the dataset provides sufficient structural variability and annotation
+coverage to support robust YOLO-based layout detection in curriculum vitae documents.
