@@ -152,10 +152,10 @@ def process_image_with_bbox(image_path, bbox_json_path=None):
     out_dir = PROJECT_ROOT / "src" / "ocr" / "extracted_text"
     out_dir.mkdir(parents=True, exist_ok=True)
     
-    # Save as JSON file
+    # Save as valid JSON file
     out_path = out_dir / f"{image_path.stem}_text.json"
     with open(out_path, "w", encoding="utf-8") as f:
-        f.write(concatenated_text)
+        json.dump({"text": concatenated_text}, f, ensure_ascii=False, indent=2)
     
     
     return concatenated_text
