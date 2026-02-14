@@ -38,7 +38,7 @@ paths = load_paths()
 PROJECT_ROOT = paths["project_root"]
 
 # Conservative buffer to capture clipped text without including unrelated content
-BBOX_BUFFER = 5  # pixels
+BBOX_BUFFER = 10  # pixels
 
 ocr = PaddleOCR(use_angle_cls=True, lang='en', enable_mkldnn=False)
 
@@ -105,7 +105,8 @@ def extract_text_from_bboxes(image_path, bbox_json_path):
                     text = line
                     text_lines.append(text)
         
-        extracted_text = " ".join(text_lines)
+        # Preserve line breaks within a bounding box
+        extracted_text = "\n".join(text_lines)
         
         results.append({
             "index": item["index"],
@@ -145,8 +146,8 @@ def process_image_with_bbox(image_path, bbox_json_path=None):
     # Extract text from bboxes
     ocr_results = extract_text_from_bboxes(str(image_path), str(bbox_json_path))
     
-    # Concatenate all text in order
-    concatenated_text = "\n".join([item["text"] for item in ocr_results])
+    # Concatenate all text in order (separate bounding boxes with a double newline)
+    concatenated_text = "\n\n".join([item["text"] for item in ocr_results])
     
     # Create output directory
     out_dir = PROJECT_ROOT / "src" / "ocr" / "extracted_text"

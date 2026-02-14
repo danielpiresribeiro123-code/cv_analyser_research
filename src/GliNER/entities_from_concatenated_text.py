@@ -2,6 +2,25 @@ from pathlib import Path
 import json
 from gliner import GLiNER
 from utils.path_loader import load_paths
+from pathlib import Path
+import importlib.util
+import sys
+
+# Try to import the preprocessing helper; fall back to loading by file path so
+# this works whether the module is run as a script or as a package.
+try:
+    from GliNER.text_json_preprocessing import preprocess_ocr_for_gliner
+except Exception:
+    try:
+        from text_json_preprocessing import preprocess_ocr_for_gliner
+    except Exception:
+        # Load directly from file location
+        module_path = Path(__file__).parent / "text_json_preprocessing.py"
+        spec = importlib.util.spec_from_file_location("text_json_preprocessing", module_path)
+        mod = importlib.util.module_from_spec(spec)
+        sys.modules["text_json_preprocessing"] = mod
+        spec.loader.exec_module(mod)
+        preprocess_ocr_for_gliner = mod.preprocess_ocr_for_gliner
 
 
 def extract_entities_from_cv(file_path: str):
@@ -36,6 +55,13 @@ def extract_entities_from_cv(file_path: str):
         cv_text = cv_data.get("text", str(cv_data))
     else:
         cv_text = str(cv_data)
+
+    # Preprocess concatenated text (handles double-newline separated boxes)
+    try:
+        cv_text = preprocess_ocr_for_gliner(cv_text)
+    except Exception:
+        # If preprocessing fails, fallback to original text
+        pass
     
     # 1. Load the model
     model = GLiNER.from_pretrained("urchade/gliner_medium-v2.1")
