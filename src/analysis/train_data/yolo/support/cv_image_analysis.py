@@ -124,20 +124,20 @@ def build_images_metadata_df(
                 "color_variation": color_variation,
 
                 # RGB
-                "mean_r": mean_r,
-                "mean_g": mean_g,
-                "mean_b": mean_b,
-                "std_r": std_r,
-                "std_g": std_g,
-                "std_b": std_b,
+                "mean_red": mean_r,
+                "mean_green": mean_g,
+                "mean_blue": mean_b,
+                "std_red": std_r,
+                "std_green": std_g,
+                "std_blue": std_b,
 
                 # HSV
-                "mean_h": mean_h,
-                "mean_s": mean_s,
-                "mean_v": mean_v,
-                "std_h": std_h,
-                "std_s": std_s,
-                "std_v": std_v,
+                "mean_hue": mean_h,
+                "mean_saturation": mean_s,
+                "mean_value": mean_v,
+                "std_hue": std_h,
+                "std_saturation": std_s,
+                "std_value": std_v,
 
                 "has_labels": bool(has_labels),
                 "have_to_remove": bool(have_to_remove),
