@@ -10,8 +10,8 @@ import os
 from pathlib import Path
 
 from utils.path_loader import load_paths
-from yolo_coord import detect_and_segment_cv, MODEL_PATH, PROJECT_ROOT
-from ocr_image import process_image_with_bbox
+from ocr.yolo_coord import detect_and_segment_cv, MODEL_PATH, PROJECT_ROOT
+from ocr.ocr_image import process_image_with_bbox
 
 # Image extensions to process
 IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".bmp", ".tiff"}
