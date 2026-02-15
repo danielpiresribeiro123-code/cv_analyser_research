@@ -1,19 +1,18 @@
-import os
 import cv2
-import pandas as pd
+import numpy as np
 from pathlib import Path
 from collections import Counter
-from paddleocr import PaddleOCR
 from utils.path_loader import load_paths
 
-
 # =========================================================
-# Windows PaddleOCR path + PIR fix (important for stability)
+# Language detection (safe import)
 # =========================================================
-safe_dir = r"C:\\paddle_cache"
-os.environ["USERPROFILE"] = safe_dir
-os.environ["HOME"] = safe_dir
-os.environ["FLAGS_enable_pir_api"] = "0"
+try:
+    from langdetect import detect as _detect_lang
+    LANG_AVAILABLE = True
+except Exception:
+    _detect_lang = None
+    LANG_AVAILABLE = False
 
 
 # =========================================================
@@ -26,7 +25,7 @@ PROJECT_ROOT = paths["project_root"]
 LABELS_DIR = paths["data"]["datasets_root"] / "labels" / "train"
 IMAGES_DIR = paths["data"]["datasets_root"] / "images" / "train"
 
-OUTPUT_DIR = PROJECT_ROOT / "cropped_yolo"
+OUTPUT_DIR = paths["data"]["datasets_root"] / "cropped_yolo"
 TEXT_DIR = OUTPUT_DIR / "text_block"
 PHOTO_DIR = OUTPUT_DIR / "photo"
 
@@ -41,13 +40,18 @@ IMAGE_EXTS = (".jpg", ".jpeg", ".png", ".bmp", ".webp", ".tiff")
 
 
 # =========================================================
+# Quality filtering thresholds
+# =========================================================
+MIN_AREA = 400
+MIN_WIDTH = 20
+MIN_HEIGHT = 20
+MIN_TEXT_RATIO = 0.02
+
+
+# =========================================================
 # Helper: YOLO bbox → pixel coords
 # =========================================================
 def yolo_to_xyxy(bbox, img_w, img_h):
-    """
-    bbox: (x_center, y_center, width, height) normalized [0,1]
-    returns: (x1, y1, x2, y2) in pixels
-    """
     x_c, y_c, w, h = bbox
 
     x1 = int((x_c - w / 2) * img_w)
@@ -59,25 +63,64 @@ def yolo_to_xyxy(bbox, img_w, img_h):
 
 
 # =========================================================
-# Main cropping function
+# Heuristic: detect if crop likely contains readable text
+# =========================================================
+def has_enough_text_structure(crop: np.ndarray) -> bool:
+    if crop is None or crop.size == 0:
+        return False
+
+    h, w = crop.shape[:2]
+
+    if h < MIN_HEIGHT or w < MIN_WIDTH or (h * w) < MIN_AREA:
+        return False
+
+    gray = cv2.cvtColor(crop, cv2.COLOR_BGR2GRAY)
+    edges = cv2.Canny(gray, 50, 150)
+
+    edge_ratio = edges.mean() / 255.0
+
+    return edge_ratio > MIN_TEXT_RATIO
+
+
+# =========================================================
+# Fast readability + language check using tiny OCR pass
+# =========================================================
+def quick_text_check(crop: np.ndarray) -> tuple[bool, bool]:
+    """
+    Lightweight readability + language heuristic.
+    Uses simple morphology instead of OCR.
+    """
+
+    if crop is None or crop.size == 0:
+        return False, False
+
+    gray = cv2.cvtColor(crop, cv2.COLOR_BGR2GRAY)
+
+    # contraste mínimo → texto precisa contraste
+    if gray.std() < 10:
+        return False, False
+
+    # densidade de edges → texto gera edges horizontais
+    edges = cv2.Canny(gray, 50, 150)
+    edge_ratio = edges.mean() / 255.0
+
+    readable = edge_ratio > 0.015
+
+    # idioma só depois com PaddleOCR → aqui assume True
+    return readable, True
+
+
+
+
+# =========================================================
+# Main cropping function with quality + language filtering
 # =========================================================
 def crop_yolo_dataset(images_dir: Path, labels_dir: Path, output_dir: Path):
-    """
-    Crops YOLO bounding boxes into class folders:
-        0 → text_block
-        1 → photo
 
-    Rules:
-    - Skip if image has no matching txt
-    - Skip if txt has no matching image
-    - Skip duplicated names
-    - Accept multiple image extensions
-    """
-
-    image_files = []
-    for ext in IMAGE_EXTS:
-        image_files.extend(images_dir.glob(f"*{ext}"))
-        image_files.extend(images_dir.glob(f"*{ext.upper()}"))
+    image_files = [
+        p for p in images_dir.iterdir()
+        if p.suffix.lower() in IMAGE_EXTS
+    ]
 
     label_files = list(labels_dir.glob("*.txt"))
 
@@ -93,11 +136,12 @@ def crop_yolo_dataset(images_dir: Path, labels_dir: Path, output_dir: Path):
 
     print(f"Total valid pairs: {len(valid_stems)}")
 
+    kept = 0
+    discarded_quality = 0
+    discarded_lang = 0
+
     for stem in valid_stems:
-        img_candidates = []
-        for ext in IMAGE_EXTS:
-            img_candidates.extend(images_dir.glob(stem + ext))
-            img_candidates.extend(images_dir.glob(stem + ext.upper()))
+        img_candidates = [p for p in image_files if p.stem == stem]
 
         if len(img_candidates) != 1:
             continue
@@ -125,9 +169,23 @@ def crop_yolo_dataset(images_dir: Path, labels_dir: Path, output_dir: Path):
             x1, y1, x2, y2 = yolo_to_xyxy(bbox, w, h)
             crop = image[y1:y2, x1:x2]
 
-            if crop.size == 0:
+            # ---------------- Quality structure filter ----------------
+            if not has_enough_text_structure(crop):
+                discarded_quality += 1
                 continue
 
+            # ---------------- Fast OCR readability + language ----------
+            readable, english = quick_text_check(crop)
+
+            if not readable:
+                discarded_quality += 1
+                continue
+
+            if not english:
+                discarded_lang += 1
+                continue
+
+            # ---------------- Choose output folder --------------------
             if cls == 0:
                 save_dir = TEXT_DIR
             elif cls == 1:
@@ -137,24 +195,34 @@ def crop_yolo_dataset(images_dir: Path, labels_dir: Path, output_dir: Path):
 
             save_path = save_dir / f"{stem}_{i}.jpg"
             cv2.imwrite(str(save_path), crop)
+            kept += 1
 
     print("Cropping finished.")
+    print(f"Kept crops: {kept}")
+    print(f"Discarded (quality/readability): {discarded_quality}")
+    print(f"Discarded (non-English): {discarded_lang}")
+
+
 
 
 # =========================================================
-# PaddleOCR initialization (PP‑OCRv3 auto‑downloaded)
+# OCR DATASET GENERATION FOR TEXT BLOCKS (PaddleOCR)
 # =========================================================
+import pandas as pd
+from paddleocr import PaddleOCR
+import os
+
+# Initialize PaddleOCR once (CPU by default; set use_gpu=True if available)
+
+
+os.environ["PADDLE_PDX_DISABLE_MODEL_SOURCE_CHECK"] = "True"
 ocr_engine = PaddleOCR(
-    use_angle_cls=True,
     lang="en",
-    enable_mkldnn=False,
-    show_log=False,
-)
+    use_textline_orientation=True,
+    enable_mkldnn=False,)
 
 
-# =========================================================
-# OCR dataset generation for text blocks
-# =========================================================
+
 def build_ocr_text_dataset(cropped_root: Path, output_root: Path):
     """
     Runs PaddleOCR over cropped text_block images organized by class folders
@@ -169,15 +237,19 @@ def build_ocr_text_dataset(cropped_root: Path, output_root: Path):
         label = class_dir.name
         rows = []
 
-        for img_path in class_dir.glob("*"):
+        for img_path in class_dir.iterdir():
             if img_path.suffix.lower() not in IMAGE_EXTS:
                 continue
 
+            # -------------------------------------------------
+            # PaddleOCR inference
+            # -------------------------------------------------
             result = ocr_engine.ocr(str(img_path), cls=True)
 
             if not result or not result[0]:
                 continue
 
+            # Concatenate detected text lines
             texts = [line[1][0] for line in result[0] if line[1][0].strip()]
             text = " ".join(texts).strip()
 
@@ -196,6 +268,7 @@ def build_ocr_text_dataset(cropped_root: Path, output_root: Path):
             continue
 
         df = pd.DataFrame(rows)
+
         save_path = output_root / f"{label}.csv"
         df.to_csv(save_path, index=False)
 
@@ -203,60 +276,15 @@ def build_ocr_text_dataset(cropped_root: Path, output_root: Path):
 
 
 # =========================================================
-# Run full pipeline
+# Example run for OCR dataset creation
 # =========================================================
 CROPPED_TEXTBLOCK_ROOT = paths["data"]["datasets_root"] / "cropped_yolo" / "text_block"
 OCR_OUTPUT_ROOT = paths["data"]["datasets_root"] / "cropped_yolo" / "ocr_text_block"
 
-
-# =========================================================
-# OCR RAW IMAGES → TXT FILES
-# =========================================================
-def ocr_images_to_txt(images_dir: Path, text_dir: Path):
-    """
-    Runs PaddleOCR over all images in IMAGES_DIR
-    and saves extracted text into TEXT_DIR as .txt files.
-    """
-
-    text_dir.mkdir(parents=True, exist_ok=True)
-
-    image_files = [
-        p for p in images_dir.iterdir()
-        if p.suffix.lower() in IMAGE_EXTS
-    ]
-
-    print(f"Images found for OCR: {len(image_files)}")
-
-    saved = 0
-    skipped = 0
-
-    for img_path in image_files:
-
-        result = ocr_engine.ocr(str(img_path), cls=True)
-
-        if not result or not result[0]:
-            skipped += 1
-            continue
-
-        texts = [line[1][0] for line in result[0] if line[1][0].strip()]
-        text = "\n".join(texts).strip()
-
-        if not text:
-            skipped += 1
-            continue
-
-        txt_path = text_dir / f"{img_path.stem}.txt"
-
-        with open(txt_path, "w", encoding="utf-8") as f:
-            f.write(text)
-
-        saved += 1
-
-    print("OCR finished.")
-    print(f"TXT saved: {saved}")
-    print(f"Skipped (no text): {skipped}")
-
 if __name__ == "__main__":
-    # 3) OCR raw full images → TXT
-    RAW_TEXT_DIR = PROJECT_ROOT / "ocr_full_images"
-    ocr_images_to_txt(IMAGES_DIR, RAW_TEXT_DIR)
+
+    # 1) Crop YOLO → imagens
+    # crop_yolo_dataset(IMAGES_DIR, LABELS_DIR, OUTPUT_DIR)
+
+    # 2) OCR → texto CSV
+    build_ocr_text_dataset(CROPPED_TEXTBLOCK_ROOT, OCR_OUTPUT_ROOT)
