@@ -1,0 +1,38 @@
+{
+    "person name": [],
+    "address": [
+        "Noida"
+    ],
+    "years of experience": [],
+    "job title": [
+        "Big Data Analyst",
+        "BIG DATA ANALYST"
+    ],
+    "company": [],
+    "university": [
+        "The Amity School of Engineering & Technology"
+    ],
+    "degree": [
+        "B.Tech(Electronics)"
+    ],
+    "skills": [
+        "RDBMS",
+        "Amazon Redshift",
+        "Data Structures",
+        "development",
+        "Spark",
+        "YARN",
+        "C++",
+        "Java",
+        "Hdfs",
+        "Hive",
+        "Data Science",
+        "Microsoft Azure",
+        "Informatica",
+        "Hadoop",
+        "Machine Learning",
+        "Python",
+        "DBMS",
+        "Mapreduce"
+    ]
+}

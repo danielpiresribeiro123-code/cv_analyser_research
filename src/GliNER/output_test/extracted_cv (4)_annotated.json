@@ -1,0 +1,38 @@
+{
+    "person name": [],
+    "address": [
+        "AURANGABAD"
+    ],
+    "years of experience": [],
+    "job title": [
+        "DATA DESIGNER",
+        "Software developer",
+        "SOFTWARE DEVELOPER INTERN",
+        "JUNIOR DATA EVANGELIST"
+    ],
+    "company": [
+        "JB MANAGEMENT",
+        "KLN SOLUTIONS"
+    ],
+    "university": [
+        "UNIVERSITY",
+        "BABURAO PATIL COLLEGE"
+    ],
+    "degree": [
+        "B.TECH(INSTRUMENTATION)"
+    ],
+    "skills": [
+        "Data Mining",
+        "Databricks",
+        "AWS",
+        "python",
+        "NLTK",
+        "Data Manipulation",
+        "Spacy",
+        "PySpark",
+        "Azure",
+        "Python",
+        "PowerBI",
+        "R"
+    ]
+}

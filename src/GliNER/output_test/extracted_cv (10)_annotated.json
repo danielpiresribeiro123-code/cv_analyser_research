@@ -1,0 +1,31 @@
+{
+    "person name": [
+        "Jaroslav Chechnik"
+    ],
+    "address": [],
+    "years of experience": [],
+    "job title": [
+        "Executive Profile",
+        "F R E S H E R",
+        "Intern"
+    ],
+    "company": [
+        "SMART PARKING SYSTEM"
+    ],
+    "university": [
+        "ECE VIT-AP University 2021"
+    ],
+    "degree": [
+        "B. Tech"
+    ],
+    "skills": [
+        "Scikit Learn",
+        "Pandas",
+        "Raspberry Pi",
+        "NumPy",
+        "Streamlit",
+        "TensorFlow",
+        "Python",
+        "Matplotlib"
+    ]
+}

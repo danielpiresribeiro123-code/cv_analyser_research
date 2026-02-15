@@ -1,0 +1,38 @@
+{
+    "person name": [],
+    "address": [],
+    "years of experience": [],
+    "job title": [
+        "Data Scientist",
+        "DATA SCIENTIST",
+        "Data Analyst",
+        "Software Engineer"
+    ],
+    "company": [
+        "One97 Communications Limited"
+    ],
+    "university": [
+        "SGBAU university",
+        "Indian Institute of Technology"
+    ],
+    "degree": [
+        "B.Tech",
+        "M.Tech"
+    ],
+    "skills": [
+        "Computer Vision",
+        "YOLO CNN",
+        "C++",
+        "Natural Language Processing",
+        "Deep Learning",
+        "Java",
+        "Pattern Recognition",
+        "OCR Insights",
+        "Kubeflow",
+        "C",
+        "PySpark",
+        "Algorithms",
+        "Machine Learning",
+        "Python"
+    ]
+}

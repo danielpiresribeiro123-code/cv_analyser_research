@@ -1,0 +1,34 @@
+{
+    "person name": [
+        "BENJAMIN OSTA"
+    ],
+    "address": [],
+    "years of experience": [],
+    "job title": [
+        "Software Developer",
+        "FRESHER DEVELOPER",
+        "Intern",
+        "Software Engineer",
+        "fresher"
+    ],
+    "company": [
+        "SAP"
+    ],
+    "university": [
+        "Anna University"
+    ],
+    "degree": [
+        "B.Tech(Civil)"
+    ],
+    "skills": [
+        "C#",
+        "SpringBoot",
+        "Jenkins",
+        "Firebase",
+        "database management",
+        "C++",
+        "business management",
+        "Django",
+        "Python"
+    ]
+}
