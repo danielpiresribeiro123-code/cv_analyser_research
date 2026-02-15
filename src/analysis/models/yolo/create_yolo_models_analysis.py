@@ -126,7 +126,7 @@ def save_dataframe(
 def create_yolo_models_benchmarks(
     device: str | int = "cpu",
     num_analysed_images: int = 150,
-    output_dir: Path = PROJECT_ROOT / "analysis" / "models"/"yolo",
+    output_dir: Path = PROJECT_ROOT / "src"/"analysis" / "models"/"yolo",
     filename: str = "yolo_models_analysis",
     format: str = "csv",
     text_photo_imgs_path: str | Path= TEXT_PHOTO_TEST,
