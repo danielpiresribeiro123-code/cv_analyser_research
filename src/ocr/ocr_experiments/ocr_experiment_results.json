@@ -1,0 +1,32 @@
+[
+  {
+    "variant": "raw",
+    "image": "C:\\Users\\Tomás\\Documents\\GitHub\\CapStone\\src\\outputs\\ocr_experiments\\raw.png",
+    "text": "Fialo\nomas"
+  },
+  {
+    "variant": "upscale",
+    "image": "C:\\Users\\Tomás\\Documents\\GitHub\\CapStone\\src\\outputs\\ocr_experiments\\upscale.png",
+    "text": "Fiallo\nTomás"
+  },
+  {
+    "variant": "clahe",
+    "image": "C:\\Users\\Tomás\\Documents\\GitHub\\CapStone\\src\\outputs\\ocr_experiments\\clahe.png",
+    "text": "Fiallo\nTomás"
+  },
+  {
+    "variant": "sharpen",
+    "image": "C:\\Users\\Tomás\\Documents\\GitHub\\CapStone\\src\\outputs\\ocr_experiments\\sharpen.png",
+    "text": "Fialho\nomás"
+  },
+  {
+    "variant": "binarize",
+    "image": "C:\\Users\\Tomás\\Documents\\GitHub\\CapStone\\src\\outputs\\ocr_experiments\\binarize.png",
+    "text": "Fialha\nTomás"
+  },
+  {
+    "variant": "deskew",
+    "image": "C:\\Users\\Tomás\\Documents\\GitHub\\CapStone\\src\\outputs\\ocr_experiments\\deskew.png",
+    "text": "Fialho\nomás"
+  }
+]

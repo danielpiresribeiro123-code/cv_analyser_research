@@ -91,6 +91,5 @@ def preprocess_ocr_for_gliner(ocr_json_output):
     # Join distinct blocks with Double Newlines to preserve section boundaries
     full_text = "\n\n".join(cleaned_blocks)
     
-    print(full_text)
     return full_text
 

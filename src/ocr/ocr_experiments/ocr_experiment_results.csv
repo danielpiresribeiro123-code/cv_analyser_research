@@ -1,0 +1,13 @@
+variant;image;text
+raw;C:\Users\Tomás\Documents\GitHub\CapStone\src\outputs\ocr_experiments\raw.png;"Fialo
+omas"
+upscale;C:\Users\Tomás\Documents\GitHub\CapStone\src\outputs\ocr_experiments\upscale.png;"Fiallo
+Tomás"
+clahe;C:\Users\Tomás\Documents\GitHub\CapStone\src\outputs\ocr_experiments\clahe.png;"Fiallo
+Tomás"
+sharpen;C:\Users\Tomás\Documents\GitHub\CapStone\src\outputs\ocr_experiments\sharpen.png;"Fialho
+omás"
+binarize;C:\Users\Tomás\Documents\GitHub\CapStone\src\outputs\ocr_experiments\binarize.png;"Fialha
+Tomás"
+deskew;C:\Users\Tomás\Documents\GitHub\CapStone\src\outputs\ocr_experiments\deskew.png;"Fialho
+omás"

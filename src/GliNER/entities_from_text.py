@@ -6,10 +6,10 @@ import importlib.util
 import sys
 
 try:
-    from GliNER.text_json_preprocessing import preprocess_ocr_for_gliner
+    from src.GliNER.text_GliNER_preprocessing import preprocess_ocr_for_gliner
 except Exception:
     try:
-        from text_json_preprocessing import preprocess_ocr_for_gliner
+        from src.GliNER.text_GliNER_preprocessing import preprocess_ocr_for_gliner
     except Exception:
         module_path = Path(__file__).parent / "text_json_preprocessing.py"
         spec = importlib.util.spec_from_file_location("text_json_preprocessing", module_path)
