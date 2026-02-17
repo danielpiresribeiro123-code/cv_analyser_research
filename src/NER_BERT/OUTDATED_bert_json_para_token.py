@@ -108,5 +108,5 @@ build_bert_ner_dataset(
     input_path=PASTA_DATA,
     tokenizer=tokenizer,
     label2id=label2id,
-    output_file="dataset_processado.json"
+    output_file="data/processed_Json/dataset_processado.json"
 )
