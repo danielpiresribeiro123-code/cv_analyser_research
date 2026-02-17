@@ -1,0 +1,2 @@
+epoch,eval_loss,eval_precision,eval_recall,eval_f1,eval_accuracy
+1.0,0.5954699516296387,0.0,0.0,0.0,0.9824561403508771
