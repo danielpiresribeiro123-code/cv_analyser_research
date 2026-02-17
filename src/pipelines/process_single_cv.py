@@ -182,24 +182,27 @@ def process_single_cv(
         if verbose:
             print(f"     [7b/7] Extracting contact info via regex...")
         # Lazy-import regex extractor (lightweight)
-        from info_extraction.contact_info_extraction_mem import extract_contact_info
-        contact_info = extract_contact_info(ocr_text)
+        from info_extraction.regex_v1_mem import get_regex_dataframe
+        regex_df = get_regex_dataframe([{"text": ocr_text, "file": f"page_{page_num + 1}"}])
         
         # Combine results
         # Start with GLiNER DataFrame
         result_row = gliner_df.iloc[0].to_dict()
         
         # Add contact info (regex-extracted)
-        result_row.update({
-            "email_regex": contact_info["email"],
-            "all_emails_regex": ", ".join(contact_info["all_emails"]),
-            "phone_regex": contact_info["phone"],
-            "all_phones_regex": ", ".join(contact_info["all_phones"]),
-            "linkedin_regex": contact_info["linkedin"],
-            "github_regex": contact_info["github"],
-            "address_regex": contact_info["address"],
-            "experience_years_regex": contact_info["experience_years"],
-        })
+        if not regex_df.empty:
+            regex_row = regex_df.iloc[0].to_dict()
+            result_row.update({
+                "email_regex": regex_row.get("email"),
+                "phone_regex": regex_row.get("phone"),
+                "address_regex": regex_row.get("address"),
+            })
+        else:
+            result_row.update({
+                "email_regex": None,
+                "phone_regex": None,
+                "address_regex": None,
+            })
         
         # Add metadata
         result_row["page_num"] = page_num + 1
