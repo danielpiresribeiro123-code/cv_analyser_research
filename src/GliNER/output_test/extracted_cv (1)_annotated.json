@@ -14,82 +14,57 @@
         "Pattern Recognition",
         "Data Science",
         "Data Analysis",
+        "C",
         "PySpark",
         "Kubeflow",
         "Object Detection"
     ],
-    "others": [
-        {
-            "label": "university",
-            "text": "One97 Communications Limited",
-            "score": 0.9044
-        },
-        {
-            "label": "job title",
-            "text": "Data Scientist",
-            "score": 0.5597
-        },
-        {
-            "label": "degree",
-            "text": "B.Tech",
-            "score": 0.7163
-        },
-        {
-            "label": "university",
-            "text": "SGBAU university",
-            "score": 0.8924
-        },
-        {
-            "label": "degree",
-            "text": "M.Tech",
-            "score": 0.8165
-        },
-        {
-            "label": "university",
-            "text": "Indian Institute of Technology",
-            "score": 0.8167
-        },
-        {
-            "label": "job title",
-            "text": "DATA SCIENTIST",
-            "score": 0.5278
-        },
-        {
-            "label": "job title",
-            "text": "Data Scientist",
-            "score": 0.4845
-        },
-        {
-            "label": "job title",
-            "text": "Software Engineer",
-            "score": 0.5838
-        },
-        {
-            "label": "job title",
-            "text": "Data Analyst",
-            "score": 0.6302
-        }
-    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Data Scientist",
+            "Software Engineer",
+            "Data Analyst"
+        ],
+        "company": [
+            "One97 Communications Limited"
+        ],
+        "university": [
+            "SGBAU university",
+            "Indian Institute of Technology",
+            "IIT"
+        ],
+        "degree": [
+            "B.Tech",
+            "M.Tech"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
     "metadata": {
-        "total_skills": 17,
+        "total_skills": 18,
         "confidence_scores": {
-            "YOLO CNN": 0.2352,
-            "OCR Insights": 0.1976,
-            "Computer Science": 0.2548,
-            "Java": 0.9434,
-            "C++": 0.9466,
-            "Python": 0.9623,
-            "Machine Learning": 0.5499,
-            "Algorithms": 0.5555,
-            "Natural Language Processing": 0.5418,
-            "Deep Learning": 0.6824,
-            "Computer Vision": 0.6904,
-            "Pattern Recognition": 0.6007,
-            "Data Science": 0.6639,
-            "Data Analysis": 0.5191,
-            "PySpark": 0.3463,
-            "Kubeflow": 0.5084,
-            "Object Detection": 0.1939
-        }
+            "YOLO CNN": 0.4876,
+            "OCR Insights": 0.4737,
+            "Computer Science": 0.2457,
+            "Java": 0.9167,
+            "C++": 0.9092,
+            "Python": 0.9467,
+            "Machine Learning": 0.6352,
+            "Algorithms": 0.5119,
+            "Natural Language Processing": 0.5847,
+            "Deep Learning": 0.7347,
+            "Computer Vision": 0.6418,
+            "Pattern Recognition": 0.5933,
+            "Data Science": 0.5795,
+            "Data Analysis": 0.4672,
+            "C": 0.7199,
+            "PySpark": 0.3625,
+            "Kubeflow": 0.5157,
+            "Object Detection": 0.1738
+        },
+        "filename": "cv (1)_annotated.json"
     }
 }

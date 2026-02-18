@@ -8,7 +8,7 @@ PASTA_OUTPUT_CSV = Path("data/comparar_NER/GliNER/csv_comparativos")
 
 FICHEIROS_PARA_TESTAR = []
 
-def gerar_comparativo_visual(num_exemplos=3):
+def gerar_comparativo_visual(num_exemplos=10):
     PASTA_OUTPUT_CSV.mkdir(parents=True, exist_ok=True)
     
     paths_gliner = list(PASTA_GLINER.glob("*.json"))
