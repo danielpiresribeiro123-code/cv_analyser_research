@@ -1,39 +1,86 @@
 {
-    "person name": [],
-    "address": [],
-    "years of experience": [],
-    "job title": [
-        "Software Engineer",
-        "SOFTWARE DEVELOPER",
-        "Software developer",
-        "Data Analyst"
-    ],
-    "company": [
-        "KLP Technology Solutions"
-    ],
-    "university": [
-        "Dr. Jagjiban Rao Engineering College"
-    ],
-    "degree": [
-        "B.Tech (ECE)"
-    ],
     "skills": [
-        "Text Analytics",
-        "Machine learning",
-        "predictive and decision models",
-        "SpringBoot",
-        "Pandas",
         "MACHINE LEARNING",
-        "Head Up Display",
-        "machine learning",
-        "Java",
+        "Text Analytics",
         "Software Development",
-        "UI/UX developmentPROJECTS",
-        "algorithms",
+        "Object",
+        "Pandas",
+        "Numpy",
+        "Java",
+        "Python",
+        "SpringBoot",
         "Laravel",
-        "HMI framework",
+        "algorithms",
         "engineering and evaluation methods",
-        "Machine Learning",
-        "Python"
-    ]
+        "predictive and decision models",
+        "HMI framework",
+        "Head Up Display"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "KELSEY STENS",
+            "score": 0.6478
+        },
+        {
+            "label": "job title",
+            "text": "SOFTWARE DEVELOPER",
+            "score": 0.7414
+        },
+        {
+            "label": "job title",
+            "text": "Software Engineer",
+            "score": 0.8026
+        },
+        {
+            "label": "job title",
+            "text": "Data Analyst",
+            "score": 0.4294
+        },
+        {
+            "label": "degree",
+            "text": "B.Tech (ECE)",
+            "score": 0.8429
+        },
+        {
+            "label": "university",
+            "text": "Dr. Jagjiban Rao Engineering College",
+            "score": 0.9302
+        },
+        {
+            "label": "job title",
+            "text": "Software developer",
+            "score": 0.7272
+        },
+        {
+            "label": "company",
+            "text": "KLP Technology Solutions",
+            "score": 0.9542
+        },
+        {
+            "label": "job title",
+            "text": "Software Engineer",
+            "score": 0.7079
+        }
+    ],
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "MACHINE LEARNING": 0.4381,
+            "Text Analytics": 0.5413,
+            "Software Development": 0.2932,
+            "Object": 0.2182,
+            "Pandas": 0.611,
+            "Numpy": 0.1993,
+            "Java": 0.9622,
+            "Python": 0.9782,
+            "SpringBoot": 0.6028,
+            "Laravel": 0.4727,
+            "algorithms": 0.2297,
+            "engineering and evaluation methods": 0.5069,
+            "predictive and decision models": 0.1908,
+            "HMI framework": 0.4447,
+            "Head Up Display": 0.3594
+        }
+    }
 }

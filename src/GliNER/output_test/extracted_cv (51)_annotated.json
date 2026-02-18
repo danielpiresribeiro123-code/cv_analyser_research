@@ -1,0 +1,108 @@
+{
+    "skills": [
+        "English",
+        "Hindi",
+        "Kannand &  Tulu",
+        "Sr.",
+        "Computer skills",
+        "Tally ERP-9"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "Chandrahasa K Poojary",
+            "score": 0.8243
+        },
+        {
+            "label": "person name",
+            "text": "Geetha Nivas",
+            "score": 0.3958
+        },
+        {
+            "label": "company",
+            "text": "Kallottu Kelamane Shirva Post",
+            "score": 0.5676
+        },
+        {
+            "label": "person name",
+            "text": "chandrahas_poojary",
+            "score": 0.2031
+        },
+        {
+            "label": "person name",
+            "text": "chandrahaspoojary15",
+            "score": 0.1998
+        },
+        {
+            "label": "person name",
+            "text": "Krishna Poojary",
+            "score": 0.6861
+        },
+        {
+            "label": "person name",
+            "text": "Indian",
+            "score": 0.1589
+        },
+        {
+            "label": "years of experience",
+            "text": "Married",
+            "score": 0.3073
+        },
+        {
+            "label": "company",
+            "text": "U  P  Twiga  Fiberglass, Ltd",
+            "score": 0.4379
+        },
+        {
+            "label": "company",
+            "text": "MumbaiTime Keeper",
+            "score": 0.4882
+        },
+        {
+            "label": "company",
+            "text": "2DKI Apparel Pvt Ltd",
+            "score": 0.3242
+        },
+        {
+            "label": "job title",
+            "text": "Mumbai Asst - Personnel",
+            "score": 0.4379
+        },
+        {
+            "label": "company",
+            "text": "3Sai Radha Group of Concern",
+            "score": 0.3352
+        },
+        {
+            "label": "job title",
+            "text": "Udupi Accounts Assistant",
+            "score": 0.4156
+        },
+        {
+            "label": "degree",
+            "text": "B.Com.",
+            "score": 0.9177
+        },
+        {
+            "label": "university",
+            "text": "Managlore University",
+            "score": 0.9532
+        },
+        {
+            "label": "degree",
+            "text": "Diploma in Information Technology",
+            "score": 0.8735
+        }
+    ],
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "English": 0.893,
+            "Hindi": 0.8786,
+            "Kannand &  Tulu": 0.5102,
+            "Sr.": 0.3222,
+            "Computer skills": 0.4341,
+            "Tally ERP-9": 0.7426
+        }
+    }
+}

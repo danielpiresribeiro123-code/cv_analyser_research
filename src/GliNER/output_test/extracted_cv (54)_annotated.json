@@ -1,0 +1,113 @@
+{
+    "skills": [
+        "Social  Work",
+        "Innovative  E  governance",
+        "Advertising",
+        "Project Management",
+        "English",
+        "Indore                         Hindi"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "miteshpanchal",
+            "score": 0.2043
+        },
+        {
+            "label": "degree",
+            "text": "B.Com.",
+            "score": 0.7316
+        },
+        {
+            "label": "university",
+            "text": "D.A.V.V.",
+            "score": 0.5503
+        },
+        {
+            "label": "university",
+            "text": "Gujarati College",
+            "score": 0.4681
+        },
+        {
+            "label": "university",
+            "text": "Gujarati Higher Secondary",
+            "score": 0.3135
+        },
+        {
+            "label": "university",
+            "text": "Gujarati Higher Secondary",
+            "score": 0.3505
+        },
+        {
+            "label": "company",
+            "text": "Vadilal Industries Limited",
+            "score": 0.9875
+        },
+        {
+            "label": "job title",
+            "text": "P.A.",
+            "score": 0.5029
+        },
+        {
+            "label": "job title",
+            "text": "Director",
+            "score": 0.4025
+        },
+        {
+            "label": "company",
+            "text": "DOJ",
+            "score": 0.1893
+        },
+        {
+            "label": "person name",
+            "text": "Director",
+            "score": 0.2951
+        },
+        {
+            "label": "company",
+            "text": "ADANI FOUNDATION",
+            "score": 0.9159
+        },
+        {
+            "label": "job title",
+            "text": "MSG",
+            "score": 0.541
+        },
+        {
+            "label": "job title",
+            "text": "CEO",
+            "score": 0.6116
+        },
+        {
+            "label": "job title",
+            "text": "Project Officer",
+            "score": 0.699
+        },
+        {
+            "label": "job title",
+            "text": "MSG",
+            "score": 0.5237
+        },
+        {
+            "label": "person name",
+            "text": "CEO",
+            "score": 0.5753
+        },
+        {
+            "label": "person name",
+            "text": "CEO",
+            "score": 0.568
+        }
+    ],
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Social  Work": 0.2195,
+            "Innovative  E  governance": 0.2107,
+            "Advertising": 0.2466,
+            "Project Management": 0.6288,
+            "English": 0.5406,
+            "Indore                         Hindi": 0.4792
+        }
+    }
+}

@@ -1,38 +1,82 @@
 {
-    "person name": [],
-    "address": [
-        "Noida"
-    ],
-    "years of experience": [],
-    "job title": [
-        "Big Data Analyst",
-        "BIG DATA ANALYST"
-    ],
-    "company": [],
-    "university": [
-        "The Amity School of Engineering & Technology"
-    ],
-    "degree": [
-        "B.Tech(Electronics)"
-    ],
     "skills": [
-        "RDBMS",
-        "Amazon Redshift",
-        "Data Structures",
-        "development",
-        "Spark",
-        "YARN",
-        "C++",
-        "Java",
-        "Hdfs",
-        "Hive",
-        "Data Science",
-        "Microsoft Azure",
-        "Informatica",
+        "Big data",
         "Hadoop",
-        "Machine Learning",
+        "Hive",
         "Python",
+        "Mapreduce",
+        "Spark",
+        "Java",
+        "Machine Learning",
+        "Cloud",
+        "Hdfs",
+        "YARN",
+        "Data Science",
+        "C++",
+        "Data Structures",
         "DBMS",
-        "Mapreduce"
-    ]
+        "RDBMS",
+        "Informatica",
+        "Redshift"
+    ],
+    "others": [
+        {
+            "label": "job title",
+            "text": "Big Data Analyst",
+            "score": 0.573
+        },
+        {
+            "label": "degree",
+            "text": "B.Tech(Electronics)",
+            "score": 0.886
+        },
+        {
+            "label": "university",
+            "text": "The Amity School of Engineering & Technology (ASET)",
+            "score": 0.7886
+        },
+        {
+            "label": "job title",
+            "text": "BIG DATA ANALYST",
+            "score": 0.5643
+        },
+        {
+            "label": "company",
+            "text": "Talend",
+            "score": 0.6367
+        },
+        {
+            "label": "company",
+            "text": "Amazon",
+            "score": 0.6321
+        },
+        {
+            "label": "company",
+            "text": "Microsoft Azure",
+            "score": 0.8733
+        }
+    ],
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Big data": 0.3745,
+            "Hadoop": 0.5109,
+            "Hive": 0.542,
+            "Python": 0.8864,
+            "Mapreduce": 0.6136,
+            "Spark": 0.6437,
+            "Java": 0.8627,
+            "Machine Learning": 0.601,
+            "Cloud": 0.2648,
+            "Hdfs": 0.6079,
+            "YARN": 0.631,
+            "Data Science": 0.6172,
+            "C++": 0.5227,
+            "Data Structures": 0.7014,
+            "DBMS": 0.5561,
+            "RDBMS": 0.5878,
+            "Informatica": 0.6119,
+            "Redshift": 0.1731
+        }
+    }
 }

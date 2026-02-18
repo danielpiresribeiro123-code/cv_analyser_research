@@ -1,0 +1,96 @@
+{
+    "skills": [
+        "technical skills",
+        "Creo",
+        "BHOPAL201569.60%",
+        "Member",
+        "production technologies",
+        "Innovation in Aqua silencer",
+        "safety in seat belt",
+        "TI",
+        "Brake  test",
+        "security",
+        "TRANING AND CERTIFICATION",
+        "SELF-ASSESMENT",
+        "Hard Working",
+        "Team Worker",
+        "Confident & Optimistic"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "SANDIP KUMAR PATEL",
+            "score": 0.3746
+        },
+        {
+            "label": "job title",
+            "text": "mechanical Engineer",
+            "score": 0.3249
+        },
+        {
+            "label": "university",
+            "text": "BE RGTU",
+            "score": 0.7759
+        },
+        {
+            "label": "university",
+            "text": "IIT",
+            "score": 0.9618
+        },
+        {
+            "label": "company",
+            "text": "MPCON LTD",
+            "score": 0.8
+        },
+        {
+            "label": "job title",
+            "text": "member",
+            "score": 0.202
+        },
+        {
+            "label": "company",
+            "text": "patel motors PVT. LTD.",
+            "score": 0.6805
+        },
+        {
+            "label": "person name",
+            "text": "Sandip kumar patel",
+            "score": 0.8395
+        },
+        {
+            "label": "person name",
+            "text": "Sh. Dinanath patel",
+            "score": 0.8132
+        },
+        {
+            "label": "years of experience",
+            "text": "DOB",
+            "score": 0.2398
+        },
+        {
+            "label": "person name",
+            "text": "Indian",
+            "score": 0.2129
+        }
+    ],
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "technical skills": 0.3501,
+            "Creo": 0.2162,
+            "BHOPAL201569.60%": 0.243,
+            "Member": 0.1716,
+            "production technologies": 0.2102,
+            "Innovation in Aqua silencer": 0.2103,
+            "safety in seat belt": 0.2357,
+            "TI": 0.3497,
+            "Brake  test": 0.2822,
+            "security": 0.1877,
+            "TRANING AND CERTIFICATION": 0.791,
+            "SELF-ASSESMENT": 0.6094,
+            "Hard Working": 0.5267,
+            "Team Worker": 0.6701,
+            "Confident & Optimistic": 0.633
+        }
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "skills": [
+        "creative skills",
+        "Intermediate",
+        "Urdu Language",
+        "COMPUTER KNOWLEDGE",
+        "Computer Hardwar and Networking",
+        "Diploma in DCP (UPSDM)",
+        "Computer Hardware Assembling",
+        "Hindi",
+        "English",
+        "Urdu"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "M  OHD.   N  AZAR",
+            "score": 0.2071
+        },
+        {
+            "label": "person name",
+            "text": "Sarai Rahman",
+            "score": 0.4095
+        },
+        {
+            "label": "job title",
+            "text": "CARRIER",
+            "score": 0.1596
+        },
+        {
+            "label": "years of experience",
+            "text": "interpersonal",
+            "score": 0.4883
+        },
+        {
+            "label": "job title",
+            "text": "carrier",
+            "score": 0.2186
+        },
+        {
+            "label": "degree",
+            "text": "B.A.",
+            "score": 0.8174
+        },
+        {
+            "label": "university",
+            "text": "University of Madrasa Education Lucknow",
+            "score": 0.9569
+        },
+        {
+            "label": "university",
+            "text": "U.P. Board of Madrasa Education Lucknow",
+            "score": 0.6987
+        },
+        {
+            "label": "university",
+            "text": "U.P. Board of Madrasa Education Lucknow",
+            "score": 0.6663
+        },
+        {
+            "label": "company",
+            "text": "National Council of Promotion of Urdu Language Govt. of India",
+            "score": 0.6173
+        },
+        {
+            "label": "company",
+            "text": "Elite Computer Centre",
+            "score": 0.2787
+        },
+        {
+            "label": "university",
+            "text": "AMU (Nodal Centre) Aligarh",
+            "score": 0.6128
+        },
+        {
+            "label": "company",
+            "text": "BIIT Computer Centre",
+            "score": 0.3132
+        },
+        {
+            "label": "years of experience",
+            "text": "EXPERIENCE",
+            "score": 0.3085
+        },
+        {
+            "label": "years of experience",
+            "text": "3 years",
+            "score": 0.2319
+        },
+        {
+            "label": "company",
+            "text": "Neeraj Enterprises",
+            "score": 0.8116
+        },
+        {
+            "label": "job title",
+            "text": "Cashier/Accountant",
+            "score": 0.4583
+        },
+        {
+            "label": "university",
+            "text": "A.M.U. Central Canteen",
+            "score": 0.2349
+        },
+        {
+            "label": "job title",
+            "text": "Computer Operator",
+            "score": 0.5337
+        },
+        {
+            "label": "company",
+            "text": "Kulsum Traders",
+            "score": 0.7692
+        },
+        {
+            "label": "person name",
+            "text": "Mr. Late Amiruddin",
+            "score": 0.7928
+        },
+        {
+            "label": "years of experience",
+            "text": "Unmarried",
+            "score": 0.2899
+        },
+        {
+            "label": "person name",
+            "text": "GENDER",
+            "score": 0.155
+        },
+        {
+            "label": "person name",
+            "text": "MOHD. NAZAR",
+            "score": 0.4237
+        }
+    ],
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "creative skills": 0.1719,
+            "Intermediate": 0.2372,
+            "Urdu Language": 0.6684,
+            "COMPUTER KNOWLEDGE": 0.3357,
+            "Computer Hardwar and Networking": 0.1855,
+            "Diploma in DCP (UPSDM)": 0.3078,
+            "Computer Hardware Assembling": 0.2474,
+            "Hindi": 0.8021,
+            "English": 0.5421,
+            "Urdu": 0.82
+        }
+    }
+}

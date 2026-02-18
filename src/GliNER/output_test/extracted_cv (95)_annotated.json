@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "sincerity",
+        "integrity",
+        "intelligence",
+        "good moral conduct",
+        "SL.N OQUALIFICATION(BOARD )",
+        "Electrical  engineering",
+        "Circuit theory",
+        "PROGRAMMING SKILLS",
+        "Basic of c",
+        "LINE FOLLOWING ROBOT",
+        "PIC18F"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "Abhishek Kumar",
+            "score": 0.7646
+        },
+        {
+            "label": "university",
+            "text": "CBSE",
+            "score": 0.4405
+        },
+        {
+            "label": "university",
+            "text": "ALOYSIUS HIGH SCHOOL",
+            "score": 0.1554
+        },
+        {
+            "label": "years of experience",
+            "text": "WORK EXPERIENCE",
+            "score": 0.2223
+        },
+        {
+            "label": "company",
+            "text": "ESCORTS AUTO PRODUCTS",
+            "score": 0.8241
+        },
+        {
+            "label": "company",
+            "text": "ESCORTS LTD.",
+            "score": 0.5705
+        },
+        {
+            "label": "degree",
+            "text": "GRADUATE ENGINEER TRAINEE",
+            "score": 0.5656
+        },
+        {
+            "label": "company",
+            "text": "NTPC ANTA GAS POWER PLANT Rajasthan",
+            "score": 0.4495
+        },
+        {
+            "label": "company",
+            "text": "JINDAL STEEL & POWER LTD",
+            "score": 0.9264
+        },
+        {
+            "label": "company",
+            "text": "SAIL",
+            "score": 0.9095
+        }
+    ],
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "sincerity": 0.525,
+            "integrity": 0.4212,
+            "intelligence": 0.4106,
+            "good moral conduct": 0.3189,
+            "SL.N OQUALIFICATION(BOARD )": 0.233,
+            "Electrical  engineering": 0.4035,
+            "Circuit theory": 0.6241,
+            "PROGRAMMING SKILLS": 0.1665,
+            "Basic of c": 0.171,
+            "LINE FOLLOWING ROBOT": 0.1962,
+            "PIC18F": 0.2127
+        }
+    }
+}

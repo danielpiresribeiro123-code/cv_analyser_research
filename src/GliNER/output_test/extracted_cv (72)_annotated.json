@@ -1,0 +1,119 @@
+{
+    "skills": [
+        "Society of engineering",
+        "electrical engineering",
+        "thorough knowledge",
+        "MEP electrical installation",
+        "analytic knowledge",
+        "Architecture and Electrical design",
+        "well organised knowledge",
+        "Facility Management",
+        "system and equipment’s maintenance",
+        "electrical & Electronics",
+        "Diploma in AutoCAD",
+        "comfortable in taking initiative and working independently",
+        "English",
+        "Hindi",
+        "Tamil",
+        "Malayalam",
+        "LV 11 KV substation",
+        "QA/QC policies",
+        "performance standards"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "Arockia Juslin Deepan",
+            "score": 0.5991
+        },
+        {
+            "label": "job title",
+            "text": "Project Engineer",
+            "score": 0.5907
+        },
+        {
+            "label": "years of experience",
+            "text": "o7+ years of experience",
+            "score": 0.1844
+        },
+        {
+            "label": "job title",
+            "text": "Electrical Engineer",
+            "score": 0.3404
+        },
+        {
+            "label": "degree",
+            "text": "Bachelor of Engineering",
+            "score": 0.431
+        },
+        {
+            "label": "degree",
+            "text": "BE",
+            "score": 0.2251
+        },
+        {
+            "label": "company",
+            "text": "CONSTRUCTION",
+            "score": 0.2012
+        },
+        {
+            "label": "company",
+            "text": "Mataf lighting & Shamiyah Expansion KAME",
+            "score": 0.1641
+        },
+        {
+            "label": "company",
+            "text": "Power tech",
+            "score": 0.4092
+        },
+        {
+            "label": "company",
+            "text": "Damac Properties",
+            "score": 0.8182
+        },
+        {
+            "label": "company",
+            "text": "CBRE",
+            "score": 0.8175
+        },
+        {
+            "label": "job title",
+            "text": "Project engineer",
+            "score": 0.592
+        },
+        {
+            "label": "company",
+            "text": "Premier composite technology",
+            "score": 0.4077
+        },
+        {
+            "label": "company",
+            "text": "DIP-2",
+            "score": 0.2087
+        }
+    ],
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Society of engineering": 0.3962,
+            "electrical engineering": 0.1994,
+            "thorough knowledge": 0.1509,
+            "MEP electrical installation": 0.2221,
+            "analytic knowledge": 0.2412,
+            "Architecture and Electrical design": 0.2845,
+            "well organised knowledge": 0.1671,
+            "Facility Management": 0.2326,
+            "system and equipment’s maintenance": 0.1556,
+            "electrical & Electronics": 0.2228,
+            "Diploma in AutoCAD": 0.6341,
+            "comfortable in taking initiative and working independently": 0.1822,
+            "English": 0.7512,
+            "Hindi": 0.8345,
+            "Tamil": 0.7147,
+            "Malayalam": 0.827,
+            "LV 11 KV substation": 0.1567,
+            "QA/QC policies": 0.2203,
+            "performance standards": 0.5855
+        }
+    }
+}

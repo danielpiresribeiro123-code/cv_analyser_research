@@ -1,38 +1,117 @@
 {
-    "person name": [
-        "Stella Thatcher"
-    ],
-    "address": [
-        "Nasik 2020"
-    ],
-    "years of experience": [],
-    "job title": [
-        "ASSOCIATE",
-        "Stock Market Analyzer",
-        "Intern",
-        "Market Research Analyst",
-        "Business Analyst",
-        "Associate",
-        "market research specialist",
-        "Research Associate",
-        "MARKET ANALYST"
-    ],
-    "company": [
-        "Kripa Infotech"
-    ],
-    "university": [
-        "Bhavleesh Duggar College"
-    ],
-    "degree": [
-        "B.Tech(Mechanical)"
-    ],
     "skills": [
-        "Data Mining",
-        "Modeling",
         "machine learning",
+        "Python",
+        "Projects",
+        "Business Analytics",
+        "Data Mining",
+        "Data",
+        "Modeling",
         "Predictive Analysis",
-        "data",
-        "Machine Learning",
-        "Python"
-    ]
+        "Business",
+        "Intelligence",
+        "Market",
+        "Research",
+        "Customer Engagement",
+        "Risk",
+        "Management",
+        "Retention",
+        "Audience",
+        "target audience"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "Stella Thatcher",
+            "score": 0.8591
+        },
+        {
+            "label": "job title",
+            "text": "ASSOCIATE",
+            "score": 0.4128
+        },
+        {
+            "label": "job title",
+            "text": "MARKET ANALYST",
+            "score": 0.7093
+        },
+        {
+            "label": "job title",
+            "text": "Executive Profile",
+            "score": 0.3059
+        },
+        {
+            "label": "job title",
+            "text": "market research specialist",
+            "score": 0.3549
+        },
+        {
+            "label": "job title",
+            "text": "Stock Market Analyzer",
+            "score": 0.6755
+        },
+        {
+            "label": "job title",
+            "text": "Research Associate",
+            "score": 0.7431
+        },
+        {
+            "label": "job title",
+            "text": "Business Analyst",
+            "score": 0.7236
+        },
+        {
+            "label": "company",
+            "text": "Kripa Infotech",
+            "score": 0.9762
+        },
+        {
+            "label": "job title",
+            "text": "Associate",
+            "score": 0.4105
+        },
+        {
+            "label": "job title",
+            "text": "Market Research Analyst",
+            "score": 0.4196
+        },
+        {
+            "label": "job title",
+            "text": "Intern",
+            "score": 0.2686
+        },
+        {
+            "label": "degree",
+            "text": "B.Tech(Mechanical)",
+            "score": 0.8528
+        },
+        {
+            "label": "university",
+            "text": "Bhavleesh Duggar College",
+            "score": 0.7682
+        }
+    ],
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "machine learning": 0.7795,
+            "Python": 0.9563,
+            "Projects": 0.1797,
+            "Business Analytics": 0.6309,
+            "Data Mining": 0.7647,
+            "Data": 0.4496,
+            "Modeling": 0.6243,
+            "Predictive Analysis": 0.7319,
+            "Business": 0.4618,
+            "Intelligence": 0.4806,
+            "Market": 0.4925,
+            "Research": 0.5234,
+            "Customer Engagement": 0.4492,
+            "Risk": 0.3519,
+            "Management": 0.3583,
+            "Retention": 0.3482,
+            "Audience": 0.2875,
+            "target audience": 0.2333
+        }
+    }
 }

@@ -1,0 +1,126 @@
+{
+    "skills": [
+        "OTHER COMPUTER SKILLS",
+        "MS-Office",
+        "Basics of Internet",
+        "Positive attitude",
+        "Ability to work in team",
+        "good coordination",
+        "Eager to learn new experiences",
+        "Optimistic",
+        "Innovative",
+        "Ambivert by nature"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "Munna Kumar Kushwaha",
+            "score": 0.8639
+        },
+        {
+            "label": "university",
+            "text": "BITS Collage of polytechnic",
+            "score": 0.8805
+        },
+        {
+            "label": "company",
+            "text": "Bhiwani                  HSBTE",
+            "score": 0.2058
+        },
+        {
+            "label": "degree",
+            "text": "Diploma(ME)",
+            "score": 0.4485
+        },
+        {
+            "label": "university",
+            "text": "DD High School",
+            "score": 0.6225
+        },
+        {
+            "label": "university",
+            "text": "Sher                      Bihar Board      76 %         Class X",
+            "score": 0.4695
+        },
+        {
+            "label": "company",
+            "text": "Bihar State Hydroelectric Power Corporation",
+            "score": 0.8017
+        },
+        {
+            "label": "company",
+            "text": "Bansal Construction Works Pvt Ltd.",
+            "score": 0.9516
+        },
+        {
+            "label": "company",
+            "text": "BANSAL CONSTRUCTION WORKS PVT LTD",
+            "score": 0.8377
+        },
+        {
+            "label": "job title",
+            "text": "Assistant Machanical Engineer",
+            "score": 0.7423
+        },
+        {
+            "label": "person name",
+            "text": "Clint",
+            "score": 0.2554
+        },
+        {
+            "label": "company",
+            "text": "PWD NH-DIVISION SAGAR (M.P.)",
+            "score": 0.3698
+        },
+        {
+            "label": "company",
+            "text": "M/s Theme Engineering Services Pvt. Ltd",
+            "score": 0.731
+        },
+        {
+            "label": "company",
+            "text": "M/s Bansal Construction works Pvt. Ltd.",
+            "score": 0.7568
+        },
+        {
+            "label": "company",
+            "text": "Leyland",
+            "score": 0.7236
+        },
+        {
+            "label": "company",
+            "text": "Tata",
+            "score": 0.6419
+        },
+        {
+            "label": "company",
+            "text": "Komatsu",
+            "score": 0.5899
+        },
+        {
+            "label": "person name",
+            "text": "Munna Kumar Kushwaha",
+            "score": 0.8525
+        },
+        {
+            "label": "person name",
+            "text": "Mr.Harendra Prasad",
+            "score": 0.6395
+        }
+    ],
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "OTHER COMPUTER SKILLS": 0.2663,
+            "MS-Office": 0.2982,
+            "Basics of Internet": 0.284,
+            "Positive attitude": 0.5776,
+            "Ability to work in team": 0.4042,
+            "good coordination": 0.3725,
+            "Eager to learn new experiences": 0.1881,
+            "Optimistic": 0.3969,
+            "Innovative": 0.3982,
+            "Ambivert by nature": 0.5126
+        }
+    }
+}

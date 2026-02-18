@@ -1,0 +1,115 @@
+{
+    "skills": [
+        "Technical knowledge",
+        "BASI C ACADEMIC CREDENTIALS",
+        "civil Engineering",
+        "Civil",
+        "Building & Road modelling & finite Quantity  analysis",
+        "finite Quantity analysis",
+        "IT PROFICIENCY",
+        "Microsoft Office Word",
+        "Microsoft Office Excel",
+        "Microsoft Office Power Point",
+        "DESIGNING SOFTWARE SKILL",
+        "AUTO CAD",
+        "CATIA",
+        "C POGRAMING",
+        "Confident and Determined",
+        "Ability to cop e up with different situations",
+        "Hard Working & Team player"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "Goutamnager",
+            "score": 0.4278
+        },
+        {
+            "label": "company",
+            "text": "Qualification  Board",
+            "score": 0.1701
+        },
+        {
+            "label": "degree",
+            "text": "Diploma (Civil ) SIET",
+            "score": 0.5019
+        },
+        {
+            "label": "company",
+            "text": "Intermediate  National Institute Of Opening, Schooling",
+            "score": 0.3994
+        },
+        {
+            "label": "company",
+            "text": "High School  Saraswati Sishu Vidya Mandir",
+            "score": 0.4971
+        },
+        {
+            "label": "person name",
+            "text": "Lalitranjanojha",
+            "score": 0.9155
+        },
+        {
+            "label": "degree",
+            "text": "Diploma",
+            "score": 0.5877
+        },
+        {
+            "label": "person name",
+            "text": "lalitranjanojha",
+            "score": 0.6956
+        },
+        {
+            "label": "person name",
+            "text": "lalitranjanojha",
+            "score": 0.7163
+        },
+        {
+            "label": "person name",
+            "text": "Junior Engineer",
+            "score": 0.2527
+        },
+        {
+            "label": "person name",
+            "text": "Junior Engineer",
+            "score": 0.3537
+        },
+        {
+            "label": "job title",
+            "text": "ROLE",
+            "score": 0.2378
+        },
+        {
+            "label": "person name",
+            "text": "PRO ENGINEER",
+            "score": 0.2422
+        },
+        {
+            "label": "job title",
+            "text": "INTERPERSONAL SKILL",
+            "score": 0.2354
+        }
+    ],
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Technical knowledge": 0.4307,
+            "BASI C ACADEMIC CREDENTIALS": 0.245,
+            "civil Engineering": 0.3107,
+            "Civil": 0.2824,
+            "Building & Road modelling & finite Quantity  analysis": 0.2034,
+            "finite Quantity analysis": 0.2335,
+            "IT PROFICIENCY": 0.3971,
+            "Microsoft Office Word": 0.2926,
+            "Microsoft Office Excel": 0.4036,
+            "Microsoft Office Power Point": 0.289,
+            "DESIGNING SOFTWARE SKILL": 0.3965,
+            "AUTO CAD": 0.6245,
+            "CATIA": 0.3937,
+            "C POGRAMING": 0.3664,
+            "Confident and Determined": 0.3851,
+            "Ability to cop e up with different situations": 0.1789,
+            "Hard Working & Team player": 0.3049
+        }
+    }
+}

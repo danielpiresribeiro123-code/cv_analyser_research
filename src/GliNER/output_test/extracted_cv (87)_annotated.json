@@ -1,0 +1,120 @@
+{
+    "skills": [
+        "C GPA",
+        "Computer Science",
+        "design standards",
+        "AutoCAD",
+        "Ansys",
+        "Solid Works",
+        "HAP",
+        "C++",
+        "SQL",
+        "MS Office",
+        "Windows",
+        "Technical Skills",
+        "Hardness Test",
+        "Welding",
+        "Lathe",
+        "Measurement Skills",
+        "CNC operation",
+        "English",
+        "Hindi",
+        "Malayalam",
+        "Tamil",
+        "Net"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "JOHNS K ABRAHAM",
+            "score": 0.6184
+        },
+        {
+            "label": "degree",
+            "text": "B.E/Mechanical Engineering College",
+            "score": 0.5473
+        },
+        {
+            "label": "company",
+            "text": "Roever Engineering College",
+            "score": 0.548
+        },
+        {
+            "label": "university",
+            "text": "Tamil Nadu University",
+            "score": 0.7832
+        },
+        {
+            "label": "university",
+            "text": "Anna University",
+            "score": 0.971
+        },
+        {
+            "label": "company",
+            "text": "Cen tral Board of Secondary Education",
+            "score": 0.5463
+        },
+        {
+            "label": "company",
+            "text": "Central Board of Secondary Education",
+            "score": 0.5436
+        },
+        {
+            "label": "company",
+            "text": "Creative Designing and Drafting",
+            "score": 0.1929
+        },
+        {
+            "label": "job title",
+            "text": "Designation",
+            "score": 0.3082
+        },
+        {
+            "label": "job title",
+            "text": "Design Engineer",
+            "score": 0.8102
+        },
+        {
+            "label": "company",
+            "text": "CAD Centre",
+            "score": 0.583
+        },
+        {
+            "label": "company",
+            "text": "Nexora Academy",
+            "score": 0.5426
+        },
+        {
+            "label": "company",
+            "text": "Nexora Academy",
+            "score": 0.4995
+        }
+    ],
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "C GPA": 0.1745,
+            "Computer Science": 0.2096,
+            "design standards": 0.2434,
+            "AutoCAD": 0.6927,
+            "Ansys": 0.7008,
+            "Solid Works": 0.7294,
+            "HAP": 0.633,
+            "C++": 0.6896,
+            "SQL": 0.7374,
+            "MS Office": 0.6501,
+            "Windows": 0.1755,
+            "Technical Skills": 0.2052,
+            "Hardness Test": 0.4778,
+            "Welding": 0.4015,
+            "Lathe": 0.2715,
+            "Measurement Skills": 0.6043,
+            "CNC operation": 0.2849,
+            "English": 0.8179,
+            "Hindi": 0.82,
+            "Malayalam": 0.856,
+            "Tamil": 0.7026,
+            "Net": 0.1632
+        }
+    }
+}

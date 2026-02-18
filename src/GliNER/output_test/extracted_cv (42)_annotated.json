@@ -1,0 +1,127 @@
+{
+    "skills": [
+        "international standard",
+        "Qualification & certification",
+        "Diploma course in welding"
+    ],
+    "others": [
+        {
+            "label": "job title",
+            "text": "fabrication foreman",
+            "score": 0.7806
+        },
+        {
+            "label": "person name",
+            "text": "Shaikh mehtab ali",
+            "score": 0.89
+        },
+        {
+            "label": "job title",
+            "text": "fabrication foreman",
+            "score": 0.7924
+        },
+        {
+            "label": "company",
+            "text": "Par enterprises pvt Ltd",
+            "score": 0.8994
+        },
+        {
+            "label": "job title",
+            "text": "Fabrication supervisor",
+            "score": 0.6996
+        },
+        {
+            "label": "company",
+            "text": "Project equipment manufacturers company",
+            "score": 0.9134
+        },
+        {
+            "label": "years of experience",
+            "text": "2years 10month",
+            "score": 0.2469
+        },
+        {
+            "label": "job title",
+            "text": "structural foreman",
+            "score": 0.6886
+        },
+        {
+            "label": "job title",
+            "text": "structural foreman",
+            "score": 0.6861
+        },
+        {
+            "label": "company",
+            "text": "Hidada construction company pvt Ltd.",
+            "score": 0.9133
+        },
+        {
+            "label": "job title",
+            "text": "senior structural",
+            "score": 0.3021
+        },
+        {
+            "label": "job title",
+            "text": "fabricator",
+            "score": 0.5628
+        },
+        {
+            "label": "job title",
+            "text": "fabricator",
+            "score": 0.3426
+        },
+        {
+            "label": "company",
+            "text": "Novatech project & equipment company",
+            "score": 0.7756
+        },
+        {
+            "label": "years of experience",
+            "text": "4years 6month",
+            "score": 0.1516
+        },
+        {
+            "label": "job title",
+            "text": "fabricator",
+            "score": 0.4334
+        },
+        {
+            "label": "job title",
+            "text": "fabricator",
+            "score": 0.4057
+        },
+        {
+            "label": "university",
+            "text": "Higher secondary",
+            "score": 0.706
+        },
+        {
+            "label": "degree",
+            "text": "HSC passed",
+            "score": 0.286
+        },
+        {
+            "label": "university",
+            "text": "National techno institutions",
+            "score": 0.5194
+        },
+        {
+            "label": "university",
+            "text": "Community polytechnic cell",
+            "score": 0.2538
+        },
+        {
+            "label": "person name",
+            "text": "shaikh sultan ali",
+            "score": 0.7413
+        }
+    ],
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "international standard": 0.4817,
+            "Qualification & certification": 0.5261,
+            "Diploma course in welding": 0.3227
+        }
+    }
+}

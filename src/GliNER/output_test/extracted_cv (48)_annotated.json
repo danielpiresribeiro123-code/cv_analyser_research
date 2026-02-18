@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "Civil Engineering",
+        "Building Construction",
+        "Glass concrete",
+        "IT PROFICIENCY",
+        "C++",
+        "Microsoft Office Applications",
+        "INTERPERSONAL SKILL",
+        "Excellent Communication/inter personal skills",
+        "Confident",
+        "English",
+        "Hindi",
+        "hard working person",
+        "positive attitude",
+        "commit ted",
+        "person",
+        "high self -esteem"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "Shubh ashish Bhatt",
+            "score": 0.7692
+        },
+        {
+            "label": "degree",
+            "text": "B.Tech",
+            "score": 0.8289
+        },
+        {
+            "label": "university",
+            "text": "Babu Banarasi Das University",
+            "score": 0.9583
+        },
+        {
+            "label": "person name",
+            "text": "shubh .bhatt007",
+            "score": 0.1915
+        },
+        {
+            "label": "degree",
+            "text": "B.tech",
+            "score": 0.8529
+        },
+        {
+            "label": "university",
+            "text": "Babu Banarasi Das University",
+            "score": 0.9532
+        },
+        {
+            "label": "company",
+            "text": "Uttar Pradesh Rajkiya Nirman Nigam Ltd",
+            "score": 0.7453
+        },
+        {
+            "label": "company",
+            "text": "NCC ltd.",
+            "score": 0.7771
+        },
+        {
+            "label": "company",
+            "text": "Nagarjuna construction company",
+            "score": 0.6231
+        },
+        {
+            "label": "person name",
+            "text": "Mr. U.S.Sharma",
+            "score": 0.868
+        }
+    ],
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Civil Engineering": 0.2439,
+            "Building Construction": 0.2199,
+            "Glass concrete": 0.321,
+            "IT PROFICIENCY": 0.3123,
+            "C++": 0.7873,
+            "Microsoft Office Applications": 0.4097,
+            "INTERPERSONAL SKILL": 0.4074,
+            "Excellent Communication/inter personal skills": 0.1558,
+            "Confident": 0.2845,
+            "English": 0.7435,
+            "Hindi": 0.7567,
+            "hard working person": 0.495,
+            "positive attitude": 0.1882,
+            "commit ted": 0.4547,
+            "person": 0.1568,
+            "high self -esteem": 0.3086
+        }
+    }
+}

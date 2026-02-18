@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "software development",
+        "Certification and Training",
+        "HTML",
+        "PHP",
+        "MYSQL SERVER",
+        "Css",
+        "Javascript",
+        "PHP-CMS",
+        "Word Press",
+        "Drupal",
+        "XAMPP",
+        "WAMP",
+        "Notepad++",
+        "Dreamweaver",
+        "English",
+        "Hindi",
+        "Un-Married"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "MOHD. RASHID",
+            "score": 0.8377
+        },
+        {
+            "label": "university",
+            "text": "MCAIndira Gandhi National Open University New Delhi",
+            "score": 0.6043
+        },
+        {
+            "label": "university",
+            "text": "BCAIndira Gandhi National Open University New Delhi",
+            "score": 0.6123
+        },
+        {
+            "label": "company",
+            "text": "IT PEOPLE",
+            "score": 0.1555
+        },
+        {
+            "label": "person name",
+            "text": "MD. Shahid",
+            "score": 0.794
+        },
+        {
+            "label": "person name",
+            "text": "MOHD. RASHID",
+            "score": 0.7854
+        }
+    ],
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "software development": 0.166,
+            "Certification and Training": 0.3243,
+            "HTML": 0.5809,
+            "PHP": 0.9809,
+            "MYSQL SERVER": 0.1557,
+            "Css": 0.6641,
+            "Javascript": 0.9147,
+            "PHP-CMS": 0.386,
+            "Word Press": 0.1598,
+            "Drupal": 0.3946,
+            "XAMPP": 0.2192,
+            "WAMP": 0.2358,
+            "Notepad++": 0.3275,
+            "Dreamweaver": 0.471,
+            "English": 0.4686,
+            "Hindi": 0.4591,
+            "Un-Married": 0.1835
+        }
+    }
+}

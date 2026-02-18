@@ -1,0 +1,98 @@
+{
+    "skills": [
+        "Language Proficiency",
+        "Tamil",
+        "English",
+        "DIPLOMA",
+        "creative and innovative thinking",
+        "Computer proficiency",
+        "Microsoft office",
+        "Photoshop",
+        "Windows 7 / vista / xp",
+        "AutoCAD",
+        "Pro-Engineer"
+    ],
+    "others": [
+        {
+            "label": "company",
+            "text": "B.E",
+            "score": 0.1874
+        },
+        {
+            "label": "degree",
+            "text": "Mechanical Engineering",
+            "score": 0.6573
+        },
+        {
+            "label": "company",
+            "text": "K.S.Rangasamy college of technology",
+            "score": 0.5393
+        },
+        {
+            "label": "degree",
+            "text": "Mechanical Engineering",
+            "score": 0.5854
+        },
+        {
+            "label": "company",
+            "text": "Nandha polytechnic college",
+            "score": 0.7885
+        },
+        {
+            "label": "person name",
+            "text": "lingeswaran",
+            "score": 0.7714
+        },
+        {
+            "label": "company",
+            "text": "Rane Engine Valve Ltd.",
+            "score": 0.8546
+        },
+        {
+            "label": "company",
+            "text": "Plant – 3",
+            "score": 0.3762
+        },
+        {
+            "label": "company",
+            "text": "Ponneri",
+            "score": 0.3439
+        },
+        {
+            "label": "years of experience",
+            "text": "6 Months  experience",
+            "score": 0.4034
+        },
+        {
+            "label": "job title",
+            "text": "Graduate Apprentice Trainee",
+            "score": 0.591
+        },
+        {
+            "label": "job title",
+            "text": "QA",
+            "score": 0.2376
+        },
+        {
+            "label": "person name",
+            "text": "Lingeswaran",
+            "score": 0.8667
+        }
+    ],
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Language Proficiency": 0.2983,
+            "Tamil": 0.6448,
+            "English": 0.3134,
+            "DIPLOMA": 0.8837,
+            "creative and innovative thinking": 0.2407,
+            "Computer proficiency": 0.2732,
+            "Microsoft office": 0.7779,
+            "Photoshop": 0.66,
+            "Windows 7 / vista / xp": 0.2558,
+            "AutoCAD": 0.5867,
+            "Pro-Engineer": 0.4605
+        }
+    }
+}

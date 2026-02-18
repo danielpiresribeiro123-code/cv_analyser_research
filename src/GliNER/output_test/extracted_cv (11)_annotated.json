@@ -1,0 +1,100 @@
+{
+    "skills": [
+        "predictive analytics",
+        "Machine Learning",
+        "Deep",
+        "modelling",
+        "Classification and Regression problems",
+        "Clustering",
+        "Topic",
+        "SKILLS",
+        "Data Science",
+        "Data Analytics",
+        "Database Management",
+        "Analysis",
+        "Data Mining",
+        "Data",
+        "Data Integration",
+        "Statistical",
+        "Natural Language",
+        "Processing",
+        "Python",
+        "SQL",
+        "Flask",
+        "EDUCATION"
+    ],
+    "others": [
+        {
+            "label": "job title",
+            "text": "data science professional",
+            "score": 0.3864
+        },
+        {
+            "label": "years of experience",
+            "text": "1 years",
+            "score": 0.3104
+        },
+        {
+            "label": "company",
+            "text": "SADHANA CONSULTANTS",
+            "score": 0.9703
+        },
+        {
+            "label": "person name",
+            "text": "MATILDA BENHAMS",
+            "score": 0.4816
+        },
+        {
+            "label": "degree",
+            "text": "B.TECH/B.E. (COMPUTERS)",
+            "score": 0.8924
+        },
+        {
+            "label": "person name",
+            "text": "RAJIV GANDHI PROUDYOGIKI",
+            "score": 0.4007
+        },
+        {
+            "label": "company",
+            "text": "VISHWAVIDYALAYA",
+            "score": 0.4641
+        },
+        {
+            "label": "company",
+            "text": "RGPV",
+            "score": 0.1848
+        },
+        {
+            "label": "company",
+            "text": "BHOPAL",
+            "score": 0.4414
+        }
+    ],
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "predictive analytics": 0.5936,
+            "Machine Learning": 0.8513,
+            "Deep": 0.3234,
+            "modelling": 0.67,
+            "Classification and Regression problems": 0.2675,
+            "Clustering": 0.4447,
+            "Topic": 0.2148,
+            "SKILLS": 0.3055,
+            "Data Science": 0.4523,
+            "Data Analytics": 0.5794,
+            "Database Management": 0.2163,
+            "Analysis": 0.3218,
+            "Data Mining": 0.6962,
+            "Data": 0.1638,
+            "Data Integration": 0.3289,
+            "Statistical": 0.3964,
+            "Natural Language": 0.4667,
+            "Processing": 0.3605,
+            "Python": 0.9303,
+            "SQL": 0.3681,
+            "Flask": 0.4258,
+            "EDUCATION": 0.1703
+        }
+    }
+}

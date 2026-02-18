@@ -1,0 +1,98 @@
+{
+    "skills": [
+        "Automatic Multispindle Drilling Machine",
+        "Wheel turning",
+        "I.T Proficiency",
+        "Microsoft Office",
+        "Auto CAD",
+        "MATLAB",
+        "C++",
+        "Core Competencies",
+        "Product Design & Developments",
+        "Finite Element Analysis",
+        "Automobiles Research and analysis",
+        "Strengths",
+        "Smart worker",
+        "Positive attitude",
+        "Adaptability & Self-motivated",
+        "Flexibility"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "Pradeep Kumar Prasad",
+            "score": 0.8745
+        },
+        {
+            "label": "degree",
+            "text": "fresh graduate",
+            "score": 0.2049
+        },
+        {
+            "label": "job title",
+            "text": "Educational Qualification",
+            "score": 0.2908
+        },
+        {
+            "label": "degree",
+            "text": "B.TECH.",
+            "score": 0.8553
+        },
+        {
+            "label": "company",
+            "text": "S.D.C.E.T UPTU",
+            "score": 0.3807
+        },
+        {
+            "label": "university",
+            "text": "12THB.S.B.A College",
+            "score": 0.5811
+        },
+        {
+            "label": "company",
+            "text": "BSEB",
+            "score": 0.2121
+        },
+        {
+            "label": "university",
+            "text": "10THM.S.V.M CBSE",
+            "score": 0.3343
+        },
+        {
+            "label": "company",
+            "text": "Company",
+            "score": 0.1948
+        },
+        {
+            "label": "company",
+            "text": "Indian Railway",
+            "score": 0.9315
+        },
+        {
+            "label": "job title",
+            "text": "Project Title",
+            "score": 0.2719
+        }
+    ],
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Automatic Multispindle Drilling Machine": 0.2422,
+            "Wheel turning": 0.1978,
+            "I.T Proficiency": 0.3602,
+            "Microsoft Office": 0.4075,
+            "Auto CAD": 0.6058,
+            "MATLAB": 0.8125,
+            "C++": 0.9049,
+            "Core Competencies": 0.4803,
+            "Product Design & Developments": 0.3322,
+            "Finite Element Analysis": 0.5806,
+            "Automobiles Research and analysis": 0.3023,
+            "Strengths": 0.2765,
+            "Smart worker": 0.3413,
+            "Positive attitude": 0.3022,
+            "Adaptability & Self-motivated": 0.4052,
+            "Flexibility": 0.2394
+        }
+    }
+}

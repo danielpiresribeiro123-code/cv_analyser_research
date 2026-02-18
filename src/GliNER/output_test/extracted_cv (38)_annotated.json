@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "eager",
+        "enthusiastic",
+        "determined",
+        "Able to examine a complicated problem in all aspects",
+        "Confident"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "AVINASH KATOCH",
+            "score": 0.3956
+        },
+        {
+            "label": "person name",
+            "text": "avikatoch1211",
+            "score": 0.2642
+        },
+        {
+            "label": "job title",
+            "text": "Structural Engineer",
+            "score": 0.7322
+        },
+        {
+            "label": "job title",
+            "text": "Mechanical Engineer",
+            "score": 0.7093
+        },
+        {
+            "label": "years of experience",
+            "text": "4.5 Year Experience",
+            "score": 0.5612
+        },
+        {
+            "label": "company",
+            "text": "M/s SATNAM GLOBAL INFRAPROJECT LTD.",
+            "score": 0.6062
+        },
+        {
+            "label": "job title",
+            "text": "ENGINEER",
+            "score": 0.5091
+        },
+        {
+            "label": "job title",
+            "text": "Structural Engineer",
+            "score": 0.6456
+        },
+        {
+            "label": "company",
+            "text": "ONGC VA&S1 Development Project Odlarevu",
+            "score": 0.609
+        },
+        {
+            "label": "job title",
+            "text": "Team Leader",
+            "score": 0.1811
+        }
+    ],
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "eager": 0.2417,
+            "enthusiastic": 0.1799,
+            "determined": 0.1521,
+            "Able to examine a complicated problem in all aspects": 0.1718,
+            "Confident": 0.404
+        }
+    }
+}

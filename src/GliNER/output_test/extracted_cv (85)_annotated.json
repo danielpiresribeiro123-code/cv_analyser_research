@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "professional",
+        "EXPERIENCE",
+        "Hindi",
+        "English",
+        "Sex",
+        "Married"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "ROHIT KUMAR",
+            "score": 0.9494
+        },
+        {
+            "label": "company",
+            "text": "Daksh international Buiness Services LTD.",
+            "score": 0.8599
+        },
+        {
+            "label": "university",
+            "text": "10th & 12th Passed Bihar Board",
+            "score": 0.7675
+        },
+        {
+            "label": "degree",
+            "text": "B s.c proceed for last Year",
+            "score": 0.6555
+        },
+        {
+            "label": "person name",
+            "text": "MR.NARAYAN SHARMA",
+            "score": 0.7844
+        },
+        {
+            "label": "person name",
+            "text": "Indian",
+            "score": 0.3133
+        },
+        {
+            "label": "person name",
+            "text": "ROHIT KUMAR",
+            "score": 0.9565
+        }
+    ],
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "professional": 0.1883,
+            "EXPERIENCE": 0.2369,
+            "Hindi": 0.9017,
+            "English": 0.8526,
+            "Sex": 0.1995,
+            "Married": 0.2777
+        }
+    }
+}

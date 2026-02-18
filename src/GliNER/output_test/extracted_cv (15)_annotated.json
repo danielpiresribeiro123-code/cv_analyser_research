@@ -1,0 +1,114 @@
+{
+    "skills": [
+        "personality",
+        "Computer Proficiency",
+        "Windows 8.1",
+        "HTML",
+        "MS-OFFICE 2010",
+        "INTERNET",
+        "Strength",
+        "Creativity",
+        "Hardworking & Honesty",
+        "Positive thinking",
+        "Hindi",
+        "English",
+        "Urdu",
+        "Unmarried"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "MD NEYAZ",
+            "score": 0.87
+        },
+        {
+            "label": "person name",
+            "text": "mdneyaz786bettiah",
+            "score": 0.1505
+        },
+        {
+            "label": "job title",
+            "text": "professional",
+            "score": 0.337
+        },
+        {
+            "label": "degree",
+            "text": "10th",
+            "score": 0.2042
+        },
+        {
+            "label": "university",
+            "text": "B.S.E.B PATNA",
+            "score": 0.8615
+        },
+        {
+            "label": "degree",
+            "text": "DIPLOMA ELECTRICAL ENGINEERING",
+            "score": 0.7998
+        },
+        {
+            "label": "company",
+            "text": "H.S.B.T.E  BOARD",
+            "score": 0.8084
+        },
+        {
+            "label": "company",
+            "text": "PANCHAKULA",
+            "score": 0.5229
+        },
+        {
+            "label": "years of experience",
+            "text": "Work Experience",
+            "score": 0.3046
+        },
+        {
+            "label": "years of experience",
+            "text": "One year and four months",
+            "score": 0.5005
+        },
+        {
+            "label": "company",
+            "text": "DHRUV INFRATECH, PVT.LTD.GREATER NOIDA",
+            "score": 0.6264
+        },
+        {
+            "label": "job title",
+            "text": "Maintenance Diploma Electrical, Engineer",
+            "score": 0.3889
+        },
+        {
+            "label": "person name",
+            "text": "Abdul wahab",
+            "score": 0.7577
+        },
+        {
+            "label": "person name",
+            "text": "Indian",
+            "score": 0.2928
+        },
+        {
+            "label": "person name",
+            "text": "Md Neyaz",
+            "score": 0.797
+        }
+    ],
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "personality": 0.156,
+            "Computer Proficiency": 0.5877,
+            "Windows 8.1": 0.2304,
+            "HTML": 0.2611,
+            "MS-OFFICE 2010": 0.252,
+            "INTERNET": 0.2288,
+            "Strength": 0.2496,
+            "Creativity": 0.4015,
+            "Hardworking & Honesty": 0.436,
+            "Positive thinking": 0.3123,
+            "Hindi": 0.7652,
+            "English": 0.7571,
+            "Urdu": 0.812,
+            "Unmarried": 0.4302
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "skills": [
+        "Diploma in  mechanical, engineering",
+        "Software proficiency",
+        "Auto cad",
+        "solid works",
+        "Area of interst",
+        "Any mechanical feild",
+        "Electrical felid",
+        "personal trait",
+        "creative and logical",
+        "problem solving ability",
+        "Co-operative and keen observer",
+        "Hobbies",
+        "Mechanical working",
+        "Electrical work",
+        "tamil",
+        "english"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "R.GIRIDARAN",
+            "score": 0.8002
+        },
+        {
+            "label": "company",
+            "text": "State board of technical",
+            "score": 0.5467
+        },
+        {
+            "label": "university",
+            "text": "Sembodai RV",
+            "score": 0.8885
+        },
+        {
+            "label": "company",
+            "text": "polytechnic college",
+            "score": 0.7137
+        },
+        {
+            "label": "years of experience",
+            "text": "work experience",
+            "score": 0.4944
+        },
+        {
+            "label": "years of experience",
+            "text": "two  years",
+            "score": 0.4409
+        },
+        {
+            "label": "job title",
+            "text": "production engineer",
+            "score": 0.4444
+        },
+        {
+            "label": "company",
+            "text": "Tvs brakes india",
+            "score": 0.8509
+        },
+        {
+            "label": "company",
+            "text": "polambakkam",
+            "score": 0.1733
+        },
+        {
+            "label": "job title",
+            "text": "Project Role",
+            "score": 0.3261
+        },
+        {
+            "label": "job title",
+            "text": "Team leader",
+            "score": 0.6921
+        },
+        {
+            "label": "person name",
+            "text": "C.Ramachandran",
+            "score": 0.7988
+        }
+    ],
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Diploma in  mechanical, engineering": 0.4623,
+            "Software proficiency": 0.7398,
+            "Auto cad": 0.641,
+            "solid works": 0.4877,
+            "Area of interst": 0.3121,
+            "Any mechanical feild": 0.4201,
+            "Electrical felid": 0.368,
+            "personal trait": 0.4273,
+            "creative and logical": 0.6708,
+            "problem solving ability": 0.745,
+            "Co-operative and keen observer": 0.8004,
+            "Hobbies": 0.2851,
+            "Mechanical working": 0.2498,
+            "Electrical work": 0.3735,
+            "tamil": 0.9381,
+            "english": 0.915
+        }
+    }
+}

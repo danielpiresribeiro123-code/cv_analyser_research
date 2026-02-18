@@ -1,0 +1,112 @@
+{
+    "skills": [
+        "Arabic",
+        "Persian",
+        "English",
+        "Urdu",
+        "Hindi",
+        "electrical engineering",
+        "H.s.c",
+        "Bihar education board Patna Technical Qualification"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "Mohammad Fahimuddin",
+            "score": 0.7761
+        },
+        {
+            "label": "job title",
+            "text": "Electrical maintenance engineer",
+            "score": 0.2452
+        },
+        {
+            "label": "job title",
+            "text": "Electrical Engineer",
+            "score": 0.1656
+        },
+        {
+            "label": "person name",
+            "text": "Mohammad Fahimuddin",
+            "score": 0.7775
+        },
+        {
+            "label": "job title",
+            "text": "Electrical maintenance engineer",
+            "score": 0.2703
+        },
+        {
+            "label": "company",
+            "text": "Said abv company",
+            "score": 0.3126
+        },
+        {
+            "label": "company",
+            "text": "Doha al jabor company",
+            "score": 0.5057
+        },
+        {
+            "label": "company",
+            "text": "Larsen & Turbo Ltd.",
+            "score": 0.9493
+        },
+        {
+            "label": "company",
+            "text": "Saudi Aramco",
+            "score": 0.5106
+        },
+        {
+            "label": "person name",
+            "text": "MOHAMMAD FAHIMUDDIN",
+            "score": 0.7531
+        },
+        {
+            "label": "company",
+            "text": "Jharkhand academic council",
+            "score": 0.2311
+        },
+        {
+            "label": "degree",
+            "text": "Bachelor in electrical engineering",
+            "score": 0.6702
+        },
+        {
+            "label": "university",
+            "text": "Institute of Management and Engineering",
+            "score": 0.9375
+        },
+        {
+            "label": "degree",
+            "text": "Graduate Diploma in Electrical Engineering",
+            "score": 0.5164
+        },
+        {
+            "label": "university",
+            "text": "Institute of Management and Engineering",
+            "score": 0.9409
+        },
+        {
+            "label": "company",
+            "text": "N.T.I.",
+            "score": 0.517
+        },
+        {
+            "label": "company",
+            "text": "Larsen & Turbo Ltd.",
+            "score": 0.9372
+        }
+    ],
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Arabic": 0.3352,
+            "Persian": 0.358,
+            "English": 0.5135,
+            "Urdu": 0.433,
+            "Hindi": 0.5366,
+            "electrical engineering": 0.1797,
+            "H.s.c": 0.1956,
+            "Bihar education board Patna Technical Qualification": 0.1777
+        }
+    }
+}

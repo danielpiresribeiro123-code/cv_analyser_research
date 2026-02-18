@@ -1,0 +1,120 @@
+{
+    "skills": [
+        "enthusiasm",
+        "dedication",
+        "responsibility",
+        "good work ethic",
+        "First Class",
+        "English Medium",
+        "Certification",
+        "Tally ERP 9",
+        "Positive Thinking",
+        "Helpful",
+        "Self Motivated",
+        "Hard Working & Punctual"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "Moumita Roy",
+            "score": 0.7396
+        },
+        {
+            "label": "degree",
+            "text": "MBA",
+            "score": 0.7773
+        },
+        {
+            "label": "university",
+            "text": "Swami Vivekanand University",
+            "score": 0.9547
+        },
+        {
+            "label": "degree",
+            "text": "B.Com",
+            "score": 0.7917
+        },
+        {
+            "label": "university",
+            "text": "M.S. University",
+            "score": 0.9457
+        },
+        {
+            "label": "degree",
+            "text": "B.Com",
+            "score": 0.7789
+        },
+        {
+            "label": "university",
+            "text": "M.S. University",
+            "score": 0.9324
+        },
+        {
+            "label": "degree",
+            "text": "B.Com",
+            "score": 0.7496
+        },
+        {
+            "label": "university",
+            "text": "M.S. University",
+            "score": 0.9396
+        },
+        {
+            "label": "degree",
+            "text": "H.S.C.",
+            "score": 0.4464
+        },
+        {
+            "label": "university",
+            "text": "G.S.H.E.B",
+            "score": 0.3718
+        },
+        {
+            "label": "degree",
+            "text": "S.S.C.",
+            "score": 0.4965
+        },
+        {
+            "label": "university",
+            "text": "G.S.E.B.",
+            "score": 0.3239
+        },
+        {
+            "label": "years of experience",
+            "text": "Experience",
+            "score": 0.2441
+        },
+        {
+            "label": "company",
+            "text": "Orion Education Pvt Ltd",
+            "score": 0.8503
+        },
+        {
+            "label": "job title",
+            "text": "Designation",
+            "score": 0.2773
+        },
+        {
+            "label": "job title",
+            "text": "Account Assistant",
+            "score": 0.818
+        }
+    ],
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "enthusiasm": 0.3856,
+            "dedication": 0.3883,
+            "responsibility": 0.3287,
+            "good work ethic": 0.4449,
+            "First Class": 0.2366,
+            "English Medium": 0.6546,
+            "Certification": 0.2113,
+            "Tally ERP 9": 0.4522,
+            "Positive Thinking": 0.407,
+            "Helpful": 0.3337,
+            "Self Motivated": 0.3803,
+            "Hard Working & Punctual": 0.305
+        }
+    }
+}

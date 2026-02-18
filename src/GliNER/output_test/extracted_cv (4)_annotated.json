@@ -1,38 +1,124 @@
 {
-    "person name": [],
-    "address": [
-        "AURANGABAD"
-    ],
-    "years of experience": [],
-    "job title": [
-        "DATA DESIGNER",
-        "Software developer",
-        "SOFTWARE DEVELOPER INTERN",
-        "JUNIOR DATA EVANGELIST"
-    ],
-    "company": [
-        "JB MANAGEMENT",
-        "KLN SOLUTIONS"
-    ],
-    "university": [
-        "UNIVERSITY",
-        "BABURAO PATIL COLLEGE"
-    ],
-    "degree": [
-        "B.TECH(INSTRUMENTATION)"
-    ],
     "skills": [
-        "Data Mining",
-        "Databricks",
-        "AWS",
-        "python",
-        "NLTK",
+        "machine learning",
+        "SKILLS",
         "Data Manipulation",
-        "Spacy",
-        "PySpark",
-        "Azure",
+        "Data Mining",
         "Python",
+        "SQL",
         "PowerBI",
-        "R"
-    ]
+        "Tableau",
+        "Learning",
+        "PySpark",
+        "NLTK",
+        "Spacy",
+        "Fast text",
+        "NLP",
+        "cleaning",
+        "stemming",
+        "lemmatization",
+        "word encoding",
+        "DATA ONTOLOGY"
+    ],
+    "others": [
+        {
+            "label": "job title",
+            "text": "Software developer",
+            "score": 0.4861
+        },
+        {
+            "label": "company",
+            "text": "KLN SOLUTIONS",
+            "score": 0.9229
+        },
+        {
+            "label": "job title",
+            "text": "JUNIOR DATA EVANGELIST",
+            "score": 0.6397
+        },
+        {
+            "label": "person name",
+            "text": "NOLAN DRUCKS",
+            "score": 0.3416
+        },
+        {
+            "label": "company",
+            "text": "Azure",
+            "score": 0.7745
+        },
+        {
+            "label": "company",
+            "text": "Databricks",
+            "score": 0.7491
+        },
+        {
+            "label": "company",
+            "text": "AWS",
+            "score": 0.7996
+        },
+        {
+            "label": "years of experience",
+            "text": "EXPERIENCE",
+            "score": 0.1732
+        },
+        {
+            "label": "degree",
+            "text": "B.TECH(INSTRUMENTATION)",
+            "score": 0.912
+        },
+        {
+            "label": "university",
+            "text": "BABURAO PATIL COLLEGE",
+            "score": 0.772
+        },
+        {
+            "label": "university",
+            "text": "UNIVERSITY",
+            "score": 0.6946
+        },
+        {
+            "label": "university",
+            "text": "AURANGABAD",
+            "score": 0.4738
+        },
+        {
+            "label": "job title",
+            "text": "DATA DESIGNER",
+            "score": 0.5971
+        },
+        {
+            "label": "company",
+            "text": "JB MANAGEMENT",
+            "score": 0.8028
+        },
+        {
+            "label": "job title",
+            "text": "SOFTWARE DEVELOPER INTERN",
+            "score": 0.6145
+        }
+    ],
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "machine learning": 0.4846,
+            "SKILLS": 0.2803,
+            "Data Manipulation": 0.5634,
+            "Data Mining": 0.7469,
+            "Python": 0.988,
+            "SQL": 0.4761,
+            "PowerBI": 0.5971,
+            "Tableau": 0.465,
+            "Learning": 0.1661,
+            "PySpark": 0.5918,
+            "NLTK": 0.5774,
+            "Spacy": 0.6241,
+            "Fast text": 0.3676,
+            "NLP": 0.3587,
+            "cleaning": 0.1638,
+            "stemming": 0.3838,
+            "lemmatization": 0.4254,
+            "word encoding": 0.4094,
+            "DATA ONTOLOGY": 0.2381
+        }
+    }
 }

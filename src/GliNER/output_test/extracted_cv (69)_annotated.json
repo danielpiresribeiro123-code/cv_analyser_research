@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "Admin & HR",
+        "excellent communication",
+        "interpersonal skills",
+        "flexible and detail oriented attitude",
+        "strong  relationship  management",
+        "leadership",
+        "organizational  abilities",
+        "confident  initiator",
+        "strong background",
+        "leadership qualities",
+        "Communication Skill",
+        "Problem solving ability",
+        "General administrations",
+        "Recruitment and Succession planning",
+        "Leave and Attendance management",
+        "Joining Formalities and Documentation",
+        "Payroll",
+        "Experience"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "SUBASH KUMAR PRADHAN",
+            "score": 0.7322
+        },
+        {
+            "label": "company",
+            "text": "Group Management Services Pvt Ltd",
+            "score": 0.8796
+        },
+        {
+            "label": "company",
+            "text": "Group Management Service Pvt Ltd",
+            "score": 0.819
+        },
+        {
+            "label": "job title",
+            "text": "Asst. Manager HR & Admin",
+            "score": 0.2269
+        },
+        {
+            "label": "company",
+            "text": "Godsons Management Services Pvt Ltd",
+            "score": 0.808
+        },
+        {
+            "label": "job title",
+            "text": "Sr. Executive –HR & ADMIN",
+            "score": 0.318
+        },
+        {
+            "label": "company",
+            "text": "Reliance Capital Ltd",
+            "score": 0.9133
+        },
+        {
+            "label": "company",
+            "text": "Reliance Capital Ltd",
+            "score": 0.8826
+        },
+        {
+            "label": "job title",
+            "text": "Executive –HR",
+            "score": 0.1865
+        }
+    ],
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Admin & HR": 0.2418,
+            "excellent communication": 0.5044,
+            "interpersonal skills": 0.5569,
+            "flexible and detail oriented attitude": 0.5169,
+            "strong  relationship  management": 0.3255,
+            "leadership": 0.2946,
+            "organizational  abilities": 0.2478,
+            "confident  initiator": 0.3844,
+            "strong background": 0.281,
+            "leadership qualities": 0.4336,
+            "Communication Skill": 0.1564,
+            "Problem solving ability": 0.2046,
+            "General administrations": 0.2287,
+            "Recruitment and Succession planning": 0.1583,
+            "Leave and Attendance management": 0.3789,
+            "Joining Formalities and Documentation": 0.3474,
+            "Payroll": 0.1546,
+            "Experience": 0.2902
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "Making Friend",
+        "STRENGTH",
+        "self motivated",
+        "dedicated person",
+        "positive attitude",
+        "Accounting Software",
+        "Hindi",
+        "English",
+        "Married"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "Mohit khan",
+            "score": 0.899
+        },
+        {
+            "label": "degree",
+            "text": "B.A",
+            "score": 0.8726
+        },
+        {
+            "label": "university",
+            "text": "Shobit University",
+            "score": 0.9433
+        },
+        {
+            "label": "degree",
+            "text": "Intermediate",
+            "score": 0.3854
+        },
+        {
+            "label": "company",
+            "text": "NIOS Board",
+            "score": 0.53
+        },
+        {
+            "label": "company",
+            "text": "NIOS Board",
+            "score": 0.5307
+        },
+        {
+            "label": "job title",
+            "text": "Student Rep",
+            "score": 0.1913
+        },
+        {
+            "label": "years of experience",
+            "text": "2 years",
+            "score": 0.2578
+        },
+        {
+            "label": "job title",
+            "text": "Service Crew",
+            "score": 0.2914
+        },
+        {
+            "label": "company",
+            "text": "Madras Restaurant Delhi",
+            "score": 0.2424
+        },
+        {
+            "label": "person name",
+            "text": "Shakeel Ahmed",
+            "score": 0.8437
+        },
+        {
+            "label": "person name",
+            "text": "Mohit",
+            "score": 0.7217
+        }
+    ],
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Making Friend": 0.2221,
+            "STRENGTH": 0.3182,
+            "self motivated": 0.4997,
+            "dedicated person": 0.4697,
+            "positive attitude": 0.3907,
+            "Accounting Software": 0.1829,
+            "Hindi": 0.7576,
+            "English": 0.7238,
+            "Married": 0.182
+        }
+    }
+}

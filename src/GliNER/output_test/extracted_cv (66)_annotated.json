@@ -1,0 +1,121 @@
+{
+    "skills": [
+        "Highly  stimulated  and  enthusiastic  individual",
+        "team-player",
+        "Science",
+        "Basic Diploma in Computer Typing",
+        "M.S. Office",
+        "Microsoft Excel",
+        "word",
+        "Power Point- Presentations",
+        "Basic knowledge",
+        "Adobe photo shop",
+        "Corel draw",
+        "Photo Designing/Editing Software’s",
+        "Electronics/IT/Maintenance",
+        "Health, Safety and Environmental standards",
+        "SOPs"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "Sateesh Kesarwani",
+            "score": 0.6078
+        },
+        {
+            "label": "person name",
+            "text": "Akil kaushambi",
+            "score": 0.1813
+        },
+        {
+            "label": "person name",
+            "text": "sateeshkesarwani8",
+            "score": 0.1735
+        },
+        {
+            "label": "person name",
+            "text": "sateeshkesarwani6",
+            "score": 0.1696
+        },
+        {
+            "label": "degree",
+            "text": "Graduation",
+            "score": 0.236
+        },
+        {
+            "label": "university",
+            "text": "Chatrapatti Shiva ji University",
+            "score": 0.8176
+        },
+        {
+            "label": "university",
+            "text": "Commerce Institute/University- Uttar Pradesh Board",
+            "score": 0.4305
+        },
+        {
+            "label": "company",
+            "text": "Alfa Institute Varanasi",
+            "score": 0.1736
+        },
+        {
+            "label": "person name",
+            "text": "Jan shikshan Sansthan Kaushambi",
+            "score": 0.5399
+        },
+        {
+            "label": "company",
+            "text": "Tamimi Global Co.",
+            "score": 0.777
+        },
+        {
+            "label": "company",
+            "text": "Tamimi Contracting Aramco R & I P.",
+            "score": 0.3947
+        },
+        {
+            "label": "job title",
+            "text": "Designation",
+            "score": 0.1556
+        },
+        {
+            "label": "job title",
+            "text": "Store Keeper",
+            "score": 0.611
+        },
+        {
+            "label": "job title",
+            "text": "cost supervisor",
+            "score": 0.1948
+        },
+        {
+            "label": "company",
+            "text": "Passion Cargo Pvt Ltd.",
+            "score": 0.7089
+        },
+        {
+            "label": "job title",
+            "text": "Store Keeper",
+            "score": 0.6095
+        }
+    ],
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Highly  stimulated  and  enthusiastic  individual": 0.3213,
+            "team-player": 0.3995,
+            "Science": 0.2141,
+            "Basic Diploma in Computer Typing": 0.4626,
+            "M.S. Office": 0.1583,
+            "Microsoft Excel": 0.6779,
+            "word": 0.3992,
+            "Power Point- Presentations": 0.5056,
+            "Basic knowledge": 0.3192,
+            "Adobe photo shop": 0.5322,
+            "Corel draw": 0.7079,
+            "Photo Designing/Editing Software’s": 0.1652,
+            "Electronics/IT/Maintenance": 0.2264,
+            "Health, Safety and Environmental standards": 0.7119,
+            "SOPs": 0.1725
+        }
+    }
+}

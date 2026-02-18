@@ -1,0 +1,125 @@
+{
+    "skills": [
+        "self-motivated",
+        "Graduation",
+        "Intermediate (MPC)",
+        "cascading style sheets",
+        "Bootstrap",
+        "Server-side include files",
+        "C#",
+        "ASP.NET",
+        "MVC",
+        "CRUD functionalities",
+        "telerik",
+        "kendo"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "MD SAJEED H",
+            "score": 0.4142
+        },
+        {
+            "label": "person name",
+            "text": "khan.sajeed15",
+            "score": 0.175
+        },
+        {
+            "label": "job title",
+            "text": "Web Developer",
+            "score": 0.6958
+        },
+        {
+            "label": "degree",
+            "text": "MCA",
+            "score": 0.8985
+        },
+        {
+            "label": "company",
+            "text": "Aurora’s  Technological  and  Research  Institute",
+            "score": 0.8214
+        },
+        {
+            "label": "university",
+            "text": "JNTU",
+            "score": 0.9021
+        },
+        {
+            "label": "degree",
+            "text": "BSC-MPCs",
+            "score": 0.5872
+        },
+        {
+            "label": "company",
+            "text": "Sandeepani degree college",
+            "score": 0.7119
+        },
+        {
+            "label": "university",
+            "text": "Osmania University",
+            "score": 0.9686
+        },
+        {
+            "label": "company",
+            "text": "Ganju Varthaka Sangham (G.V.S) College",
+            "score": 0.6587
+        },
+        {
+            "label": "company",
+            "text": "S.S.C",
+            "score": 0.3083
+        },
+        {
+            "label": "company",
+            "text": "Z.P.H.S",
+            "score": 0.4734
+        },
+        {
+            "label": "company",
+            "text": "Cosmo Legal Services Private Ltd",
+            "score": 0.9562
+        },
+        {
+            "label": "job title",
+            "text": "Web Designer & Developer",
+            "score": 0.6376
+        },
+        {
+            "label": "job title",
+            "text": "Web Designer/Developer",
+            "score": 0.4308
+        },
+        {
+            "label": "company",
+            "text": "Cosmo Legal Services Private Ltd",
+            "score": 0.9062
+        },
+        {
+            "label": "company",
+            "text": "Al-Amal Jrs IT Solutions",
+            "score": 0.8714
+        },
+        {
+            "label": "job title",
+            "text": "Junior Web Developer",
+            "score": 0.569
+        }
+    ],
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "self-motivated": 0.2178,
+            "Graduation": 0.3733,
+            "Intermediate (MPC)": 0.189,
+            "cascading style sheets": 0.1568,
+            "Bootstrap": 0.5426,
+            "Server-side include files": 0.2815,
+            "C#": 0.7827,
+            "ASP.NET": 0.7429,
+            "MVC": 0.3816,
+            "CRUD functionalities": 0.1664,
+            "telerik": 0.3662,
+            "kendo": 0.2724
+        }
+    }
+}

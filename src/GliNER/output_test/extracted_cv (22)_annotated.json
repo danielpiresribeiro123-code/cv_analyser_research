@@ -1,0 +1,121 @@
+{
+    "skills": [
+        "Malls",
+        "High  rise  buildings",
+        "site  supervision",
+        "quality control/ quality analysis",
+        "construction methods",
+        "Indian Standards Codes",
+        "TECHINICAL SKILLS",
+        "MS-Office",
+        "MS- Excel",
+        "Window 7",
+        "Autocad",
+        "Internet Ability",
+        "PERSONAL QUALITIES",
+        "Positive attitude",
+        "great ability towards result oriented output",
+        "Good Communication",
+        "inter personal skills",
+        "Residential  building  project",
+        "PRISM PORTICO PROJECT  Sector 89 Gurgaon",
+        "SIGNATURE TOWER II PROJECT"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "HANISH SAINI",
+            "score": 0.4098
+        },
+        {
+            "label": "job title",
+            "text": "Civil Engineer",
+            "score": 0.6176
+        },
+        {
+            "label": "job title",
+            "text": "Site-Engineer",
+            "score": 0.2119
+        },
+        {
+            "label": "company",
+            "text": "TDI  OURANIA  APPARTMENT  Project Gurgaon",
+            "score": 0.2363
+        },
+        {
+            "label": "job title",
+            "text": "Civil Site Engineer",
+            "score": 0.49
+        },
+        {
+            "label": "company",
+            "text": "NEELKANTH TOWN PLANNER PVT LTD",
+            "score": 0.8799
+        },
+        {
+            "label": "company",
+            "text": "TDI INFRASTUCUTRE LTD",
+            "score": 0.8313
+        },
+        {
+            "label": "job title",
+            "text": "Civil Site Engineer",
+            "score": 0.4873
+        },
+        {
+            "label": "company",
+            "text": "THE 3 ARROWS NIRMAN PVT LTD",
+            "score": 0.8524
+        },
+        {
+            "label": "company",
+            "text": "NINANIYA GROUP PVT LTD",
+            "score": 0.7607
+        },
+        {
+            "label": "job title",
+            "text": "Graduate  Engineer  Trainee",
+            "score": 0.4846
+        },
+        {
+            "label": "company",
+            "text": "UNITECH  LIMITED",
+            "score": 0.9284
+        },
+        {
+            "label": "degree",
+            "text": "Bachelor  in  Technologies  (CIVIL  ENGINEERING)",
+            "score": 0.8379
+        },
+        {
+            "label": "university",
+            "text": "Maharishi Dayanand",
+            "score": 0.7483
+        }
+    ],
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Malls": 0.1668,
+            "High  rise  buildings": 0.2997,
+            "site  supervision": 0.2348,
+            "quality control/ quality analysis": 0.2068,
+            "construction methods": 0.2059,
+            "Indian Standards Codes": 0.8459,
+            "TECHINICAL SKILLS": 0.1907,
+            "MS-Office": 0.6088,
+            "MS- Excel": 0.7744,
+            "Window 7": 0.7298,
+            "Autocad": 0.7134,
+            "Internet Ability": 0.2155,
+            "PERSONAL QUALITIES": 0.4645,
+            "Positive attitude": 0.4635,
+            "great ability towards result oriented output": 0.1994,
+            "Good Communication": 0.5477,
+            "inter personal skills": 0.3329,
+            "Residential  building  project": 0.151,
+            "PRISM PORTICO PROJECT  Sector 89 Gurgaon": 0.1518,
+            "SIGNATURE TOWER II PROJECT": 0.1743
+        }
+    }
+}

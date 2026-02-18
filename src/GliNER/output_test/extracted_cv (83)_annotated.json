@@ -1,0 +1,112 @@
+{
+    "skills": [
+        "Network Administration",
+        "System administration",
+        "Server Configuration",
+        "IT & Desktop support",
+        "Network Services Support",
+        "Management",
+        "Linux Server Administration",
+        "Wi-Fi Network Administration",
+        "FTTH Technology",
+        "Network Configuration",
+        "CCTV Operation Control",
+        "IT and Desktop support",
+        "eye for detail",
+        "communicator",
+        "relate well with people at all levels",
+        "IT",
+        "TCP/IP",
+        "DNS",
+        "DHCP",
+        "Layer 2/3 network devices",
+        "NAT Server",
+        "Windows OS",
+        "authorized desktop applications",
+        "KEY SKILLS AND COMPETENCIES",
+        "Server Hardware Technology",
+        "SQL",
+        "LANs",
+        "WANs"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "Md. Kamal Hossain",
+            "score": 0.6755
+        },
+        {
+            "label": "company",
+            "text": "VMware",
+            "score": 0.8284
+        },
+        {
+            "label": "company",
+            "text": "Citrix",
+            "score": 0.8578
+        },
+        {
+            "label": "company",
+            "text": "MikroTik",
+            "score": 0.535
+        },
+        {
+            "label": "job title",
+            "text": "WORK EXPERIENCE",
+            "score": 0.2094
+        },
+        {
+            "label": "job title",
+            "text": "Sub. Asst. Engineer",
+            "score": 0.6074
+        },
+        {
+            "label": "university",
+            "text": "Leading University – Bangladesh",
+            "score": 0.9235
+        },
+        {
+            "label": "company",
+            "text": "VMware",
+            "score": 0.7104
+        },
+        {
+            "label": "company",
+            "text": "Citrix",
+            "score": 0.7908
+        }
+    ],
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "Network Administration": 0.6138,
+            "System administration": 0.5754,
+            "Server Configuration": 0.5851,
+            "IT & Desktop support": 0.4638,
+            "Network Services Support": 0.3145,
+            "Management": 0.1772,
+            "Linux Server Administration": 0.4314,
+            "Wi-Fi Network Administration": 0.4963,
+            "FTTH Technology": 0.4726,
+            "Network Configuration": 0.5436,
+            "CCTV Operation Control": 0.3786,
+            "IT and Desktop support": 0.2845,
+            "eye for detail": 0.5065,
+            "communicator": 0.4795,
+            "relate well with people at all levels": 0.2293,
+            "IT": 0.1612,
+            "TCP/IP": 0.8054,
+            "DNS": 0.5796,
+            "DHCP": 0.7527,
+            "Layer 2/3 network devices": 0.3405,
+            "NAT Server": 0.2997,
+            "Windows OS": 0.1552,
+            "authorized desktop applications": 0.2939,
+            "KEY SKILLS AND COMPETENCIES": 0.3714,
+            "Server Hardware Technology": 0.2875,
+            "SQL": 0.4091,
+            "LANs": 0.1618,
+            "WANs": 0.2036
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "skills": [
+        "Diploma  in  INSTRUMENTATION",
+        "English",
+        "Hindi",
+        "Urdu",
+        "Diploma in computer application",
+        "Ms- Word",
+        "Ms- Excel",
+        "Ms- Power point",
+        "Fundamental"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "MOHAMMAD SHIRAZ",
+            "score": 0.6331
+        },
+        {
+            "label": "job title",
+            "text": "INSTRUMENT TECHNICIAN",
+            "score": 0.6307
+        },
+        {
+            "label": "degree",
+            "text": "Matriculation",
+            "score": 0.6657
+        },
+        {
+            "label": "company",
+            "text": "J.A.C",
+            "score": 0.8316
+        },
+        {
+            "label": "company",
+            "text": "K.C.T POLYTECHNIC",
+            "score": 0.8963
+        },
+        {
+            "label": "company",
+            "text": "ACF LTD",
+            "score": 0.8809
+        },
+        {
+            "label": "job title",
+            "text": "INSTRUMENT TECHNICIAN",
+            "score": 0.6143
+        },
+        {
+            "label": "company",
+            "text": "TARAPORE & COMPANY",
+            "score": 0.8944
+        },
+        {
+            "label": "job title",
+            "text": "INSTRUMENT TECHNICIAN",
+            "score": 0.6237
+        },
+        {
+            "label": "company",
+            "text": "BABEL  MAINTENANCE  OPER.  &  TRADING  CO.  RIYADH",
+            "score": 0.4488
+        },
+        {
+            "label": "job title",
+            "text": "INSTRUMENT TECHNICIAN",
+            "score": 0.6244
+        },
+        {
+            "label": "person name",
+            "text": "MOHAMMAD SHIRAZ",
+            "score": 0.7151
+        },
+        {
+            "label": "person name",
+            "text": "Mohammad Kalam Uddin",
+            "score": 0.5409
+        },
+        {
+            "label": "years of experience",
+            "text": "Unmarried",
+            "score": 0.266
+        },
+        {
+            "label": "company",
+            "text": "D C A",
+            "score": 0.3348
+        }
+    ],
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Diploma  in  INSTRUMENTATION": 0.6426,
+            "English": 0.5945,
+            "Hindi": 0.4887,
+            "Urdu": 0.481,
+            "Diploma in computer application": 0.4948,
+            "Ms- Word": 0.3303,
+            "Ms- Excel": 0.3721,
+            "Ms- Power point": 0.2847,
+            "Fundamental": 0.2603
+        }
+    }
+}

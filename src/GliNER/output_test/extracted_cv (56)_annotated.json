@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "AutoCAD",
+        "CIVIL",
+        "CIVIL department",
+        "CIVIL AutoCAD"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "RAHIL RIYAZ",
+            "score": 0.72
+        },
+        {
+            "label": "person name",
+            "text": "rahilriyaz82",
+            "score": 0.2267
+        },
+        {
+            "label": "company",
+            "text": "VIKAS ASSOCIATES ENGINEERS AND ARCHITECT",
+            "score": 0.8158
+        },
+        {
+            "label": "job title",
+            "text": "Draughtsman",
+            "score": 0.8162
+        },
+        {
+            "label": "job title",
+            "text": "Job Profile Df",
+            "score": 0.2021
+        },
+        {
+            "label": "job title",
+            "text": "ASHRAY ENGINEER  & ARCHITECT",
+            "score": 0.3299
+        },
+        {
+            "label": "job title",
+            "text": "Draughtsman",
+            "score": 0.7222
+        },
+        {
+            "label": "job title",
+            "text": "Supervision",
+            "score": 0.2057
+        }
+    ],
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "AutoCAD": 0.4707,
+            "CIVIL": 0.4444,
+            "CIVIL department": 0.3186,
+            "CIVIL AutoCAD": 0.4895
+        }
+    }
+}

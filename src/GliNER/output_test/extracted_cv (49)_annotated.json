@@ -1,0 +1,123 @@
+{
+    "skills": [
+        "talents",
+        "creativity",
+        "ability",
+        "English",
+        "Hindi",
+        "TamilPassport"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "VENKATESHAN.B",
+            "score": 0.6496
+        },
+        {
+            "label": "company",
+            "text": "BE(EEE)Ganapathy",
+            "score": 0.3544
+        },
+        {
+            "label": "university",
+            "text": "Chettiyar college",
+            "score": 0.3866
+        },
+        {
+            "label": "company",
+            "text": "Of engineering &, Technology.Anna",
+            "score": 0.3189
+        },
+        {
+            "label": "university",
+            "text": "University2009-201369",
+            "score": 0.5198
+        },
+        {
+            "label": "company",
+            "text": "HSCSyed ammal",
+            "score": 0.3273
+        },
+        {
+            "label": "company",
+            "text": "Hr.sec.school.State board",
+            "score": 0.2662
+        },
+        {
+            "label": "company",
+            "text": "SSLCSyed ammal",
+            "score": 0.2603
+        },
+        {
+            "label": "company",
+            "text": "State board",
+            "score": 0.2544
+        },
+        {
+            "label": "company",
+            "text": "Ganapathy Chettiar engineering college",
+            "score": 0.4301
+        },
+        {
+            "label": "company",
+            "text": "IOB RSETI Ramanathapuram",
+            "score": 0.2704
+        },
+        {
+            "label": "company",
+            "text": "VALUTHUR GAS TURBINE POWER PLANT",
+            "score": 0.2389
+        },
+        {
+            "label": "company",
+            "text": "ALL INDIA RADIO Trichy",
+            "score": 0.3868
+        },
+        {
+            "label": "years of experience",
+            "text": "2 years experience",
+            "score": 0.479
+        },
+        {
+            "label": "job title",
+            "text": "NETWORK ENGINEER",
+            "score": 0.7588
+        },
+        {
+            "label": "company",
+            "text": "AAGNA CORPORATE",
+            "score": 0.7192
+        },
+        {
+            "label": "company",
+            "text": "SERVICES PVTLTD",
+            "score": 0.1908
+        },
+        {
+            "label": "job title",
+            "text": "Installation Engineer",
+            "score": 0.7794
+        },
+        {
+            "label": "company",
+            "text": "Team india",
+            "score": 0.204
+        },
+        {
+            "label": "person name",
+            "text": "Venkateshan B",
+            "score": 0.8762
+        }
+    ],
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "talents": 0.2292,
+            "creativity": 0.3525,
+            "ability": 0.1821,
+            "English": 0.7802,
+            "Hindi": 0.8465,
+            "TamilPassport": 0.6598
+        }
+    }
+}

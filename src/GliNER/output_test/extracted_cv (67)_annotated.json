@@ -1,0 +1,105 @@
+{
+    "skills": [
+        "LicenceGovt.ITI Mettur Dam",
+        "INTERPERSONAL SKILLS",
+        "Self Confident",
+        "Adoptability",
+        "Creative And logical thinking",
+        "Hard & smart working",
+        "Research & development skills",
+        "HOBBIES",
+        "DYHE- Diploma in Yoga Human Excellent",
+        "Operation  FRP",
+        "IGFR  Machines and Maintenance  Works",
+        "Preventive Schedule Maintenance  Works"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "V.MURUGESAN",
+            "score": 0.8333
+        },
+        {
+            "label": "person name",
+            "text": "S/O A.Vellaiyan",
+            "score": 0.5146
+        },
+        {
+            "label": "university",
+            "text": "Cource Institute/Board",
+            "score": 0.2953
+        },
+        {
+            "label": "degree",
+            "text": "Diploma in Mechanical",
+            "score": 0.6412
+        },
+        {
+            "label": "university",
+            "text": "EngineeringGovernment  Polytechnic",
+            "score": 0.3231
+        },
+        {
+            "label": "job title",
+            "text": "Electrician",
+            "score": 0.4532
+        },
+        {
+            "label": "university",
+            "text": "SSLC Govt.Hr.Sec.School",
+            "score": 0.3303
+        },
+        {
+            "label": "university",
+            "text": "Barathiar University",
+            "score": 0.5782
+        },
+        {
+            "label": "company",
+            "text": "HTL   Ltd",
+            "score": 0.8543
+        },
+        {
+            "label": "company",
+            "text": "Hosur",
+            "score": 0.8324
+        },
+        {
+            "label": "job title",
+            "text": "Process Associate- FRP Maintenance",
+            "score": 0.5597
+        },
+        {
+            "label": "company",
+            "text": "TITAN  COMPANY  Ltd",
+            "score": 0.9421
+        },
+        {
+            "label": "company",
+            "text": "Hosur",
+            "score": 0.8171
+        },
+        {
+            "label": "job title",
+            "text": "Apprentices Training  (Tool Room Department)",
+            "score": 0.4138
+        }
+    ],
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "LicenceGovt.ITI Mettur Dam": 0.2194,
+            "INTERPERSONAL SKILLS": 0.3301,
+            "Self Confident": 0.367,
+            "Adoptability": 0.1988,
+            "Creative And logical thinking": 0.4311,
+            "Hard & smart working": 0.2639,
+            "Research & development skills": 0.2165,
+            "HOBBIES": 0.2012,
+            "DYHE- Diploma in Yoga Human Excellent": 0.3581,
+            "Operation  FRP": 0.2074,
+            "IGFR  Machines and Maintenance  Works": 0.2508,
+            "Preventive Schedule Maintenance  Works": 0.2043
+        }
+    }
+}

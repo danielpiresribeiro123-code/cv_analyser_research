@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "PERSONAL PROFILE",
+        "English",
+        "hindi",
+        "Languages"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "NAVDEEP KUMAR DHIMAN",
+            "score": 0.8708
+        },
+        {
+            "label": "years of experience",
+            "text": "EXPERIENCE",
+            "score": 0.2103
+        },
+        {
+            "label": "job title",
+            "text": "TRAINEE",
+            "score": 0.7618
+        },
+        {
+            "label": "job title",
+            "text": "TRAINEE",
+            "score": 0.7242
+        },
+        {
+            "label": "university",
+            "text": "NATIONAL INSTITUTE OF FIRE ENGINEERING AND SAFETY",
+            "score": 0.8865
+        },
+        {
+            "label": "university",
+            "text": "MANAGEMENT CHANDIGARH",
+            "score": 0.2758
+        },
+        {
+            "label": "degree",
+            "text": "POST GRADUATION DIPLOMA IN HEALTH SAFETY AND ENVIRONMENT(APPEARED)",
+            "score": 0.5318
+        },
+        {
+            "label": "university",
+            "text": "HIMACHAL PRADESH TECHNICAL UNIVERSITY HAMIRPUR",
+            "score": 0.4379
+        },
+        {
+            "label": "degree",
+            "text": "BACHELOR OF TECHNOLOGY (B.TECH) IN MECHANICAL ENGINEERINGwith",
+            "score": 0.5111
+        },
+        {
+            "label": "years of experience",
+            "text": "61.6% 2016",
+            "score": 0.1586
+        },
+        {
+            "label": "person name",
+            "text": "NAVDEEP KUMAR DHIMAN",
+            "score": 0.8753
+        }
+    ],
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "PERSONAL PROFILE": 0.3902,
+            "English": 0.912,
+            "hindi": 0.9461,
+            "Languages": 0.3429
+        }
+    }
+}

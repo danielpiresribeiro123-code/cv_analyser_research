@@ -1,0 +1,120 @@
+{
+    "skills": [
+        "knowledge",
+        "TECHNICAL  KNOWLADGE",
+        "Studio5000",
+        "RSLOGIX5000",
+        "RSLOGIX500",
+        "RSLOGIX 5",
+        "DRIVE EXECUTIVE",
+        "CCW",
+        "Scada",
+        "HMI",
+        "RSVIEW32",
+        "Factory Talk View Site/Machine Edition",
+        "ControlLogix",
+        "CompactLogix",
+        "MicroLogix",
+        "MicroController",
+        "Flex IO",
+        "Point IO",
+        "Safety Relay CR30",
+        "Panel view plus",
+        "Power flex 750 series",
+        "Powerflex 525",
+        "Power flex 700",
+        "Control Net",
+        "Ethernet",
+        "Device net",
+        "Thermal overload relays"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "VINAY KUMAR",
+            "score": 0.6567
+        },
+        {
+            "label": "job title",
+            "text": "engineer",
+            "score": 0.1871
+        },
+        {
+            "label": "years of experience",
+            "text": "3+ Years",
+            "score": 0.1865
+        },
+        {
+            "label": "company",
+            "text": "Nocle System & Control Pvt. Ltd.",
+            "score": 0.883
+        },
+        {
+            "label": "job title",
+            "text": "Project Engineer",
+            "score": 0.6709
+        },
+        {
+            "label": "company",
+            "text": "I & B Automation and Controls Systems Noida",
+            "score": 0.6169
+        },
+        {
+            "label": "job title",
+            "text": "Project Engineer",
+            "score": 0.6889
+        },
+        {
+            "label": "company",
+            "text": "Rockwell Automation",
+            "score": 0.9337
+        },
+        {
+            "label": "company",
+            "text": "Reliance  Industries  Limited",
+            "score": 0.7917
+        },
+        {
+            "label": "degree",
+            "text": "Graduate Engineer Trainee(GET)",
+            "score": 0.5576
+        },
+        {
+            "label": "company",
+            "text": "Rockwell Automation",
+            "score": 0.9365
+        }
+    ],
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "knowledge": 0.1796,
+            "TECHNICAL  KNOWLADGE": 0.3154,
+            "Studio5000": 0.5742,
+            "RSLOGIX5000": 0.6027,
+            "RSLOGIX500": 0.6043,
+            "RSLOGIX 5": 0.4964,
+            "DRIVE EXECUTIVE": 0.5738,
+            "CCW": 0.499,
+            "Scada": 0.3784,
+            "HMI": 0.1735,
+            "RSVIEW32": 0.5935,
+            "Factory Talk View Site/Machine Edition": 0.4333,
+            "ControlLogix": 0.3957,
+            "CompactLogix": 0.2578,
+            "MicroLogix": 0.3011,
+            "MicroController": 0.4832,
+            "Flex IO": 0.5926,
+            "Point IO": 0.5901,
+            "Safety Relay CR30": 0.2663,
+            "Panel view plus": 0.6654,
+            "Power flex 750 series": 0.4952,
+            "Powerflex 525": 0.4046,
+            "Power flex 700": 0.4348,
+            "Control Net": 0.5803,
+            "Ethernet": 0.3205,
+            "Device net": 0.5509,
+            "Thermal overload relays": 0.1917
+        }
+    }
+}

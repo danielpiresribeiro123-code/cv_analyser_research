@@ -1,0 +1,180 @@
+{
+    "skills": [
+        "Mechanical installations",
+        "Go getter",
+        "self-propeller",
+        "people skills",
+        "Excellent IT and computer literacy skills",
+        "Technical Report writing",
+        "HVAC"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "SHAMIR",
+            "score": 0.55
+        },
+        {
+            "label": "person name",
+            "text": "Shamir27",
+            "score": 0.4545
+        },
+        {
+            "label": "degree",
+            "text": "B-TECH IN MECHANICAL ENGINEERING",
+            "score": 0.4797
+        },
+        {
+            "label": "university",
+            "text": "LBS Engineering College",
+            "score": 0.8531
+        },
+        {
+            "label": "university",
+            "text": "Kannur University",
+            "score": 0.8577
+        },
+        {
+            "label": "degree",
+            "text": "HSE",
+            "score": 0.5339
+        },
+        {
+            "label": "company",
+            "text": "RAC. Higher Secondary School",
+            "score": 0.3324
+        },
+        {
+            "label": "company",
+            "text": "Board of Higher Secondary Education",
+            "score": 0.5282
+        },
+        {
+            "label": "company",
+            "text": "SSLC",
+            "score": 0.4161
+        },
+        {
+            "label": "company",
+            "text": "GOVT. Higher Secondary School",
+            "score": 0.2229
+        },
+        {
+            "label": "years of experience",
+            "text": "Excellent interpersonal",
+            "score": 0.4408
+        },
+        {
+            "label": "years of experience",
+            "text": "communication",
+            "score": 0.2621
+        },
+        {
+            "label": "job title",
+            "text": "HVAC ENGINEER",
+            "score": 0.7085
+        },
+        {
+            "label": "company",
+            "text": "MARINE AIR CONDITIONING & REF. CO.",
+            "score": 0.6826
+        },
+        {
+            "label": "person name",
+            "text": "W.L.LResume",
+            "score": 0.3994
+        },
+        {
+            "label": "person name",
+            "text": "shamir",
+            "score": 0.5006
+        },
+        {
+            "label": "job title",
+            "text": "HVAC ENGINEER",
+            "score": 0.6823
+        },
+        {
+            "label": "company",
+            "text": "Arctic Cooling Solutions India Private Limited",
+            "score": 0.9064
+        },
+        {
+            "label": "company",
+            "text": "BLUE STAR INDIA LTD",
+            "score": 0.7313
+        },
+        {
+            "label": "company",
+            "text": "Bader Al Mulla & Bros. Co.",
+            "score": 0.6422
+        },
+        {
+            "label": "person name",
+            "text": "W.L.L.",
+            "score": 0.3044
+        },
+        {
+            "label": "company",
+            "text": "Electromechanical Projects Division",
+            "score": 0.6717
+        },
+        {
+            "label": "company",
+            "text": "Ministry of Electricity & Water (MEW)",
+            "score": 0.2312
+        },
+        {
+            "label": "company",
+            "text": "Kuwait National Petroleum Company",
+            "score": 0.4536
+        },
+        {
+            "label": "company",
+            "text": "Kuwait Oil Company",
+            "score": 0.2859
+        },
+        {
+            "label": "company",
+            "text": "Public Authority for Applied Education & Training (PAAET)",
+            "score": 0.4049
+        },
+        {
+            "label": "company",
+            "text": "Ministry of Public Works (MPW)",
+            "score": 0.2432
+        },
+        {
+            "label": "company",
+            "text": "Ministry of Interior",
+            "score": 0.1861
+        },
+        {
+            "label": "company",
+            "text": "Kuwait Arab Contractors",
+            "score": 0.6552
+        },
+        {
+            "label": "company",
+            "text": "Consolidated Contractors Co.",
+            "score": 0.805
+        },
+        {
+            "label": "company",
+            "text": "Ahmadiah Contracting & Trading",
+            "score": 0.5992
+        }
+    ],
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Mechanical installations": 0.1535,
+            "Go getter": 0.3755,
+            "self-propeller": 0.297,
+            "people skills": 0.3464,
+            "Excellent IT and computer literacy skills": 0.4011,
+            "Technical Report writing": 0.1724,
+            "HVAC": 0.1531
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "responsive and effective manager",
+        "Class XII",
+        "Class X",
+        "TECHNICALS SKILLS",
+        "Internet Explorer",
+        "best performer Certificate",
+        "Drawing"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "MOHD.SHUMAIL",
+            "score": 0.8756
+        },
+        {
+            "label": "degree",
+            "text": "MBA",
+            "score": 0.8009
+        },
+        {
+            "label": "university",
+            "text": "Indian Institute of Planning & Management",
+            "score": 0.9476
+        },
+        {
+            "label": "degree",
+            "text": "B.Com",
+            "score": 0.8796
+        },
+        {
+            "label": "university",
+            "text": "MJP Rohilkhand University (Bareilly)",
+            "score": 0.8543
+        },
+        {
+            "label": "company",
+            "text": "Nestaway technology pvt ltd.",
+            "score": 0.9469
+        },
+        {
+            "label": "job title",
+            "text": "Designation",
+            "score": 0.1691
+        },
+        {
+            "label": "job title",
+            "text": "Area manager",
+            "score": 0.7616
+        },
+        {
+            "label": "company",
+            "text": "okutech pvt ltd.",
+            "score": 0.8082
+        },
+        {
+            "label": "job title",
+            "text": "SE",
+            "score": 0.2793
+        },
+        {
+            "label": "person name",
+            "text": "Mohd. Shumail",
+            "score": 0.901
+        },
+        {
+            "label": "person name",
+            "text": "Mr. Iqtidar Ansari",
+            "score": 0.6256
+        }
+    ],
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "responsive and effective manager": 0.3397,
+            "Class XII": 0.2979,
+            "Class X": 0.2627,
+            "TECHNICALS SKILLS": 0.307,
+            "Internet Explorer": 0.2444,
+            "best performer Certificate": 0.456,
+            "Drawing": 0.2452
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "skills": [
+        "compact capability",
+        "inherit talent",
+        "MS Office",
+        "Photo Shop",
+        "C++ Language",
+        "Internet",
+        "Strengths",
+        "Hard worker",
+        "Strong Positive Attitude"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "Vivek Kumar",
+            "score": 0.9315
+        },
+        {
+            "label": "university",
+            "text": "B. A -       Maghad University Bodhgaya Bihar",
+            "score": 0.8115
+        },
+        {
+            "label": "degree",
+            "text": "12th -        BSEB",
+            "score": 0.334
+        },
+        {
+            "label": "degree",
+            "text": "10th -        BSEB",
+            "score": 0.3
+        },
+        {
+            "label": "university",
+            "text": "Diploma in Computer from Gurgaon",
+            "score": 0.3919
+        },
+        {
+            "label": "years of experience",
+            "text": "One year",
+            "score": 0.1566
+        },
+        {
+            "label": "company",
+            "text": "Sunvisor India Pvt. Ltd.",
+            "score": 0.9219
+        },
+        {
+            "label": "job title",
+            "text": "Computer, Operator Department & Store",
+            "score": 0.1775
+        },
+        {
+            "label": "years of experience",
+            "text": "2  years",
+            "score": 0.2484
+        },
+        {
+            "label": "company",
+            "text": "S.S  Lootha  Construction  LLC  Dubai  (UAE)",
+            "score": 0.714
+        },
+        {
+            "label": "job title",
+            "text": "Computer Operator & Store Department",
+            "score": 0.16
+        },
+        {
+            "label": "company",
+            "text": "Airtel Broadband",
+            "score": 0.9301
+        },
+        {
+            "label": "company",
+            "text": "DSA",
+            "score": 0.5987
+        },
+        {
+            "label": "job title",
+            "text": "Team Leader",
+            "score": 0.7476
+        },
+        {
+            "label": "job title",
+            "text": "Job Responsibility",
+            "score": 0.1533
+        }
+    ],
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "compact capability": 0.2605,
+            "inherit talent": 0.165,
+            "MS Office": 0.1667,
+            "Photo Shop": 0.159,
+            "C++ Language": 0.7642,
+            "Internet": 0.225,
+            "Strengths": 0.1599,
+            "Hard worker": 0.3046,
+            "Strong Positive Attitude": 0.2389
+        }
+    }
+}

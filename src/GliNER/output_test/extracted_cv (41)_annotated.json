@@ -1,0 +1,108 @@
+{
+    "skills": [
+        "technical skills",
+        "knowledge",
+        "IT infrastructure",
+        "CCTV  infrastructure",
+        "RF",
+        "Fiber",
+        "LAN network troubleshooting",
+        "software",
+        "Wi-Fi radio",
+        "Networking",
+        "TCP/IP",
+        "DHCP",
+        "LAN Troubleshooting",
+        "Windows",
+        "CCTV infrastructure",
+        "system software"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "NITIN KUMAR",
+            "score": 0.524
+        },
+        {
+            "label": "company",
+            "text": "PROFESSIONAL SYNOPSYS",
+            "score": 0.415
+        },
+        {
+            "label": "company",
+            "text": "NET Enterprises",
+            "score": 0.9527
+        },
+        {
+            "label": "job title",
+            "text": "Sr. Engineer",
+            "score": 0.8359
+        },
+        {
+            "label": "company",
+            "text": "HCL services ltd.",
+            "score": 0.9623
+        },
+        {
+            "label": "job title",
+            "text": "C.E.",
+            "score": 0.8157
+        },
+        {
+            "label": "years of experience",
+            "text": "3 years",
+            "score": 0.1539
+        },
+        {
+            "label": "company",
+            "text": "Indo Gulf Fertilizer  (ABG Group)",
+            "score": 0.8723
+        },
+        {
+            "label": "company",
+            "text": "NCL (Northern coalfield ltd.)",
+            "score": 0.6653
+        },
+        {
+            "label": "company",
+            "text": "High court, Allahabad",
+            "score": 0.3009
+        },
+        {
+            "label": "company",
+            "text": "High tech carbon (ABG group)",
+            "score": 0.5299
+        },
+        {
+            "label": "company",
+            "text": "Renukoot",
+            "score": 0.29
+        },
+        {
+            "label": "company",
+            "text": "Hindalco Ind.",
+            "score": 0.8282
+        }
+    ],
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "technical skills": 0.2141,
+            "knowledge": 0.3625,
+            "IT infrastructure": 0.3543,
+            "CCTV  infrastructure": 0.3882,
+            "RF": 0.2277,
+            "Fiber": 0.2312,
+            "LAN network troubleshooting": 0.167,
+            "software": 0.1926,
+            "Wi-Fi radio": 0.3366,
+            "Networking": 0.2029,
+            "TCP/IP": 0.5661,
+            "DHCP": 0.3732,
+            "LAN Troubleshooting": 0.2105,
+            "Windows": 0.2002,
+            "CCTV infrastructure": 0.1596,
+            "system software": 0.2298
+        }
+    }
+}

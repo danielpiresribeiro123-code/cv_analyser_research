@@ -1,31 +1,83 @@
 {
-    "person name": [
-        "Jaroslav Chechnik"
-    ],
-    "address": [],
-    "years of experience": [],
-    "job title": [
-        "Executive Profile",
-        "F R E S H E R",
-        "Intern"
-    ],
-    "company": [
-        "SMART PARKING SYSTEM"
-    ],
-    "university": [
-        "ECE VIT-AP University 2021"
-    ],
-    "degree": [
-        "B. Tech"
-    ],
     "skills": [
-        "Scikit Learn",
-        "Pandas",
-        "Raspberry Pi",
-        "NumPy",
-        "Streamlit",
-        "TensorFlow",
+        "Deep Learning",
+        "Machine Learning",
+        "Projects",
+        "Music Genre Classification",
+        "eye",
+        "smile recognitionSkills",
         "Python",
-        "Matplotlib"
-    ]
+        "Anaconda",
+        "NumPy",
+        "Pandas",
+        "Matplotlib",
+        "Scikit Learn",
+        "TensorFlow",
+        "Streamlit",
+        "Arduino",
+        "Raspberry Pi"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "Jaroslav Chechnik",
+            "score": 0.9513
+        },
+        {
+            "label": "job title",
+            "text": "F R E S H E R",
+            "score": 0.3987
+        },
+        {
+            "label": "job title",
+            "text": "Executive Profile",
+            "score": 0.5982
+        },
+        {
+            "label": "job title",
+            "text": "Face",
+            "score": 0.2595
+        },
+        {
+            "label": "job title",
+            "text": "Intern",
+            "score": 0.7658
+        },
+        {
+            "label": "company",
+            "text": "SMART PARKING SYSTEM",
+            "score": 0.2745
+        },
+        {
+            "label": "degree",
+            "text": "B. Tech",
+            "score": 0.9466
+        },
+        {
+            "label": "university",
+            "text": "ECE VIT-AP University 2021",
+            "score": 0.6617
+        }
+    ],
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Deep Learning": 0.4072,
+            "Machine Learning": 0.6566,
+            "Projects": 0.2161,
+            "Music Genre Classification": 0.2786,
+            "eye": 0.1722,
+            "smile recognitionSkills": 0.2473,
+            "Python": 0.9789,
+            "Anaconda": 0.7,
+            "NumPy": 0.7712,
+            "Pandas": 0.8116,
+            "Matplotlib": 0.7674,
+            "Scikit Learn": 0.7812,
+            "TensorFlow": 0.847,
+            "Streamlit": 0.6718,
+            "Arduino": 0.2881,
+            "Raspberry Pi": 0.2345
+        }
+    }
 }

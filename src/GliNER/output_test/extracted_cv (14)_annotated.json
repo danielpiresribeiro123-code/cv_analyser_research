@@ -1,0 +1,134 @@
+{
+    "skills": [
+        "Computer engineering",
+        "new Skills",
+        "maximum personal capabilities",
+        "10+2 Passed From UP Board",
+        "Diploma in Computer certificate application",
+        "Diploma in Electrical & Communication",
+        "Company standards of Quality",
+        "System requirements",
+        "CCTV Camera DVM System",
+        "VESDA system",
+        "Microsoft office",
+        "MS Words",
+        "MS Excel",
+        "MS Power point"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "Farman Ali",
+            "score": 0.8561
+        },
+        {
+            "label": "job title",
+            "text": "BMS Operator",
+            "score": 0.867
+        },
+        {
+            "label": "job title",
+            "text": "Department /Project",
+            "score": 0.2893
+        },
+        {
+            "label": "job title",
+            "text": "FM Operations",
+            "score": 0.4056
+        },
+        {
+            "label": "job title",
+            "text": "Electrical Engineer",
+            "score": 0.8418
+        },
+        {
+            "label": "job title",
+            "text": "Facility Manager",
+            "score": 0.8088
+        },
+        {
+            "label": "years of experience",
+            "text": "One year",
+            "score": 0.2164
+        },
+        {
+            "label": "company",
+            "text": "ST Microelectronic",
+            "score": 0.621
+        },
+        {
+            "label": "company",
+            "text": "Honeywell",
+            "score": 0.9275
+        },
+        {
+            "label": "job title",
+            "text": "BMS operator",
+            "score": 0.8376
+        },
+        {
+            "label": "company",
+            "text": "CBRE",
+            "score": 0.9508
+        },
+        {
+            "label": "company",
+            "text": "Strabag",
+            "score": 0.7758
+        },
+        {
+            "label": "job title",
+            "text": "BMS Operator",
+            "score": 0.8173
+        },
+        {
+            "label": "company",
+            "text": "MetLife",
+            "score": 0.4284
+        },
+        {
+            "label": "university",
+            "text": "UP Board",
+            "score": 0.2244
+        },
+        {
+            "label": "degree",
+            "text": "Graduate",
+            "score": 0.4982
+        },
+        {
+            "label": "university",
+            "text": "Kanpur University",
+            "score": 0.9462
+        },
+        {
+            "label": "company",
+            "text": "Honeywell",
+            "score": 0.9394
+        },
+        {
+            "label": "company",
+            "text": "Honeywell",
+            "score": 0.9426
+        }
+    ],
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Computer engineering": 0.2436,
+            "new Skills": 0.2079,
+            "maximum personal capabilities": 0.1659,
+            "10+2 Passed From UP Board": 0.2878,
+            "Diploma in Computer certificate application": 0.7228,
+            "Diploma in Electrical & Communication": 0.7871,
+            "Company standards of Quality": 0.4086,
+            "System requirements": 0.167,
+            "CCTV Camera DVM System": 0.1951,
+            "VESDA system": 0.1621,
+            "Microsoft office": 0.4561,
+            "MS Words": 0.3462,
+            "MS Excel": 0.4462,
+            "MS Power point": 0.2614
+        }
+    }
+}

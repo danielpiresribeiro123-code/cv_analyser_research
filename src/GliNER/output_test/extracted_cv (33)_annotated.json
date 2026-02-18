@@ -1,0 +1,129 @@
+{
+    "skills": [],
+    "others": [
+        {
+            "label": "person name",
+            "text": "Ghulam Mohammad",
+            "score": 0.7409
+        },
+        {
+            "label": "job title",
+            "text": "Facility Engineer/ Supervisor",
+            "score": 0.7198
+        },
+        {
+            "label": "person name",
+            "text": "ghulammohd786",
+            "score": 0.4572
+        },
+        {
+            "label": "job title",
+            "text": "Facility Engineer/ Supervisor",
+            "score": 0.7348
+        },
+        {
+            "label": "company",
+            "text": "Emrill Integrated Facility Management LLC",
+            "score": 0.792
+        },
+        {
+            "label": "job title",
+            "text": "Facility Supervisor",
+            "score": 0.717
+        },
+        {
+            "label": "company",
+            "text": "Adecco India (P) Ltd",
+            "score": 0.8823
+        },
+        {
+            "label": "job title",
+            "text": "MEP Engineer",
+            "score": 0.6803
+        },
+        {
+            "label": "company",
+            "text": "Lotus Specie The 3C Company",
+            "score": 0.7616
+        },
+        {
+            "label": "company",
+            "text": "Feedback Infrastructure (P) Ltd",
+            "score": 0.7316
+        },
+        {
+            "label": "job title",
+            "text": "MEP Foreman",
+            "score": 0.6616
+        },
+        {
+            "label": "company",
+            "text": "Lotus Specie The 3C company",
+            "score": 0.6897
+        },
+        {
+            "label": "company",
+            "text": "MMR Group Infrastructure & Developer (P) Ltd",
+            "score": 0.771
+        },
+        {
+            "label": "job title",
+            "text": "MEP Foreman",
+            "score": 0.6679
+        },
+        {
+            "label": "company",
+            "text": "MMR Studio Noida",
+            "score": 0.158
+        },
+        {
+            "label": "company",
+            "text": "DEC Property Management (P) Ltd",
+            "score": 0.815
+        },
+        {
+            "label": "job title",
+            "text": "Facility Supervisor",
+            "score": 0.6478
+        },
+        {
+            "label": "company",
+            "text": "Unisol Integrated Infra Services (P) Ltd",
+            "score": 0.8636
+        },
+        {
+            "label": "job title",
+            "text": "Multi Technician",
+            "score": 0.5378
+        },
+        {
+            "label": "company",
+            "text": "Magnum Strips & Tube Gurgaon",
+            "score": 0.1775
+        },
+        {
+            "label": "company",
+            "text": "Ion Exchange Services (India) Ltd",
+            "score": 0.8297
+        },
+        {
+            "label": "job title",
+            "text": "Electrician cum Operator",
+            "score": 0.5775
+        },
+        {
+            "label": "person name",
+            "text": "Ghulam Mohammad",
+            "score": 0.7955
+        },
+        {
+            "label": "person name",
+            "text": "ghulammohd786",
+            "score": 0.5032
+        }
+    ],
+    "metadata": {
+        "total_skills": 0,
+        "confidence_scores": {}
+    }
+}

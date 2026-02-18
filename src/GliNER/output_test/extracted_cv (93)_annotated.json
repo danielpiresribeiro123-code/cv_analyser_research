@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "Hindi & English",
+        "CERTIFICATION COURSE",
+        "HARDWARE SKILLS",
+        "NETWORKING SKILL",
+        "Services",
+        "DHCP",
+        "Dynamic host configuration protocol",
+        "VPN",
+        "DNS",
+        "Domain Name Service",
+        "WDS"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "MOHD.RIZAWAN ANSARI",
+            "score": 0.8155
+        },
+        {
+            "label": "job title",
+            "text": "OBJECTIVE CAREER",
+            "score": 0.1623
+        },
+        {
+            "label": "company",
+            "text": "organization of repute",
+            "score": 0.1924
+        },
+        {
+            "label": "person name",
+            "text": "Abdul Gapfar",
+            "score": 0.77
+        },
+        {
+            "label": "company",
+            "text": "S. K. I. College",
+            "score": 0.3224
+        },
+        {
+            "label": "university",
+            "text": "S.V.N.I. College",
+            "score": 0.5133
+        },
+        {
+            "label": "degree",
+            "text": "Diploma in Computer Networking",
+            "score": 0.4446
+        },
+        {
+            "label": "university",
+            "text": "JETKING  Institute Allahabad",
+            "score": 0.8187
+        },
+        {
+            "label": "degree",
+            "text": "Diploma in Computer Hardware & Networking",
+            "score": 0.4574
+        },
+        {
+            "label": "university",
+            "text": "DATA EXPERT",
+            "score": 0.4465
+        },
+        {
+            "label": "company",
+            "text": "Institute Allahabad",
+            "score": 0.4026
+        }
+    ],
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Hindi & English": 0.5351,
+            "CERTIFICATION COURSE": 0.3731,
+            "HARDWARE SKILLS": 0.3505,
+            "NETWORKING SKILL": 0.36,
+            "Services": 0.1838,
+            "DHCP": 0.3369,
+            "Dynamic host configuration protocol": 0.2445,
+            "VPN": 0.2671,
+            "DNS": 0.3,
+            "Domain Name Service": 0.2378,
+            "WDS": 0.3677
+        }
+    }
+}

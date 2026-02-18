@@ -1,0 +1,120 @@
+{
+    "skills": [
+        "Sex",
+        "SS7 Stack",
+        "M3UA",
+        "MTP",
+        "SCCP",
+        "MAP",
+        "INAP",
+        "TCAP",
+        "AIRXML",
+        "VSXML",
+        "CIP",
+        "CAMEL",
+        "CAPV1/CAPV2/CAPV3",
+        "CS1+",
+        "ISUP",
+        "SIGTRAN",
+        "TCP/IP",
+        "diameter",
+        "Linux/Unix",
+        "SQL",
+        "solaris",
+        "SPACE Tool",
+        "Telcordia Rater",
+        "ILO",
+        "Tool",
+        "Toad",
+        "Microsoft Office",
+        "OneTm",
+        "OneFm",
+        "OCC",
+        "GUI",
+        "RMA",
+        "SMA",
+        "ECMS",
+        "NGVS",
+        "SDP",
+        "AIR"
+    ],
+    "others": [
+        {
+            "label": "person name",
+            "text": "Adrian Elliott",
+            "score": 0.8227
+        },
+        {
+            "label": "person name",
+            "text": "Maxwell Elliott",
+            "score": 0.7672
+        },
+        {
+            "label": "job title",
+            "text": "Electronics Engineer",
+            "score": 0.7431
+        },
+        {
+            "label": "company",
+            "text": "Ericsson",
+            "score": 0.9814
+        },
+        {
+            "label": "company",
+            "text": "Citrix",
+            "score": 0.8269
+        },
+        {
+            "label": "job title",
+            "text": "Sr L2 support Engineer",
+            "score": 0.7618
+        },
+        {
+            "label": "company",
+            "text": "Airtel Bharti",
+            "score": 0.4971
+        }
+    ],
+    "metadata": {
+        "total_skills": 37,
+        "confidence_scores": {
+            "Sex": 0.2115,
+            "SS7 Stack": 0.7349,
+            "M3UA": 0.6833,
+            "MTP": 0.6109,
+            "SCCP": 0.7085,
+            "MAP": 0.6884,
+            "INAP": 0.701,
+            "TCAP": 0.7058,
+            "AIRXML": 0.673,
+            "VSXML": 0.6576,
+            "CIP": 0.6548,
+            "CAMEL": 0.5613,
+            "CAPV1/CAPV2/CAPV3": 0.2614,
+            "CS1+": 0.5299,
+            "ISUP": 0.553,
+            "SIGTRAN": 0.7696,
+            "TCP/IP": 0.7024,
+            "diameter": 0.5183,
+            "Linux/Unix": 0.1851,
+            "SQL": 0.2983,
+            "solaris": 0.5152,
+            "SPACE Tool": 0.7765,
+            "Telcordia Rater": 0.5026,
+            "ILO": 0.4716,
+            "Tool": 0.3508,
+            "Toad": 0.6164,
+            "Microsoft Office": 0.3661,
+            "OneTm": 0.2396,
+            "OneFm": 0.2366,
+            "OCC": 0.2443,
+            "GUI": 0.4311,
+            "RMA": 0.2454,
+            "SMA": 0.235,
+            "ECMS": 0.3614,
+            "NGVS": 0.1775,
+            "SDP": 0.1887,
+            "AIR": 0.1839
+        }
+    }
+}
