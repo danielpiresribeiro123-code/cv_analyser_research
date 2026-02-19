@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "R",
+        "Data Analytics",
+        "Machine learning",
+        "Statistical Modeling",
+        "Data Visualization",
+        "PROFICIENT SKILLS",
+        "Data Analytics",
+        "Data",
+        "Modeling",
+        "Data Validation",
+        "Text Mining",
+        "Python",
+        "Tableau",
+        "Forecasting",
+        "Clustering Analysis",
+        "Machine",
+        "Learning",
+        "Natural Language Processing",
+        "GIT",
+        "Report Analysis"
+    ],
+    "professional_info": {
+        "person name": [
+            "NICHOLAS MENDES"
+        ],
+        "job title": [
+            "Data Science Enthusiast",
+            "Data Analyst"
+        ],
+        "company": [],
+        "university": [],
+        "degree": [
+            "B.Tech(CSE)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "R": 0.4498,
+            "Data Analytics": 0.5512,
+            "Machine learning": 0.8191,
+            "Statistical Modeling": 0.5964,
+            "Data Visualization": 0.4183,
+            "PROFICIENT SKILLS": 0.2346,
+            "Data": 0.1516,
+            "Modeling": 0.2885,
+            "Data Validation": 0.417,
+            "Text Mining": 0.6097,
+            "Python": 0.9755,
+            "Tableau": 0.4038,
+            "Forecasting": 0.4139,
+            "Clustering Analysis": 0.5161,
+            "Machine": 0.173,
+            "Learning": 0.2192,
+            "Natural Language Processing": 0.598,
+            "GIT": 0.6364,
+            "Report Analysis": 0.2539
+        },
+        "filename": "cv (4831)_annotated.json"
+    }
+}

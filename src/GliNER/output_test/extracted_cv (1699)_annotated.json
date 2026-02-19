@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "Ability to optimize resources",
+        "equipment and materials",
+        "Able to demonstrate good organizational skills",
+        "Ability",
+        "method statements and procedures",
+        "specifications",
+        "drawings",
+        "good communicator",
+        "tools",
+        "KNOWLEDGE"
+    ],
+    "professional_info": {
+        "person name": [
+            "Waseem Siddique"
+        ],
+        "job title": [
+            "Civil Foreman",
+            "CARRIER",
+            "Civil Engineer",
+            "Steel fixers",
+            "Civil supervisor"
+        ],
+        "company": [
+            "leading  corporate",
+            "hi-tech environment",
+            "Company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Via – G. B Nagar Tarwara"
+        ],
+        "email": [
+            "Email",
+            "- siddique.technical@gmail.com"
+        ],
+        "phone": [
+            "+91896921420"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Ability to optimize resources": 0.1774,
+            "equipment and materials": 0.1647,
+            "Able to demonstrate good organizational skills": 0.1535,
+            "Ability": 0.2094,
+            "method statements and procedures": 0.1957,
+            "specifications": 0.2476,
+            "drawings": 0.1691,
+            "good communicator": 0.2349,
+            "tools": 0.1731,
+            "KNOWLEDGE": 0.4303
+        },
+        "filename": "cv (1699)_annotated.json"
+    }
+}

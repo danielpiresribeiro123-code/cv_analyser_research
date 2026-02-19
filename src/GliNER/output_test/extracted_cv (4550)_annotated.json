@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "Creative thinker",
+        "Motivated team player",
+        "results orientated",
+        "focus on achievement",
+        "project management",
+        "Administration and Management",
+        "Conflict management",
+        "Youth programming",
+        "Critical Thinking",
+        "Spotting opportunities and identifying threats",
+        "Judgment and Decision Making",
+        "Team Player",
+        "Social Perceptiveness",
+        "Active learner",
+        "Program management",
+        "Administration",
+        "Analytical thinker",
+        "Democracy and Governance",
+        "democracy expert"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "MANAGER OF PUBLIC RELATIONS AND COMMUNICATION",
+            "Collaborative manager",
+            "Team Leader"
+        ],
+        "company": [
+            "Company Name",
+            "President's Office",
+            "Prime Minister's Office",
+            "Ministry of Oil and Minerals",
+            "Company",
+            "USAID"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Creative thinker": 0.5349,
+            "Motivated team player": 0.4909,
+            "results orientated": 0.5455,
+            "focus on achievement": 0.1845,
+            "project management": 0.6106,
+            "Administration and Management": 0.4193,
+            "Conflict management": 0.907,
+            "Youth programming": 0.5445,
+            "Critical Thinking": 0.3817,
+            "Spotting opportunities and identifying threats": 0.2391,
+            "Judgment and Decision Making": 0.524,
+            "Team Player": 0.4347,
+            "Social Perceptiveness": 0.3326,
+            "Active learner": 0.4751,
+            "Program management": 0.6075,
+            "Administration": 0.6596,
+            "Analytical thinker": 0.3397,
+            "Democracy and Governance": 0.5524,
+            "democracy expert": 0.3419
+        },
+        "filename": "cv (4550)_annotated.json"
+    }
+}

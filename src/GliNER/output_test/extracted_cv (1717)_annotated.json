@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "knowledge",
+        "knowledge",
+        "working knowledge",
+        "effective analytical ability",
+        "highly creative and expressive mind",
+        "Proficient in handling operations",
+        "excellent interpersonal skills",
+        "comprehensive flaw detection and problem solving abilities",
+        "Air cooled Chillers",
+        "Package AC System",
+        "Heat load Calculation",
+        "VPF",
+        "CPVS",
+        "CPCS",
+        "Direct Expansion and Chilled water system",
+        "Comfort Air Conditioning",
+        "Industrial Air Conditioning",
+        "Ice Making",
+        "Liquefaction of Nitrogen",
+        "Cold storage",
+        "Smoke Extraction system",
+        "Supervision"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mr. GOUSE HUSSAIN PATTAN"
+        ],
+        "job title": [
+            "Mechanical Engineer",
+            "team leader",
+            "HVAC Coordinator"
+        ],
+        "company": [
+            "TRANE",
+            "York",
+            "Brahmini Food Mart",
+            "AMWAJ SERVICES",
+            "PETRO-Chemicals",
+            "Pharmaceuticals"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "5 years"
+        ],
+        "address": [],
+        "email": [
+            "Email_ID",
+            "gousehussain323@gmail.com"
+        ],
+        "phone": [
+            "Mobile No",
+            "+917893726283"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "knowledge": 0.1624,
+            "working knowledge": 0.345,
+            "effective analytical ability": 0.4637,
+            "highly creative and expressive mind": 0.4136,
+            "Proficient in handling operations": 0.2642,
+            "excellent interpersonal skills": 0.6362,
+            "comprehensive flaw detection and problem solving abilities": 0.4139,
+            "Air cooled Chillers": 0.4327,
+            "Package AC System": 0.1724,
+            "Heat load Calculation": 0.1683,
+            "VPF": 0.2082,
+            "CPVS": 0.2504,
+            "CPCS": 0.2371,
+            "Direct Expansion and Chilled water system": 0.2295,
+            "Comfort Air Conditioning": 0.2562,
+            "Industrial Air Conditioning": 0.2825,
+            "Ice Making": 0.212,
+            "Liquefaction of Nitrogen": 0.1905,
+            "Cold storage": 0.2153,
+            "Smoke Extraction system": 0.2601,
+            "Supervision": 0.3422
+        },
+        "filename": "cv (1717)_annotated.json"
+    }
+}

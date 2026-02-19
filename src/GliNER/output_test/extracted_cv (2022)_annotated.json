@@ -1,0 +1,98 @@
+{
+    "skills": [
+        "Solar Field",
+        "Elevator Field",
+        "HVAC Field",
+        "Professional MEP training",
+        "HVAC",
+        "ISHRAE",
+        "Knowledge",
+        "Chiller piping",
+        "Heat load calculations",
+        "Equipment selection",
+        "Knowledge of Sheet metal calculations",
+        "Auto-CAD",
+        "CARRIER HAP",
+        "Mc -Quay Duct sizer",
+        "Pipe sizer",
+        "Estimation and preparing BOQ",
+        "Ms Office",
+        "Word",
+        "Excel",
+        "power point",
+        "Windows",
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "THOUFEEQ RAMEEZ.M",
+            "Mechanical Engineer",
+            "Sales Manager"
+        ],
+        "company": [
+            "ACE India Private Limited-Chennai",
+            "TBEA Energy India Private Limited"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "2+ Years",
+            "Sales Experience"
+        ],
+        "address": [
+            "Permanent Address",
+            "137,Azad Road",
+            "627-006",
+            "Current Address",
+            "21/4, Kuppusamy Street",
+            "Capital Manor Apartment",
+            "600-031",
+            "ASHRAE",
+            "MAC Operating Systems"
+        ],
+        "email": [
+            "Email ID",
+            "thoufeeq92@gmail.com"
+        ],
+        "phone": [
+            "Mobile No",
+            "+91-7010030626",
+            "+91-9884432817"
+        ]
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "Solar Field": 0.8489,
+            "Elevator Field": 0.8066,
+            "HVAC Field": 0.7489,
+            "Professional MEP training": 0.191,
+            "HVAC": 0.3467,
+            "ISHRAE": 0.3839,
+            "Knowledge": 0.1962,
+            "Chiller piping": 0.4261,
+            "Heat load calculations": 0.1927,
+            "Equipment selection": 0.2095,
+            "Knowledge of Sheet metal calculations": 0.3142,
+            "Auto-CAD": 0.5737,
+            "CARRIER HAP": 0.692,
+            "Mc -Quay Duct sizer": 0.6918,
+            "Pipe sizer": 0.5883,
+            "Estimation and preparing BOQ": 0.1883,
+            "Ms Office": 0.248,
+            "Word": 0.5662,
+            "Excel": 0.5318,
+            "power point": 0.6483,
+            "Windows": 0.8569,
+            "English": 0.6982,
+            "Hindi": 0.8068,
+            "Tamil": 0.6444,
+            "Telugu": 0.4558
+        },
+        "filename": "cv (2022)_annotated.json"
+    }
+}

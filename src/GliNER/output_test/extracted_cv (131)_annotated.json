@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "Degree/Certificate",
+        "solid works",
+        "Project Area Automobile Technology",
+        "MAJOR PROJECT",
+        "Strong motivational and leadership skills",
+        "Exceptional presentation and interpersonal skills",
+        "Unmatchable communication skills",
+        "Ability to work in team",
+        "English",
+        "Hindi",
+        "Punjabi",
+        "CERTIFICATIONS",
+        "Programming in C++",
+        "Catia",
+        "COMPUTER PROFICIENCY",
+        "Operating system",
+        "Windows XP",
+        "vista/seven/eight",
+        "Ms Office",
+        "MS Excel",
+        "MS Power Point",
+        "MS Word",
+        "MS Outlook"
+    ],
+    "professional_info": {
+        "person name": [
+            "ANUJ BHANOT"
+        ],
+        "job title": [
+            "Project role",
+            "Team Leader"
+        ],
+        "company": [
+            "ESCORTS AGRI-MACHINERY (Faridabad)"
+        ],
+        "university": [
+            "CBSE",
+            "HSC",
+            "C-DAC (MOHALI)"
+        ],
+        "degree": [
+            "B.TECH (M.E) BCET (PTU)",
+            "SSC"
+        ],
+        "years of experience": [],
+        "address": [
+            "64-C",
+            "L.I.G Flats",
+            "Prasad Nagar",
+            "Rajendra Place",
+            "2011-2015"
+        ],
+        "email": [
+            "Email",
+            "anujbhanot39@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-8860875860"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "Degree/Certificate": 0.205,
+            "solid works": 0.2775,
+            "Project Area Automobile Technology": 0.7195,
+            "MAJOR PROJECT": 0.2242,
+            "Strong motivational and leadership skills": 0.3821,
+            "Exceptional presentation and interpersonal skills": 0.4766,
+            "Unmatchable communication skills": 0.3203,
+            "Ability to work in team": 0.2403,
+            "English": 0.7538,
+            "Hindi": 0.8197,
+            "Punjabi": 0.6276,
+            "CERTIFICATIONS": 0.19,
+            "Programming in C++": 0.1857,
+            "Catia": 0.2067,
+            "COMPUTER PROFICIENCY": 0.2425,
+            "Operating system": 0.2139,
+            "Windows XP": 0.9255,
+            "vista/seven/eight": 0.261,
+            "Ms Office": 0.5758,
+            "MS Excel": 0.5865,
+            "MS Power Point": 0.5306,
+            "MS Word": 0.5963,
+            "MS Outlook": 0.6304
+        },
+        "filename": "cv (131)_annotated.json"
+    }
+}

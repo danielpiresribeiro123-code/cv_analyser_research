@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "analytical and technical skills",
+        "Male",
+        "Marital Status",
+        "Unmarried",
+        "English",
+        "Hindi",
+        "Punjabi"
+    ],
+    "professional_info": {
+        "person name": [
+            "Lakhjeet Singh",
+            "Sikh"
+        ],
+        "job title": [
+            "entry-level position"
+        ],
+        "company": [
+            "H.b.s.e",
+            "Haryana Borad Of School EducationSenior",
+            "Haryana Borad Of School Education",
+            "Red Cross",
+            "Red CrossIELTS",
+            "Greay Matters",
+            "British Council",
+            "TCPDF"
+        ],
+        "university": [],
+        "degree": [
+            "Advance Diploma In Computer"
+        ],
+        "years of experience": [],
+        "address": [
+            "kamalwala",
+            "Pin Code 125120"
+        ],
+        "email": [
+            "lakhjeett@gmail.com"
+        ],
+        "phone": [
+            "+917015275262"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "analytical and technical skills": 0.2826,
+            "Male": 0.2353,
+            "Marital Status": 0.2789,
+            "Unmarried": 0.3585,
+            "English": 0.9426,
+            "Hindi": 0.9173,
+            "Punjabi": 0.9146
+        },
+        "filename": "cv (3512)_annotated.json"
+    }
+}

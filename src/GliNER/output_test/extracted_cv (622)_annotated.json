@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "Self motivated",
+        "ambitious and hardworking",
+        "BE/Computer Science and",
+        "IT Desktop Support",
+        "internal database",
+        "Windows XP"
+    ],
+    "professional_info": {
+        "person name": [
+            "JEBIN A",
+            "jebin"
+        ],
+        "job title": [
+            "IT Support Engineer",
+            "Roles",
+            "software developers"
+        ],
+        "company": [
+            "Diploma in Computer, Science and EngineeringMorning Star Polytechnic College",
+            "HSCChristucoil LMS Higher Secondary",
+            "SSLC St. Anthony's High school",
+            "Syska Gadget Pvt Ltd",
+            "Valecha Engineering Ltd",
+            "Andromeda BPO Pvt Ltd"
+        ],
+        "university": [
+            "EngineeringMar Ephraem College of Engineering"
+        ],
+        "degree": [],
+        "years of experience": [
+            "years",
+            "201271.96%",
+            "200876.8%",
+            "Apr 2012"
+        ],
+        "address": [
+            "Dubai"
+        ],
+        "email": [
+            "gmail.com",
+            "+971581802708",
+            "email",
+            "chat"
+        ],
+        "phone": [
+            "Mobile",
+            "phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Self motivated": 0.3124,
+            "ambitious and hardworking": 0.2556,
+            "BE/Computer Science and": 0.3507,
+            "IT Desktop Support": 0.1823,
+            "internal database": 0.3726,
+            "Windows XP": 0.9329
+        },
+        "filename": "cv (622)_annotated.json"
+    }
+}

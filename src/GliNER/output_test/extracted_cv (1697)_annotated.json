@@ -1,0 +1,105 @@
+{
+    "skills": [
+        "CPM scheduling",
+        "Ms Project",
+        "Primavera P3",
+        "P6 V 8.3",
+        "Co-ordination  and  resource  management",
+        "AutoCAD",
+        "RiskManagement Earned  value  management",
+        "General  construction  &Maintenance",
+        "Male",
+        "Single",
+        "English",
+        "Tamil",
+        "Hindi",
+        "Candy Certificate",
+        "Site Plan General Course",
+        "Faas Track",
+        "technical skills",
+        "enthusiastic",
+        "team work",
+        "committed and dedicated people",
+        "Project Planning",
+        "Project Execution",
+        "project planning & scheduling",
+        "project management skills",
+        "primavera 3.1",
+        "5.0",
+        "6.0 V 8.3",
+        "Monitoring and reporting",
+        "Primavera 6 V8.1"
+    ],
+    "professional_info": {
+        "person name": [
+            "Senior Planning EngineerKey",
+            "Jayakumar Murugesan",
+            "Jayakumar"
+        ],
+        "job title": [
+            "Sr. Engineer",
+            "key player"
+        ],
+        "company": [
+            "CCCL",
+            "leading corporate"
+        ],
+        "university": [
+            "Meenakshi Amman College of Engineering and Technology",
+            "Pandiyan Polytechnic",
+            "Gulf Contracting Company WLL"
+        ],
+        "degree": [
+            "Bachelor of Civil Engineering",
+            "Diploma in Civil Engineering"
+        ],
+        "years of experience": [
+            "Excellent grasping power",
+            "Positive attitude"
+        ],
+        "address": [
+            "Pillayar Koil Street"
+        ],
+        "email": [
+            "jindiran@gmail.com"
+        ],
+        "phone": [
+            "+91 - 9677557454"
+        ]
+    },
+    "metadata": {
+        "total_skills": 29,
+        "confidence_scores": {
+            "CPM scheduling": 0.4016,
+            "Ms Project": 0.5203,
+            "Primavera P3": 0.6426,
+            "P6 V 8.3": 0.3293,
+            "Co-ordination  and  resource  management": 0.262,
+            "AutoCAD": 0.6002,
+            "RiskManagement Earned  value  management": 0.3421,
+            "General  construction  &Maintenance": 0.2187,
+            "Male": 0.1666,
+            "Single": 0.1778,
+            "English": 0.5695,
+            "Tamil": 0.6247,
+            "Hindi": 0.6874,
+            "Candy Certificate": 0.7081,
+            "Site Plan General Course": 0.2905,
+            "Faas Track": 0.4422,
+            "technical skills": 0.4619,
+            "enthusiastic": 0.247,
+            "team work": 0.1544,
+            "committed and dedicated people": 0.4203,
+            "Project Planning": 0.309,
+            "Project Execution": 0.2817,
+            "project planning & scheduling": 0.3173,
+            "project management skills": 0.3209,
+            "primavera 3.1": 0.4984,
+            "5.0": 0.2482,
+            "6.0 V 8.3": 0.2923,
+            "Monitoring and reporting": 0.2114,
+            "Primavera 6 V8.1": 0.5379
+        },
+        "filename": "cv (1697)_annotated.json"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "skills": [
+        "Exceptional coaching",
+        "FAR/AIM",
+        "Part 135 Rules and Regulations",
+        "FOS/NT",
+        "Microsoft Word",
+        "Excel",
+        "Outlook"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "TRIP COORDINATOR",
+            "Financial Technician",
+            "Manager of Operational Finance",
+            "Financial Analyst",
+            "Manager",
+            "Manager Operational Finance"
+        ],
+        "company": [
+            "Microsoft",
+            "Company Name",
+            "City , State"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Exceptional coaching": 0.2377,
+            "FAR/AIM": 0.3488,
+            "Part 135 Rules and Regulations": 0.2072,
+            "FOS/NT": 0.6192,
+            "Microsoft Word": 0.4862,
+            "Excel": 0.5553,
+            "Outlook": 0.3456
+        },
+        "filename": "cv (4424)_annotated.json"
+    }
+}

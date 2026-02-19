@@ -1,0 +1,45 @@
+{
+    "skills": [
+        "progressive management experience",
+        "Management information systems",
+        "Software/hardware support",
+        "government training and certification program",
+        "analysis of radiation spectra"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "OPERATIONS RESEARCH ANALYST",
+            "project manager",
+            "Information Technology Specialist",
+            "Data Collection and Test Manager",
+            "technical expert"
+        ],
+        "company": [
+            "Department of Homeland Security National Urban Security Technology Laboratory",
+            "New York Police Department",
+            "Company Name",
+            "City , State",
+            "Brookhaven National Laboratory"
+        ],
+        "university": [],
+        "degree": [
+            "Test and Evaluation Manager Level II"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "progressive management experience": 0.1848,
+            "Management information systems": 0.2429,
+            "Software/hardware support": 0.2425,
+            "government training and certification program": 0.5189,
+            "analysis of radiation spectra": 0.2514
+        },
+        "filename": "cv (4781)_annotated.json"
+    }
+}

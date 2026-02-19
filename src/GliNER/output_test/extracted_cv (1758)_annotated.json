@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "account management",
+        "technical  skills",
+        "C a r e e r  S k i l l s",
+        "Proficiency",
+        "Tally  ERP",
+        "Ms  Office",
+        "Accounting",
+        "Corporate  Finance",
+        "Reporting Skills",
+        "Attention  to  Detail",
+        "Deadline-Oriented",
+        "Reporting  Research  Results",
+        "GAAP  rules",
+        "confidentially",
+        "Time  management",
+        "Data  entry  management",
+        "Project  Management",
+        "Preparing  accounts  and  tax  returns",
+        "Office Administration",
+        "Client  Relations",
+        "Expense  reporting",
+        "Vendor  &  Suppliers",
+        "Financial  forecasting  and  risk  analysis",
+        "statement of accounts",
+        "Cashier operations",
+        "Bank reconciliation statement",
+        "chart of accounts"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "account representative",
+            "Designation",
+            "Accountant"
+        ],
+        "company": [
+            "Firstpoint Construction"
+        ],
+        "university": [],
+        "degree": [
+            "Bachelor in C o m m e r c e"
+        ],
+        "years of experience": [
+            "3+ years",
+            "3 Years"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "naseerahmedkhan7@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+918688272671"
+        ]
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "account management": 0.4124,
+            "technical  skills": 0.2647,
+            "C a r e e r  S k i l l s": 0.1797,
+            "Proficiency": 0.2244,
+            "Tally  ERP": 0.5897,
+            "Ms  Office": 0.5247,
+            "Accounting": 0.5154,
+            "Corporate  Finance": 0.5129,
+            "Reporting Skills": 0.4485,
+            "Attention  to  Detail": 0.5073,
+            "Deadline-Oriented": 0.4312,
+            "Reporting  Research  Results": 0.2329,
+            "GAAP  rules": 0.3779,
+            "confidentially": 0.1854,
+            "Time  management": 0.3761,
+            "Data  entry  management": 0.5097,
+            "Project  Management": 0.3332,
+            "Preparing  accounts  and  tax  returns": 0.1578,
+            "Office Administration": 0.3662,
+            "Client  Relations": 0.3561,
+            "Expense  reporting": 0.2589,
+            "Vendor  &  Suppliers": 0.1933,
+            "Financial  forecasting  and  risk  analysis": 0.2056,
+            "statement of accounts": 0.1713,
+            "Cashier operations": 0.1892,
+            "Bank reconciliation statement": 0.2033,
+            "chart of accounts": 0.2038
+        },
+        "filename": "cv (1758)_annotated.json"
+    }
+}

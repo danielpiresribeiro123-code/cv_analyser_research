@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "Course College/University YearAggregate",
+        "AutomobileEngineering",
+        "Diploma",
+        "EngineMechanic",
+        "Tyrewearexpert",
+        "FuelEfficiencycoordinator",
+        "DieselengineDiagnosis",
+        "TyreExpertandFuelefficiencyprofibilityexpertforbetterresultsandmoreprofitability",
+        "SparepartMaintainancepassengervehicleCommercialheavyearthmoversrepairandmaintenance",
+        "04-08-1996",
+        "Male",
+        "English",
+        "Hindi",
+        "Punjabi"
+    ],
+    "professional_info": {
+        "person name": [
+            "ROHITKUMAR",
+            "TarnTaran",
+            "PERSONALDOSSIER",
+            "ANILKUMAR",
+            "SHASHI",
+            "Iherebydeclarethatthedetailsmentionedabovearetruetothebest"
+        ],
+        "job title": [
+            "ServiceEngineer",
+            "SeniorMotorMechanic"
+        ],
+        "company": [
+            "PunjabStateBoardOfTechnical",
+            "CASTLETOYOTA",
+            "VolvoEicherCommercialVehiclesPvtLtdNewDelhi",
+            "AutoworldtradingfijiLtd"
+        ],
+        "university": [
+            "ACADEMICCREDENTIALS",
+            "SecondarySchool",
+            "PunjabStateEducationBoard 2012"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "India143001"
+        ],
+        "email": [
+            "Email",
+            "Rohitkumar481996@Gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+918427230649"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Course College/University YearAggregate": 0.2053,
+            "AutomobileEngineering": 0.335,
+            "Diploma": 0.5087,
+            "EngineMechanic": 0.4604,
+            "Tyrewearexpert": 0.7895,
+            "FuelEfficiencycoordinator": 0.636,
+            "DieselengineDiagnosis": 0.5698,
+            "TyreExpertandFuelefficiencyprofibilityexpertforbetterresultsandmoreprofitability": 0.4161,
+            "SparepartMaintainancepassengervehicleCommercialheavyearthmoversrepairandmaintenance": 0.2673,
+            "04-08-1996": 0.1973,
+            "Male": 0.2535,
+            "English": 0.7157,
+            "Hindi": 0.8464,
+            "Punjabi": 0.7699
+        },
+        "filename": "cv (2935)_annotated.json"
+    }
+}

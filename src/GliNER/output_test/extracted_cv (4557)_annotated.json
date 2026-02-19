@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "skills",
+        "experience",
+        "professional dedication",
+        "Experienced",
+        "results oriented",
+        "Leadership",
+        "Proven Project Management Skills",
+        "Strategic Account Planning",
+        "Strong Analytical Skills",
+        "Customer Experience/Retention",
+        "Excellent Negotiation Skills",
+        "project management",
+        "business automation"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT ACCOUNT",
+            "Customer Service Supervisor",
+            "management",
+            "Customer Operations Supervisor"
+        ],
+        "company": [
+            "Company Name",
+            "Verizon"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "14 years"
+        ],
+        "address": [],
+        "email": [
+            "404"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "skills": 0.258,
+            "experience": 0.2522,
+            "professional dedication": 0.1742,
+            "Experienced": 0.26,
+            "results oriented": 0.2656,
+            "Leadership": 0.6465,
+            "Proven Project Management Skills": 0.3579,
+            "Strategic Account Planning": 0.2116,
+            "Strong Analytical Skills": 0.4712,
+            "Customer Experience/Retention": 0.1713,
+            "Excellent Negotiation Skills": 0.2217,
+            "project management": 0.1716,
+            "business automation": 0.2171
+        },
+        "filename": "cv (4557)_annotated.json"
+    }
+}

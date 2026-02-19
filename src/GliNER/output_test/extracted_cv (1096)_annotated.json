@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "Good consumer relations skills",
+        "Good interpersonal and intrapersonal skills",
+        "Excellent team player",
+        "Responsible and reliable",
+        "Quick learner",
+        "NVQJ",
+        "Data Operation Level 2",
+        "Data Base applications",
+        "Creating presentations and multimedia programmed",
+        "Microsoft Word",
+        "Microsoft Power Point",
+        "Spreadsheets for Data analysis",
+        "Data Base Application",
+        "Mathematic                               CXC 4",
+        "English Language",
+        "CXC 2",
+        "CXC 3",
+        "CXC 2Experience"
+    ],
+    "professional_info": {
+        "person name": [
+            "Oniel Conroy Campbell"
+        ],
+        "job title": [
+            "Computer Repair Technician",
+            "Computer Technician",
+            "Merchandiser",
+            "Video Game Technician",
+            "Software/Hardware Installation",
+            "Sales Representative/Delivery Representatives"
+        ],
+        "company": [
+            "International Information Technology Institute",
+            "Cyber City Plus",
+            "Computer Tech LTD",
+            "Price Smart LTD",
+            "Self-Employed",
+            "Forth George Botanical",
+            "Good Source Trading",
+            "Palm Rose Distributors"
+        ],
+        "university": [
+            "Infoserv Institute of Technology"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "26 Shakespeare Avenue",
+            "Duhaney Park",
+            "Kingston 20"
+        ],
+        "email": [
+            "djclothzpin@yahoo.com"
+        ],
+        "phone": [
+            "876-377-2340"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Good consumer relations skills": 0.6435,
+            "Good interpersonal and intrapersonal skills": 0.4872,
+            "Excellent team player": 0.6286,
+            "Responsible and reliable": 0.6222,
+            "Quick learner": 0.5845,
+            "NVQJ": 0.3843,
+            "Data Operation Level 2": 0.815,
+            "Data Base applications": 0.5309,
+            "Creating presentations and multimedia programmed": 0.1651,
+            "Microsoft Word": 0.4556,
+            "Microsoft Power Point": 0.3162,
+            "Spreadsheets for Data analysis": 0.536,
+            "Data Base Application": 0.592,
+            "Mathematic                               CXC 4": 0.4038,
+            "English Language": 0.335,
+            "CXC 2": 0.4263,
+            "CXC 3": 0.2693,
+            "CXC 2Experience": 0.161
+        },
+        "filename": "cv (1096)_annotated.json"
+    }
+}

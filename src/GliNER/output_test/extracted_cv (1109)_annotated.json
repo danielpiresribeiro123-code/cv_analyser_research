@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "competent",
+        "web",
+        "PHP",
+        "Zend",
+        "Framework",
+        "SQL",
+        "MySQL",
+        "PostgreSQL",
+        "Oracle",
+        "JavaScript",
+        "JQuery",
+        "UI",
+        "AJAX",
+        "HTML",
+        "CSS",
+        "XML",
+        "SVN",
+        "expertise",
+        "Windows",
+        "Network",
+        "Omzest",
+        "Development",
+        "Js",
+        "information",
+        "management"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "NOUFAL",
+            "developer",
+            "Riyam",
+            "Group",
+            "Sulthanate",
+            "Job",
+            "LCIS",
+            "Employee",
+            "MFRS"
+        ],
+        "company": [
+            "company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "domain"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "competent": 0.2474,
+            "web": 0.8881,
+            "PHP": 0.9884,
+            "Zend": 0.6452,
+            "Framework": 0.2942,
+            "SQL": 0.3255,
+            "MySQL": 0.8383,
+            "PostgreSQL": 0.8157,
+            "Oracle": 0.7353,
+            "JavaScript": 0.2242,
+            "JQuery": 0.3966,
+            "UI": 0.2842,
+            "AJAX": 0.7726,
+            "HTML": 0.9374,
+            "CSS": 0.2595,
+            "XML": 0.6107,
+            "SVN": 0.5199,
+            "expertise": 0.2333,
+            "Windows": 0.9496,
+            "Network": 0.1998,
+            "Omzest": 0.4246,
+            "Development": 0.1504,
+            "Js": 0.2977,
+            "information": 0.1588,
+            "management": 0.1654
+        },
+        "filename": "cv (1109)_annotated.json"
+    }
+}

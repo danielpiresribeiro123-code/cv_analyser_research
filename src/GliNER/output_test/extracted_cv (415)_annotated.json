@@ -1,0 +1,119 @@
+{
+    "skills": [
+        "Software Development",
+        "Certification",
+        "HTML",
+        "HTML5",
+        "CSS",
+        "CSS3",
+        "PHP",
+        "WORDPRESS",
+        "BOOTSTRAP",
+        "MYSQL",
+        "Ajax",
+        "Javascript",
+        "XML",
+        "CakePHP",
+        "Codeigniter",
+        "PrestaShop",
+        "osCommerce",
+        "PHP-CMS",
+        "Joomla",
+        "Drupal",
+        "LAMP",
+        "WAMP",
+        "MAMP",
+        "VertrigoServ",
+        "Windows Enterprise",
+        "Linux",
+        "MacBook Pro",
+        "Notepad++",
+        "Dreamweaver",
+        "Navicat",
+        "OOPS",
+        "Web services",
+        "WSDL",
+        "SOAP",
+        "Apche",
+        "DNS",
+        "FTP",
+        "SSL",
+        "SSH"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHD. RASHID",
+            "Indian",
+            "Fresher"
+        ],
+        "job title": [],
+        "company": [
+            "IT PEOPLE",
+            "PayPal",
+            "Facebook"
+        ],
+        "university": [
+            "MCAIndira Gandhi National Open University New Delhi",
+            "BCAIndira Gandhi National Open University New Delhi"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "H.No. E/616",
+            "Street No.1"
+        ],
+        "email": [
+            "Email Id",
+            "rashidsaifi590@gmail.com",
+            "E-Mail"
+        ],
+        "phone": [
+            "+91-9873741680"
+        ]
+    },
+    "metadata": {
+        "total_skills": 39,
+        "confidence_scores": {
+            "Software Development": 0.1927,
+            "Certification": 0.252,
+            "HTML": 0.6918,
+            "HTML5": 0.7723,
+            "CSS": 0.5159,
+            "CSS3": 0.7445,
+            "PHP": 0.9914,
+            "WORDPRESS": 0.1644,
+            "BOOTSTRAP": 0.2677,
+            "MYSQL": 0.6174,
+            "Ajax": 0.6128,
+            "Javascript": 0.5586,
+            "XML": 0.8646,
+            "CakePHP": 0.5965,
+            "Codeigniter": 0.5544,
+            "PrestaShop": 0.254,
+            "osCommerce": 0.2834,
+            "PHP-CMS": 0.5111,
+            "Joomla": 0.2917,
+            "Drupal": 0.4082,
+            "LAMP": 0.3173,
+            "WAMP": 0.4494,
+            "MAMP": 0.4741,
+            "VertrigoServ": 0.3307,
+            "Windows Enterprise": 0.9566,
+            "Linux": 0.9385,
+            "MacBook Pro": 0.8087,
+            "Notepad++": 0.3171,
+            "Dreamweaver": 0.5188,
+            "Navicat": 0.3009,
+            "OOPS": 0.1614,
+            "Web services": 0.3495,
+            "WSDL": 0.9115,
+            "SOAP": 0.8836,
+            "Apche": 0.2273,
+            "DNS": 0.1974,
+            "FTP": 0.3251,
+            "SSL": 0.7213,
+            "SSH": 0.1994
+        },
+        "filename": "cv (415)_annotated.json"
+    }
+}

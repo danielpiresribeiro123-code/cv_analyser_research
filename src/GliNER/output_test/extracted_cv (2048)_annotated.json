@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "highly self-motivated",
+        "enthusiastic",
+        "experienced Finance & Accounting professional",
+        "retail finance Sectors",
+        "Accounting Standards",
+        "Budget Systems",
+        "Sound communication skills",
+        "Highly organized",
+        "Team player",
+        "External audit group",
+        "bank software",
+        "Fin one",
+        "MIS"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUBASH KUMAR PRADHAN"
+        ],
+        "job title": [
+            "ASST MANAGER",
+            "Sr Executive Accounts & finance"
+        ],
+        "company": [
+            "GROUP MANAGEMENT SERVICES PVT LTD"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "highly self-motivated": 0.2009,
+            "enthusiastic": 0.2017,
+            "experienced Finance & Accounting professional": 0.1812,
+            "retail finance Sectors": 0.1508,
+            "Accounting Standards": 0.4841,
+            "Budget Systems": 0.2394,
+            "Sound communication skills": 0.3507,
+            "Highly organized": 0.2845,
+            "Team player": 0.3204,
+            "External audit group": 0.179,
+            "bank software": 0.2697,
+            "Fin one": 0.5838,
+            "MIS": 0.225
+        },
+        "filename": "cv (2048)_annotated.json"
+    }
+}

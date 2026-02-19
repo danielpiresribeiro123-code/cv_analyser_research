@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "Well organized",
+        "thorough",
+        "dedicated professional",
+        "Experience",
+        "social work",
+        "TESOL certified",
+        "English",
+        "technology",
+        "Skills",
+        "Creative Lesson Planning",
+        "Instructional Best Practices",
+        "Curriculum Development",
+        "Classroom Management",
+        "Standardized Testing",
+        "Learner Assessment",
+        "Technology-Based Instruction",
+        "Customer Service",
+        "Problem Resolution",
+        "Communication / Presentation",
+        "Interpersonal Relationships",
+        "Teamwork",
+        "Compliance / Policies / Procedures",
+        "listening and speaking skills"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "ENGLISH TEACHER",
+            "Shampoo Staff",
+            "Counselor",
+            "direct service staff"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [
+            "Degree"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "Well organized": 0.2726,
+            "thorough": 0.2361,
+            "dedicated professional": 0.2326,
+            "Experience": 0.2576,
+            "social work": 0.6483,
+            "TESOL certified": 0.871,
+            "English": 0.923,
+            "technology": 0.2269,
+            "Skills": 0.1553,
+            "Creative Lesson Planning": 0.3731,
+            "Instructional Best Practices": 0.4076,
+            "Curriculum Development": 0.4162,
+            "Classroom Management": 0.342,
+            "Standardized Testing": 0.4836,
+            "Learner Assessment": 0.2225,
+            "Technology-Based Instruction": 0.3887,
+            "Customer Service": 0.3345,
+            "Problem Resolution": 0.2489,
+            "Communication / Presentation": 0.3113,
+            "Interpersonal Relationships": 0.554,
+            "Teamwork": 0.1754,
+            "Compliance / Policies / Procedures": 0.3353,
+            "listening and speaking skills": 0.2618
+        },
+        "filename": "cv (4486)_annotated.json"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Technical Skills",
+        "Windows- XP",
+        "Windows - 7",
+        "Ms-office",
+        "Photoshop",
+        "Corel Draw",
+        "Flash",
+        "Telugu",
+        "English",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "PATTAN.ALLAH BAKSHU",
+            "Pattan Allah Bakshu",
+            "P.Sattar",
+            "PATTAN.ALLAH BAKSHUDeclaration"
+        ],
+        "job title": [
+            "Customer service executive",
+            "Asst.Bodyshop incharge"
+        ],
+        "company": [
+            "G.K.R Public school",
+            "Costal Insurance Brokers Pvt ltd",
+            "TMFL",
+            "NATIONAL INSURANCE",
+            "TATA Motors",
+            "Varun Motors Pvt Ltd"
+        ],
+        "university": [
+            "Shobhith University"
+        ],
+        "degree": [],
+        "years of experience": [
+            "July 04th, 1986",
+            "Married"
+        ],
+        "address": [
+            "Nalanda High School Road"
+        ],
+        "email": [
+            "Email",
+            "pattanbakshu1@gmail.com",
+            "BA Degree"
+        ],
+        "phone": [
+            "Mobile",
+            "8143222456",
+            "Phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Technical Skills": 0.1856,
+            "Windows- XP": 0.9423,
+            "Windows - 7": 0.9074,
+            "Ms-office": 0.658,
+            "Photoshop": 0.7523,
+            "Corel Draw": 0.5337,
+            "Flash": 0.4477,
+            "Telugu": 0.4825,
+            "English": 0.5249,
+            "Hindi": 0.5815
+        },
+        "filename": "cv (1585)_annotated.json"
+    }
+}

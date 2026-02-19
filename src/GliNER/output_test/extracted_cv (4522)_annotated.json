@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "Microbiology",
+        "Quality and foodsafety",
+        "Microbial Toxicology",
+        "GMP",
+        "HACCP",
+        "Statistics management tools",
+        "ISO 9001: 2000"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "food protection specialist",
+            "food handlers",
+            "Internal Quality Auditor"
+        ],
+        "company": [
+            "food companies",
+            "Company Name"
+        ],
+        "university": [
+            "University Austral of Chile",
+            "University of Pamplona",
+            "University of Santander",
+            "UDES",
+            "Industrial University of Santander",
+            "Pontificia Universidad Javeriana",
+            "University of BoyacÃ¡"
+        ],
+        "degree": [
+            "Master of Science"
+        ],
+        "years of experience": [
+            "Experience"
+        ],
+        "address": [
+            "Valdivia",
+            "Pamplona",
+            "BogotÃ¡",
+            "Bucaramanga",
+            "Tunja",
+            "Cartagena"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Microbiology": 0.7655,
+            "Quality and foodsafety": 0.2503,
+            "Microbial Toxicology": 0.6757,
+            "GMP": 0.4646,
+            "HACCP": 0.6256,
+            "Statistics management tools": 0.436,
+            "ISO 9001: 2000": 0.8455
+        },
+        "filename": "cv (4522)_annotated.json"
+    }
+}

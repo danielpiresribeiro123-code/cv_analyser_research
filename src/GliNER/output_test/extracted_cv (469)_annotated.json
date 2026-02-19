@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "Service Operations",
+        "K7991513",
+        "Driving license",
+        "64593",
+        "English",
+        "Hindi",
+        "Engineering",
+        "HVAC",
+        "leading knowledge & technologies",
+        "competent",
+        "process driven management",
+        "Good research aptitude",
+        "networking management",
+        "Expertise",
+        "Centralized AC Plants",
+        "Air Handling Units",
+        "VRF",
+        "Ductable & Cassette Type Units",
+        "Core Competencies",
+        "Testing & Commissioning",
+        "Training and Development"
+    ],
+    "professional_info": {
+        "person name": [
+            "ANKUR SENDWAL"
+        ],
+        "job title": [
+            "HVAC PROFESSIONAL",
+            "Engineering Professional",
+            "Engineer"
+        ],
+        "company": [
+            "Indian",
+            "Mitsubishi Heavy Industries"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "3 years of experience"
+        ],
+        "address": [
+            "Permanent Address",
+            "H. No. 208/22 Krishna Nagar"
+        ],
+        "email": [
+            "E-Mail",
+            "ankur.sendwal@gmail.com"
+        ],
+        "phone": [
+            "+97 1-588990644",
+            "+91 -9996419028"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Service Operations": 0.4471,
+            "K7991513": 0.1902,
+            "Driving license": 0.1794,
+            "64593": 0.2405,
+            "English": 0.7022,
+            "Hindi": 0.6756,
+            "Engineering": 0.2186,
+            "HVAC": 0.2115,
+            "leading knowledge & technologies": 0.1609,
+            "competent": 0.1884,
+            "process driven management": 0.3063,
+            "Good research aptitude": 0.4751,
+            "networking management": 0.4011,
+            "Expertise": 0.4265,
+            "Centralized AC Plants": 0.2471,
+            "Air Handling Units": 0.1838,
+            "VRF": 0.23,
+            "Ductable & Cassette Type Units": 0.1843,
+            "Core Competencies": 0.2931,
+            "Testing & Commissioning": 0.1835,
+            "Training and Development": 0.3636
+        },
+        "filename": "cv (469)_annotated.json"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "creative skills",
+        "AutoCAD",
+        "Solid Works"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAJKUMAR",
+            "rajakumaran_1978",
+            "I"
+        ],
+        "job title": [
+            "SUPERVISOR",
+            "APPRENTICESSHIP TRAINEE",
+            "JUNIOR  EXECUTIVE",
+            "DESIGN  ASSITANT",
+            "DESIGNER",
+            "DESIGN ENGINEER"
+        ],
+        "company": [
+            "M/s. JOTHI MICRO CASTINGS PVT LTD.",
+            "GOVT.AUTOMOBILE WORKSHOP",
+            "M/s. CETHAR LIMITED",
+            "M/s.  ANDRITZ TECHNOLOGIES PRIVATE LIMITED",
+            "FEED AND BIO FUEL DEVISION",
+            "M/s. TORP SYSTEMS PRIVATE LIMITED",
+            "CETHAR LIMITED",
+            "M/s. Sakthi Sugars Ltd.",
+            "Vandana Energy & Steels (P) Ltd.",
+            "M/s. Orient Cements Ltd.",
+            "M/s. Binani Cements"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Mobile"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 9894930708"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "creative skills": 0.2611,
+            "AutoCAD": 0.6431,
+            "Solid Works": 0.6927
+        },
+        "filename": "cv (1785)_annotated.json"
+    }
+}

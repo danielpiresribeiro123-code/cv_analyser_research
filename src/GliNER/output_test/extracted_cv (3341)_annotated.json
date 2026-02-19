@@ -1,0 +1,42 @@
+{
+    "skills": [
+        "12TH PAS S",
+        "BASIC COMPUTER   CERTIFICATE",
+        "FRESHER"
+    ],
+    "professional_info": {
+        "person name": [
+            "RISHABH SINGH RANA",
+            "FATHER",
+            "MR. DALEEP SINGH RAN A",
+            "MOTHER",
+            "MRS. GAYTRI DEVI",
+            "VILL",
+            "SUNKHARI KALAN",
+            "UDHAM SINGH  NAGAR"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "EXPERIENCE"
+        ],
+        "address": [
+            "NANAKMATTA",
+            "262311",
+            "UK"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "12TH PAS S": 0.284,
+            "BASIC COMPUTER   CERTIFICATE": 0.9683,
+            "FRESHER": 0.1786
+        },
+        "filename": "cv (3341)_annotated.json"
+    }
+}

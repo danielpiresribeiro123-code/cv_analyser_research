@@ -57,7 +57,7 @@ def process_folder_and_save(input_folder_path: str = None, output_folder_name: s
     paths = load_paths()
     project_root = Path(paths["project_root"])
     
-    input_dir = project_root / "data"/"raw"/"GliNER_test"
+    input_dir = project_root / "data"/"raw"/"Json"
     output_dir = project_root / "src"/"GliNER"/"output_test"
     output_dir.mkdir(parents=True, exist_ok=True)
 

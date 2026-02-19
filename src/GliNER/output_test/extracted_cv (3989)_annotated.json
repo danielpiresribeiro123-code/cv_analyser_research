@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "ACADEMICS QUALIFICATION",
+        "Fire & Safety",
+        "management",
+        "University201289%",
+        "TECHNICAL SKILLS",
+        "Language Skills",
+        "C",
+        "C++",
+        "Windows XP",
+        "Windows 7"
+    ],
+    "professional_info": {
+        "person name": [
+            "VISHWANATHAN.G"
+        ],
+        "job title": [
+            "trainee",
+            "PROJECT TITLE",
+            "management"
+        ],
+        "company": [
+            "Asia (Chennai) engineering company pvt. Ltd ."
+        ],
+        "university": [
+            "Sri Sai Institute of fire &",
+            "Open",
+            "D ECESri  Krishna  polytechnic",
+            "SSLCSt",
+            "Andrews"
+        ],
+        "degree": [
+            "PG Diploma"
+        ],
+        "years of experience": [
+            "EXPERIENCE"
+        ],
+        "address": [
+            "No 59",
+            "Udayar street",
+            "Melpakkam",
+            "Pin. 631 002"
+        ],
+        "email": [
+            "E-mail",
+            "vishwanathan.ec@gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "9894226437&9551864151"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "ACADEMICS QUALIFICATION": 0.2716,
+            "Fire & Safety": 0.1883,
+            "management": 0.2625,
+            "University201289%": 0.325,
+            "TECHNICAL SKILLS": 0.3846,
+            "Language Skills": 0.2843,
+            "C": 0.6932,
+            "C++": 0.7721,
+            "Windows XP": 0.9702,
+            "Windows 7": 0.9644
+        },
+        "filename": "cv (3989)_annotated.json"
+    }
+}

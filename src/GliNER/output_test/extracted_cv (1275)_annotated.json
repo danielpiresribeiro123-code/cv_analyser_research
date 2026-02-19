@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "FIME",
+        "Programa de Cooperación de Posgrado",
+        "Síntesis y Caracterización de Materiales",
+        "PROMEP"
+    ],
+    "professional_info": {
+        "person name": [
+            "Juan Antonio AGUILAR GARIB",
+            "Dr. AGUILAR GARIB"
+        ],
+        "job title": [
+            "Profesor Titular"
+        ],
+        "company": [
+            "Kemet de México",
+            "Marion Technologies"
+        ],
+        "university": [
+            "Universidad Autónoma de Nuevo León",
+            "UANL",
+            "Instituto Tecnológico de Saltillo",
+            "Universidad de Texas en Austin",
+            "ANUIES",
+            "Universidad Paul Sabatier",
+            "ECOS",
+            "Universidad de Toulouse"
+        ],
+        "degree": [
+            "Doctorado en Ingeniería de Materiales",
+            "Licenciatura en Ingeniería Mecánica",
+            "Maestría en Metalurgia",
+            "doctor en cotutela"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "FIME": 0.1768,
+            "Programa de Cooperación de Posgrado": 0.1703,
+            "Síntesis y Caracterización de Materiales": 0.1932,
+            "PROMEP": 0.2043
+        },
+        "filename": "cv (1275)_annotated.json"
+    }
+}

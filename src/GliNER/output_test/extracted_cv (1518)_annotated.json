@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "CAREER OBJECTIVE",
+        "my",
+        "MCA",
+        "Computer",
+        "Science",
+        "CAPABILITIES",
+        "Positive thinking",
+        "hardworking",
+        "HOBBIES",
+        "Programming",
+        "Hearing music",
+        "Reading",
+        "Marital"
+    ],
+    "professional_info": {
+        "person name": [
+            "hans",
+            "roever",
+            "Mark",
+            "A. Arul"
+        ],
+        "job title": [
+            "Computer Educator",
+            "Computer Teacher"
+        ],
+        "company": [],
+        "university": [
+            "Bharathidasan",
+            "University",
+            "NMC",
+            "Bharathidasan University",
+            "Seppakkam",
+            "SSLC"
+        ],
+        "degree": [
+            "BSc.",
+            "HSC",
+            "Hindu"
+        ],
+        "years of experience": [],
+        "address": [
+            "2/6",
+            "Ground Floor",
+            "3rd Main Road",
+            "Hindu Colony",
+            "Puthanampatti",
+            "Velachery Chennai"
+        ],
+        "email": [
+            "E-mail",
+            "Arunaarulmca@gmail.com",
+            "Pin: 600 091"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-7708207520"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "CAREER OBJECTIVE": 0.1703,
+            "my": 0.172,
+            "MCA": 0.5608,
+            "Computer": 0.4784,
+            "Science": 0.3913,
+            "CAPABILITIES": 0.2839,
+            "Positive thinking": 0.3528,
+            "hardworking": 0.23,
+            "HOBBIES": 0.1868,
+            "Programming": 0.5807,
+            "Hearing music": 0.2097,
+            "Reading": 0.1938,
+            "Marital": 0.219
+        },
+        "filename": "cv (1518)_annotated.json"
+    }
+}

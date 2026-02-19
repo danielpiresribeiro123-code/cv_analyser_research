@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "Havingpolitenatureandhaveabilitytodohardwork",
+        "experiencewillbefurtherdevelopedandutilized",
+        "EXPERIENCE",
+        "CA-CommonProficiencyTest",
+        "KNOWLEDGE",
+        "HavesoundKnowledgeofMicrosoftdynamicNAV",
+        "MSExcelinVlookUp",
+        "Pivot",
+        "Table",
+        "ConditionalFormatting",
+        "DataFormulas"
+    ],
+    "professional_info": {
+        "person name": [
+            "DarshanH.Soni",
+            "Darshansoni"
+        ],
+        "job title": [
+            "JOBTITLE",
+            "In-ChargeofstockcheckingonpaperaswellasofCreatingPurchase",
+            "Charteredaccountant",
+            "Asaaccountant",
+            "Asaofficeassistant",
+            "chargeofficer"
+        ],
+        "company": [
+            "SmartwayPharmaceuticalLtd",
+            "Vipulkothari&co.",
+            "CRMBusinessservices"
+        ],
+        "university": [],
+        "degree": [
+            "BachlorofCommerce"
+        ],
+        "years of experience": [],
+        "address": [
+            "A/403Karmabhumisociety",
+            "Canalroad",
+            "Adajan",
+            "surat-09",
+            "London",
+            "Vijaycrossroad",
+            "Ahmedabad"
+        ],
+        "email": [
+            "004sony@gmail.com",
+            "ACADEMICQUALIFICATION",
+            "B.COM"
+        ],
+        "phone": [
+            "+917405064108"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Havingpolitenatureandhaveabilitytodohardwork": 0.2341,
+            "experiencewillbefurtherdevelopedandutilized": 0.2793,
+            "EXPERIENCE": 0.2656,
+            "CA-CommonProficiencyTest": 0.393,
+            "KNOWLEDGE": 0.175,
+            "HavesoundKnowledgeofMicrosoftdynamicNAV": 0.1883,
+            "MSExcelinVlookUp": 0.3463,
+            "Pivot": 0.2947,
+            "Table": 0.2286,
+            "ConditionalFormatting": 0.2745,
+            "DataFormulas": 0.2856
+        },
+        "filename": "cv (686)_annotated.json"
+    }
+}

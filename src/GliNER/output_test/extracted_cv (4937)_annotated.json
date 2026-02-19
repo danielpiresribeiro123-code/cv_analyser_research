@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "Customer Engagement Module",
+        "database",
+        "recommender system",
+        "data cleaning",
+        "SKILLS",
+        "Data Analytics",
+        "Artificial",
+        "Intelligence",
+        "Data Visualization",
+        "Machine Learning",
+        "Python",
+        "Data",
+        "Wrangling",
+        "Featurization",
+        "Heuristics",
+        "Data Structures",
+        "PROJECTS",
+        "Price Forecasting using Time",
+        "Series Analysis",
+        "Classification using Logistic",
+        "RegressionEXPERIENCE",
+        "ACTIVITIES AND AWARDS"
+    ],
+    "professional_info": {
+        "person name": [
+            "JONAS NIELSEN"
+        ],
+        "job title": [
+            "PROFILE",
+            "proactive learner",
+            "INTERN"
+        ],
+        "company": [
+            "JP INFORMATICS",
+            "online vendors",
+            "GOOGLE"
+        ],
+        "university": [
+            "PUNJABI",
+            "UNIVERSITY",
+            "PATIALA IN 2019FRESHER"
+        ],
+        "degree": [
+            "B.TECH (ELECTRONICS AND COMMUNICATION)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Customer Engagement Module": 0.1813,
+            "database": 0.2661,
+            "recommender system": 0.4809,
+            "data cleaning": 0.4529,
+            "SKILLS": 0.2878,
+            "Data Analytics": 0.5389,
+            "Artificial": 0.1783,
+            "Intelligence": 0.1957,
+            "Data Visualization": 0.4757,
+            "Machine Learning": 0.7968,
+            "Python": 0.9086,
+            "Data": 0.2835,
+            "Wrangling": 0.3308,
+            "Featurization": 0.2224,
+            "Heuristics": 0.3642,
+            "Data Structures": 0.4596,
+            "PROJECTS": 0.1585,
+            "Price Forecasting using Time": 0.1642,
+            "Series Analysis": 0.5458,
+            "Classification using Logistic": 0.4995,
+            "RegressionEXPERIENCE": 0.5083,
+            "ACTIVITIES AND AWARDS": 0.2619
+        },
+        "filename": "cv (4937)_annotated.json"
+    }
+}

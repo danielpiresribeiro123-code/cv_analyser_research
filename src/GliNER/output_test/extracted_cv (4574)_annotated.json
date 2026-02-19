@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "Engineering",
+        "Proficiency",
+        "AutoCAD",
+        "Computer proficient",
+        "Microsoft Office",
+        "GIS",
+        "HVAC Design",
+        "Autodesk Inventor Pro",
+        "Revit",
+        "technology",
+        "science",
+        "mathematics"
+    ],
+    "professional_info": {
+        "person name": [
+            "Engineering Teacher"
+        ],
+        "job title": [
+            "Civil CAD Supervisor",
+            "construction managers",
+            "Adjunct Instructor",
+            "Program Chair"
+        ],
+        "company": [
+            "Autodesk",
+            "Company Name",
+            "Company Name City"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Engineering": 0.3053,
+            "Proficiency": 0.242,
+            "AutoCAD": 0.4799,
+            "Computer proficient": 0.3763,
+            "Microsoft Office": 0.5187,
+            "GIS": 0.3969,
+            "HVAC Design": 0.2837,
+            "Autodesk Inventor Pro": 0.3552,
+            "Revit": 0.1882,
+            "technology": 0.4349,
+            "science": 0.198,
+            "mathematics": 0.1541
+        },
+        "filename": "cv (4574)_annotated.json"
+    }
+}

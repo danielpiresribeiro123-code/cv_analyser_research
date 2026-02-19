@@ -1,0 +1,52 @@
+{
+    "skills": [
+        "Detail-oriented and versatile",
+        "Microsoft Office Suite",
+        "SharePoint",
+        "PeopleSoft",
+        "High customer service standards",
+        "Meticulous attention to detail",
+        "Time management",
+        "netFORUM",
+        "LaserFiche",
+        "Elan Web"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "BILLING SERVICES ASSOCIATE",
+            "billing professional",
+            "OSS manager"
+        ],
+        "company": [
+            "Current Company Name",
+            "ACS"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "email"
+        ],
+        "phone": [
+            "phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Detail-oriented and versatile": 0.1831,
+            "Microsoft Office Suite": 0.8835,
+            "SharePoint": 0.2067,
+            "PeopleSoft": 0.5969,
+            "High customer service standards": 0.1743,
+            "Meticulous attention to detail": 0.2101,
+            "Time management": 0.1513,
+            "netFORUM": 0.3538,
+            "LaserFiche": 0.3287,
+            "Elan Web": 0.2211
+        },
+        "filename": "cv (4516)_annotated.json"
+    }
+}

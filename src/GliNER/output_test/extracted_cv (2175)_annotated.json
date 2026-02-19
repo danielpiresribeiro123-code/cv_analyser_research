@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "Self-directed",
+        "highly-motivated",
+        "Detail-oriented",
+        "dependable and trustworthy",
+        "Quality control",
+        "Measurement and valuation",
+        "Autocad 2010",
+        "Computer Basic",
+        "Windows XP",
+        "Vista",
+        "2007",
+        "Microsoft Office 2003",
+        "XP",
+        "Excellent communication capabilities",
+        "computer literacy",
+        "aggressive growth attitude",
+        "willingness to identity and take calculated risk"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMED SATHIK"
+        ],
+        "job title": [
+            "Project Engineer",
+            "project planning engineer",
+            "project quantity surveyor"
+        ],
+        "company": [
+            "Perfect Builders"
+        ],
+        "university": [
+            "Sun College of Engineering & Technology University",
+            "Anna University"
+        ],
+        "degree": [
+            "Bachelor of Engineering"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email Id: mohamedsathik .cvl@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 98848 75590",
+            "+91 95979 56277"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Self-directed": 0.2414,
+            "highly-motivated": 0.2897,
+            "Detail-oriented": 0.3636,
+            "dependable and trustworthy": 0.278,
+            "Quality control": 0.1643,
+            "Measurement and valuation": 0.203,
+            "Autocad 2010": 0.6077,
+            "Computer Basic": 0.4987,
+            "Windows XP": 0.812,
+            "Vista": 0.7264,
+            "2007": 0.8092,
+            "Microsoft Office 2003": 0.6715,
+            "XP": 0.6982,
+            "Excellent communication capabilities": 0.2045,
+            "computer literacy": 0.3926,
+            "aggressive growth attitude": 0.1899,
+            "willingness to identity and take calculated risk": 0.1627
+        },
+        "filename": "cv (2175)_annotated.json"
+    }
+}

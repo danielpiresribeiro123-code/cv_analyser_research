@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "Personal Profile",
+        "motivated",
+        "adaptable and responsible Engineer",
+        "professional and technical skills",
+        "methodical",
+        "customer-focused approach",
+        "strong drive",
+        "see things through to completion",
+        "Mechanical Engineering",
+        "Industrial management",
+        "Theory of Machines",
+        "Machine Design",
+        "Commerce Stream",
+        "2007 High School (10th) U. P. Board",
+        "Science Stream",
+        "Researching",
+        "Hobbies and Interests",
+        "D. O. B."
+    ],
+    "professional_info": {
+        "person name": [
+            "Rahul Tiwari",
+            "Mr. Ramakant Tiwari"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "IASE",
+            "Deemed University",
+            "Victory Intermediate",
+            "Victory Intermediate College"
+        ],
+        "degree": [
+            "Diploma in Mechanical Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "A 794",
+            "Sunrise Apartment Bakkarwala",
+            "Management at Delhi",
+            "Permanent Address",
+            "Doharighat",
+            "Pin"
+        ],
+        "email": [
+            "E-mail",
+            "garg.rahul256@gmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Personal Profile": 0.2435,
+            "motivated": 0.4853,
+            "adaptable and responsible Engineer": 0.2603,
+            "professional and technical skills": 0.2874,
+            "methodical": 0.3225,
+            "customer-focused approach": 0.2203,
+            "strong drive": 0.3077,
+            "see things through to completion": 0.2334,
+            "Mechanical Engineering": 0.4532,
+            "Industrial management": 0.2464,
+            "Theory of Machines": 0.3033,
+            "Machine Design": 0.3172,
+            "Commerce Stream": 0.6593,
+            "2007 High School (10th) U. P. Board": 0.1513,
+            "Science Stream": 0.682,
+            "Researching": 0.1636,
+            "Hobbies and Interests": 0.2987,
+            "D. O. B.": 0.4996
+        },
+        "filename": "cv (1749)_annotated.json"
+    }
+}

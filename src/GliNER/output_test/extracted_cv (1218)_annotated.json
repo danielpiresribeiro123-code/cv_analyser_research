@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "investment banking",
+        "financial derivatives and corporate bonds"
+    ],
+    "professional_info": {
+        "person name": [
+            "Koji  SUGAYA",
+            "ksugaya"
+        ],
+        "job title": [
+            "Financial Engineer",
+            "Financial Engineering",
+            "Customer advisor",
+            "financial engineers",
+            "Management",
+            "lead manager",
+            "Corporate Finance Adviser"
+        ],
+        "company": [
+            "THE SANW A BANK LIMITED",
+            "Shibuya Branch",
+            "large scale companies",
+            "Top-Scale Branch",
+            "Muromachi Branch"
+        ],
+        "university": [
+            "mit.edu",
+            "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+            "SLOAN SCHOOL OF MANGEMENT"
+        ],
+        "degree": [
+            "Master"
+        ],
+        "years of experience": [],
+        "address": [
+            "790 Boylston St.",
+            "#14B",
+            "Boston"
+        ],
+        "email": [
+            "E-mail"
+        ],
+        "phone": [
+            "Tel",
+            "617-450-0163"
+        ]
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "investment banking": 0.4292,
+            "financial derivatives and corporate bonds": 0.3441
+        },
+        "filename": "cv (1218)_annotated.json"
+    }
+}

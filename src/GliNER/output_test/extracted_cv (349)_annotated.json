@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "technical skills",
+        "quality",
+        "discipline",
+        "WORK KNOWLEDGE",
+        "Operation & Maintenance of  D.G.sets",
+        "Transformer",
+        "Chiller plant",
+        "HVAC  system",
+        "UPS",
+        "Fire",
+        "STP",
+        "ACB"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAJESH RANJAN",
+            "J.A.C Ranchi51",
+            "J.A.C Ranchi61"
+        ],
+        "job title": [
+            "senior engineer",
+            "Shift engineer",
+            "Facility Engineer",
+            "Electrical Supervisor",
+            "S.N"
+        ],
+        "company": [
+            "Modelama Export Pvt Ltd",
+            "Cushman & wakefield property management services india Pvt Ltd",
+            "COMPASS India Support services India Pvt Ltd",
+            "Bharti Airtel",
+            "EFS Facility services India Pvt Ltd",
+            "AMPS Facility Services pvt ltd",
+            "HONDA Company",
+            "V.S enterprises",
+            "KCC Jamshedpur"
+        ],
+        "university": [
+            "PASSINGBOARD",
+            "/UNIVERSI",
+            "BPUT",
+            "University",
+            "orissa   73%"
+        ],
+        "degree": [
+            "TY%",
+            "MAR",
+            "K",
+            "MIET Bhubneswar 2012",
+            "2+2 (Maths steam)"
+        ],
+        "years of experience": [
+            "experience",
+            "Nine months experience",
+            "One year experience"
+        ],
+        "address": [
+            "IMT Manesar-Gurgaon"
+        ],
+        "email": [
+            "Email Id",
+            "errajeshranjan11@gmail.com"
+        ],
+        "phone": [
+            "+91-9015617433"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "technical skills": 0.3034,
+            "quality": 0.2048,
+            "discipline": 0.1527,
+            "WORK KNOWLEDGE": 0.1671,
+            "Operation & Maintenance of  D.G.sets": 0.1762,
+            "Transformer": 0.1603,
+            "Chiller plant": 0.2167,
+            "HVAC  system": 0.1845,
+            "UPS": 0.2264,
+            "Fire": 0.163,
+            "STP": 0.2009,
+            "ACB": 0.224
+        },
+        "filename": "cv (349)_annotated.json"
+    }
+}

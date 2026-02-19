@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "CIVIL ENGINEERING",
+        "DIPLOMA 2011",
+        "H.S.C 2009",
+        "SOFTWARE SKILLS",
+        "AREA OF INTEREST",
+        "Surveying",
+        "Soil Mechanics and Foundation Engineering",
+        "EXPERIENCE CERTIFICATE",
+        "Planning and Designing of Underground Rectangular Water Tank"
+    ],
+    "professional_info": {
+        "person name": [
+            "Vellappandi"
+        ],
+        "job title": [
+            "BE",
+            "civil engineer"
+        ],
+        "company": [
+            "reputed company",
+            "company",
+            "University",
+            "Direct Technical Of Education,Tamilnadu",
+            "Government higher secondary school Board",
+            "State Board, Tamil Nadu",
+            "Sri ram construction"
+        ],
+        "university": [
+            "Madha Engineering College",
+            "Anna University"
+        ],
+        "degree": [
+            "B.E 2014"
+        ],
+        "years of experience": [],
+        "address": [
+            "Chennai"
+        ],
+        "email": [
+            "Email",
+            "Vellappandi06@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9940729076"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "CIVIL ENGINEERING": 0.3544,
+            "DIPLOMA 2011": 0.7683,
+            "H.S.C 2009": 0.2519,
+            "SOFTWARE SKILLS": 0.2574,
+            "AREA OF INTEREST": 0.2204,
+            "Surveying": 0.2005,
+            "Soil Mechanics and Foundation Engineering": 0.3688,
+            "EXPERIENCE CERTIFICATE": 0.6574,
+            "Planning and Designing of Underground Rectangular Water Tank": 0.1684
+        },
+        "filename": "cv (2229)_annotated.json"
+    }
+}

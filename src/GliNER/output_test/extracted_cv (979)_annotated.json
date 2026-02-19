@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Shoulder\tand\tElbow\tSurgery",
+        "simple and complex trauma cases",
+        "Ctev",
+        "Hemi arthroplasty hip",
+        "spinal trauma",
+        "orthopaedic oncology",
+        "musculoskeletal oncology",
+        "paediatric orthopaedics",
+        "complex spine cases",
+        "2010\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNational\tBoard",
+        "AO TRAUMA",
+        "Pediatric Radial Neck Fractures"
+    ],
+    "professional_info": {
+        "person name": [
+            "DR.\tNITIN\tBITHER"
+        ],
+        "job title": [
+            "Married\t\t\t\t\t\t\t\t\t\t\t\tWife",
+            "Anaesthetist",
+            "Junior\tResident",
+            "Senior Resident",
+            "Clinical and Research fellow",
+            "CONSULTANT"
+        ],
+        "company": [],
+        "university": [
+            "Christian\tMedical\tCollege\tAnd\tHospital",
+            "Government Medical College and Hospital",
+            "BITHER Hospital"
+        ],
+        "degree": [
+            "MS\t(Ortho)",
+            "DNB\t(Ortho)",
+            "DNB\t(Orthopaedics)",
+            "MS\t(Orthopaedics)",
+            "MBBS"
+        ],
+        "years of experience": [],
+        "address": [
+            "New\tAnaj\tMandi\tRoad"
+        ],
+        "email": [
+            "Email",
+            "dr.nitinbither@gmail.com"
+        ],
+        "phone": [
+            "+91\t9646002584"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Shoulder\tand\tElbow\tSurgery": 0.2613,
+            "simple and complex trauma cases": 0.1826,
+            "Ctev": 0.1517,
+            "Hemi arthroplasty hip": 0.2011,
+            "spinal trauma": 0.4164,
+            "orthopaedic oncology": 0.556,
+            "musculoskeletal oncology": 0.4971,
+            "paediatric orthopaedics": 0.5908,
+            "complex spine cases": 0.3282,
+            "2010\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNational\tBoard": 0.1542,
+            "AO TRAUMA": 0.3954,
+            "Pediatric Radial Neck Fractures": 0.2238
+        },
+        "filename": "cv (979)_annotated.json"
+    }
+}

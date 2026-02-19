@@ -1,0 +1,98 @@
+{
+    "skills": [
+        "excellent communication skills",
+        "strong problem solving skills",
+        "Sound work ethic",
+        "Highly professional",
+        "Microsoft Certified Professional",
+        "Comp-TA A+ Certified",
+        "Microsoft Access",
+        "Web design Software",
+        "Windows",
+        "Windows 8.1",
+        "SCO UNIX",
+        "Database Software",
+        "Microsoft SQL",
+        "SQL 2012",
+        "Sybase",
+        "OMD",
+        "Navision",
+        "Office Suites",
+        "Content management platform",
+        "WebGui",
+        "Magento",
+        "Expert knowledge",
+        "Windows Mobile",
+        "Blackberry",
+        "Android",
+        "IOS",
+        "C/side database",
+        "SQL 2000"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INFORMATION TECHNOLOGY COORDINATOR",
+            "AVP",
+            "Director of Information Technology",
+            "Network Engineer"
+        ],
+        "company": [
+            "Microsoft",
+            "Cisco",
+            "Fortinet",
+            "3Comm",
+            "Netgear",
+            "Hp",
+            "Sprint",
+            "Nortel",
+            "Current Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "extensive experience"
+        ],
+        "address": [],
+        "email": [
+            "Microsoft Exchange",
+            "Ipswicth Imail",
+            "Free PBX"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "excellent communication skills": 0.368,
+            "strong problem solving skills": 0.3206,
+            "Sound work ethic": 0.3219,
+            "Highly professional": 0.2478,
+            "Microsoft Certified Professional": 0.7638,
+            "Comp-TA A+ Certified": 0.7869,
+            "Microsoft Access": 0.4556,
+            "Web design Software": 0.284,
+            "Windows": 0.7139,
+            "Windows 8.1": 0.9044,
+            "SCO UNIX": 0.5322,
+            "Database Software": 0.2386,
+            "Microsoft SQL": 0.6206,
+            "SQL 2012": 0.6705,
+            "Sybase": 0.61,
+            "OMD": 0.1668,
+            "Navision": 0.2202,
+            "Office Suites": 0.2433,
+            "Content management platform": 0.2674,
+            "WebGui": 0.519,
+            "Magento": 0.2194,
+            "Expert knowledge": 0.2245,
+            "Windows Mobile": 0.912,
+            "Blackberry": 0.6672,
+            "Android": 0.8303,
+            "IOS": 0.7153,
+            "C/side database": 0.1682,
+            "SQL 2000": 0.7064
+        },
+        "filename": "cv (4273)_annotated.json"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "Objective",
+        "Civil",
+        "Professional Qualification",
+        "Professional Profile",
+        "Positive attitude",
+        "excellent communication and self correspondence skills",
+        "ability to learn more",
+        "Extra knowledge",
+        "MS Office 2007",
+        "Auto CAD-2D",
+        "Diploma"
+    ],
+    "professional_info": {
+        "person name": [
+            "ASHRAF ALI",
+            "Mr.  Jangveer",
+            "Singh"
+        ],
+        "job title": [
+            "professionally committed person",
+            "Jr. Site Engineer",
+            "Supervisor",
+            "Assistant  Engineer"
+        ],
+        "company": [
+            "P.M.C",
+            "Built Well Solutions Delhi",
+            "Shreenath Group",
+            "Board of Technical Education  Uttar, Pradesh.",
+            "Utter Pradesh State Bridge",
+            "Corporation  Ltd.",
+            "Pragati Construction Jhansi"
+        ],
+        "university": [
+            "Muslim University Aligarh"
+        ],
+        "degree": [
+            "Diploma in Engineering  (Civil)"
+        ],
+        "years of experience": [],
+        "address": [
+            "4/917",
+            "Gulzar Gali",
+            "Jamalpur"
+        ],
+        "email": [
+            "ashrafalimeer@gmail.com"
+        ],
+        "phone": [
+            "+91-9259112225",
+            "9015156857"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Objective": 0.2282,
+            "Civil": 0.4532,
+            "Professional Qualification": 0.2044,
+            "Professional Profile": 0.1838,
+            "Positive attitude": 0.6776,
+            "excellent communication and self correspondence skills": 0.4032,
+            "ability to learn more": 0.3136,
+            "Extra knowledge": 0.3157,
+            "MS Office 2007": 0.7302,
+            "Auto CAD-2D": 0.4785,
+            "Diploma": 0.2713
+        },
+        "filename": "cv (175)_annotated.json"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "Financial Engineering Track",
+        "Finance Theory I",
+        "Accounting and Finance",
+        "double major",
+        "Summa Cum Laude",
+        "Alpha Sigma Nu National Honor Society",
+        "Beta Gamma Sigma National Business Honor Society",
+        "Dean's Citation For Community Service",
+        "Accounting Recognition Award Experience",
+        "CreditManager",
+        "KMV’s Portfolio Manager",
+        "CreditRisk+",
+        "CreditSource",
+        "Interest Rate Swaps",
+        "Caps/Floors",
+        "Total Return Swaps",
+        "CMT/CMS Swaps and Options"
+    ],
+    "professional_info": {
+        "person name": [
+            "DOUGLAS C. ROACH",
+            "Professor Dimitri Vayanos"
+        ],
+        "job title": [
+            "Teaching Assistant",
+            "Volunteer Accounting and Finance Tutor",
+            "Transfer Student Advisor",
+            "Intern",
+            "Principal Consultant",
+            "On-site project manager",
+            "traders"
+        ],
+        "company": [
+            "RiskMetrics",
+            "CSFB",
+            "Risk Analytics and Derivatives Valuation Services Group",
+            "Salomon Swapco",
+            "Salomon"
+        ],
+        "university": [
+            "mit",
+            "SLOAN SCHOOL OF MANAGEMENT",
+            "MA",
+            "Georgetown School of Business"
+        ],
+        "degree": [
+            "MBA",
+            "BSBA"
+        ],
+        "years of experience": [],
+        "address": [
+            "195 Binney Street",
+            "Apt. 2315",
+            "Cambridge, MA"
+        ],
+        "email": [
+            "e-mail"
+        ],
+        "phone": [
+            "(917) 868-6036"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Financial Engineering Track": 0.5814,
+            "Finance Theory I": 0.1943,
+            "Accounting and Finance": 0.4872,
+            "double major": 0.2795,
+            "Summa Cum Laude": 0.348,
+            "Alpha Sigma Nu National Honor Society": 0.4303,
+            "Beta Gamma Sigma National Business Honor Society": 0.4742,
+            "Dean's Citation For Community Service": 0.2099,
+            "Accounting Recognition Award Experience": 0.3185,
+            "CreditManager": 0.4137,
+            "KMV’s Portfolio Manager": 0.3413,
+            "CreditRisk+": 0.342,
+            "CreditSource": 0.1837,
+            "Interest Rate Swaps": 0.2595,
+            "Caps/Floors": 0.1537,
+            "Total Return Swaps": 0.241,
+            "CMT/CMS Swaps and Options": 0.3822
+        },
+        "filename": "cv (1318)_annotated.json"
+    }
+}

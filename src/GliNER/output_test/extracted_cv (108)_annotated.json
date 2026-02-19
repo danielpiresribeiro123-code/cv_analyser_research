@@ -1,0 +1,98 @@
+{
+    "skills": [
+        "OBJECTIVE",
+        "resourceful",
+        "innovative",
+        "flexible",
+        "CAPABILITIES",
+        "Good Communication & Presentation skills",
+        "Get along with a team",
+        "Better understanding of basic engineering principles",
+        "Hard cum smart worker",
+        "co-operative",
+        "supportive",
+        "team work",
+        "integrity",
+        "Qualificatio",
+        "Score",
+        "PROFICIENCY IN COMPUTING TOOLS",
+        "Windows XP professional",
+        "windows",
+        "2000",
+        "2003",
+        "window7",
+        "window8",
+        "Office Package",
+        "MS office 2003",
+        "2007",
+        "2010",
+        "AutoCAD",
+        "General"
+    ],
+    "professional_info": {
+        "person name": [
+            "AMANDEEP SINGH"
+        ],
+        "job title": [
+            "Electrical Engineer",
+            "engineering student",
+            "Degree",
+            "Electrical Engg.",
+            "Technician"
+        ],
+        "company": [],
+        "university": [
+            "MBS college of engg.",
+            "And technologyJammu",
+            "university60%   2009"
+        ],
+        "degree": [
+            "D.O.B.",
+            "Degree"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "aman.singh919@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 7006156840"
+        ]
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "OBJECTIVE": 0.205,
+            "resourceful": 0.2246,
+            "innovative": 0.2578,
+            "flexible": 0.2836,
+            "CAPABILITIES": 0.3558,
+            "Good Communication & Presentation skills": 0.2683,
+            "Get along with a team": 0.216,
+            "Better understanding of basic engineering principles": 0.2572,
+            "Hard cum smart worker": 0.2018,
+            "co-operative": 0.302,
+            "supportive": 0.3234,
+            "team work": 0.1616,
+            "integrity": 0.2811,
+            "Qualificatio": 0.2364,
+            "Score": 0.2063,
+            "PROFICIENCY IN COMPUTING TOOLS": 0.3091,
+            "Windows XP professional": 0.851,
+            "windows": 0.6803,
+            "2000": 0.3672,
+            "2003": 0.5977,
+            "window7": 0.6436,
+            "window8": 0.7431,
+            "Office Package": 0.2065,
+            "MS office 2003": 0.8841,
+            "2007": 0.327,
+            "2010": 0.3048,
+            "AutoCAD": 0.3666,
+            "General": 0.2438
+        },
+        "filename": "cv (108)_annotated.json"
+    }
+}

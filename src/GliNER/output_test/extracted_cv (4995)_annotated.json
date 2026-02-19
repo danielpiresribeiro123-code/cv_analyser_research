@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "evaluation models",
+        "analytical approaches",
+        "risk",
+        "machine learning models",
+        "statistical concepts",
+        "Data Analysis",
+        "Data Analytics",
+        "Business Analysis",
+        "R",
+        "SAS",
+        "PowerBi",
+        "Tableau",
+        "Data Visualization",
+        "Business Analytics",
+        "Machine",
+        "EDUCATION",
+        "CAT modeling",
+        "RMS- Risk",
+        "Link",
+        "Risk manager",
+        "SQL"
+    ],
+    "professional_info": {
+        "person name": [
+            "BAILEY MIRL"
+        ],
+        "job title": [
+            "Fresher",
+            "data analyst",
+            "junior data scientist",
+            "Experienced",
+            "BUSINESS ANALYST"
+        ],
+        "company": [],
+        "university": [
+            "BIB CONSULTANCY",
+            "DELHI UNIVERSITY - HANSRAJ COLLEGE",
+            "DELHI UNIVERSITY - HANSRAJ, COLLEGE"
+        ],
+        "degree": [
+            "B.SC (MATHS)",
+            "MSC(SCIENCE) (STATISTICS)"
+        ],
+        "years of experience": [
+            "EXPERIENCE"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "evaluation models": 0.3053,
+            "analytical approaches": 0.2479,
+            "risk": 0.1753,
+            "machine learning models": 0.8127,
+            "statistical concepts": 0.2718,
+            "Data Analysis": 0.561,
+            "Data Analytics": 0.4958,
+            "Business Analysis": 0.5698,
+            "R": 0.2447,
+            "SAS": 0.3692,
+            "PowerBi": 0.4081,
+            "Tableau": 0.3272,
+            "Data Visualization": 0.3641,
+            "Business Analytics": 0.4932,
+            "Machine": 0.195,
+            "EDUCATION": 0.1628,
+            "CAT modeling": 0.5954,
+            "RMS- Risk": 0.3485,
+            "Link": 0.2732,
+            "Risk manager": 0.2458,
+            "SQL": 0.158
+        },
+        "filename": "cv (4995)_annotated.json"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "personality",
+        "skill",
+        "PROFESSIONAL & CERTIFICATE COURSE",
+        "Auto Cad",
+        "Robotics Workshop",
+        "STRENGTH",
+        "Self Confident",
+        "hard working",
+        "Self Motivated",
+        "Desire to learn new things on my own",
+        "Full of concentration in work",
+        "Advance Mechanical Spider",
+        "Theo Johnson Mechanism",
+        "Single",
+        "English",
+        "Hindi",
+        "Urdu",
+        "Listening Music",
+        "Watching movies"
+    ],
+    "professional_info": {
+        "person name": [
+            "MUSHARRAF SAEED",
+            "Mr. Mohd. Abdul Saeed",
+            "Nazama Saeed",
+            "Indian"
+        ],
+        "job title": [
+            "Team Leader"
+        ],
+        "company": [
+            "Mech. Engg.",
+            "BBDEC",
+            "Oren Lab",
+            "Scooter India"
+        ],
+        "university": [],
+        "degree": [
+            "B.Tech.",
+            "B.Tech UPTU 2015"
+        ],
+        "years of experience": [],
+        "address": [
+            "H.N. 632/4",
+            "Hasan Garden Colony"
+        ],
+        "email": [
+            "musharraf.saeed@gmail.com"
+        ],
+        "phone": [
+            "+918400191456"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "personality": 0.2165,
+            "skill": 0.1839,
+            "PROFESSIONAL & CERTIFICATE COURSE": 0.3185,
+            "Auto Cad": 0.4852,
+            "Robotics Workshop": 0.3552,
+            "STRENGTH": 0.4674,
+            "Self Confident": 0.6191,
+            "hard working": 0.3202,
+            "Self Motivated": 0.5525,
+            "Desire to learn new things on my own": 0.1662,
+            "Full of concentration in work": 0.1541,
+            "Advance Mechanical Spider": 0.1689,
+            "Theo Johnson Mechanism": 0.2198,
+            "Single": 0.4968,
+            "English": 0.8916,
+            "Hindi": 0.8872,
+            "Urdu": 0.8705,
+            "Listening Music": 0.1735,
+            "Watching movies": 0.2142
+        },
+        "filename": "cv (2000)_annotated.json"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "Certificate secondary education Diploma",
+        "Certificate of Competence",
+        "Certificate of participation",
+        "Certificate of Appreciation",
+        "Writing and Composition",
+        "STRENGTHS",
+        "Hard working",
+        "Excellent presentation skills",
+        "Good communication skills",
+        "Personal Data",
+        "Skills",
+        "Arabic",
+        "English",
+        "knowledge",
+        "Internet",
+        "Windows",
+        "word",
+        "power point",
+        "CAREER OBJECTIVE"
+    ],
+    "professional_info": {
+        "person name": [
+            "MANAL MOHAMED AMUR ALSHIBLI"
+        ],
+        "job title": [
+            "marred",
+            "Junior",
+            "professional"
+        ],
+        "company": [
+            "progressive organization",
+            "organization"
+        ],
+        "university": [],
+        "degree": [
+            "E-mill",
+            "outlook"
+        ],
+        "years of experience": [
+            "Work Experience"
+        ],
+        "address": [],
+        "email": [
+            "E-mail",
+            "manalalshibli.87",
+            "gmail",
+            "Degree",
+            "Certificate of Achievement Computer College"
+        ],
+        "phone": [
+            "Mobile",
+            "050-9511050"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Certificate secondary education Diploma": 0.4391,
+            "Certificate of Competence": 0.8257,
+            "Certificate of participation": 0.1822,
+            "Certificate of Appreciation": 0.3843,
+            "Writing and Composition": 0.1942,
+            "STRENGTHS": 0.2165,
+            "Hard working": 0.3652,
+            "Excellent presentation skills": 0.3895,
+            "Good communication skills": 0.461,
+            "Personal Data": 0.2273,
+            "Skills": 0.2473,
+            "Arabic": 0.6955,
+            "English": 0.7249,
+            "knowledge": 0.2671,
+            "Internet": 0.3905,
+            "Windows": 0.5352,
+            "word": 0.3832,
+            "power point": 0.4209,
+            "CAREER OBJECTIVE": 0.1891
+        },
+        "filename": "cv (1175)_annotated.json"
+    }
+}

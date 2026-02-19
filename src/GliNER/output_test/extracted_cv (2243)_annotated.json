@@ -1,0 +1,45 @@
+{
+    "skills": [
+        "Facility Administration",
+        "Housekeeping",
+        "Security",
+        "maintenance",
+        "competent work output"
+    ],
+    "professional_info": {
+        "person name": [
+            "CHETAN SWARUP"
+        ],
+        "job title": [
+            "Facility Manager",
+            "Handling Contractual staff",
+            "M/s AVS Facilities",
+            "Handling Administration & Facility Management",
+            "facilities service staff"
+        ],
+        "company": [
+            "Ozone Park & Sai Apartments",
+            "M/s J.S Hospitality"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Sector 86",
+            "Faridabad"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Facility Administration": 0.1649,
+            "Housekeeping": 0.3467,
+            "Security": 0.1874,
+            "maintenance": 0.2223,
+            "competent work output": 0.2
+        },
+        "filename": "cv (2243)_annotated.json"
+    }
+}

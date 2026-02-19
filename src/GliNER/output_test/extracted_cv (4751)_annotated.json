@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Certified Nursing Assistant",
+        "highly compassionate",
+        "wound care",
+        "mobility assistance",
+        "charting",
+        "Highly flexible",
+        "willing to work weekends",
+        "Flexible",
+        "experienced in catheter insertion and removal",
+        "Understands mobility assistance needs",
+        "Charting expertise",
+        "Able to lift",
+        "Understands medical procedures",
+        "HIPAA compliance",
+        "Strong work ethic",
+        "Trained in catheter change and preparation",
+        "General housekeeping ability",
+        "Enthusiastic caregiver",
+        "Experienced",
+        "painting",
+        "developmentally appropriate curriculum"
+    ],
+    "professional_info": {
+        "person name": [
+            "TEACHER"
+        ],
+        "job title": [
+            "Feeding assistance specialist",
+            "CPR/BLS certified"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Certified Nursing Assistant": 0.8049,
+            "highly compassionate": 0.3983,
+            "wound care": 0.2377,
+            "mobility assistance": 0.326,
+            "charting": 0.3085,
+            "Highly flexible": 0.2849,
+            "willing to work weekends": 0.1623,
+            "Flexible": 0.4735,
+            "experienced in catheter insertion and removal": 0.1539,
+            "Understands mobility assistance needs": 0.2136,
+            "Charting expertise": 0.5117,
+            "Able to lift": 0.3541,
+            "Understands medical procedures": 0.2365,
+            "HIPAA compliance": 0.4664,
+            "Strong work ethic": 0.5076,
+            "Trained in catheter change and preparation": 0.3003,
+            "General housekeeping ability": 0.3939,
+            "Enthusiastic caregiver": 0.4627,
+            "Experienced": 0.1544,
+            "painting": 0.15,
+            "developmentally appropriate curriculum": 0.1537
+        },
+        "filename": "cv (4751)_annotated.json"
+    }
+}

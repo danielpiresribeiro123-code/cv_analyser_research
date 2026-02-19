@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "creative skills",
+        "PVsyst",
+        "Site Assessments",
+        "Autodesk  Inventor"
+    ],
+    "professional_info": {
+        "person name": [
+            "P.RAJKUMAR",
+            "rajakumara n_1978",
+            "xrhombus"
+        ],
+        "job title": [
+            "DESIGN ENGINEER",
+            "DESIGNER",
+            "JUNIOR EXECUTIVE",
+            "DESIGN ASSITANT",
+            "APPRENTICESSHIP TRAINEE",
+            "SUPERVISOR",
+            "xrhombus"
+        ],
+        "company": [
+            "M/s. TORP SYSTEMS PRIVATE LIMITED",
+            "M/s. ANDRITZ TECHNOLOGIES PRIVATE LIMITED",
+            "FEED AND BIO FUEL DEVI SION",
+            "M/s. CETHAR LIMITED",
+            "GOVT.AUTOMOBILE WORKSHOP",
+            "M/s. JOTHI MICRO CASTINGS PVT LTD.",
+            "TORP SYSTEMS PRIVATE LIMITED",
+            "AutoCAD",
+            "Sketchup",
+            "TURBO ENERGY LIMITED",
+            "APOLLO TYRES LIMITED",
+            "DELPHI TVS LIMITED"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Chennai",
+            "Trichy",
+            "Manaparai",
+            "Paiyanoor"
+        ],
+        "email": [
+            "yahoo",
+            "rajakumara n_1978@yahoo.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 9894930708"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "creative skills": 0.2175,
+            "PVsyst": 0.4822,
+            "Site Assessments": 0.1652,
+            "Autodesk  Inventor": 0.3959
+        },
+        "filename": "cv (3876)_annotated.json"
+    }
+}

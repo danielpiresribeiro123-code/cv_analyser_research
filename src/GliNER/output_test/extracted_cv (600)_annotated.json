@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "Academic Qualification",
+        "Computer Knowledge",
+        "Working Knowledge",
+        "Computer Basics",
+        "Fundamental",
+        "MS-Office",
+        "AutoCad"
+    ],
+    "professional_info": {
+        "person name": [
+            "C.V.",
+            "Mukesh jat"
+        ],
+        "job title": [],
+        "company": [
+            "Rajasthan Housing Board Jaipur",
+            "RHB",
+            "Ambuja Cement"
+        ],
+        "university": [
+            "B.Tech.",
+            "3RTU",
+            "Kota B.Tech.",
+            "Kautilya Institute of Teshnology And Engineering"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Add.-93",
+            "jat mohalla",
+            "tiroli",
+            "Post sargaon",
+            "Tehsil Sahara",
+            "Rajasthan 311806",
+            "Internet"
+        ],
+        "email": [
+            "Email",
+            "mukeshjat739@gmai.com"
+        ],
+        "phone": [
+            "Mobile",
+            "9887204942"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Academic Qualification": 0.1582,
+            "Computer Knowledge": 0.5546,
+            "Working Knowledge": 0.3979,
+            "Computer Basics": 0.4947,
+            "Fundamental": 0.3205,
+            "MS-Office": 0.6004,
+            "AutoCad": 0.4421
+        },
+        "filename": "cv (600)_annotated.json"
+    }
+}

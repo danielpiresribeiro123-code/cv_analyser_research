@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "Engineering",
+        "Technology",
+        "Technological",
+        "TECHNICAL SKILLS",
+        "Catia v5 R20",
+        "Autocad",
+        "Ability to cope up with different situations",
+        "Ability to rapidly build relationship and set up trust",
+        "Personality type",
+        "ENTJ",
+        "Male",
+        "English",
+        "Malayalam",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "DEEPU ANIRUDHAN",
+            "deepuanirudhan",
+            "P V Anirudhan",
+            "Ambujam"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "UNIVERSITY BATCHPERCENTAGE",
+            "BGS Institution",
+            "B G NagarVisvesvaraya",
+            "University",
+            "Higher Secondary",
+            "Kunnam.Kerala Secondary",
+            "Secondary School",
+            "Thazhakkara.Kerala Secondary",
+            "BGSIT"
+        ],
+        "degree": [
+            "Bachelor of"
+        ],
+        "years of experience": [],
+        "address": [
+            "Deepthy Bhavan",
+            "Kunnam(P.O) Mavelikara"
+        ],
+        "email": [
+            "E-MAIL",
+            "gmail.com"
+        ],
+        "phone": [
+            "TEL",
+            "+91 9747120619",
+            "PIN : 690108"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Engineering": 0.3151,
+            "Technology": 0.2609,
+            "Technological": 0.2917,
+            "TECHNICAL SKILLS": 0.2493,
+            "Catia v5 R20": 0.3145,
+            "Autocad": 0.3572,
+            "Ability to cope up with different situations": 0.2556,
+            "Ability to rapidly build relationship and set up trust": 0.1503,
+            "Personality type": 0.4729,
+            "ENTJ": 0.3278,
+            "Male": 0.2381,
+            "English": 0.7777,
+            "Malayalam": 0.7796,
+            "Hindi": 0.7264
+        },
+        "filename": "cv (3319)_annotated.json"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "HVAC",
+        "CIBSE commissioning codes",
+        "BSRIA guidelines",
+        "ASHRAE Standards",
+        "CSA guidelines"
+    ],
+    "professional_info": {
+        "person name": [
+            "THOUFIC ALI",
+            "thoufic6alier"
+        ],
+        "job title": [
+            "MECHANICAL ENGINEER",
+            "HVAC TESTING AND COMMISSIONING ENGINEER"
+        ],
+        "company": [
+            "Hi-tech environment",
+            "T&C TECHNOLOGY ENGINEERING SERVICES LLC",
+            "ZADCO",
+            "German Intenational School-Dubai(UAE)",
+            "NESA",
+            "NESA(National Electronic Security Authority)",
+            "Masdar (Mubadala Group)",
+            "Ruwais Sulphur Handling Terminal- II",
+            "GASCO",
+            "TAKREER",
+            "Al Hosn Gas"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "2Yrs & 3months"
+        ],
+        "address": [
+            "Present Address",
+            "Tamil Nadu-INDIA"
+        ],
+        "email": [
+            "outlook.com",
+            "thouficalier@gmail.com"
+        ],
+        "phone": [
+            "Mobile no",
+            "+91 9629204415"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "HVAC": 0.1899,
+            "CIBSE commissioning codes": 0.3169,
+            "BSRIA guidelines": 0.6218,
+            "ASHRAE Standards": 0.6787,
+            "CSA guidelines": 0.6182
+        },
+        "filename": "cv (4148)_annotated.json"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "Intellectually curious and resourceful",
+        "Great interpersonal skills",
+        "Experience",
+        "geometric constraints",
+        "roadway design standards",
+        "Microstation",
+        "Inroads",
+        "Excel",
+        "VBA",
+        "vehicle turning software",
+        "AutoTurn",
+        "NJDOT standards",
+        "highway sections",
+        "CAD",
+        "design software",
+        "Highway",
+        "Electrical",
+        "Drainage",
+        "Utilities",
+        "superelevation constraints",
+        "guide rail"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Summer Aviation Intern",
+            "Manager of Structural Integrity"
+        ],
+        "company": [
+            "Company Name",
+            "Port Authority"
+        ],
+        "university": [
+            "Jersey Shore University Medical Center"
+        ],
+        "degree": [
+            "GRADUATE ENGINEER"
+        ],
+        "years of experience": [],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Intellectually curious and resourceful": 0.3257,
+            "Great interpersonal skills": 0.4068,
+            "Experience": 0.168,
+            "geometric constraints": 0.2701,
+            "roadway design standards": 0.8361,
+            "Microstation": 0.5332,
+            "Inroads": 0.5167,
+            "Excel": 0.5174,
+            "VBA": 0.8293,
+            "vehicle turning software": 0.2523,
+            "AutoTurn": 0.5519,
+            "NJDOT standards": 0.6481,
+            "highway sections": 0.1788,
+            "CAD": 0.4645,
+            "design software": 0.2138,
+            "Highway": 0.23,
+            "Electrical": 0.1755,
+            "Drainage": 0.1735,
+            "Utilities": 0.2573,
+            "superelevation constraints": 0.219,
+            "guide rail": 0.1501
+        },
+        "filename": "cv (4701)_annotated.json"
+    }
+}

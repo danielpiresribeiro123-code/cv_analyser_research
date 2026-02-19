@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Degree year Board Percentag",
+        "BSEB 60",
+        "SONEPAT 86.88",
+        "TECHNICAL SKILLS",
+        "AUTOCADD 2D&3D",
+        "REVIT ARCHITECTURE",
+        "STADD PRO",
+        "MSWORD",
+        "EXCELL",
+        "MY FRIENDLY BEHAVIOR",
+        "GOOD LOGICAL INTERPRETATION ABILITY",
+        "GOOD EXECUTOR",
+        "GENDER"
+    ],
+    "professional_info": {
+        "person name": [
+            "NAME",
+            "MAKSUD ALAM"
+        ],
+        "job title": [
+            "saran",
+            "bihar",
+            "Martial",
+            "CIVIL",
+            "CIVIL FORMAN",
+            "SITE ENGINEER"
+        ],
+        "company": [
+            "DIPLOMA",
+            "POLYTECHNIC",
+            "HINDUSTAN CONSTRUCTION CO.",
+            "PTRON ENGINEER CONSTRACTION ITD",
+            "BRIDGE AND ROOF CO INDIA. LTD."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "ADDRESS"
+        ],
+        "email": [
+            "Email",
+            "Salammaksud786@gamil.com"
+        ],
+        "phone": [
+            "Mobile no 8839244354",
+            "7869522210"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Degree year Board Percentag": 0.3477,
+            "BSEB 60": 0.2304,
+            "SONEPAT 86.88": 0.4506,
+            "TECHNICAL SKILLS": 0.2953,
+            "AUTOCADD 2D&3D": 0.2645,
+            "REVIT ARCHITECTURE": 0.3074,
+            "STADD PRO": 0.3158,
+            "MSWORD": 0.322,
+            "EXCELL": 0.2484,
+            "MY FRIENDLY BEHAVIOR": 0.5691,
+            "GOOD LOGICAL INTERPRETATION ABILITY": 0.4686,
+            "GOOD EXECUTOR": 0.6588,
+            "GENDER": 0.2853
+        },
+        "filename": "cv (301)_annotated.json"
+    }
+}

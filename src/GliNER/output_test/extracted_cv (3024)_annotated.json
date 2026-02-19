@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "Business Planning",
+        "Marketing",
+        "Sales",
+        "Market Research",
+        "Business Operations",
+        "Vendor Relations",
+        "Monito r Customer Service & Customer feedback management system"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ruchi Parekh",
+            "parekh.ruchi.s"
+        ],
+        "job title": [
+            "Executive Profile",
+            "Strategic Business Management specialist",
+            "Co -founder"
+        ],
+        "company": [
+            "RPCO",
+            "Renewable Power Channelizing Organization",
+            "company"
+        ],
+        "university": [
+            "Somaiya College of Engineering",
+            "Mumbai  Institute Of Management Studies University"
+        ],
+        "degree": [
+            "B.E.",
+            "K.J Somaiya         PGDM"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "gmail"
+        ],
+        "phone": [
+            "+91-98330 -00140"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Business Planning": 0.3557,
+            "Marketing": 0.7455,
+            "Sales": 0.5166,
+            "Market Research": 0.3885,
+            "Business Operations": 0.2132,
+            "Vendor Relations": 0.2129,
+            "Monito r Customer Service & Customer feedback management system": 0.2643
+        },
+        "filename": "cv (3024)_annotated.json"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "project management",
+        "International Institute Business Analysis (IIBA) Certification",
+        "MCDST Certification",
+        "Microsoft Certified Desktop Support Technician",
+        "Lean Six Sigma Certification",
+        "business and systems analysis",
+        "process analysis and improvement",
+        "data analysis and mining",
+        "inventory control",
+        "quality assurance",
+        "process awareness",
+        "POS systems",
+        "business process analysis",
+        "SAP CRM 3.0",
+        "CRM7.0",
+        "ECC6.0",
+        "SAP CRM",
+        "SharePoint",
+        "SAP CRM6.0",
+        "analytical tools"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Senior Business Systems Analyst",
+            "Consultant",
+            "Senior Business System Analyst"
+        ],
+        "company": [
+            "fortune 500 companies",
+            "Company Name",
+            "Cisco",
+            "Cardinal Health"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "10 years"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "project management": 0.5129,
+            "International Institute Business Analysis (IIBA) Certification": 0.5773,
+            "MCDST Certification": 0.7886,
+            "Microsoft Certified Desktop Support Technician": 0.424,
+            "Lean Six Sigma Certification": 0.8989,
+            "business and systems analysis": 0.3187,
+            "process analysis and improvement": 0.4006,
+            "data analysis and mining": 0.5149,
+            "inventory control": 0.4767,
+            "quality assurance": 0.3146,
+            "process awareness": 0.206,
+            "POS systems": 0.2919,
+            "business process analysis": 0.2537,
+            "SAP CRM 3.0": 0.7568,
+            "CRM7.0": 0.6971,
+            "ECC6.0": 0.7337,
+            "SAP CRM": 0.8367,
+            "SharePoint": 0.4997,
+            "SAP CRM6.0": 0.6145,
+            "analytical tools": 0.1657
+        },
+        "filename": "cv (4628)_annotated.json"
+    }
+}

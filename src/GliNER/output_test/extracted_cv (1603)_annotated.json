@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "great teaching aptitude",
+        "Thorough knowledge",
+        "spoken English",
+        "command over comprehension",
+        "modern teaching aids",
+        "computer aided tools",
+        "web platform",
+        "Com.Sci",
+        "Computer Science",
+        "My Strengths",
+        "Quick learner",
+        "Good communication Skills",
+        "Extensive knowledge",
+        "Software skills",
+        "C",
+        "C++",
+        "Java",
+        "HTML",
+        "Confidence in my own abilities",
+        "Interests and Hobbies"
+    ],
+    "professional_info": {
+        "person name": [
+            "Karthika Kumanan"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "Thiruvalluvar University",
+            "Annamalai University",
+            "Our Lady college of, Education"
+        ],
+        "degree": [
+            "B,Sc.",
+            "M.Sc.",
+            "Bachelor’s of Education",
+            "B.Ed"
+        ],
+        "years of experience": [
+            "Experience",
+            "2 years"
+        ],
+        "address": [
+            "Chidambaram"
+        ],
+        "email": [
+            "karthika86kk@gmail.com"
+        ],
+        "phone": [
+            "+919790215407"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "great teaching aptitude": 0.2736,
+            "Thorough knowledge": 0.1919,
+            "spoken English": 0.3895,
+            "command over comprehension": 0.3717,
+            "modern teaching aids": 0.2583,
+            "computer aided tools": 0.6076,
+            "web platform": 0.8482,
+            "Com.Sci": 0.2852,
+            "Computer Science": 0.6456,
+            "My Strengths": 0.2135,
+            "Quick learner": 0.4584,
+            "Good communication Skills": 0.3,
+            "Extensive knowledge": 0.2601,
+            "Software skills": 0.212,
+            "C": 0.8149,
+            "C++": 0.8568,
+            "Java": 0.9373,
+            "HTML": 0.6598,
+            "Confidence in my own abilities": 0.3305,
+            "Interests and Hobbies": 0.1561
+        },
+        "filename": "cv (1603)_annotated.json"
+    }
+}

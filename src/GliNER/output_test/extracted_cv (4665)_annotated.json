@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "Enterprise design",
+        "engineering methodology",
+        "Skills",
+        "Enterprise platforms",
+        "Product Lifecycle Management (PLM)",
+        "Project tracking",
+        "Hardware and software upgrade planning",
+        "Product requirements documentation",
+        "Self-directed",
+        "MS Visio",
+        "Decisive",
+        "Collaborative",
+        "Domain Active Directory Layout",
+        "Data storage engineering",
+        "Information Assurance",
+        "Risk Management Framework (RMF)",
+        "Active Directory design and deployment",
+        "Workstation build and deployment",
+        "Systems Accreditation Packages",
+        "Red Hat Enterprise Linux",
+        "Network Design & Troubleshooting",
+        "High Performance Computing"
+    ],
+    "professional_info": {
+        "person name": [
+            "I"
+        ],
+        "job title": [
+            "Dedicated",
+            "Information Assurance Professional",
+            "IT professional",
+            "Systems Engineer"
+        ],
+        "company": [
+            "Company Name",
+            "ONI Enterprise"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "37 years",
+            "Experience"
+        ],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Enterprise design": 0.604,
+            "engineering methodology": 0.5858,
+            "Skills": 0.153,
+            "Enterprise platforms": 0.2885,
+            "Product Lifecycle Management (PLM)": 0.26,
+            "Project tracking": 0.392,
+            "Hardware and software upgrade planning": 0.2745,
+            "Product requirements documentation": 0.229,
+            "Self-directed": 0.3033,
+            "MS Visio": 0.6014,
+            "Decisive": 0.2723,
+            "Collaborative": 0.2271,
+            "Domain Active Directory Layout": 0.489,
+            "Data storage engineering": 0.3904,
+            "Information Assurance": 0.1944,
+            "Risk Management Framework (RMF)": 0.5808,
+            "Active Directory design and deployment": 0.5084,
+            "Workstation build and deployment": 0.2586,
+            "Systems Accreditation Packages": 0.4871,
+            "Red Hat Enterprise Linux": 0.5348,
+            "Network Design & Troubleshooting": 0.3527,
+            "High Performance Computing": 0.3829
+        },
+        "filename": "cv (4665)_annotated.json"
+    }
+}

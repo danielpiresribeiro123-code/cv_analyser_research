@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "network-based inference",
+        "python",
+        "Data science",
+        "Machine Learning",
+        "PERSONAL",
+        "Django",
+        "Flask",
+        "Spark",
+        "PySpark",
+        "Data Modelling",
+        "Natural language Processing",
+        "SVM",
+        "Computer Vision",
+        "Neural",
+        "Networks",
+        "EP analysis",
+        "Polarization Determination",
+        "NLP",
+        "EXTRA-CURRICULARS",
+        "IABAC Certified Data Scientist",
+        "DataCamp"
+    ],
+    "professional_info": {
+        "person name": [
+            "LEAH ATKIN"
+        ],
+        "job title": [
+            "JUNIOR DEVELOPER",
+            "TRDDC"
+        ],
+        "company": [],
+        "university": [],
+        "degree": [
+            "B.Tech NIT Jaipur 2019EXECUTIVE"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "chat"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "network-based inference": 0.1638,
+            "python": 0.9861,
+            "Data science": 0.7841,
+            "Machine Learning": 0.6621,
+            "PERSONAL": 0.358,
+            "Django": 0.7481,
+            "Flask": 0.7553,
+            "Spark": 0.5615,
+            "PySpark": 0.5994,
+            "Data Modelling": 0.5739,
+            "Natural language Processing": 0.6045,
+            "SVM": 0.8876,
+            "Computer Vision": 0.5727,
+            "Neural": 0.4947,
+            "Networks": 0.4492,
+            "EP analysis": 0.3874,
+            "Polarization Determination": 0.2992,
+            "NLP": 0.3742,
+            "EXTRA-CURRICULARS": 0.3719,
+            "IABAC Certified Data Scientist": 0.6896,
+            "DataCamp": 0.3908
+        },
+        "filename": "cv (4943)_annotated.json"
+    }
+}

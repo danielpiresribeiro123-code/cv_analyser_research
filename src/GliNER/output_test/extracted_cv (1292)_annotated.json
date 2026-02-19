@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "Banking and",
+        "Finance",
+        "Creativity",
+        "PGDCA",
+        "Highly enthusiastic",
+        "Quick learner",
+        "Willingness to learn",
+        "Disciplined",
+        "Devoted towards work",
+        "Ability to deal with",
+        "people diplomatically",
+        "Windows XP",
+        "Windows 7",
+        "MS-Office",
+        "Word",
+        "Excel",
+        "Power point",
+        "Tally-9",
+        "Banking and Finance",
+        "Back Office"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAURABH VISHWAKARMA",
+            "Mr. Nandlal vishwakarma",
+            "Smt. Sushila Vishwakarma"
+        ],
+        "job title": [
+            "Assistant Manager",
+            "Exécutives",
+            "Sales Executive"
+        ],
+        "company": [],
+        "university": [
+            "C.V. Raman University",
+            "Pt. Ravishankar Sukla",
+            "University",
+            "C.G. Board"
+        ],
+        "degree": [
+            "BCOM",
+            "HSC Commerce",
+            "SSC"
+        ],
+        "years of experience": [],
+        "address": [
+            "Sikola Basti"
+        ],
+        "email": [
+            "Email",
+            "saurabhv671@gmail.com",
+            "Contact No.- 8602337248"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Banking and": 0.2508,
+            "Finance": 0.3006,
+            "Creativity": 0.2587,
+            "PGDCA": 0.8782,
+            "Highly enthusiastic": 0.4972,
+            "Quick learner": 0.565,
+            "Willingness to learn": 0.482,
+            "Disciplined": 0.5038,
+            "Devoted towards work": 0.3414,
+            "Ability to deal with": 0.431,
+            "people diplomatically": 0.3769,
+            "Windows XP": 0.9715,
+            "Windows 7": 0.9073,
+            "MS-Office": 0.6067,
+            "Word": 0.4055,
+            "Excel": 0.4447,
+            "Power point": 0.5402,
+            "Tally-9": 0.6559,
+            "Banking and Finance": 0.7518,
+            "Back Office": 0.4969
+        },
+        "filename": "cv (1292)_annotated.json"
+    }
+}

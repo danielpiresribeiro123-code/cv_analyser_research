@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "Digital Media",
+        "Photoshop",
+        "Illustrator",
+        "Adobe InDesign",
+        "Canva",
+        "Web Development",
+        "HTML",
+        "CSS",
+        "Python",
+        "Digital Art",
+        "3D Blender",
+        "After Effects",
+        "InDesign",
+        "Digital photography",
+        "Proficient",
+        "Ability to work under pressure",
+        "Organized",
+        "Multitasker",
+        "Adaptable",
+        "Team Player",
+        "Quick learnerFilipino",
+        "Social Media"
+    ],
+    "professional_info": {
+        "person name": [
+            "Carmela Ongtengco"
+        ],
+        "job title": [
+            "PCC Coordinators",
+            "Experience in customer service",
+            "Historian CoordinatorClass",
+            "Historian",
+            "Freelance Photographer"
+        ],
+        "company": [],
+        "university": [
+            "University of California",
+            "UCSC"
+        ],
+        "degree": [
+            "B.A. Art"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "925) 997 - 0155"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Digital Media": 0.5559,
+            "Photoshop": 0.5896,
+            "Illustrator": 0.7405,
+            "Adobe InDesign": 0.4689,
+            "Canva": 0.2238,
+            "Web Development": 0.7088,
+            "HTML": 0.6317,
+            "CSS": 0.6248,
+            "Python": 0.7491,
+            "Digital Art": 0.2965,
+            "3D Blender": 0.432,
+            "After Effects": 0.6578,
+            "InDesign": 0.4363,
+            "Digital photography": 0.4343,
+            "Proficient": 0.2597,
+            "Ability to work under pressure": 0.42,
+            "Organized": 0.3531,
+            "Multitasker": 0.4613,
+            "Adaptable": 0.4858,
+            "Team Player": 0.5512,
+            "Quick learnerFilipino": 0.2899,
+            "Social Media": 0.3659
+        },
+        "filename": "cv (1111)_annotated.json"
+    }
+}

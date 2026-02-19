@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "growth",
+        "BoardSCIENCE 200461",
+        "STRENGTH",
+        "Quick Learner",
+        "Flexibility",
+        "Hard-working",
+        "Male",
+        "Language Known",
+        "Hindi",
+        "English",
+        "Hobby",
+        "Listing To Music",
+        "Marital Status",
+        "Married"
+    ],
+    "professional_info": {
+        "person name": [
+            "NAME",
+            "Mritunjay Pandey",
+            "Hindu",
+            "Indian"
+        ],
+        "job title": [
+            "+ 918052194351"
+        ],
+        "company": [],
+        "university": [
+            "B R H S S",
+            "A. D.  I. C."
+        ],
+        "degree": [
+            "Matriculation",
+            "Intermediate"
+        ],
+        "years of experience": [
+            "EXPERIENCE",
+            "three years"
+        ],
+        "address": [
+            "Vill- Surjahi",
+            "Post- Barahara"
+        ],
+        "email": [
+            "pmritunjay79@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "growth": 0.1521,
+            "BoardSCIENCE 200461": 0.1526,
+            "STRENGTH": 0.3089,
+            "Quick Learner": 0.3157,
+            "Flexibility": 0.3071,
+            "Hard-working": 0.3876,
+            "Male": 0.3101,
+            "Language Known": 0.2189,
+            "Hindi": 0.7814,
+            "English": 0.7666,
+            "Hobby": 0.2341,
+            "Listing To Music": 0.3116,
+            "Marital Status": 0.1991,
+            "Married": 0.3782
+        },
+        "filename": "cv (1942)_annotated.json"
+    }
+}

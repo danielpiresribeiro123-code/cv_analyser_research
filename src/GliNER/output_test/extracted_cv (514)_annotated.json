@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "ELECTRICAL WORKMAN PERMIT",
+        "BLS2995Educational Qualification",
+        "Professional Qualification",
+        "Married",
+        "Hindi",
+        "English",
+        "Odia",
+        "Bengali"
+    ],
+    "professional_info": {
+        "person name": [
+            "INTAJ KHAN",
+            "Yasin Khan"
+        ],
+        "job title": [
+            "Sr.Electrician",
+            "Electrician & Plumbing",
+            "Electrician"
+        ],
+        "company": [
+            "Simplex Infrastructure Limited",
+            "M/s Silly Elect.Engg.works",
+            "Niroj Cement Structural Pvt.Ltd"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "2007 to 2010",
+            "2001 to 2007",
+            "6 years",
+            "3 years"
+        ],
+        "address": [
+            "At-sekhbard",
+            "Dist.-Balasore",
+            "Odisha-756032"
+        ],
+        "email": [
+            "intajkhan18@gmail.com"
+        ],
+        "phone": [
+            "+91 9238929318"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "ELECTRICAL WORKMAN PERMIT": 0.3418,
+            "BLS2995Educational Qualification": 0.5814,
+            "Professional Qualification": 0.5865,
+            "Married": 0.2809,
+            "Hindi": 0.7746,
+            "English": 0.7446,
+            "Odia": 0.6292,
+            "Bengali": 0.7675
+        },
+        "filename": "cv (514)_annotated.json"
+    }
+}

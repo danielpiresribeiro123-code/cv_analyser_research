@@ -1,0 +1,107 @@
+{
+    "skills": [
+        "Accomplished seller",
+        "marketing and entrepreneurial chops",
+        "Solid technical background",
+        "B2B SAAS",
+        "programmatic advertising",
+        "Motivated",
+        "team-oriented",
+        "enthusiastic",
+        "B2B sales",
+        "Network development",
+        "Lead prospecting",
+        "Interpersonal communication skills",
+        "Brand marketing",
+        "Business development",
+        "Product development",
+        "Content creation",
+        "Accounting",
+        "Advertising",
+        "Website",
+        "B2B",
+        "Billing",
+        "Brand strategy",
+        "Budgets",
+        "Com",
+        "Interpersonal communication",
+        "Content",
+        "Delivery",
+        "E-commerce",
+        "Editorial",
+        "Marketing",
+        "Enterprise",
+        "Network",
+        "Strategic",
+        "sales"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT",
+            "Professional Summary",
+            "Senior Account Executive"
+        ],
+        "company": [
+            "VC",
+            "Company Name",
+            "drinkbumpcoffee.com",
+            "sheau",
+            "Sohuis"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [
+            "cold emails"
+        ],
+        "phone": [
+            "Phone",
+            "phone calls"
+        ]
+    },
+    "metadata": {
+        "total_skills": 34,
+        "confidence_scores": {
+            "Accomplished seller": 0.2224,
+            "marketing and entrepreneurial chops": 0.4854,
+            "Solid technical background": 0.346,
+            "B2B SAAS": 0.1839,
+            "programmatic advertising": 0.339,
+            "Motivated": 0.4395,
+            "team-oriented": 0.3948,
+            "enthusiastic": 0.1631,
+            "B2B sales": 0.4373,
+            "Network development": 0.5235,
+            "Lead prospecting": 0.2594,
+            "Interpersonal communication skills": 0.3616,
+            "Brand marketing": 0.5201,
+            "Business development": 0.4601,
+            "Product development": 0.5568,
+            "Content creation": 0.4685,
+            "Accounting": 0.1922,
+            "Advertising": 0.306,
+            "Website": 0.2582,
+            "B2B": 0.1843,
+            "Billing": 0.15,
+            "Brand strategy": 0.349,
+            "Budgets": 0.1577,
+            "Com": 0.1521,
+            "Interpersonal communication": 0.1877,
+            "Content": 0.265,
+            "Delivery": 0.2203,
+            "E-commerce": 0.2467,
+            "Editorial": 0.2622,
+            "Marketing": 0.4269,
+            "Enterprise": 0.2373,
+            "Network": 0.1992,
+            "Strategic": 0.298,
+            "sales": 0.162
+        },
+        "filename": "cv (4349)_annotated.json"
+    }
+}

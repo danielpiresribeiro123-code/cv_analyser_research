@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "Operations & Maintenance",
+        "Installation",
+        "Project",
+        "Planning",
+        "Engineering",
+        "Expertise",
+        "Plant Operations",
+        "Earthing of Equipments",
+        "Panel Mountings",
+        "Alarm Panels",
+        "sensors",
+        "CORE COMPETENCIES",
+        "Project Management",
+        "Installation and commissioning",
+        "Automation works",
+        "PLC programming",
+        "DOL"
+    ],
+    "professional_info": {
+        "person name": [
+            "P.GUNASEKHAR"
+        ],
+        "job title": [
+            "JOB OBJECTIVE",
+            "Project Maintenance Eng"
+        ],
+        "company": [
+            "Keller  ground  engineering  India  Pvt.ltd",
+            "NTTP Power Plant Contract Project"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Over 4.1 years of experience",
+            "Excellent communication"
+        ],
+        "address": [
+            "Guindy",
+            "Chennai Location"
+        ],
+        "email": [
+            "Email",
+            "gunasekhar.pallala@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+919985378450"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Operations & Maintenance": 0.2565,
+            "Installation": 0.1504,
+            "Project": 0.2205,
+            "Planning": 0.17,
+            "Engineering": 0.2086,
+            "Expertise": 0.4441,
+            "Plant Operations": 0.1898,
+            "Earthing of Equipments": 0.2078,
+            "Panel Mountings": 0.2494,
+            "Alarm Panels": 0.2083,
+            "sensors": 0.1723,
+            "CORE COMPETENCIES": 0.1962,
+            "Project Management": 0.3166,
+            "Installation and commissioning": 0.1888,
+            "Automation works": 0.1883,
+            "PLC programming": 0.3018,
+            "DOL": 0.2162
+        },
+        "filename": "cv (1751)_annotated.json"
+    }
+}

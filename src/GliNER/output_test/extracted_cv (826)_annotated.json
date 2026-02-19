@@ -1,0 +1,119 @@
+{
+    "skills": [
+        "Key skills",
+        "Social Media Marketing",
+        "Facebook Page Management",
+        "poster designing",
+        "E-mail marketing",
+        "Landing page Designing and Development",
+        "Content writing and optimization",
+        "Adobe Photoshop CS5",
+        "Computer Hardware",
+        "Video & Audio editing",
+        "Html",
+        "Digital Marketing",
+        "Automatic caption generation",
+        "ACHIEVEMENTS AND CERTIFICATIONS",
+        "Course certificate",
+        "Internship Certificate",
+        "Online marketing",
+        "Marketing research",
+        "Creative thinking",
+        "Home designing",
+        "Home décor making",
+        "Advertising in social media",
+        "Poster making",
+        "Internet surfing",
+        "Innovative ideas to design",
+        "Music composing",
+        "Singing",
+        "Dancing",
+        "PERSONAL PROFILE",
+        "Gender",
+        "English",
+        "Malayalam",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHEJOWIN SEBASTIAN KJ",
+            "Male"
+        ],
+        "job title": [
+            "creative job",
+            "Digital Marketing Trainee"
+        ],
+        "company": [
+            "progressive organization",
+            "Computer",
+            "SpyroSys Software Solutions",
+            "TITLE COMPANY",
+            "SpyroSys",
+            "SpyroSys Software",
+            "Solutions",
+            "cochin."
+        ],
+        "university": [
+            "School/Collage",
+            "SNGIST NORTH"
+        ],
+        "degree": [
+            "BTech",
+            "Btech 2018"
+        ],
+        "years of experience": [
+            "PROFESSIONAL  EXPERIENCE"
+        ],
+        "address": [
+            "KOOREN HOUSE",
+            "KAITHARAM PO"
+        ],
+        "email": [
+            "E-mail",
+            "sebastian7shejo@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "8594089065"
+        ]
+    },
+    "metadata": {
+        "total_skills": 33,
+        "confidence_scores": {
+            "Key skills": 0.2075,
+            "Social Media Marketing": 0.3613,
+            "Facebook Page Management": 0.1829,
+            "poster designing": 0.2166,
+            "E-mail marketing": 0.1784,
+            "Landing page Designing and Development": 0.1819,
+            "Content writing and optimization": 0.2838,
+            "Adobe Photoshop CS5": 0.3258,
+            "Computer Hardware": 0.2351,
+            "Video & Audio editing": 0.2718,
+            "Html": 0.2079,
+            "Digital Marketing": 0.3979,
+            "Automatic caption generation": 0.2089,
+            "ACHIEVEMENTS AND CERTIFICATIONS": 0.2401,
+            "Course certificate": 0.3304,
+            "Internship Certificate": 0.3392,
+            "Online marketing": 0.4449,
+            "Marketing research": 0.27,
+            "Creative thinking": 0.3471,
+            "Home designing": 0.1735,
+            "Home décor making": 0.2385,
+            "Advertising in social media": 0.1965,
+            "Poster making": 0.2092,
+            "Internet surfing": 0.2245,
+            "Innovative ideas to design": 0.1665,
+            "Music composing": 0.3201,
+            "Singing": 0.2437,
+            "Dancing": 0.2237,
+            "PERSONAL PROFILE": 0.1995,
+            "Gender": 0.1899,
+            "English": 0.4868,
+            "Malayalam": 0.44,
+            "Hindi": 0.4724
+        },
+        "filename": "cv (826)_annotated.json"
+    }
+}

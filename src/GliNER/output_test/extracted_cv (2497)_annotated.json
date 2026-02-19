@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "accounting",
+        "English",
+        "Hindi",
+        "B+ Grade",
+        "A Grade",
+        "H.S.C Examination",
+        "S.L.C  Examination",
+        "Accounts & Finance",
+        "Hardworking",
+        "Self Motivated",
+        "Positive attitude",
+        "Presence of mind",
+        "Microsoft Word",
+        "Excel",
+        "Power point",
+        "Internet",
+        "Tally (ERP9)",
+        "Inventory",
+        "IBAS-PRO",
+        "TCS"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHAHNAWAZ MIKRANI"
+        ],
+        "job title": [
+            "Accounting",
+            "Accountant"
+        ],
+        "company": [
+            "NIBM Chennai India",
+            "IMTS Noida India",
+            "HMG  of  Nepal",
+            "Lone Star Trading Doha Qatar"
+        ],
+        "university": [
+            "B.I.E.C. Patna India"
+        ],
+        "degree": [
+            "MBA",
+            "BBA Finance"
+        ],
+        "years of experience": [
+            "+974 30785489",
+            "Married"
+        ],
+        "address": [
+            "Permanent Address",
+            "Noori Mahalla Shivsagar Chock Malangwa 4 Sarlahi"
+        ],
+        "email": [
+            "E-mail",
+            "hotmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "accounting": 0.1578,
+            "English": 0.5779,
+            "Hindi": 0.5778,
+            "B+ Grade": 0.2308,
+            "A Grade": 0.1664,
+            "H.S.C Examination": 0.7519,
+            "S.L.C  Examination": 0.771,
+            "Accounts & Finance": 0.2893,
+            "Hardworking": 0.2806,
+            "Self Motivated": 0.319,
+            "Positive attitude": 0.2909,
+            "Presence of mind": 0.2698,
+            "Microsoft Word": 0.6062,
+            "Excel": 0.4021,
+            "Power point": 0.562,
+            "Internet": 0.2954,
+            "Tally (ERP9)": 0.4554,
+            "Inventory": 0.3501,
+            "IBAS-PRO": 0.5265,
+            "TCS": 0.177
+        },
+        "filename": "cv (2497)_annotated.json"
+    }
+}

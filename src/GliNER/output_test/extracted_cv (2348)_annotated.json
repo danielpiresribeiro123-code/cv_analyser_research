@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "Mechanical Engineering",
+        "Mechanical Operation and Maintenance",
+        "First Class Boiler Attendant Certificate",
+        "DG’s"
+    ],
+    "professional_info": {
+        "person name": [
+            "G.BALAMURUGAN"
+        ],
+        "job title": [
+            "Mechanical Maintenance Incharge",
+            "Mechanical Maintenance Engineer",
+            "Senior Executive – Mechanical",
+            "Senior Engineer –Utility & Mechanical"
+        ],
+        "company": [
+            "Government of Tamilnadu",
+            "M/s  WARTSILA  DIESEL  (I)  LTD.",
+            "M/s. Shyam Power Tech – Gujarat",
+            "USP&E Africa",
+            "M/S.Timis Mining",
+            "Hyundai",
+            "M/s. Wartsila India Ltd.",
+            "Praxair India pvt ltd.",
+            "M/S.Vardhaman life sciences Pvt Ltd .",
+            "Wartsila"
+        ],
+        "university": [
+            "Muthiah Polytechnic",
+            "Annamalai University"
+        ],
+        "degree": [
+            "D.M.E",
+            "Diploma Mechanical Engg.",
+            "B.E ( Prod & Mech)"
+        ],
+        "years of experience": [
+            "21 Years of Experience"
+        ],
+        "address": [
+            "G                                                                    5/9, THIRD CROSS STREET",
+            "ELIM NAGAR",
+            "PERUNGUDI",
+            "Marampa"
+        ],
+        "email": [
+            "E-mail",
+            "govibala77@rediffmail.com",
+            "govinbala1977@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+917958670553/9444065733           CHENNAI-600096"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Mechanical Engineering": 0.525,
+            "Mechanical Operation and Maintenance": 0.1778,
+            "First Class Boiler Attendant Certificate": 0.6015,
+            "DG’s": 0.2284
+        },
+        "filename": "cv (2348)_annotated.json"
+    }
+}

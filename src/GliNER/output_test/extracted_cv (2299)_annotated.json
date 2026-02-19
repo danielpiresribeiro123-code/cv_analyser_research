@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "highly self-motivated and goal oriented individual",
+        "committed to excellence wish to become",
+        "significant  contributor",
+        "One & Half Year Diploma in FOOD AND BEVERAGE SERVICE DIPARTMENT",
+        "RS-CIT  COMPUTER  Certificate",
+        "SKILLS & STRENGTH",
+        "APPRECIATION Certificate",
+        "Positive Attitude",
+        "Good Communication Skill",
+        "Punctual",
+        "Hardworking",
+        "Unmarried",
+        "Languages Known",
+        "English",
+        "Hindi",
+        "Listening Music"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mr. Ramesh Chandra Jangid",
+            "Mrs. Maya Devi"
+        ],
+        "job title": [
+            "Hotel Management"
+        ],
+        "company": [
+            "BSER Ajmer",
+            "INSTITUTE OF HOTEL MANAGEMENT",
+            "VARDHMAN  MAHAVEER  OPEN",
+            "ITC RJPUTANA LTD.",
+            "INDIAN ARMY",
+            "ITC RAJPUTANA LTD",
+            "A Luxury, Collection Hotel"
+        ],
+        "university": [
+            "IGNOU"
+        ],
+        "degree": [
+            "Bachelor of Tourism Studies"
+        ],
+        "years of experience": [
+            "WORKING EXPERIENCE"
+        ],
+        "address": [
+            "Add:110",
+            "V.P.O. Jangirpura",
+            "Teh: Shri Madhopur",
+            "Rajsthan-332701"
+        ],
+        "email": [
+            "Email ID",
+            "Atuljangir1996@gmail.com"
+        ],
+        "phone": [
+            "Contact No.: - 7734893001"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "highly self-motivated and goal oriented individual": 0.331,
+            "committed to excellence wish to become": 0.3008,
+            "significant  contributor": 0.4502,
+            "One & Half Year Diploma in FOOD AND BEVERAGE SERVICE DIPARTMENT": 0.4043,
+            "RS-CIT  COMPUTER  Certificate": 0.8667,
+            "SKILLS & STRENGTH": 0.2644,
+            "APPRECIATION Certificate": 0.4399,
+            "Positive Attitude": 0.4839,
+            "Good Communication Skill": 0.4199,
+            "Punctual": 0.4864,
+            "Hardworking": 0.4983,
+            "Unmarried": 0.4757,
+            "Languages Known": 0.173,
+            "English": 0.7092,
+            "Hindi": 0.7305,
+            "Listening Music": 0.192
+        },
+        "filename": "cv (2299)_annotated.json"
+    }
+}

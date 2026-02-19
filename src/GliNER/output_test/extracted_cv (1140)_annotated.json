@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "Suite 21",
+        "Citizenship",
+        "Married",
+        "Orthopedic and Hand Surgery",
+        "Chairman",
+        "ATTENDING",
+        "Hand Surgery and Orthopedic Surgery"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dr. Louis Elias",
+            "Dr. George Lazar",
+            "Harold E. Kleinert"
+        ],
+        "job title": [
+            "M.D.",
+            "PERSONAL DATA",
+            "PROFESSIONAL PRACTICE",
+            "Associate Orthopedic Surgeon",
+            "Private Practice",
+            "Hand Surgery Consultant",
+            "PROFESSIONAL TRAINING",
+            "Rotating Intern",
+            "General Surgery Resident",
+            "Orthopedic Surgery Resident",
+            "Hand Surgery Fellow",
+            "PRIVILEDGES"
+        ],
+        "company": [
+            "CURRICULUM VITAE",
+            "CHONG MIN PARK",
+            "Kings Highway Medical Group",
+            "St. Joseph Hospi tal",
+            "The Brookdale Hospital Medical, Center"
+        ],
+        "university": [
+            "The University of Louisville Hospitals"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "22868 Route 68",
+            "Clarion",
+            "PA  16214",
+            "United States",
+            "Brooklyn",
+            "Baltimore",
+            "Westminster",
+            "Campbellsville",
+            "Flushing",
+            "Louisville"
+        ],
+        "email": [
+            "www.pacosm.com"
+        ],
+        "phone": [
+            "Office Phone",
+            "814.226.6573"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Suite 21": 0.8055,
+            "Citizenship": 0.1772,
+            "Married": 0.3338,
+            "Orthopedic and Hand Surgery": 0.5432,
+            "Chairman": 0.3818,
+            "ATTENDING": 0.2445,
+            "Hand Surgery and Orthopedic Surgery": 0.4416
+        },
+        "filename": "cv (1140)_annotated.json"
+    }
+}

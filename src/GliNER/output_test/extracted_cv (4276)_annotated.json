@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "detail - oriented",
+        "high energy",
+        "Social Science",
+        "comfortable",
+        "creative environment",
+        "Experience",
+        "Core Qualifications",
+        "Creative lesson planning",
+        "Excellent relationship building skills",
+        "Experiential learning",
+        "Interpersonal",
+        "oral",
+        "written communication skills",
+        "Differentiated learning",
+        "Positive and encouraging",
+        "Curriculum lesson plan development",
+        "Accomplishments",
+        "Secondary 7-12 Social Studies",
+        "Education",
+        "Business",
+        "Education Social Science",
+        "critical thinking skills"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "GUEST TEACHER",
+            "National Account Manager",
+            "Regional Sales Manager"
+        ],
+        "company": [
+            "Company Name",
+            "Starbucks Coffee",
+            "MGM International",
+            "Caesars Entertainment",
+            "StationÂ",
+            "Casinos",
+            "Intercontinental Hotels",
+            "Hilton Hotels"
+        ],
+        "university": [
+            "University of Nevada",
+            "Emporia State University"
+        ],
+        "degree": [
+            "MBA",
+            "Bachelor of Science"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "detail - oriented": 0.4136,
+            "high energy": 0.2342,
+            "Social Science": 0.2794,
+            "comfortable": 0.1853,
+            "creative environment": 0.1886,
+            "Experience": 0.4064,
+            "Core Qualifications": 0.2481,
+            "Creative lesson planning": 0.3306,
+            "Excellent relationship building skills": 0.3904,
+            "Experiential learning": 0.4046,
+            "Interpersonal": 0.638,
+            "oral": 0.3277,
+            "written communication skills": 0.1628,
+            "Differentiated learning": 0.3182,
+            "Positive and encouraging": 0.4767,
+            "Curriculum lesson plan development": 0.2112,
+            "Accomplishments": 0.2135,
+            "Secondary 7-12 Social Studies": 0.5739,
+            "Education": 0.2919,
+            "Business": 0.4175,
+            "Education Social Science": 0.6183,
+            "critical thinking skills": 0.295
+        },
+        "filename": "cv (4276)_annotated.json"
+    }
+}

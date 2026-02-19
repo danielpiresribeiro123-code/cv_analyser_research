@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "Manik Apartment Sudarshan Nagar",
+        "Project Management",
+        "Contract Management",
+        "Procurement",
+        "Planning",
+        "Vendor Development",
+        "Supply Chain Management",
+        "Techno-Commercial Negotiations",
+        "Cost Control",
+        "Projects",
+        "SCM",
+        "ERP"
+    ],
+    "professional_info": {
+        "person name": [
+            "Unmesh Ramesh Thorat"
+        ],
+        "job title": [
+            "Team Lead Execution"
+        ],
+        "company": [
+            "Solas Marine Services Group"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "rediffmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "+91 9028809240"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Manik Apartment Sudarshan Nagar": 0.1955,
+            "Project Management": 0.8422,
+            "Contract Management": 0.8315,
+            "Procurement": 0.4091,
+            "Planning": 0.3621,
+            "Vendor Development": 0.4555,
+            "Supply Chain Management": 0.7762,
+            "Techno-Commercial Negotiations": 0.3295,
+            "Cost Control": 0.1824,
+            "Projects": 0.1704,
+            "SCM": 0.2648,
+            "ERP": 0.4976
+        },
+        "filename": "cv (2261)_annotated.json"
+    }
+}

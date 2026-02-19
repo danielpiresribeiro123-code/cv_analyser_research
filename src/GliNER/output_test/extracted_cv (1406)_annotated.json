@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "Age",
+        "Sex",
+        "Male",
+        "Marital status",
+        "Single",
+        "Certificate in Computer packages(Distinction)"
+    ],
+    "professional_info": {
+        "person name": [
+            "Donald Wafula Bayayi",
+            "Kenyan",
+            "DAVID ALLIWAH",
+            "IRENE E. KITI"
+        ],
+        "job title": [
+            "Christian",
+            "Actor",
+            "Teacher",
+            "cyber attendant",
+            "REFEREES",
+            "Director",
+            "PRINCIPAL"
+        ],
+        "company": [
+            "Mini arcade cyber cafe"
+        ],
+        "university": [
+            "Machakos university",
+            "Delta Computer College"
+        ],
+        "degree": [
+            "Bachelor's degree in education arts",
+            "KCSE ( B PLAIN)",
+            "KCPE (318)"
+        ],
+        "years of experience": [
+            "23",
+            "0722982196"
+        ],
+        "address": [
+            "Residence",
+            "Bungoma"
+        ],
+        "email": [
+            "Email",
+            "donaldbayayi@gmail.com"
+        ],
+        "phone": [
+            "Phone no. 0704967862"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Age": 0.3144,
+            "Sex": 0.2764,
+            "Male": 0.3316,
+            "Marital status": 0.2336,
+            "Single": 0.4099,
+            "Certificate in Computer packages(Distinction)": 0.8908
+        },
+        "filename": "cv (1406)_annotated.json"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "Fluently bilingual",
+        "Arabic",
+        "English",
+        "Quick and adaptive learner",
+        "Punctual & well presented",
+        "Excellent communication Initiative  taking attitude",
+        "financial services industry",
+        "motivated student",
+        "finance realm",
+        "Organized and results oriented",
+        "excellent interpersonal skills",
+        "enjoy building lasting business relationships",
+        "audit",
+        "tax",
+        "consulting",
+        "risk & financial advisory",
+        "computer skills",
+        "Manage client relationships",
+        "Analyzing and researching financial data",
+        "client internal controls",
+        "Banking",
+        "Insurance Construction & Manafuctring",
+        "excelling work performance award"
+    ],
+    "professional_info": {
+        "person name": [
+            "AYMAN.ZARROUQ",
+            "ayman",
+            "Ayman Zarrouq",
+            "first year and intern level staff"
+        ],
+        "job title": [
+            "Finance professional",
+            "Experienced Associate – Assurance & Advisory"
+        ],
+        "company": [
+            "Big 4 firms",
+            "exciting and reputable company",
+            "Deloitte & Touché",
+            "Deloitte"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "3 years’  experience"
+        ],
+        "address": [
+            "P.O.Box 2237",
+            "Postal Code 112"
+        ],
+        "email": [
+            "YAHOO.COM"
+        ],
+        "phone": [
+            "+968) 98906079"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "Fluently bilingual": 0.3293,
+            "Arabic": 0.3909,
+            "English": 0.4211,
+            "Quick and adaptive learner": 0.3235,
+            "Punctual & well presented": 0.2058,
+            "Excellent communication Initiative  taking attitude": 0.3328,
+            "financial services industry": 0.1719,
+            "motivated student": 0.2061,
+            "finance realm": 0.3419,
+            "Organized and results oriented": 0.3896,
+            "excellent interpersonal skills": 0.5726,
+            "enjoy building lasting business relationships": 0.2286,
+            "audit": 0.4539,
+            "tax": 0.5001,
+            "consulting": 0.4791,
+            "risk & financial advisory": 0.4247,
+            "computer skills": 0.3489,
+            "Manage client relationships": 0.1627,
+            "Analyzing and researching financial data": 0.1589,
+            "client internal controls": 0.192,
+            "Banking": 0.3906,
+            "Insurance Construction & Manafuctring": 0.1698,
+            "excelling work performance award": 0.5605
+        },
+        "filename": "cv (1269)_annotated.json"
+    }
+}

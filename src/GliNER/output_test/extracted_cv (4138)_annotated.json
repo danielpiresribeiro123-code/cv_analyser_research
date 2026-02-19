@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "mechanical",
+        "Mechanical  engineering",
+        "technical skills",
+        "team work",
+        "task oriented hard work",
+        "systematic"
+    ],
+    "professional_info": {
+        "person name": [
+            "Pankaj kr. Mishra",
+            "PANKAJ KUMAR MISHRA"
+        ],
+        "job title": [
+            "Engineer",
+            "Mechanical Engineer"
+        ],
+        "company": [
+            "Tech. & Mgt.",
+            "Patratu  Thermal  Power  Plant",
+            "academy",
+            "C.B.S.E",
+            "B.TECH Karnal  inst.  of",
+            "Tech.&Management",
+            "Universities(Haryana)",
+            "Barauni refinery"
+        ],
+        "university": [
+            "Karnal Institute",
+            "10thJesus& Mary",
+            "Rajasthanvidyapeeth2008-11",
+            "Indian oil Corporation limited"
+        ],
+        "degree": [
+            "Diploma  IIMEDhanbad J.R.N"
+        ],
+        "years of experience": [],
+        "address": [
+            "Contact  Address",
+            "Locality-Navratannagarcolony  mangrauni  road",
+            "Pin code-847211"
+        ],
+        "email": [
+            "09570913150",
+            "E-mail",
+            "Pankajmishra.gk@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "mechanical": 0.1728,
+            "Mechanical  engineering": 0.5486,
+            "technical skills": 0.3148,
+            "team work": 0.4616,
+            "task oriented hard work": 0.52,
+            "systematic": 0.2254
+        },
+        "filename": "cv (4138)_annotated.json"
+    }
+}

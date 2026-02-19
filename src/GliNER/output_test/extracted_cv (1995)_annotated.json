@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "SKILLS / STRENGTHS",
+        "Tolerant and Flexible to Different Situations",
+        "Strong Customer Focus",
+        "Ability to work under pressure",
+        "Integrity",
+        "Post Graduate Diploma in Business Finance",
+        "IT SKILLS",
+        "Comprehensive knowledge",
+        "Microsoft Office Programs / XP",
+        "Word",
+        "Excel",
+        "Power Point",
+        "Competent user of the Internet",
+        "Customer service"
+    ],
+    "professional_info": {
+        "person name": [
+            "KAMRAN ALI"
+        ],
+        "job title": [
+            "Designation",
+            "Cash Supervisor",
+            "sales staff",
+            "cashiers",
+            "sales workers",
+            "Salesman"
+        ],
+        "company": [
+            "Red tag group  kingdom of Saudi Arabia",
+            "KSA",
+            "Landmark  Group  International  Limited",
+            "Kingdom  of  Saudi  Arabia"
+        ],
+        "university": [
+            "Advance Institute of Management",
+            "UPTU, Lucknow",
+            "A.M.U.",
+            "First Division"
+        ],
+        "degree": [
+            "Master of Business Administration (Marketing & Finance)",
+            "PGDBF"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "alikamran83@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9105820811"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "SKILLS / STRENGTHS": 0.2164,
+            "Tolerant and Flexible to Different Situations": 0.1681,
+            "Strong Customer Focus": 0.3272,
+            "Ability to work under pressure": 0.1701,
+            "Integrity": 0.1813,
+            "Post Graduate Diploma in Business Finance": 0.4491,
+            "IT SKILLS": 0.3853,
+            "Comprehensive knowledge": 0.19,
+            "Microsoft Office Programs / XP": 0.5196,
+            "Word": 0.2725,
+            "Excel": 0.1946,
+            "Power Point": 0.4749,
+            "Competent user of the Internet": 0.2235,
+            "Customer service": 0.2565
+        },
+        "filename": "cv (1995)_annotated.json"
+    }
+}

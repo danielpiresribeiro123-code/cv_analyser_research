@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "Magneto",
+        "SAP",
+        "Electrical & Electronics Engineering",
+        "Electrical & Electronics Engineering",
+        "PGDIA",
+        "ISO 9001:2015",
+        "Industrial Automation Tools",
+        "PLC",
+        "SCADA",
+        "HMI",
+        "TECHNICAL  SKILLS",
+        "Programmable Logic Controllers",
+        "Programming languages",
+        "LD",
+        "Ladder Diagram"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHAHUL HAMEED"
+        ],
+        "job title": [
+            "Project Engineer",
+            "M.S.P.Velayutha"
+        ],
+        "company": [
+            "TVS Motor Co mpany Limited",
+            "Hosur",
+            "Sardar Raja College of Engineering            Tirunelveli",
+            "Nadar Lakshmi Thaiammal Polytechnic College         Tirunelveli"
+        ],
+        "university": [],
+        "degree": [
+            "BE",
+            "High School Diploma"
+        ],
+        "years of experience": [
+            "EXPERIENCE",
+            "hands on practical experience"
+        ],
+        "address": [
+            "M 1/37",
+            "Pallivasal st",
+            "Veerasamudram"
+        ],
+        "email": [
+            "E mail",
+            "rmshahulhameed@gmail.com"
+        ],
+        "phone": [
+            "+971 555638707",
+            "+91 9655568223"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Magneto": 0.1938,
+            "SAP": 0.1788,
+            "Electrical & Electronics Engineering": 0.3988,
+            "PGDIA": 0.3391,
+            "ISO 9001:2015": 0.3835,
+            "Industrial Automation Tools": 0.5691,
+            "PLC": 0.5081,
+            "SCADA": 0.28,
+            "HMI": 0.2865,
+            "TECHNICAL  SKILLS": 0.3974,
+            "Programmable Logic Controllers": 0.2992,
+            "Programming languages": 0.3973,
+            "LD": 0.4617,
+            "Ladder Diagram": 0.4234
+        },
+        "filename": "cv (1880)_annotated.json"
+    }
+}

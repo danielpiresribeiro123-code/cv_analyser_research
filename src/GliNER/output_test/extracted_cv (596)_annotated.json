@@ -1,0 +1,53 @@
+{
+    "skills": [
+        "Technical and Professional Skills",
+        "knowledge",
+        "BS _171 (New Booster Station)"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHAMIM HAIDER"
+        ],
+        "job title": [
+            "piping engineer",
+            "piping Supervisor",
+            "Piping   Supervisor"
+        ],
+        "company": [
+            "HEISCO",
+            "FDH ( Joint Venture)",
+            "Kuwait-integrated petroleum industries company",
+            "COMPANY",
+            "KHARAFI   NATIONAL  KSC",
+            "GS E&C",
+            "KUWAIT   NATIONA   PETROLIUM   CORPORATION",
+            "Saipan   Engineering ( KUWAIT OIL COMPANY)"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Experience",
+            "7.5 years",
+            "4.5 years",
+            "Overseas Experience"
+        ],
+        "address": [],
+        "email": [
+            "E-mail",
+            "shamimhaider495@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9523982256"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "Technical and Professional Skills": 0.3321,
+            "knowledge": 0.2258,
+            "BS _171 (New Booster Station)": 0.1507
+        },
+        "filename": "cv (596)_annotated.json"
+    }
+}

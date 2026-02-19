@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "HINDI",
+        "ENGLISH",
+        "MARITAL STATUS",
+        "MARRIED",
+        "MOB.09560213571",
+        "COMPUTER KNOWLEDGE",
+        "GRAPHICDESIGN",
+        "BASIC",
+        "PHOTOSHOP",
+        "CORELDRAW",
+        "INDESIGN",
+        "ILLUSTARTOR",
+        "PHOTO"
+    ],
+    "professional_info": {
+        "person name": [
+            "INDIAN",
+            "HINDU",
+            "SUNIL KUMAR",
+            "SHRI. UMA SHANKAR PRASAD"
+        ],
+        "job title": [
+            "ASSISTANT PLUMBER",
+            "I.T.I FITTER",
+            "PLUMBING CONTRACTOR",
+            "Plumber"
+        ],
+        "company": [
+            "COMPANY",
+            "IN INDIA"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "DELHI",
+            "PRESENT ADDRESS",
+            "PERMANENT ADDRESS",
+            "H.NO.53",
+            "BLCOK F GALI NO 4",
+            "MOLARBAND BADARPUR",
+            "NEW DELHI",
+            "INTERNET"
+        ],
+        "email": [
+            "E-MAIL",
+            "skgraphic28@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "HINDI": 0.4021,
+            "ENGLISH": 0.2979,
+            "MARITAL STATUS": 0.21,
+            "MARRIED": 0.2176,
+            "MOB.09560213571": 0.1919,
+            "COMPUTER KNOWLEDGE": 0.3296,
+            "GRAPHICDESIGN": 0.7551,
+            "BASIC": 0.713,
+            "PHOTOSHOP": 0.7703,
+            "CORELDRAW": 0.7381,
+            "INDESIGN": 0.826,
+            "ILLUSTARTOR": 0.7823,
+            "PHOTO": 0.2799
+        },
+        "filename": "cv (2020)_annotated.json"
+    }
+}

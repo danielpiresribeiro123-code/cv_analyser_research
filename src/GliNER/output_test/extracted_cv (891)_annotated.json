@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "skills",
+        "cloud computing platform",
+        "Cryptography",
+        "Mobile Computing",
+        "ASP.NET",
+        "C",
+        "C++",
+        "Java",
+        "SQL",
+        "ISTP",
+        "Selenium",
+        "QTP",
+        "Manual testing",
+        "Library Management System",
+        "Swam Robotics"
+    ],
+    "professional_info": {
+        "person name": [
+            "NEETHU WILSON"
+        ],
+        "job title": [
+            "executive level management position"
+        ],
+        "company": [
+            "company",
+            "Kerala Board2012",
+            "ARENA CLUB"
+        ],
+        "university": [
+            "world class",
+            "Anna University"
+        ],
+        "degree": [
+            "B.TECH",
+            "HSCGovernment Hr"
+        ],
+        "years of experience": [],
+        "address": [
+            "Elambrathottathil house",
+            "Orappanpara"
+        ],
+        "email": [
+            "Email",
+            "neethuminnus@gmail.com",
+            "00918281297388"
+        ],
+        "phone": [
+            "Mobile No"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "skills": 0.228,
+            "cloud computing platform": 0.7836,
+            "Cryptography": 0.3938,
+            "Mobile Computing": 0.2148,
+            "ASP.NET": 0.5247,
+            "C": 0.3401,
+            "C++": 0.7229,
+            "Java": 0.7292,
+            "SQL": 0.6996,
+            "ISTP": 0.3805,
+            "Selenium": 0.1789,
+            "QTP": 0.2537,
+            "Manual testing": 0.3384,
+            "Library Management System": 0.5859,
+            "Swam Robotics": 0.2728
+        },
+        "filename": "cv (891)_annotated.json"
+    }
+}

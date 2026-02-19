@@ -1,0 +1,103 @@
+{
+    "skills": [
+        "Highly skilled",
+        "bilingual",
+        "English",
+        "Spanish",
+        "motivated professional",
+        "Core Qualifications",
+        "Report writing",
+        "Human resource knowledge",
+        "Professional demeanor",
+        "Time management ability",
+        "Ability to prioritize",
+        "Self-directed",
+        "Computer proficiency",
+        "Experience",
+        "Bookkeeping",
+        "copying",
+        "Liaised directly with customers",
+        "satisfaction",
+        "Data entry",
+        "Answering telephones",
+        "Register patients",
+        "CPR Certified",
+        "Skills",
+        "Clinical/Administrative Skills",
+        "Phlebotomy",
+        "Pharmacology",
+        "Clinical Asepsis",
+        "Health Insurance",
+        "MS Word",
+        "MS Excel",
+        "MS PowerPoint"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "ADMINISTRATIVE MANAGER",
+            "Professional Summary",
+            "Administrative Assistant",
+            "Front Desk/ Customer Service Rep",
+            "Registrar / Receptionist",
+            "Medical Assistant"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [
+            "Sanford Brown Institute"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [
+            "emails"
+        ],
+        "phone": [
+            "multiple phone lines",
+            "faxes",
+            "phone lines"
+        ]
+    },
+    "metadata": {
+        "total_skills": 31,
+        "confidence_scores": {
+            "Highly skilled": 0.2204,
+            "bilingual": 0.2813,
+            "English": 0.1743,
+            "Spanish": 0.3298,
+            "motivated professional": 0.1864,
+            "Core Qualifications": 0.2906,
+            "Report writing": 0.6107,
+            "Human resource knowledge": 0.554,
+            "Professional demeanor": 0.3913,
+            "Time management ability": 0.6167,
+            "Ability to prioritize": 0.6417,
+            "Self-directed": 0.3776,
+            "Computer proficiency": 0.7074,
+            "Experience": 0.2881,
+            "Bookkeeping": 0.4495,
+            "copying": 0.2559,
+            "Liaised directly with customers": 0.1787,
+            "satisfaction": 0.3144,
+            "Data entry": 0.4418,
+            "Answering telephones": 0.1993,
+            "Register patients": 0.1526,
+            "CPR Certified": 0.9368,
+            "Skills": 0.3723,
+            "Clinical/Administrative Skills": 0.4182,
+            "Phlebotomy": 0.2734,
+            "Pharmacology": 0.1653,
+            "Clinical Asepsis": 0.2655,
+            "Health Insurance": 0.157,
+            "MS Word": 0.4718,
+            "MS Excel": 0.3376,
+            "MS PowerPoint": 0.2645
+        },
+        "filename": "cv (4393)_annotated.json"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "enthusiasm",
+        "dedication",
+        "responsibility",
+        "good work ethic",
+        "First Class",
+        "Certification",
+        "Tally ERP 9",
+        "Strength",
+        "Positive Thinking",
+        "Helpful",
+        "Self Motivated",
+        "Hard Working & Punctual",
+        "Perfect Planning & Management"
+    ],
+    "professional_info": {
+        "person name": [
+            "Moumita Roy"
+        ],
+        "job title": [
+            "Designation",
+            "Account Assistant"
+        ],
+        "company": [
+            "Orion Education Pvt Ltd"
+        ],
+        "university": [
+            "Swami Vivekanand University",
+            "M.S. University",
+            "G.S.H.E.B",
+            "G.S.E.B."
+        ],
+        "degree": [
+            "MBA",
+            "B.Com",
+            "H.S.C.",
+            "S.S.C."
+        ],
+        "years of experience": [
+            "Experience"
+        ],
+        "address": [
+            "C-2",
+            "Ground Floor",
+            "Ashoknagar",
+            "Nr. Ami Society",
+            "Diwalipura, Baroda-390015",
+            "English Medium"
+        ],
+        "email": [
+            "Contact",
+            "EmailID",
+            "rmoumita03@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "enthusiasm": 0.4042,
+            "dedication": 0.3959,
+            "responsibility": 0.3835,
+            "good work ethic": 0.4659,
+            "First Class": 0.2307,
+            "Certification": 0.178,
+            "Tally ERP 9": 0.6078,
+            "Strength": 0.253,
+            "Positive Thinking": 0.4313,
+            "Helpful": 0.3408,
+            "Self Motivated": 0.4146,
+            "Hard Working & Punctual": 0.3699,
+            "Perfect Planning & Management": 0.231
+        },
+        "filename": "cv (94)_annotated.json"
+    }
+}

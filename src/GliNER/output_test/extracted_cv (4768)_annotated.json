@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "Microsoft Office",
+        "Sales",
+        "Quickbooks",
+        "Performance Management",
+        "Accounting",
+        "Market Research",
+        "Marketing Strategy",
+        "Marketing Communications",
+        "Financial Analysis",
+        "Public Relations",
+        "One-Size-Fits-All",
+        "individualism",
+        "autonomy",
+        "lone wolf",
+        "creativity",
+        "product positioning",
+        "marketing research",
+        "product positioning",
+        "market communication",
+        "individual"
+    ],
+    "professional_info": {
+        "person name": [
+            "Vincent Hall"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "4 years"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Microsoft Office": 0.9069,
+            "Sales": 0.2183,
+            "Quickbooks": 0.6687,
+            "Performance Management": 0.3226,
+            "Accounting": 0.497,
+            "Market Research": 0.6194,
+            "Marketing Strategy": 0.7289,
+            "Marketing Communications": 0.5004,
+            "Financial Analysis": 0.4866,
+            "Public Relations": 0.5794,
+            "One-Size-Fits-All": 0.3767,
+            "individualism": 0.5026,
+            "autonomy": 0.2868,
+            "lone wolf": 0.2291,
+            "creativity": 0.2753,
+            "product positioning": 0.5283,
+            "marketing research": 0.5107,
+            "market communication": 0.3218,
+            "individual": 0.168
+        },
+        "filename": "cv (4768)_annotated.json"
+    }
+}

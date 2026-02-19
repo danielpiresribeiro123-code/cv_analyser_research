@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "Project Management",
+        "Thermal Power Plant  Operation s",
+        "Operation & Maintenance",
+        "Fabrication of Heavy Structures",
+        "Productivity Enhancement",
+        "Project Planning & Execution",
+        "Cross -functional Coordination",
+        "Safety Management",
+        "Versatile",
+        "expertise",
+        "Certified Course",
+        "Primavera for Project Management",
+        "demonstrated ability to streamline operations",
+        "continuous improvement principles",
+        "cost saving measures",
+        "Exceptional resource -balancing skills",
+        "preventive maintenance",
+        "product development",
+        "multi -cultural communicator",
+        "quality compliance"
+    ],
+    "professional_info": {
+        "person name": [
+            "KUSHAL RAY"
+        ],
+        "job title": [
+            "Assistant / Project Manager",
+            "engineering management professional",
+            "Senior Engineer Role"
+        ],
+        "company": [
+            "reputed organization",
+            "D K Industries"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "+91 07003892633",
+            "09790923623",
+            "5+ years of experience"
+        ],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "kushal4517@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Project Management": 0.4563,
+            "Thermal Power Plant  Operation s": 0.1878,
+            "Operation & Maintenance": 0.1579,
+            "Fabrication of Heavy Structures": 0.1522,
+            "Productivity Enhancement": 0.225,
+            "Project Planning & Execution": 0.2437,
+            "Cross -functional Coordination": 0.198,
+            "Safety Management": 0.2941,
+            "Versatile": 0.1863,
+            "expertise": 0.3153,
+            "Certified Course": 0.6417,
+            "Primavera for Project Management": 0.6916,
+            "demonstrated ability to streamline operations": 0.1967,
+            "continuous improvement principles": 0.2039,
+            "cost saving measures": 0.151,
+            "Exceptional resource -balancing skills": 0.4109,
+            "preventive maintenance": 0.1567,
+            "product development": 0.1657,
+            "multi -cultural communicator": 0.2575,
+            "quality compliance": 0.1642
+        },
+        "filename": "cv (228)_annotated.json"
+    }
+}

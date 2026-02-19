@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "05-may-1993",
+        "Male",
+        "Single",
+        "English",
+        "Hindi",
+        "Urdu",
+        "CourseInstitutio",
+        "nUniversityPassingPercenta",
+        "ge",
+        "Cours",
+        "eInstitution BoardPassingPercenta",
+        "Engineering documents/Drawings"
+    ],
+    "professional_info": {
+        "person name": [
+            "MD TALIB ANSARI",
+            "Md, Neyaz Ahmad",
+            "12thAllam Iqbal"
+        ],
+        "job title": [
+            "Electrical Site Engineer"
+        ],
+        "company": [
+            "AL-Falah School of Engineering &, Technology",
+            "10thAjay pure High",
+            "VARDAAN, CONTRACTS      PRIVATE LIMITED",
+            "Diplomatic Green Project",
+            "VERDAAN CONTRACTS, PRIVATE LIMITED"
+        ],
+        "university": [
+            "Maharishi Dayanand University (Rohtak)"
+        ],
+        "degree": [
+            "B. Tech (ELECTRICAL & ELECTRONICS ENGINEERING)"
+        ],
+        "years of experience": [
+            "Experience",
+            "working experience"
+        ],
+        "address": [
+            "D-66",
+            "Abul Fazal Encl",
+            "Jamia Nagar",
+            "Block  H-1/176  New Seelam",
+            "Sec-111"
+        ],
+        "email": [
+            "Email",
+            "mdtalib65@gmail.com",
+            "Indian"
+        ],
+        "phone": [
+            "+919868783834",
+            "930863080"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "05-may-1993": 0.1753,
+            "Male": 0.3328,
+            "Single": 0.3858,
+            "English": 0.657,
+            "Hindi": 0.7929,
+            "Urdu": 0.8223,
+            "CourseInstitutio": 0.2601,
+            "nUniversityPassingPercenta": 0.167,
+            "ge": 0.2884,
+            "Cours": 0.2437,
+            "eInstitution BoardPassingPercenta": 0.1812,
+            "Engineering documents/Drawings": 0.1861
+        },
+        "filename": "cv (281)_annotated.json"
+    }
+}

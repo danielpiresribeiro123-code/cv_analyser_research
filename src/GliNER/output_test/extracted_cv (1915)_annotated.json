@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "technical knowledge",
+        "Quick learner",
+        "Good team player",
+        "Determination and dedication towards work",
+        "Cooperating and adjusting nature",
+        "positive attitude",
+        "Playing Chess",
+        "Making Friends",
+        "STRENGTHS",
+        "English & Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "SANJAY KUMAR SWAMEEB",
+            "ersanjay048",
+            "Sanjay kumar swamee",
+            "kishan lal",
+            "SANJAY KUMAR SWAMEEPERSONAL"
+        ],
+        "job title": [
+            "Ph. No.               9694551048"
+        ],
+        "company": [
+            "Qualification  Board/University YearMarks",
+            "Matriculation Board of Secondary Education",
+            "OMAX AUTOS LIMITED"
+        ],
+        "university": [
+            "RTU"
+        ],
+        "degree": [
+            "B.tech(Mechanical)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Dayanand  nagar  delhi  road  by  pass  rajbhatta"
+        ],
+        "email": [
+            "ersanjay048@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "technical knowledge": 0.2388,
+            "Quick learner": 0.4852,
+            "Good team player": 0.3311,
+            "Determination and dedication towards work": 0.2973,
+            "Cooperating and adjusting nature": 0.2541,
+            "positive attitude": 0.2323,
+            "Playing Chess": 0.1991,
+            "Making Friends": 0.2933,
+            "STRENGTHS": 0.1694,
+            "English & Hindi": 0.4527
+        },
+        "filename": "cv (1915)_annotated.json"
+    }
+}

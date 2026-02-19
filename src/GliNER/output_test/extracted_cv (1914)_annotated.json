@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "Knowledge",
+        "skills",
+        "Professional Skills",
+        "Master Diploma in Architectural  Design",
+        "AutoCAD",
+        "3DS MAX",
+        "REVIT Arch.",
+        "PPM Concept",
+        "Staad Pro.",
+        "V-Ray",
+        "Microsoft Office",
+        "Word",
+        "Powerpoint",
+        "Excel",
+        "INTERPERSONAL SKILL",
+        "Confident and Determined",
+        "Ability to cope up with different situations",
+        "English",
+        "Hindi",
+        "Single"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohd.Ariz   er.ariz1189",
+            "Kanth",
+            "Mr.Shujauddin"
+        ],
+        "job title": [
+            "Civil Engineer",
+            "Interior & Exterior Design Engineer"
+        ],
+        "company": [
+            "CADD Centre",
+            "Autodesk",
+            "MSP",
+            "Unique Constructio n",
+            "H M S ASSOCIATES",
+            "Kanth",
+            "My Homes Maker",
+            "Amro ha"
+        ],
+        "university": [
+            "U.P  2015-2017",
+            "High School  (10th)",
+            "UP Board of Allahabad  2013"
+        ],
+        "degree": [
+            "Diploma In Civil Engineering  Board of Technical Education"
+        ],
+        "years of experience": [
+            "Six months experience"
+        ],
+        "address": [
+            "Mohalla Ghosipura"
+        ],
+        "email": [
+            "gmail",
+            "fresh graduate",
+            "Indian"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 -8958196381"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Knowledge": 0.2349,
+            "skills": 0.1897,
+            "Professional Skills": 0.3737,
+            "Master Diploma in Architectural  Design": 0.5552,
+            "AutoCAD": 0.3065,
+            "3DS MAX": 0.5925,
+            "REVIT Arch.": 0.5558,
+            "PPM Concept": 0.2014,
+            "Staad Pro.": 0.5599,
+            "V-Ray": 0.4414,
+            "Microsoft Office": 0.5493,
+            "Word": 0.3984,
+            "Powerpoint": 0.376,
+            "Excel": 0.4299,
+            "INTERPERSONAL SKILL": 0.3378,
+            "Confident and Determined": 0.3166,
+            "Ability to cope up with different situations": 0.1743,
+            "English": 0.359,
+            "Hindi": 0.5908,
+            "Single": 0.2392
+        },
+        "filename": "cv (1914)_annotated.json"
+    }
+}

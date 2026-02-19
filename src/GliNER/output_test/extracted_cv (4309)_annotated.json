@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "Insurance",
+        "Healthcare",
+        "Project Management",
+        "Operational Leadership",
+        "Assertive and enthusiastic",
+        "extensive knowledge",
+        "risk management",
+        "business administration",
+        "unsurpassed work ethic",
+        "In-depth knowledge",
+        "Lean",
+        "Agile",
+        "Six Sigma",
+        "PMP",
+        "Project development",
+        "Business management methodology",
+        "Business and requirements analysis",
+        "HIPPA",
+        "Fair Credit Act",
+        "technical proficiency",
+        "metric driven tools",
+        "Detailed knowledge",
+        "Privacy Act",
+        "OSHA",
+        "Operations regulations",
+        "Affordable Health Care Act",
+        "security management"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Management Professional"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "Insurance": 0.1665,
+            "Healthcare": 0.3795,
+            "Project Management": 0.5473,
+            "Operational Leadership": 0.5109,
+            "Assertive and enthusiastic": 0.6347,
+            "extensive knowledge": 0.1907,
+            "risk management": 0.2324,
+            "business administration": 0.1872,
+            "unsurpassed work ethic": 0.4469,
+            "In-depth knowledge": 0.3324,
+            "Lean": 0.5874,
+            "Agile": 0.6445,
+            "Six Sigma": 0.7134,
+            "PMP": 0.2821,
+            "Project development": 0.5658,
+            "Business management methodology": 0.4352,
+            "Business and requirements analysis": 0.1573,
+            "HIPPA": 0.2576,
+            "Fair Credit Act": 0.2181,
+            "technical proficiency": 0.4963,
+            "metric driven tools": 0.2603,
+            "Detailed knowledge": 0.2494,
+            "Privacy Act": 0.2751,
+            "OSHA": 0.3295,
+            "Operations regulations": 0.2223,
+            "Affordable Health Care Act": 0.5131,
+            "security management": 0.1846
+        },
+        "filename": "cv (4309)_annotated.json"
+    }
+}

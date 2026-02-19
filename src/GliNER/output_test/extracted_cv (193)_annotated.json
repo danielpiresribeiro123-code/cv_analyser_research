@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "HSE Management",
+        "DIPLOMO IN MECHANICAL ENGINEERING",
+        "MATERIAL TESTING AND QUALITY CONTROL PROFESSIONAL CERTIFICATION",
+        "QUALITY CONTROL AND INSPECTION",
+        "ASNT NDT Level 2",
+        "Oil  and  gas  safety  management",
+        "Basic  First  aid  and CPR",
+        "OSHA POLICIESProfessional",
+        "world class Safety Norms"
+    ],
+    "professional_info": {
+        "person name": [
+            "JANARTHANAN.K",
+            "JANARTHANAN K"
+        ],
+        "job title": [
+            "HSE SUPERVISOR",
+            "SAFETY INSPECTOR",
+            "Safety Officer"
+        ],
+        "company": [
+            "CPCL POLYTECHNIC COLLEGE",
+            "RIG TECH OIL FIELD TRAINING CENTER",
+            "INSTITUTION OF OCCUPATIONAL HEALTH AND SAFETY",
+            "IOSH MS",
+            "Rigtech",
+            "CHENNAI PETROLEUM CORPORATION LTD.",
+            "Chennai petroleum corp Ltd",
+            "AEMS ENGINEERING PVT LTD",
+            "Chennai petroleum",
+            "Grass route Refinery"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "janarthanan.kumaravel06@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9551428675 / 9940411165",
+            "+91 9551428675"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "HSE Management": 0.3017,
+            "DIPLOMO IN MECHANICAL ENGINEERING": 0.1715,
+            "MATERIAL TESTING AND QUALITY CONTROL PROFESSIONAL CERTIFICATION": 0.2583,
+            "QUALITY CONTROL AND INSPECTION": 0.1787,
+            "ASNT NDT Level 2": 0.4285,
+            "Oil  and  gas  safety  management": 0.1579,
+            "Basic  First  aid  and CPR": 0.2259,
+            "OSHA POLICIESProfessional": 0.1587,
+            "world class Safety Norms": 0.6634
+        },
+        "filename": "cv (193)_annotated.json"
+    }
+}

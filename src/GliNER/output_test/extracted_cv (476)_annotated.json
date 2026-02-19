@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "technical skill",
+        "knowledge",
+        "total station",
+        "resection method",
+        "stakeout method",
+        "Chain",
+        "Compass",
+        "plane table",
+        "Auto  level",
+        "Dumpy  level",
+        "DGPS",
+        "land survey",
+        "boundary survey",
+        "topographic",
+        "Key skill",
+        "total  station",
+        "Instrument knowledge",
+        "Geomax     zoom 30     pro",
+        "Total Station Sokkia CX105",
+        "Total Station Nikon NPL 352",
+        "Auto Land Desk",
+        "Multi section",
+        "Auto-cad",
+        "MS-Office Package",
+        "Photoshop"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMAD DANISH WAKIL"
+        ],
+        "job title": [
+            "LAND SURVEYOR",
+            "LAND  SURVEYOR"
+        ],
+        "company": [
+            "Garmin",
+            "Trimble"
+        ],
+        "university": [
+            "collage & school"
+        ],
+        "degree": [],
+        "years of experience": [
+            "experience"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "danishwakil66@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-7070999718"
+        ]
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "technical skill": 0.414,
+            "knowledge": 0.2037,
+            "total station": 0.183,
+            "resection method": 0.8479,
+            "stakeout method": 0.8164,
+            "Chain": 0.2679,
+            "Compass": 0.3201,
+            "plane table": 0.372,
+            "Auto  level": 0.3595,
+            "Dumpy  level": 0.2987,
+            "DGPS": 0.3194,
+            "land survey": 0.2159,
+            "boundary survey": 0.1959,
+            "topographic": 0.1866,
+            "Key skill": 0.2861,
+            "total  station": 0.2186,
+            "Instrument knowledge": 0.4027,
+            "Geomax     zoom 30     pro": 0.2641,
+            "Total Station Sokkia CX105": 0.2771,
+            "Total Station Nikon NPL 352": 0.2622,
+            "Auto Land Desk": 0.3816,
+            "Multi section": 0.1911,
+            "Auto-cad": 0.2634,
+            "MS-Office Package": 0.861,
+            "Photoshop": 0.8523
+        },
+        "filename": "cv (476)_annotated.json"
+    }
+}

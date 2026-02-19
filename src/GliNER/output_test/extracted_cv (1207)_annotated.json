@@ -1,0 +1,50 @@
+{
+    "skills": [
+        "maestría",
+        "doctor en cotutela"
+    ],
+    "professional_info": {
+        "person name": [
+            "Juan Antonio Aguilar Garib",
+            "Dr. Juan Antonio AGUILAR-GARIB",
+            "Dr. Aguilar Garib",
+            "Dr.  Aguilar  Garib"
+        ],
+        "job title": [
+            "Profesor Titular"
+        ],
+        "company": [
+            "CONACYT",
+            "ECOS",
+            "Kemet  de  México",
+            "Marion Technologies"
+        ],
+        "university": [
+            "FIME",
+            "Universidad Autónoma de Nuevo León",
+            "UANL",
+            "Instituto Tecnológico de Saltillo",
+            "Universidad de Texas en Austin",
+            "ANUIES",
+            "Universidad Paul Sabatier"
+        ],
+        "degree": [
+            "Licenciatura en Ingeniería Mecánica",
+            "Maestría en Metalurgia",
+            "Doctorado en Ingeniería de Materiales",
+            "licenciatura"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "maestría": 0.2626,
+            "doctor en cotutela": 0.1982
+        },
+        "filename": "cv (1207)_annotated.json"
+    }
+}

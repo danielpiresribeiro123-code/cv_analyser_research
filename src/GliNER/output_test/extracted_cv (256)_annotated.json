@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "SHALU",
+        "Electronics Industries",
+        "Telecommunication & Networking",
+        "ACHIEVEMENT",
+        "CCNA",
+        "Wireless USB (Universal Serial Bus)",
+        "Male",
+        "Married",
+        "Linguistic Proficiency",
+        "English",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "shalukhan659",
+            "Shalu",
+            "Mr. Tinda",
+            "Mrs. Shahjahan",
+            "Indian"
+        ],
+        "job title": [
+            "MINI PROJECT",
+            "1PROJECT"
+        ],
+        "company": [
+            "ACADEMICS",
+            "UP Board",
+            "JETKING Lucknow",
+            "SHALU"
+        ],
+        "university": [
+            "FromSchool of Management Sciences&Institute ofTechnology,Lucknow",
+            "UP Board"
+        ],
+        "degree": [
+            "B. Tech. in Electronics & Communication Engineering",
+            "Fuse Automatic Change Over System At RDSO Lucknow"
+        ],
+        "years of experience": [],
+        "address": [
+            "Village & Post Bahrauli"
+        ],
+        "email": [
+            "E-mail id",
+            "gmail.com"
+        ],
+        "phone": [
+            "Contact no",
+            "+918853006003",
+            "+917007634961"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "SHALU": 0.2091,
+            "Electronics Industries": 0.2566,
+            "Telecommunication & Networking": 0.573,
+            "ACHIEVEMENT": 0.1652,
+            "CCNA": 0.8712,
+            "Wireless USB (Universal Serial Bus)": 0.2649,
+            "Male": 0.2496,
+            "Married": 0.4018,
+            "Linguistic Proficiency": 0.3397,
+            "English": 0.4777,
+            "Hindi": 0.6326
+        },
+        "filename": "cv (256)_annotated.json"
+    }
+}

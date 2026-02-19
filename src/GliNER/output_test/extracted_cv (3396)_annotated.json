@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "consistent",
+        "hard working",
+        "highly motivated person",
+        "friendly",
+        "outgoing",
+        "dependable  person",
+        "MS-Office"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sd.Jani",
+            "S/o Mastan Vali",
+            "I"
+        ],
+        "job title": [
+            "Jr.Engineer"
+        ],
+        "company": [
+            "GVRINFRA PROJECTS LTD",
+            "S.Govt. Polytechnic College",
+            "KakinadaNova College Of Engg And Technology",
+            "GVRINFRA PROJECTS  Ltd"
+        ],
+        "university": [
+            "Jawaharlal Nehru Technical University"
+        ],
+        "degree": [
+            "Diploma (Mech)",
+            "Btech (Mech)"
+        ],
+        "years of experience": [
+            "200787 %",
+            "201664%"
+        ],
+        "address": [
+            "Macherla (M.D)",
+            "Guntur (dist)",
+            "Macherla",
+            "Jangareddygudem"
+        ],
+        "email": [
+            "E-Mail",
+            "mightymech303@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "consistent": 0.4731,
+            "hard working": 0.401,
+            "highly motivated person": 0.3777,
+            "friendly": 0.444,
+            "outgoing": 0.3318,
+            "dependable  person": 0.2525,
+            "MS-Office": 0.676
+        },
+        "filename": "cv (3396)_annotated.json"
+    }
+}

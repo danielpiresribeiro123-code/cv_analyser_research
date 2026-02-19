@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "Discipline",
+        "6  Month Computer Operator & Data",
+        "Diploma  in  Computer",
+        "Field Work",
+        "Signature   Examination",
+        "Science",
+        "Psychology",
+        "sociologySuryanath"
+    ],
+    "professional_info": {
+        "person name": [
+            "Birendra  kumar",
+            "Birendra Kumar",
+            "Rambilash Mahato",
+            "Usha Devi"
+        ],
+        "job title": [
+            "Entry Operator",
+            "Manager"
+        ],
+        "company": [
+            "company",
+            "Techinical Education Board",
+            "Technology U.P  Gov. Recognized",
+            "Intermediate Commerce S.S  Inter Collage"
+        ],
+        "university": [
+            "Rajkiye  Mahila",
+            "Petrolium Varanasi",
+            "Varanasi   U.P. BOARD"
+        ],
+        "degree": [
+            "DIPLOMA"
+        ],
+        "years of experience": [],
+        "address": [
+            "N-12/342 R-1-M  Shivratanpur"
+        ],
+        "email": [
+            "+919506183797",
+            "Kumar.birendra238@gmail .com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Discipline": 0.1878,
+            "6  Month Computer Operator & Data": 0.1539,
+            "Diploma  in  Computer": 0.2609,
+            "Field Work": 0.2908,
+            "Signature   Examination": 0.1604,
+            "Science": 0.3628,
+            "Psychology": 0.7125,
+            "sociologySuryanath": 0.4917
+        },
+        "filename": "cv (2700)_annotated.json"
+    }
+}

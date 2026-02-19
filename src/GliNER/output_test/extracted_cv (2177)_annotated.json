@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "knowledge",
+        "Communication",
+        "Engineering",
+        "Electronics &",
+        "Fiber optical Installation",
+        "Wireless Communication",
+        "Long Term Evolution",
+        "Microwave Transmission",
+        "GSM",
+        "WCDMA",
+        "3GPP",
+        "RF Optimization",
+        "Telecommunication & Networking",
+        "System Troubleshooting",
+        "Electronic components & Chip",
+        "CARRIER HIGHLIGHTS",
+        "Fiber rectification",
+        "OTDR",
+        "Project management"
+    ],
+    "professional_info": {
+        "person name": [
+            "MAHESWARAMUNIRAJ.V",
+            "maheshmvr4",
+            "Thiru Ramakrishna"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "University",
+            "RVS College of",
+            "Anna",
+            "Vinayaka Missions",
+            "Nallammai Polytechnic"
+        ],
+        "degree": [
+            "M.E",
+            "B.E",
+            "D.E.C.E"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "mvmakesh04@gmail.com",
+            "Skype"
+        ],
+        "phone": [
+            "+91 8760999856"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "knowledge": 0.181,
+            "Communication": 0.1858,
+            "Engineering": 0.2464,
+            "Electronics &": 0.2765,
+            "Fiber optical Installation": 0.5434,
+            "Wireless Communication": 0.7372,
+            "Long Term Evolution": 0.5929,
+            "Microwave Transmission": 0.6732,
+            "GSM": 0.8208,
+            "WCDMA": 0.6404,
+            "3GPP": 0.6254,
+            "RF Optimization": 0.4969,
+            "Telecommunication & Networking": 0.5428,
+            "System Troubleshooting": 0.2966,
+            "Electronic components & Chip": 0.2325,
+            "CARRIER HIGHLIGHTS": 0.2859,
+            "Fiber rectification": 0.1805,
+            "OTDR": 0.1988,
+            "Project management": 0.1947
+        },
+        "filename": "cv (2177)_annotated.json"
+    }
+}

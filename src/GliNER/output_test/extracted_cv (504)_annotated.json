@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "talent",
+        "MECHANICAL",
+        "ENGINEERING",
+        "Production Technology",
+        "Automobile engineering",
+        "Basic  ‘C’ language",
+        "windows  xp",
+        "windows 8",
+        "English",
+        "Hindi",
+        "Marital Status",
+        "Unmarried"
+    ],
+    "professional_info": {
+        "person name": [
+            "FIROZ KHAN",
+            "Dr. APJ Abdul Kalam",
+            "Mr. Rahat Ali",
+            "Mrs. Chaman Bano"
+        ],
+        "job title": [],
+        "company": [
+            "organization",
+            "CBSE BOARD",
+            "ICSE BOARD"
+        ],
+        "university": [
+            "Uttar Pradesh Technical University"
+        ],
+        "degree": [
+            "Bachelor of Technology"
+        ],
+        "years of experience": [],
+        "address": [
+            "12/128",
+            "sec-12 Shastri Nagar"
+        ],
+        "email": [
+            "firozkhan089@gmail.com",
+            "Muslim"
+        ],
+        "phone": [
+            "+91-9758565672",
+            "Contact  number"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "talent": 0.1929,
+            "MECHANICAL": 0.2732,
+            "ENGINEERING": 0.2618,
+            "Production Technology": 0.5857,
+            "Automobile engineering": 0.5156,
+            "Basic  ‘C’ language": 0.4843,
+            "windows  xp": 0.8844,
+            "windows 8": 0.9079,
+            "English": 0.6039,
+            "Hindi": 0.631,
+            "Marital Status": 0.182,
+            "Unmarried": 0.3649
+        },
+        "filename": "cv (504)_annotated.json"
+    }
+}

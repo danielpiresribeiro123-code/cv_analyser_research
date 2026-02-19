@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "permit to work system"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ghulam Mohammad"
+        ],
+        "job title": [
+            "Facility Engineer/ Supervisor",
+            "Facility Supervisor",
+            "MEP Engineer",
+            "MEP Foreman",
+            "Multi Technician",
+            "Electrician cum Operator"
+        ],
+        "company": [
+            "Emrill Integrated Facility Management LLC",
+            "Adecco India (P) Ltd",
+            "Lotus Specie The 3C Company",
+            "Feedback Infrastructure (P) Ltd",
+            "MMR Group Infrastructure & Developer (P) Ltd",
+            "MMR Studio Noida",
+            "DEC Property Management (P) Ltd",
+            "Unisol Integrated Infra Services (P) Ltd",
+            "Magnum Strips & Tube Gurgaon",
+            "Ion Exchange Services (India) Ltd"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "MGF Metropolitan Mall New Delhi"
+        ],
+        "email": [
+            "ghulammohd786@gmail.com"
+        ],
+        "phone": [
+            "Mobile Number",
+            "+919810381531",
+            "+918954066848"
+        ]
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "permit to work system": 0.2111
+        },
+        "filename": "cv (357)_annotated.json"
+    }
+}

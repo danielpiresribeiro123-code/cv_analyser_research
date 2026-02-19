@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "7503773801",
+        "Career Objective",
+        "10th Passed",
+        "12th Passed",
+        "Technical Education",
+        "Diploma in Refrigeration and Air - Condition",
+        "Marital Status",
+        "Unmarried"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohd Suleman",
+            "Mr. Sahabuddin",
+            "Indian"
+        ],
+        "job title": [
+            "A/C Technician"
+        ],
+        "company": [
+            "UP Board",
+            "Singh Ai Con. & Refr. works"
+        ],
+        "university": [
+            "Uma Technical Degree College"
+        ],
+        "degree": [],
+        "years of experience": [
+            "+91 7291916136",
+            "Work Experience"
+        ],
+        "address": [
+            "Vill- Kharkhori",
+            "PO- Sahjanawa Babu"
+        ],
+        "email": [
+            "Email ID",
+            "mohdsuleman181@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "7503773801": 0.152,
+            "Career Objective": 0.1505,
+            "10th Passed": 0.3539,
+            "12th Passed": 0.3731,
+            "Technical Education": 0.2302,
+            "Diploma in Refrigeration and Air - Condition": 0.7761,
+            "Marital Status": 0.1997,
+            "Unmarried": 0.3477
+        },
+        "filename": "cv (3061)_annotated.json"
+    }
+}

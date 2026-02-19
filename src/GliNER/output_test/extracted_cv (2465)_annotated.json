@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "Engineering",
+        "SMB",
+        "LCP panels",
+        "Bus -duct systems",
+        "Cable systems",
+        "BMS",
+        "Fire Alarm",
+        "PA",
+        "Satellite TV",
+        "Audio & Video systems",
+        "Electrical Engineer Grade –A License",
+        "KAHRAMAA approved Engineer License",
+        "Civil Defence Authorization Certificate",
+        "Electrical Competency Certificate",
+        "LV",
+        "SCADA system",
+        "HVAC system",
+        "Battery Charging unit",
+        "light ing system"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAGHU  MAYAKRISHNAN",
+            "raghu.mayakrishnan"
+        ],
+        "job title": [
+            "Electrical Engineer",
+            "Project Manager"
+        ],
+        "company": [
+            "Marafiq",
+            "Saudi Aramco",
+            "Saudi Council of Engineers, Kingdom of Saudi Arabia",
+            "Qatar Baladiya Ministry",
+            "Qatar Civil Dept",
+            "Govt of Tamilnadu / India",
+            "Technical & I ndustrial Services Company",
+            "tisco",
+            "Kingdom of Saudi Arabia"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Years of experience",
+            "24 Years"
+        ],
+        "address": [],
+        "email": [
+            "E-mail",
+            "maya.raghu.19@gmail.com"
+        ],
+        "phone": [
+            "+ 91 85007 67 719",
+            "+91 98666 98479",
+            "Skype"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Engineering": 0.2592,
+            "SMB": 0.1678,
+            "LCP panels": 0.1738,
+            "Bus -duct systems": 0.1751,
+            "Cable systems": 0.1888,
+            "BMS": 0.2992,
+            "Fire Alarm": 0.1838,
+            "PA": 0.1774,
+            "Satellite TV": 0.1925,
+            "Audio & Video systems": 0.2515,
+            "Electrical Engineer Grade –A License": 0.7313,
+            "KAHRAMAA approved Engineer License": 0.6976,
+            "Civil Defence Authorization Certificate": 0.8825,
+            "Electrical Competency Certificate": 0.8637,
+            "LV": 0.1619,
+            "SCADA system": 0.2483,
+            "HVAC system": 0.2233,
+            "Battery Charging unit": 0.3212,
+            "light ing system": 0.1614
+        },
+        "filename": "cv (2465)_annotated.json"
+    }
+}

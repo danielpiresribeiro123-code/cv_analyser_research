@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "interpersonal communication",
+        "time management",
+        "problem resolution",
+        "organizational skills",
+        "advanced knowledge",
+        "MS Office Suite",
+        "Excel databases",
+        "PowerPoint presentations",
+        "tenacity",
+        "attention to detail",
+        "Excellent communication skills",
+        "Database management",
+        "Articulate",
+        "Customer service-oriented",
+        "Works well under pressure",
+        "Appointment setting",
+        "Team building",
+        "Accounting familiarity",
+        "Flexible",
+        "Accurate and detailed",
+        "Internet"
+    ],
+    "professional_info": {
+        "person name": [
+            "HISTORY TEACHER"
+        ],
+        "job title": [
+            "Administrative Assistant",
+            "Technically-adept [Job Title]",
+            "Quality-focused [Job Title]",
+            "Office Manager",
+            "Excellent planner and coordinator",
+            "Principal Mrs. Karen Noble"
+        ],
+        "company": [
+            "company",
+            "Company Name â€“ City , State"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "email correspondence"
+        ],
+        "phone": [
+            "Professional phone",
+            "home calls"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "interpersonal communication": 0.3613,
+            "time management": 0.1769,
+            "problem resolution": 0.2721,
+            "organizational skills": 0.2319,
+            "advanced knowledge": 0.1776,
+            "MS Office Suite": 0.9152,
+            "Excel databases": 0.4183,
+            "PowerPoint presentations": 0.3968,
+            "tenacity": 0.2755,
+            "attention to detail": 0.3155,
+            "Excellent communication skills": 0.3466,
+            "Database management": 0.3134,
+            "Articulate": 0.2895,
+            "Customer service-oriented": 0.2703,
+            "Works well under pressure": 0.1581,
+            "Appointment setting": 0.189,
+            "Team building": 0.2726,
+            "Accounting familiarity": 0.167,
+            "Flexible": 0.1832,
+            "Accurate and detailed": 0.2157,
+            "Internet": 0.4971
+        },
+        "filename": "cv (4776)_annotated.json"
+    }
+}

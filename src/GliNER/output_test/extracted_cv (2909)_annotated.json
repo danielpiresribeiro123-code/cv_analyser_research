@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "flexible",
+        "innovative",
+        "skillful",
+        "Technical Expertise"
+    ],
+    "professional_info": {
+        "person name": [
+            "MD AUARNGZEB",
+            "md.auarngzeb"
+        ],
+        "job title": [
+            "HVAC ENGINEER",
+            "Plumbers",
+            "Electricians",
+            "contractors"
+        ],
+        "company": [
+            "AIRCON ENTERPRISES"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Two  year s  experience"
+        ],
+        "address": [
+            "H-77/14",
+            "White apartment",
+            "third floor",
+            "Batla House",
+            "Ja mia Nagar",
+            "O khla",
+            "New Delhi",
+            "Pi n-110025",
+            "I ndia"
+        ],
+        "email": [
+            "Email",
+            "9708589096"
+        ],
+        "phone": [
+            "+91-9136048600"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "flexible": 0.2822,
+            "innovative": 0.2852,
+            "skillful": 0.3473,
+            "Technical Expertise": 0.5365
+        },
+        "filename": "cv (2909)_annotated.json"
+    }
+}

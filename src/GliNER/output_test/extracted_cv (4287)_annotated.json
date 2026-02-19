@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "Power-plant & Airframe Technology",
+        "FAA A&P license",
+        "troubleshooting",
+        "experience",
+        "splicing belts",
+        "rebuilding",
+        "pumps",
+        "changing motors",
+        "bearing and gearboxes",
+        "Detail-oriented",
+        "experience",
+        "Maintenance",
+        "Inspections",
+        "Repairs",
+        "Troubleshooting",
+        "Work Experience",
+        "Airframe & Power-plant Technology",
+        "FAAÂ Airframe &Â Power-plantÂ License"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "MAINTENANCE MECHANIC",
+            "maintenanceÂ mechanicÂ",
+            "A&P Mechanic",
+            "Carpenter",
+            "OSR/ Cart Attendant"
+        ],
+        "company": [
+            "Fairmount Santrol",
+            "Company Name"
+        ],
+        "university": [
+            "Hallmark University"
+        ],
+        "degree": [
+            "Associate of Applied Science"
+        ],
+        "years of experience": [
+            "experience",
+            "troubleshooting"
+        ],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Power-plant & Airframe Technology": 0.44,
+            "FAA A&P license": 0.9766,
+            "troubleshooting": 0.2495,
+            "experience": 0.1975,
+            "splicing belts": 0.4094,
+            "rebuilding": 0.2507,
+            "pumps": 0.2999,
+            "changing motors": 0.1955,
+            "bearing and gearboxes": 0.1751,
+            "Detail-oriented": 0.2827,
+            "Maintenance": 0.5771,
+            "Inspections": 0.1537,
+            "Repairs": 0.1817,
+            "Troubleshooting": 0.2261,
+            "Work Experience": 0.1672,
+            "Airframe & Power-plant Technology": 0.2817,
+            "FAAÂ Airframe &Â Power-plantÂ License": 0.8751
+        },
+        "filename": "cv (4287)_annotated.json"
+    }
+}

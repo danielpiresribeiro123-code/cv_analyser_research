@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "RESOLUTION SKILLS",
+        "Adaptable and flexible",
+        "Totally dependable",
+        "Efficient",
+        "creative",
+        "Self-initiating",
+        "eager and willing to learn",
+        "Vels UniversityCGPA-9.08",
+        "CLOUD COMPUTING",
+        "explicit dynamic data",
+        "block update",
+        "erasure correcting code",
+        "dependability",
+        "WEB PASSWORD HASHING",
+        "JAVA",
+        "AAKASH ANDROID APPLICATION PROGRAMMING",
+        "J2EE",
+        "EJB"
+    ],
+    "professional_info": {
+        "person name": [
+            "GIRIJA VIVEKANANDANE-mail",
+            "girijavivek89",
+            "Vivekanandan D"
+        ],
+        "job title": [
+            "Teaching Fellow",
+            "Faculty advisor"
+        ],
+        "company": [],
+        "university": [
+            "Bharathidasan UniversityCGPA",
+            "Madras Institute of Technology",
+            "Anna University"
+        ],
+        "degree": [
+            "MCA",
+            "BCA",
+            "PhD"
+        ],
+        "years of experience": [],
+        "address": [
+            "Chromepet",
+            "Chennai -44",
+            "Present Address"
+        ],
+        "email": [
+            "Vivek.acm@mitindia.edu",
+            "Intercom"
+        ],
+        "phone": [
+            "Mobile",
+            "7667354354",
+            "044-22516314"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "RESOLUTION SKILLS": 0.1768,
+            "Adaptable and flexible": 0.2975,
+            "Totally dependable": 0.3506,
+            "Efficient": 0.2586,
+            "creative": 0.2675,
+            "Self-initiating": 0.2803,
+            "eager and willing to learn": 0.1546,
+            "Vels UniversityCGPA-9.08": 0.2441,
+            "CLOUD COMPUTING": 0.5801,
+            "explicit dynamic data": 0.1561,
+            "block update": 0.1663,
+            "erasure correcting code": 0.2412,
+            "dependability": 0.291,
+            "WEB PASSWORD HASHING": 0.1506,
+            "JAVA": 0.8799,
+            "AAKASH ANDROID APPLICATION PROGRAMMING": 0.1536,
+            "J2EE": 0.4573,
+            "EJB": 0.6173
+        },
+        "filename": "cv (1589)_annotated.json"
+    }
+}

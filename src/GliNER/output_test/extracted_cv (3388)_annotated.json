@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "CARRIER OBJECTIVE",
+        "Diploma",
+        "Mechanical engg",
+        "STRENGTH",
+        "Accepting Challenges As opportunity",
+        "Honest",
+        "commitment to work",
+        "Believe in Teamwork",
+        "Male",
+        "English",
+        "Hindi",
+        "Urdu",
+        "Unmarried"
+    ],
+    "professional_info": {
+        "person name": [
+            "Nazir alam",
+            "Mr Nazim uddin",
+            "Indian"
+        ],
+        "job title": [
+            "Career",
+            "Educational Qualifications"
+        ],
+        "company": [
+            "munjal showa ltd",
+            "MAGADH ITI",
+            "K.K POLYTECHNIC"
+        ],
+        "university": [
+            "BSEB Board",
+            "Nalanda Bihar"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Experience",
+            "1 Years experience"
+        ],
+        "address": [
+            "Ward no.14",
+            "Dis",
+            "Jehanabad",
+            "Bihar-804422",
+            "manesar"
+        ],
+        "email": [
+            "E-Mail-naziralam280@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "CARRIER OBJECTIVE": 0.1966,
+            "Diploma": 0.6038,
+            "Mechanical engg": 0.1739,
+            "STRENGTH": 0.3135,
+            "Accepting Challenges As opportunity": 0.1705,
+            "Honest": 0.3423,
+            "commitment to work": 0.239,
+            "Believe in Teamwork": 0.2889,
+            "Male": 0.2688,
+            "English": 0.8633,
+            "Hindi": 0.885,
+            "Urdu": 0.7999,
+            "Unmarried": 0.3578
+        },
+        "filename": "cv (3388)_annotated.json"
+    }
+}

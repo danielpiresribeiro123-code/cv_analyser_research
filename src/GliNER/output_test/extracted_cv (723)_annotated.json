@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "skills",
+        "creativity",
+        "enthusiasm",
+        "innovative thoughts",
+        "skills",
+        "Electrical",
+        "Engineering",
+        "Power Problems in Electric Traction System",
+        "Overload And Earth Fault Protection Of  Redial Feeder",
+        "COMPUTER PROFICIENCY",
+        "General Uses",
+        "AUTOCAD",
+        "PSIM",
+        "MATLAB",
+        "KEIL8051",
+        "tech talent 2k13",
+        "electro hunt",
+        "FIELD OF INTREST"
+    ],
+    "professional_info": {
+        "person name": [
+            "Paras Italiya",
+            "I",
+            "Sir B havsinhji"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "Modasa",
+            "Gujarat Technological",
+            "University",
+            "Polytechnic Institute",
+            "S.S.C.  A.K Moradiya high",
+            "Education Board",
+            "Government engineering collage"
+        ],
+        "degree": [
+            "Diploma Elect .",
+            "B.E Elect .",
+            "B.E. in",
+            "Diploma in",
+            "Diploma Final year",
+            "B.E Final year"
+        ],
+        "years of experience": [],
+        "address": [
+            "Donda Street At- Nari",
+            "Pin-3640 04",
+            "Mo: 9033656332",
+            "Internet"
+        ],
+        "email": [
+            "E mail",
+            "italiya_paras09@yahoo.in"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "skills": 0.3394,
+            "creativity": 0.2989,
+            "enthusiasm": 0.2513,
+            "innovative thoughts": 0.3069,
+            "Electrical": 0.5269,
+            "Engineering": 0.5688,
+            "Power Problems in Electric Traction System": 0.2935,
+            "Overload And Earth Fault Protection Of  Redial Feeder": 0.1785,
+            "COMPUTER PROFICIENCY": 0.4743,
+            "General Uses": 0.1787,
+            "AUTOCAD": 0.5654,
+            "PSIM": 0.4654,
+            "MATLAB": 0.4862,
+            "KEIL8051": 0.5094,
+            "tech talent 2k13": 0.2515,
+            "electro hunt": 0.203,
+            "FIELD OF INTREST": 0.3206
+        },
+        "filename": "cv (723)_annotated.json"
+    }
+}

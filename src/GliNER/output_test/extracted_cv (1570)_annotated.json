@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "P. G. Dip.",
+        "Early Childhood Education",
+        "Counselling and Psychology",
+        "P. G. Dip",
+        "Education Administration and Supervision",
+        "Strength",
+        "Communication Skill",
+        "Smart class knowledge",
+        "self-ideology",
+        "Profound knowledge",
+        "ability to teach",
+        "communication and written skills",
+        "ability to explain the text"
+    ],
+    "professional_info": {
+        "person name": [
+            "Kothainayaki Rajagopal",
+            "Swami Vivekananda"
+        ],
+        "job title": [
+            "Teacher"
+        ],
+        "company": [],
+        "university": [
+            "Tamil Nadu Teacher Education University",
+            "Annamalai University",
+            "Maharishi Vidya Mandir School"
+        ],
+        "degree": [
+            "M.Ed.",
+            "Master of Education",
+            "B.Ed.",
+            "Bachelor of Education",
+            "M.Com.",
+            "Master of Commerce"
+        ],
+        "years of experience": [
+            "8 Years",
+            "8 years of experience"
+        ],
+        "address": [],
+        "email": [
+            "Contact no.",
+            "97108 52429",
+            "E-mail",
+            "kothainayakirajagopal@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "P. G. Dip.": 0.6865,
+            "Early Childhood Education": 0.5013,
+            "Counselling and Psychology": 0.4518,
+            "P. G. Dip": 0.5939,
+            "Education Administration and Supervision": 0.4337,
+            "Strength": 0.1521,
+            "Communication Skill": 0.2884,
+            "Smart class knowledge": 0.4334,
+            "self-ideology": 0.1569,
+            "Profound knowledge": 0.432,
+            "ability to teach": 0.3109,
+            "communication and written skills": 0.2543,
+            "ability to explain the text": 0.4047
+        },
+        "filename": "cv (1570)_annotated.json"
+    }
+}

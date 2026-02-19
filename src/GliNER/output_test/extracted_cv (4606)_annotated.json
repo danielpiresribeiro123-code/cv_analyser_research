@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "Committed and motivated",
+        "exceptional customer service",
+        "decision making skills",
+        "Strong work ethic",
+        "professional demeanor",
+        "great initiative",
+        "Operation Management",
+        "Microsoft Office Suite",
+        "Desktop Publishing",
+        "Internet Usage",
+        "Office Management",
+        "scheduling",
+        "adept at juggling",
+        "excellent people skills",
+        "resourceful",
+        "creative",
+        "solution-oriented person",
+        "team leader"
+    ],
+    "professional_info": {
+        "person name": [
+            "George Curry",
+            "Dr. Julianne Malveaux",
+            "Murray Dewalt"
+        ],
+        "job title": [
+            "Executive Administrators",
+            "Security Chief",
+            "EXECUTIVE ADMINISTRATION AND OPERATIONS MANAGER",
+            "Executive Assistant",
+            "President",
+            "Chief Marketing Officer"
+        ],
+        "company": [
+            "President Emeriti-Bennett College",
+            "Rev. Jesse L. Jackson",
+            "Company Name",
+            "President",
+            "Company Name City , State"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City , State"
+        ],
+        "email": [
+            "Email"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Committed and motivated": 0.2033,
+            "exceptional customer service": 0.204,
+            "decision making skills": 0.2503,
+            "Strong work ethic": 0.4561,
+            "professional demeanor": 0.479,
+            "great initiative": 0.3762,
+            "Operation Management": 0.2209,
+            "Microsoft Office Suite": 0.7626,
+            "Desktop Publishing": 0.5007,
+            "Internet Usage": 0.1537,
+            "Office Management": 0.248,
+            "scheduling": 0.3462,
+            "adept at juggling": 0.3808,
+            "excellent people skills": 0.4132,
+            "resourceful": 0.4406,
+            "creative": 0.5374,
+            "solution-oriented person": 0.4688,
+            "team leader": 0.2942
+        },
+        "filename": "cv (4606)_annotated.json"
+    }
+}

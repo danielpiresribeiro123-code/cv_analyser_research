@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "company Quality Management System",
+        "Mechanical Engineering",
+        "Secondary School Certificate",
+        "SSC",
+        "Fire Fighting"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHD YOUSUF",
+            "Anis  Ahmad"
+        ],
+        "job title": [
+            "Mechanical Engineer"
+        ],
+        "company": [
+            "Electromechanical Works-MEP",
+            "Carrefour",
+            "University Polytechnic",
+            "Zakir Hussain model Sr. Secondary school",
+            "Advanced vision Co.",
+            "SBG"
+        ],
+        "university": [
+            "Aligarh Muslim University"
+        ],
+        "degree": [
+            "Bachelor of Engineering",
+            "Diploma in Mechanical Engineering"
+        ],
+        "years of experience": [
+            "5 years"
+        ],
+        "address": [
+            "Sallah  Pur",
+            "Dindayal  pur",
+            "Tarwara",
+            "Siwan"
+        ],
+        "email": [
+            "Email",
+            "Yousuf.amu@gmail.com",
+            "SUMMERY"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9006427503"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "company Quality Management System": 0.276,
+            "Mechanical Engineering": 0.156,
+            "Secondary School Certificate": 0.6704,
+            "SSC": 0.2356,
+            "Fire Fighting": 0.2277
+        },
+        "filename": "cv (3814)_annotated.json"
+    }
+}

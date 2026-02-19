@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "Mechanical Engineering",
+        "analytical mind",
+        "Specialization",
+        "Computer Integrated Manufacturing",
+        "MECHANICAL & HYDRAULICS",
+        "Draglinks",
+        "CAE  software",
+        "Kinematic  software",
+        "CAESAR II",
+        "PV Elite",
+        "Tank",
+        "Pipnet",
+        "QS 9000",
+        "SQC"
+    ],
+    "professional_info": {
+        "person name": [
+            "R. Harinath"
+        ],
+        "job title": [
+            "Postgraduate",
+            "MANAGER",
+            "ASSISTANT MANAGER",
+            "Trainee"
+        ],
+        "company": [
+            "Larsen & Toubro Ship Building Ltd",
+            "Larsen & Toubro",
+            "R&D Rane (Madras) Ltd",
+            "KLG SYSTEL LTD",
+            "Integra Automation Pvt Ltd"
+        ],
+        "university": [
+            "Anna University",
+            "Madras University"
+        ],
+        "degree": [
+            "Bachelor in Engineering",
+            "Masters in Engineering"
+        ],
+        "years of experience": [
+            "experience"
+        ],
+        "address": [
+            "Plot no: 217-B",
+            "Ganesh Avenue Main Road",
+            "Sakthi Nagar",
+            "Porur",
+            "Chennai 600116"
+        ],
+        "email": [
+            "Email",
+            "rajendranharinath@yahoo.com"
+        ],
+        "phone": [
+            "Phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Mechanical Engineering": 0.865,
+            "analytical mind": 0.3316,
+            "Specialization": 0.2384,
+            "Computer Integrated Manufacturing": 0.552,
+            "MECHANICAL & HYDRAULICS": 0.3045,
+            "Draglinks": 0.15,
+            "CAE  software": 0.4584,
+            "Kinematic  software": 0.5725,
+            "CAESAR II": 0.6104,
+            "PV Elite": 0.5599,
+            "Tank": 0.3933,
+            "Pipnet": 0.49,
+            "QS 9000": 0.4803,
+            "SQC": 0.2979
+        },
+        "filename": "cv (714)_annotated.json"
+    }
+}

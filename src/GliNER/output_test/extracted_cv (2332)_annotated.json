@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "technical",
+        "interpersonal skills",
+        "ACADMIC QUALIFICATION",
+        "Heat exchanger",
+        "Autocad",
+        "MS Word",
+        "Excel Sheet",
+        "Magnetic Shock Observer"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ramesh Singh"
+        ],
+        "job title": [
+            "PROJECT  ENGINEER"
+        ],
+        "company": [
+            "CURRICULUM VITAE",
+            "Mittal Institute of, Technology",
+            "10+2Janta Inter College",
+            "ITI(WELDER)Don Basco technical",
+            "NCVTVijay marine",
+            "STCWASHA MARITIME",
+            "ACADMYMUMBAI(BELAPU, R)2018",
+            "Eagle stare ventures Pvt .",
+            "TALOJA-  NAVI MUMBAI",
+            "Eagle stare ventures",
+            "LNT POWAI",
+            "ACCENTURE ACZ PUNE",
+            "HINJEWADI",
+            "COMACO SHIPPING"
+        ],
+        "university": [
+            "InstituteGoa board2007"
+        ],
+        "degree": [
+            "B.E."
+        ],
+        "years of experience": [
+            "3YEAR WORKING EXPERIENCE"
+        ],
+        "address": [
+            "Post – Sawayajpur",
+            "241123",
+            "Local Add          -  Mahesh building",
+            "B wing",
+            "3rd floor sector-15",
+            "HardoiUP BOARD201165%"
+        ],
+        "email": [
+            "E-mail",
+            "rameshspratap0011@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "technical": 0.1559,
+            "interpersonal skills": 0.1514,
+            "ACADMIC QUALIFICATION": 0.2135,
+            "Heat exchanger": 0.2603,
+            "Autocad": 0.5509,
+            "MS Word": 0.5979,
+            "Excel Sheet": 0.1865,
+            "Magnetic Shock Observer": 0.2591
+        },
+        "filename": "cv (2332)_annotated.json"
+    }
+}

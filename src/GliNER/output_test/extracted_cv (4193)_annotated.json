@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "creative",
+        "skills",
+        "learning",
+        "knowledge",
+        "creative instinct",
+        "STRENGTH",
+        "Punctual  and  disciplined",
+        "good  leadership  quality",
+        "excellent",
+        "communication skills",
+        "hard working",
+        "willingness to learn",
+        "new things",
+        "good team player"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHD AQIB"
+        ],
+        "job title": [
+            "CURRICULUM VITAE",
+            "CIVIL ENGINEER",
+            "Site Engineer",
+            "QS Engineer",
+            "Sr. Site engineer",
+            "architect"
+        ],
+        "company": [
+            "CHAWLA TECNO CONSTRUCTION",
+            "International Land Developer (ILD)",
+            "1INDER JEET MAITRA ASSOCIATES (IMA)",
+            "Ireo Housing",
+            "Ireo, Dlf.",
+            "Orphan in need college",
+            "Orphan in need NGO (U.K Based)",
+            "Hotel millennium green",
+            "Sanjay maker",
+            "millennium hotels chain",
+            "Media tech.office fit out",
+            "Media tech"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "07 YEARS OF EXPERIENCE"
+        ],
+        "address": [
+            "D-126",
+            "2nd Floor",
+            "Street 11",
+            "Zakir Nagar",
+            "Jamia Nagar",
+            "New Delhi",
+            "110025"
+        ],
+        "email": [
+            "Email",
+            "mohdaqib6@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+91-9718920454"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "creative": 0.194,
+            "skills": 0.1557,
+            "learning": 0.2111,
+            "knowledge": 0.3119,
+            "creative instinct": 0.4127,
+            "STRENGTH": 0.2609,
+            "Punctual  and  disciplined": 0.4641,
+            "good  leadership  quality": 0.2879,
+            "excellent": 0.3819,
+            "communication skills": 0.4794,
+            "hard working": 0.5301,
+            "willingness to learn": 0.5802,
+            "new things": 0.4778,
+            "good team player": 0.4037
+        },
+        "filename": "cv (4193)_annotated.json"
+    }
+}

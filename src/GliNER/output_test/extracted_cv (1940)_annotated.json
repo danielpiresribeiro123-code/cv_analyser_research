@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "STRENGTHS",
+        "strong mental composure",
+        "confidence",
+        "open mindedness",
+        "inherent creativity",
+        "effective team manager",
+        "Mechanical  Engineering",
+        "First Class",
+        "Diploma in Mechanical Engineering",
+        "BOQ",
+        "value engineering",
+        "ISO"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUBIN IDICULA"
+        ],
+        "job title": [
+            "Design and Estimation Engineer",
+            "Maintenance Engineer",
+            "site engineers"
+        ],
+        "company": [
+            "State Board of Technical Education Kerala",
+            "SSLC",
+            "NAFFCO FIREFIGHTING FZC",
+            "vendors",
+            "JMC PROJECTS INDIA LTD",
+            "Bangalore Metro Rail"
+        ],
+        "university": [
+            "ANNA  UNIVERSITY Chennai"
+        ],
+        "degree": [
+            "Bachelor  Degree"
+        ],
+        "years of experience": [
+            "2006"
+        ],
+        "address": [
+            "DUBAI"
+        ],
+        "email": [
+            "Email",
+            "subinidicula27@gmail.com"
+        ],
+        "phone": [
+            "Mobile no",
+            "+918447963256"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "STRENGTHS": 0.1648,
+            "strong mental composure": 0.2708,
+            "confidence": 0.2998,
+            "open mindedness": 0.3778,
+            "inherent creativity": 0.3716,
+            "effective team manager": 0.2562,
+            "Mechanical  Engineering": 0.2423,
+            "First Class": 0.2378,
+            "Diploma in Mechanical Engineering": 0.3978,
+            "BOQ": 0.1799,
+            "value engineering": 0.1512,
+            "ISO": 0.2881
+        },
+        "filename": "cv (1940)_annotated.json"
+    }
+}

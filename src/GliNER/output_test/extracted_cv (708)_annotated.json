@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "Accounts",
+        "Windows xp",
+        "Tally ERP 9",
+        "Focus Article ship",
+        "CA Articles",
+        "Overall corporate accounting",
+        "Debtor’s ledger",
+        "creditor’s ledger",
+        "Maintenance of cash"
+    ],
+    "professional_info": {
+        "person name": [
+            "K.N.K.C.",
+            "SUBHASH  BABU"
+        ],
+        "job title": [
+            "Sr. Accountant",
+            "Accountant",
+            "Manual Accountant"
+        ],
+        "company": [
+            "K.Baloo and Company",
+            "Krushi Biotech",
+            "SOM PHYTOPHARMA (INDIA) LTD.",
+            "Sri Sainadh Rice and Oil Mills"
+        ],
+        "university": [
+            "Nagarjuna University"
+        ],
+        "degree": [
+            "B.Com"
+        ],
+        "years of experience": [
+            "12 years of experience"
+        ],
+        "address": [
+            "Janapriya Apartments",
+            "Flot 466",
+            "A5 Block"
+        ],
+        "email": [
+            "subash7k@gmail.com",
+            "8125827871"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Accounts": 0.3762,
+            "Windows xp": 0.8897,
+            "Tally ERP 9": 0.627,
+            "Focus Article ship": 0.4357,
+            "CA Articles": 0.2344,
+            "Overall corporate accounting": 0.156,
+            "Debtor’s ledger": 0.2387,
+            "creditor’s ledger": 0.1654,
+            "Maintenance of cash": 0.1891
+        },
+        "filename": "cv (708)_annotated.json"
+    }
+}

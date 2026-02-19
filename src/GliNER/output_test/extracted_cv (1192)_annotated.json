@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "Santé en Action",
+        "BDDE",
+        "BDDASS",
+        "BCALBPACT",
+        "BRespirationB",
+        "BEnvironnementB"
+    ],
+    "professional_info": {
+        "person name": [
+            "Madeleine Bourlard",
+            "KarineBROGERB"
+        ],
+        "job title": [
+            "INTERIEUR",
+            "B",
+            "EnB2009",
+            "BB",
+            "BCetteBformationB",
+            "estBassuréeBàBl",
+            "AuBdomicileBduBpatient",
+            "BlesBCMEIBaidentBlesBprofess ionnelsBdeBsantéBàBlaBfoisBdansBleBdiagnosticBetB",
+            "BleBmalade",
+            "Ble sBprofessionnelsBinstitutionnels",
+            "BlesBmissionsBetBcompétencesBdesBCMEIB",
+            "DansBnotreBRégion",
+            "ConseillèresBMédicalesBenBEnvironnementBIntérieurB"
+        ],
+        "company": [],
+        "university": [
+            "UniversitéBdeBStrasbourg"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "wanadoo.fr"
+        ],
+        "phone": [
+            "Tel",
+            "03B21B42B62B21B"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Santé en Action": 0.2014,
+            "BDDE": 0.1665,
+            "BDDASS": 0.2157,
+            "BCALBPACT": 0.2276,
+            "BRespirationB": 0.1683,
+            "BEnvironnementB": 0.2226
+        },
+        "filename": "cv (1192)_annotated.json"
+    }
+}

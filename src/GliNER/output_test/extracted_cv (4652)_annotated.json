@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "K-12 Vocal Music",
+        "Brain",
+        "Research Strategies",
+        "Multiple Intelligences",
+        "HOTS",
+        "Explicit Instruction",
+        "Core areas",
+        "Music",
+        "Universal Language",
+        "gender",
+        "Culture",
+        "General Music",
+        "Choir",
+        "Singing Ambassadors"
+    ],
+    "professional_info": {
+        "person name": [
+            "TEACHER",
+            "I",
+            "Current"
+        ],
+        "job title": [
+            "MTSS Leadership Team",
+            "Corporate Trainer",
+            "Customer Service Manager",
+            "Quality Control Specialist",
+            "Corporate Scheduler",
+            "Professional Experience",
+            "9-12 Band Assistant",
+            "Latchkey Co Director",
+            "Latchkey Assistant Director"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [
+            "Kansas State University",
+            "Sterling College",
+            "Coleman MS"
+        ],
+        "degree": [
+            "BS in Music Education"
+        ],
+        "years of experience": [
+            "4 Years",
+            "3 years"
+        ],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "K-12 Vocal Music": 0.2308,
+            "Brain": 0.4314,
+            "Research Strategies": 0.7434,
+            "Multiple Intelligences": 0.6811,
+            "HOTS": 0.5376,
+            "Explicit Instruction": 0.87,
+            "Core areas": 0.3267,
+            "Music": 0.3512,
+            "Universal Language": 0.4725,
+            "gender": 0.1713,
+            "Culture": 0.3504,
+            "General Music": 0.2577,
+            "Choir": 0.1599,
+            "Singing Ambassadors": 0.228
+        },
+        "filename": "cv (4652)_annotated.json"
+    }
+}

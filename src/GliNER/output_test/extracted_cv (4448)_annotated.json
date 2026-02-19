@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "experience",
+        "LEADERSHIP",
+        "SaaS",
+        "COMMUNICATION",
+        "Technical",
+        "R&D",
+        "Expertise",
+        "Cloud Environments",
+        "Project Management",
+        "Software as a Service",
+        "SaaS"
+    ],
+    "professional_info": {
+        "person name": [
+            "Current Company Name"
+        ],
+        "job title": [
+            "DIRECTOR OF INFORMATION TECHNOLOGY",
+            "EVP"
+        ],
+        "company": [
+            "Adsystech"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "emails"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "experience": 0.2356,
+            "LEADERSHIP": 0.4463,
+            "SaaS": 0.237,
+            "COMMUNICATION": 0.1928,
+            "Technical": 0.2456,
+            "R&D": 0.1783,
+            "Expertise": 0.406,
+            "Cloud Environments": 0.2757,
+            "Project Management": 0.2393,
+            "Software as a Service": 0.2432
+        },
+        "filename": "cv (4448)_annotated.json"
+    }
+}

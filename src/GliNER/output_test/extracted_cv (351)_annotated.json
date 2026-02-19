@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "project team supervision",
+        "site management",
+        "project handling",
+        "Microsoft office",
+        "Primavera-Certification",
+        "Moderate Drawing skills",
+        "3D",
+        "2D CAD",
+        "PDMS (Certification)",
+        "Knowledge",
+        "Tekla Steel Detailing",
+        "Rapid Prototyping",
+        "Generating Piping Essentials",
+        "Equal-Tee",
+        "Equilateral & Un-equilateral-Tee",
+        "Elbows"
+    ],
+    "professional_info": {
+        "person name": [
+            "Vivin  Varghese Palissery"
+        ],
+        "job title": [
+            "Mechanical  Engineer",
+            "Meticulous Site Engineer",
+            "sub-contractor work representative",
+            "Site Engineer",
+            "architects"
+        ],
+        "company": [
+            "Hidusthan College Of Engineering",
+            "CVS Engineering",
+            "Sakthi Hi-tech Constructions",
+            "HBK Steel Fabrication"
+        ],
+        "university": [
+            "Anna University"
+        ],
+        "degree": [
+            "B.E. Mechanical Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "Thrissur"
+        ],
+        "email": [
+            "vivin.vrghs@gmail.com",
+            "Diploma In Pipe Fabrication Course 2013"
+        ],
+        "phone": [
+            "+91-9020807458"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "project team supervision": 0.2456,
+            "site management": 0.2862,
+            "project handling": 0.174,
+            "Microsoft office": 0.7083,
+            "Primavera-Certification": 0.4174,
+            "Moderate Drawing skills": 0.4071,
+            "3D": 0.1684,
+            "2D CAD": 0.1809,
+            "PDMS (Certification)": 0.6032,
+            "Knowledge": 0.1988,
+            "Tekla Steel Detailing": 0.3656,
+            "Rapid Prototyping": 0.1644,
+            "Generating Piping Essentials": 0.2241,
+            "Equal-Tee": 0.2546,
+            "Equilateral & Un-equilateral-Tee": 0.1577,
+            "Elbows": 0.2045
+        },
+        "filename": "cv (351)_annotated.json"
+    }
+}

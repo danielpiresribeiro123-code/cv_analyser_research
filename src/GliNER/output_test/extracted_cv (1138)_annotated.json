@@ -1,0 +1,52 @@
+{
+    "skills": [
+        "sales",
+        "Acadimic Certificate",
+        "collection",
+        "legal affairs",
+        "public relations"
+    ],
+    "professional_info": {
+        "person name": [
+            "Osama Abdulkhaliq Awad",
+            "I"
+        ],
+        "job title": [
+            "Jubail Center Manger",
+            "Center Manager",
+            "Jubail Branch Manger"
+        ],
+        "company": [
+            "ABDUL LATIF JAMEEL GROUP",
+            "Al -Jubail Center"
+        ],
+        "university": [
+            "King Saud University - Riyadh"
+        ],
+        "degree": [
+            "B.A. Business Sciences  - Accounting Major"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "gmail",
+            "1987"
+        ],
+        "phone": [
+            "Mobile",
+            "0555276720"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "sales": 0.6584,
+            "Acadimic Certificate": 0.3194,
+            "collection": 0.4859,
+            "legal affairs": 0.4728,
+            "public relations": 0.4283
+        },
+        "filename": "cv (1138)_annotated.json"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "Shibu Biswa s 61/4",
+        "Higher Secondary (Commerce)",
+        "EXPERIENCE",
+        "Excel",
+        "Excel"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Store Keeper"
+        ],
+        "company": [
+            "Ecolog international",
+            "Prolific Software",
+            "Intercat Hospitality LLC.",
+            "Supreme Food Service  (Afghanistan)"
+        ],
+        "university": [
+            "W.B.B.S.E - 1993",
+            "W.B.B.H.S.E"
+        ],
+        "degree": [
+            "Secondary Passed",
+            "B.A. Graduate"
+        ],
+        "years of experience": [],
+        "address": [
+            "Kabi Mukunda Das Road",
+            "P.O. – Rabindra Nagar",
+            "Dum Dum Cantonment",
+            "Kolkata – 700 065"
+        ],
+        "email": [
+            "Email",
+            "biswas.shibu2010@gmail.com",
+            "C.U form 2002  to 2003"
+        ],
+        "phone": [
+            "Mob",
+            "(+91) 8582819621"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Shibu Biswa s 61/4": 0.1976,
+            "Higher Secondary (Commerce)": 0.3085,
+            "EXPERIENCE": 0.1561,
+            "Excel": 0.1747
+        },
+        "filename": "cv (964)_annotated.json"
+    }
+}

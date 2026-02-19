@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "marketing communication",
+        "results-driven",
+        "strategic",
+        "marketing and public relations",
+        "Leadership/communication skills",
+        "Strategic planning",
+        "Project management",
+        "Budgeting expertise",
+        "Marketing Public relations",
+        "Web",
+        "Writer/Editor",
+        "PUBLIC AWARENESS AND COMMUNITY RELATIONS"
+    ],
+    "professional_info": {
+        "person name": [
+            "EXECUTIVE DIRECTOR"
+        ],
+        "job title": [
+            "Visionary",
+            "Managing Editor",
+            "CHIEF WRITER/EDITOR",
+            "volunteer webmaster",
+            "chief liaison",
+            "ADMINISTRATIVE LEADERSHIP"
+        ],
+        "company": [
+            "Current Company Name"
+        ],
+        "university": [
+            "Morningside College"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "marketing communication": 0.4375,
+            "results-driven": 0.2644,
+            "strategic": 0.2789,
+            "marketing and public relations": 0.1593,
+            "Leadership/communication skills": 0.2934,
+            "Strategic planning": 0.4124,
+            "Project management": 0.5862,
+            "Budgeting expertise": 0.5149,
+            "Marketing Public relations": 0.3437,
+            "Web": 0.4054,
+            "Writer/Editor": 0.2333,
+            "PUBLIC AWARENESS AND COMMUNITY RELATIONS": 0.2544
+        },
+        "filename": "cv (4411)_annotated.json"
+    }
+}

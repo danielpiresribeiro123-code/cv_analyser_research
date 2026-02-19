@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "OBJECTIVE",
+        "right attitude",
+        "10th",
+        "12th",
+        "Basic  Knowledge  of computer applications",
+        "Gender",
+        "Male",
+        "Martial status",
+        "Unmarried",
+        "Language Known",
+        "English",
+        "Hindi",
+        "Malayalam"
+    ],
+    "professional_info": {
+        "person name": [
+            "STANLY SAM",
+            "Fresher",
+            "k  M Samkutty",
+            "Indian"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "CBSE Board",
+            "IGNOU"
+        ],
+        "degree": [
+            "bachelors"
+        ],
+        "years of experience": [
+            "WORK EXPERIENCE"
+        ],
+        "address": [
+            "D-71 DD  A Flat New Ranjith  Nagar",
+            "Patel Nagar",
+            "New Delhi",
+            "110008"
+        ],
+        "email": [
+            "Contact  No: 9910722764"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "OBJECTIVE": 0.1547,
+            "right attitude": 0.33,
+            "10th": 0.1976,
+            "12th": 0.1541,
+            "Basic  Knowledge  of computer applications": 0.2375,
+            "Gender": 0.2462,
+            "Male": 0.2557,
+            "Martial status": 0.1546,
+            "Unmarried": 0.3928,
+            "Language Known": 0.1724,
+            "English": 0.9385,
+            "Hindi": 0.94,
+            "Malayalam": 0.9472
+        },
+        "filename": "cv (2081)_annotated.json"
+    }
+}

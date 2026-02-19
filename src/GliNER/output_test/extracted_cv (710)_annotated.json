@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "m/c maintenance",
+        "CNC general Maintenance",
+        "Expertise",
+        "resource utilization",
+        "maintenance",
+        "Adept at installation and commissioning operations",
+        "excellent relationship management skills",
+        "ability to work with the people of diverse nationalities",
+        "TIG",
+        "MIG",
+        "ARC",
+        "STUD(ESSAB)",
+        "SPOT",
+        "Ability to attend Preventive Maintenance",
+        "HDS",
+        "HFB",
+        "HFE",
+        "HFP",
+        "LVD Shear m/C",
+        "Multy spot",
+        "mds1",
+        "Sheet metal amada punching m/c",
+        "LVD press brake m/c",
+        "LVD shearing",
+        "SMD sit"
+    ],
+    "professional_info": {
+        "person name": [
+            "M.SUDARVANNAN"
+        ],
+        "job title": [
+            "Technician Maintenance",
+            "TECHNICIAN   MAINTENANCE",
+            "mechanic ham"
+        ],
+        "company": [
+            "Wittur Elevator Components India (P) Ltd.",
+            "WITTUR ELEVATOR COMPONENTS INDIA PVT LTD."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "8344390219",
+            "3+ years",
+            "effective communicator"
+        ],
+        "address": [],
+        "email": [
+            "Mobile",
+            "Email",
+            "sudarmaint@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "m/c maintenance": 0.3763,
+            "CNC general Maintenance": 0.2629,
+            "Expertise": 0.3902,
+            "resource utilization": 0.1594,
+            "maintenance": 0.1888,
+            "Adept at installation and commissioning operations": 0.1692,
+            "excellent relationship management skills": 0.2605,
+            "ability to work with the people of diverse nationalities": 0.1741,
+            "TIG": 0.3571,
+            "MIG": 0.2354,
+            "ARC": 0.224,
+            "STUD(ESSAB)": 0.1667,
+            "SPOT": 0.2442,
+            "Ability to attend Preventive Maintenance": 0.2264,
+            "HDS": 0.1569,
+            "HFB": 0.1792,
+            "HFE": 0.1683,
+            "HFP": 0.1947,
+            "LVD Shear m/C": 0.3912,
+            "Multy spot": 0.4177,
+            "mds1": 0.2035,
+            "Sheet metal amada punching m/c": 0.2679,
+            "LVD press brake m/c": 0.2771,
+            "LVD shearing": 0.3471,
+            "SMD sit": 0.4571
+        },
+        "filename": "cv (710)_annotated.json"
+    }
+}

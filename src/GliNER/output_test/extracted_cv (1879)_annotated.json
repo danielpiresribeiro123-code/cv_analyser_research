@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "English",
+        "Hindi",
+        "Telugu",
+        "Electrical Engineering",
+        "Engineering drawings",
+        "Certified Chartered Electrical",
+        "Project Engineering",
+        "Electrical systems"
+    ],
+    "professional_info": {
+        "person name": [
+            "Kalla Golla Chakravarthy",
+            "gollachakravarthy"
+        ],
+        "job title": [
+            "Team Lead",
+            "Electrical Manager",
+            "Electrical Engineer",
+            "Electrical supervisor",
+            "Electrical Technician",
+            "PROJECTS LEAD",
+            "MTA – 1",
+            "Electrical lead",
+            "MTA -2"
+        ],
+        "company": [
+            "Qatar Shell GTL",
+            "petrochemicals",
+            "Process industries",
+            "LNG Industries",
+            "Reliance  oil & Gas Company",
+            "Qatar SHELL PEARL GTL",
+            "Petrochemicals  Exploration",
+            "power plant and Production Company",
+            "Reliance KGD6  at Kakinada",
+            "Hofincons",
+            "Reliance KGD6",
+            "Siemens"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Experience",
+            "11 years",
+            "Communication skills",
+            "11+ years of experience"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "chakrigolla@yahoo.com"
+        ],
+        "phone": [
+            "Phone",
+            "+919160455638"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "English": 0.5353,
+            "Hindi": 0.6444,
+            "Telugu": 0.4787,
+            "Electrical Engineering": 0.7881,
+            "Engineering drawings": 0.3205,
+            "Certified Chartered Electrical": 0.872,
+            "Project Engineering": 0.5206,
+            "Electrical systems": 0.2395
+        },
+        "filename": "cv (1879)_annotated.json"
+    }
+}

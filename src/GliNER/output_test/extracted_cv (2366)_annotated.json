@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "knowledge & skills",
+        "personality",
+        "Experience",
+        "Back end",
+        "Strong leadership",
+        "interpersonal",
+        "motivational skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohammad Mushdik"
+        ],
+        "job title": [
+            "itsmusdikquraishi",
+            "Professional",
+            "Principal Consultant",
+            "Senior Sales Executive",
+            "Sales Associate",
+            "hardware Maintenance assistant",
+            "Sales Representative"
+        ],
+        "company": [
+            "OM quality and Analytics Pvt. Ltd",
+            "Smart Future Solution",
+            "Salient Business Solution",
+            "Hero BPO",
+            "Naaz Computers"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Flat No. 151/7 DDA Flat",
+            "Street No. 7 Madangir",
+            "New Delhi 110062"
+        ],
+        "email": [
+            "E-mail",
+            "musdikquraishi@gmail.com",
+            "Skype",
+            "9971599734"
+        ],
+        "phone": [
+            "+91-9555449300"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "knowledge & skills": 0.1684,
+            "personality": 0.3699,
+            "Experience": 0.1717,
+            "Back end": 0.2383,
+            "Strong leadership": 0.3989,
+            "interpersonal": 0.418,
+            "motivational skills": 0.1518
+        },
+        "filename": "cv (2366)_annotated.json"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "Male",
+        "STATUS",
+        "Single",
+        "English",
+        "Swahili",
+        "Luhya",
+        "Second Class Honors _ Upper Division",
+        "Sustainable transport hubs",
+        "PROFESSIONAL SKILLS",
+        "Competent in",
+        "Computer Aided Design Software (CAD)",
+        "Archicad",
+        "Atlantis software",
+        "Computer packages",
+        "Other certificates",
+        "Conflict Management, Resolution & Transformation",
+        "Fire Safety & Emergency Evacuation"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ian Ingunyi Mutali",
+            "GENDER",
+            "Kenyan"
+        ],
+        "job title": [
+            "D.O.B",
+            "Position",
+            "Graduate Architect",
+            "Facilities Department"
+        ],
+        "company": [
+            "Centre For, Conflict Resolution – Kenya",
+            "APT Design solutions"
+        ],
+        "university": [
+            "Technical University of Kenya",
+            "Kenya Red Cross Society",
+            "Africa Nazarene University"
+        ],
+        "degree": [
+            "Bachelor of Architecture",
+            "B.Arch .",
+            "Bachelor of Architectural Studies",
+            "B.A.S"
+        ],
+        "years of experience": [
+            "WORK EXPERIENCE"
+        ],
+        "address": [
+            "Main Campus, Rongai"
+        ],
+        "email": [
+            "Email",
+            "ian.mutali@gmail.com"
+        ],
+        "phone": [
+            "CELL",
+            "0729 45 46 64",
+            "0734 06 42 22"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Male": 0.366,
+            "STATUS": 0.245,
+            "Single": 0.4004,
+            "English": 0.7167,
+            "Swahili": 0.8265,
+            "Luhya": 0.5741,
+            "Second Class Honors _ Upper Division": 0.5358,
+            "Sustainable transport hubs": 0.1656,
+            "PROFESSIONAL SKILLS": 0.3342,
+            "Competent in": 0.1934,
+            "Computer Aided Design Software (CAD)": 0.4503,
+            "Archicad": 0.3315,
+            "Atlantis software": 0.5229,
+            "Computer packages": 0.4239,
+            "Other certificates": 0.186,
+            "Conflict Management, Resolution & Transformation": 0.1992,
+            "Fire Safety & Emergency Evacuation": 0.2877
+        },
+        "filename": "cv (1243)_annotated.json"
+    }
+}

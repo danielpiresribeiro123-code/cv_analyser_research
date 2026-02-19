@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Marketing",
+        "System Dynamics",
+        "International Management",
+        "Mechanical Engineering",
+        "Product Design",
+        "architecture",
+        "English",
+        "Spanish",
+        "French",
+        "MediaTech"
+    ],
+    "professional_info": {
+        "person name": [
+            "JULIAN A. CAREY"
+        ],
+        "job title": [
+            "Manager",
+            "Project Manager"
+        ],
+        "company": [
+            "Movilogic",
+            "NTRU",
+            "wireless infrastructure security start-up company",
+            "Upstate Tool & Die",
+            "seed-stage start-up company",
+            "AGILENT TECHNOLOGIES",
+            "Semiconductor Products Group – Optoelectronics Division",
+            "LUMILEDS"
+        ],
+        "university": [
+            "mit",
+            "SLOAN SCHOOL OF MANAGEMENT"
+        ],
+        "degree": [
+            "MBA",
+            "Bachelor of Science"
+        ],
+        "years of experience": [],
+        "address": [
+            "45A Belmont Street",
+            "Somerville, MA",
+            "SAN JOSE, CA"
+        ],
+        "email": [
+            "Email"
+        ],
+        "phone": [
+            "Tel:   617-645-0262",
+            "Fax",
+            "661-749-7572"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Marketing": 0.5333,
+            "System Dynamics": 0.3857,
+            "International Management": 0.3293,
+            "Mechanical Engineering": 0.6563,
+            "Product Design": 0.6779,
+            "architecture": 0.2327,
+            "English": 0.7071,
+            "Spanish": 0.7182,
+            "French": 0.5653,
+            "MediaTech": 0.2015
+        },
+        "filename": "cv (1208)_annotated.json"
+    }
+}

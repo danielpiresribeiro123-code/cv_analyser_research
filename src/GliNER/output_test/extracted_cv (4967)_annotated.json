@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "Hands-on experience",
+        "statistical analysis",
+        "PROFICIENT SKILLS",
+        "Data Science",
+        "Logistic Regression",
+        "Clustering",
+        "Data Structures",
+        "Data Analytics",
+        "Machine",
+        "Learning",
+        "Visual Studio",
+        "Statistical",
+        "Analysis",
+        "Linux",
+        "Unix",
+        "Python",
+        "Analytical Front-ends",
+        "machine learning",
+        "statistical modeling",
+        "algorithms",
+        "machine model",
+        "System"
+    ],
+    "professional_info": {
+        "person name": [
+            "MICHAEL REEVER"
+        ],
+        "job title": [
+            "FRESHER",
+            "SOFTWARE DEVELOPER",
+            "Engineer",
+            "Developer"
+        ],
+        "company": [
+            "P R O J E C T S"
+        ],
+        "university": [],
+        "degree": [
+            "Bsc (IT) University of Mangalore"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Hands-on experience": 0.2514,
+            "statistical analysis": 0.3385,
+            "PROFICIENT SKILLS": 0.2948,
+            "Data Science": 0.5932,
+            "Logistic Regression": 0.6299,
+            "Clustering": 0.4863,
+            "Data Structures": 0.3894,
+            "Data Analytics": 0.4568,
+            "Machine": 0.3509,
+            "Learning": 0.1778,
+            "Visual Studio": 0.456,
+            "Statistical": 0.4037,
+            "Analysis": 0.3701,
+            "Linux": 0.9501,
+            "Unix": 0.937,
+            "Python": 0.8705,
+            "Analytical Front-ends": 0.4161,
+            "machine learning": 0.7686,
+            "statistical modeling": 0.4038,
+            "algorithms": 0.2422,
+            "machine model": 0.1866,
+            "System": 0.1922
+        },
+        "filename": "cv (4967)_annotated.json"
+    }
+}

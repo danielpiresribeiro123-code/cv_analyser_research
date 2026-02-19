@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "Degree",
+        "Electrical and Electronics E ngineering",
+        "Supervisor Competency License No",
+        "C 50709",
+        "Tamil",
+        "English",
+        "Kannada",
+        "Hin di",
+        "SCADA"
+    ],
+    "professional_info": {
+        "person name": [
+            "M.Ramachandran"
+        ],
+        "job title": [
+            "9940902743",
+            "Team Lead",
+            "SOLAR  PV System Senior  Engineer",
+            "Maintenance Engineer"
+        ],
+        "company": [
+            "Tamilnadu Licensing Board",
+            "Sethu institute of Technology",
+            "Swami Shivananda Vidyalaya",
+            "Her sec school",
+            "Al Ameen Muslim Higher Sec School",
+            "AETHON ENEGY LLP",
+            "Welspun Solar Te ch Pvt Ltd",
+            "Contract - Energy Asset Solution",
+            "Musiri  & TT PET Plant"
+        ],
+        "university": [],
+        "degree": [
+            "B.E(EEE)"
+        ],
+        "years of experience": [
+            "6Years  &1months",
+            "Male",
+            "Speak"
+        ],
+        "address": [
+            "S/OV.Murugan",
+            "49/41",
+            "KaliammanKovilst",
+            "Maravankulam"
+        ],
+        "email": [
+            "ramachandran eee123 @gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Degree": 0.1503,
+            "Electrical and Electronics E ngineering": 0.3902,
+            "Supervisor Competency License No": 0.1695,
+            "C 50709": 0.5663,
+            "Tamil": 0.7011,
+            "English": 0.5473,
+            "Kannada": 0.8671,
+            "Hin di": 0.2884,
+            "SCADA": 0.1503
+        },
+        "filename": "cv (2270)_annotated.json"
+    }
+}

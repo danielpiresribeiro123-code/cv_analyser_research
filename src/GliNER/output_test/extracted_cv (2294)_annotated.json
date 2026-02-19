@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "Supply Chain",
+        "Procurement",
+        "Purchase",
+        "Order M anageme nt",
+        "Inventory Control",
+        "Vendor Mgm t",
+        "Hardware",
+        "Software",
+        "Purchasing Operations",
+        "Licensing  & Services",
+        "RFP",
+        "Outline Agreement – Scheduling",
+        "ERP",
+        "SPA"
+    ],
+    "professional_info": {
+        "person name": [
+            "MANISH KUMAR S HRIVASTAV"
+        ],
+        "job title": [
+            "Buyer",
+            "Supply Chain Specialist",
+            "Associate Buyer",
+            "Channel and Account Managers"
+        ],
+        "company": [
+            "Zones Corporate Solutions Pvt . Ltd.",
+            "Zones, Inc.",
+            "OEM",
+            "Apple",
+            "Adobe",
+            "Dell",
+            "HP",
+            "CISCO",
+            "Microsoft",
+            "Zones"
+        ],
+        "university": [],
+        "degree": [
+            "Diploma in Material Management",
+            "BBA"
+        ],
+        "years of experience": [
+            "nearly 13 years of experience"
+        ],
+        "address": [
+            "Noida",
+            "WA"
+        ],
+        "email": [
+            "E-mail",
+            "mkshrivastav2002@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+91 7982580871"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Supply Chain": 0.5671,
+            "Procurement": 0.5127,
+            "Purchase": 0.2815,
+            "Order M anageme nt": 0.2044,
+            "Inventory Control": 0.5236,
+            "Vendor Mgm t": 0.3675,
+            "Hardware": 0.1661,
+            "Software": 0.2477,
+            "Purchasing Operations": 0.2175,
+            "Licensing  & Services": 0.2452,
+            "RFP": 0.1537,
+            "Outline Agreement – Scheduling": 0.1512,
+            "ERP": 0.538,
+            "SPA": 0.2546
+        },
+        "filename": "cv (2294)_annotated.json"
+    }
+}

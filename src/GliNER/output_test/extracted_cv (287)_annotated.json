@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "Matriculation",
+        "Experience",
+        "All kinds of Wiring",
+        "DB Dressing and Termination",
+        "Cable Gladding and Termiation",
+        "Cable tray and GI Trunking Works",
+        "PVC Conduct and GI Piping",
+        "Fire Alarm and Secuirty System",
+        "Married",
+        "Male",
+        "English",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "Naushad Ali",
+            "Mohd. Sirajudinn Ansari"
+        ],
+        "job title": [
+            "Post Applied – Electricial Technician",
+            "Electrician",
+            "Electrician Foreman",
+            "Job Responsbility"
+        ],
+        "company": [
+            "G.H.S TARWARA",
+            "ISGEC Heavy Engineering",
+            "Experiance",
+            "EMCO Company",
+            "Rohini  Engineering  Constraction",
+            "Larson & Toubro  Company"
+        ],
+        "university": [
+            "10+2S.G. Inter College"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Distt- Siwan",
+            "Bihar-841506",
+            "Hussenpurnand",
+            "Patna"
+        ],
+        "email": [
+            "Email",
+            "Id-naushadaliansari36@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+918406055330",
+            "+919034323372"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Matriculation": 0.1594,
+            "Experience": 0.2276,
+            "All kinds of Wiring": 0.2494,
+            "DB Dressing and Termination": 0.2638,
+            "Cable Gladding and Termiation": 0.2687,
+            "Cable tray and GI Trunking Works": 0.2267,
+            "PVC Conduct and GI Piping": 0.2052,
+            "Fire Alarm and Secuirty System": 0.2116,
+            "Married": 0.2954,
+            "Male": 0.1955,
+            "English": 0.6801,
+            "Hindi": 0.7998
+        },
+        "filename": "cv (287)_annotated.json"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "High caliber mechanical engineer",
+        "expertise",
+        "fabrication",
+        "Excellent  technical,  commercial  and administrative  skills",
+        "cross-functional  leadership  experience",
+        "Core competencies",
+        "Manufacturing Engineering",
+        "Resources Management",
+        "Production Management",
+        "Workshop Management",
+        "Supplier Quality Management",
+        "Productivity Enhancement",
+        "Total Quality Management",
+        "Industrial Relations Mgmt.",
+        "material planning",
+        "capacity planning",
+        "production planning & scheduling",
+        "job & resources allocations",
+        "setting & controlling process",
+        "In-depth knowledge and experience",
+        "CNC Machining",
+        "Welding & Cutting"
+    ],
+    "professional_info": {
+        "person name": [
+            "AVIJIT GHOSH"
+        ],
+        "job title": [
+            "ghoshavijit66",
+            "DGM  PRODUCTION  / DGM  MANUFACTURING",
+            "SENIOR MANAGER",
+            "SUPPLY CHAIN MANAGER",
+            "MANAGER - QUALITY CONTROL",
+            "Senior Production Manager"
+        ],
+        "company": [
+            "CDE Asia – Kolkata"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "23 years"
+        ],
+        "address": [
+            "G.T.Road",
+            "Bally",
+            "Howrah - 711201",
+            "procurement"
+        ],
+        "email": [
+            "E-mail",
+            "avijitghosh1966@gmail.com",
+            "Skype ID"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 9051224073",
+            "Landline",
+            "+91 33 26466719"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "High caliber mechanical engineer": 0.272,
+            "expertise": 0.2459,
+            "fabrication": 0.1516,
+            "Excellent  technical,  commercial  and administrative  skills": 0.1678,
+            "cross-functional  leadership  experience": 0.6378,
+            "Core competencies": 0.2957,
+            "Manufacturing Engineering": 0.2068,
+            "Resources Management": 0.2083,
+            "Production Management": 0.2182,
+            "Workshop Management": 0.1594,
+            "Supplier Quality Management": 0.1907,
+            "Productivity Enhancement": 0.1756,
+            "Total Quality Management": 0.2543,
+            "Industrial Relations Mgmt.": 0.177,
+            "material planning": 0.2517,
+            "capacity planning": 0.326,
+            "production planning & scheduling": 0.4142,
+            "job & resources allocations": 0.4157,
+            "setting & controlling process": 0.2346,
+            "In-depth knowledge and experience": 0.1894,
+            "CNC Machining": 0.2442,
+            "Welding & Cutting": 0.1842
+        },
+        "filename": "cv (830)_annotated.json"
+    }
+}

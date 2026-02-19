@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "Network design and management",
+        "Enterprise Resource Planning implementation and management",
+        "Cloud Technologies",
+        "Internet Technologies",
+        "Well Organized",
+        "results oriented individual",
+        "standards",
+        "Solid management skills",
+        "leading and motivating individuals",
+        "Exceptional communicator",
+        "client relationships",
+        "Small business development",
+        "Project management",
+        "Leadership/communication skills",
+        "Client account management",
+        "Negotiations expert",
+        "Budgeting expertise",
+        "Employee relations",
+        "Self-motivated",
+        "Enterprise platforms",
+        "Forecasting specialist",
+        "Hardware and software upgrade planning",
+        "Scrum methodology",
+        "Student Information System",
+        "best practices",
+        "visualization tools",
+        "Tableau",
+        "DOMOÂ",
+        "Operations Management",
+        "Staff Development"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "SENIOR DIRECTOR",
+            "Executive Profile",
+            "Director of Information technology",
+            "campus administration",
+            "corporate office staff",
+            "executives"
+        ],
+        "company": [
+            "Weston Educational Group"
+        ],
+        "university": [
+            "Weston Educational Group"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 30,
+        "confidence_scores": {
+            "Network design and management": 0.255,
+            "Enterprise Resource Planning implementation and management": 0.1771,
+            "Cloud Technologies": 0.8641,
+            "Internet Technologies": 0.5385,
+            "Well Organized": 0.4459,
+            "results oriented individual": 0.3799,
+            "standards": 0.1776,
+            "Solid management skills": 0.4451,
+            "leading and motivating individuals": 0.1687,
+            "Exceptional communicator": 0.5988,
+            "client relationships": 0.2723,
+            "Small business development": 0.1538,
+            "Project management": 0.5227,
+            "Leadership/communication skills": 0.2616,
+            "Client account management": 0.1632,
+            "Negotiations expert": 0.2634,
+            "Budgeting expertise": 0.2467,
+            "Employee relations": 0.3215,
+            "Self-motivated": 0.2688,
+            "Enterprise platforms": 0.2471,
+            "Forecasting specialist": 0.2128,
+            "Hardware and software upgrade planning": 0.162,
+            "Scrum methodology": 0.6383,
+            "Student Information System": 0.339,
+            "best practices": 0.1714,
+            "visualization tools": 0.1906,
+            "Tableau": 0.3438,
+            "DOMOÂ": 0.3419,
+            "Operations Management": 0.2092,
+            "Staff Development": 0.2416
+        },
+        "filename": "cv (4642)_annotated.json"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Highly motivated professional",
+        "Marafiq Blanket Project",
+        "Medium Voltage",
+        "Power Plant Engineering",
+        "Generation",
+        "Transmission",
+        "graduation"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMAD SAHABUDDIN"
+        ],
+        "job title": [
+            "Electrical Engineer",
+            "Senior T echnician Medium Voltage Electrical",
+            "Senior T echnician"
+        ],
+        "company": [
+            "Saudi Al-T erais Industrial Trading and Contracting Co.",
+            "Ministry of Defence and Aviations",
+            "Saudi Al-T erais  Industrial Trading and Contracting Co.",
+            "Saudi Oger Ltd.",
+            "National Gaurd Battalions"
+        ],
+        "university": [
+            "Princess Noura Bint Abdul Rahman University for Women"
+        ],
+        "degree": [],
+        "years of experience": [
+            "three years"
+        ],
+        "address": [
+            "Dawadmi",
+            "Riyadh,K.S.A",
+            "Riyadh, K.S.A",
+            "Riyadh",
+            "Riyadh, K.S.A."
+        ],
+        "email": [
+            "E-mail",
+            "msahabu@gmail.com"
+        ],
+        "phone": [
+            "+91-8574866998",
+            "+91-7271859326"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Highly motivated professional": 0.2157,
+            "Marafiq Blanket Project": 0.1592,
+            "Medium Voltage": 0.2326,
+            "Power Plant Engineering": 0.4459,
+            "Generation": 0.285,
+            "Transmission": 0.2242,
+            "graduation": 0.1976
+        },
+        "filename": "cv (2853)_annotated.json"
+    }
+}

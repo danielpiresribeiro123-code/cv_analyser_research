@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "EFFICIENT AND CLEAR-CUT TEACHING METHODOLOGIES",
+        "ELECTRICAL",
+        "ENGINEERING",
+        "PSYCHOLOGY",
+        "RDC-2014",
+        "BIOLOGY",
+        "LINGUISTIC SKILLS",
+        "SUBJECTS OF INTEREST",
+        "THERMONUCLEAR  ASTROPHYSICS",
+        "HUMAN  ANATOMY",
+        "INTERROGATIVE",
+        "COUNSELLING PSYCHOLOGY",
+        "NATIONAL SOCIALISM",
+        "WORLD WAR II-HISTORY"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAAJESH V",
+            "S.NODEGREE"
+        ],
+        "job title": [
+            "OFFICER"
+        ],
+        "company": [],
+        "university": [
+            "SSLC",
+            "S.M. HINDU HIGHER SECONDARY",
+            "S.R.V. BOYS HIGHER SECONDARY",
+            "SRI SAIRAM ENGINEERING COLLEGE",
+            "UNIVERSITY OF MADRAS",
+            "OTA CHENNAI"
+        ],
+        "degree": [
+            "B.E.",
+            "B.Sc.",
+            "HSC"
+        ],
+        "years of experience": [
+            "18 MAY 1994",
+            "TEACHING EXPERIENCE"
+        ],
+        "address": [
+            "SIRKAZHI",
+            "RASIPURAM",
+            "CHENNAI",
+            "600 0052015"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "EFFICIENT AND CLEAR-CUT TEACHING METHODOLOGIES": 0.5465,
+            "ELECTRICAL": 0.1586,
+            "ENGINEERING": 0.2104,
+            "PSYCHOLOGY": 0.5823,
+            "RDC-2014": 0.2366,
+            "BIOLOGY": 0.2457,
+            "LINGUISTIC SKILLS": 0.3125,
+            "SUBJECTS OF INTEREST": 0.1702,
+            "THERMONUCLEAR  ASTROPHYSICS": 0.6741,
+            "HUMAN  ANATOMY": 0.7558,
+            "INTERROGATIVE": 0.1787,
+            "COUNSELLING PSYCHOLOGY": 0.7595,
+            "NATIONAL SOCIALISM": 0.6374,
+            "WORLD WAR II-HISTORY": 0.2949
+        },
+        "filename": "cv (1587)_annotated.json"
+    }
+}

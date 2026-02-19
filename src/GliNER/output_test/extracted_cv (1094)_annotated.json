@@ -1,0 +1,45 @@
+{
+    "skills": [],
+    "professional_info": {
+        "person name": [
+            "KAREEMUDDIN"
+        ],
+        "job title": [
+            "TELLER",
+            "Regional Operational officer"
+        ],
+        "company": [
+            "JEDDAH",
+            "progressive company",
+            "AL AMOUDI EXCHANGE",
+            "Saudi Arabian Monetary",
+            "Treassury"
+        ],
+        "university": [
+            "JNTU",
+            "Kakatiya university"
+        ],
+        "degree": [
+            "MBA  Finance",
+            "Bachelor in Commerce"
+        ],
+        "years of experience": [],
+        "address": [
+            "Hyderabad",
+            "Warangal"
+        ],
+        "email": [
+            "E-mail",
+            "kareem_md210@yahoo.com"
+        ],
+        "phone": [
+            "Mobile",
+            "966-563898701"
+        ]
+    },
+    "metadata": {
+        "total_skills": 0,
+        "confidence_scores": {},
+        "filename": "cv (1094)_annotated.json"
+    }
+}

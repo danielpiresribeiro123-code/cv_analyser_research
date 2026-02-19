@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "skills",
+        "ACADEMIC QUALIFICATION",
+        "10+2",
+        "COMPUTER SKILL",
+        "Basic computer knowledge",
+        "Marital Status",
+        "Unmarried",
+        "Hindi",
+        "English",
+        "Punjabi"
+    ],
+    "professional_info": {
+        "person name": [
+            "AMIT GUPTA",
+            "Devendra Gupta",
+            "Indian"
+        ],
+        "job title": [
+            "Plumber"
+        ],
+        "company": [
+            "Deemarks Hotel",
+            "Al Ain Dairy",
+            "UP Board",
+            "Industrial Training Institutes (I.T.I)"
+        ],
+        "university": [
+            "High school"
+        ],
+        "degree": [],
+        "years of experience": [
+            "3 YEARS"
+        ],
+        "address": [
+            "Sadak dudhli dehradun road",
+            "Rangpuri"
+        ],
+        "email": [
+            "08881891123",
+            "Email",
+            "amitgu3185@gmail.com"
+        ],
+        "phone": [
+            "07060820734"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "skills": 0.202,
+            "ACADEMIC QUALIFICATION": 0.2712,
+            "10+2": 0.517,
+            "COMPUTER SKILL": 0.6112,
+            "Basic computer knowledge": 0.5909,
+            "Marital Status": 0.2204,
+            "Unmarried": 0.3877,
+            "Hindi": 0.8646,
+            "English": 0.8407,
+            "Punjabi": 0.833
+        },
+        "filename": "cv (2347)_annotated.json"
+    }
+}

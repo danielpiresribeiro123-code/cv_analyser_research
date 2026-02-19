@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "utmost dedication",
+        "MS Office",
+        "MS – Word",
+        "Excel",
+        "Power Point",
+        ". NET",
+        "HTML",
+        "WINXP",
+        "WINDOW7",
+        "WINDOW8",
+        ".NET",
+        "EMBEDDED SYSTEM TECHNOLOGY &  8051",
+        "MICROCONTROLLER",
+        "E-Shopping",
+        "Androide Oprated Robot",
+        "Certificate",
+        "G K COMPETITION",
+        "COMPUTER APPLICATION",
+        "Leadership Quality",
+        "Confident",
+        "Hardworking & Sincere",
+        "Positive Attitude"
+    ],
+    "professional_info": {
+        "person name": [
+            "PRAMOD KUMAR",
+            "Mr. M.P. Rathore",
+            "Mrs. Kamlesh",
+            "Indian"
+        ],
+        "job title": [
+            "PROFESSIONAL"
+        ],
+        "company": [
+            "INDIAN FARMERS FERTILISER, COOPERATIVE LTD.",
+            "NINE VISION IT, CORPORATES PVT LTD.",
+            "SOFCON"
+        ],
+        "university": [
+            "FUTURE INSST.",
+            "OF ENGG. AND TECH.",
+            "Board/Universit",
+            "GBTU    FIET"
+        ],
+        "degree": [
+            "B.Tech",
+            "ELECTRONICS & COMMUNICATION",
+            "B.TECH  (EC)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Pin Code-243502"
+        ],
+        "email": [
+            "Email-ID",
+            "Er.pramodkumar56@gmail.com"
+        ],
+        "phone": [
+            "Mobile No:-  8171392323"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "utmost dedication": 0.2042,
+            "MS Office": 0.4937,
+            "MS – Word": 0.4788,
+            "Excel": 0.2206,
+            "Power Point": 0.3628,
+            ". NET": 0.8606,
+            "HTML": 0.8607,
+            "WINXP": 0.9287,
+            "WINDOW7": 0.8862,
+            "WINDOW8": 0.8743,
+            ".NET": 0.8232,
+            "EMBEDDED SYSTEM TECHNOLOGY &  8051": 0.1808,
+            "MICROCONTROLLER": 0.3855,
+            "E-Shopping": 0.1871,
+            "Androide Oprated Robot": 0.2711,
+            "Certificate": 0.4527,
+            "G K COMPETITION": 0.4005,
+            "COMPUTER APPLICATION": 0.2149,
+            "Leadership Quality": 0.4743,
+            "Confident": 0.3101,
+            "Hardworking & Sincere": 0.3406,
+            "Positive Attitude": 0.2965
+        },
+        "filename": "cv (3351)_annotated.json"
+    }
+}

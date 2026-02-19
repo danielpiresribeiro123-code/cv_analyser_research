@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "software administration",
+        "data communications",
+        "network security",
+        "culinary skills",
+        "expertise",
+        "Sun Certified Java Developer",
+        "SCJD",
+        "CISCO Certified Network Associate",
+        "CCNA",
+        "Strong analytical skills",
+        "GUI and tools",
+        "UNIX/LINUX",
+        "Strong collaborative skills",
+        "Web content management",
+        "Proficiency",
+        "TCP/IP protocols",
+        "Document management",
+        "Testing",
+        "Excellent problem solving skills",
+        "streaming video platforms",
+        "Technical Skills",
+        "Skills",
+        "Word",
+        "Excel",
+        "powerpoint",
+        "standards"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "TSO/FLOATER",
+            "IT specialist",
+            "Personal Computer Support Technician",
+            "surveillance professional",
+            "MP",
+            "Cook",
+            "Line Cook",
+            "content creators"
+        ],
+        "company": [
+            "Military Police"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "7 years",
+            "Experience",
+            "Total Years"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "software administration": 0.2859,
+            "data communications": 0.1993,
+            "network security": 0.4043,
+            "culinary skills": 0.3576,
+            "expertise": 0.2273,
+            "Sun Certified Java Developer": 0.4693,
+            "SCJD": 0.1653,
+            "CISCO Certified Network Associate": 0.7681,
+            "CCNA": 0.3852,
+            "Strong analytical skills": 0.5367,
+            "GUI and tools": 0.537,
+            "UNIX/LINUX": 0.9388,
+            "Strong collaborative skills": 0.3217,
+            "Web content management": 0.446,
+            "Proficiency": 0.1894,
+            "TCP/IP protocols": 0.7246,
+            "Document management": 0.2709,
+            "Testing": 0.3077,
+            "Excellent problem solving skills": 0.4753,
+            "streaming video platforms": 0.2025,
+            "Technical Skills": 0.4759,
+            "Skills": 0.2943,
+            "Word": 0.3819,
+            "Excel": 0.345,
+            "powerpoint": 0.4316,
+            "standards": 0.1853
+        },
+        "filename": "cv (4536)_annotated.json"
+    }
+}

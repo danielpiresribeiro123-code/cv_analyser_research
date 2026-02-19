@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "English",
+        "Kiswahili",
+        "Luyha",
+        "Hay making and Dairy Production",
+        "Dairy cattle management",
+        "poultry management",
+        "goat management",
+        "Attachment",
+        "pig management",
+        "Reading Agricultural books",
+        "Teaching",
+        "Watching",
+        "REFERRES"
+    ],
+    "professional_info": {
+        "person name": [
+            "Kennedy Sirube Wanjala",
+            "Mr. Ronald Ngala",
+            "Mr.Humphrey Mayende"
+        ],
+        "job title": [
+            "sirubekennedy",
+            "Consultant",
+            "Manager"
+        ],
+        "company": [
+            "Lutacho Secondary School",
+            "K. C. S. E (C+)",
+            "Mitukuyu Primary School",
+            "Mt. Elgon Tillers",
+            "Beneli Mixed Farm",
+            "Sang'alo Lake Basin Authority"
+        ],
+        "university": [
+            "Bukura Agricultural College",
+            "K. C. P. E (282 Marks)"
+        ],
+        "degree": [
+            "Diploma in Animal Production and Health Management"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "EMAIL",
+            "gmail.com"
+        ],
+        "phone": [
+            "PHONE",
+            "0714574307",
+            "0723-785-634",
+            "0792890672"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "English": 0.8067,
+            "Kiswahili": 0.8184,
+            "Luyha": 0.6226,
+            "Hay making and Dairy Production": 0.586,
+            "Dairy cattle management": 0.7827,
+            "poultry management": 0.7418,
+            "goat management": 0.6506,
+            "Attachment": 0.5744,
+            "pig management": 0.5965,
+            "Reading Agricultural books": 0.2632,
+            "Teaching": 0.2927,
+            "Watching": 0.2117,
+            "REFERRES": 0.2115
+        },
+        "filename": "cv (1216)_annotated.json"
+    }
+}

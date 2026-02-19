@@ -1,0 +1,96 @@
+{
+    "skills": [
+        "MEP",
+        "EPC",
+        "British Standards",
+        "International Electrical Commission (IEC) Standards",
+        "European Standards",
+        "NFPA",
+        "S tandards and Codes",
+        "PCC/PMCC/MCC",
+        "earthing",
+        "VFD",
+        "SS",
+        "ATS",
+        "Auto cad",
+        "Cad Electrical",
+        "Autodesk BIM",
+        "Revit MEP",
+        "E- Plan",
+        "Candy",
+        "Working knowledge",
+        "HMI",
+        "SCADA",
+        "Revit",
+        "Excel"
+    ],
+    "professional_info": {
+        "person name": [
+            "AGNI MUTHU"
+        ],
+        "job title": [
+            "B.E – ELECTRICAL AND ELECTRNIC ENGINEER",
+            "Electrical Engineer",
+            "Production and Assistant QC engineer",
+            "Senior Electrical Engineer/Assistant Project Engineer"
+        ],
+        "company": [
+            "LV Switchgear",
+            "L&T",
+            "Schneider",
+            "Siemens",
+            "Allen-Bradly",
+            "Mitsubishi"
+        ],
+        "university": [],
+        "degree": [
+            "M.B.A – PM"
+        ],
+        "years of experience": [
+            "2+ years",
+            "4+ years",
+            "Experience"
+        ],
+        "address": [
+            "Chennai"
+        ],
+        "email": [
+            "E-Mail",
+            "agniuae2016@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+917339109895",
+            "Skype"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "MEP": 0.3589,
+            "EPC": 0.194,
+            "British Standards": 0.803,
+            "International Electrical Commission (IEC) Standards": 0.4376,
+            "European Standards": 0.847,
+            "NFPA": 0.4651,
+            "S tandards and Codes": 0.2583,
+            "PCC/PMCC/MCC": 0.1678,
+            "earthing": 0.1924,
+            "VFD": 0.2758,
+            "SS": 0.1997,
+            "ATS": 0.2511,
+            "Auto cad": 0.5938,
+            "Cad Electrical": 0.6055,
+            "Autodesk BIM": 0.6085,
+            "Revit MEP": 0.7263,
+            "E- Plan": 0.7112,
+            "Candy": 0.3906,
+            "Working knowledge": 0.164,
+            "HMI": 0.4176,
+            "SCADA": 0.5668,
+            "Revit": 0.432,
+            "Excel": 0.3571
+        },
+        "filename": "cv (2033)_annotated.json"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "Professional Qualification",
+        "NEBOSH",
+        "Diploma",
+        "Academic Qualification",
+        "Diploma in Mechanical Eng.",
+        "Professional Abridgment",
+        "competent",
+        "Mechanical",
+        "Civil",
+        "Electrical work",
+        "Pipeline",
+        "Proficient",
+        "Health & Safety Culture & Awareness",
+        "International, Federal & Local HSE Standards & Regulations",
+        "Competency",
+        "WINDOWS OS",
+        "MAC OS",
+        "Win 95",
+        "Win10",
+        "Internet Browsing",
+        "MS Office",
+        "Word",
+        "Excel",
+        "Power Point",
+        "Access",
+        "Gender"
+    ],
+    "professional_info": {
+        "person name": [
+            "DANISH AHMAD",
+            "Male"
+        ],
+        "job title": [
+            "Safety professional"
+        ],
+        "company": [
+            "DUBAI WATER ELECTRICITY AUTHORITY",
+            "company"
+        ],
+        "university": [
+            "Institute of Industrial Safety Management (IISM)-INDIA"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-MAIL",
+            "ahmaddanish9@gmail. com",
+            "+971-504186856",
+            "+971-522950301"
+        ],
+        "phone": [
+            "MOBILE"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Professional Qualification": 0.6353,
+            "NEBOSH": 0.3494,
+            "Diploma": 0.2445,
+            "Academic Qualification": 0.3433,
+            "Diploma in Mechanical Eng.": 0.352,
+            "Professional Abridgment": 0.1858,
+            "competent": 0.2841,
+            "Mechanical": 0.3754,
+            "Civil": 0.1545,
+            "Electrical work": 0.2423,
+            "Pipeline": 0.201,
+            "Proficient": 0.4208,
+            "Health & Safety Culture & Awareness": 0.1633,
+            "International, Federal & Local HSE Standards & Regulations": 0.592,
+            "Competency": 0.4019,
+            "WINDOWS OS": 0.738,
+            "MAC OS": 0.6849,
+            "Win 95": 0.5871,
+            "Win10": 0.5815,
+            "Internet Browsing": 0.6175,
+            "MS Office": 0.6776,
+            "Word": 0.4259,
+            "Excel": 0.3066,
+            "Power Point": 0.4253,
+            "Access": 0.4535,
+            "Gender": 0.2015
+        },
+        "filename": "cv (112)_annotated.json"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "skills": [
+        "skill",
+        "knowledge",
+        "SAP FI/CO Module"
+    ],
+    "professional_info": {
+        "person name": [
+            "Abhishek Kumar",
+            "abhishek"
+        ],
+        "job title": [
+            "accounting position",
+            "Accountant"
+        ],
+        "company": [
+            "COMPASS ARABIA COMPANY LIMITED",
+            "Industrial  Catering  &  Facility  Management Services",
+            "SAP"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Khobar, Saudi Arabia"
+        ],
+        "email": [
+            "Ph.no.",
+            "Email",
+            "mba"
+        ],
+        "phone": [
+            "+966 – 592733134",
+            "+91 – 9897167456"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "skill": 0.154,
+            "knowledge": 0.1575,
+            "SAP FI/CO Module": 0.3526
+        },
+        "filename": "cv (2103)_annotated.json"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "skills": [
+        "Electronics and Communication",
+        "result driven",
+        "Excellent decision making abilities",
+        "Excellent analytical skills",
+        "problem solving skills",
+        "Excellent Management & Communication skills",
+        "Self initiation",
+        "good team player",
+        "IT useage",
+        "Electronics & Communication",
+        "First class",
+        "Executive-Master of Business Administration",
+        "Human Resources Management",
+        "Certifications",
+        "Certified GSM Mobile RF Engineer",
+        "CCNA",
+        "Computer Hardware and Networking",
+        "Web - Centric Computing"
+    ],
+    "professional_info": {
+        "person name": [
+            "IMRAN HUSSAIN SAYEED"
+        ],
+        "job title": [
+            "immu3010",
+            "professional Engineer",
+            "specialist communications consultant"
+        ],
+        "company": [
+            "STG"
+        ],
+        "university": [
+            "Sri Muthukumaran Institute of Technology",
+            "University of Madras",
+            "Panimalar Polytechnic",
+            "National Institute of Business Management",
+            "BSNL",
+            "Rajiv Gandhi Memorial Telecom Training Centre",
+            "ACCEL IT ACADEMY",
+            "NIIT"
+        ],
+        "degree": [
+            "B.E.",
+            "E-M.B.A.",
+            "D.E.E.E.",
+            "Bachelor of Engineering",
+            "B.E",
+            "Diploma in Electrical & Electronics Engineering",
+            "D.E.E.E",
+            "E-M.B.A"
+        ],
+        "years of experience": [
+            "16+ years of experience"
+        ],
+        "address": [],
+        "email": [
+            "Skype",
+            "E-mail",
+            "imran20584@yahoo.co."
+        ],
+        "phone": [
+            "+91-9790968036"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Electronics and Communication": 0.3323,
+            "result driven": 0.2488,
+            "Excellent decision making abilities": 0.2617,
+            "Excellent analytical skills": 0.2648,
+            "problem solving skills": 0.3736,
+            "Excellent Management & Communication skills": 0.2885,
+            "Self initiation": 0.2746,
+            "good team player": 0.242,
+            "IT useage": 0.3022,
+            "Electronics & Communication": 0.4379,
+            "First class": 0.1582,
+            "Executive-Master of Business Administration": 0.2062,
+            "Human Resources Management": 0.181,
+            "Certifications": 0.1973,
+            "Certified GSM Mobile RF Engineer": 0.4219,
+            "CCNA": 0.6505,
+            "Computer Hardware and Networking": 0.2514,
+            "Web - Centric Computing": 0.4266
+        },
+        "filename": "cv (1798)_annotated.json"
+    }
+}

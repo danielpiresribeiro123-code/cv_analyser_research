@@ -1,0 +1,96 @@
+{
+    "skills": [
+        "knowledge",
+        "Welding Inspection",
+        "Quality Assurance",
+        "Quality Control",
+        "Team Management",
+        "CWSIP-3.1",
+        "SNT Level II",
+        "Non-Destructive Testing",
+        "Radiographic Film Interpretation",
+        "Ultrasonic Testing",
+        "Magnetic Particle Testing",
+        "Liquid Penetrate Testing",
+        "GTAW",
+        "GMAW",
+        "FCAW",
+        "SAW",
+        "SMAW",
+        "Bend test",
+        "Macro Examination",
+        "Vickers Hardness Test",
+        "V-Notch Charpy impact test",
+        "knowledge",
+        "Profound knowledge",
+        "Quality standards",
+        "ASME B31.3",
+        "ASME SEC IX",
+        "ASME SEC V & API 1104",
+        "Proficiency",
+        "welding consumables",
+        "quality plan"
+    ],
+    "professional_info": {
+        "person name": [
+            "LAKSHMANAN SRINIVASAN"
+        ],
+        "job title": [
+            "Certified professional",
+            "Welding Inspector"
+        ],
+        "company": [
+            "progressive company",
+            "Company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "11+ years"
+        ],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "laksh2alagi@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-8531979262"
+        ]
+    },
+    "metadata": {
+        "total_skills": 30,
+        "confidence_scores": {
+            "knowledge": 0.2977,
+            "Welding Inspection": 0.4611,
+            "Quality Assurance": 0.5079,
+            "Quality Control": 0.4096,
+            "Team Management": 0.2558,
+            "CWSIP-3.1": 0.7369,
+            "SNT Level II": 0.8632,
+            "Non-Destructive Testing": 0.5501,
+            "Radiographic Film Interpretation": 0.5055,
+            "Ultrasonic Testing": 0.2912,
+            "Magnetic Particle Testing": 0.2746,
+            "Liquid Penetrate Testing": 0.307,
+            "GTAW": 0.465,
+            "GMAW": 0.3496,
+            "FCAW": 0.311,
+            "SAW": 0.2498,
+            "SMAW": 0.4207,
+            "Bend test": 0.1788,
+            "Macro Examination": 0.1783,
+            "Vickers Hardness Test": 0.2457,
+            "V-Notch Charpy impact test": 0.3965,
+            "Profound knowledge": 0.3179,
+            "Quality standards": 0.3542,
+            "ASME B31.3": 0.8966,
+            "ASME SEC IX": 0.8327,
+            "ASME SEC V & API 1104": 0.8522,
+            "Proficiency": 0.2264,
+            "welding consumables": 0.1733,
+            "quality plan": 0.2092
+        },
+        "filename": "cv (2427)_annotated.json"
+    }
+}

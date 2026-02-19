@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "N4374525",
+        "BKHPG0247F",
+        "innovative thinker",
+        "initiative taker",
+        "multi-dimensional professional",
+        "exceptional logical and analytical skills",
+        "computer science",
+        "software",
+        "Expert",
+        "Proficient",
+        "networks",
+        "PERSONAL QUALITIES",
+        "computational skills",
+        "Strong motivational and leadership skills",
+        "Ability to work under pressure",
+        "EXAM PASSEDNAME OF THE BOARD",
+        "SUBJECT",
+        "SCIENCE",
+        "Wireless Sensor Network Software Architecture Design Issues",
+        "client database",
+        "software"
+    ],
+    "professional_info": {
+        "person name": [
+            "BG SUMIT",
+            "Mr. SUMIT",
+            "BHAGWANSING GIRASE",
+            "sumit"
+        ],
+        "job title": [
+            "Support Service Engineer & Business Development Officer"
+        ],
+        "company": [
+            "Artin Technologies"
+        ],
+        "university": [
+            "SHRIDHAR UNIVERSITYCOMPUTER",
+            "B.SC",
+            "CMJ UNIVERSITY"
+        ],
+        "degree": [
+            "M-TECH",
+            "SSCMAHARASTRA STATE BOARDTECHNICAL"
+        ],
+        "years of experience": [
+            "5+ experience",
+            "Experience"
+        ],
+        "address": [],
+        "email": [
+            "gmail.com",
+            "Aadhar No"
+        ],
+        "phone": [
+            "Mobile no",
+            "+91- 9890950911"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "N4374525": 0.1775,
+            "BKHPG0247F": 0.2103,
+            "innovative thinker": 0.6004,
+            "initiative taker": 0.6053,
+            "multi-dimensional professional": 0.5177,
+            "exceptional logical and analytical skills": 0.5208,
+            "computer science": 0.5324,
+            "software": 0.2135,
+            "Expert": 0.2066,
+            "Proficient": 0.2239,
+            "networks": 0.301,
+            "PERSONAL QUALITIES": 0.2628,
+            "computational skills": 0.438,
+            "Strong motivational and leadership skills": 0.4163,
+            "Ability to work under pressure": 0.3949,
+            "EXAM PASSEDNAME OF THE BOARD": 0.1607,
+            "SUBJECT": 0.2195,
+            "SCIENCE": 0.2394,
+            "Wireless Sensor Network Software Architecture Design Issues": 0.4264,
+            "client database": 0.5419
+        },
+        "filename": "cv (658)_annotated.json"
+    }
+}

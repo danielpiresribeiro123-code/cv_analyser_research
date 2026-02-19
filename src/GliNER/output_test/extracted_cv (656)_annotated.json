@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "Toapplyforapositionwheremyskillscanbedevelopedandusedeffectively",
+        "knowledgeintheareaoffinanceandmanagement",
+        "Enthusiasticallyworkforanorganizationforitsdevelopmentandenhancemyownskillsand",
+        "knowledge",
+        "Technicalskill",
+        "windows7",
+        "xp",
+        "COMPUTERPROFICIENCY",
+        "Microsoftword",
+        "Msoffice",
+        "Gender",
+        "Male",
+        "Gujarati",
+        "Hindi",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "MangukiyaAkshayJ",
+            "S.S.C. NAVJEEVANH",
+            "H.S.C. NAVJEVANH",
+            "COMMERCEBHAVNAGARUNI"
+        ],
+        "job title": [
+            "CAREEROBJECTIVE",
+            "EDUCATIONALQUALIFICATION"
+        ],
+        "company": [
+            "snehmudrasociety"
+        ],
+        "university": [],
+        "degree": [
+            "Degree/Certificate Institute University/Board YearMarks",
+            "BBA(finance) M.J.COLLEGEOF"
+        ],
+        "years of experience": [],
+        "address": [
+            "Oeratingsystemqq",
+            "-58"
+        ],
+        "email": [
+            "Email",
+            "akshaym17@yahoo.com"
+        ],
+        "phone": [
+            "8401101807",
+            "PhoneNo",
+            "-8401101807"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Toapplyforapositionwheremyskillscanbedevelopedandusedeffectively": 0.2009,
+            "knowledgeintheareaoffinanceandmanagement": 0.3321,
+            "Enthusiasticallyworkforanorganizationforitsdevelopmentandenhancemyownskillsand": 0.2243,
+            "knowledge": 0.3224,
+            "Technicalskill": 0.3634,
+            "windows7": 0.8186,
+            "xp": 0.8192,
+            "COMPUTERPROFICIENCY": 0.2479,
+            "Microsoftword": 0.4803,
+            "Msoffice": 0.5515,
+            "Gender": 0.2212,
+            "Male": 0.2536,
+            "Gujarati": 0.7708,
+            "Hindi": 0.8079,
+            "English": 0.8194
+        },
+        "filename": "cv (656)_annotated.json"
+    }
+}

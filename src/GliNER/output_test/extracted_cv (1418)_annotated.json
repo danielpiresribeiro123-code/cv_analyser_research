@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "Gender",
+        "Female",
+        "English",
+        "Hindi",
+        "Konkani",
+        "Finance & Human Resource",
+        "Finance & Corporate Finance",
+        "Financial Accounting",
+        "Taxation",
+        "Tally",
+        "Bank Reconciliation of the Accounts",
+        "Skills",
+        "Diploma in E-Finance",
+        "MS-Excel",
+        "Peachtree",
+        "Busy",
+        "Soft Skills",
+        "Analytical skills",
+        "Communication skills",
+        "Fast Learner"
+    ],
+    "professional_info": {
+        "person name": [
+            "Shavonna Valenie Almeida",
+            "Mr.AbhijitVirginker"
+        ],
+        "job title": [
+            "accountant",
+            "Chartered Accountant"
+        ],
+        "company": [
+            "Al Omaniya Financial Services",
+            "AOFS",
+            "NBFC",
+            "Ave Miriam"
+        ],
+        "university": [
+            "Goa University",
+            "Rosary College of Commerce & Arts",
+            "Manipal Institute of Computer Education"
+        ],
+        "degree": [
+            "Master in Business Administration",
+            "MBA",
+            "Bachelor of Commerce",
+            "B.Com."
+        ],
+        "years of experience": [],
+        "address": [
+            "Muxim, Macazana"
+        ],
+        "email": [
+            "Contact",
+            "Email",
+            "shavonnaalmeida@gmail.com"
+        ],
+        "phone": [
+            "+91-7083641377",
+            "+91-832 2787054"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Gender": 0.212,
+            "Female": 0.2616,
+            "English": 0.5868,
+            "Hindi": 0.7164,
+            "Konkani": 0.7469,
+            "Finance & Human Resource": 0.2813,
+            "Finance & Corporate Finance": 0.1954,
+            "Financial Accounting": 0.4749,
+            "Taxation": 0.3258,
+            "Tally": 0.403,
+            "Bank Reconciliation of the Accounts": 0.1813,
+            "Skills": 0.1934,
+            "Diploma in E-Finance": 0.528,
+            "MS-Excel": 0.4218,
+            "Peachtree": 0.3938,
+            "Busy": 0.4323,
+            "Soft Skills": 0.2383,
+            "Analytical skills": 0.6025,
+            "Communication skills": 0.1786,
+            "Fast Learner": 0.2036
+        },
+        "filename": "cv (1418)_annotated.json"
+    }
+}

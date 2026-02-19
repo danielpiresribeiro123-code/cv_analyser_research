@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "Certification and Training",
+        "HTML",
+        "CSS",
+        "PHP",
+        "MYSQL  SERVER",
+        "Javascript",
+        "Javascript",
+        "PHP-CMS",
+        "Word Press",
+        "Drupal",
+        "XAMPP",
+        "WAMP",
+        "Windows Enterprise",
+        "Notepad++",
+        "Dreamweaver",
+        "MySQL",
+        "Ability to Analyze Complex Technical Information"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHD RASHID"
+        ],
+        "job title": [
+            "Web Developer",
+            "D.O.B.",
+            "Office Assisant",
+            "Computer Operator",
+            "Project Coordinator",
+            "Assistant Programmer"
+        ],
+        "company": [
+            "IT  PEOPLE, SOLUTION PVT LTD.",
+            "PAO"
+        ],
+        "university": [
+            "MCAIndira Gandhi National Open University New Delhi",
+            "BCAIndira Gandhi National Open University New Delhi"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Laxmi Nagar"
+        ],
+        "email": [
+            "Email",
+            "rashidsaifi590@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 9873741680"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Certification and Training": 0.3535,
+            "HTML": 0.7537,
+            "CSS": 0.6127,
+            "PHP": 0.9862,
+            "MYSQL  SERVER": 0.3421,
+            "Javascript": 0.7131,
+            "PHP-CMS": 0.3285,
+            "Word Press": 0.2244,
+            "Drupal": 0.29,
+            "XAMPP": 0.2674,
+            "WAMP": 0.2907,
+            "Windows Enterprise": 0.9106,
+            "Notepad++": 0.4069,
+            "Dreamweaver": 0.3419,
+            "MySQL": 0.3926,
+            "Ability to Analyze Complex Technical Information": 0.1677
+        },
+        "filename": "cv (1772)_annotated.json"
+    }
+}

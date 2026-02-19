@@ -1,0 +1,104 @@
+{
+    "skills": [
+        "technically sound",
+        "Customer focused",
+        "quality  conscious",
+        "Technical Competencies",
+        "CAD Tools",
+        "AutoCAD",
+        "Solid Works",
+        "NX 8.5",
+        "Creation of Manufacturing Drawings",
+        "GD & T",
+        "ASME Standards",
+        "Basic Knowledge",
+        "API standards",
+        "5B",
+        "5C3",
+        "5CT",
+        "RP 10F",
+        "Team Working Skills",
+        "Computer Hardware and Software tools",
+        "Windows Server",
+        "XP",
+        "Windows 7.0",
+        "Windows 8",
+        "Windows 10",
+        "MS Office Products",
+        "Expertise",
+        "Product and Conceptual Design",
+        "downhole Cementing tools",
+        "Legacy data conversions",
+        "Generation of manufacturing drawings",
+        "Product Data Management",
+        "Oilfield industry safety standards"
+    ],
+    "professional_info": {
+        "person name": [
+            "VAIBHAV"
+        ],
+        "job title": [
+            "CAD Engineer",
+            "Design Engineer",
+            "CAD Engineer - Mechanical"
+        ],
+        "company": [
+            "SLEDGEHAMMER OIL TOOLS PVT. LTD.",
+            "SHOTPL"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "2+ years experiences",
+            "Verbal"
+        ],
+        "address": [
+            "Faridabad"
+        ],
+        "email": [
+            "E-mail"
+        ],
+        "phone": [
+            "Mob",
+            "+91 9560472505"
+        ]
+    },
+    "metadata": {
+        "total_skills": 32,
+        "confidence_scores": {
+            "technically sound": 0.2829,
+            "Customer focused": 0.2105,
+            "quality  conscious": 0.2213,
+            "Technical Competencies": 0.2074,
+            "CAD Tools": 0.3081,
+            "AutoCAD": 0.3864,
+            "Solid Works": 0.5456,
+            "NX 8.5": 0.5087,
+            "Creation of Manufacturing Drawings": 0.2227,
+            "GD & T": 0.2656,
+            "ASME Standards": 0.2738,
+            "Basic Knowledge": 0.2421,
+            "API standards": 0.2852,
+            "5B": 0.4664,
+            "5C3": 0.3711,
+            "5CT": 0.3774,
+            "RP 10F": 0.4992,
+            "Team Working Skills": 0.2077,
+            "Computer Hardware and Software tools": 0.3033,
+            "Windows Server": 0.8789,
+            "XP": 0.8671,
+            "Windows 7.0": 0.8841,
+            "Windows 8": 0.9182,
+            "Windows 10": 0.9326,
+            "MS Office Products": 0.8291,
+            "Expertise": 0.171,
+            "Product and Conceptual Design": 0.294,
+            "downhole Cementing tools": 0.2438,
+            "Legacy data conversions": 0.2456,
+            "Generation of manufacturing drawings": 0.1586,
+            "Product Data Management": 0.4314,
+            "Oilfield industry safety standards": 0.3987
+        },
+        "filename": "cv (3066)_annotated.json"
+    }
+}

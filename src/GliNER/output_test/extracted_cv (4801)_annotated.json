@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Extensive knowledge of accounting software and processes",
+        "Skills",
+        "Complex problem solving",
+        "Analytical reasoning",
+        "Financial statement analysis",
+        "SOX Compliance",
+        "Business function consolidation",
+        "Process re-engineering",
+        "System requirement writing",
+        "Outstanding interpersonal and organizational skills",
+        "Excellent Oracle skills in all modules",
+        "Oracle FSG report writing",
+        "Advance Excel and Access proficiency",
+        "High adaptabilityÂ to new technology",
+        "Account reconciliation expert",
+        "revenue recognition",
+        "Experience",
+        "Oracle Flexfields",
+        "Financial Statement Generator (FSG)",
+        "validation methodologies",
+        "managed"
+    ],
+    "professional_info": {
+        "person name": [
+            "Company Name"
+        ],
+        "job title": [
+            "CONSULTANT",
+            "CPA",
+            "Current"
+        ],
+        "company": [
+            "client",
+            "Oracle"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Extensive knowledge of accounting software and processes": 0.1696,
+            "Skills": 0.2235,
+            "Complex problem solving": 0.5771,
+            "Analytical reasoning": 0.6134,
+            "Financial statement analysis": 0.4766,
+            "SOX Compliance": 0.2219,
+            "Business function consolidation": 0.2104,
+            "Process re-engineering": 0.4076,
+            "System requirement writing": 0.1986,
+            "Outstanding interpersonal and organizational skills": 0.5001,
+            "Excellent Oracle skills in all modules": 0.4079,
+            "Oracle FSG report writing": 0.3893,
+            "Advance Excel and Access proficiency": 0.5954,
+            "High adaptabilityÂ to new technology": 0.4332,
+            "Account reconciliation expert": 0.3631,
+            "revenue recognition": 0.1774,
+            "Experience": 0.2181,
+            "Oracle Flexfields": 0.3193,
+            "Financial Statement Generator (FSG)": 0.4796,
+            "validation methodologies": 0.5864,
+            "managed": 0.1776
+        },
+        "filename": "cv (4801)_annotated.json"
+    }
+}

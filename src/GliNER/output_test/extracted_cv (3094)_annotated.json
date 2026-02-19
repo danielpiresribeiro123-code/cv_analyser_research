@@ -1,0 +1,91 @@
+{
+    "skills": [
+        "Technical Skills",
+        "Programming",
+        "Java",
+        "C++",
+        "Android",
+        ".Net Framework",
+        "HTML",
+        "MS Office",
+        "Word",
+        "PowerPoint",
+        "Tally ERP 9",
+        "Web Design",
+        "Adobe Creative suite",
+        "Photoshop",
+        "Dream Viewer",
+        "WINDOWS FAMILY",
+        "XP",
+        "WINDOWS 10",
+        "Personal Skills",
+        "Excellent written and verbal communication skills",
+        "Highly organized and efficient",
+        "Ability to work independently or as part of team",
+        "Proven leadership skills",
+        "ability to motivate"
+    ],
+    "professional_info": {
+        "person name": [
+            "K.J.MOHAMMED IRFAN"
+        ],
+        "job title": [
+            "key player",
+            "Warehouse Assistant",
+            "Sales",
+            "Team Leader"
+        ],
+        "company": [
+            "Paperex General Trading LLC",
+            "Plestar, Inc",
+            "Sundaram Clayton Limited"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "+971 569656278",
+            "Experience"
+        ],
+        "address": [
+            "Palm Deira"
+        ],
+        "email": [
+            "Email",
+            "mdirfan38@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+971582134662"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Technical Skills": 0.1978,
+            "Programming": 0.2451,
+            "Java": 0.4765,
+            "C++": 0.6349,
+            "Android": 0.2838,
+            ".Net Framework": 0.5974,
+            "HTML": 0.1595,
+            "MS Office": 0.7354,
+            "Word": 0.1984,
+            "PowerPoint": 0.1726,
+            "Tally ERP 9": 0.4944,
+            "Web Design": 0.3363,
+            "Adobe Creative suite": 0.813,
+            "Photoshop": 0.2708,
+            "Dream Viewer": 0.4684,
+            "WINDOWS FAMILY": 0.8182,
+            "XP": 0.4953,
+            "WINDOWS 10": 0.8579,
+            "Personal Skills": 0.3019,
+            "Excellent written and verbal communication skills": 0.339,
+            "Highly organized and efficient": 0.3367,
+            "Ability to work independently or as part of team": 0.1761,
+            "Proven leadership skills": 0.4403,
+            "ability to motivate": 0.3374
+        },
+        "filename": "cv (3094)_annotated.json"
+    }
+}

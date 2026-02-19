@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "supervisory qualifications",
+        "Team oriented",
+        "proven ability",
+        "MEP",
+        "Firefighting",
+        "Pest control",
+        "CCTV",
+        "LPG",
+        "waste disposal"
+    ],
+    "professional_info": {
+        "person name": [
+            "ASAN MOHIDEEN",
+            "hasanmohideen4892"
+        ],
+        "job title": [
+            "Facilities Supervisor",
+            "D.M.E",
+            "Manufacturing Professional",
+            "Business Manager",
+            "Bursar",
+            "school based supervisor"
+        ],
+        "company": [
+            "St. Xavier Polytechnic College",
+            "State Board (SSLC)",
+            "Muslim Higher Secondary School"
+        ],
+        "university": [],
+        "degree": [
+            "2007 Diploma in Mechanical Engineer"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-mail"
+        ],
+        "phone": [
+            "Mobile No",
+            "0554714892/0509672557"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "supervisory qualifications": 0.269,
+            "Team oriented": 0.3254,
+            "proven ability": 0.2113,
+            "MEP": 0.2125,
+            "Firefighting": 0.1605,
+            "Pest control": 0.2417,
+            "CCTV": 0.1833,
+            "LPG": 0.1617,
+            "waste disposal": 0.1583
+        },
+        "filename": "cv (627)_annotated.json"
+    }
+}

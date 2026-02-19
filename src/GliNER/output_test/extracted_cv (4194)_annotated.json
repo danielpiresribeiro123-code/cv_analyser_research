@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "MARITAL STATUS",
+        "English",
+        "Electrical and Electronics",
+        "Higher Secondary"
+    ],
+    "professional_info": {
+        "person name": [
+            "AKSHAYA RAI",
+            "Mr. AJAY KUMAR RAI"
+        ],
+        "job title": [
+            "Site Engineer"
+        ],
+        "company": [
+            "reputed firm",
+            "Shivcharandas Kanhaiyalal Inter College",
+            "U.P. Board",
+            "Jaiprakash  Associates  Limited",
+            "Jaiprakash Associates Limited",
+            "ISOLUX CORSAN",
+            "Surendra Electrical",
+            "Manu Electrical P Ltd",
+            "Infinity switchgear p ltd",
+            "MJ INFRASTRUCTURE P LIMITED"
+        ],
+        "university": [
+            "United College of Engineering and Research",
+            "U.P.T.U.",
+            "Shivcharandas Kanhaiyalal Inter College",
+            "U.P.Board"
+        ],
+        "degree": [
+            "B.Tech",
+            "Matriculation"
+        ],
+        "years of experience": [],
+        "address": [
+            "Attarsuiya",
+            "Allahabad-211003",
+            "Uttar Pradesh INDIA",
+            "HINDU",
+            "Hindi",
+            "GLOBE",
+            "NAINI",
+            "Allahabad",
+            "HIMACHAL",
+            "BITS PILANI",
+            "HIGH RISE BUILDING PROJECT",
+            "13 FLOOR BUILDING",
+            "Bangalore",
+            "16 FLOOR BUILDING"
+        ],
+        "email": [
+            "E-mail",
+            "akshaya_rai13@yahoo.co."
+        ],
+        "phone": [
+            "Contact number",
+            "09632209683"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "MARITAL STATUS": 0.1527,
+            "English": 0.3728,
+            "Electrical and Electronics": 0.357,
+            "Higher Secondary": 0.3897
+        },
+        "filename": "cv (4194)_annotated.json"
+    }
+}

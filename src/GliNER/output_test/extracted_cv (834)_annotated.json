@@ -1,0 +1,96 @@
+{
+    "skills": [
+        "skills",
+        "ambition",
+        "commitment to excellence",
+        "TECHNICAL SKILLS",
+        "Windows",
+        "LINUX",
+        "MS SQL Server",
+        "Oracle",
+        "MS Office",
+        "Web Technologies",
+        "ASP.NET",
+        "HTML",
+        "STRENGTH",
+        "Confident and enthusiastic",
+        "Ability to learn new concepts",
+        "Ability to solve critical problems by thinking beyond the boundaries",
+        "Highly energetic and motivate",
+        "Smart worker",
+        "industrial strength",
+        ".NET(web)",
+        "JUDICIARY SUPPORTING SYSTEM",
+        "Male",
+        "Single",
+        "Malayalam",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "NIKHIL MOHAN",
+            "krishnageetham",
+            "Mr. Mohanan P.P"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "university of Calicut",
+            "Bharathiar University",
+            "Tamil nadu"
+        ],
+        "degree": [
+            "MCA",
+            "Graduate",
+            "Bsc Computer Science"
+        ],
+        "years of experience": [],
+        "address": [
+            "Ottapalam",
+            "palakkad",
+            "Pin-679521",
+            "mob"
+        ],
+        "email": [
+            "Email",
+            "nikhilmohan.11@gmail.comMCA-Main",
+            "Indian"
+        ],
+        "phone": [
+            "Phone",
+            "0466-2246005",
+            "9567893299"
+        ]
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "skills": 0.2838,
+            "ambition": 0.3344,
+            "commitment to excellence": 0.2205,
+            "TECHNICAL SKILLS": 0.2608,
+            "Windows": 0.9874,
+            "LINUX": 0.9637,
+            "MS SQL Server": 0.4909,
+            "Oracle": 0.2331,
+            "MS Office": 0.7355,
+            "Web Technologies": 0.4375,
+            "ASP.NET": 0.4162,
+            "HTML": 0.5322,
+            "STRENGTH": 0.4623,
+            "Confident and enthusiastic": 0.401,
+            "Ability to learn new concepts": 0.3478,
+            "Ability to solve critical problems by thinking beyond the boundaries": 0.225,
+            "Highly energetic and motivate": 0.2317,
+            "Smart worker": 0.2698,
+            "industrial strength": 0.195,
+            ".NET(web)": 0.2919,
+            "JUDICIARY SUPPORTING SYSTEM": 0.1542,
+            "Male": 0.2173,
+            "Single": 0.3867,
+            "Malayalam": 0.4832,
+            "English": 0.3832
+        },
+        "filename": "cv (834)_annotated.json"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "personal goals",
+        "Enthusiasm & Positive Attitude",
+        "Creativity and New Ideas",
+        "Hardworking and adaptable to different situations",
+        "Optimistic and Persistence",
+        "Good communication skills",
+        "sericulture",
+        "biology",
+        "ZOOLOGY",
+        "Bio-chemistry"
+    ],
+    "professional_info": {
+        "person name": [
+            "GOWRI.S",
+            "P.G.T",
+            "T.G.T",
+            "Lady doak",
+            "Thiagarajar"
+        ],
+        "job title": [
+            "Team Player and organizer",
+            "1st rank holder",
+            "Part- time Lecturer",
+            "TGT"
+        ],
+        "company": [],
+        "university": [
+            "BHARATHIDASAN",
+            "University Trichy",
+            "MAHATMA Matriculation Higher Secondary School",
+            "D.A.V"
+        ],
+        "degree": [
+            "M.Sc.",
+            "B.SC.",
+            "M.S C."
+        ],
+        "years of experience": [
+            "WORKING EXPERIENCE"
+        ],
+        "address": [],
+        "email": [
+            "sbk585@gmail.com"
+        ],
+        "phone": [
+            "Mob",
+            "+91",
+            "– 9500025490"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "personal goals": 0.1579,
+            "Enthusiasm & Positive Attitude": 0.4265,
+            "Creativity and New Ideas": 0.3653,
+            "Hardworking and adaptable to different situations": 0.2901,
+            "Optimistic and Persistence": 0.411,
+            "Good communication skills": 0.5157,
+            "sericulture": 0.2902,
+            "biology": 0.2147,
+            "ZOOLOGY": 0.7725,
+            "Bio-chemistry": 0.3973
+        },
+        "filename": "cv (1493)_annotated.json"
+    }
+}

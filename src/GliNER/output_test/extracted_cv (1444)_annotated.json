@@ -1,0 +1,109 @@
+{
+    "skills": [
+        "ADMINISTRATION / OPERATIONS MANAGEMNT",
+        "Administration",
+        "Operations management",
+        "General Education Diploma",
+        "asset management",
+        "valuation",
+        "corporate services",
+        "consultancy",
+        "Helpdesk Management",
+        "TRAMPS",
+        "Contractors management",
+        "Lease management",
+        "Preventive planning maintenance activities management",
+        "SOFTWARE SKILLS",
+        "MS office",
+        "MS Word",
+        "MS Excel",
+        "MS PowerPoint",
+        "TRAMPS FM software",
+        "facility management",
+        "Internet Explorer",
+        "innovate thinking methodology",
+        "problem solving",
+        "Effective leadership",
+        "layout for new product variants",
+        "Effective Communication skills",
+        "PERSONAL PROFILE",
+        "Gender",
+        "Female",
+        "Single"
+    ],
+    "professional_info": {
+        "person name": [
+            "AMNA IBRAHIM AL BALUSHI"
+        ],
+        "job title": [
+            "Helpdesk Operator / Receptionist",
+            "STRENGTH",
+            "Leading"
+        ],
+        "company": [
+            "Cluttons and, Partners LLC",
+            "Taminat Residential Complex Bausher",
+            "Cluttons and partners",
+            "institutional investors"
+        ],
+        "university": [
+            "Arab Open University",
+            "Al Manhal"
+        ],
+        "degree": [
+            "Bachelor in business administration"
+        ],
+        "years of experience": [
+            "WORK EXPERIENCE"
+        ],
+        "address": [
+            "AL ALAYAH",
+            "P. O. Box No.313",
+            "PC.114"
+        ],
+        "email": [
+            "Email",
+            "a1m9n9a5@hotmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+968 94678613"
+        ]
+    },
+    "metadata": {
+        "total_skills": 30,
+        "confidence_scores": {
+            "ADMINISTRATION / OPERATIONS MANAGEMNT": 0.3343,
+            "Administration": 0.167,
+            "Operations management": 0.3471,
+            "General Education Diploma": 0.3316,
+            "asset management": 0.4128,
+            "valuation": 0.2512,
+            "corporate services": 0.2769,
+            "consultancy": 0.1882,
+            "Helpdesk Management": 0.3046,
+            "TRAMPS": 0.2969,
+            "Contractors management": 0.4168,
+            "Lease management": 0.3963,
+            "Preventive planning maintenance activities management": 0.2028,
+            "SOFTWARE SKILLS": 0.1656,
+            "MS office": 0.5885,
+            "MS Word": 0.3988,
+            "MS Excel": 0.3856,
+            "MS PowerPoint": 0.4651,
+            "TRAMPS FM software": 0.359,
+            "facility management": 0.1625,
+            "Internet Explorer": 0.5391,
+            "innovate thinking methodology": 0.7168,
+            "problem solving": 0.3617,
+            "Effective leadership": 0.5945,
+            "layout for new product variants": 0.2068,
+            "Effective Communication skills": 0.3437,
+            "PERSONAL PROFILE": 0.3741,
+            "Gender": 0.1929,
+            "Female": 0.2166,
+            "Single": 0.4021
+        },
+        "filename": "cv (1444)_annotated.json"
+    }
+}

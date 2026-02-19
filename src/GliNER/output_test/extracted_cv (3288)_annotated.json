@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "EDUCATION85.3%",
+        "Quick learning ability",
+        "EDUCATIONAL QUALIFICATION",
+        "Personal Skills",
+        "AUTO CAD",
+        "MS OFFICE",
+        "C LANGUAGE",
+        "MS EXCEL",
+        "MALE",
+        "English",
+        "Telugu",
+        "Unmarried"
+    ],
+    "professional_info": {
+        "person name": [
+            "VENKATESWARLU.L",
+            "GEETHANJALI",
+            "L.V.R JUNIOR",
+            "S.S.C GOUTHAMI",
+            "LEKKALA VENKATESWARLU",
+            "L.SREENIVASULU",
+            "L.VENKATESWARLUPERSONAL"
+        ],
+        "job title": [
+            "Responsible Towards assigned job"
+        ],
+        "company": [],
+        "university": [
+            "CollegeBoard",
+            "INSTITUTE OF",
+            "SCIENCE AND",
+            "TECHNOLOGYJNTU",
+            "COLLEGEBOARD OF",
+            "HIGHSCHOOLSECCONDARY",
+            "SCHOOL"
+        ],
+        "degree": [
+            "B.Tech",
+            "INTERMEDIATE"
+        ],
+        "years of experience": [],
+        "address": [
+            "Main street",
+            "Peddamachanuru",
+            "Marripadu  mandal",
+            "524320"
+        ],
+        "email": [
+            "Email",
+            "reddyvenkatesh90@gmail.com"
+        ],
+        "phone": [
+            "+91-8500754108"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "EDUCATION85.3%": 0.2414,
+            "Quick learning ability": 0.4114,
+            "EDUCATIONAL QUALIFICATION": 0.1936,
+            "Personal Skills": 0.2766,
+            "AUTO CAD": 0.7078,
+            "MS OFFICE": 0.6261,
+            "C LANGUAGE": 0.355,
+            "MS EXCEL": 0.7649,
+            "MALE": 0.3473,
+            "English": 0.597,
+            "Telugu": 0.4992,
+            "Unmarried": 0.4316
+        },
+        "filename": "cv (3288)_annotated.json"
+    }
+}

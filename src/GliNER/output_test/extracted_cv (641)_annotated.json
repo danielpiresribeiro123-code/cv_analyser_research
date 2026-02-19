@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "Married",
+        "Domestic Money Transfer",
+        "Two wheeler loans",
+        "Demat Account",
+        "Secured Debuntures",
+        "SAP software",
+        "Prepared BRS",
+        "Reconciliation  of accounts"
+    ],
+    "professional_info": {
+        "person name": [
+            "Male"
+        ],
+        "job title": [
+            "Branch Manager",
+            "Regional Manager",
+            "Assistant Manager – Finance & Accounts"
+        ],
+        "company": [
+            "Muthoot Fincorp Ltd",
+            "Karvy Stock Broking Ltd"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "ROJI B S NO.16/8",
+            "11TH AVENUE",
+            "HARRIJNGTON ROAD",
+            "SHENOY NAGAR",
+            "CHENNAI",
+            "India",
+            "South India",
+            "Trivandrum",
+            "Nandhanam"
+        ],
+        "email": [
+            "91-9884028407",
+            "rojibs1971@gmail.com"
+        ],
+        "phone": [
+            "MOBILE"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Married": 0.193,
+            "Domestic Money Transfer": 0.1934,
+            "Two wheeler loans": 0.1874,
+            "Demat Account": 0.1629,
+            "Secured Debuntures": 0.2395,
+            "SAP software": 0.383,
+            "Prepared BRS": 0.2355,
+            "Reconciliation  of accounts": 0.1836
+        },
+        "filename": "cv (641)_annotated.json"
+    }
+}

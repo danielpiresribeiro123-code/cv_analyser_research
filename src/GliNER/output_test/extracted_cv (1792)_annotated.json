@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "Educational Qualification",
+        "Basic knowledge",
+        "Strengths",
+        "Honest",
+        "Punctuality",
+        "Hard Working",
+        "Positive thinking2",
+        "Hindi",
+        "English",
+        "Odia",
+        "Unmarried"
+    ],
+    "professional_info": {
+        "person name": [
+            "PRATIK",
+            "KUMAR PATRA",
+            "KUMAR PATRALanguage",
+            "Mr. Patit Paban Patra"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "H.B.S.E"
+        ],
+        "degree": [],
+        "years of experience": [
+            "3years experience"
+        ],
+        "address": [
+            "Add.-43/2",
+            "Nawada",
+            "121004",
+            "158",
+            "Internet"
+        ],
+        "email": [
+            "Email Address",
+            "Pratikpatra69@gmail",
+            "10th"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Educational Qualification": 0.3719,
+            "Basic knowledge": 0.1808,
+            "Strengths": 0.362,
+            "Honest": 0.2777,
+            "Punctuality": 0.2409,
+            "Hard Working": 0.2778,
+            "Positive thinking2": 0.2608,
+            "Hindi": 0.8696,
+            "English": 0.9133,
+            "Odia": 0.9347,
+            "Unmarried": 0.3086
+        },
+        "filename": "cv (1792)_annotated.json"
+    }
+}

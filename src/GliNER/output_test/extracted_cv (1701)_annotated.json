@@ -1,0 +1,99 @@
+{
+    "skills": [
+        "Being self motivated",
+        "Diploma in Electronics And Communication (ECE )",
+        "Diploma  DOTE  2011",
+        "Male",
+        "Single",
+        "English",
+        "Tamil",
+        "Technical Skills",
+        "Basic in  Computer Hardware",
+        "MS OFFICE",
+        "Windows Server",
+        "Windows XP",
+        "Windows Vista",
+        "Windows 7",
+        "Windows 10",
+        "Linux",
+        "Project Work",
+        "DIPLOMA LEVEL",
+        "MICROCONTROLLER BASED ELECTRONIC LOCK",
+        "IMAGE QUALITY ASS ESSMENT ON  FAKE",
+        "BIOMETRIC DETECTION",
+        "Areas of Interest",
+        "My Strengths",
+        "Sincerity",
+        "Adaptability",
+        "Perform well under pressure"
+    ],
+    "professional_info": {
+        "person name": [
+            "JAIWIN",
+            "Paul Xavier"
+        ],
+        "job title": [],
+        "company": [
+            "SSLC",
+            "VKP Hr.Sec.School",
+            "ZION DATA PRODUCTS",
+            "DIGILOG MICRO, SOLUTIONS (P) LTD"
+        ],
+        "university": [
+            "Maharaja Institute of Technology",
+            "Government Polytechnic College",
+            "Anna University"
+        ],
+        "degree": [
+            "Degree in Electronics And Communication (ECE)",
+            "Degree"
+        ],
+        "years of experience": [
+            "9626838281",
+            "Experience"
+        ],
+        "address": [
+            "3/100",
+            "Church Street",
+            "Konamkadu & PO"
+        ],
+        "email": [
+            "jaiwinpm@gmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Being self motivated": 0.2133,
+            "Diploma in Electronics And Communication (ECE )": 0.3985,
+            "Diploma  DOTE  2011": 0.7594,
+            "Male": 0.294,
+            "Single": 0.3193,
+            "English": 0.4877,
+            "Tamil": 0.4119,
+            "Technical Skills": 0.3382,
+            "Basic in  Computer Hardware": 0.178,
+            "MS OFFICE": 0.7283,
+            "Windows Server": 0.7982,
+            "Windows XP": 0.9305,
+            "Windows Vista": 0.9032,
+            "Windows 7": 0.5701,
+            "Windows 10": 0.8598,
+            "Linux": 0.862,
+            "Project Work": 0.1602,
+            "DIPLOMA LEVEL": 0.2654,
+            "MICROCONTROLLER BASED ELECTRONIC LOCK": 0.2861,
+            "IMAGE QUALITY ASS ESSMENT ON  FAKE": 0.2183,
+            "BIOMETRIC DETECTION": 0.2033,
+            "Areas of Interest": 0.1825,
+            "My Strengths": 0.2963,
+            "Sincerity": 0.2329,
+            "Adaptability": 0.2142,
+            "Perform well under pressure": 0.2401
+        },
+        "filename": "cv (1701)_annotated.json"
+    }
+}

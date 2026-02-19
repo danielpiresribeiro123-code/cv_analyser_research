@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "ACADEMIC QUALIFICATION",
+        "HONS",
+        "Professinal Computer QUALIFICATION",
+        "Softwere Skills",
+        "Goods Computer Professional Skill",
+        "Window Xp",
+        "MicroSoft Office",
+        "2003 & 2007",
+        "Mozilla FireFox",
+        "Opera",
+        "Internet Explorer",
+        "Goods Computer     Typing Speed Fourty",
+        "Fundanentals",
+        "Window XP",
+        "MicroSoftOffice",
+        "2003",
+        "2007",
+        "Front Office"
+    ],
+    "professional_info": {
+        "person name": [
+            "Manish Kumar Rawat"
+        ],
+        "job title": [],
+        "company": [
+            "Bihar Board Patna",
+            "High School Bangardhi Laxmipur Of Bihar",
+            "Intermaditate I. OF Arts",
+            "Jodhpur National  University  Jodhpur  Rajastan  (india)",
+            "NIACT",
+            "National Institute Advanced For Computer Technology Manesar",
+            "Tata Enterprises",
+            "I.C.A",
+            "The Institute OF Computer Accountant"
+        ],
+        "university": [
+            "Sarswati Acklav Collage Jamui OF Bihar",
+            "Neptune  Institute  of  Management  & Technlogy New Delhi",
+            "Govt of  NCT Of   Delhi"
+        ],
+        "degree": [
+            "B.A.",
+            "D.C.A.Trade",
+            "Diploma In Computer Application"
+        ],
+        "years of experience": [
+            "Secound Years"
+        ],
+        "address": [
+            "VPO   -    Kapashera Distt- South West Kapashera State –New Delhi"
+        ],
+        "email": [
+            "Email",
+            "sudhir.local@gmail.com"
+        ],
+        "phone": [
+            "Contact No.",
+            "+91-7827377384"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "ACADEMIC QUALIFICATION": 0.2368,
+            "HONS": 0.4962,
+            "Professinal Computer QUALIFICATION": 0.2134,
+            "Softwere Skills": 0.1652,
+            "Goods Computer Professional Skill": 0.4452,
+            "Window Xp": 0.5444,
+            "MicroSoft Office": 0.6049,
+            "2003 & 2007": 0.3497,
+            "Mozilla FireFox": 0.359,
+            "Opera": 0.1602,
+            "Internet Explorer": 0.2474,
+            "Goods Computer     Typing Speed Fourty": 0.1893,
+            "Fundanentals": 0.1695,
+            "Window XP": 0.7125,
+            "MicroSoftOffice": 0.1739,
+            "2003": 0.2224,
+            "2007": 0.339,
+            "Front Office": 0.1947
+        },
+        "filename": "cv (3316)_annotated.json"
+    }
+}

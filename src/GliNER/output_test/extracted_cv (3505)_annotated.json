@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "committed",
+        "High School",
+        "Intermediate",
+        "industrial boiler",
+        "structural shed"
+    ],
+    "professional_info": {
+        "person name": [
+            "VITAE",
+            "IRSHAD HUSSAIN"
+        ],
+        "job title": [
+            "MECHANICAL ENGINEER",
+            "Mechanical",
+            "Design Engineer"
+        ],
+        "company": [
+            "Haryana Board",
+            "Heat care system",
+            "FCA"
+        ],
+        "university": [
+            "Haryana Board",
+            "FALAH SCHOOL OF, EDUCATION AND, TECHNOLOGY",
+            "MAHARSHI DAYANAND UNIVERSITY"
+        ],
+        "degree": [
+            "B.E"
+        ],
+        "years of experience": [],
+        "address": [
+            "121001",
+            "1076/33",
+            "C Block",
+            "S.G.M  Nagar",
+            "Mob. No. 9910808234"
+        ],
+        "email": [
+            "mail",
+            "irshadmechanical@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "committed": 0.1787,
+            "High School": 0.2799,
+            "Intermediate": 0.236,
+            "industrial boiler": 0.1597,
+            "structural shed": 0.1842
+        },
+        "filename": "cv (3505)_annotated.json"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "Creative and caring leader",
+        "Core Qualifications",
+        "Student Centered Classroom Instruction",
+        "Active Listening Skills",
+        "Motivating Students",
+        "Leadership",
+        "Professional Experience",
+        "Art",
+        "Art I-IV",
+        "Drawing",
+        "Painting",
+        "Ceramics",
+        "Sculpture and Concurrent Enrollment Intro to Art",
+        "GED Testing",
+        "Aquatics"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "ART TEACHER",
+            "RFL Coordinator",
+            "Community Education Director",
+            "Community Education staff"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "11+ years"
+        ],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Creative and caring leader": 0.4175,
+            "Core Qualifications": 0.2092,
+            "Student Centered Classroom Instruction": 0.2311,
+            "Active Listening Skills": 0.5072,
+            "Motivating Students": 0.2216,
+            "Leadership": 0.4176,
+            "Professional Experience": 0.1586,
+            "Art": 0.2315,
+            "Art I-IV": 0.5346,
+            "Drawing": 0.5909,
+            "Painting": 0.5756,
+            "Ceramics": 0.4733,
+            "Sculpture and Concurrent Enrollment Intro to Art": 0.2685,
+            "GED Testing": 0.2892,
+            "Aquatics": 0.2392
+        },
+        "filename": "cv (4433)_annotated.json"
+    }
+}

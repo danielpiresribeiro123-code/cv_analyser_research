@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "Accounting Option",
+        "Higher National Diploma In Human Resource Management",
+        "Certified Public Accountants (CPA)",
+        "Self-driven",
+        "team player",
+        "fast learner",
+        "Able to plan, organize and prioritize",
+        "Results and quality oriented",
+        "Achievement focused",
+        "Computer applications",
+        "Kenya Certificate of Secondary Education",
+        "Work Experience"
+    ],
+    "professional_info": {
+        "person name": [
+            "Kenyan",
+            "HARON WAFULA WANYAMA",
+            "Registrar"
+        ],
+        "job title": [
+            "manager",
+            "Responsibilities"
+        ],
+        "company": [],
+        "university": [
+            "Technical University Of Mombasa",
+            "African institute of research and development studies",
+            "KNEC",
+            "Vision Institute Of Profession",
+            "Mombasa Polytechnic University College",
+            "MPUC",
+            "Data Institute Of Network Studies",
+            "MILO Friends Boys High School",
+            "SITIKHO FYM Primary School",
+            "Kenya Certificate of Primary Education (KCPE)"
+        ],
+        "degree": [
+            "Bachelor Of Commerce",
+            "Diploma In Accountancy"
+        ],
+        "years of experience": [],
+        "address": [
+            "Address",
+            "701-50205"
+        ],
+        "email": [
+            "Email",
+            "wanyamahw@gmail.com"
+        ],
+        "phone": [
+            "Mobile Phone",
+            "+254 (0) 712679098",
+            "+254 (0) 731820980"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Accounting Option": 0.3305,
+            "Higher National Diploma In Human Resource Management": 0.7243,
+            "Certified Public Accountants (CPA)": 0.5475,
+            "Self-driven": 0.4823,
+            "team player": 0.4751,
+            "fast learner": 0.4066,
+            "Able to plan, organize and prioritize": 0.4184,
+            "Results and quality oriented": 0.5286,
+            "Achievement focused": 0.5586,
+            "Computer applications": 0.2216,
+            "Kenya Certificate of Secondary Education": 0.245,
+            "Work Experience": 0.305
+        },
+        "filename": "cv (760)_annotated.json"
+    }
+}

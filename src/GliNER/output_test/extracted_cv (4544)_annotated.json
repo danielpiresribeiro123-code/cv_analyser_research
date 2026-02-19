@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "Ambitious",
+        "service-driven",
+        "experience",
+        "Sports Management",
+        "communication skills",
+        "people skills",
+        "Skills",
+        "Strong work ethic",
+        "Self-motivated",
+        "Data analysis",
+        "Empathetic listener",
+        "Foreign Language",
+        "Experience",
+        "Communication",
+        "Communication",
+        "Interests"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "PUBLIC RELATIONS INTERN",
+            "student",
+            "Sales Associate",
+            "Counselor",
+            "Volunteer",
+            "Leadership Positions"
+        ],
+        "company": [
+            "Company Name",
+            "Franchise",
+            "Texas Rangers"
+        ],
+        "university": [
+            "Texas A&M University"
+        ],
+        "degree": [
+            "Education and Training",
+            "Bachelor of Arts"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Ambitious": 0.6804,
+            "service-driven": 0.6097,
+            "experience": 0.2219,
+            "Sports Management": 0.3601,
+            "communication skills": 0.8321,
+            "people skills": 0.7246,
+            "Skills": 0.342,
+            "Strong work ethic": 0.7986,
+            "Self-motivated": 0.7114,
+            "Data analysis": 0.5785,
+            "Empathetic listener": 0.6865,
+            "Foreign Language": 0.5519,
+            "Experience": 0.5068,
+            "Communication": 0.4604,
+            "Interests": 0.153
+        },
+        "filename": "cv (4544)_annotated.json"
+    }
+}

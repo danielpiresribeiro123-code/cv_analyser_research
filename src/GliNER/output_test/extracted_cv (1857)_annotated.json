@@ -1,0 +1,106 @@
+{
+    "skills": [
+        "Red Hat Certified System Administrator",
+        "analysis",
+        "design",
+        "development",
+        "implementation",
+        "Application development",
+        "SQL",
+        "Analytical",
+        "User Interaction",
+        "Trouble shooting skills",
+        "Teradata",
+        "Oracle",
+        "PL/SQL",
+        "UNIX platform",
+        "Function",
+        "Trigger",
+        "Indexing",
+        "UNIX",
+        "Amdocs billing system",
+        "BSCS",
+        "SQL Server",
+        "Flat files",
+        "Data Analysis",
+        "Data Requirement Analysis",
+        "Informatica Power Center",
+        "Informatica 9.5 PowerCenter",
+        "Mapping Designer",
+        "Repository manager",
+        "Workflow Manager/Monitor",
+        "Server",
+        "Informatica Server",
+        "Repository Server manager",
+        "SQL Assistant",
+        "Informatica Power Center 9.5"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mashad Abbas"
+        ],
+        "job title": [
+            "Solution Integrator",
+            "S/W Engineer"
+        ],
+        "company": [
+            "Ericsson Global Services",
+            "ATOS India Pvt Ltd"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "30/17 Ashoka Road",
+            "ShipraSunCity, Ghaziabad"
+        ],
+        "email": [
+            "Email",
+            "mashad9@gmail.com",
+            "UP-201014"
+        ],
+        "phone": [
+            "+917875554648"
+        ]
+    },
+    "metadata": {
+        "total_skills": 34,
+        "confidence_scores": {
+            "Red Hat Certified System Administrator": 0.3338,
+            "analysis": 0.1958,
+            "design": 0.1649,
+            "development": 0.2444,
+            "implementation": 0.2345,
+            "Application development": 0.2546,
+            "SQL": 0.2216,
+            "Analytical": 0.166,
+            "User Interaction": 0.2479,
+            "Trouble shooting skills": 0.1737,
+            "Teradata": 0.6594,
+            "Oracle": 0.6728,
+            "PL/SQL": 0.5207,
+            "UNIX platform": 0.6788,
+            "Function": 0.3152,
+            "Trigger": 0.3086,
+            "Indexing": 0.2512,
+            "UNIX": 0.2197,
+            "Amdocs billing system": 0.189,
+            "BSCS": 0.3475,
+            "SQL Server": 0.6117,
+            "Flat files": 0.3988,
+            "Data Analysis": 0.3523,
+            "Data Requirement Analysis": 0.3504,
+            "Informatica Power Center": 0.4027,
+            "Informatica 9.5 PowerCenter": 0.171,
+            "Mapping Designer": 0.347,
+            "Repository manager": 0.342,
+            "Workflow Manager/Monitor": 0.496,
+            "Server": 0.2009,
+            "Informatica Server": 0.2205,
+            "Repository Server manager": 0.363,
+            "SQL Assistant": 0.2003,
+            "Informatica Power Center 9.5": 0.3287
+        },
+        "filename": "cv (1857)_annotated.json"
+    }
+}

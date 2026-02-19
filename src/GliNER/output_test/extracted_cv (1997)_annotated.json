@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Mechanical Engineering",
+        "project planning",
+        "HVAC designing",
+        "resource allocation",
+        "negotiation",
+        "client handling",
+        "learning new things",
+        "HVAC",
+        "Duct design and its erection",
+        "Planning and Designing"
+    ],
+    "professional_info": {
+        "person name": [
+            "Md Obaidur Rahman"
+        ],
+        "job title": [
+            "planning and design engineer",
+            "Planning and Designing"
+        ],
+        "company": [
+            "Career Contour",
+            "M/s Karim Fabricators",
+            "Zhonghua Engineer (I) Pvt. Ltd.",
+            "Pollution control board",
+            "M/s Suvidha Engineers (Project)",
+            "Uflex Holography Division",
+            "Neel Sarowar Hotel",
+            "Hindustan Aeronautics Limited",
+            "Mother son Systems"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "3 Years’ experience",
+            "building relationships"
+        ],
+        "address": [
+            "Ward no 03 Sahebpur Kamal Begusarai",
+            "Bihar",
+            "851217",
+            "Noida",
+            "Greater Noida",
+            "Faridabad"
+        ],
+        "email": [
+            "E-mail",
+            "mdobaid.hvac@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91- 8677012394"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Mechanical Engineering": 0.6234,
+            "project planning": 0.1688,
+            "HVAC designing": 0.5185,
+            "resource allocation": 0.1838,
+            "negotiation": 0.192,
+            "client handling": 0.2172,
+            "learning new things": 0.1565,
+            "HVAC": 0.2247,
+            "Duct design and its erection": 0.2143,
+            "Planning and Designing": 0.2558
+        },
+        "filename": "cv (1997)_annotated.json"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "committed team player",
+        "expertise",
+        "personal capabilities",
+        "structured framework",
+        "To be an asset to the organization I serve",
+        "quick learner",
+        "Able to work in team environment"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMAD SAAD"
+        ],
+        "job title": [
+            "Draftsman"
+        ],
+        "company": [
+            "Intelligence Hunt Consulting Services"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "233/1",
+            "Pata Nala",
+            "Lucknow"
+        ],
+        "email": [
+            "Email",
+            "mohdsaad28@hotmail.com",
+            "Contact",
+            "9889906633",
+            "7905866126"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "committed team player": 0.2701,
+            "expertise": 0.5077,
+            "personal capabilities": 0.2422,
+            "structured framework": 0.5882,
+            "To be an asset to the organization I serve": 0.1647,
+            "quick learner": 0.2692,
+            "Able to work in team environment": 0.2108
+        },
+        "filename": "cv (355)_annotated.json"
+    }
+}

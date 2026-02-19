@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "ITNW",
+        "CompTIA Network+",
+        "ITMT",
+        "MS 70-270",
+        "MS Windows 2003",
+        "Server 2003",
+        "MS Windows XP",
+        "Microsoft Certified IT Professional",
+        "CompTIA Security+ Certified Professional",
+        "Microsoft Certified Professional",
+        "MCP",
+        "CompTIA Network+ Certified Professional",
+        "CompTIA A+ Certified Professional",
+        "Spanish",
+        "Advanced",
+        "NIPR workstations",
+        "ARNET workstations",
+        "Wide Area Network (WAN)",
+        "performance",
+        "capacity",
+        "availability",
+        "recoverability",
+        "software"
+    ],
+    "professional_info": {
+        "person name": [
+            "Name",
+            "William",
+            "Cook",
+            "Mr. John",
+            "Leonard",
+            "Flemons",
+            "leonard.flemons",
+            "G6"
+        ],
+        "job title": [
+            "IT Manager",
+            "systems administrator"
+        ],
+        "company": [
+            "Employer Title",
+            "First Army Chief",
+            "Work Experience Company",
+            "First Army Division West Command and Staff"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "conus.army.mil",
+            "dcma.mil"
+        ],
+        "email": [
+            "Email"
+        ],
+        "phone": [
+            "Phone",
+            "254-287-7798",
+            "254-553-5006",
+            "714-385-4605"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "ITNW": 0.168,
+            "CompTIA Network+": 0.7211,
+            "ITMT": 0.2288,
+            "MS 70-270": 0.3283,
+            "MS Windows 2003": 0.5745,
+            "Server 2003": 0.2371,
+            "MS Windows XP": 0.5307,
+            "Microsoft Certified IT Professional": 0.6885,
+            "CompTIA Security+ Certified Professional": 0.9242,
+            "Microsoft Certified Professional": 0.632,
+            "MCP": 0.1615,
+            "CompTIA Network+ Certified Professional": 0.9369,
+            "CompTIA A+ Certified Professional": 0.8979,
+            "Spanish": 0.5211,
+            "Advanced": 0.2044,
+            "NIPR workstations": 0.1512,
+            "ARNET workstations": 0.2253,
+            "Wide Area Network (WAN)": 0.2255,
+            "performance": 0.3048,
+            "capacity": 0.178,
+            "availability": 0.1688,
+            "recoverability": 0.2111,
+            "software": 0.1894
+        },
+        "filename": "cv (4784)_annotated.json"
+    }
+}

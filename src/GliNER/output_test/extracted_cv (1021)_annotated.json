@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "Information Technology",
+        "IT skills",
+        "field work studies",
+        "English",
+        "Swahili",
+        "enthusiastic",
+        "drive and determination",
+        "ambitious",
+        "strong technical background",
+        "self- discipline",
+        "ability to work with the minimum of supervision",
+        "committed and dedicated people",
+        "hardworking person",
+        "Data entry",
+        "Programming language",
+        "Mathjax",
+        "Google sheets"
+    ],
+    "professional_info": {
+        "person name": [
+            "ALEX LUDIGA"
+        ],
+        "job title": [
+            "ICT SUPPORT TECHNIAN",
+            "intern",
+            "ICT support",
+            "Data Clark",
+            "IT technician"
+        ],
+        "company": [
+            "CIC GROUP INSURANCE",
+            "KCA university",
+            "Kenya power and lightening company",
+            "ICT support office",
+            "CIC GROUP Insurance Company",
+            "Mwalimuplus"
+        ],
+        "university": [
+            "KCA University"
+        ],
+        "degree": [
+            "diploma"
+        ],
+        "years of experience": [],
+        "address": [
+            "NAIROBI",
+            "P.O BOX 59485-00200 NAIROBI",
+            "P.O Box 75645-00200"
+        ],
+        "email": [
+            "alexludiga@gmail.com",
+            "Email"
+        ],
+        "phone": [
+            "Mobile",
+            "+25471378 9462"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Information Technology": 0.2204,
+            "IT skills": 0.564,
+            "field work studies": 0.1802,
+            "English": 0.5509,
+            "Swahili": 0.6348,
+            "enthusiastic": 0.2305,
+            "drive and determination": 0.1724,
+            "ambitious": 0.3594,
+            "strong technical background": 0.2613,
+            "self- discipline": 0.3132,
+            "ability to work with the minimum of supervision": 0.2362,
+            "committed and dedicated people": 0.1969,
+            "hardworking person": 0.3441,
+            "Data entry": 0.3194,
+            "Programming language": 0.2731,
+            "Mathjax": 0.3814,
+            "Google sheets": 0.4851
+        },
+        "filename": "cv (1021)_annotated.json"
+    }
+}

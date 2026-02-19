@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "Finance domain",
+        "Confident",
+        "Hardworking",
+        "end to end  Transition  Management Review",
+        "SOP",
+        "volume analysis",
+        "headcount requirement analysis",
+        "system support",
+        "pilot phase monitoring",
+        "methodology for success",
+        "committed"
+    ],
+    "professional_info": {
+        "person name": [
+            "GAGAN GUPTA"
+        ],
+        "job title": [
+            "gagangupta0707@gmail.com",
+            "Transition managemen t",
+            "Deputy Manager"
+        ],
+        "company": [
+            "R2R",
+            "Barclays",
+            "Wipro",
+            "Wipro Ltd",
+            "BPO",
+            "Outokumpu",
+            "Global leader in stainless steel"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "1st Floor Lumbini Apartments",
+            "S ec-14 Kaushambi"
+        ],
+        "email": [
+            "Email"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 8860829101"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Finance domain": 0.9624,
+            "Confident": 0.7325,
+            "Hardworking": 0.6995,
+            "end to end  Transition  Management Review": 0.1848,
+            "SOP": 0.2128,
+            "volume analysis": 0.1567,
+            "headcount requirement analysis": 0.1579,
+            "system support": 0.2911,
+            "pilot phase monitoring": 0.1821,
+            "methodology for success": 0.4773,
+            "committed": 0.1699
+        },
+        "filename": "cv (3100)_annotated.json"
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "skills": [
+        "CIVIL",
+        "ENGINEERING",
+        "Building",
+        "Construction",
+        "boundry wall",
+        "Personal strength",
+        "problem-solving",
+        "skill",
+        "Ability to",
+        "Flow industry stand",
+        "proceudure",
+        "Ability to quickly masterin new",
+        "concept",
+        "Bharat scout",
+        "guide",
+        "Excellent Mathematical",
+        "skills",
+        "Good",
+        "Communication skills",
+        "high level",
+        "Professionalism",
+        "Master in",
+        "handling",
+        "Live project",
+        "Computer skills",
+        "Auto Cad 2010",
+        "Ms word",
+        "Personality traits",
+        "Quick learner",
+        "Active",
+        "listener",
+        "Confident",
+        "Team player",
+        "punctual",
+        "aggressive performer",
+        "Site work",
+        "Design",
+        "E &C"
+    ],
+    "professional_info": {
+        "person name": [
+            "JAHANGIR ANSARI"
+        ],
+        "job title": [
+            "ENGINEER/foreman",
+            "Sr."
+        ],
+        "company": [
+            "Of  technology   Palwal",
+            "M.D.U",
+            "PVT.LTDWorked",
+            "High school",
+            "mdu"
+        ],
+        "university": [
+            "advanced college",
+            "MAHARSHI DAYANAND",
+            "UNIVERSITY",
+            "ROHTAK",
+            "DLF BUILDING INDIA"
+        ],
+        "degree": [
+            "B.TECH",
+            "B.S.E.B"
+        ],
+        "years of experience": [
+            "2 Years"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 38,
+        "confidence_scores": {
+            "CIVIL": 0.7931,
+            "ENGINEERING": 0.6303,
+            "Building": 0.6214,
+            "Construction": 0.5629,
+            "boundry wall": 0.1506,
+            "Personal strength": 0.2011,
+            "problem-solving": 0.3334,
+            "skill": 0.3752,
+            "Ability to": 0.4241,
+            "Flow industry stand": 0.3073,
+            "proceudure": 0.3462,
+            "Ability to quickly masterin new": 0.2565,
+            "concept": 0.1622,
+            "Bharat scout": 0.2514,
+            "guide": 0.2892,
+            "Excellent Mathematical": 0.4382,
+            "skills": 0.3997,
+            "Good": 0.395,
+            "Communication skills": 0.349,
+            "high level": 0.3724,
+            "Professionalism": 0.4349,
+            "Master in": 0.2957,
+            "handling": 0.3189,
+            "Live project": 0.2436,
+            "Computer skills": 0.1758,
+            "Auto Cad 2010": 0.6003,
+            "Ms word": 0.6014,
+            "Personality traits": 0.1787,
+            "Quick learner": 0.625,
+            "Active": 0.5151,
+            "listener": 0.5766,
+            "Confident": 0.5913,
+            "Team player": 0.6517,
+            "punctual": 0.5727,
+            "aggressive performer": 0.4327,
+            "Site work": 0.4148,
+            "Design": 0.4545,
+            "E &C": 0.3506
+        },
+        "filename": "cv (122)_annotated.json"
+    }
+}

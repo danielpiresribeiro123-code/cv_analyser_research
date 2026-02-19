@@ -1,0 +1,100 @@
+{
+    "skills": [
+        "Single",
+        "Computer Science",
+        "resourceful",
+        "innovative",
+        "flexible",
+        "practical knowledge",
+        "COMPUTER SKILLS",
+        "Advanced  knowledge",
+        "windows",
+        "officepackages",
+        "word",
+        "excel",
+        "PowerPoint",
+        "publisher",
+        "outlook",
+        "Networks",
+        "Relational  Database  Management  System",
+        "Access",
+        "Oracle-pl/SQ-9i",
+        "Statistical  Programs",
+        "SPSS",
+        "R software",
+        "C",
+        "+",
+        "JAVA",
+        "PHP",
+        "HTML",
+        "SKILLS AND ATTRIBUTES"
+    ],
+    "professional_info": {
+        "person name": [
+            "Oscar    Alex   Abonyo  O.",
+            "Kenyan"
+        ],
+        "job title": [
+            "IT Faculty",
+            "Computer Teacher"
+        ],
+        "company": [
+            "Microsoft",
+            "MS"
+        ],
+        "university": [
+            "Maseno  University"
+        ],
+        "degree": [
+            "Bachelor of Science"
+        ],
+        "years of experience": [],
+        "address": [
+            "Residence Address",
+            "P.O Box 96"
+        ],
+        "email": [
+            "Email Address",
+            "abonyooscar@gmail.com"
+        ],
+        "phone": [
+            "Telephone Number",
+            "0707017011/ 0787517724",
+            "phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "Single": 0.2379,
+            "Computer Science": 0.2065,
+            "resourceful": 0.2151,
+            "innovative": 0.194,
+            "flexible": 0.2531,
+            "practical knowledge": 0.2302,
+            "COMPUTER SKILLS": 0.2901,
+            "Advanced  knowledge": 0.4227,
+            "windows": 0.8836,
+            "officepackages": 0.2926,
+            "word": 0.4724,
+            "excel": 0.3444,
+            "PowerPoint": 0.3876,
+            "publisher": 0.3146,
+            "outlook": 0.5706,
+            "Networks": 0.3704,
+            "Relational  Database  Management  System": 0.5314,
+            "Access": 0.4464,
+            "Oracle-pl/SQ-9i": 0.4438,
+            "Statistical  Programs": 0.3652,
+            "SPSS": 0.4286,
+            "R software": 0.3192,
+            "C": 0.8924,
+            "+": 0.2419,
+            "JAVA": 0.8504,
+            "PHP": 0.8372,
+            "HTML": 0.4161,
+            "SKILLS AND ATTRIBUTES": 0.16
+        },
+        "filename": "cv (974)_annotated.json"
+    }
+}

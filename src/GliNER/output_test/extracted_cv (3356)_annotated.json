@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "Academic Credentials",
+        "Technical Skills",
+        "AutoCAD",
+        "CATIA",
+        "PRO-E",
+        "GD&T",
+        "MS Office",
+        "Basics of C++",
+        "DOS",
+        "Windows"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAGHUDEV SINGH"
+        ],
+        "job title": [
+            "5th Engineer"
+        ],
+        "company": [
+            "BOARDSPECIALIZAT",
+            "IONGRADE",
+            "TECHNOLOG",
+            "Engineering",
+            "DiplomaMarine Engineering",
+            "Institute",
+            "Altus  Exertus",
+            "Marine",
+            "Engineering And Diving Services",
+            "Honda Motorcycle & Scooter India Pvt. Ltd",
+            "Machino Plastic Ltd"
+        ],
+        "university": [
+            "YEARDEGREEINSTITUTE UNIVERSITY",
+            "YHindu College Of",
+            "University",
+            "MumbaiIndian Maritime",
+            "ChennaiMarine"
+        ],
+        "degree": [
+            "2006-2007Class XKendriya Vidyalaya",
+            "Graduation"
+        ],
+        "years of experience": [
+            "Job Experience"
+        ],
+        "address": [
+            "Database",
+            "OS"
+        ],
+        "email": [
+            "E-mail",
+            "singh.raghudev@yahoo.com",
+            "+91-9899895080      raghumeds@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-7827087077",
+            "2014-2015Post"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Academic Credentials": 0.456,
+            "Technical Skills": 0.2886,
+            "AutoCAD": 0.3557,
+            "CATIA": 0.2907,
+            "PRO-E": 0.4322,
+            "GD&T": 0.5625,
+            "MS Office": 0.8817,
+            "Basics of C++": 0.707,
+            "DOS": 0.9257,
+            "Windows": 0.9264
+        },
+        "filename": "cv (3356)_annotated.json"
+    }
+}

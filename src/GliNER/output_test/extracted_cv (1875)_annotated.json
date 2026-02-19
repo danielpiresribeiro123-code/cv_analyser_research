@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "Education Qualification",
+        "Gulf Experience"
+    ],
+    "professional_info": {
+        "person name": [
+            "Bablu Kumar"
+        ],
+        "job title": [
+            "Plumbing supervisor",
+            "result oriented professional",
+            "Senior Plumber",
+            "Mechanical team leader",
+            "Fire fighting system operator",
+            "WTP (Water Treatment Plant) operator",
+            "Plumber"
+        ],
+        "company": [
+            "Imdaad L.LC",
+            "Dubai International    Airport",
+            "Sobha llc fms",
+            "Hindustan Unilever Ltd",
+            "Sunita Enterprises co.",
+            "UB Engineering Ltd",
+            "Mahindra &"
+        ],
+        "university": [
+            "Kisan Inter College",
+            "A.N.D.K.P.G College"
+        ],
+        "degree": [
+            "B.A"
+        ],
+        "years of experience": [
+            "Maintenance Experience"
+        ],
+        "address": [
+            "Babhnan Basti",
+            "Babhnan Gonda",
+            "North London colligate",
+            "Raghu Leela Mall"
+        ],
+        "email": [
+            "bablukumargautam86@gmail.com",
+            "Mob: 0564669436",
+            "12th Passed"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "Education Qualification": 0.2736,
+            "Gulf Experience": 0.2796
+        },
+        "filename": "cv (1875)_annotated.json"
+    }
+}

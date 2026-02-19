@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "Licenciatura",
+        "doctorado",
+        "Ingeniería y Tecnología"
+    ],
+    "professional_info": {
+        "person name": [
+            "Juan Antonio AGUILAR-GARIB",
+            "juan",
+            "Oxana  Kharissova  Vasilievna",
+            "Ubaldo  Ortiz Méndez",
+            "Moisés Hinojosa Rivera",
+            "Juan Antonio Aguilar Garib",
+            "Zarel Valdez",
+            "Román Nava",
+            "Juan  Antonio  Aguilar  Garib",
+            "Ana  María  Arato  Tovar",
+            "Moisés  Hinojosa Rivera",
+            "Ubaldo  Ortiz  Méndez",
+            "Oxana  Kharissova",
+            "Zarel Valdez Nava",
+            "Jorge"
+        ],
+        "job title": [
+            "Editor en Jefe"
+        ],
+        "company": [],
+        "university": [
+            "Universidad Autónoma de Nuevo León",
+            "Instituto Tecnológico de Saltillo",
+            "Université de Toulouse Le Mirail",
+            "IMPI",
+            "Université Paul Sabatier",
+            "UANL"
+        ],
+        "degree": [
+            "Doctorado",
+            "Ingeniería de Materiales",
+            "Maestría: Metalurgia",
+            "Ingeniería Mecánica"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "Licenciatura": 0.1851,
+            "doctorado": 0.2694,
+            "Ingeniería y Tecnología": 0.4251
+        },
+        "filename": "cv (1307)_annotated.json"
+    }
+}

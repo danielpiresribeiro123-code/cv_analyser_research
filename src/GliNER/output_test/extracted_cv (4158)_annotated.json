@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "H 1034207",
+        "Dynamic and result oriented experience",
+        "cross  functional experience",
+        "excellent  interpersonal",
+        "communication team building",
+        "group dynamics",
+        "behavioral skills",
+        "better convincing power",
+        "CT/PT",
+        "Hi-pot test",
+        "Heat-Sink method",
+        "Project management/ coordination  experience",
+        "Design and engineering",
+        "Root Cause Analysis",
+        "Power plant operation and maintenance",
+        "Technically skilled",
+        "Good convincing"
+    ],
+    "professional_info": {
+        "person name": [
+            "SERAJ AHAMAD"
+        ],
+        "job title": [
+            "electrical engineer"
+        ],
+        "company": [
+            "organization  of  repute",
+            "organization"
+        ],
+        "university": [],
+        "degree": [
+            "B.Tech in EE"
+        ],
+        "years of experience": [
+            "7 YEARS +  WORKING EXPERIENCE",
+            "Married"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "serajkhan786@gmail.com"
+        ],
+        "phone": [
+            "Contact No-(Mobile)",
+            "+91-8742959459"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "H 1034207": 0.2021,
+            "Dynamic and result oriented experience": 0.1613,
+            "cross  functional experience": 0.1963,
+            "excellent  interpersonal": 0.4462,
+            "communication team building": 0.2344,
+            "group dynamics": 0.4535,
+            "behavioral skills": 0.291,
+            "better convincing power": 0.3407,
+            "CT/PT": 0.1768,
+            "Hi-pot test": 0.2074,
+            "Heat-Sink method": 0.3749,
+            "Project management/ coordination  experience": 0.2559,
+            "Design and engineering": 0.2454,
+            "Root Cause Analysis": 0.3693,
+            "Power plant operation and maintenance": 0.1756,
+            "Technically skilled": 0.5103,
+            "Good convincing": 0.1625
+        },
+        "filename": "cv (4158)_annotated.json"
+    }
+}

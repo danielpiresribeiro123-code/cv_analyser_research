@@ -1,0 +1,91 @@
+{
+    "skills": [
+        "knowledge",
+        "Computer Skills",
+        "CCC",
+        "Basic",
+        "Internet",
+        "Excel",
+        "Personal Skills",
+        "Management",
+        "Petzl Level-3 Training Certificate",
+        "Engg.Diploma",
+        "CCE",
+        "Unmarried",
+        "Male",
+        "Language Known",
+        "Gujarati",
+        "Hindi",
+        "English",
+        "Reading",
+        "Travelling"
+    ],
+    "professional_info": {
+        "person name": [
+            "Kalsariya Haresh H.",
+            "Kalsariya Haresh Himmatbhai",
+            "Caste Hindu- Prajapati"
+        ],
+        "job title": [
+            "Team Leader",
+            "Supervising",
+            "Mechanical",
+            "Customer care",
+            "Executive",
+            "Service Engineer",
+            "Site Supervisor"
+        ],
+        "company": [
+            "Trucept Solution Pvt. Ltd.",
+            "Laser Sos India Pvt. Ltd.",
+            "Gujarat Gas Ltd.",
+            "Indian"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "6 Months",
+            "1 Year"
+        ],
+        "address": [
+            "195",
+            "Nandanvan Society",
+            "Bapa Sitaram Chowk",
+            "Katargam",
+            "Surat"
+        ],
+        "email": [
+            "Email",
+            "kalsariyagigs@gmail.com"
+        ],
+        "phone": [
+            "+91 7984202595",
+            "March 2014"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "knowledge": 0.358,
+            "Computer Skills": 0.4014,
+            "CCC": 0.7021,
+            "Basic": 0.3038,
+            "Internet": 0.3057,
+            "Excel": 0.3136,
+            "Personal Skills": 0.4131,
+            "Management": 0.3728,
+            "Petzl Level-3 Training Certificate": 0.2318,
+            "Engg.Diploma": 0.547,
+            "CCE": 0.3398,
+            "Unmarried": 0.4369,
+            "Male": 0.3295,
+            "Language Known": 0.1528,
+            "Gujarati": 0.7986,
+            "Hindi": 0.5973,
+            "English": 0.7098,
+            "Reading": 0.3602,
+            "Travelling": 0.1954
+        },
+        "filename": "cv (224)_annotated.json"
+    }
+}

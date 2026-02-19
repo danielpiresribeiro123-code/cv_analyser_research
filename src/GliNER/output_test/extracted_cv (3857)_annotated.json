@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "self -motivated",
+        "meticulous",
+        "result -oriented individual",
+        "Operation Management",
+        "Product Development",
+        "Marketing Strategy",
+        "Hotel Management",
+        "Digital Marketing  Strategy",
+        "managing & leading team",
+        "knowledge",
+        "personal skills",
+        "product integration and monitoring",
+        "price strategy",
+        "Managing & leading team for running successful operations",
+        "OTA Management",
+        "Inventory Management",
+        "Integration and Managing",
+        "PMS Integration and Managing",
+        "Digital Feedback Integration and Managing",
+        "Other Product Integration"
+    ],
+    "professional_info": {
+        "person name": [
+            "TANVEER RAZA",
+            "tanveer"
+        ],
+        "job title": [
+            "Operation s Head",
+            "Operations Head",
+            "market manager",
+            "Technical Executive Engineer",
+            "Channel Manager"
+        ],
+        "company": [
+            "ADB Rooms Pvt. Ltd.",
+            "OTA’s"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "gmail"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "self -motivated": 0.4284,
+            "meticulous": 0.3998,
+            "result -oriented individual": 0.2116,
+            "Operation Management": 0.4518,
+            "Product Development": 0.5899,
+            "Marketing Strategy": 0.6679,
+            "Hotel Management": 0.7345,
+            "Digital Marketing  Strategy": 0.6845,
+            "managing & leading team": 0.2532,
+            "knowledge": 0.3899,
+            "personal skills": 0.2852,
+            "product integration and monitoring": 0.1795,
+            "price strategy": 0.3738,
+            "Managing & leading team for running successful operations": 0.2424,
+            "OTA Management": 0.5301,
+            "Inventory Management": 0.7364,
+            "Integration and Managing": 0.1576,
+            "PMS Integration and Managing": 0.5432,
+            "Digital Feedback Integration and Managing": 0.5135,
+            "Other Product Integration": 0.3112
+        },
+        "filename": "cv (3857)_annotated.json"
+    }
+}

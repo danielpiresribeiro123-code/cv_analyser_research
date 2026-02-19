@@ -1,0 +1,50 @@
+{
+    "skills": [
+        "English",
+        "Swahili",
+        "OBJECTIVE",
+        "international accounting standards",
+        "Internal Control System",
+        "Maintaining the Hospital Assets and the liabilities register"
+    ],
+    "professional_info": {
+        "person name": [
+            "I"
+        ],
+        "job title": [
+            "SENIOR ACCOUNTANT"
+        ],
+        "company": [
+            "EVEREST ENTERPRISES LTD"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Christian",
+            "Address",
+            "Private Bag – 10400 Nanyuki"
+        ],
+        "email": [
+            "Email",
+            "wamalwahsimon@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "0723124651",
+            "0725920015"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "English": 0.2029,
+            "Swahili": 0.186,
+            "OBJECTIVE": 0.1531,
+            "international accounting standards": 0.7697,
+            "Internal Control System": 0.6703,
+            "Maintaining the Hospital Assets and the liabilities register": 0.1769
+        },
+        "filename": "cv (1383)_annotated.json"
+    }
+}

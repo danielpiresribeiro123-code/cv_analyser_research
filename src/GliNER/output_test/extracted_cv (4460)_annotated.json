@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "Energetic",
+        "Proactive and self-sufficient",
+        "Skills",
+        "Positive reinforcement methods",
+        "Understands developmental disorders",
+        "Active listener",
+        "Skilled in working with special needs children",
+        "Reliable and punctual",
+        "Friendly",
+        "Cheerful and energetic",
+        "Behavior management techniques",
+        "Playful",
+        "Engaging",
+        "Active listening",
+        "Arts, crafts and games",
+        "Calm under pressure",
+        "Self-motivated",
+        "Certifications",
+        "First Aid",
+        "CPR",
+        "CPI Certified",
+        "positive reinforcement method",
+        "arts and crafts",
+        "Engaged with children individually",
+        "Sparked imagination",
+        "language development skills"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "ASSISTANT TEACHER",
+            "Professional babysitter and nanny",
+            "Qualified tutor",
+            "Infant, toddler and preschool curriculum expert",
+            "lead teacher",
+            "head teacher",
+            "toddler teacher"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "7+ years"
+        ],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Energetic": 0.4187,
+            "Proactive and self-sufficient": 0.4858,
+            "Skills": 0.1505,
+            "Positive reinforcement methods": 0.9433,
+            "Understands developmental disorders": 0.4169,
+            "Active listener": 0.6768,
+            "Skilled in working with special needs children": 0.2546,
+            "Reliable and punctual": 0.6488,
+            "Friendly": 0.7185,
+            "Cheerful and energetic": 0.6259,
+            "Behavior management techniques": 0.4397,
+            "Playful": 0.7236,
+            "Engaging": 0.7278,
+            "Active listening": 0.6458,
+            "Arts, crafts and games": 0.2974,
+            "Calm under pressure": 0.5321,
+            "Self-motivated": 0.6388,
+            "Certifications": 0.4099,
+            "First Aid": 0.7422,
+            "CPR": 0.6602,
+            "CPI Certified": 0.9089,
+            "positive reinforcement method": 0.8081,
+            "arts and crafts": 0.1794,
+            "Engaged with children individually": 0.164,
+            "Sparked imagination": 0.281,
+            "language development skills": 0.1929
+        },
+        "filename": "cv (4460)_annotated.json"
+    }
+}

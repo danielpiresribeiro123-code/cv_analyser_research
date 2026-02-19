@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "Talented individual",
+        "Economics",
+        "financial sector",
+        "Extensive knowledge",
+        "Microsoft applications",
+        "economic theory",
+        "tenacity",
+        "attention to detail",
+        "Critical thinking",
+        "Customer service-oriented",
+        "Strategic sales knowledge",
+        "Articulateandwell -spoken",
+        "Training development aptitude",
+        "A cc u rate",
+        "Quick learner"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "MANAGER",
+            "Excellent planner and coordinator",
+            "Public Relations Manager",
+            "Sales Associate"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [
+            "University of California Irvine"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [],
+        "phone": [
+            "phone",
+            "incoming and outgoing calls"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Talented individual": 0.1982,
+            "Economics": 0.3518,
+            "financial sector": 0.1618,
+            "Extensive knowledge": 0.2379,
+            "Microsoft applications": 0.5024,
+            "economic theory": 0.442,
+            "tenacity": 0.3031,
+            "attention to detail": 0.5647,
+            "Critical thinking": 0.6317,
+            "Customer service-oriented": 0.4885,
+            "Strategic sales knowledge": 0.7275,
+            "Articulateandwell -spoken": 0.3261,
+            "Training development aptitude": 0.5923,
+            "A cc u rate": 0.5389,
+            "Quick learner": 0.436
+        },
+        "filename": "cv (4473)_annotated.json"
+    }
+}

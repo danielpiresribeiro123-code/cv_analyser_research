@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "Skills",
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Prezi presentations",
+        "Youtube video creation",
+        "Wiki Pages",
+        "Mathematica",
+        "Popplet",
+        "Managing classroom for diverse populations",
+        "Strong collaborator",
+        "Technological instruction",
+        "Effective time management",
+        "Tailoring",
+        "motivation",
+        "Managing classroom for diverse populations",
+        "Positive learning environment",
+        "Classroom discipline",
+        "Student motivation",
+        "Common Core Standards"
+    ],
+    "professional_info": {
+        "person name": [
+            "Menrit",
+            "Mansour"
+        ],
+        "job title": [
+            "MATH TEACHER",
+            "Professional Summary",
+            "Educational professional",
+            "Lead teacher",
+            "Learners with Special Needs or Learning Disabilities",
+            "Student Teacher"
+        ],
+        "company": [
+            "Company Name",
+            "City"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Skills": 0.2271,
+            "Word": 0.469,
+            "Excel": 0.4232,
+            "PowerPoint": 0.4408,
+            "Prezi presentations": 0.6282,
+            "Youtube video creation": 0.61,
+            "Wiki Pages": 0.6827,
+            "Mathematica": 0.4734,
+            "Popplet": 0.5257,
+            "Managing classroom for diverse populations": 0.3541,
+            "Strong collaborator": 0.629,
+            "Technological instruction": 0.516,
+            "Effective time management": 0.6779,
+            "Tailoring": 0.2907,
+            "motivation": 0.1709,
+            "Positive learning environment": 0.4471,
+            "Classroom discipline": 0.3101,
+            "Student motivation": 0.4636,
+            "Common Core Standards": 0.8616
+        },
+        "filename": "cv (4731)_annotated.json"
+    }
+}

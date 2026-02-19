@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "collaborative leadership",
+        "ethics",
+        "integrity",
+        "Expertise",
+        "assurance",
+        "financial reporting",
+        "Auditing  and Assurance",
+        "computations  & filing",
+        "International Financial Reporting System",
+        "withholding tax  rules and regulations",
+        "value added tax"
+    ],
+    "professional_info": {
+        "person name": [
+            "Jeril Jose"
+        ],
+        "job title": [
+            "Designation",
+            "Audit Associate",
+            "S econded Reporting Manager",
+            "focal coordinator"
+        ],
+        "company": [
+            "Crowe Horwath International",
+            "SAOG Companies",
+            "SMN Power Holding SOAG"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "PO Box 971",
+            "PC 131",
+            "Ruwi"
+        ],
+        "email": [
+            "E-mail",
+            "jeriljose1987@gmail.com"
+        ],
+        "phone": [
+            "GSM",
+            "+968-9515  3819"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "collaborative leadership": 0.399,
+            "ethics": 0.1962,
+            "integrity": 0.223,
+            "Expertise": 0.6161,
+            "assurance": 0.3109,
+            "financial reporting": 0.4204,
+            "Auditing  and Assurance": 0.2909,
+            "computations  & filing": 0.1985,
+            "International Financial Reporting System": 0.2752,
+            "withholding tax  rules and regulations": 0.2773,
+            "value added tax": 0.3062
+        },
+        "filename": "cv (1197)_annotated.json"
+    }
+}

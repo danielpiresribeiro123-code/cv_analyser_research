@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Project Planning",
+        "Project Management",
+        "CPM Scheduling Techniques",
+        "Cost Control and Cash flow management",
+        "Physical Progress Certificate",
+        "First Class Specialization",
+        "Electronics and Instrumentation Engineering",
+        "Primavera P6",
+        "WMS",
+        "IPMS"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Sr. Planning Engineer / Project Control Engineer",
+            "Project Management professional",
+            "Sr. Engineer-Planning"
+        ],
+        "company": [
+            "Emirates Technical Associates",
+            "Client",
+            "Gasco",
+            "Abu dhabi Gas Industries"
+        ],
+        "university": [
+            "Alagappa University (India)",
+            "Anna University (India)"
+        ],
+        "degree": [
+            "B.E.",
+            "M.B.A.",
+            "Master of Business Administration",
+            "M.B.A",
+            "Bachelor of Engineering"
+        ],
+        "years of experience": [
+            "10 years of experience"
+        ],
+        "address": [
+            "Hammadhi Sabia Villa 50",
+            "A18",
+            "Madinat Zayed"
+        ],
+        "email": [
+            "Email",
+            "prabhakaran.kannan85@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+971-561436363",
+            "+971-523940670Address"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Project Planning": 0.2525,
+            "Project Management": 0.4829,
+            "CPM Scheduling Techniques": 0.1664,
+            "Cost Control and Cash flow management": 0.1791,
+            "Physical Progress Certificate": 0.441,
+            "First Class Specialization": 0.1507,
+            "Electronics and Instrumentation Engineering": 0.4435,
+            "Primavera P6": 0.7461,
+            "WMS": 0.3143,
+            "IPMS": 0.418
+        },
+        "filename": "cv (1768)_annotated.json"
+    }
+}

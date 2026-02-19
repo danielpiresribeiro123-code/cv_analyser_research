@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "Extensive management leadership",
+        "corporate profit",
+        "Expertise",
+        "executing the Work",
+        "accounting",
+        "Business Development",
+        "Building Construction",
+        "Estimating",
+        "Scheduling",
+        "Contracts and Negotiations",
+        "Building Design and Project Management",
+        "Project Management",
+        "Estimates"
+    ],
+    "professional_info": {
+        "person name": [
+            "CONSULTANT",
+            "Current"
+        ],
+        "job title": [
+            "Building Design and Construction Manager",
+            "Consultant",
+            "Owners and Architects",
+            "Contractors and Construction Managers",
+            "Applicants"
+        ],
+        "company": [
+            "Company Name",
+            "Program Management firm",
+            "State of Texas Emergency Management"
+        ],
+        "university": [
+            "Higher Education"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Extensive management leadership": 0.3488,
+            "corporate profit": 0.1884,
+            "Expertise": 0.334,
+            "executing the Work": 0.1647,
+            "accounting": 0.1703,
+            "Business Development": 0.5738,
+            "Building Construction": 0.3929,
+            "Estimating": 0.3696,
+            "Scheduling": 0.1894,
+            "Contracts and Negotiations": 0.4181,
+            "Building Design and Project Management": 0.5589,
+            "Project Management": 0.2858,
+            "Estimates": 0.1621
+        },
+        "filename": "cv (4618)_annotated.json"
+    }
+}

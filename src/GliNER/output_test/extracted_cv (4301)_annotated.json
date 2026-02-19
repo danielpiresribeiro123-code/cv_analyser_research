@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "project management",
+        "leadership",
+        "event planning",
+        "brand",
+        "building public relations",
+        "Relationship building expert",
+        "Deadline-driven",
+        "Exceptional writer",
+        "Exceptional multi-tasker",
+        "Proficient",
+        "Adobe Creative Suite",
+        "Organized and efficient",
+        "WordPress",
+        "Experience"
+    ],
+    "professional_info": {
+        "person name": [
+            "Bill Rancic",
+            "Nicky Hilton"
+        ],
+        "job title": [
+            "PUBLIC RELATIONS ACCOUNT COORDINATOR",
+            "Summary",
+            "Public relations professional",
+            "Highlights",
+            "Social media brand manager",
+            "Casting manager",
+            "Production manager",
+            "Account Coordinator",
+            "Public Relations Intern"
+        ],
+        "company": [
+            "Company Name",
+            "FOX & Friends",
+            "USA Today",
+            "Yahoo!",
+            "AOL",
+            "Daily Finance",
+            "ABC Nightline",
+            "Vocus",
+            "Cision",
+            "ECRY NY",
+            "PIXI Beauty",
+            "NY Streets",
+            "Beauty",
+            "Collection",
+            "Beauty Addicts",
+            "Cosmoprof North America"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "project management": 0.3843,
+            "leadership": 0.3723,
+            "event planning": 0.2648,
+            "brand": 0.1676,
+            "building public relations": 0.1615,
+            "Relationship building expert": 0.4557,
+            "Deadline-driven": 0.4383,
+            "Exceptional writer": 0.631,
+            "Exceptional multi-tasker": 0.6366,
+            "Proficient": 0.4282,
+            "Adobe Creative Suite": 0.8688,
+            "Organized and efficient": 0.5514,
+            "WordPress": 0.4324,
+            "Experience": 0.2436
+        },
+        "filename": "cv (4301)_annotated.json"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "state-of-the-art technologies",
+        "Power System studies",
+        "Supervision",
+        "O&M",
+        "CVT",
+        "Circuit breaker",
+        "Lighting arrester",
+        "Earth switch",
+        "HT/LT switchgear",
+        "Power Transformer",
+        "scheme checks",
+        "Bus bars"
+    ],
+    "professional_info": {
+        "person name": [
+            "VELMURUGAN"
+        ],
+        "job title": [
+            "Electrical Testing and Commissioning, O&M Engineer",
+            "Electrical Engineer"
+        ],
+        "company": [
+            "Technosys Engineers & Consultants (Chennai) Pvt. Ltd.",
+            "Technosys  Engineers  and Consultants  (Chennai) Pvt. Ltd.",
+            "Shapoorji Pallonji Solar holdings Pvt Ltd ."
+        ],
+        "university": [
+            "Kalasalingam  University  & Technology"
+        ],
+        "degree": [
+            "B.Tech  in  Electrical  and  Electronics  Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "Krishnankoil"
+        ],
+        "email": [
+            "EMAIL"
+        ],
+        "phone": [
+            "MOBILE",
+            "+919952821818"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "state-of-the-art technologies": 0.1969,
+            "Power System studies": 0.2457,
+            "Supervision": 0.1512,
+            "O&M": 0.1588,
+            "CVT": 0.1557,
+            "Circuit breaker": 0.2161,
+            "Lighting arrester": 0.2289,
+            "Earth switch": 0.317,
+            "HT/LT switchgear": 0.2667,
+            "Power Transformer": 0.2591,
+            "scheme checks": 0.165,
+            "Bus bars": 0.2735
+        },
+        "filename": "cv (1719)_annotated.json"
+    }
+}

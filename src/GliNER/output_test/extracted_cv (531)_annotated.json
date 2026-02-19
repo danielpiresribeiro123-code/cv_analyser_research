@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "national codes",
+        "NEPA",
+        "customer specifications",
+        "Ethernet networks",
+        "Sling psychrometer",
+        "Anima meter",
+        "Clam meter",
+        "Tachometer",
+        "Multi meter",
+        "HVAC protocols"
+    ],
+    "professional_info": {
+        "person name": [
+            "SIVA RAMARAJ"
+        ],
+        "job title": [
+            "Electrical- Site Engineer",
+            "Electrical – Site Engineer",
+            "Electrical – Assistant Site Engineer"
+        ],
+        "company": [
+            "Anand Engineering and Consultancy",
+            "B-Braun – Chennai",
+            "TAJ FLIGHT KITCHEN   – Chennai",
+            "BSNL"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "gmail"
+        ],
+        "phone": [
+            "Mobile no: 91+9994846757"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "national codes": 0.1676,
+            "NEPA": 0.2576,
+            "customer specifications": 0.2294,
+            "Ethernet networks": 0.2031,
+            "Sling psychrometer": 0.1637,
+            "Anima meter": 0.1815,
+            "Clam meter": 0.2101,
+            "Tachometer": 0.2193,
+            "Multi meter": 0.2793,
+            "HVAC protocols": 0.5064
+        },
+        "filename": "cv (531)_annotated.json"
+    }
+}

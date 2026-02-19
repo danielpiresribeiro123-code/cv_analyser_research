@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "Oman Tourism College Foundation Certificate",
+        "Medical",
+        "Motor insurance",
+        "Advanced motor insurance",
+        "corporate guidelines and standards",
+        "Microsoft Office",
+        "Internet",
+        "Excellent in dealing and communicating with others",
+        "Good Math’s skills",
+        "Arabic",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "Fatma Juma Mir Dishtok Al Balushi",
+            "Omani"
+        ],
+        "job title": [
+            "Motor Insurance underwriter",
+            "Medical insurance underwriter"
+        ],
+        "company": [
+            "Orient Insurance PJSC",
+            "Orient Insurance",
+            "Ministry of Housing",
+            "Directorate General of Housing Project"
+        ],
+        "university": [
+            "Oman Tourism College"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Single",
+            "3 Years & 5 months",
+            "Quick learner",
+            "spoken fluently"
+        ],
+        "address": [
+            "Address",
+            "Muscat"
+        ],
+        "email": [
+            "E-mail",
+            "Fatma.Albalushi@alfuttaim.com"
+        ],
+        "phone": [
+            "Telephone no",
+            "(+968) 92657467"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Oman Tourism College Foundation Certificate": 0.3238,
+            "Medical": 0.3813,
+            "Motor insurance": 0.365,
+            "Advanced motor insurance": 0.2285,
+            "corporate guidelines and standards": 0.3834,
+            "Microsoft Office": 0.6034,
+            "Internet": 0.3119,
+            "Excellent in dealing and communicating with others": 0.2371,
+            "Good Math’s skills": 0.1964,
+            "Arabic": 0.7095,
+            "English": 0.693
+        },
+        "filename": "cv (1274)_annotated.json"
+    }
+}

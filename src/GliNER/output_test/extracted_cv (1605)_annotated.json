@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "technical skills",
+        "Mathematics"
+    ],
+    "professional_info": {
+        "person name": [
+            "S.SINDHUJA",
+            "XIISri Ramakrishna",
+            "XSri Ramakrishna",
+            "Ethiraj College For Women"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "University of",
+            "madras",
+            "madras2017",
+            "College.Bharathidasan",
+            "University2015",
+            "THE TAMILNADU STATE",
+            "APEX CO-OPERATIVE",
+            "Women’s Christian College",
+            "Loyola",
+            "Stella Maris College"
+        ],
+        "degree": [
+            "M.Sc",
+            "M.Phil",
+            "Mathematics",
+            "M.Phil.",
+            "MathematicsStella Maris",
+            "MathematicsEthiraj",
+            "B.Sc",
+            "MathematicsSeethalakshmi"
+        ],
+        "years of experience": [],
+        "address": [
+            "Adambakkam Branch",
+            "Chennai-88"
+        ],
+        "email": [
+            "Email",
+            "sindhu0922@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "9841486535"
+        ]
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "technical skills": 0.2108,
+            "Mathematics": 0.3461
+        },
+        "filename": "cv (1605)_annotated.json"
+    }
+}

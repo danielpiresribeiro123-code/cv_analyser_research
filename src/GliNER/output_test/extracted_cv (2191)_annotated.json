@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "SAP application",
+        "Advance Diploma in Computer Application",
+        "Computerizes Financial Accounting (CFA)",
+        "Technical knowledge",
+        "windows XP",
+        "windows 2000",
+        "2007",
+        "2010",
+        "windows Seven",
+        "vista",
+        "windows 2003 server",
+        "Linux",
+        "Application skill",
+        "MS word",
+        "MS excel",
+        "power point",
+        "MS access",
+        "programming in C",
+        "visual basic",
+        "PageMaker",
+        "Photoshop",
+        "Tally",
+        "Internet"
+    ],
+    "professional_info": {
+        "person name": [
+            "SANTOSH KUMAR SINGHC",
+            "K .K Sinha",
+            "Santoshabc"
+        ],
+        "job title": [
+            "associate",
+            "Backend profile"
+        ],
+        "company": [
+            "EXL SERVICE PVT.LTD"
+        ],
+        "university": [
+            "V-TECH Computer Education",
+            "Jain Mission Institute of Technology Ara",
+            "Maharaja College",
+            "Veer Kunwar Singh University"
+        ],
+        "degree": [
+            "Bachelor of Computer Application (BCA)"
+        ],
+        "years of experience": [],
+        "address": [
+            "B1/178",
+            "new Ashoke nagar New Delhi",
+            "Pin Code-110096"
+        ],
+        "email": [
+            "Gmail.com"
+        ],
+        "phone": [
+            "Mob",
+            "+91 8882845682"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "SAP application": 0.3107,
+            "Advance Diploma in Computer Application": 0.6214,
+            "Computerizes Financial Accounting (CFA)": 0.4412,
+            "Technical knowledge": 0.1651,
+            "windows XP": 0.8716,
+            "windows 2000": 0.8453,
+            "2007": 0.4724,
+            "2010": 0.4094,
+            "windows Seven": 0.8424,
+            "vista": 0.7347,
+            "windows 2003 server": 0.7277,
+            "Linux": 0.9254,
+            "Application skill": 0.3234,
+            "MS word": 0.3723,
+            "MS excel": 0.2574,
+            "power point": 0.3128,
+            "MS access": 0.2657,
+            "programming in C": 0.473,
+            "visual basic": 0.4153,
+            "PageMaker": 0.2351,
+            "Photoshop": 0.3078,
+            "Tally": 0.2235,
+            "Internet": 0.4534
+        },
+        "filename": "cv (2191)_annotated.json"
+    }
+}

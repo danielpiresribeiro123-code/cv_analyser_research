@@ -1,0 +1,106 @@
+{
+    "skills": [
+        "Self-motivated",
+        "analytical",
+        "meticulous",
+        "skillset",
+        "Bachelor Of Technology",
+        "Computer Science and Engineering",
+        "Technical Skills",
+        "C",
+        "C++",
+        "Java",
+        "SAP ABAP",
+        "Web Design",
+        "HTML",
+        "MySql",
+        "MS-Office",
+        "Microsoft Office Word",
+        "Microsoft Office Excel",
+        "Microsoft Office Power Point",
+        "Win2008",
+        "2012",
+        "XP",
+        "Win7",
+        "Win8",
+        "Win10",
+        "Cisco Certified Network Associate",
+        "CCNA",
+        "STAR TRAINEE"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohammed Abdul Aleem"
+        ],
+        "job title": [
+            "Intermediate",
+            "Xth",
+            "CSCO13114882",
+            "Analyst",
+            "Senior Process Executive",
+            "Factual QC"
+        ],
+        "company": [
+            "Board of Intermediate Education",
+            "Atomic Energy Central School",
+            "CBSE",
+            "Cisco",
+            "Serco Pvt. Ltd.",
+            "Google Maps",
+            "Google",
+            "Cognizant Technology Solutions"
+        ],
+        "university": [
+            "JNTUH",
+            "Jawaharlal Nehru Technological University"
+        ],
+        "degree": [],
+        "years of experience": [
+            "2 Years 8 months",
+            "1 Year 11 Months"
+        ],
+        "address": [],
+        "email": [
+            "Phone",
+            "Email",
+            "gmail.com"
+        ],
+        "phone": [
+            "+971502214594",
+            "+91-8142756756"
+        ]
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "Self-motivated": 0.3228,
+            "analytical": 0.2932,
+            "meticulous": 0.2052,
+            "skillset": 0.1883,
+            "Bachelor Of Technology": 0.7402,
+            "Computer Science and Engineering": 0.2144,
+            "Technical Skills": 0.1933,
+            "C": 0.9042,
+            "C++": 0.8839,
+            "Java": 0.8946,
+            "SAP ABAP": 0.5724,
+            "Web Design": 0.264,
+            "HTML": 0.6684,
+            "MySql": 0.4717,
+            "MS-Office": 0.2768,
+            "Microsoft Office Word": 0.5119,
+            "Microsoft Office Excel": 0.4286,
+            "Microsoft Office Power Point": 0.4657,
+            "Win2008": 0.9613,
+            "2012": 0.8576,
+            "XP": 0.9036,
+            "Win7": 0.9249,
+            "Win8": 0.9072,
+            "Win10": 0.9326,
+            "Cisco Certified Network Associate": 0.7975,
+            "CCNA": 0.4518,
+            "STAR TRAINEE": 0.2296
+        },
+        "filename": "cv (3471)_annotated.json"
+    }
+}

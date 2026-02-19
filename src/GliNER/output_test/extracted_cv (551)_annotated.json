@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "Male",
+        "Double",
+        "J4170365",
+        "Listening to  music",
+        "English",
+        "Hindi",
+        "Urdu",
+        "Key Skill",
+        "MS Office",
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Technical Qualification",
+        "Electrical & Electronic",
+        "Engineering",
+        "Technical studies",
+        "Education al Qualification",
+        "12th"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMAD RAJA ALI",
+            "Md.Rahimuddin Ansari"
+        ],
+        "job title": [
+            "Electrical Engineer"
+        ],
+        "company": [
+            "All India council of",
+            "Bihar Intermediate Education Council",
+            "Bihar School Of Examination Board",
+            "Al-Rashid Trading Contracting Co., Ltd.",
+            "RTCC",
+            "Sendan International Comp. Ltd."
+        ],
+        "university": [
+            "Maharishi, Dayanand University"
+        ],
+        "degree": [
+            "Bachelor of Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "BIHAR-844122",
+            "Internet"
+        ],
+        "email": [
+            "E-Mail",
+            "raja.ali4452",
+            "raja.ali0786@gmail.com",
+            "raja.ali75@yahoo.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+919955079848"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Male": 0.2255,
+            "Double": 0.2311,
+            "J4170365": 0.1538,
+            "Listening to  music": 0.1799,
+            "English": 0.7225,
+            "Hindi": 0.8394,
+            "Urdu": 0.7545,
+            "Key Skill": 0.3217,
+            "MS Office": 0.6279,
+            "Word": 0.3479,
+            "Excel": 0.3291,
+            "PowerPoint": 0.438,
+            "Technical Qualification": 0.2219,
+            "Electrical & Electronic": 0.2392,
+            "Engineering": 0.2076,
+            "Technical studies": 0.3426,
+            "Education al Qualification": 0.1752,
+            "12th": 0.1585
+        },
+        "filename": "cv (551)_annotated.json"
+    }
+}

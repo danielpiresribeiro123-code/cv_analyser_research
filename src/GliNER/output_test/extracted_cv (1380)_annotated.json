@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "Single",
+        "Gender",
+        "Female",
+        "Arabic",
+        "Swahili",
+        "English",
+        "IT Course from Khimji Training Institute 2009",
+        "Skills and Abilities",
+        "Investment analysis",
+        "Financial statements analysis",
+        "Handling detailed work and problem troubleshooting",
+        "Honors’ Second Class of 2016-2017",
+        "Dean’s List Honors",
+        "Member of Eco-Finance Group 2016-present",
+        "Member of Information Centre Group 2016-present",
+        "Secondary Certificate of appreciation for good discipline and moral behavior",
+        "Bank reconciliation",
+        "Cost allocation",
+        "SAP system"
+    ],
+    "professional_info": {
+        "person name": [
+            "Reem Saif Said Al-Kiyumi",
+            "Omani"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "University / College Sultan Qaboos University",
+            "College of Economics & Political, Science",
+            "Al Koudh",
+            "British Petroleum"
+        ],
+        "degree": [
+            "Bachelor’s degree of Science in Finance",
+            "Diploma/ Training General Degree Diploma of Bilingual Private Schools"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "94072875",
+            "reem.alkiyumi96@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Single": 0.4342,
+            "Gender": 0.3202,
+            "Female": 0.3949,
+            "Arabic": 0.8522,
+            "Swahili": 0.8974,
+            "English": 0.8861,
+            "IT Course from Khimji Training Institute 2009": 0.3423,
+            "Skills and Abilities": 0.2046,
+            "Investment analysis": 0.1794,
+            "Financial statements analysis": 0.1503,
+            "Handling detailed work and problem troubleshooting": 0.1612,
+            "Honors’ Second Class of 2016-2017": 0.1723,
+            "Dean’s List Honors": 0.2169,
+            "Member of Eco-Finance Group 2016-present": 0.1913,
+            "Member of Information Centre Group 2016-present": 0.1646,
+            "Secondary Certificate of appreciation for good discipline and moral behavior": 0.6497,
+            "Bank reconciliation": 0.1649,
+            "Cost allocation": 0.1953,
+            "SAP system": 0.2874
+        },
+        "filename": "cv (1380)_annotated.json"
+    }
+}

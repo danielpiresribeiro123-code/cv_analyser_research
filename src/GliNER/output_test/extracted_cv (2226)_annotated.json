@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Male & married",
+        "Computer literacy",
+        "Operating system windows",
+        "Auto CAD",
+        "MS Office",
+        "Professional Experience",
+        "innovative practices",
+        "data base",
+        "Masters degree",
+        "Urban Planning"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mizanur Haque",
+            "MIZANUR  HAQUE"
+        ],
+        "job title": [
+            "Programme Officer",
+            "Active professional"
+        ],
+        "company": [
+            "ICMA",
+            "UI",
+            "National"
+        ],
+        "university": [
+            "CSJMU",
+            "Institute of Town Planners India",
+            "ITPI"
+        ],
+        "degree": [
+            "B.SC Geography (Hons)",
+            "M.SC",
+            "Master in Town Planning"
+        ],
+        "years of experience": [
+            "sound physique"
+        ],
+        "address": [
+            "New Delhi"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Male & married": 0.3174,
+            "Computer literacy": 0.4472,
+            "Operating system windows": 0.5873,
+            "Auto CAD": 0.6121,
+            "MS Office": 0.7211,
+            "Professional Experience": 0.3459,
+            "innovative practices": 0.2016,
+            "data base": 0.5904,
+            "Masters degree": 0.1989,
+            "Urban Planning": 0.2501
+        },
+        "filename": "cv (2226)_annotated.json"
+    }
+}

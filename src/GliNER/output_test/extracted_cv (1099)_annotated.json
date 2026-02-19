@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "Nationality",
+        "CareerObjective",
+        "Tobepartofreputedorganizationwhichprovidesasteadycareergrowthalongwith",
+        "ComputerSkill",
+        "MS-CITcomputerSoftwareCoursewithFirstClass",
+        "LanguageSkill",
+        "Marathi",
+        "Hindi",
+        "English",
+        "ReadingandWritingSkill",
+        "PersonalCompetencies",
+        "Abilitytoworkinafast-pacedenvironmenttosetdeadlines",
+        "Excellentoralandwrittencorrespondencewithanexceptionalattentiontodetail",
+        "Highlyorganisedwithacreativeflairforprojectwork",
+        "Enthusiasticself-starterwhocontributeswelltotheteam",
+        "InterestandActivities",
+        "Cricket"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAAKESH.S.MAHADIK.",
+            "Indian",
+            "Mr.RaakeshSundarMahadik"
+        ],
+        "job title": [
+            "Manager–VariableDataPrinting",
+            "FieldSupervisor–PersonalLoanCollection",
+            "ContactCenterExecutive–TwoWheelerLoanCollection",
+            "FieldExecutive–ConsumerLoan"
+        ],
+        "company": [
+            "1stClass Mumbai",
+            "1stClass Commercial"
+        ],
+        "university": [
+            "PassedYear Class University",
+            "S.S.C"
+        ],
+        "degree": [
+            "Graduation"
+        ],
+        "years of experience": [
+            "October2008-CurrentRadixCorporateSolutionsPvtLtd"
+        ],
+        "address": [
+            "A/504",
+            "JayMalharBuilding",
+            "PinCode–400604",
+            "H.S.C"
+        ],
+        "email": [
+            "Mailmergingcustomerdatafromexceltoword"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9820883835"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Nationality": 0.2528,
+            "CareerObjective": 0.2463,
+            "Tobepartofreputedorganizationwhichprovidesasteadycareergrowthalongwith": 0.2669,
+            "ComputerSkill": 0.342,
+            "MS-CITcomputerSoftwareCoursewithFirstClass": 0.4837,
+            "LanguageSkill": 0.3051,
+            "Marathi": 0.4577,
+            "Hindi": 0.5676,
+            "English": 0.5599,
+            "ReadingandWritingSkill": 0.1566,
+            "PersonalCompetencies": 0.237,
+            "Abilitytoworkinafast-pacedenvironmenttosetdeadlines": 0.3155,
+            "Excellentoralandwrittencorrespondencewithanexceptionalattentiontodetail": 0.2371,
+            "Highlyorganisedwithacreativeflairforprojectwork": 0.2901,
+            "Enthusiasticself-starterwhocontributeswelltotheteam": 0.4259,
+            "InterestandActivities": 0.1948,
+            "Cricket": 0.1639
+        },
+        "filename": "cv (1099)_annotated.json"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "Key Skills",
+        "PM & MM modules",
+        "Hands on experience",
+        "Functional location",
+        "Multi tasking ability",
+        "In-depth knowledge",
+        "Piping",
+        "excellent organizational and interpersonal skills",
+        "Comprehensive Problem solving abilities",
+        "field supervision"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHAIK SAHUL HAMEED AZEEM"
+        ],
+        "job title": [
+            "MAINTENANCE / PLANNING ENGINEER",
+            "MAINTENANCE AREA PLANNER"
+        ],
+        "company": [
+            "W.L.L.",
+            "SAP",
+            "QATAR Chemicals Company",
+            "QCHEM",
+            "Qatar Engineering & Construction Company W.L.L",
+            "QCON",
+            "Qatar Chemical Company Ltd.",
+            "Q-Chem",
+            "Qatar Petroleum Corporation",
+            "Chevron Phillips Chemical Company LLC"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Excellent communicator"
+        ],
+        "address": [
+            "A Flat#. 1",
+            "Building#. 2",
+            "Al-Wakra",
+            "Mesaieed Industrial City"
+        ],
+        "email": [
+            "Email ID",
+            "azeembc16@gmail.com",
+            "azeembc16"
+        ],
+        "phone": [
+            "Skype"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Key Skills": 0.2187,
+            "PM & MM modules": 0.1621,
+            "Hands on experience": 0.1804,
+            "Functional location": 0.2873,
+            "Multi tasking ability": 0.2942,
+            "In-depth knowledge": 0.27,
+            "Piping": 0.1828,
+            "excellent organizational and interpersonal skills": 0.2349,
+            "Comprehensive Problem solving abilities": 0.2797,
+            "field supervision": 0.1541
+        },
+        "filename": "cv (3376)_annotated.json"
+    }
+}

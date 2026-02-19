@@ -1,0 +1,100 @@
+{
+    "skills": [
+        "skills",
+        "knowledge",
+        "abilities",
+        "hands on management",
+        "keen  learner",
+        "precision machining",
+        "Strong hands on part inspection",
+        "CMM",
+        "Contour  &  Roughness  Tester  (Mahr)",
+        "Profile",
+        "Projector",
+        "KEY SKILLS",
+        "Self learner",
+        "self discipline",
+        "Trustworthy",
+        "ability to reciprocated respect",
+        "Excellent analytical",
+        "troubleshooting",
+        "team building",
+        "auto component manufacturing",
+        "ISO 9001",
+        "ISO/TS 16949",
+        "ISO 14001",
+        "Export house certification",
+        "Dimensional feasibility study",
+        "standard  inspection  method"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mr. Mohammad jameel Abdul quadar"
+        ],
+        "job title": [
+            "Quality Assurance Engineer",
+            "Engineer",
+            "QA Manager"
+        ],
+        "company": [
+            "L. G. BALAKRISHNAN & BROS LTD",
+            "LGB",
+            "UL USA",
+            "Jalna PMD",
+            "Cummins  Fuel  System  India",
+            "Cummins  India  ltd",
+            "INA-Bearing",
+            "Bosch India Ltd.",
+            "Precision Machining Division"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "2+  years of  experience"
+        ],
+        "address": [
+            "Near to beban kirana malipura old jalna"
+        ],
+        "email": [
+            "Email",
+            "avezjameel9613@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+919766222655",
+            "+918208080983"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "skills": 0.2163,
+            "knowledge": 0.2207,
+            "abilities": 0.2037,
+            "hands on management": 0.1731,
+            "keen  learner": 0.3393,
+            "precision machining": 0.2098,
+            "Strong hands on part inspection": 0.2276,
+            "CMM": 0.2669,
+            "Contour  &  Roughness  Tester  (Mahr)": 0.2872,
+            "Profile": 0.4114,
+            "Projector": 0.4476,
+            "KEY SKILLS": 0.1922,
+            "Self learner": 0.431,
+            "self discipline": 0.3232,
+            "Trustworthy": 0.3991,
+            "ability to reciprocated respect": 0.225,
+            "Excellent analytical": 0.2761,
+            "troubleshooting": 0.4007,
+            "team building": 0.2036,
+            "auto component manufacturing": 0.3215,
+            "ISO 9001": 0.8467,
+            "ISO/TS 16949": 0.9296,
+            "ISO 14001": 0.8902,
+            "Export house certification": 0.374,
+            "Dimensional feasibility study": 0.2046,
+            "standard  inspection  method": 0.2415
+        },
+        "filename": "cv (2025)_annotated.json"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "ultimate discipline",
+        "honesty",
+        "professional ethics",
+        "Accounts payable function",
+        "MIS reporting",
+        "Financial data analysis",
+        "Direct and Indirect Taxation",
+        "Accounts Receivable",
+        "Bank Reconciliation",
+        "employee travel reimbursements",
+        "Excellent exposure",
+        "SAP FI",
+        "ECC 6.0",
+        "Tally 9.0 Platform",
+        "SAP FI",
+        "MS office",
+        "Monthly Cash flow MIS",
+        "GR/IR",
+        "Vendor advance reporting"
+    ],
+    "professional_info": {
+        "person name": [
+            "Virender Singh Bhandari",
+            "ACMA"
+        ],
+        "job title": [
+            "Cost Accountant",
+            "ACMA",
+            "Qualified CMA",
+            "Assistant Manager- Finance & Accounts"
+        ],
+        "company": [
+            "Hindustan Powerprojects Pvt. Limited",
+            "Wipro Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "hard work",
+            "08+ Years"
+        ],
+        "address": [
+            "Address",
+            "House No.28/288",
+            "Sector.44 Noida-201301"
+        ],
+        "email": [
+            "Email",
+            "virender999@gmail.com",
+            "virender092004@yahoo.co."
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "ultimate discipline": 0.2037,
+            "honesty": 0.1939,
+            "professional ethics": 0.259,
+            "Accounts payable function": 0.4938,
+            "MIS reporting": 0.4279,
+            "Financial data analysis": 0.4161,
+            "Direct and Indirect Taxation": 0.3267,
+            "Accounts Receivable": 0.5071,
+            "Bank Reconciliation": 0.4302,
+            "employee travel reimbursements": 0.2901,
+            "Excellent exposure": 0.1789,
+            "SAP FI": 0.2622,
+            "ECC 6.0": 0.3277,
+            "Tally 9.0 Platform": 0.3731,
+            "MS office": 0.6144,
+            "Monthly Cash flow MIS": 0.2202,
+            "GR/IR": 0.3159,
+            "Vendor advance reporting": 0.3534
+        },
+        "filename": "cv (496)_annotated.json"
+    }
+}

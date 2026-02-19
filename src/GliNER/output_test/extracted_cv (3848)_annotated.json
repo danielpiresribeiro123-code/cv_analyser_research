@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "technically focused",
+        "customer",
+        "Academic Qualification",
+        "TECHNICAL SKILLS",
+        "Revit",
+        "PLC Ladder Logic",
+        "MS Excel"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHAYAQUE SAFIAddress",
+            "ShayaqueSafi"
+        ],
+        "job title": [
+            "Electrical engineer",
+            "Electrical Site Engineer",
+            "Electrical  Engineer"
+        ],
+        "company": [
+            "Seashore Electromechanical",
+            "W.L.L",
+            "Roshan Real Estate Pvt. Ltd",
+            "Senior Secondary School Aligarh Muslim University",
+            "High School Bihar Board"
+        ],
+        "university": [
+            "Aligarh Muslim University"
+        ],
+        "degree": [
+            "B-TECH (Electrical)"
+        ],
+        "years of experience": [
+            "2 years of experience"
+        ],
+        "address": [
+            "127/14",
+            "Zakir Nagar",
+            "Okhla",
+            "New Delhi",
+            "IEC"
+        ],
+        "email": [
+            "Email",
+            "Gmail",
+            ".Com"
+        ],
+        "phone": [
+            "Mobile No",
+            "+91 9821922743"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "technically focused": 0.2614,
+            "customer": 0.1614,
+            "Academic Qualification": 0.1582,
+            "TECHNICAL SKILLS": 0.2814,
+            "Revit": 0.2971,
+            "PLC Ladder Logic": 0.2195,
+            "MS Excel": 0.3047
+        },
+        "filename": "cv (3848)_annotated.json"
+    }
+}

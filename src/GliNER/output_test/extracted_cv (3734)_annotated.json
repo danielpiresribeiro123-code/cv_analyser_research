@@ -1,0 +1,48 @@
+{
+    "skills": [
+        "regulatory framework"
+    ],
+    "professional_info": {
+        "person name": [
+            "AASIF"
+        ],
+        "job title": [
+            "trainee"
+        ],
+        "company": [
+            "Welspun Energy Private Limited",
+            "welspun energy pvt ltd",
+            "Welspun Energy Private  Limited",
+            "BBAU",
+            "12th Muslim Inter College"
+        ],
+        "university": [
+            "Lucknow Central University",
+            "SIET Gr. Noida  UPTU",
+            "Mau UP Board"
+        ],
+        "degree": [
+            "M .Tech",
+            "B.Tech",
+            "M.tech",
+            "B.tech(Electrical& Electronics)"
+        ],
+        "years of experience": [
+            "2006"
+        ],
+        "address": [
+            "Abulfazal Enclave",
+            "Jamia nagar",
+            "New Delhi"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "regulatory framework": 0.227
+        },
+        "filename": "cv (3734)_annotated.json"
+    }
+}

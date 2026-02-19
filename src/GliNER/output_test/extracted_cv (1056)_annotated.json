@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "Software and IT business",
+        "Technology Type",
+        "Industry",
+        "Industry type"
+    ],
+    "professional_info": {
+        "person name": [
+            "Company Name",
+            "Contact Name",
+            "Title",
+            "Name"
+        ],
+        "job title": [
+            "job titles",
+            "Marketing Director"
+        ],
+        "company": [
+            "company",
+            "We",
+            "global database provider",
+            "Enterprise",
+            "Medium and Small size companies"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Physical Address",
+            "City",
+            "State",
+            "Postal Code",
+            "ZIP Code",
+            "SIC Code",
+            "Website address",
+            "LA Mirada",
+            "California"
+        ],
+        "email": [
+            "Email Address"
+        ],
+        "phone": [
+            "Phone Number",
+            "Fax"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Software and IT business": 0.2067,
+            "Technology Type": 0.4497,
+            "Industry": 0.2863,
+            "Industry type": 0.3063
+        },
+        "filename": "cv (1056)_annotated.json"
+    }
+}

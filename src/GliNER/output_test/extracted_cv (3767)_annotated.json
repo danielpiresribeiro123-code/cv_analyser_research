@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "Male",
+        "Unmarried",
+        "Objective",
+        "Professional Qualification",
+        "AUTO CAD",
+        "MS Office",
+        "Academic Qualification",
+        "Intermediate (10+2)",
+        "Matriculation (10th)",
+        "Personal Qualities",
+        "Positive approach",
+        "Confident and hard working",
+        "Effective supervision & Co-ordination",
+        "Good inter-personnel relation",
+        "Technical skill set",
+        "Production planning and control",
+        "Budgeting technique"
+    ],
+    "professional_info": {
+        "person name": [
+            "SOHAIL AKHTAR",
+            "Iss Mohammad",
+            "S/o  - ISS MOHAMMAD"
+        ],
+        "job title": [
+            "MECHANICAL ENGINEER",
+            "side Engineer"
+        ],
+        "company": [
+            "CRIPS",
+            "BHEL",
+            "RGPV",
+            "CLIMATE ENGINEERIG"
+        ],
+        "university": [
+            "B.S.E Board Bihar"
+        ],
+        "degree": [
+            "Bachelor Of Engineering (B.E)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Islam",
+            "Internet",
+            "E-67",
+            "Kalindi Apartment Abu FAzal Enclave"
+        ],
+        "email": [
+            "Email",
+            "s.akhtar854@gmail.com"
+        ],
+        "phone": [
+            "Mobile No",
+            "+91-8809354906",
+            "+91-8602986164"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Male": 0.2543,
+            "Unmarried": 0.372,
+            "Objective": 0.1769,
+            "Professional Qualification": 0.203,
+            "AUTO CAD": 0.4007,
+            "MS Office": 0.3766,
+            "Academic Qualification": 0.1928,
+            "Intermediate (10+2)": 0.3511,
+            "Matriculation (10th)": 0.4177,
+            "Personal Qualities": 0.4134,
+            "Positive approach": 0.3719,
+            "Confident and hard working": 0.4991,
+            "Effective supervision & Co-ordination": 0.1505,
+            "Good inter-personnel relation": 0.4572,
+            "Technical skill set": 0.4047,
+            "Production planning and control": 0.2476,
+            "Budgeting technique": 0.2185
+        },
+        "filename": "cv (3767)_annotated.json"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "Strategic\tPlanning",
+        "Quality\tAssurance/Control",
+        "Team\tManagement",
+        "Relationship\tManagement",
+        "skills\tand\tcapabilities",
+        "Relationship\tSkills",
+        "Negotiation\t&\tConsultation",
+        "Quality\tAssurance/Control",
+        "Trust\t&\tRelationship\tBuilding",
+        "Team\tMotivation\t&\tPerformance",
+        "Customer\tFocussed",
+        "Reporting",
+        "Autonomous\t&\tFlexible",
+        "Communication\t&\tListening",
+        "Targets\t&\tDeadlines",
+        "Inspection\t&\tMonitoring",
+        "Problem\tSolving",
+        "Multi\t–Tasking"
+    ],
+    "professional_info": {
+        "person name": [
+            "Rizwan\tAhmad"
+        ],
+        "job title": [
+            "Quality\tControl\tEngineer",
+            "Coordinator",
+            "Maintenance\tClient/Customer",
+            "head\tof\tthe\tdepartment\tof\tQA/QC"
+        ],
+        "company": [
+            "SAP",
+            "Amiantit\tFiberglass\tIndustries\tLimited"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "rizwan6988@gmail.com",
+            "07348371886"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Strategic\tPlanning": 0.889,
+            "Quality\tAssurance/Control": 0.2878,
+            "Team\tManagement": 0.859,
+            "Relationship\tManagement": 0.8875,
+            "skills\tand\tcapabilities": 0.1853,
+            "Relationship\tSkills": 0.5113,
+            "Negotiation\t&\tConsultation": 0.4456,
+            "Trust\t&\tRelationship\tBuilding": 0.3389,
+            "Team\tMotivation\t&\tPerformance": 0.5079,
+            "Customer\tFocussed": 0.5006,
+            "Reporting": 0.2317,
+            "Autonomous\t&\tFlexible": 0.4319,
+            "Communication\t&\tListening": 0.3763,
+            "Targets\t&\tDeadlines": 0.2441,
+            "Inspection\t&\tMonitoring": 0.1593,
+            "Problem\tSolving": 0.2924,
+            "Multi\t–Tasking": 0.2023
+        },
+        "filename": "cv (2381)_annotated.json"
+    }
+}

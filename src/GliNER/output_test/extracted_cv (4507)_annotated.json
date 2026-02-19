@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "visionary",
+        "good judgment",
+        "proven technologies",
+        "industry standards",
+        "ease of use",
+        "fast paced leader",
+        "patience",
+        "professional team leader",
+        "tools and applications",
+        "vendor negotiation skills",
+        "technical knowledge",
+        "experience",
+        "strategic planning",
+        "free apps",
+        "document management system",
+        "dedicated work ethic",
+        "Word Perfect Application Suite",
+        "Microsoft Office 2000 Suite",
+        "Microsoft Office 2007 Suite",
+        "GroupWise Messaging"
+    ],
+    "professional_info": {
+        "person name": [
+            "I"
+        ],
+        "job title": [
+            "INFORMATION TECHNOLOGY DIRECTOR",
+            "leader of change"
+        ],
+        "company": [
+            "Company Name",
+            "largest law firm"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "sixteen years"
+        ],
+        "address": [
+            "Central Pennsylvania area"
+        ],
+        "email": [
+            "Outlook Messaging"
+        ],
+        "phone": [
+            "user provided smart phones"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "visionary": 0.3164,
+            "good judgment": 0.2669,
+            "proven technologies": 0.1968,
+            "industry standards": 0.7996,
+            "ease of use": 0.2227,
+            "fast paced leader": 0.3623,
+            "patience": 0.2445,
+            "professional team leader": 0.2692,
+            "tools and applications": 0.2033,
+            "vendor negotiation skills": 0.4862,
+            "technical knowledge": 0.2344,
+            "experience": 0.2253,
+            "strategic planning": 0.1548,
+            "free apps": 0.155,
+            "document management system": 0.2499,
+            "dedicated work ethic": 0.2577,
+            "Word Perfect Application Suite": 0.7442,
+            "Microsoft Office 2000 Suite": 0.8811,
+            "Microsoft Office 2007 Suite": 0.8646,
+            "GroupWise Messaging": 0.7487
+        },
+        "filename": "cv (4507)_annotated.json"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "Diploma in Electrical Engineering",
+        "IT SKILLS",
+        "Windows 7",
+        "MSOffice",
+        "Field",
+        "Oil and gas",
+        "Three Year Diploma in Electrical Engineering",
+        "Generator",
+        "LT MCC",
+        "REF",
+        "SPAJ",
+        "SPAM",
+        "ESP",
+        "cum boost"
+    ],
+    "professional_info": {
+        "person name": [
+            "VIJAY SINGH",
+            "vijaysinghtanwar07"
+        ],
+        "job title": [
+            "OBJECTIVE",
+            "Electrical Engineer",
+            "Electrical supervisor",
+            "10th Passed",
+            "First Division",
+            "Electrical Technician"
+        ],
+        "company": [
+            "Progressive concern",
+            "BTER",
+            "Asam petroleum assam limited",
+            "Combay project gujarat",
+            "Giral LIGNITE POWER Ltd.",
+            "ASSAM PETROLEUM LIMITED",
+            "dt.",
+            "ONGC",
+            "vishal enterprises",
+            "ABB",
+            "Unilec",
+            "HBL"
+        ],
+        "university": [
+            "Board of Sec. Education, Rajasthan"
+        ],
+        "degree": [],
+        "years of experience": [
+            "08290790248",
+            "04 YEARS"
+        ],
+        "address": [],
+        "email": [
+            "E-mail",
+            "gmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Diploma in Electrical Engineering": 0.5509,
+            "IT SKILLS": 0.3322,
+            "Windows 7": 0.8427,
+            "MSOffice": 0.7434,
+            "Field": 0.1702,
+            "Oil and gas": 0.592,
+            "Three Year Diploma in Electrical Engineering": 0.4541,
+            "Generator": 0.1656,
+            "LT MCC": 0.2414,
+            "REF": 0.2603,
+            "SPAJ": 0.2128,
+            "SPAM": 0.2327,
+            "ESP": 0.308,
+            "cum boost": 0.1732
+        },
+        "filename": "cv (1873)_annotated.json"
+    }
+}

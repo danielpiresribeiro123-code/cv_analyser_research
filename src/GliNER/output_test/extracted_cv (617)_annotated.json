@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "passion",
+        "Electrical",
+        "electrical division",
+        "experience",
+        "result oriented",
+        "Proficient knowledge",
+        "Communication",
+        "quick learner",
+        "passionate",
+        "ISO 22000:2005",
+        "ISO 9001:2008",
+        "ISO 14001:2004",
+        "HACCP",
+        "AIBI",
+        "SASO",
+        "QX 1100",
+        "QX 300",
+        "Twin Star9",
+        "Omron HMI"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Maintenance Technician",
+            "Maintenance Engineer"
+        ],
+        "company": [
+            "Industry leading organization",
+            "Almarai",
+            "Poultry Processing Plant",
+            "Almarai Company",
+            "ISHIDA",
+            "Allen Bradley PLC"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "5  years of experience",
+            "Interpersonal",
+            "excellent team player"
+        ],
+        "address": [],
+        "email": [
+            "E-MAIL",
+            "karkuvelraja@gmail.com"
+        ],
+        "phone": [
+            "CELL",
+            "+966 570600877"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "passion": 0.2488,
+            "Electrical": 0.1871,
+            "electrical division": 0.2125,
+            "experience": 0.151,
+            "result oriented": 0.2165,
+            "Proficient knowledge": 0.2975,
+            "Communication": 0.2012,
+            "quick learner": 0.3577,
+            "passionate": 0.3041,
+            "ISO 22000:2005": 0.9394,
+            "ISO 9001:2008": 0.9104,
+            "ISO 14001:2004": 0.9263,
+            "HACCP": 0.7173,
+            "AIBI": 0.731,
+            "SASO": 0.8163,
+            "QX 1100": 0.2944,
+            "QX 300": 0.1999,
+            "Twin Star9": 0.182,
+            "Omron HMI": 0.1728
+        },
+        "filename": "cv (617)_annotated.json"
+    }
+}

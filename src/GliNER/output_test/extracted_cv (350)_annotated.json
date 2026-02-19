@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "expertise",
+        "vast knowledge of market trends",
+        "sales skills",
+        "ambitious",
+        "highly motivated",
+        "marketing and business development skills",
+        "Experience of managing sales",
+        "proven ability to get results",
+        "marketing experience",
+        "pioneering experience",
+        "Strongmarketing development and strategy skills",
+        "Confident communicator",
+        "negotiator",
+        "decision maker",
+        "Proven business and implementation planner",
+        "Broad knowledge of account management",
+        "up selling",
+        "Technically competent",
+        "systems and databases",
+        "PROFESSIONAL EXPERIENCE",
+        "Marketing",
+        "account management"
+    ],
+    "professional_info": {
+        "person name": [
+            "S.Shakul hameed"
+        ],
+        "job title": [
+            "Electronic communication Engineer",
+            "Marketing Executive",
+            "sales executive",
+            "Marketing and Tele_Marketing Manager",
+            "sales directors"
+        ],
+        "company": [
+            "JustdialP.Ltd"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "3 years"
+        ],
+        "address": [
+            "Dubai"
+        ],
+        "email": [
+            "Email",
+            "shaham1991@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+971 527309432"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "expertise": 0.2614,
+            "vast knowledge of market trends": 0.2956,
+            "sales skills": 0.2407,
+            "ambitious": 0.3172,
+            "highly motivated": 0.1632,
+            "marketing and business development skills": 0.2841,
+            "Experience of managing sales": 0.2378,
+            "proven ability to get results": 0.1864,
+            "marketing experience": 0.1735,
+            "pioneering experience": 0.1555,
+            "Strongmarketing development and strategy skills": 0.2675,
+            "Confident communicator": 0.344,
+            "negotiator": 0.3008,
+            "decision maker": 0.1567,
+            "Proven business and implementation planner": 0.3431,
+            "Broad knowledge of account management": 0.262,
+            "up selling": 0.1694,
+            "Technically competent": 0.5318,
+            "systems and databases": 0.2344,
+            "PROFESSIONAL EXPERIENCE": 0.1801,
+            "Marketing": 0.2422,
+            "account management": 0.2477
+        },
+        "filename": "cv (350)_annotated.json"
+    }
+}

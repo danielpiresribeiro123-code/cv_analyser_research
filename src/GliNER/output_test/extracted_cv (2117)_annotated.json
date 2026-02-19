@@ -1,0 +1,46 @@
+{
+    "skills": [
+        "HR Manager",
+        "Electrical Engineer",
+        "Diploma  (Electrical Engineering)",
+        "skills",
+        "capabilities"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohd Salman Nafees"
+        ],
+        "job title": [],
+        "company": [
+            "GULF Oil and Gas"
+        ],
+        "university": [
+            "IERT"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Skype"
+        ],
+        "email": [
+            "e-mail address",
+            "E-mail",
+            "Id-salmannafees593@gmail.com"
+        ],
+        "phone": [
+            "telephone number",
+            "+ 966557196689"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "HR Manager": 0.213,
+            "Electrical Engineer": 0.3686,
+            "Diploma  (Electrical Engineering)": 0.3233,
+            "skills": 0.1887,
+            "capabilities": 0.1812
+        },
+        "filename": "cv (2117)_annotated.json"
+    }
+}

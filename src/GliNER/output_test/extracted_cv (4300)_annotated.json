@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "electrical and quality engineering",
+        "Expertise",
+        "Solid background",
+        "testing methodologies",
+        "products",
+        "Experience",
+        "Customer Relations",
+        "social skills",
+        "Analytical Skills",
+        "quality standards",
+        "Organization and Document Management",
+        "Risk assessment analysis",
+        "failure Mode and Effect analysis",
+        "forensic investigation",
+        "statistical data analysis",
+        "leadership",
+        "strategic planning",
+        "organizational management",
+        "Electrical Engineering",
+        "vehicle hardware and integration",
+        "vehicle systems modeling and analysis",
+        "MIL-STD-1553 interface",
+        "EIA RS-422 interface"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT",
+            "Profile",
+            "Skilled professional",
+            "staff",
+            "Electrical Engineer"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "15 years of experience"
+        ],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "electrical and quality engineering": 0.382,
+            "Expertise": 0.5601,
+            "Solid background": 0.2655,
+            "testing methodologies": 0.4369,
+            "products": 0.1612,
+            "Experience": 0.184,
+            "Customer Relations": 0.2842,
+            "social skills": 0.3656,
+            "Analytical Skills": 0.6053,
+            "quality standards": 0.2787,
+            "Organization and Document Management": 0.3188,
+            "Risk assessment analysis": 0.2845,
+            "failure Mode and Effect analysis": 0.5694,
+            "forensic investigation": 0.3438,
+            "statistical data analysis": 0.3276,
+            "leadership": 0.4451,
+            "strategic planning": 0.3581,
+            "organizational management": 0.3937,
+            "Electrical Engineering": 0.3803,
+            "vehicle hardware and integration": 0.1898,
+            "vehicle systems modeling and analysis": 0.2116,
+            "MIL-STD-1553 interface": 0.3565,
+            "EIA RS-422 interface": 0.2689
+        },
+        "filename": "cv (4300)_annotated.json"
+    }
+}

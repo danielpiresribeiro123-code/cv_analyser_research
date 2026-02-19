@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "software  development",
+        "Hardware",
+        "Software Installating Field",
+        "Windows-98",
+        "7",
+        "8",
+        "vista",
+        "DATA BASE MANAGEMENT SYSTEMS",
+        "Computer Assembling",
+        "MS Office",
+        "MS Word",
+        "MS Excel",
+        "Power Point",
+        "Excellent knowledge of Computer Assembling",
+        "Instruments Handling",
+        "Computer Science Engineering"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "MD IFTEKHARUL HAQUE",
+            "Computer  engineer",
+            "Trainee",
+            "Trainee Engineer"
+        ],
+        "company": [
+            "Hexa CraftTechnologies Pvt.Ltd.",
+            "Hexa Craft TechnologiesPvt. Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "B-174/2",
+            "Delhi-110092"
+        ],
+        "email": [
+            "E-mail",
+            "iftekharulhaque32@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+91-9911937088"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "software  development": 0.3436,
+            "Hardware": 0.1865,
+            "Software Installating Field": 0.2023,
+            "Windows-98": 0.9016,
+            "7": 0.3008,
+            "8": 0.283,
+            "vista": 0.9192,
+            "DATA BASE MANAGEMENT SYSTEMS": 0.4922,
+            "Computer Assembling": 0.2828,
+            "MS Office": 0.9156,
+            "MS Word": 0.8469,
+            "MS Excel": 0.8016,
+            "Power Point": 0.6288,
+            "Excellent knowledge of Computer Assembling": 0.2346,
+            "Instruments Handling": 0.1532,
+            "Computer Science Engineering": 0.217
+        },
+        "filename": "cv (44)_annotated.json"
+    }
+}

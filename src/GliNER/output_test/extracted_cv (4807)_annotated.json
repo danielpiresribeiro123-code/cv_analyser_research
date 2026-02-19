@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "Motivated logistics specialist",
+        "inventory control",
+        "customer service",
+        "transportation logistics",
+        "Excellent problem solving and interpersonal skills",
+        "Managed",
+        "certified",
+        "registered",
+        "insured mail",
+        "Clearance",
+        "Management",
+        "Logistics",
+        "Leadership",
+        "Inventory tracking",
+        "Clear and concise communication",
+        "Flexible with availability",
+        "Highly adaptable to a variety of situations and personalities",
+        "Constant desire to learn",
+        "Strive to be the subject matter expert",
+        "Gaining Customer trust",
+        "Positive",
+        "upbeat attitude",
+        "Accomplishments",
+        "attention to detail",
+        "outstanding performance"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "SGT/E-5",
+            "NON- COMMISSIONED OFFICER IN CHARGE BRIGADE MAIL ROOM",
+            "Non-Commissioned Officer in Charge",
+            "Official"
+        ],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Fort Carson"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "Motivated logistics specialist": 0.219,
+            "inventory control": 0.3311,
+            "customer service": 0.3932,
+            "transportation logistics": 0.5582,
+            "Excellent problem solving and interpersonal skills": 0.5277,
+            "Managed": 0.1853,
+            "certified": 0.5545,
+            "registered": 0.1557,
+            "insured mail": 0.1752,
+            "Clearance": 0.1673,
+            "Management": 0.2982,
+            "Logistics": 0.4227,
+            "Leadership": 0.2606,
+            "Inventory tracking": 0.2943,
+            "Clear and concise communication": 0.349,
+            "Flexible with availability": 0.5252,
+            "Highly adaptable to a variety of situations and personalities": 0.3854,
+            "Constant desire to learn": 0.5452,
+            "Strive to be the subject matter expert": 0.4343,
+            "Gaining Customer trust": 0.4152,
+            "Positive": 0.3272,
+            "upbeat attitude": 0.4537,
+            "Accomplishments": 0.1852,
+            "attention to detail": 0.3716,
+            "outstanding performance": 0.2723
+        },
+        "filename": "cv (4807)_annotated.json"
+    }
+}

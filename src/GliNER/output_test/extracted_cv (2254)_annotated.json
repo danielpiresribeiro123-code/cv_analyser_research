@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "Hardware  and Networking",
+        "CAT -5",
+        "Hub",
+        "Switch",
+        "Firewall",
+        "DIPLOMA QUALIFICATION",
+        "DIPLOMA",
+        "Advance Diploma in Computer Hardware and Networking Professional",
+        "ADCHNPRO",
+        "Hardware & Networking",
+        "GRADUATION QUALIFICATION",
+        "INTERMEDIATE  QUALIFICATION",
+        "Science (Biology)",
+        "HIGH SCHOOL  QUALIFICATION"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "AFTAB ALAM",
+            "Desktop Support Engineer",
+            "NETWORK ENGINE ER",
+            "Network Engineer"
+        ],
+        "company": [
+            "I-TECH SERVICE CENTER",
+            "AUDYOGIK SHIKSHAN MANDAL",
+            "G T Computer Hardware Engineering College",
+            "Ram Ji Sahai  P G College",
+            "V S A V Inter College",
+            "Adarsh Inter College"
+        ],
+        "university": [
+            "Deen Dayal Upadhaya Gorakhpur University",
+            "Board of Higher School and Intermediat e Education"
+        ],
+        "degree": [
+            "B.A"
+        ],
+        "years of experience": [
+            "Summer/2008"
+        ],
+        "address": [
+            "Hata Bazaar",
+            "Gola Bazar"
+        ],
+        "email": [
+            "gmail.com",
+            "Ph- +918898310605"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Hardware  and Networking": 0.5473,
+            "CAT -5": 0.2233,
+            "Hub": 0.2717,
+            "Switch": 0.1718,
+            "Firewall": 0.1999,
+            "DIPLOMA QUALIFICATION": 0.3901,
+            "DIPLOMA": 0.5352,
+            "Advance Diploma in Computer Hardware and Networking Professional": 0.7886,
+            "ADCHNPRO": 0.5862,
+            "Hardware & Networking": 0.7509,
+            "GRADUATION QUALIFICATION": 0.4829,
+            "INTERMEDIATE  QUALIFICATION": 0.3453,
+            "Science (Biology)": 0.5897,
+            "HIGH SCHOOL  QUALIFICATION": 0.4077
+        },
+        "filename": "cv (2254)_annotated.json"
+    }
+}

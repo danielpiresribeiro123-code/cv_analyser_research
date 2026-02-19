@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "119 Professional Center",
+        "Suite 307",
+        "Citizenship",
+        "Health",
+        "Sports Medicine",
+        "Transitional Surgery",
+        "Orthopedic Surgery",
+        "Spine",
+        "Orthopaedic Surgery"
+    ],
+    "professional_info": {
+        "person name": [
+            "JAGADEESHA SHETTY"
+        ],
+        "job title": [
+            "Excellent",
+            "PROFESSIONAL PRACTICE Physiatrist",
+            "Assistant to a Physician",
+            "Senior Registrar",
+            "Senior Resident",
+            "Orthopaedic Surgeon",
+            "Senior House Officer"
+        ],
+        "company": [
+            "Liberty Medical Associates",
+            "City Diagnostic and Research Center",
+            "Medical College Hospital"
+        ],
+        "university": [
+            "Father Muller’s Institute of Medical Education and Research",
+            "Mysore Medical College"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "1265 Wayne Avenue",
+            "Indiana",
+            "Manglore"
+        ],
+        "email": [],
+        "phone": [
+            "Office Phone",
+            "724.465.2676"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "119 Professional Center": 0.5732,
+            "Suite 307": 0.8147,
+            "Citizenship": 0.1538,
+            "Health": 0.1617,
+            "Sports Medicine": 0.1842,
+            "Transitional Surgery": 0.3445,
+            "Orthopedic Surgery": 0.3722,
+            "Spine": 0.258,
+            "Orthopaedic Surgery": 0.4568
+        },
+        "filename": "cv (1076)_annotated.json"
+    }
+}

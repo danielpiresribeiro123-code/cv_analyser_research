@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Mechanical",
+        "strategic and tactical leadership",
+        "BASTI200854",
+        "Certificate Course",
+        "Diploma in product design ( Auto-cad & Pro-E)",
+        "Machining",
+        "Turning",
+        "Finishing",
+        "Regenerative Breaking System",
+        "Strength"
+    ],
+    "professional_info": {
+        "person name": [
+            "PRASHANT KUMAR DUBEY"
+        ],
+        "job title": [
+            "C-9808956343",
+            "H-9411210129",
+            "CAREER OBJECTIVE"
+        ],
+        "company": [
+            "EDUCATIONAL/TECH. BOARD/UNIVERSITY COLLEGE",
+            "Engg.UTTAR PRADESH",
+            "LucknowIIMT ENGG COLLEGE",
+            "Intermediate U.P. Board U.E.A.",
+            "High School CBSE Board",
+            "N.E.RAILWAY GORAKHPU R"
+        ],
+        "university": [
+            "Technical University",
+            "S.V.M. RAMBAG"
+        ],
+        "degree": [
+            "B.Tech. – Mechanical",
+            "BASTI"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-mail",
+            "gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Mechanical": 0.7626,
+            "strategic and tactical leadership": 0.3136,
+            "BASTI200854": 0.2531,
+            "Certificate Course": 0.279,
+            "Diploma in product design ( Auto-cad & Pro-E)": 0.358,
+            "Machining": 0.5713,
+            "Turning": 0.1955,
+            "Finishing": 0.2423,
+            "Regenerative Breaking System": 0.6698,
+            "Strength": 0.2729
+        },
+        "filename": "cv (3373)_annotated.json"
+    }
+}

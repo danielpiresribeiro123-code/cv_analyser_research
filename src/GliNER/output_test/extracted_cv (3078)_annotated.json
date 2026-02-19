@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "CGPA",
+        "Mechanical, Engineering",
+        "DIPLOMA",
+        "DOTE       2012",
+        "FIELD OF INTEREST",
+        "Production",
+        "Designing",
+        "Maintenance",
+        "STRENGTH",
+        "Responsible Attitude",
+        "Sincere and hard working",
+        "DOUBLE TRAILER SYSTEM",
+        "HYDRAULIC LOG SPLITTER",
+        "SOFTWARE SKILLS",
+        "AUTOCAD",
+        "PRO-E",
+        "EXPERIENCE"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mr. A.MADESWARAN",
+            "Male",
+            "Indian"
+        ],
+        "job title": [
+            "Production Engineer"
+        ],
+        "company": [
+            "Jayshriram group of institution",
+            "ISME",
+            "Rane Brake Linings",
+            "Barani Ferro Casting Limited",
+            "Barani Hydraulics India Private Limited",
+            "SL  LUMAX Private Limited"
+        ],
+        "university": [
+            "Jayshriram group of",
+            "University",
+            "Al-Ameen polytechnic",
+            "Jayshriram group of institution",
+            "TNPL"
+        ],
+        "degree": [
+            "B.E"
+        ],
+        "years of experience": [
+            "1 year"
+        ],
+        "address": [
+            "MANIKKAM  M",
+            "Eswaran kovil street",
+            "State Board       2008"
+        ],
+        "email": [
+            "manickam3201@gmail.com"
+        ],
+        "phone": [
+            "Mobile No",
+            "+91 7373614416"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "CGPA": 0.367,
+            "Mechanical, Engineering": 0.3414,
+            "DIPLOMA": 0.6277,
+            "DOTE       2012": 0.265,
+            "FIELD OF INTEREST": 0.2933,
+            "Production": 0.4759,
+            "Designing": 0.2042,
+            "Maintenance": 0.2933,
+            "STRENGTH": 0.2354,
+            "Responsible Attitude": 0.4179,
+            "Sincere and hard working": 0.3743,
+            "DOUBLE TRAILER SYSTEM": 0.2616,
+            "HYDRAULIC LOG SPLITTER": 0.251,
+            "SOFTWARE SKILLS": 0.2661,
+            "AUTOCAD": 0.4822,
+            "PRO-E": 0.2541,
+            "EXPERIENCE": 0.2334
+        },
+        "filename": "cv (3078)_annotated.json"
+    }
+}

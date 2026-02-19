@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "Automobile",
+        "Engineering",
+        "Engineering and Technology2015",
+        "Software Skills",
+        "Auto Cad",
+        "Pro-E",
+        "Area of Interest",
+        "Ignition System",
+        "Steering Column Assembly"
+    ],
+    "professional_info": {
+        "person name": [
+            "A.MOHAMMED FAZIL",
+            "I"
+        ],
+        "job title": [],
+        "company": [
+            "Solid Works",
+            "Ansys",
+            "Lanson Toyota",
+            "Delphi TVS",
+            "Karpaga Vinayaga College of Engg & Tech",
+            "Hyundai Mobis Private India limited"
+        ],
+        "university": [
+            "Karpaga Vinayaga College of",
+            "Saveetha University"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Permanent Address",
+            "No.99",
+            "Kanagaraja Ganapathy st"
+        ],
+        "email": [
+            "E-mail",
+            "fazilinu@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Automobile": 0.1695,
+            "Engineering": 0.4018,
+            "Engineering and Technology2015": 0.1826,
+            "Software Skills": 0.3472,
+            "Auto Cad": 0.4725,
+            "Pro-E": 0.437,
+            "Area of Interest": 0.216,
+            "Ignition System": 0.2231,
+            "Steering Column Assembly": 0.1976
+        },
+        "filename": "cv (1161)_annotated.json"
+    }
+}

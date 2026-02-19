@@ -1,0 +1,38 @@
+{
+    "skills": [
+        "AutoCAD"
+    ],
+    "professional_info": {
+        "person name": [
+            "Saravanan L"
+        ],
+        "job title": [
+            "Production cum Quality Engineer",
+            "Production Engineer",
+            "Manager"
+        ],
+        "company": [
+            "COMPANY",
+            "CT Engineering Pvt. Ltd.",
+            "Richmond Engineering Pvt. Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "l.saravanan2988@gmail.com"
+        ],
+        "phone": [
+            "+91 9698418124"
+        ]
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "AutoCAD": 0.384
+        },
+        "filename": "cv (1294)_annotated.json"
+    }
+}

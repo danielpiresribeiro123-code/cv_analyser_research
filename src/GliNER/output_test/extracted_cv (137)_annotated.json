@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "ACADEMIC QUALIFICATION",
+        "TECHNICAL QUALIFICATION",
+        "COMPUTER KNOWLEDGE",
+        "M/s Office",
+        "Web browsing",
+        "Operation & Maintenance of Transformers",
+        "Operation & Maintenance of Plumbing & Fire Fighting Systems",
+        "Operation & Maintenance of UPS systems & Invertors",
+        "Vendor Management",
+        "Secure Make",
+        "Workstation area"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAJENDRA SHARMA"
+        ],
+        "job title": [
+            "Multi Skilled Technician",
+            "Technician",
+            "B M S."
+        ],
+        "company": [
+            "H.S.B.T.E.",
+            "AMPS Facilities Management Services Pvt. Ltd.",
+            "Google India Pvt. Ltd.",
+            "Vatika Group"
+        ],
+        "university": [
+            "UP Board",
+            "Panchkula University"
+        ],
+        "degree": [
+            "Diploma in Electrical Engineering",
+            "M.S.T."
+        ],
+        "years of experience": [
+            "PROFESSIONAL EXPERIENCE"
+        ],
+        "address": [
+            "Signature Tower –II",
+            "Tower A",
+            "Gurgaon",
+            "Vatika City"
+        ],
+        "email": [
+            "gmail.com"
+        ],
+        "phone": [
+            "Contact No.",
+            "+91-7042401335"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "ACADEMIC QUALIFICATION": 0.1952,
+            "TECHNICAL QUALIFICATION": 0.2167,
+            "COMPUTER KNOWLEDGE": 0.4327,
+            "M/s Office": 0.2699,
+            "Web browsing": 0.5967,
+            "Operation & Maintenance of Transformers": 0.2131,
+            "Operation & Maintenance of Plumbing & Fire Fighting Systems": 0.1534,
+            "Operation & Maintenance of UPS systems & Invertors": 0.199,
+            "Vendor Management": 0.1992,
+            "Secure Make": 0.1708,
+            "Workstation area": 0.1853
+        },
+        "filename": "cv (137)_annotated.json"
+    }
+}

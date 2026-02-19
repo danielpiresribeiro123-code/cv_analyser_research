@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "technical skills",
+        "experience",
+        "TECHNICAL QUALIFICATION",
+        "ITI form NCVT Rachi",
+        "PROFESSIONAL KNOWLEDGE",
+        "DB Dressing",
+        "Good knowledge",
+        "Good knowledge of electrical drawing",
+        "supervisors",
+        "construction standard",
+        "Single",
+        "Urdu",
+        "Hindi",
+        "English",
+        "J 3849059"
+    ],
+    "professional_info": {
+        "person name": [
+            "ABDUL NASAR SIDDIQUI",
+            "Abdul Sayeed Siddiqui"
+        ],
+        "job title": [
+            "ELECTRICIAN Technician",
+            "ELECTRICIAN"
+        ],
+        "company": [
+            "ELECTRICIAN POINTS",
+            "China  state  Construction  Engineering",
+            "China state Construction Engineering",
+            "Co.L.L.C"
+        ],
+        "university": [],
+        "degree": [
+            "10th Class pass out (U.P) board 2006"
+        ],
+        "years of experience": [],
+        "address": [
+            "DUBAI-UAE"
+        ],
+        "email": [
+            "Email",
+            "an07860786@gmail.com"
+        ],
+        "phone": [
+            "Mob",
+            "+971- 56 6243092",
+            "+91-7238032157"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "technical skills": 0.4737,
+            "experience": 0.1697,
+            "TECHNICAL QUALIFICATION": 0.3062,
+            "ITI form NCVT Rachi": 0.4279,
+            "PROFESSIONAL KNOWLEDGE": 0.2525,
+            "DB Dressing": 0.179,
+            "Good knowledge": 0.1736,
+            "Good knowledge of electrical drawing": 0.3234,
+            "supervisors": 0.261,
+            "construction standard": 0.7104,
+            "Single": 0.3426,
+            "Urdu": 0.7464,
+            "Hindi": 0.6064,
+            "English": 0.6605,
+            "J 3849059": 0.1601
+        },
+        "filename": "cv (555)_annotated.json"
+    }
+}

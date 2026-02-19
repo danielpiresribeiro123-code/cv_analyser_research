@@ -1,0 +1,102 @@
+{
+    "skills": [
+        "English",
+        "Hindi",
+        "Urdu",
+        "Soft skills",
+        "Work Oriented",
+        "Adaptable",
+        "Self-motivated",
+        "Team Spirit",
+        "Punctual & Regular",
+        "Innovative and creative possess",
+        "Good analytical communication",
+        "CARRER OBJECTIVE",
+        "Allahabad",
+        "Greater Noida",
+        "INTERNATIONAL CERTIFICATION",
+        "Marketing Management",
+        "Human Resource Management",
+        "Controlling",
+        "Windows-based systems",
+        "WAN / Network Services",
+        "Operating Systems",
+        "Hardware"
+    ],
+    "professional_info": {
+        "person name": [
+            "Abdul Aziz Qureshi",
+            "Mr Abdul.",
+            "Raheem",
+            "Male"
+        ],
+        "job title": [
+            "Abdul1126azizqureshi@gmail., com",
+            "Single",
+            "Designation",
+            "Medical Representative",
+            "Accountant",
+            "Sales",
+            "Accounting",
+            "Directing"
+        ],
+        "company": [
+            "Chatrapati Sahuji Maharaj",
+            "Aimil Pharmaceuticals (India) Ltd."
+        ],
+        "university": [
+            "University",
+            "Priyadarshini college pf computer science"
+        ],
+        "degree": [
+            "B.COM",
+            "Stream –  Commerce",
+            "MICROSOFT CERTIFIED Diploma In Computer Hardware"
+        ],
+        "years of experience": [
+            "EXPERIENCE"
+        ],
+        "address": [
+            "Residential - H.No. 22C/1C",
+            "Rahamat Nagar",
+            "Kareli Allahabad",
+            "U.P 211016"
+        ],
+        "email": [
+            "E-mail ID"
+        ],
+        "phone": [
+            "Phone",
+            "+91 7668944123",
+            "+91 8840780650"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "English": 0.6497,
+            "Hindi": 0.7423,
+            "Urdu": 0.5758,
+            "Soft skills": 0.2943,
+            "Work Oriented": 0.7025,
+            "Adaptable": 0.67,
+            "Self-motivated": 0.653,
+            "Team Spirit": 0.6006,
+            "Punctual & Regular": 0.5399,
+            "Innovative and creative possess": 0.3628,
+            "Good analytical communication": 0.6013,
+            "CARRER OBJECTIVE": 0.2667,
+            "Allahabad": 0.2315,
+            "Greater Noida": 0.4334,
+            "INTERNATIONAL CERTIFICATION": 0.8705,
+            "Marketing Management": 0.4819,
+            "Human Resource Management": 0.4149,
+            "Controlling": 0.2499,
+            "Windows-based systems": 0.2373,
+            "WAN / Network Services": 0.1703,
+            "Operating Systems": 0.5603,
+            "Hardware": 0.2046
+        },
+        "filename": "cv (266)_annotated.json"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "superior work ethic",
+        "team player attitude",
+        "Exceptional quality control",
+        "inspection abilities",
+        "honesty",
+        "hard work",
+        "positive attitude",
+        "Consistent ability",
+        "efficiency",
+        "Enthusiastic individual",
+        "superior skills",
+        "strong work ethic",
+        "excellent organizational skills",
+        "Adaptive team player",
+        "Loss prevention",
+        "Dependable and reliable",
+        "Inventory control",
+        "Project organization",
+        "RFI Scanners",
+        "Administrative support",
+        "Team management",
+        "Inventory management",
+        "Team building",
+        "Invoice generation"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "AVIATION SUPPLY SPECIALIST",
+            "Organized professional",
+            "Service-minded Stock Management professional",
+            "Experienced Stock Clerk"
+        ],
+        "company": [
+            "leading retailers",
+            "Marine Corps",
+            "KFC",
+            "Aviation Supply Specialist",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "over 8 years of experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "superior work ethic": 0.4637,
+            "team player attitude": 0.5143,
+            "Exceptional quality control": 0.4301,
+            "inspection abilities": 0.4062,
+            "honesty": 0.3076,
+            "hard work": 0.2958,
+            "positive attitude": 0.4952,
+            "Consistent ability": 0.1665,
+            "efficiency": 0.1725,
+            "Enthusiastic individual": 0.4005,
+            "superior skills": 0.2624,
+            "strong work ethic": 0.3194,
+            "excellent organizational skills": 0.3614,
+            "Adaptive team player": 0.3081,
+            "Loss prevention": 0.1741,
+            "Dependable and reliable": 0.1714,
+            "Inventory control": 0.2118,
+            "Project organization": 0.2816,
+            "RFI Scanners": 0.2057,
+            "Administrative support": 0.1686,
+            "Team management": 0.2173,
+            "Inventory management": 0.2991,
+            "Team building": 0.2413,
+            "Invoice generation": 0.1865
+        },
+        "filename": "cv (4394)_annotated.json"
+    }
+}

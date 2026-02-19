@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "Licenciatura",
+        "doctorado",
+        "PROMEP",
+        "Ingeniería y Tecnología"
+    ],
+    "professional_info": {
+        "person name": [
+            "Juan Antonio AGUILAR-GARIB",
+            "juan",
+            "Oxana  Kharissova  Vasilievna",
+            "Ubaldo  Ortiz Méndez",
+            "Moisés Hinojosa Rivera",
+            "Juan Antonio Aguilar Garib",
+            "Zarel Valdez",
+            "Román Nava",
+            "Juan  Antonio  Aguilar  Garib",
+            "Ana  María  Arato  Tovar",
+            "Moisés  Hinojosa Rivera",
+            "Ubaldo  Ortiz  Méndez",
+            "Oxana  Kharissova",
+            "Zarel Valdez Nava",
+            "Jorge Domingo  Berrún Castañón"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "uanl",
+            "Universidad Autónoma de Nuevo León",
+            "Instituto Tecnológico de Saltillo",
+            "Université de Toulouse Le Mirail",
+            "IMPI",
+            "Université Paul Sabatier",
+            "HYLSA"
+        ],
+        "degree": [
+            "Doctorado",
+            "Ingeniería de Materiales",
+            "Maestría: Metalurgia",
+            "Ingeniería Mecánica"
+        ],
+        "years of experience": [],
+        "address": [
+            "gama.fime.uanl.mx"
+        ],
+        "email": [
+            "Presidente del Capítulo Monterrey de ASHRAE 2007-2008"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Licenciatura": 0.152,
+            "doctorado": 0.2796,
+            "PROMEP": 0.2326,
+            "Ingeniería y Tecnología": 0.4156
+        },
+        "filename": "cv (1304)_annotated.json"
+    }
+}

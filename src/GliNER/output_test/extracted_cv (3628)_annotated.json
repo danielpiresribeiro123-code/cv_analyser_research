@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "Linguistic",
+        "Proficiency",
+        "English",
+        "Hindi",
+        "u",
+        "personal skills",
+        "Strength",
+        "Good Communication Skills",
+        "proven leadership traits",
+        "work well in",
+        "team",
+        "quick learner sense of responsibility",
+        "positive attitude",
+        "self",
+        "motivated",
+        "Capabilities",
+        "maintenance",
+        "error detection",
+        "Professional Qualification",
+        "Machineries",
+        "Assembling"
+    ],
+    "professional_info": {
+        "person name": [
+            "PREMNATH",
+            "YADAV",
+            "Male",
+            "prem",
+            "Fresher",
+            "Mr. Rambriksh Yadav"
+        ],
+        "job title": [],
+        "company": [
+            "Diesel Locomotive Workshop",
+            "HMS",
+            "Rotor",
+            "TMS",
+            "LPS",
+            "MANAGEMENT Lucknow"
+        ],
+        "university": [
+            "UPTU",
+            "LUCKNOW",
+            "MODEL  INSTITUTE  OF  TECHNOLOGY  AND",
+            "UP.  Board",
+            "UP . Board"
+        ],
+        "degree": [
+            "B.Tech  in  Mechanical  ENGINEERING"
+        ],
+        "years of experience": [],
+        "address": [
+            "156"
+        ],
+        "email": [
+            "Pin.274201",
+            "E-Mail",
+            "gmail.comCareer",
+            "09450474666"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Linguistic": 0.1689,
+            "Proficiency": 0.1966,
+            "English": 0.8045,
+            "Hindi": 0.8843,
+            "u": 0.192,
+            "personal skills": 0.2066,
+            "Strength": 0.2772,
+            "Good Communication Skills": 0.4989,
+            "proven leadership traits": 0.5284,
+            "work well in": 0.2996,
+            "team": 0.2479,
+            "quick learner sense of responsibility": 0.6819,
+            "positive attitude": 0.5139,
+            "self": 0.2837,
+            "motivated": 0.5087,
+            "Capabilities": 0.4122,
+            "maintenance": 0.1564,
+            "error detection": 0.1623,
+            "Professional Qualification": 0.3046,
+            "Machineries": 0.1519,
+            "Assembling": 0.1711
+        },
+        "filename": "cv (3628)_annotated.json"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "instructional design",
+        "teaching practice",
+        "Title I",
+        "technologies",
+        "giving presentations",
+        "enhancing learning activities",
+        "center activities",
+        "flex- group instruction",
+        "technology",
+        "Developed and revised district curriculum",
+        "mathematics",
+        "language arts",
+        "social studies",
+        "scaffolded framework of learning expectations",
+        "instructional strategies",
+        "Dimensions of Learning",
+        "ViewSpace",
+        "Earth science programming",
+        "program logic models",
+        "research on audience needs"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CLASSROOM TEACHER",
+            "Experienced education professional",
+            "student teacher",
+            "Hubble mission lead"
+        ],
+        "company": [
+            "Company Name",
+            "NASA"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Nearly 20 years experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "instructional design": 0.4511,
+            "teaching practice": 0.2193,
+            "Title I": 0.1524,
+            "technologies": 0.162,
+            "giving presentations": 0.1581,
+            "enhancing learning activities": 0.2289,
+            "center activities": 0.2438,
+            "flex- group instruction": 0.2424,
+            "technology": 0.6506,
+            "Developed and revised district curriculum": 0.1577,
+            "mathematics": 0.7236,
+            "language arts": 0.725,
+            "social studies": 0.7004,
+            "scaffolded framework of learning expectations": 0.5565,
+            "instructional strategies": 0.1732,
+            "Dimensions of Learning": 0.2084,
+            "ViewSpace": 0.2081,
+            "Earth science programming": 0.1751,
+            "program logic models": 0.2429,
+            "research on audience needs": 0.1707
+        },
+        "filename": "cv (4762)_annotated.json"
+    }
+}

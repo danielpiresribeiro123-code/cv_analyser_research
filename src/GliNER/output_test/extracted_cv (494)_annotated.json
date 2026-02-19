@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "best and most dedicated efforts",
+        "Graduation",
+        "Computer Skills",
+        "One year Diploma in Computer Hardware & Networking",
+        "Certificate of Learning Course Windows 8 for IT Pros",
+        "Jump Start",
+        "Computer literate",
+        "duty loving",
+        "honesty",
+        "Follow the rules",
+        "strongly of the organization",
+        "Hindi",
+        "English",
+        "Arabic"
+    ],
+    "professional_info": {
+        "person name": [
+            "NASIR KHAN",
+            "Mr. Babu Khan",
+            "Male",
+            "Indian"
+        ],
+        "job title": [
+            "12th Passed",
+            "CSA"
+        ],
+        "company": [
+            "ITI ELECTRICIAN",
+            "Microsoft Virtual Academy Online"
+        ],
+        "university": [
+            "MJP Rohilkhand",
+            "university bareilly",
+            "UP BOARD",
+            "NIIT"
+        ],
+        "degree": [
+            "Bachelor"
+        ],
+        "years of experience": [
+            "Experience"
+        ],
+        "address": [
+            "H.No.111",
+            "Mujha Khurd Post Puranpur",
+            "Mobil"
+        ],
+        "email": [
+            "Email",
+            "khannasir885@live.com",
+            "khannasir885@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "best and most dedicated efforts": 0.1758,
+            "Graduation": 0.1722,
+            "Computer Skills": 0.3264,
+            "One year Diploma in Computer Hardware & Networking": 0.3413,
+            "Certificate of Learning Course Windows 8 for IT Pros": 0.5575,
+            "Jump Start": 0.2102,
+            "Computer literate": 0.3889,
+            "duty loving": 0.4162,
+            "honesty": 0.2687,
+            "Follow the rules": 0.5076,
+            "strongly of the organization": 0.4286,
+            "Hindi": 0.8189,
+            "English": 0.825,
+            "Arabic": 0.7323
+        },
+        "filename": "cv (494)_annotated.json"
+    }
+}

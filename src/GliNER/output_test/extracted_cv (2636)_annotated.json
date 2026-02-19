@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "DIT- (Diploma in Information Technology)",
+        "EXPERIENCE",
+        "Web",
+        "Marital Status",
+        "Unmarried",
+        "Gender",
+        "Male",
+        "English",
+        "Hindi",
+        "Urdu"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mr. Anwar Husain",
+            "Indian"
+        ],
+        "job title": [
+            "Salesman",
+            "Designer"
+        ],
+        "company": [
+            "MUHAMMAD IMRAN",
+            "E-corp  Info  System"
+        ],
+        "university": [
+            "U.P. Board",
+            "DDU, Gorakhpur"
+        ],
+        "degree": [
+            "B.A."
+        ],
+        "years of experience": [
+            "1 year & 6 months experience",
+            "1  year  &  2  months  experience"
+        ],
+        "address": [
+            "H. No. C-74A",
+            "Raju Park",
+            "Devli Road",
+            "Khanpur",
+            "New Delhi-110062"
+        ],
+        "email": [
+            "Email",
+            "hussainmdimran494@gmail.com"
+        ],
+        "phone": [
+            "Mob"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "DIT- (Diploma in Information Technology)": 0.4081,
+            "EXPERIENCE": 0.2349,
+            "Web": 0.2092,
+            "Marital Status": 0.197,
+            "Unmarried": 0.3908,
+            "Gender": 0.1628,
+            "Male": 0.2765,
+            "English": 0.7343,
+            "Hindi": 0.6509,
+            "Urdu": 0.7684
+        },
+        "filename": "cv (2636)_annotated.json"
+    }
+}

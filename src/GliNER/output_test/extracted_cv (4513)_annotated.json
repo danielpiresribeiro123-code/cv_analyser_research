@@ -1,0 +1,91 @@
+{
+    "skills": [
+        "dedicated",
+        "organised",
+        "methodical individual",
+        "good interpersonal skills",
+        "excellent team worker",
+        "active and dynamic approach to work",
+        "flexible",
+        "reliable",
+        "excellent time keeping skills",
+        "analytical skills",
+        "Friendly",
+        "Calm under pressure",
+        "Cabin technologies",
+        "Expert problem solver",
+        "CPR certification",
+        "Amadeus Altea Customer Management System",
+        "team player",
+        "KPIsÂ",
+        "key health and safety standards",
+        "airline standardsÂ",
+        "airline on-time performance standards",
+        "Galileo Reservations",
+        "Universal Desktop",
+        "Client Management and accountingÂ",
+        "Customer sales processÂ",
+        "Being a team player"
+    ],
+    "professional_info": {
+        "person name": [
+            "I"
+        ],
+        "job title": [
+            "PASSENGER SERVICES OFFICER",
+            "Australian professional",
+            "aspiring business professional",
+            "Customer service specialist",
+            "airline duty officers",
+            "International Travel Consultant"
+        ],
+        "company": [
+            "Federal Aviation Administration",
+            "FAA",
+            "Company Name",
+            "City",
+            "Singapore AirlinesÂ",
+            "Singapore Airlines"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": [
+            "Multi-line phones"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "dedicated": 0.3586,
+            "organised": 0.2817,
+            "methodical individual": 0.1777,
+            "good interpersonal skills": 0.4004,
+            "excellent team worker": 0.3058,
+            "active and dynamic approach to work": 0.1698,
+            "flexible": 0.3518,
+            "reliable": 0.3903,
+            "excellent time keeping skills": 0.3926,
+            "analytical skills": 0.3218,
+            "Friendly": 0.2419,
+            "Calm under pressure": 0.1689,
+            "Cabin technologies": 0.2126,
+            "Expert problem solver": 0.3528,
+            "CPR certification": 0.8873,
+            "Amadeus Altea Customer Management System": 0.3613,
+            "team player": 0.2215,
+            "KPIsÂ": 0.2579,
+            "key health and safety standards": 0.422,
+            "airline standardsÂ": 0.4635,
+            "airline on-time performance standards": 0.3045,
+            "Galileo Reservations": 0.3894,
+            "Universal Desktop": 0.5875,
+            "Client Management and accountingÂ": 0.4107,
+            "Customer sales processÂ": 0.1624,
+            "Being a team player": 0.1617
+        },
+        "filename": "cv (4513)_annotated.json"
+    }
+}

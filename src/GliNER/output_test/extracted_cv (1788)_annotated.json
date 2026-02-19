@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "Respected",
+        "Gender",
+        "Male",
+        "Hindi",
+        "Marital Status",
+        "Single",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHOUKAT ALI",
+            "Sir",
+            "I.T.I",
+            "Solagidih Chass",
+            "Abbas Ahmad"
+        ],
+        "job title": [
+            "Electrician",
+            "Electirician"
+        ],
+        "company": [
+            "Asha Pvt ITI"
+        ],
+        "university": [
+            "Education College/School University",
+            "BokaroNCVT",
+            "Metric Jharia Academy"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Rashoolbagh",
+            "P.O-Bhaga Dhanbad",
+            "828301"
+        ],
+        "email": [
+            "JhariaJAC Ranchi 2015"
+        ],
+        "phone": [
+            "Mobile",
+            "+91  9507579475"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Respected": 0.307,
+            "Gender": 0.3165,
+            "Male": 0.3963,
+            "Hindi": 0.9717,
+            "Marital Status": 0.2212,
+            "Single": 0.5664,
+            "English": 0.9345
+        },
+        "filename": "cv (1788)_annotated.json"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "skills": [
+        "dedication",
+        "positive attitude",
+        "passion",
+        "ECE",
+        "Bus Management System",
+        "Line Follower with Automatic Headlight Control",
+        "TECHNICAL SKILLS",
+        "C",
+        "C++",
+        "Windows 2000/XP/7",
+        "Black Berry",
+        "Simulation Tools",
+        "AVR Studio",
+        "Proteus",
+        "Keiluvision3",
+        "Soft Skills",
+        "PCB and Circuit Design",
+        "SEO",
+        "Microsoft Office 2007",
+        "PASTIME INTEREST",
+        "Reading",
+        "English",
+        "Hindi",
+        "Malayalam",
+        "Tamil",
+        "PERSONAL STRENGTH",
+        "Excellent in time-management",
+        "Eagerness",
+        "Willingness to be the part of a team",
+        "Female",
+        "Single"
+    ],
+    "professional_info": {
+        "person name": [
+            "VRINDA VISWAMBHARAN",
+            "K Viswambharan"
+        ],
+        "job title": [
+            "CAREER VISION",
+            "Class representative"
+        ],
+        "company": [
+            "KELTRON",
+            "DOORDARSAN",
+            "BSNL"
+        ],
+        "university": [
+            "Mahatma Gandhi University"
+        ],
+        "degree": [
+            "Computer Math’s C.B.S.E"
+        ],
+        "years of experience": [],
+        "address": [
+            "korumbooru(H)",
+            "Mudakuzha(PO)",
+            "Akanad",
+            "Ernakulam-683546"
+        ],
+        "email": [
+            "Vrindaviswambharan@gmail.com",
+            "200810thC.B.S.E"
+        ],
+        "phone": [
+            "+91 9446136501",
+            "0484 2646501",
+            "2010-2014B-Tech",
+            "201012th"
+        ]
+    },
+    "metadata": {
+        "total_skills": 31,
+        "confidence_scores": {
+            "dedication": 0.3564,
+            "positive attitude": 0.5212,
+            "passion": 0.3742,
+            "ECE": 0.1681,
+            "Bus Management System": 0.5019,
+            "Line Follower with Automatic Headlight Control": 0.1746,
+            "TECHNICAL SKILLS": 0.2109,
+            "C": 0.9583,
+            "C++": 0.9182,
+            "Windows 2000/XP/7": 0.8012,
+            "Black Berry": 0.7568,
+            "Simulation Tools": 0.2211,
+            "AVR Studio": 0.7021,
+            "Proteus": 0.4881,
+            "Keiluvision3": 0.4882,
+            "Soft Skills": 0.3116,
+            "PCB and Circuit Design": 0.5469,
+            "SEO": 0.3067,
+            "Microsoft Office 2007": 0.6797,
+            "PASTIME INTEREST": 0.2473,
+            "Reading": 0.1689,
+            "English": 0.6748,
+            "Hindi": 0.6461,
+            "Malayalam": 0.6781,
+            "Tamil": 0.617,
+            "PERSONAL STRENGTH": 0.5892,
+            "Excellent in time-management": 0.1687,
+            "Eagerness": 0.2388,
+            "Willingness to be the part of a team": 0.2879,
+            "Female": 0.2058,
+            "Single": 0.26
+        },
+        "filename": "cv (1041)_annotated.json"
+    }
+}

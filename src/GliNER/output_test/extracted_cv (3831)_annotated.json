@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "D.O.B.",
+        "proven expertise",
+        "Diploma in safety officer",
+        "Basic knowledge",
+        "Excel",
+        "MS office",
+        "Typing Speed",
+        "Urdu",
+        "English",
+        "Hindi",
+        "Bengali"
+    ],
+    "professional_info": {
+        "person name": [
+            "ARSHAD HUSSAIN",
+            "AFZAL HUSSAIN"
+        ],
+        "job title": [
+            "Data Entry Operator"
+        ],
+        "company": [
+            "TATA",
+            "Tathya.com.pvt.Ltd.",
+            "Rajsoft.Pvt. Ltd.",
+            "NSB BPO Solution pvt. ltd"
+        ],
+        "university": [
+            "Calcutta University"
+        ],
+        "degree": [
+            "W.B.B.S.E.",
+            "W.B.C.H.S.E.",
+            "B.A (General)"
+        ],
+        "years of experience": [
+            "2 Years",
+            "2 Years experience",
+            "November  2010"
+        ],
+        "address": [
+            "Victoria Lane",
+            "Hooghly",
+            "Pin No. 712125"
+        ],
+        "email": [
+            "E-Mail ID",
+            "arshadhussain297@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "D.O.B.": 0.2224,
+            "proven expertise": 0.1742,
+            "Diploma in safety officer": 0.5429,
+            "Basic knowledge": 0.3101,
+            "Excel": 0.3983,
+            "MS office": 0.7288,
+            "Typing Speed": 0.2877,
+            "Urdu": 0.8434,
+            "English": 0.8794,
+            "Hindi": 0.8775,
+            "Bengali": 0.8456
+        },
+        "filename": "cv (3831)_annotated.json"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "data driven",
+        "business solutions",
+        "Proficient knowledge",
+        "statistics and analytics",
+        "Excellent",
+        "understanding",
+        "analytics tools",
+        "R",
+        "Python",
+        "analysis",
+        "Certification",
+        "Machine Learning",
+        "Projects",
+        "Banhadau Model For Translation",
+        "Skills",
+        "Data Analysis",
+        "Research",
+        "State-of-the-art",
+        "approaches"
+    ],
+    "professional_info": {
+        "person name": [
+            "Jeremy Nyugen"
+        ],
+        "job title": [
+            "GRADUATE RESEARCH ASSISTANT",
+            "Executive Profile",
+            "Analyst",
+            "RA"
+        ],
+        "company": [],
+        "university": [
+            "Kerala Research Foundation",
+            "Kerala University"
+        ],
+        "degree": [
+            "B.Tech",
+            "M.Tech"
+        ],
+        "years of experience": [
+            "2 years of experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "data driven": 0.1775,
+            "business solutions": 0.1679,
+            "Proficient knowledge": 0.4532,
+            "statistics and analytics": 0.4729,
+            "Excellent": 0.2915,
+            "understanding": 0.1655,
+            "analytics tools": 0.1836,
+            "R": 0.9494,
+            "Python": 0.9952,
+            "analysis": 0.237,
+            "Certification": 0.5702,
+            "Machine Learning": 0.6141,
+            "Projects": 0.2305,
+            "Banhadau Model For Translation": 0.4712,
+            "Skills": 0.155,
+            "Data Analysis": 0.5605,
+            "Research": 0.1595,
+            "State-of-the-art": 0.356,
+            "approaches": 0.1631
+        },
+        "filename": "cv (4970)_annotated.json"
+    }
+}

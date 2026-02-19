@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Finance or Marketing sector",
+        "Operating Computer",
+        "Riding bikes",
+        "Reading books",
+        "Optimist",
+        "hard work",
+        "high will power",
+        "Single",
+        "Languages Known",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "Avinash kumar",
+            "Shri sarwan kumar",
+            "Smt. nirmala davi",
+            "Indian"
+        ],
+        "job title": [
+            "Educational Qualification"
+        ],
+        "company": [
+            "ITI",
+            "M.M.V",
+            "Government Industrial Training Institute Gorabajar",
+            "GITI 2013M.M.VAppearing"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "I-15-D Baraha railway colony Alambagh                                                Lucknow",
+            "Pin code 226005"
+        ],
+        "email": [
+            "E-mail",
+            "dhanukavinash@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "9044989426",
+            "10th       U.P 2006All"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Finance or Marketing sector": 0.2637,
+            "Operating Computer": 0.5555,
+            "Riding bikes": 0.2083,
+            "Reading books": 0.2982,
+            "Optimist": 0.5916,
+            "hard work": 0.4542,
+            "high will power": 0.4738,
+            "Single": 0.4682,
+            "Languages Known": 0.2379,
+            "Hindi": 0.6384
+        },
+        "filename": "cv (1872)_annotated.json"
+    }
+}

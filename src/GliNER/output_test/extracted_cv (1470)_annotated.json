@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "H2063570",
+        "Good command in the technical area of my field",
+        "Self motivating",
+        "Good team spirit",
+        "Optimist",
+        "computer hard wear networking",
+        "Ms  office",
+        "Job Responsibility",
+        "Maintenance",
+        "Repairing",
+        "DG",
+        "wiring",
+        "Amf panel",
+        "ACADEMIC CREDENTIALS",
+        "Passed - 10+2",
+        "Hindu",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAVI KUMAR SHARMA",
+            "Late. Umashankar Sharma"
+        ],
+        "job title": [
+            "Electrical technician",
+            "Electrical maintenance technician",
+            "Fire fighter and Safety officer"
+        ],
+        "company": [
+            "CELL-DELHI",
+            "Petron Engg. Cons.",
+            "Powerica Ltd.",
+            "Emrest Trading Associates (uae)",
+            "CHS (Client- Tanishq",
+            "Titan Industries Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "H. NO-2035",
+            "pillanji",
+            "Kotla",
+            "Mubarakpur",
+            "New Delhi-110003",
+            "09717216628",
+            "9213480254",
+            "English"
+        ],
+        "email": [
+            "ravisharma12oct@yahoo.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "H2063570": 0.1518,
+            "Good command in the technical area of my field": 0.2009,
+            "Self motivating": 0.3627,
+            "Good team spirit": 0.4016,
+            "Optimist": 0.4362,
+            "computer hard wear networking": 0.2776,
+            "Ms  office": 0.1581,
+            "Job Responsibility": 0.3017,
+            "Maintenance": 0.3682,
+            "Repairing": 0.2665,
+            "DG": 0.224,
+            "wiring": 0.1593,
+            "Amf panel": 0.257,
+            "ACADEMIC CREDENTIALS": 0.2674,
+            "Passed - 10+2": 0.4407,
+            "Hindu": 0.1519,
+            "Hindi": 0.6805
+        },
+        "filename": "cv (1470)_annotated.json"
+    }
+}

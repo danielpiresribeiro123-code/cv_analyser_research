@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "Multiple Facility Management and Oversight",
+        "Training and Development",
+        "Vendor Negotiations",
+        "Diverse Market and Industry Knowledge",
+        "Process improvement",
+        "Accreditation Preparation",
+        "billing systems",
+        "charting systems",
+        "Human Resource manuals",
+        "OSHA manuals",
+        "accounts receivable analysis",
+        "scheduling",
+        "billing software",
+        "computer hardware"
+    ],
+    "professional_info": {
+        "person name": [
+            "CONSULTANT"
+        ],
+        "job title": [
+            "Executive Profile",
+            "Visionary Operations Executive",
+            "ASC Administrator",
+            "Consultant",
+            "Owner of healthcare practice management",
+            "Director of Surgical Services"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Multiple Facility Management and Oversight": 0.169,
+            "Training and Development": 0.214,
+            "Vendor Negotiations": 0.1975,
+            "Diverse Market and Industry Knowledge": 0.3174,
+            "Process improvement": 0.2073,
+            "Accreditation Preparation": 0.1638,
+            "billing systems": 0.5048,
+            "charting systems": 0.5842,
+            "Human Resource manuals": 0.2068,
+            "OSHA manuals": 0.1675,
+            "accounts receivable analysis": 0.2008,
+            "scheduling": 0.2264,
+            "billing software": 0.5726,
+            "computer hardware": 0.4756
+        },
+        "filename": "cv (4708)_annotated.json"
+    }
+}

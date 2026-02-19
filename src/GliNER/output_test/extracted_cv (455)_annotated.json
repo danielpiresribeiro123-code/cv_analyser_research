@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "Rainwater harvesting",
+        "Rain water harvesting",
+        "RWH",
+        "Side engineering",
+        "Building construction",
+        "Marketing",
+        "Leadership",
+        "Honesty and integrity",
+        "Geocko animation certificate",
+        "dcvdc",
+        "Drawing",
+        "Weaving",
+        "First Aid",
+        "Volunteer",
+        "Strength & Hobbies",
+        "Responsible",
+        "Strong work ethic",
+        "Playing cricket",
+        "Listen to song",
+        "civil engineering"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ali Hassan sai",
+            "alihassansai18"
+        ],
+        "job title": [
+            "dvcc",
+            "dxcx",
+            "dcx"
+        ],
+        "company": [
+            "Shree cement manufacturing",
+            "jobner (jaipur)",
+            "PWD"
+        ],
+        "university": [
+            "Rajasthan Technical University",
+            "RIET COLLEGE"
+        ],
+        "degree": [
+            "B.Tech [2017]"
+        ],
+        "years of experience": [],
+        "address": [
+            "Dariba masjid",
+            "ward no. 22",
+            "Kota"
+        ],
+        "email": [
+            "9024680768"
+        ],
+        "phone": [
+            "Mobile",
+            "9024680768"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Rainwater harvesting": 0.6886,
+            "Rain water harvesting": 0.2039,
+            "RWH": 0.1781,
+            "Side engineering": 0.4311,
+            "Building construction": 0.4839,
+            "Marketing": 0.244,
+            "Leadership": 0.34,
+            "Honesty and integrity": 0.3366,
+            "Geocko animation certificate": 0.9315,
+            "dcvdc": 0.4254,
+            "Drawing": 0.2856,
+            "Weaving": 0.2843,
+            "First Aid": 0.3166,
+            "Volunteer": 0.214,
+            "Strength & Hobbies": 0.2415,
+            "Responsible": 0.3904,
+            "Strong work ethic": 0.3783,
+            "Playing cricket": 0.22,
+            "Listen to song": 0.1882,
+            "civil engineering": 0.3524
+        },
+        "filename": "cv (455)_annotated.json"
+    }
+}

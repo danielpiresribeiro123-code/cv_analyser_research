@@ -1,0 +1,96 @@
+{
+    "skills": [
+        "WORK EXPERIENCE",
+        "Enjoy communicating with",
+        "machine",
+        "Python",
+        "R",
+        "Data Scientist",
+        "Statistics",
+        "Learning tools",
+        "Predictive Analysis",
+        "Focused",
+        "strong analytical skills",
+        "data",
+        "attention to",
+        "detail and accuracy",
+        "collaborative",
+        "ready to seek advice",
+        "PERSONAL",
+        "Data Science",
+        "Data Analysis",
+        "Analytics",
+        "Data Mining",
+        "Deep",
+        "Learning",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Linear",
+        "Regression",
+        "Jupyter",
+        "OpenCV",
+        "OpenCV",
+        "EXTRA-CURRICULARS"
+    ],
+    "professional_info": {
+        "person name": [
+            "TIMOTHY PETERSON"
+        ],
+        "job title": [
+            "SOFTWARE DEVELOPER INTERN",
+            "Software Development Intern",
+            "ACADEMIC PROFILE",
+            "EXECUTIVE"
+        ],
+        "company": [],
+        "university": [
+            "NaxApp",
+            "Amity University"
+        ],
+        "degree": [
+            "B.Tech (Computers)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Noida"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 31,
+        "confidence_scores": {
+            "WORK EXPERIENCE": 0.1508,
+            "Enjoy communicating with": 0.2318,
+            "machine": 0.2083,
+            "Python": 0.9912,
+            "R": 0.8525,
+            "Data Scientist": 0.1515,
+            "Statistics": 0.1988,
+            "Learning tools": 0.1603,
+            "Predictive Analysis": 0.483,
+            "Focused": 0.4492,
+            "strong analytical skills": 0.3293,
+            "data": 0.1898,
+            "attention to": 0.1779,
+            "detail and accuracy": 0.3157,
+            "collaborative": 0.5664,
+            "ready to seek advice": 0.5362,
+            "PERSONAL": 0.5174,
+            "Data Science": 0.4308,
+            "Data Analysis": 0.4236,
+            "Analytics": 0.3943,
+            "Data Mining": 0.6289,
+            "Deep": 0.4838,
+            "Learning": 0.3589,
+            "Machine Learning": 0.6156,
+            "Artificial Intelligence": 0.5757,
+            "Linear": 0.4947,
+            "Regression": 0.5003,
+            "Jupyter": 0.3513,
+            "OpenCV": 0.476,
+            "EXTRA-CURRICULARS": 0.1616
+        },
+        "filename": "cv (4835)_annotated.json"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "Prepayments and Accruals",
+        "Profit & Loss",
+        "Balance Sheet and Cash flow",
+        "Pay Roll",
+        "Inventory Control",
+        "Branches Accounting",
+        "PERSONAL SKILLS",
+        "Tenacious work ethic",
+        "Ability to meet deadlines",
+        "Keen to learn",
+        "Positive attitude",
+        "PIPELINE COURSES",
+        "Executive Programme",
+        "PERSONAL SUMMARY",
+        "adaptable",
+        "resourceful",
+        "enthusiastic",
+        "General",
+        "Accounts",
+        "strong",
+        "communicator",
+        "excellent inter-personal skills",
+        "knowledge of Accounts",
+        "Management of Accounts Receivable and Payable",
+        "Interest Calculation",
+        "RG-23C Part I & II"
+    ],
+    "professional_info": {
+        "person name": [
+            "Lalit Sharma"
+        ],
+        "job title": [
+            "Company Secretary",
+            "Sr. Account & Finance Executive",
+            "Sr. Accounts & Finance Executive",
+            "Sr. Account and Finance Executive"
+        ],
+        "company": [
+            "Manufacturing Company",
+            "company",
+            "PCL Group of Companies"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "8+ Years Approx"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Prepayments and Accruals": 0.1744,
+            "Profit & Loss": 0.1752,
+            "Balance Sheet and Cash flow": 0.1719,
+            "Pay Roll": 0.2181,
+            "Inventory Control": 0.2175,
+            "Branches Accounting": 0.3491,
+            "PERSONAL SKILLS": 0.4069,
+            "Tenacious work ethic": 0.4787,
+            "Ability to meet deadlines": 0.508,
+            "Keen to learn": 0.548,
+            "Positive attitude": 0.5602,
+            "PIPELINE COURSES": 0.1933,
+            "Executive Programme": 0.271,
+            "PERSONAL SUMMARY": 0.2763,
+            "adaptable": 0.3625,
+            "resourceful": 0.188,
+            "enthusiastic": 0.1713,
+            "General": 0.2105,
+            "Accounts": 0.1622,
+            "strong": 0.2816,
+            "communicator": 0.5793,
+            "excellent inter-personal skills": 0.4963,
+            "knowledge of Accounts": 0.1529,
+            "Management of Accounts Receivable and Payable": 0.364,
+            "Interest Calculation": 0.2392,
+            "RG-23C Part I & II": 0.1696
+        },
+        "filename": "cv (757)_annotated.json"
+    }
+}

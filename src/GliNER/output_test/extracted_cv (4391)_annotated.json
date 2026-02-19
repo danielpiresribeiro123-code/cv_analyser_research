@@ -1,0 +1,53 @@
+{
+    "skills": [
+        "manufacturing",
+        "reliability engineering",
+        "alternative advertising methods",
+        "technical basis",
+        "bearing ultrasound program",
+        "flow meter failure analysis",
+        "gearbox failure analysis"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "BAKERY ENTREPRENEUR",
+            "Summary",
+            "Project Engineer",
+            "Reliability Engineer Intern"
+        ],
+        "company": [
+            "Company Name",
+            "Nuclear Fuel Services",
+            "B&W",
+            "Isotek",
+            "AutoCAD",
+            "DuPont Chambers Works",
+            "SAP",
+            "DuPont Titanium Technologies",
+            "Renew Paper"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Erwin, TN",
+            "Deepwater"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "manufacturing": 0.2275,
+            "reliability engineering": 0.654,
+            "alternative advertising methods": 0.1507,
+            "technical basis": 0.167,
+            "bearing ultrasound program": 0.3216,
+            "flow meter failure analysis": 0.1978,
+            "gearbox failure analysis": 0.2762
+        },
+        "filename": "cv (4391)_annotated.json"
+    }
+}

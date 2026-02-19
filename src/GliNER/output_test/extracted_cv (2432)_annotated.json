@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "Professional Experience"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Mechanical Supervisor",
+            "ORYX CLIENT Representative"
+        ],
+        "company": [
+            "P.CHINNA DURAI",
+            "DOTESri Nallalaghu Polytechnic College",
+            "Qatar Petroleum",
+            "Qatar Shell",
+            "Chennai Petroleum Corporation Limited",
+            "QATAR ENGINEERING & CONSTRUCTION COMPANY WLL"
+        ],
+        "university": [
+            "Dr. M.G.R."
+        ],
+        "degree": [
+            "D.M.E (MECH)",
+            "B.TECH."
+        ],
+        "years of experience": [],
+        "address": [
+            "S.S. Nagar",
+            "Subramani St",
+            "K.K. Thazhai",
+            "M.M.C.POST",
+            "Madhavaram",
+            "Chennai – 600051"
+        ],
+        "email": [
+            "Email",
+            "durai.super@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9790808867",
+            "+91-9884357762",
+            "Qatar Mobile",
+            "+974-70185872"
+        ]
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "Professional Experience": 0.1602
+        },
+        "filename": "cv (2432)_annotated.json"
+    }
+}

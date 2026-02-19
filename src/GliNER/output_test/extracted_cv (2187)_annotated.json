@@ -1,0 +1,98 @@
+{
+    "skills": [
+        "Diploma in Electronics",
+        "TECHNICAL SKILLS",
+        "Embedded Systems",
+        "Report writing",
+        "English Proficiency",
+        "Microsoft Office",
+        "STRENGTHS",
+        "Quick learner",
+        "Good Analytical skills",
+        "Logical skills",
+        "Initiator",
+        "passionate about working",
+        "Communication Skills",
+        "Hardworking",
+        "Hobbies",
+        "Playing computer games",
+        "INTERESTS",
+        "Digital photography",
+        "Organic gardening",
+        "Watching movies",
+        "Travelling",
+        "module",
+        "Arduino Uno",
+        "Arduino",
+        "Embedded Systems and Robotics",
+        "PHP Technology"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sameer Masroor"
+        ],
+        "job title": [
+            "working professional",
+            "10th",
+            "Trainee"
+        ],
+        "company": [
+            "Teerthankar Mahaveer University",
+            "CBSE  board",
+            "Bharat Heavy Electrical Limited",
+            "Ei Systems",
+            "All India Radio",
+            "National Skill Development Corporation",
+            "Nation power",
+            "Training Institute",
+            "APTRON"
+        ],
+        "university": [
+            "AKTU"
+        ],
+        "degree": [
+            "Bachelor of Technology in Electrical and Electronic s"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "masroorsameer@gmail.com"
+        ],
+        "phone": [
+            "Smart phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Diploma in Electronics": 0.4312,
+            "TECHNICAL SKILLS": 0.3099,
+            "Embedded Systems": 0.3062,
+            "Report writing": 0.4596,
+            "English Proficiency": 0.226,
+            "Microsoft Office": 0.6582,
+            "STRENGTHS": 0.3554,
+            "Quick learner": 0.4309,
+            "Good Analytical skills": 0.4756,
+            "Logical skills": 0.6736,
+            "Initiator": 0.3589,
+            "passionate about working": 0.1545,
+            "Communication Skills": 0.2137,
+            "Hardworking": 0.4032,
+            "Hobbies": 0.1613,
+            "Playing computer games": 0.166,
+            "INTERESTS": 0.1819,
+            "Digital photography": 0.3348,
+            "Organic gardening": 0.2297,
+            "Watching movies": 0.1553,
+            "Travelling": 0.1502,
+            "module": 0.249,
+            "Arduino Uno": 0.3228,
+            "Arduino": 0.2666,
+            "Embedded Systems and Robotics": 0.2517,
+            "PHP Technology": 0.3274
+        },
+        "filename": "cv (2187)_annotated.json"
+    }
+}

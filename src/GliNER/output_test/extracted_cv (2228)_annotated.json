@@ -1,0 +1,100 @@
+{
+    "skills": [
+        "SOFTWARE     SKILLS",
+        "MS OFFICE",
+        "MARITAL STATUS",
+        "English",
+        "Hindi",
+        "technical skills",
+        "work experience",
+        "Facility  Management  experience",
+        "Electrical /HVAC",
+        "Security System",
+        "FAS",
+        "Control circuits",
+        "advanced Electrical systems",
+        "RMU",
+        "SEPAM relay feeder protections",
+        "Good understanding of Electrical drawings",
+        "Operation and maintenance low voltage and ELV network",
+        "Timers Photo electric controls",
+        "lighting controls",
+        "PROFESSIONAL EXPERIENCE",
+        "Control panels",
+        "Field Instruments"
+    ],
+    "professional_info": {
+        "person name": [
+            "Md Athar Imam",
+            "Indian",
+            "Single"
+        ],
+        "job title": [
+            "NATIONALITY",
+            "Electrician NCVT",
+            "PROFESSIONAL SNAPSHOT",
+            "Multi Skilled Technician"
+        ],
+        "company": [
+            "2011-2013Industrial Training Institute",
+            "2011SSLC",
+            "I Con Pvt Ltd",
+            "COGNIZENT"
+        ],
+        "university": [
+            "Punjab Technical University"
+        ],
+        "degree": [
+            "Electrical Engineering Diploma",
+            "Electrical and Electronics engineering Diploma"
+        ],
+        "years of experience": [
+            "creative"
+        ],
+        "address": [
+            "ADDRESS",
+            "H-335",
+            "2nd Floor RHS",
+            "Near Mustafa Masjid",
+            "Jaitpur Part – 2",
+            "Badarpur",
+            "New delhi"
+        ],
+        "email": [
+            "E-MAIL",
+            "imamathar99@gmail.com"
+        ],
+        "phone": [
+            "+91 9899489628",
+            "+91 7289809362"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "SOFTWARE     SKILLS": 0.2307,
+            "MS OFFICE": 0.9045,
+            "MARITAL STATUS": 0.2765,
+            "English": 0.6711,
+            "Hindi": 0.8174,
+            "technical skills": 0.4504,
+            "work experience": 0.2287,
+            "Facility  Management  experience": 0.1681,
+            "Electrical /HVAC": 0.3566,
+            "Security System": 0.4398,
+            "FAS": 0.4069,
+            "Control circuits": 0.3044,
+            "advanced Electrical systems": 0.2239,
+            "RMU": 0.336,
+            "SEPAM relay feeder protections": 0.3489,
+            "Good understanding of Electrical drawings": 0.2263,
+            "Operation and maintenance low voltage and ELV network": 0.1826,
+            "Timers Photo electric controls": 0.3229,
+            "lighting controls": 0.1776,
+            "PROFESSIONAL EXPERIENCE": 0.1728,
+            "Control panels": 0.1856,
+            "Field Instruments": 0.3576
+        },
+        "filename": "cv (2228)_annotated.json"
+    }
+}

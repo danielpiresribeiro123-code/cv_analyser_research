@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Electrical",
+        "MALE",
+        "S.S.L.C. MARTH’ 95",
+        "DIPLOMA ELECTRICAL &, ELECTRONICS ENGG.",
+        "INDUSTRIAL ELECTRONICS",
+        "AUTO CAD IN RELEASE 14",
+        "KNOWLEDGE IN R.2000",
+        "Electrical Drawing preparation & analysis",
+        "Submersible pumps"
+    ],
+    "professional_info": {
+        "person name": [
+            "V. RAJAMANICKAM",
+            "M. VENKATACHALAPATHY",
+            "INDIAN",
+            "V.RAJAMANICKAM"
+        ],
+        "job title": [
+            "Maintenance Supervisor",
+            "Electrical Maintenance Supervisor"
+        ],
+        "company": [
+            "VRIDDHACHALAM. TK.",
+            "GOVT.HSS.VRIDDHACHALAM",
+            "MUTHAYAMMAL POLYTECHNIC",
+            "Miyoshi Precision Limited.",
+            "MIYOSHI PRECISION LIMITED",
+            "EXON MOBILE",
+            "OIL & GAS"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "WEST STREET",
+            "SRIMUSHNAM – VIA",
+            "RAJENDRAPATTINAM. PT.",
+            "CUDDALORE – DIST- 608703",
+            "PHOTNE NO",
+            "RASIPURAM – TALUK",
+            "NAMAKKAL – DISTELECTIVE",
+            "ENGLISH",
+            "TAMIL"
+        ],
+        "email": [
+            "vrajamanickam79@gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "+65 85897585",
+            "+65 82470695",
+            "+91 9976992205"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Electrical": 0.189,
+            "MALE": 0.2081,
+            "S.S.L.C. MARTH’ 95": 0.6415,
+            "DIPLOMA ELECTRICAL &, ELECTRONICS ENGG.": 0.6187,
+            "INDUSTRIAL ELECTRONICS": 0.5603,
+            "AUTO CAD IN RELEASE 14": 0.4367,
+            "KNOWLEDGE IN R.2000": 0.4363,
+            "Electrical Drawing preparation & analysis": 0.2348,
+            "Submersible pumps": 0.2061
+        },
+        "filename": "cv (3676)_annotated.json"
+    }
+}

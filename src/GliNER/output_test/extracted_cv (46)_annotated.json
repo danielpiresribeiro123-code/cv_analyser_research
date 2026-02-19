@@ -1,0 +1,91 @@
+{
+    "skills": [
+        "Piping Stress Analysis",
+        "good team player",
+        "quick learning capabilities",
+        "positive attitude",
+        "Excellent interpersonal",
+        "verbal and written communication skills",
+        "CAESAR -II",
+        "Nozzle Pro.",
+        "Strong analytical and arithmetical ability",
+        "AUTO -CAD",
+        "Navis  Works",
+        "PV -Elite",
+        "Smart plant Review",
+        "International Piping Codes / Standards",
+        "Preliminary stress analysis",
+        "Critical line list preparation",
+        "P & ID Mark up",
+        "Detailed static calculations",
+        "Flange leakage calculation",
+        "NC method",
+        "Pressure Equivalent method"
+    ],
+    "professional_info": {
+        "person name": [
+            "AMRUTA. R. PATIL",
+            "Indian"
+        ],
+        "job title": [
+            "Design Engineer",
+            "Plant Design &Piping Engg"
+        ],
+        "company": [
+            "Reliance industries ltd."
+        ],
+        "university": [],
+        "degree": [
+            "B.E.",
+            "PGD"
+        ],
+        "years of experience": [
+            "Married",
+            "Total Experience",
+            "-  5.7 years"
+        ],
+        "address": [
+            "Flat no - B/208",
+            "Mansarovar building",
+            "chincholi phatak",
+            "Malad(W)",
+            "Mumbai -400064"
+        ],
+        "email": [
+            "Email",
+            "dhakeamruta@gmail.com"
+        ],
+        "phone": [
+            "Mobile no",
+            "+91 7720081788",
+            "+91 8433707943"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Piping Stress Analysis": 0.792,
+            "good team player": 0.2849,
+            "quick learning capabilities": 0.2848,
+            "positive attitude": 0.446,
+            "Excellent interpersonal": 0.6145,
+            "verbal and written communication skills": 0.2157,
+            "CAESAR -II": 0.3928,
+            "Nozzle Pro.": 0.5594,
+            "Strong analytical and arithmetical ability": 0.3701,
+            "AUTO -CAD": 0.7251,
+            "Navis  Works": 0.6677,
+            "PV -Elite": 0.7279,
+            "Smart plant Review": 0.8238,
+            "International Piping Codes / Standards": 0.7689,
+            "Preliminary stress analysis": 0.2763,
+            "Critical line list preparation": 0.2336,
+            "P & ID Mark up": 0.2764,
+            "Detailed static calculations": 0.1697,
+            "Flange leakage calculation": 0.2053,
+            "NC method": 0.5438,
+            "Pressure Equivalent method": 0.7525
+        },
+        "filename": "cv (46)_annotated.json"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "skills": [
+        "Network Administration",
+        "System administration",
+        "Server Configuration",
+        "IT & Desktop support",
+        "Network Services Support",
+        "Linux",
+        "Server Administration",
+        "Wi-Fi Network Administration",
+        "FTTH Technology",
+        "Network Configuration",
+        "CCTV Operation Control",
+        "Configuration",
+        "proven ability",
+        "IT and Desktop support",
+        "eye for detail",
+        "communicator",
+        "people",
+        "TCP/IP",
+        "DNS",
+        "DHCP",
+        "Layer 2/3 network devices",
+        "Software",
+        "Server",
+        "NAT Server",
+        "Windows OS",
+        "Linux OS",
+        "authorized desktop applications",
+        "terminal",
+        "KEY SKILLS AND COMPETENCIES",
+        "Server Hardware Technology",
+        "UNIX",
+        "WINDOWS",
+        "SQL",
+        "LANs",
+        "WANs"
+    ],
+    "professional_info": {
+        "person name": [
+            "Md. Kamal Hossain"
+        ],
+        "job title": [
+            "WORK EXPERIENCE",
+            "Sub. Asst. Engineer"
+        ],
+        "company": [
+            "VMware",
+            "Citrix",
+            "MikroTik"
+        ],
+        "university": [
+            "Leading University – Bangladesh"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 35,
+        "confidence_scores": {
+            "Network Administration": 0.6641,
+            "System administration": 0.6412,
+            "Server Configuration": 0.6413,
+            "IT & Desktop support": 0.5011,
+            "Network Services Support": 0.377,
+            "Linux": 0.6539,
+            "Server Administration": 0.4189,
+            "Wi-Fi Network Administration": 0.5672,
+            "FTTH Technology": 0.5439,
+            "Network Configuration": 0.5701,
+            "CCTV Operation Control": 0.4147,
+            "Configuration": 0.2147,
+            "proven ability": 0.1521,
+            "IT and Desktop support": 0.2388,
+            "eye for detail": 0.3591,
+            "communicator": 0.2683,
+            "people": 0.1991,
+            "TCP/IP": 0.7049,
+            "DNS": 0.6299,
+            "DHCP": 0.6801,
+            "Layer 2/3 network devices": 0.3145,
+            "Software": 0.1737,
+            "Server": 0.1635,
+            "NAT Server": 0.3135,
+            "Windows OS": 0.9403,
+            "Linux OS": 0.9509,
+            "authorized desktop applications": 0.3814,
+            "terminal": 0.1508,
+            "KEY SKILLS AND COMPETENCIES": 0.3035,
+            "Server Hardware Technology": 0.3958,
+            "UNIX": 0.677,
+            "WINDOWS": 0.6125,
+            "SQL": 0.339,
+            "LANs": 0.2243,
+            "WANs": 0.2652
+        },
+        "filename": "cv (83)_annotated.json"
+    }
+}

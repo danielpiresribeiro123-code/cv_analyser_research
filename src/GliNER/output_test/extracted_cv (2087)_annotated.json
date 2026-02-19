@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Hardworking",
+        "self-motivated",
+        "dependable",
+        "AutoCad Revit",
+        "Microsoft Office",
+        "proficient",
+        "Mechanical engineering",
+        "Matriculation",
+        "EDUCATION CERTIFICATIONSFather",
+        "Hindi",
+        "English",
+        "urdu",
+        "Un-Married"
+    ],
+    "professional_info": {
+        "person name": [
+            "ZAFAR",
+            "IQBAL",
+            "Asad"
+        ],
+        "job title": [
+            "Professional HV AC supervisor",
+            "Hvac Supervisor"
+        ],
+        "company": [
+            "Indiana Contractors",
+            "JNJV High School  - Nawada",
+            "Indian Railway"
+        ],
+        "university": [
+            "Government Polytechnic - Darbhanga"
+        ],
+        "degree": [
+            "Diploma in Engineering"
+        ],
+        "years of experience": [
+            "3 years",
+            "Marital status"
+        ],
+        "address": [
+            "okhla",
+            "New Delhi",
+            "Delhi 110025"
+        ],
+        "email": [
+            "iqbal.asad150@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Hardworking": 0.3937,
+            "self-motivated": 0.3394,
+            "dependable": 0.3619,
+            "AutoCad Revit": 0.5171,
+            "Microsoft Office": 0.5828,
+            "proficient": 0.2893,
+            "Mechanical engineering": 0.3519,
+            "Matriculation": 0.4839,
+            "EDUCATION CERTIFICATIONSFather": 0.2658,
+            "Hindi": 0.8543,
+            "English": 0.8222,
+            "urdu": 0.824,
+            "Un-Married": 0.2548
+        },
+        "filename": "cv (2087)_annotated.json"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "academic",
+        "Intermediate",
+        "Urdu Language",
+        "COMPUTER KNOWLEDGE",
+        "Diploma in Computer Application (D.C.A.)",
+        "Computer Hardwar and Networking",
+        "Diploma in DCP (UPSDM)",
+        "Computer Hardware Assembling",
+        "MARITAL STATUS",
+        "Male",
+        "Indian",
+        "Hindi",
+        "English",
+        "Urdu"
+    ],
+    "professional_info": {
+        "person name": [
+            "OHD.   N  AZAR",
+            "Mr. Late Amiruddin",
+            "GENDER",
+            "MOHD. NAZAR"
+        ],
+        "job title": [
+            "CARRIER",
+            "Cashier/Accountant",
+            "Computer Operator"
+        ],
+        "company": [
+            "National Council of Promotion of Urdu Language Govt. of India",
+            "Elite Computer Centre",
+            "BIIT Computer Centre",
+            "Neeraj Enterprises",
+            "A.M.U. Central Canteen",
+            "Kulsum Traders"
+        ],
+        "university": [
+            "University of Madrasa Education Lucknow",
+            "U.P. Board of Madrasa Education Lucknow",
+            "AMU (Nodal Centre) Aligarh"
+        ],
+        "degree": [
+            "B.A."
+        ],
+        "years of experience": [
+            "interpersonal",
+            "EXPERIENCE",
+            "3 years",
+            "Unmarried"
+        ],
+        "address": [
+            "Aligarh",
+            "Ghaziabad"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "academic": 0.2599,
+            "Intermediate": 0.2884,
+            "Urdu Language": 0.607,
+            "COMPUTER KNOWLEDGE": 0.334,
+            "Diploma in Computer Application (D.C.A.)": 0.1554,
+            "Computer Hardwar and Networking": 0.2866,
+            "Diploma in DCP (UPSDM)": 0.3451,
+            "Computer Hardware Assembling": 0.327,
+            "MARITAL STATUS": 0.1652,
+            "Male": 0.1888,
+            "Indian": 0.1706,
+            "Hindi": 0.7363,
+            "English": 0.4799,
+            "Urdu": 0.7338
+        },
+        "filename": "cv (70)_annotated.json"
+    }
+}

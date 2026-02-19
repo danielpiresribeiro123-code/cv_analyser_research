@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "Mechanical Engineering",
+        "Heavy Engineering",
+        "PRESSURE VESSELS"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAJU KUMAR"
+        ],
+        "job title": [
+            "Production Trainee",
+            "Production and welding supervisor"
+        ],
+        "company": [
+            "C/O-Shankar prasad",
+            "DATT ENGINEERING & FABRICATION",
+            "LARSEN &  TOUBRO LIMITED",
+            "LARSEN & TOUBRO LIMITED",
+            "Lotto chemical",
+            "LLC",
+            "KBR Malesiya",
+            "Rajya Vidyut Utpadan Nifam Limited",
+            "RRVUNL",
+            "Bharat  Heavy, Electrical Limited",
+            "BHEL",
+            "AUTOMOBILE",
+            "Maruti Vichels",
+            "Maruti Suzuki India limited",
+            "JEEWAN motor"
+        ],
+        "university": [
+            "institute of Technology",
+            "Rajiv Gandhi Technical, University",
+            "BSEB  Board  (Patna)"
+        ],
+        "degree": [
+            "B.E",
+            "12th"
+        ],
+        "years of experience": [],
+        "address": [
+            "AT-Laxmipur naya Tola siwan",
+            "HAZIRA"
+        ],
+        "email": [
+            "E-mail",
+            "rajuk638@gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "+917389803352"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "Mechanical Engineering": 0.7618,
+            "Heavy Engineering": 0.1906,
+            "PRESSURE VESSELS": 0.7349
+        },
+        "filename": "cv (3539)_annotated.json"
+    }
+}

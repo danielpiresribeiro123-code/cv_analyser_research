@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "Word processing",
+        "spreadsheets",
+        "databases",
+        "graphic design",
+        "Internet searches",
+        "copy room",
+        "English",
+        "Michigan Terminal System",
+        "MS Word",
+        "MS Excel",
+        "SOCIAL SCIENCES"
+    ],
+    "professional_info": {
+        "person name": [
+            "Loren Shevitz",
+            "IOLANTHE",
+            "RUDDIGORE",
+            "H.M.S.  PINAFORE"
+        ],
+        "job title": [
+            "ADMINISTRATIVE ASSISTANT",
+            "LISTSERVE COORDINATOR",
+            "ASSISTANT MANAGER",
+            "VOLUNTEER",
+            "ENGLISH TUTOR",
+            "RESEARCH ASSISTANT",
+            "psychologist",
+            "CAMP COUNSELOR",
+            "COMPUTER CONSULTANT",
+            "assistant producer"
+        ],
+        "company": [
+            "MAPSS",
+            "Jimmy John’s Gourmet Sub Sandwich Shop",
+            "Project Otzma Israel",
+            "ResComp",
+            "Gilbert & Sullivan Opera Company of Chicago"
+        ],
+        "university": [
+            "University of Chicago",
+            "University of Michigan"
+        ],
+        "degree": [
+            "loren@shevitz.org",
+            "Master of Arts Program in the Social Sciences",
+            "MAPSS",
+            "M.A.",
+            "B.A.",
+            "PSYCHOLOGY"
+        ],
+        "years of experience": [],
+        "address": [
+            "345 W. Fullerton Pkwy.",
+            "#2101",
+            "Chicago, IL",
+            "60614-2853"
+        ],
+        "email": [
+            "e-mail"
+        ],
+        "phone": [
+            "(773) 665-1234e-mail"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Word processing": 0.4389,
+            "spreadsheets": 0.4199,
+            "databases": 0.3595,
+            "graphic design": 0.451,
+            "Internet searches": 0.3615,
+            "copy room": 0.1851,
+            "English": 0.1556,
+            "Michigan Terminal System": 0.2655,
+            "MS Word": 0.5501,
+            "MS Excel": 0.4418,
+            "SOCIAL SCIENCES": 0.2632
+        },
+        "filename": "cv (1189)_annotated.json"
+    }
+}

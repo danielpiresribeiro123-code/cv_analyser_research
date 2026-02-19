@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "Physiotherapy",
+        "Rehabilitation",
+        "Paediatrics",
+        "Orthopaedic",
+        "Spinal Cord Injury",
+        "Burns Departments",
+        "MS Office",
+        "Windows XP. VISTA",
+        "WIN 7",
+        "CAREER",
+        "interpersonal  skills",
+        "functional  knowledge",
+        "analytical",
+        "abilities",
+        "Ability to work as a team member",
+        "Innovative  approach",
+        "logical",
+        "thinking",
+        "Adept  at  working  in  rapidly  changing  environments",
+        "self-motivated",
+        "Intensive Care Unit-ICU",
+        "burns ICU",
+        "surgeryICU",
+        "GICU"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAJESH KUMAR_",
+            "Pandeet Deen Dayal",
+            "TS",
+            "Pt. Deendayalupadhyay"
+        ],
+        "job title": [
+            "SENIOR PHYSIOTHERAPIST-HEALTHCARE INDUSTRY",
+            "Physiotherapist"
+        ],
+        "company": [
+            "KALAVATI (Lady, Harding) HOSPITAL"
+        ],
+        "university": [
+            "University of, Delhi [D.U.]"
+        ],
+        "degree": [
+            "Bachelor in"
+        ],
+        "years of experience": [
+            "6+  year of experience"
+        ],
+        "address": [
+            "South",
+            "Campus"
+        ],
+        "email": [
+            "Email",
+            "razesh2050@gmail.com"
+        ],
+        "phone": [
+            "+91)9990275456"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Physiotherapy": 0.4388,
+            "Rehabilitation": 0.5805,
+            "Paediatrics": 0.5928,
+            "Orthopaedic": 0.5189,
+            "Spinal Cord Injury": 0.5715,
+            "Burns Departments": 0.4456,
+            "MS Office": 0.7807,
+            "Windows XP. VISTA": 0.8136,
+            "WIN 7": 0.669,
+            "CAREER": 0.176,
+            "interpersonal  skills": 0.4342,
+            "functional  knowledge": 0.5316,
+            "analytical": 0.5373,
+            "abilities": 0.1568,
+            "Ability to work as a team member": 0.2334,
+            "Innovative  approach": 0.2441,
+            "logical": 0.3725,
+            "thinking": 0.2468,
+            "Adept  at  working  in  rapidly  changing  environments": 0.2498,
+            "self-motivated": 0.3975,
+            "Intensive Care Unit-ICU": 0.1719,
+            "burns ICU": 0.2224,
+            "surgeryICU": 0.1602,
+            "GICU": 0.3401
+        },
+        "filename": "cv (371)_annotated.json"
+    }
+}

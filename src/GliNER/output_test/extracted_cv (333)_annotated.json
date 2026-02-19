@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "strength",
+        "talented skills",
+        "Computer Hardware & Networking",
+        "Photoshop",
+        "PERSONAL SKILL",
+        "Hardware and Networking",
+        "Security Camera Control",
+        "Fire alarm control",
+        "Dish work",
+        "Xerox  Machine",
+        "Computer Soft skill",
+        "operating system software",
+        "MS Office",
+        "Computer Typing",
+        "Computer Assembling",
+        "Disassembling",
+        "DIPLOMA"
+    ],
+    "professional_info": {
+        "person name": [
+            "SARAVANAN M",
+            "S. Veerasamy Chettiar",
+            "Gomathi Ambal"
+        ],
+        "job title": [
+            "CCTV and Alarm Technician",
+            "System Admin and Overall Technical Control",
+            "TITLE"
+        ],
+        "company": [
+            "H.S.C",
+            "Govt.Hr .Sec.School",
+            "S.S.L.C",
+            "Ambal  Net Cafe",
+            "Centre Tec",
+            "Hospital Maintained",
+            "NASIR M  AL-KHALIWY EST"
+        ],
+        "university": [
+            "Polytechnic College"
+        ],
+        "degree": [
+            "Diploma in ECE"
+        ],
+        "years of experience": [
+            "2012",
+            "EXPERIENCE"
+        ],
+        "address": [
+            "Bharathiyar 3rd street"
+        ],
+        "email": [
+            "Mail Id",
+            "saravanan.m971@gmail.com"
+        ],
+        "phone": [
+            "Telephone",
+            "Tamil",
+            "English"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "strength": 0.166,
+            "talented skills": 0.2041,
+            "Computer Hardware & Networking": 0.3239,
+            "Photoshop": 0.7824,
+            "PERSONAL SKILL": 0.3868,
+            "Hardware and Networking": 0.3025,
+            "Security Camera Control": 0.3057,
+            "Fire alarm control": 0.3937,
+            "Dish work": 0.2532,
+            "Xerox  Machine": 0.2011,
+            "Computer Soft skill": 0.3716,
+            "operating system software": 0.1822,
+            "MS Office": 0.6617,
+            "Computer Typing": 0.2683,
+            "Computer Assembling": 0.2783,
+            "Disassembling": 0.1577,
+            "DIPLOMA": 0.1501
+        },
+        "filename": "cv (333)_annotated.json"
+    }
+}

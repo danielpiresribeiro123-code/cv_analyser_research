@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "Recruitment  and  Resource  Management",
+        "resource management",
+        "employee relationship management",
+        "lateral hiring",
+        "staffing solutions",
+        "software development projects",
+        "practice/accounts",
+        "Excellence award"
+    ],
+    "professional_info": {
+        "person name": [
+            "Anandhi  Sridharan"
+        ],
+        "job title": [
+            "Resource Analyst",
+            "Resource Manager",
+            "Staffing and Operations Manager",
+            "Staffing  Manager",
+            "Learning Specialist",
+            "corporate trainer",
+            "Lecturer"
+        ],
+        "company": [
+            "Kanbay Inc",
+            "Tier1 institutes",
+            "Capgemini (I) Pvt. Ltd",
+            "NIIT(ELS)",
+            "Hindu college",
+            "HL College"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "10 years",
+            "Feb 2013"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Recruitment  and  Resource  Management": 0.4819,
+            "resource management": 0.3951,
+            "employee relationship management": 0.5039,
+            "lateral hiring": 0.1644,
+            "staffing solutions": 0.1578,
+            "software development projects": 0.6098,
+            "practice/accounts": 0.1832,
+            "Excellence award": 0.342
+        },
+        "filename": "cv (1599)_annotated.json"
+    }
+}

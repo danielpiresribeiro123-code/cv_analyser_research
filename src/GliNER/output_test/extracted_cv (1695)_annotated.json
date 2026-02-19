@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "Building construction field",
+        "MS Office",
+        "AutoCAD",
+        "Gender",
+        "English",
+        "Hindi",
+        "Urdu",
+        "Marital status",
+        "Auto-Cad"
+    ],
+    "professional_info": {
+        "person name": [
+            "Zubair Ali"
+        ],
+        "job title": [
+            "QUANTITY SURVEYOR",
+            "Civil Engineer",
+            "Assistant Quantity Surveyor"
+        ],
+        "company": [
+            "Currie & Brown (India) Pvt. Ltd.",
+            "Raj Tech Construction Pvt. Ltd",
+            "Broad Dimension Associates",
+            "IKIA NAVI MUMBAI",
+            "Ramada Hotel"
+        ],
+        "university": [
+            "TMU Moradabad",
+            "IN 2014"
+        ],
+        "degree": [
+            "B.Tech in Civil Engineering"
+        ],
+        "years of experience": [
+            "Experience",
+            "Male",
+            "Unmarried",
+            "KEY EXPERIENCE"
+        ],
+        "address": [
+            "Permanent Address",
+            "S/O Aqeel Ahmad, Chaudhary Sarai Sambhal"
+        ],
+        "email": [
+            "E-mail",
+            "zubairalifine@gmail.com"
+        ],
+        "phone": [
+            "Phone No",
+            "0091-9990522955"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Building construction field": 0.266,
+            "MS Office": 0.7698,
+            "AutoCAD": 0.2934,
+            "Gender": 0.1991,
+            "English": 0.5279,
+            "Hindi": 0.5717,
+            "Urdu": 0.6042,
+            "Marital status": 0.195,
+            "Auto-Cad": 0.2544
+        },
+        "filename": "cv (1695)_annotated.json"
+    }
+}

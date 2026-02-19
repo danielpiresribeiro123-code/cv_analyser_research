@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "Electrical Engineering and Business",
+        "Lean Manufacturing",
+        "Operations Management",
+        "Organizational Processes",
+        "System Optimization and Analysis",
+        "Supply Chain Planning",
+        "System Dynamics",
+        "Manufacturing Processes and Systems",
+        "Power Electronics",
+        "Marketing",
+        "Corporate Strategy",
+        "Human Resource Management"
+    ],
+    "professional_info": {
+        "person name": [
+            "C. Anthony Palumbo"
+        ],
+        "job title": [
+            "Paint Automation Engineer",
+            "Lead Engineer",
+            "Paint Process Engineer"
+        ],
+        "company": [
+            "FORD MOTOR COMPANY",
+            "Ford"
+        ],
+        "university": [
+            "Massachusetts Institute of Technology",
+            "MIT",
+            "Sloan School of Management"
+        ],
+        "degree": [
+            "Science Masters",
+            "MBA"
+        ],
+        "years of experience": [],
+        "address": [
+            "19 Garden St",
+            "Apt 28",
+            "Cambridge, MA",
+            "01238",
+            "Edison, NJ"
+        ],
+        "email": [],
+        "phone": [
+            "617-876-3765"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Electrical Engineering and Business": 0.2824,
+            "Lean Manufacturing": 0.4586,
+            "Operations Management": 0.3984,
+            "Organizational Processes": 0.4259,
+            "System Optimization and Analysis": 0.5175,
+            "Supply Chain Planning": 0.4702,
+            "System Dynamics": 0.5994,
+            "Manufacturing Processes and Systems": 0.5071,
+            "Power Electronics": 0.4944,
+            "Marketing": 0.435,
+            "Corporate Strategy": 0.3517,
+            "Human Resource Management": 0.5156
+        },
+        "filename": "cv (1036)_annotated.json"
+    }
+}

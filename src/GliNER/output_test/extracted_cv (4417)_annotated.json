@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "expertise",
+        "Creative Thinker",
+        "strong background",
+        "Service-oriented leader",
+        "Management",
+        "Operational Leadership",
+        "Critical Thinking and Problem Solving",
+        "Key Account Management",
+        "Project Management",
+        "Social Media Strategy",
+        "Visual Design",
+        "Integrated Public Relations",
+        "Strategic Communications",
+        "Digital Marketing Services",
+        "market and competitor analysis",
+        "Visual Designers"
+    ],
+    "professional_info": {
+        "person name": [
+            "FOUNDER",
+            "Entrepreneur"
+        ],
+        "job title": [
+            "STRATEGIC ACCOUNT DIRECTOR",
+            "Strategic PR & Digital Marketing Professional",
+            "dynamic professional",
+            "Creative Thinker",
+            "Content Writers",
+            "Digital Marketers",
+            "Editor-At-Large"
+        ],
+        "company": [
+            "hyvemyanmar",
+            "Company Name",
+            "City , State , myanmar",
+            "Agency",
+            "City"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "over 10 years of experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "expertise": 0.1579,
+            "Creative Thinker": 0.2207,
+            "strong background": 0.1625,
+            "Service-oriented leader": 0.5979,
+            "Management": 0.1852,
+            "Operational Leadership": 0.2195,
+            "Critical Thinking and Problem Solving": 0.2165,
+            "Key Account Management": 0.1988,
+            "Project Management": 0.1521,
+            "Social Media Strategy": 0.1713,
+            "Visual Design": 0.2043,
+            "Integrated Public Relations": 0.5178,
+            "Strategic Communications": 0.4911,
+            "Digital Marketing Services": 0.4127,
+            "market and competitor analysis": 0.18,
+            "Visual Designers": 0.3804
+        },
+        "filename": "cv (4417)_annotated.json"
+    }
+}

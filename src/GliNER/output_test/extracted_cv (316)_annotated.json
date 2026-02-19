@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "Technical  Qualification",
+        "PG Diploma  Course",
+        "Engineering",
+        "Matriculation Examination",
+        "Software Skill",
+        "Technical  Skills",
+        "ASHRAE codes",
+        "Design of Ventilation Systems",
+        "Codes & Standards",
+        "ASHRAE Standards",
+        "Duct routing layout"
+    ],
+    "professional_info": {
+        "person name": [
+            "K.S.S IRAJUDEEN"
+        ],
+        "job title": [
+            "MEP  SITE ENGINEER",
+            "MEP DESIGNER  ENGINEER",
+            "HVAC TRAINEE ENGINEER"
+        ],
+        "company": [
+            "Shri Vignesh Air -conditioning Engineers",
+            "Art vision decor LLC",
+            "University/ Board",
+            "Tamil Nadu Board of"
+        ],
+        "university": [
+            "Engineering  Nationa l college of",
+            "Anna University"
+        ],
+        "degree": [
+            "Bachelor of"
+        ],
+        "years of experience": [],
+        "address": [
+            "Abu hail"
+        ],
+        "email": [
+            "E-mail",
+            "sirajmech 92@gmail.com",
+            "Skype",
+            "max.si.7"
+        ],
+        "phone": [
+            "Mobile",
+            "+9715 07064929"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Technical  Qualification": 0.1685,
+            "PG Diploma  Course": 0.3412,
+            "Engineering": 0.1635,
+            "Matriculation Examination": 0.4094,
+            "Software Skill": 0.2026,
+            "Technical  Skills": 0.4705,
+            "ASHRAE codes": 0.6263,
+            "Design of Ventilation Systems": 0.263,
+            "Codes & Standards": 0.3579,
+            "ASHRAE Standards": 0.8225,
+            "Duct routing layout": 0.163
+        },
+        "filename": "cv (316)_annotated.json"
+    }
+}

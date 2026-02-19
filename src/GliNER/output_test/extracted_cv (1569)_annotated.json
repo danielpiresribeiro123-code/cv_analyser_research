@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "Electronics",
+        "Mathematics56",
+        "Computer Knowledge",
+        "Basic knowledge",
+        "Internet",
+        "Operating system",
+        "Database management system",
+        "Hobbies",
+        "Listening songs",
+        "Net surfing",
+        "Hindi",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ankita upadhya",
+            "Mr. Ashok Upadhyay",
+            "Mrs. Usha Upadhyay",
+            "Indian",
+            "Ankita Upadhyay"
+        ],
+        "job title": [
+            "Contact No. 9713499185"
+        ],
+        "company": [
+            "Degree Institute"
+        ],
+        "university": [
+            "DAVV Computer",
+            "M.P. Board"
+        ],
+        "degree": [
+            "BSc IT"
+        ],
+        "years of experience": [],
+        "address": [
+            "22/7 B-K",
+            "Sindhi colony",
+            "Permanent Add.          Main Market Bhensoda"
+        ],
+        "email": [
+            "E-mail   upadhyay.ankita2389@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Electronics": 0.2926,
+            "Mathematics56": 0.1765,
+            "Computer Knowledge": 0.3658,
+            "Basic knowledge": 0.5073,
+            "Internet": 0.3174,
+            "Operating system": 0.8469,
+            "Database management system": 0.3782,
+            "Hobbies": 0.1676,
+            "Listening songs": 0.2958,
+            "Net surfing": 0.3268,
+            "Hindi": 0.6602,
+            "English": 0.6744
+        },
+        "filename": "cv (1569)_annotated.json"
+    }
+}

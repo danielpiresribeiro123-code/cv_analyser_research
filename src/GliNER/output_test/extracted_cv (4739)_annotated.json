@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "Brand Management",
+        "Budget Accountability",
+        "Event Management",
+        "Social Media",
+        "Advertising",
+        "Media relations",
+        "Sales promotions",
+        "Project management",
+        "Self-directed",
+        "Digital advertising",
+        "Deadline-driven",
+        "Direct marketing campaigns",
+        "Account management",
+        "Global marketing",
+        "PR",
+        "consumer and industrial brand programs",
+        "sales collateral",
+        "tradeshow marketing"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "COMMUNICATIONS CONSULTANT",
+            "Seasoned",
+            "Marketing Communications ProfessionalÂ",
+            "Marketing Manager",
+            "Enthusiastic team player"
+        ],
+        "company": [
+            "Company Name",
+            "TeflonÂ®",
+            "Textiles",
+            "Housewares",
+            "Licensing",
+            "Industrial Businesses",
+            "DuPont",
+            "Stone, Care",
+            "Lowes",
+            "Floor & DÃ©cor",
+            "StoneTechÂ® Professional",
+            "dealers and distributors"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Brand Management": 0.388,
+            "Budget Accountability": 0.2105,
+            "Event Management": 0.2771,
+            "Social Media": 0.26,
+            "Advertising": 0.2586,
+            "Media relations": 0.4505,
+            "Sales promotions": 0.3446,
+            "Project management": 0.5016,
+            "Self-directed": 0.4097,
+            "Digital advertising": 0.1871,
+            "Deadline-driven": 0.3554,
+            "Direct marketing campaigns": 0.3712,
+            "Account management": 0.5769,
+            "Global marketing": 0.4341,
+            "PR": 0.1606,
+            "consumer and industrial brand programs": 0.2202,
+            "sales collateral": 0.1909,
+            "tradeshow marketing": 0.1575
+        },
+        "filename": "cv (4739)_annotated.json"
+    }
+}

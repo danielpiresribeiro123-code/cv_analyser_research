@@ -1,0 +1,105 @@
+{
+    "skills": [
+        "Information Technology",
+        "Knowledge",
+        "experience",
+        "skills",
+        "Plus two (12th standard)",
+        "Science",
+        "Matriculation (10th standard)",
+        "ScienceCAREER PROFILE",
+        "PHP",
+        "Comprehensive exposure",
+        "Object Oriented Programming",
+        "Proficient",
+        "Self-starter",
+        "positive attitude",
+        "willingness  to  learn new concepts",
+        "acceptance of challenges",
+        ".Net",
+        "Web Technology",
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "Wordpress",
+        "Drupal",
+        "Sql Server",
+        "Mysql",
+        "XP",
+        "WINDOWS7",
+        "WINDOWS VISTA",
+        "Transmission Field",
+        "PDH to IP Radio",
+        "Neo IC"
+    ],
+    "professional_info": {
+        "person name": [
+            "JAMSHED ALI",
+            "Giridih H.S Giridih"
+        ],
+        "job title": [],
+        "company": [
+            "Alcatel-Lucent",
+            "Reliance Comm.",
+            "M.S Techno services Pvt. Ltd"
+        ],
+        "university": [
+            "All Saints  College of Technology",
+            "College of Technology",
+            "R.G.T.U",
+            "B.P.S College Desari Vaisali",
+            "B.I.E.C",
+            "J.S.E.B"
+        ],
+        "degree": [
+            "Bachelor of Engineering"
+        ],
+        "years of experience": [
+            "5.8Years"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "alijamshed786@gmail.com",
+            "+91 7503382404"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 31,
+        "confidence_scores": {
+            "Information Technology": 0.2787,
+            "Knowledge": 0.3222,
+            "experience": 0.1648,
+            "skills": 0.2769,
+            "Plus two (12th standard)": 0.3376,
+            "Science": 0.3321,
+            "Matriculation (10th standard)": 0.379,
+            "ScienceCAREER PROFILE": 0.1529,
+            "PHP": 0.9553,
+            "Comprehensive exposure": 0.1637,
+            "Object Oriented Programming": 0.546,
+            "Proficient": 0.2087,
+            "Self-starter": 0.4805,
+            "positive attitude": 0.3528,
+            "willingness  to  learn new concepts": 0.2084,
+            "acceptance of challenges": 0.1985,
+            ".Net": 0.7811,
+            "Web Technology": 0.3876,
+            "HTML": 0.8123,
+            "JavaScript": 0.8166,
+            "CSS": 0.5433,
+            "Wordpress": 0.3988,
+            "Drupal": 0.4159,
+            "Sql Server": 0.5365,
+            "Mysql": 0.6014,
+            "XP": 0.8507,
+            "WINDOWS7": 0.7801,
+            "WINDOWS VISTA": 0.9263,
+            "Transmission Field": 0.1784,
+            "PDH to IP Radio": 0.151,
+            "Neo IC": 0.179
+        },
+        "filename": "cv (344)_annotated.json"
+    }
+}

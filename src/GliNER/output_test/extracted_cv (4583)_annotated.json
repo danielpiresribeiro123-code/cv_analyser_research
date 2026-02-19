@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "Skills",
+        "portfolio management",
+        "IFC Portfolio Databases",
+        "loan loss reserve forecasting tool",
+        "Microeconomics",
+        "Bulgarian",
+        "Russian",
+        "German",
+        "Finance"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT",
+            "Policy Analyst",
+            "Lecturer"
+        ],
+        "company": [
+            "IFC",
+            "Company Name",
+            "Company",
+            "Berthold, & Stempel",
+            "SEED"
+        ],
+        "university": [
+            "GEORGETOWN UNIVERSITY"
+        ],
+        "degree": [
+            "MBA"
+        ],
+        "years of experience": [
+            "Experience",
+            "fluent"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Skills": 0.1549,
+            "portfolio management": 0.2534,
+            "IFC Portfolio Databases": 0.6154,
+            "loan loss reserve forecasting tool": 0.2108,
+            "Microeconomics": 0.3912,
+            "Bulgarian": 0.571,
+            "Russian": 0.6151,
+            "German": 0.5561,
+            "Finance": 0.24
+        },
+        "filename": "cv (4583)_annotated.json"
+    }
+}

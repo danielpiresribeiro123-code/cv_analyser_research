@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "Microsoft Word",
+        "OneSource",
+        "CorpTax",
+        "Oracle",
+        "PeopleSoft",
+        "CCH",
+        "BNA",
+        "Excel - Pivot Tables",
+        "VLookup",
+        "OneNote"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT",
+            "tax accountant",
+            "Senior Tax Accountant"
+        ],
+        "company": [
+            "international company",
+            "Company Name City",
+            "company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Outlook"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Microsoft Word": 0.5091,
+            "OneSource": 0.2508,
+            "CorpTax": 0.312,
+            "Oracle": 0.2096,
+            "PeopleSoft": 0.2689,
+            "CCH": 0.4923,
+            "BNA": 0.1635,
+            "Excel - Pivot Tables": 0.3236,
+            "VLookup": 0.4482,
+            "OneNote": 0.2142
+        },
+        "filename": "cv (4400)_annotated.json"
+    }
+}

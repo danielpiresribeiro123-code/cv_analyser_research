@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "professional skills",
+        "Mechanical Engineering",
+        "Electric Motor",
+        "Production",
+        "Manufacturing",
+        "Quality",
+        "Packing",
+        "Microsoft Office Assistant",
+        "pleasant personality",
+        "caring and responsible attitude",
+        "Self motivated",
+        "focused and dedicated",
+        "Good Managerial and interpersonal skills",
+        "Good communication Skills",
+        "HOBBIES",
+        "Playing Cricket",
+        "Cooking",
+        "Browsing",
+        "Reading",
+        "EXPERIENCE",
+        "FRESHER",
+        "PERSONAL PROFILE"
+    ],
+    "professional_info": {
+        "person name": [
+            "AADIL IQBAL WANI",
+            "MOHD IQBAL WANI",
+            "MATTAN ANATNAG JAMMU & KASHMIR"
+        ],
+        "job title": [
+            "Mattan Anantnag Jammu & Kashmir 192125"
+        ],
+        "company": [],
+        "university": [
+            "Kurukshetra University Kurukshetra",
+            "JKSBOTE",
+            "10th Jammu & Kashmir Board of School Education"
+        ],
+        "degree": [
+            "B.Tech (Mechanical Engineering )",
+            "JK M.E.D",
+            "B.tech In (Mechanical Engineering)"
+        ],
+        "years of experience": [
+            "experience"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "Waniadil692@gmail.com.com"
+        ],
+        "phone": [
+            "+91 9958065508"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "professional skills": 0.1529,
+            "Mechanical Engineering": 0.5069,
+            "Electric Motor": 0.3267,
+            "Production": 0.4713,
+            "Manufacturing": 0.4875,
+            "Quality": 0.4096,
+            "Packing": 0.291,
+            "Microsoft Office Assistant": 0.543,
+            "pleasant personality": 0.7046,
+            "caring and responsible attitude": 0.5485,
+            "Self motivated": 0.6034,
+            "focused and dedicated": 0.5629,
+            "Good Managerial and interpersonal skills": 0.6724,
+            "Good communication Skills": 0.6403,
+            "HOBBIES": 0.3348,
+            "Playing Cricket": 0.2849,
+            "Cooking": 0.3183,
+            "Browsing": 0.1879,
+            "Reading": 0.2574,
+            "EXPERIENCE": 0.3316,
+            "FRESHER": 0.4997,
+            "PERSONAL PROFILE": 0.206
+        },
+        "filename": "cv (2438)_annotated.json"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "INFORMATION TECHNOLOGY PROJECT MANAGER SYSTEM ANALYSIS (SYSANALSYS)",
+        "GS-2210-12",
+        "planning",
+        "project management",
+        "Infrastructure Technology (IT)",
+        "exceptional knowledge",
+        "basis of estimates",
+        "fiscal analysis",
+        "business proposals",
+        "Active Security Clearance",
+        "Strong in-depth knowledge and understanding of DISA computing service offerings"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Program Manager",
+            "Mission Partner",
+            "strategic planner",
+            "BDM11",
+            "DISA Program Manager",
+            "DISA Subject Matter Expert (SME)",
+            "government Program Lead",
+            "DISA Project Manager"
+        ],
+        "company": [
+            "Current Company Name City"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "INFORMATION TECHNOLOGY PROJECT MANAGER SYSTEM ANALYSIS (SYSANALSYS)": 0.3468,
+            "GS-2210-12": 0.5637,
+            "planning": 0.1661,
+            "project management": 0.3799,
+            "Infrastructure Technology (IT)": 0.3561,
+            "exceptional knowledge": 0.224,
+            "basis of estimates": 0.2743,
+            "fiscal analysis": 0.2401,
+            "business proposals": 0.1516,
+            "Active Security Clearance": 0.8449,
+            "Strong in-depth knowledge and understanding of DISA computing service offerings": 0.2177
+        },
+        "filename": "cv (4381)_annotated.json"
+    }
+}

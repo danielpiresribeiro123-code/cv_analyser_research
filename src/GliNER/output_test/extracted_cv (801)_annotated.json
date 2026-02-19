@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Business Development",
+        "Credit Appraisal",
+        "channel finance",
+        "legal",
+        "SME clients",
+        "Trade Products",
+        "Insurance",
+        "Buyers Credit",
+        "finance",
+        "technical"
+    ],
+    "professional_info": {
+        "person name": [
+            "Karan Pant"
+        ],
+        "job title": [
+            "Manager",
+            "Relationship Officers"
+        ],
+        "company": [
+            "ICFAI",
+            "Financial Organization",
+            "Kotak Mahindra Bank",
+            "IndusInd Bank",
+            "The Karur Vysya Bank",
+            "ONGC Videsh Ltd.",
+            "South Indian Banks Staff Training College"
+        ],
+        "university": [
+            "ICFAI Business School"
+        ],
+        "degree": [
+            "MBA(Finance)",
+            "M.B.A"
+        ],
+        "years of experience": [
+            "+91-8861317220",
+            "4 years of experience",
+            "October 2014-Jan 2016",
+            "April 2013-October 2014",
+            "March 2012-June 2012"
+        ],
+        "address": [
+            "Bangalore",
+            "Hyderabad",
+            "New Delhi"
+        ],
+        "email": [
+            "E-Mail"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Business Development": 0.3072,
+            "Credit Appraisal": 0.1704,
+            "channel finance": 0.1614,
+            "legal": 0.2641,
+            "SME clients": 0.2065,
+            "Trade Products": 0.1541,
+            "Insurance": 0.153,
+            "Buyers Credit": 0.1657,
+            "finance": 0.5469,
+            "technical": 0.2827
+        },
+        "filename": "cv (801)_annotated.json"
+    }
+}

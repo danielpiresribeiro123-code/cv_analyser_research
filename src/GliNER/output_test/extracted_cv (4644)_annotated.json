@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "Security",
+        "Microsoft Certification",
+        "Secret Security",
+        "Clearance",
+        "Excellent communication techniques",
+        "Manufacturing systems integration",
+        "Multidisciplinary exposure",
+        "Design instruction creation",
+        "Project management",
+        "Complex problem solver",
+        "Advanced critical thinking",
+        "SharePoint",
+        "Microsoft Excel",
+        "Project",
+        "Visio",
+        "Achievement Medal",
+        "Certificate of Achievement",
+        "Windows 7",
+        "Good Conduct Medal",
+        "exemplary behavior",
+        "efficiency",
+        "fidelity"
+    ],
+    "professional_info": {
+        "person name": [
+            "President of the United States"
+        ],
+        "job title": [
+            "INFORMATION TECHNOLOGY SUPERVISOR",
+            "Information Technology Specialist",
+            "personnel",
+            "supervisor",
+            "Information Technology Technician"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Yong San",
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Security": 0.5872,
+            "Microsoft Certification": 0.8185,
+            "Secret Security": 0.659,
+            "Clearance": 0.4207,
+            "Excellent communication techniques": 0.4345,
+            "Manufacturing systems integration": 0.4881,
+            "Multidisciplinary exposure": 0.4375,
+            "Design instruction creation": 0.53,
+            "Project management": 0.6919,
+            "Complex problem solver": 0.5505,
+            "Advanced critical thinking": 0.6217,
+            "SharePoint": 0.3475,
+            "Microsoft Excel": 0.2444,
+            "Project": 0.2197,
+            "Visio": 0.2937,
+            "Achievement Medal": 0.1527,
+            "Certificate of Achievement": 0.3078,
+            "Windows 7": 0.6436,
+            "Good Conduct Medal": 0.2463,
+            "exemplary behavior": 0.1823,
+            "efficiency": 0.3512,
+            "fidelity": 0.187
+        },
+        "filename": "cv (4644)_annotated.json"
+    }
+}

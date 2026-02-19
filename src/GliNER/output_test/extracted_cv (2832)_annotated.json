@@ -1,0 +1,101 @@
+{
+    "skills": [
+        "COMPUTER SKILLS",
+        "Archi CAD",
+        "Auto CAD 2D & 3D",
+        "Computer software & hardware service",
+        "Microsoft office",
+        "Adobe illustrator",
+        "CIVIL ENGINEERING EXPERINCE",
+        "Civil engineering skill",
+        "Health and Safety awareness",
+        "Competent in the use of survey equipment",
+        "Areas of expertise",
+        "Site audits",
+        "Civil structural drawing",
+        "Quantity surveying",
+        "Quality control",
+        "Building materials resource efficiency",
+        "PERSONAL SKILLS",
+        "Ability to understand and present others' points of view",
+        "Good communication skills",
+        "Having clarity and sound judgment",
+        "natural drive",
+        "loyal",
+        "work ethic",
+        "Creative and innovative",
+        "good design skills",
+        "Proven motivational and leadership skills",
+        "competent",
+        "Microsoft Office Suite"
+    ],
+    "professional_info": {
+        "person name": [
+            "M.SUGUMAR"
+        ],
+        "job title": [
+            "CIVIL ENGINEER",
+            "executive engineer"
+        ],
+        "company": [
+            "S.S.L.C",
+            "Government higher secondary",
+            "Sadras. kalpakkam",
+            "Bhaktavatsalam polytechnic college",
+            "N.SEKAR CONSTRUCTION"
+        ],
+        "university": [
+            "Asan memorial",
+            "college of engineering and technology"
+        ],
+        "degree": [
+            "BE",
+            "Diploma in civil Engg  (English)",
+            "B.E"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "sugumar2002@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+917871303106"
+        ]
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "COMPUTER SKILLS": 0.4534,
+            "Archi CAD": 0.493,
+            "Auto CAD 2D & 3D": 0.5087,
+            "Computer software & hardware service": 0.2311,
+            "Microsoft office": 0.723,
+            "Adobe illustrator": 0.4841,
+            "CIVIL ENGINEERING EXPERINCE": 0.2822,
+            "Civil engineering skill": 0.4756,
+            "Health and Safety awareness": 0.1835,
+            "Competent in the use of survey equipment": 0.2647,
+            "Areas of expertise": 0.1965,
+            "Site audits": 0.1576,
+            "Civil structural drawing": 0.3,
+            "Quantity surveying": 0.1973,
+            "Quality control": 0.1623,
+            "Building materials resource efficiency": 0.1937,
+            "PERSONAL SKILLS": 0.3206,
+            "Ability to understand and present others' points of view": 0.1905,
+            "Good communication skills": 0.4129,
+            "Having clarity and sound judgment": 0.1932,
+            "natural drive": 0.2886,
+            "loyal": 0.2835,
+            "work ethic": 0.2042,
+            "Creative and innovative": 0.2644,
+            "good design skills": 0.3541,
+            "Proven motivational and leadership skills": 0.4563,
+            "competent": 0.1768,
+            "Microsoft Office Suite": 0.8348
+        },
+        "filename": "cv (2832)_annotated.json"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "ACADEMIC QUALIFICATION",
+        "TECHNICAL QUALIFICATION",
+        "maintenance",
+        "4-Wheeler Department",
+        "CNC MACHINE SHOP",
+        "Pneumatic system & Hydraulic systems",
+        "Knowledge of Turret & Spindle orientation",
+        "Maintenance Engineering",
+        "Manufacturing Technology",
+        "Automotive engineering",
+        "Safety skills",
+        "Maruti Operating Standard",
+        "MOS"
+    ],
+    "professional_info": {
+        "person name": [
+            "ARUN SHARMA"
+        ],
+        "job title": [
+            "ITI fitter",
+            "Designation",
+            "Engineer"
+        ],
+        "company": [
+            "Honda Cars India Ltd.",
+            "Shri Ram Piston & Rings Pvt.Ltd.",
+            "MARUTI SUZUKI INDIA Ltd",
+            "IMT Manesar",
+            "VHICLE & BIKE Manufacturing",
+            "HOWA",
+            "AMS",
+            "NTC KENNAMETAL",
+            "Poka-Yoke",
+            "3M",
+            "3K & 5S"
+        ],
+        "university": [
+            "UP Board",
+            "government college sahakari nagar"
+        ],
+        "degree": [
+            "HIGH SCHOOL"
+        ],
+        "years of experience": [
+            "WORK EXPERIENCE",
+            "8 Months Experience"
+        ],
+        "address": [
+            "VEERKHERA",
+            "CHANDERU",
+            "Bulandshahr",
+            "Greater, Noida",
+            "Ghaziabad",
+            "Gurgaon"
+        ],
+        "email": [
+            "Email",
+            "arunsharmaaa8@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "ACADEMIC QUALIFICATION": 0.2084,
+            "TECHNICAL QUALIFICATION": 0.3384,
+            "maintenance": 0.3368,
+            "4-Wheeler Department": 0.2341,
+            "CNC MACHINE SHOP": 0.3622,
+            "Pneumatic system & Hydraulic systems": 0.1721,
+            "Knowledge of Turret & Spindle orientation": 0.2496,
+            "Maintenance Engineering": 0.4824,
+            "Manufacturing Technology": 0.3723,
+            "Automotive engineering": 0.5934,
+            "Safety skills": 0.2581,
+            "Maruti Operating Standard": 0.5521,
+            "MOS": 0.1691
+        },
+        "filename": "cv (637)_annotated.json"
+    }
+}

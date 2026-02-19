@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "Auto cad",
+        "3ds max",
+        "KEY STRENGTH",
+        "civil design",
+        "TECHNICAL QUALIFICATION",
+        "3Ds.  Max",
+        "Auto cad  Solution Center",
+        "Planning with Key"
+    ],
+    "professional_info": {
+        "person name": [
+            "SANDEEP  KUMAR"
+        ],
+        "job title": [
+            "expert professional",
+            "interior designer",
+            "Interior     Designer",
+            "Operator"
+        ],
+        "company": [
+            "New Golden Furnishers Co.",
+            "Institutional  furniture",
+            "Creative Interiors Pvt. Ltd",
+            "S. K. Sharma & Associate",
+            "Picasso",
+            "Animation Collage   South Ex",
+            "Very Lighting & Texturing"
+        ],
+        "university": [
+            "B.A J. P University Chapra Panding"
+        ],
+        "degree": [
+            "D.C.A.",
+            "Diploma in computer Application",
+            "Examination Board / University Passing YearDivision",
+            "Metric U. P Board 20082nd",
+            "Inter B.I.E.B Patna 20102nd"
+        ],
+        "years of experience": [],
+        "address": [
+            "52-A",
+            "Rani  Jhansi Road",
+            "C-84 Sector – 9 Noida"
+        ],
+        "email": [
+            "+918527292782",
+            "sandeepkushwaha553@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Auto cad": 0.3782,
+            "3ds max": 0.4987,
+            "KEY STRENGTH": 0.2628,
+            "civil design": 0.2085,
+            "TECHNICAL QUALIFICATION": 0.1777,
+            "3Ds.  Max": 0.292,
+            "Auto cad  Solution Center": 0.3444,
+            "Planning with Key": 0.1677
+        },
+        "filename": "cv (1988)_annotated.json"
+    }
+}

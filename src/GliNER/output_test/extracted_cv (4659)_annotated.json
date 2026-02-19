@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "communication skills",
+        "self-esteem",
+        "sound work ethics",
+        "cultural sensitivity/diversity",
+        "flexibility",
+        "creativity",
+        "lesson planning",
+        "classroom management",
+        "superb leadership and communication skills",
+        "supportive",
+        "stimulating",
+        "Critical thinker",
+        "IEPs",
+        "Learning assessments",
+        "Flexible and adaptive",
+        "Calm under pressure",
+        "Mississippi Teaching Certificate",
+        "Elementary Education endorsement",
+        "Standardized testing techniques",
+        "personal responsibility",
+        "whole group instruction"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "TEACHER",
+            "elementary-school teacher",
+            "teacherÂ",
+            "teachers",
+            "Dedicated and student-focused teaching professional",
+            "Dedicated educator"
+        ],
+        "company": [
+            "Current Company Name"
+        ],
+        "university": [],
+        "degree": [
+            "Title I"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "communication skills": 0.2004,
+            "self-esteem": 0.2606,
+            "sound work ethics": 0.2383,
+            "cultural sensitivity/diversity": 0.3612,
+            "flexibility": 0.4602,
+            "creativity": 0.4306,
+            "lesson planning": 0.2123,
+            "classroom management": 0.4782,
+            "superb leadership and communication skills": 0.3476,
+            "supportive": 0.2085,
+            "stimulating": 0.2094,
+            "Critical thinker": 0.4198,
+            "IEPs": 0.3491,
+            "Learning assessments": 0.2698,
+            "Flexible and adaptive": 0.4351,
+            "Calm under pressure": 0.3156,
+            "Mississippi Teaching Certificate": 0.6861,
+            "Elementary Education endorsement": 0.1785,
+            "Standardized testing techniques": 0.623,
+            "personal responsibility": 0.2279,
+            "whole group instruction": 0.1603
+        },
+        "filename": "cv (4659)_annotated.json"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "creativity",
+        "analytical skills",
+        "Electrical Substations Commissioning",
+        "High  Voltage  Low  Voltage  and  Medium  Voltage sector",
+        "Solar Power & Power Quality Management"
+    ],
+    "professional_info": {
+        "person name": [
+            "Amitesh Kumar"
+        ],
+        "job title": [
+            "career conscious person",
+            "result Oriented Professional",
+            "Sr.  Site Engineer Electrical"
+        ],
+        "company": [
+            "result oriented company",
+            "Azure Power",
+            "Renew Power",
+            "B.D.B.L",
+            "L.E.P.L",
+            "Solar Direct",
+            "Schneider  Electric  India  Pvt  Ltd.",
+            "Schneider Electric India Pvt. Ltd.",
+            "Azure Power Pvt  Ltd"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "6+ years of Experience"
+        ],
+        "address": [],
+        "email": [
+            "E-mail",
+            "amitesh8989@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+917352379189"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "creativity": 0.2673,
+            "analytical skills": 0.4283,
+            "Electrical Substations Commissioning": 0.3089,
+            "High  Voltage  Low  Voltage  and  Medium  Voltage sector": 0.2098,
+            "Solar Power & Power Quality Management": 0.2716
+        },
+        "filename": "cv (1822)_annotated.json"
+    }
+}

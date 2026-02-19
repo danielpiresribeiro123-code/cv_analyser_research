@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "Executive Profile",
+        "data preprocessing",
+        "data cleaning",
+        "Machine Learning",
+        "Models",
+        "Data Analysis",
+        "Python",
+        "Projects",
+        "Time-series Forecasting",
+        "Tableau",
+        "PowerBI",
+        "R",
+        "Statistical Analysis",
+        "L1 L2 Regression",
+        "data"
+    ],
+    "professional_info": {
+        "person name": [
+            "Christian Von",
+            "Kelin"
+        ],
+        "job title": [
+            "JUNIOR ANALYST",
+            "Data Analyst Intern",
+            "data analyst"
+        ],
+        "company": [],
+        "university": [
+            "AMN College of Engineering"
+        ],
+        "degree": [
+            "B.Tech"
+        ],
+        "years of experience": [],
+        "address": [
+            "Hosiyarpur"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Executive Profile": 0.1608,
+            "data preprocessing": 0.4451,
+            "data cleaning": 0.3038,
+            "Machine Learning": 0.9201,
+            "Models": 0.8138,
+            "Data Analysis": 0.553,
+            "Python": 0.9765,
+            "Projects": 0.2314,
+            "Time-series Forecasting": 0.4071,
+            "Tableau": 0.2737,
+            "PowerBI": 0.5426,
+            "R": 0.912,
+            "Statistical Analysis": 0.5915,
+            "L1 L2 Regression": 0.7219,
+            "data": 0.1656
+        },
+        "filename": "cv (4955)_annotated.json"
+    }
+}

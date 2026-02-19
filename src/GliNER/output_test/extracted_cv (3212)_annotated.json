@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "skills",
+        "abilities",
+        "knowledge",
+        "technical knowledge",
+        "willingness to learn",
+        "hard work",
+        "creativity",
+        "ACADEMIA",
+        "Mechanical Engineering",
+        "XII",
+        "Production system",
+        "knowledge",
+        "interpersonal",
+        "Sketch Making",
+        "AREA OF INTEREST",
+        "Refrigeration and Air -Conditioning",
+        "Good communication skill",
+        "English",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAIF ALI RIZVI",
+            "Mr. Firoz Hussain Rizvi",
+            "Indian"
+        ],
+        "job title": [
+            "Trainee",
+            "Co-ordinator"
+        ],
+        "company": [
+            "growing company",
+            "CBSE Board",
+            "Coca -Cola",
+            "Brindavan Beverages Pvt  L td"
+        ],
+        "university": [
+            "Shri Siddhi Vinayak Institut e of Technology",
+            "CBSE Board",
+            "Shri Siddhi Vinayak  Institute o f Technology"
+        ],
+        "degree": [
+            "B.Tech",
+            "Honours"
+        ],
+        "years of experience": [],
+        "address": [
+            "ALI COLONY",
+            "QUILA",
+            "243001",
+            "Persakheda"
+        ],
+        "email": [
+            "E-mail",
+            "rizvisaif11@gmail.co m"
+        ],
+        "phone": [
+            "Mobile No .",
+            "+91-8923755569",
+            "+91-9528649942"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "skills": 0.2797,
+            "abilities": 0.161,
+            "knowledge": 0.2097,
+            "technical knowledge": 0.4628,
+            "willingness to learn": 0.3731,
+            "hard work": 0.4174,
+            "creativity": 0.4524,
+            "ACADEMIA": 0.1649,
+            "Mechanical Engineering": 0.7704,
+            "XII": 0.3234,
+            "Production system": 0.3847,
+            "interpersonal": 0.2339,
+            "Sketch Making": 0.21,
+            "AREA OF INTEREST": 0.1923,
+            "Refrigeration and Air -Conditioning": 0.2969,
+            "Good communication skill": 0.1678,
+            "English": 0.4878,
+            "Hindi": 0.5539
+        },
+        "filename": "cv (3212)_annotated.json"
+    }
+}

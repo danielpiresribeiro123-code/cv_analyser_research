@@ -1,0 +1,124 @@
+{
+    "skills": [
+        "Technical management",
+        "HT/LT Distribution systems",
+        "UPS",
+        "CBS",
+        "VFD",
+        "DG set",
+        "Air-Conditioning Equipments",
+        "AHU",
+        "FCU",
+        "Package A/c",
+        "VRV",
+        "Mechanical",
+        "Potable Water Pumps",
+        "Air compressor",
+        "Safety & Security systems",
+        "Electrical",
+        "Transformer",
+        "MV panel",
+        "SMDB",
+        "DB",
+        "LDB",
+        "Thermic Fluid Boiler",
+        "pulveriser",
+        "Cooling Tower",
+        "international standards",
+        "ISO 9001:2008",
+        "KEY SKILLS",
+        "Client Relationship Management",
+        "Vendor management",
+        "MS office",
+        "CAFM",
+        "Team management",
+        "HVAC",
+        "Plumbing",
+        "Building Management System",
+        "Safety",
+        "Productivity",
+        "Quality",
+        "Delivery"
+    ],
+    "professional_info": {
+        "person name": [
+            "Saravanan Shanmugam"
+        ],
+        "job title": [
+            "Facility Maintenance Engineer",
+            "Engineer-Electrical Maintenance"
+        ],
+        "company": [
+            "Friction material and Phenolic Resin manufacturing company",
+            "building contractor",
+            "EMCO-QATAR",
+            "Client",
+            "Qatar Foundation"
+        ],
+        "university": [
+            "colleges",
+            "universities"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Kamatchiamman Kovil Street",
+            "Chockalingapuram",
+            "Aruppukottai",
+            "Tamil nadu"
+        ],
+        "email": [
+            "E-Mail",
+            "ssaravananapk@yahoo.com"
+        ],
+        "phone": [
+            "+91-8825632624",
+            "7708019295"
+        ]
+    },
+    "metadata": {
+        "total_skills": 39,
+        "confidence_scores": {
+            "Technical management": 0.2865,
+            "HT/LT Distribution systems": 0.2115,
+            "UPS": 0.3393,
+            "CBS": 0.2726,
+            "VFD": 0.2916,
+            "DG set": 0.3668,
+            "Air-Conditioning Equipments": 0.1675,
+            "AHU": 0.249,
+            "FCU": 0.3381,
+            "Package A/c": 0.285,
+            "VRV": 0.2125,
+            "Mechanical": 0.1533,
+            "Potable Water Pumps": 0.2588,
+            "Air compressor": 0.244,
+            "Safety & Security systems": 0.2096,
+            "Electrical": 0.3897,
+            "Transformer": 0.2537,
+            "MV panel": 0.2913,
+            "SMDB": 0.2681,
+            "DB": 0.3171,
+            "LDB": 0.2953,
+            "Thermic Fluid Boiler": 0.2175,
+            "pulveriser": 0.2461,
+            "Cooling Tower": 0.3229,
+            "international standards": 0.3186,
+            "ISO 9001:2008": 0.8222,
+            "KEY SKILLS": 0.1686,
+            "Client Relationship Management": 0.2578,
+            "Vendor management": 0.1654,
+            "MS office": 0.4369,
+            "CAFM": 0.3282,
+            "Team management": 0.206,
+            "HVAC": 0.2428,
+            "Plumbing": 0.22,
+            "Building Management System": 0.2308,
+            "Safety": 0.2805,
+            "Productivity": 0.1722,
+            "Quality": 0.2105,
+            "Delivery": 0.1661
+        },
+        "filename": "cv (2642)_annotated.json"
+    }
+}

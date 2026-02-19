@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "technical excellence",
+        "innovative solutions",
+        "Project Planning",
+        "Building Construction",
+        "Windows XP",
+        "7 & 8",
+        "Microsoft Office",
+        "Designing Software",
+        "AutoCad",
+        "Stadd  Pro V8i"
+    ],
+    "professional_info": {
+        "person name": [
+            "MD AMANULLAH"
+        ],
+        "job title": [
+            "Asst.Civil Engineer",
+            "Civil Trainee engineer",
+            "Civil engineer",
+            "Asst. Civil Engineer",
+            "civil site engineer",
+            "project stations manager"
+        ],
+        "company": [
+            "B.S.E.B Patna.",
+            "BIHAR",
+            "B.S.E.B. Patna",
+            "Al Bawani Co Riyadh",
+            "Contractor Of C&C constructions Pvt.Ltd.",
+            "Rajasthan housing board jaipur India",
+            "ITD-ITD CEMENTATION LIMITED",
+            "Albawani.Co Riyadh.",
+            "TBC School Project Riyadh"
+        ],
+        "university": [
+            "Rajasthan Technical University Kota"
+        ],
+        "degree": [
+            "Bachelor of technology in Civil Engineering",
+            "Honours Degree"
+        ],
+        "years of experience": [
+            "71.53",
+            "Approx 2 Years India +2.2 Years"
+        ],
+        "address": [],
+        "email": [
+            "m.amaanullah@albawani.net",
+            "mdamanullah786eng@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "technical excellence": 0.3131,
+            "innovative solutions": 0.1753,
+            "Project Planning": 0.2074,
+            "Building Construction": 0.2366,
+            "Windows XP": 0.9446,
+            "7 & 8": 0.2571,
+            "Microsoft Office": 0.6356,
+            "Designing Software": 0.1895,
+            "AutoCad": 0.2304,
+            "Stadd  Pro V8i": 0.4232
+        },
+        "filename": "cv (2313)_annotated.json"
+    }
+}

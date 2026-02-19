@@ -1,0 +1,39 @@
+{
+    "skills": [],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "MECHANICAL ENGINEER",
+            "Mechanical Engineer/ Section Head",
+            "lead man",
+            "sewage treatment plant operator",
+            "diesel generator set operator",
+            "merchant ship electrician",
+            "assistant electrician/wiper",
+            "textile weaving supervisor",
+            "chief Engineer"
+        ],
+        "company": [
+            "merchant ship"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "5 years and 9 months experience",
+            "10 years experience",
+            "7 years experience",
+            "2 years experience",
+            "1.5 years experience",
+            "2 years 9 months experience",
+            "1 year experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 0,
+        "confidence_scores": {},
+        "filename": "cv (4782)_annotated.json"
+    }
+}

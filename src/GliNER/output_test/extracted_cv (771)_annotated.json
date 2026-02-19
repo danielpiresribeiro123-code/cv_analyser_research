@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "EDITORIAL",
+        "7 x 7",
+        "Style Source",
+        "ADVERTISING"
+    ],
+    "professional_info": {
+        "person name": [
+            "Steve Elias",
+            "Anne Heche",
+            "Demi Moore",
+            "Hilary Swank",
+            "James Kyson",
+            "Joanne Kelly",
+            "Kristin Cavallari",
+            "Petra Nemcova",
+            "Salli Richardson"
+        ],
+        "job title": [
+            "Hairstylist"
+        ],
+        "company": [
+            "cloutierremix.com",
+            "cloutier remix .com",
+            "CELEBRITIES",
+            "American Salon Beauty Launchpad",
+            "Blue Choas Dimension",
+            "Fantastics Fashion Hot Magazine",
+            "M by Maly’s Men’s",
+            "Vogue",
+            "Modern Salon",
+            "Pref Magazine",
+            "Prim Magazine",
+            "Tantalum",
+            "Vogue Sposa",
+            "Wing",
+            "Forever 21",
+            "Nivea Rocket Dog"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "EDITORIAL": 0.2182,
+            "7 x 7": 0.1719,
+            "Style Source": 0.1913,
+            "ADVERTISING": 0.3297
+        },
+        "filename": "cv (771)_annotated.json"
+    }
+}

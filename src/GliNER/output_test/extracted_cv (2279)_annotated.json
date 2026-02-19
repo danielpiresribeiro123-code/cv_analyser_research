@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "Intermediate",
+        "Three year Diploma in Civil engineering",
+        "Basic computer knowledge",
+        "PROFESSIONAL SKILLS",
+        "Interpersonal Skill",
+        "Flexibility",
+        "Ability to handle frequent changes",
+        "Personal Skills",
+        "Unmarried",
+        "Positive attitude",
+        "Sincerity",
+        "Hindi",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ankit Saini",
+            "Mr. Jagdish Kumar Saini"
+        ],
+        "job title": [
+            "Site Engineer",
+            "CARRER OBJECTIVE",
+            "J.E.",
+            "Junior Engineer",
+            "Junior",
+            "Engineer",
+            "Eng Civil"
+        ],
+        "company": [
+            "U.P. Board",
+            "High School",
+            "PWD Department",
+            "Ajnara India Ltd.",
+            "Vansh Infrasolution Pvt.Ltd.",
+            "Indian railway",
+            "Five Roses",
+            "Nagarjuna  Construction  Company  Lmt.",
+            "nagarjune construction company lmt."
+        ],
+        "university": [
+            "U.P. Board",
+            "UPBTE"
+        ],
+        "degree": [],
+        "years of experience": [
+            "WORK EXPERIENCE"
+        ],
+        "address": [
+            "728/6 Neta Ji Nagar",
+            "Pin 208013",
+            "M- 8052885544"
+        ],
+        "email": [
+            "E-mail",
+            "gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Intermediate": 0.5139,
+            "Three year Diploma in Civil engineering": 0.5164,
+            "Basic computer knowledge": 0.4162,
+            "PROFESSIONAL SKILLS": 0.1789,
+            "Interpersonal Skill": 0.4159,
+            "Flexibility": 0.2961,
+            "Ability to handle frequent changes": 0.2197,
+            "Personal Skills": 0.2447,
+            "Unmarried": 0.3105,
+            "Positive attitude": 0.305,
+            "Sincerity": 0.1999,
+            "Hindi": 0.5204,
+            "English": 0.5245
+        },
+        "filename": "cv (2279)_annotated.json"
+    }
+}

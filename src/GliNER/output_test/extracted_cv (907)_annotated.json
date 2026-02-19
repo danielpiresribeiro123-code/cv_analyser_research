@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "Bello Magazine",
+        "Good Housekeeping",
+        "Hollywood Reporter",
+        "Ladies Home Journal",
+        "Cinema Verite"
+    ],
+    "professional_info": {
+        "person name": [
+            "Jill Crosby",
+            "Alan Cummings",
+            "Ms. McCarthy",
+            "Ms . McCarthy",
+            "Todd Phillips",
+            "Shari Springer Berman",
+            "Robert Pulcini",
+            "Julian Farino",
+            "J.J. Abrams",
+            "Kevin MacDonald",
+            "Stacey Title Ed",
+            "Bill Couturie",
+            "Brian Levant",
+            "Hugh Wilson",
+            "John Carpenter"
+        ],
+        "job title": [
+            "Department Head"
+        ],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Bello Magazine": 0.2341,
+            "Good Housekeeping": 0.1877,
+            "Hollywood Reporter": 0.3151,
+            "Ladies Home Journal": 0.223,
+            "Cinema Verite": 0.2385
+        },
+        "filename": "cv (907)_annotated.json"
+    }
+}

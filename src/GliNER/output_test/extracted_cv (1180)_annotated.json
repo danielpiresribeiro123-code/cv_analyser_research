@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "Finance",
+        "Economics",
+        "Intermediate Finance",
+        "Capital Structure and Budgeting",
+        "Principles of Investment",
+        "Investment Analysis and Portfolio Management",
+        "Investment Analysis and Portfolio Management",
+        "Financial Modeling",
+        "Capital Structure and Budgeting",
+        "Diploma in Higher Secondary  School Certificate"
+    ],
+    "professional_info": {
+        "person name": [
+            "Moham med Murtadha",
+            "Mohsin Al -Lawati",
+            "Dr. Hatem Bakhit Al -Shanfari"
+        ],
+        "job title": [
+            "Assistant Professor",
+            "PROFESSIONAL EXPERIENCE",
+            "Accounting Intern"
+        ],
+        "company": [
+            "Al Omaniya Financial Services",
+            "SAOG"
+        ],
+        "university": [
+            "College of Economics and Political Science",
+            "Sultan Qaboos University",
+            "Al-Khodh",
+            "ACWA Power Barka",
+            "SOAG",
+            "Australian National University",
+            "ANU",
+            "University  in Melbourne",
+            "Qurum Private School"
+        ],
+        "degree": [
+            "BSc in Finance"
+        ],
+        "years of experience": [],
+        "address": [
+            "P.O. BOX 379 Ruwi",
+            "Postal Code 112",
+            "Ruwi"
+        ],
+        "email": [
+            "E-mail",
+            "mohdmm5050@gmail.com",
+            "hatem@squ.edu.om"
+        ],
+        "phone": [
+            "GSM",
+            "+968 -96491931",
+            "Tel",
+            "+968 -24142935"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Finance": 0.598,
+            "Economics": 0.8157,
+            "Intermediate Finance": 0.7822,
+            "Capital Structure and Budgeting": 0.27,
+            "Principles of Investment": 0.3706,
+            "Investment Analysis and Portfolio Management": 0.2482,
+            "Financial Modeling": 0.2614,
+            "Diploma in Higher Secondary  School Certificate": 0.4592
+        },
+        "filename": "cv (1180)_annotated.json"
+    }
+}

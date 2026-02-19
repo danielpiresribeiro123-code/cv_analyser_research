@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "New Delhi",
+        "CAREER OBJECTIVE",
+        "Work Experience",
+        "SKILLS",
+        "MS-Office Word",
+        "Excel",
+        "Power point",
+        "Web Technologies",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Jquery",
+        "Ajax",
+        "Window XP",
+        "Windows 7",
+        "Window 8",
+        "STRENGTHS",
+        "Punctual and confident",
+        "Sincere",
+        "Responsible & dedicated",
+        "Having ability to work under pressures",
+        "HOBBIE",
+        "Internet Surfing",
+        "Sex",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "JITENDRA KUMAR YADAV",
+            "ØIndian"
+        ],
+        "job title": [
+            "Computer Operator"
+        ],
+        "company": [
+            "Encoder Pvt Ltd.",
+            "Eminenture Pvt Ltd.",
+            "NIHFW Pvt. Ltd."
+        ],
+        "university": [
+            "BSEB Board",
+            "BSTM"
+        ],
+        "degree": [
+            "BCA"
+        ],
+        "years of experience": [],
+        "address": [
+            "Mohan garden",
+            "Uttam Nagar"
+        ],
+        "email": [
+            "Email",
+            "yadavjitendra967@gmail.com"
+        ],
+        "phone": [
+            "+91-9088479742",
+            "-110059"
+        ]
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "New Delhi": 0.1951,
+            "CAREER OBJECTIVE": 0.1923,
+            "Work Experience": 0.152,
+            "SKILLS": 0.2073,
+            "MS-Office Word": 0.4182,
+            "Excel": 0.452,
+            "Power point": 0.4587,
+            "Web Technologies": 0.4969,
+            "HTML": 0.7533,
+            "CSS": 0.8194,
+            "JavaScript": 0.8656,
+            "Jquery": 0.618,
+            "Ajax": 0.8584,
+            "Window XP": 0.9621,
+            "Windows 7": 0.8902,
+            "Window 8": 0.911,
+            "STRENGTHS": 0.4339,
+            "Punctual and confident": 0.3567,
+            "Sincere": 0.3517,
+            "Responsible & dedicated": 0.1961,
+            "Having ability to work under pressures": 0.3476,
+            "HOBBIE": 0.3004,
+            "Internet Surfing": 0.1909,
+            "Sex": 0.1642,
+            "Hindi": 0.713
+        },
+        "filename": "cv (81)_annotated.json"
+    }
+}

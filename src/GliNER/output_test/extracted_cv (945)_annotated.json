@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "skills",
+        "Electrical",
+        "Engineering",
+        "automation tools",
+        "Arduino",
+        "Electrical and Electronics",
+        "686667",
+        "Won Rashtrapathi Puraskar",
+        "INTERPERSONAL SKILL",
+        "Honesty and perseverance",
+        "Ability to build relationships",
+        "English",
+        "Malayalam",
+        "Single"
+    ],
+    "professional_info": {
+        "person name": [
+            "EMY ELIAS",
+            "Elias Kuruvilla"
+        ],
+        "job title": [],
+        "company": [
+            "Spyrosys",
+            "Robotic Cable Inspection System",
+            "Cochin Port Trust"
+        ],
+        "university": [
+            "UniversityYearC.G.P.A",
+            "Viswajyothi College of",
+            "VazhakulamM G University",
+            "12thS.N.D.P. Higher"
+        ],
+        "degree": [
+            "B.Tech",
+            "Anchelpetty P.O",
+            "Anchelpetty"
+        ],
+        "years of experience": [],
+        "address": [
+            "MuvattupuzhaSTATE 201287%",
+            "PampakudaSTATE 201095",
+            "Communication Address",
+            "Puthuseriyill House",
+            "Indian"
+        ],
+        "email": [
+            "+919526559785",
+            "E-mail",
+            "emyelias99@gmail.com"
+        ],
+        "phone": [
+            "Contact No."
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "skills": 0.2115,
+            "Electrical": 0.2022,
+            "Engineering": 0.3822,
+            "automation tools": 0.2957,
+            "Arduino": 0.334,
+            "Electrical and Electronics": 0.2451,
+            "686667": 0.2374,
+            "Won Rashtrapathi Puraskar": 0.8381,
+            "INTERPERSONAL SKILL": 0.443,
+            "Honesty and perseverance": 0.2747,
+            "Ability to build relationships": 0.3987,
+            "English": 0.5454,
+            "Malayalam": 0.8085,
+            "Single": 0.1557
+        },
+        "filename": "cv (945)_annotated.json"
+    }
+}

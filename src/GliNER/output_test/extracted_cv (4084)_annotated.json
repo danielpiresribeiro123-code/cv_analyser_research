@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "Electrical & Electronics",
+        "Degree",
+        "TECHNICAL SKILLS",
+        "Planning of Projects",
+        "theoretical  knowledge",
+        "Microsoft Office",
+        "Data Management",
+        "Project Cost Estimation",
+        "Electrical Engineering"
+    ],
+    "professional_info": {
+        "person name": [
+            "Souradeep Chandrasekharan"
+        ],
+        "job title": [
+            "Project Engineer",
+            "Project Manager"
+        ],
+        "company": [
+            "SkillTech Engineers and Contractors Pvt. Ltd.",
+            "Chamundeshwari Electricity Supply Corporation"
+        ],
+        "university": [],
+        "degree": [
+            "B.E.",
+            "First Class"
+        ],
+        "years of experience": [
+            "2 years and 7 months",
+            "2 Years 7 months"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "souradeepc92@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-8951669190/7204456493"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Electrical & Electronics": 0.5497,
+            "Degree": 0.2828,
+            "TECHNICAL SKILLS": 0.4331,
+            "Planning of Projects": 0.1696,
+            "theoretical  knowledge": 0.1595,
+            "Microsoft Office": 0.7779,
+            "Data Management": 0.3116,
+            "Project Cost Estimation": 0.1502,
+            "Electrical Engineering": 0.4138
+        },
+        "filename": "cv (4084)_annotated.json"
+    }
+}

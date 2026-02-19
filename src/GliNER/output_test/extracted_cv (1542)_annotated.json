@@ -1,0 +1,102 @@
+{
+    "skills": [
+        "Win2003/XP",
+        "Windows7",
+        "Windows8",
+        "Windows10",
+        "WindowsServer2003",
+        "2008",
+        "C",
+        "C++",
+        "java",
+        "Asp.net",
+        "Dreamweaver",
+        "DataBase",
+        "MSSqlServer2005",
+        "MarkupScripting/DesignHtml",
+        "Photoshop",
+        "CorelDraw",
+        "MicrosoftAccess",
+        "Excel",
+        "Word",
+        "CoreTechnicalSkills",
+        "VLAN",
+        "ActiveDirectoryServices",
+        "GroupPolicyManagementConsole",
+        "HyperV",
+        "Webdesigning",
+        "Windows8andWindows",
+        "Server",
+        "2008Serveroperating",
+        "TroubleshootingExaminationServer"
+    ],
+    "professional_info": {
+        "person name": [
+            "KarthikMahalingam",
+            "karthikmagalingam"
+        ],
+        "job title": [
+            "CustomerSupportEngineer",
+            "OperationExecutive",
+            "AsstSystemManager"
+        ],
+        "company": [
+            "OrgateSoftware-Coimbatore",
+            "GeniusConsultantsPvt.Ltd-Chennai",
+            "CoreintegraConsultantsPvt.Ltd-Mumbai",
+            "SameVendorsbutDifferentConsultancy",
+            "PristUniversity-Thanjavur"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Web"
+        ],
+        "email": [
+            "Email",
+            "gmail.com",
+            "www.orgatesoftware.com",
+            "Outlook"
+        ],
+        "phone": [
+            "Mobile",
+            "+919500475127"
+        ]
+    },
+    "metadata": {
+        "total_skills": 29,
+        "confidence_scores": {
+            "Win2003/XP": 0.6329,
+            "Windows7": 0.9281,
+            "Windows8": 0.8921,
+            "Windows10": 0.797,
+            "WindowsServer2003": 0.8539,
+            "2008": 0.3683,
+            "C": 0.737,
+            "C++": 0.6672,
+            "java": 0.6919,
+            "Asp.net": 0.5497,
+            "Dreamweaver": 0.6587,
+            "DataBase": 0.2072,
+            "MSSqlServer2005": 0.1624,
+            "MarkupScripting/DesignHtml": 0.4267,
+            "Photoshop": 0.5881,
+            "CorelDraw": 0.3697,
+            "MicrosoftAccess": 0.2707,
+            "Excel": 0.2469,
+            "Word": 0.3527,
+            "CoreTechnicalSkills": 0.3251,
+            "VLAN": 0.4163,
+            "ActiveDirectoryServices": 0.3695,
+            "GroupPolicyManagementConsole": 0.3364,
+            "HyperV": 0.3971,
+            "Webdesigning": 0.5722,
+            "Windows8andWindows": 0.821,
+            "Server": 0.1637,
+            "2008Serveroperating": 0.1894,
+            "TroubleshootingExaminationServer": 0.1888
+        },
+        "filename": "cv (1542)_annotated.json"
+    }
+}

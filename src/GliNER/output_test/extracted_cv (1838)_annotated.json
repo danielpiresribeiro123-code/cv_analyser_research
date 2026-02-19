@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "Industrial Automation and Control systems",
+        "maintenance of manufacturing machines",
+        "calibration",
+        "project management",
+        "technical support",
+        "automation software design and development",
+        "proficiency",
+        "creative s olutions and architecture",
+        "problem  resolution and management",
+        "plant standards and expectations"
+    ],
+    "professional_info": {
+        "person name": [
+            "PRAVEEN"
+        ],
+        "job title": [
+            "INSTRUMENTATION  ENGINEER",
+            "instrumentation engineer",
+            "Maintenance  Engineer  (E&M)",
+            "maintenance  team",
+            "Maintenance Technician",
+            "Instrumentation  Engineer  (Maintenance )"
+        ],
+        "company": [
+            "VOLGA Tech",
+            "RNZ INTERNATIONAL  FZE"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "6+ Years"
+        ],
+        "address": [
+            "Dubai"
+        ],
+        "email": [
+            "Email"
+        ],
+        "phone": [
+            "Mob",
+            "+91 8072360822"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Industrial Automation and Control systems": 0.4236,
+            "maintenance of manufacturing machines": 0.2974,
+            "calibration": 0.2616,
+            "project management": 0.3038,
+            "technical support": 0.1735,
+            "automation software design and development": 0.3685,
+            "proficiency": 0.2001,
+            "creative s olutions and architecture": 0.1779,
+            "problem  resolution and management": 0.1544,
+            "plant standards and expectations": 0.3661
+        },
+        "filename": "cv (1838)_annotated.json"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "Electrical Department",
+        "Simple Home",
+        "CCTV Camera",
+        "DVR",
+        "HVR System",
+        "Connectors  Cable",
+        "Power supply",
+        "Detector Alarm System",
+        "Earthling Works",
+        "Heating Appliances",
+        "Desert Cooler",
+        "Washing Machine",
+        "Telecome",
+        "DTH",
+        "Charger",
+        "Torch",
+        "Emergency Light",
+        "PCB Board",
+        "Single Phase & Three Phase",
+        "SAFETY IS MY LIFE",
+        "HONESTY IS THE BEST POLACY IS MY LIFE",
+        "POSITIVE THINKING",
+        "Key Technical skills",
+        "Strong interpersonal skills",
+        "SKILL Training",
+        "Basic wiring and accessory connecting"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Electrician Domestic Trainer",
+            "demonstrator",
+            "computer Operator"
+        ],
+        "company": [
+            "NMS enterprises Ltd.",
+            "Ramgarh shekhawati",
+            "GOVINDAM POLYTECHNIC COLLEGE",
+            "The Palriwala Vocational Training & Research",
+            "Institute LaxmangrahSikar(Raj)",
+            "NCVT Jodhpur"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Sikar",
+            "JAIPUR"
+        ],
+        "email": [
+            "rakeshkumawat63@gmail.com"
+        ],
+        "phone": [
+            "+91-, 9875035582",
+            "Mobile phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Electrical Department": 0.2725,
+            "Simple Home": 0.1764,
+            "CCTV Camera": 0.2096,
+            "DVR": 0.1536,
+            "HVR System": 0.1666,
+            "Connectors  Cable": 0.2074,
+            "Power supply": 0.2281,
+            "Detector Alarm System": 0.2666,
+            "Earthling Works": 0.2198,
+            "Heating Appliances": 0.2423,
+            "Desert Cooler": 0.195,
+            "Washing Machine": 0.1668,
+            "Telecome": 0.1681,
+            "DTH": 0.2283,
+            "Charger": 0.1552,
+            "Torch": 0.1849,
+            "Emergency Light": 0.1507,
+            "PCB Board": 0.1726,
+            "Single Phase & Three Phase": 0.1587,
+            "SAFETY IS MY LIFE": 0.2797,
+            "HONESTY IS THE BEST POLACY IS MY LIFE": 0.1883,
+            "POSITIVE THINKING": 0.3165,
+            "Key Technical skills": 0.3052,
+            "Strong interpersonal skills": 0.5936,
+            "SKILL Training": 0.1789,
+            "Basic wiring and accessory connecting": 0.2052
+        },
+        "filename": "cv (2323)_annotated.json"
+    }
+}

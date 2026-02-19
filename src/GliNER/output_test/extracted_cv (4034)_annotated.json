@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "technical skills",
+        "experience",
+        "TECHNICAL QUALIFICATION",
+        "ITI form",
+        "PROFESSIONAL KNOWLEDGE",
+        "Good knowledge of electrical drawing",
+        "Daily working progress",
+        "Fire Alarm Maintenance",
+        "voice evacuation",
+        "construction standard",
+        "Urdu",
+        "Hindi",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "ABDUL NASAR SIDDIQUI",
+            "Abdul Sayeed Siddiqui"
+        ],
+        "job title": [
+            "ELECTRICIAN Technician",
+            "ELECTRICIAN"
+        ],
+        "company": [
+            "NCVT Rachi",
+            "NATIONAL  CONTRACTIONS  CO.",
+            "ELECTRICIAN POINTS",
+            "China state Construction Engineering Co.L.L.C"
+        ],
+        "university": [],
+        "degree": [
+            "10th Class pass out (U.P) board 2006"
+        ],
+        "years of experience": [],
+        "address": [
+            "Jamshedpur",
+            "Dubai",
+            "Islam"
+        ],
+        "email": [
+            "Email",
+            "an07860786@gmail.com"
+        ],
+        "phone": [
+            "+971- 56 6243092",
+            "+91-7238032157"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "technical skills": 0.4291,
+            "experience": 0.1953,
+            "TECHNICAL QUALIFICATION": 0.3375,
+            "ITI form": 0.3052,
+            "PROFESSIONAL KNOWLEDGE": 0.2599,
+            "Good knowledge of electrical drawing": 0.388,
+            "Daily working progress": 0.1616,
+            "Fire Alarm Maintenance": 0.203,
+            "voice evacuation": 0.1876,
+            "construction standard": 0.6612,
+            "Urdu": 0.7236,
+            "Hindi": 0.5748,
+            "English": 0.5373
+        },
+        "filename": "cv (4034)_annotated.json"
+    }
+}

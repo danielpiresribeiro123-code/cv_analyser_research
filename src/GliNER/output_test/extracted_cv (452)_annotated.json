@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "HVAC design and project",
+        "HVAC design & project",
+        "Extensive knowledge and experience",
+        "HVAC systems design",
+        "efficient",
+        "productive person",
+        "expertise",
+        "theoretical knowledge",
+        "Good communication skills",
+        "splendid knowledge",
+        "Carrier E -20",
+        "ASHRAE/ISHRAE handbook & software",
+        "axial flow fans",
+        "duct in line fans"
+    ],
+    "professional_info": {
+        "person name": [
+            "SYED",
+            "SYED ABUTHAHEER"
+        ],
+        "job title": [
+            "B.E - Mechanical Engineer",
+            "B.E- MECHANICAL ENGINEER",
+            "Mechanica l Engineer"
+        ],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "2 years of experience",
+            "dy namic",
+            "Self-motivated"
+        ],
+        "address": [],
+        "email": [
+            "syedbe1994@gmailcom"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "HVAC design and project": 0.189,
+            "HVAC design & project": 0.2037,
+            "Extensive knowledge and experience": 0.2057,
+            "HVAC systems design": 0.1595,
+            "efficient": 0.2537,
+            "productive person": 0.194,
+            "expertise": 0.3971,
+            "theoretical knowledge": 0.432,
+            "Good communication skills": 0.3294,
+            "splendid knowledge": 0.3248,
+            "Carrier E -20": 0.6445,
+            "ASHRAE/ISHRAE handbook & software": 0.4109,
+            "axial flow fans": 0.1614,
+            "duct in line fans": 0.1986
+        },
+        "filename": "cv (452)_annotated.json"
+    }
+}

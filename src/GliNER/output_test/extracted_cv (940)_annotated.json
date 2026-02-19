@@ -1,0 +1,101 @@
+{
+    "skills": [
+        "creativity",
+        "ability",
+        "Social Networking",
+        "Ability to work in a team structure",
+        "Time management skill",
+        "ACHIEVEMENT",
+        "SSLC examination",
+        "HSS examination",
+        "EDUCATION B TECH BEGREE",
+        "asp.net",
+        "mysql",
+        "COMMUNICATI",
+        "ONEnglish",
+        "Malayalam",
+        "Tamil",
+        "PROFICIENCY",
+        "Basics in C",
+        "CPP",
+        "html",
+        "Adobe Photoshop 7.0",
+        "Adobe Photoshop",
+        "Elements 10",
+        "CORAL VIDEO STUDIO",
+        "MS OFFICE",
+        "Word",
+        "Excel",
+        "Power Point",
+        "Windows 98",
+        "XP",
+        "Vista",
+        "7",
+        "8"
+    ],
+    "professional_info": {
+        "person name": [
+            "ebindominic47",
+            "EBIN DOMINIC"
+        ],
+        "job title": [
+            "OBJECTIVEAnxious",
+            "leader"
+        ],
+        "company": [
+            "HIGHER SECONDARY KERALA STATE BOARD"
+        ],
+        "university": [
+            "COLLEGE OF ENGINEERING MUNNAR",
+            "ST.JOSEPH’S HSS"
+        ],
+        "degree": [
+            "Computer Science",
+            "SSLC KERALA STATE BOARD"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": [
+            "+91 8281376685"
+        ]
+    },
+    "metadata": {
+        "total_skills": 32,
+        "confidence_scores": {
+            "creativity": 0.2937,
+            "ability": 0.1884,
+            "Social Networking": 0.5125,
+            "Ability to work in a team structure": 0.1931,
+            "Time management skill": 0.3917,
+            "ACHIEVEMENT": 0.1556,
+            "SSLC examination": 0.6424,
+            "HSS examination": 0.3775,
+            "EDUCATION B TECH BEGREE": 0.3754,
+            "asp.net": 0.3965,
+            "mysql": 0.282,
+            "COMMUNICATI": 0.1788,
+            "ONEnglish": 0.2353,
+            "Malayalam": 0.704,
+            "Tamil": 0.5506,
+            "PROFICIENCY": 0.2609,
+            "Basics in C": 0.2631,
+            "CPP": 0.4292,
+            "html": 0.3878,
+            "Adobe Photoshop 7.0": 0.3689,
+            "Adobe Photoshop": 0.3972,
+            "Elements 10": 0.4222,
+            "CORAL VIDEO STUDIO": 0.3836,
+            "MS OFFICE": 0.7655,
+            "Word": 0.1839,
+            "Excel": 0.1899,
+            "Power Point": 0.2579,
+            "Windows 98": 0.9574,
+            "XP": 0.8969,
+            "Vista": 0.8916,
+            "7": 0.6947,
+            "8": 0.5225
+        },
+        "filename": "cv (940)_annotated.json"
+    }
+}

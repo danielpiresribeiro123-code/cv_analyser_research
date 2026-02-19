@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "skills",
+        "Mechanical  engineering",
+        "Production & Operation",
+        "HSC-12th",
+        "Production  & Operation",
+        "Man power handling & Work Distribution",
+        "Six Sigma",
+        "ERP -LX",
+        "Proficiency",
+        "MS OFFICE",
+        "Word",
+        "Excel",
+        "PowerPoint"
+    ],
+    "professional_info": {
+        "person name": [
+            "KETANKUMAR . H. GANDHI"
+        ],
+        "job title": [
+            "Trainee",
+            "Production Engineer",
+            "PROJECT Engineer"
+        ],
+        "company": [
+            "ITT Corporation India Pvt Ltd",
+            "API Pumps maker",
+            "Schneider Electric  infrastructure Ltd.",
+            "Jarod",
+            "Sigma  Institute of Engineering & Technology",
+            "Fertilizer Nagar School",
+            "Gujarat H igher Secondary Education Board",
+            "Gujarat Secondary Education Board",
+            "GUJRAT STATE OF FERTILIZERS &  CHEMICALS LTD.",
+            "GSFC"
+        ],
+        "university": [
+            "Gujarat Technological University"
+        ],
+        "degree": [
+            "B. E.",
+            "Mechanical  Engineer",
+            "B.E. - REGULAR ( Mechanical )",
+            "SSC- 10th"
+        ],
+        "years of experience": [],
+        "address": [
+            "41/B Someshwar Nagar society",
+            "Internet"
+        ],
+        "email": [
+            "E-Mail",
+            "ketangandhi2664@gmail.com"
+        ],
+        "phone": [
+            "Contact No .",
+            "+91 8511170912 (M)        New Sama Road",
+            "Vadodara -390024"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "skills": 0.2556,
+            "Mechanical  engineering": 0.238,
+            "Production & Operation": 0.5978,
+            "HSC-12th": 0.3346,
+            "Production  & Operation": 0.6172,
+            "Man power handling & Work Distribution": 0.2151,
+            "Six Sigma": 0.3674,
+            "ERP -LX": 0.4179,
+            "Proficiency": 0.1724,
+            "MS OFFICE": 0.7243,
+            "Word": 0.35,
+            "Excel": 0.3201,
+            "PowerPoint": 0.3146
+        },
+        "filename": "cv (1647)_annotated.json"
+    }
+}

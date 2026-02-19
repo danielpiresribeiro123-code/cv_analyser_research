@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "TECHNICAL",
+        "ELECTRICAL ENGINEERING",
+        "DGPA",
+        "SGPA",
+        "YGPA",
+        "Non -Technical",
+        "PERSONAL SKILLS",
+        "Comprehensive problem solving abilities",
+        "Ability to deal with people diplomatically",
+        "Willingness to learn",
+        "hard working",
+        "SUBJECTS OF INTEREST",
+        "POWER SYSTEM",
+        "ELECTRICAL MACHINE",
+        "COMPUTER SKILLS",
+        "XP",
+        "windows7",
+        "windows8",
+        "Plc. Scada",
+        "MS Word",
+        "Power point",
+        "Excel",
+        "Elementary  Knowledge",
+        "MATLAB"
+    ],
+    "professional_info": {
+        "person name": [
+            "UMA SHANKAR SHARMA",
+            "CARRIE R OBJECTIVE"
+        ],
+        "job title": [],
+        "company": [
+            "And  Management",
+            "Advance plc.",
+            "INDO DANISH TOOL ROOM Gamharia"
+        ],
+        "university": [
+            "STREAM   COLLEGE    UNIVERSITY",
+            "Kanad Institute Of Engineering",
+            "West Bengal University of",
+            "SECONDARY   M B D COLLEGE RAMPURA"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Jamshedpur -832108"
+        ],
+        "email": [
+            "EMAIL ID",
+            "ussharma192@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "TECHNICAL": 0.4412,
+            "ELECTRICAL ENGINEERING": 0.6259,
+            "DGPA": 0.2524,
+            "SGPA": 0.2883,
+            "YGPA": 0.1848,
+            "Non -Technical": 0.3635,
+            "PERSONAL SKILLS": 0.283,
+            "Comprehensive problem solving abilities": 0.4019,
+            "Ability to deal with people diplomatically": 0.4039,
+            "Willingness to learn": 0.2594,
+            "hard working": 0.1662,
+            "SUBJECTS OF INTEREST": 0.1873,
+            "POWER SYSTEM": 0.1856,
+            "ELECTRICAL MACHINE": 0.2446,
+            "COMPUTER SKILLS": 0.2835,
+            "XP": 0.8919,
+            "windows7": 0.8706,
+            "windows8": 0.8485,
+            "Plc. Scada": 0.5505,
+            "MS Word": 0.5242,
+            "Power point": 0.3769,
+            "Excel": 0.3158,
+            "Elementary  Knowledge": 0.3392,
+            "MATLAB": 0.547
+        },
+        "filename": "cv (3345)_annotated.json"
+    }
+}

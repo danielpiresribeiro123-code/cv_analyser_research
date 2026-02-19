@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "machine learning",
+        "Data Mining",
+        "Data Visualization",
+        "Text Analytics",
+        "Data Collection",
+        "Data Cleaning",
+        "Business Analysis",
+        "Python",
+        "SQL",
+        "Google Bigquery",
+        "Tableau",
+        "Kibana",
+        "MS Excel/ MS Office",
+        "Linux",
+        "Elastic Search"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Blockchain Analyst",
+            "DATA ANALYST"
+        ],
+        "company": [
+            "Polymon"
+        ],
+        "university": [
+            "SP Jain University"
+        ],
+        "degree": [
+            "BCA"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "machine learning": 0.9131,
+            "Data Mining": 0.593,
+            "Data Visualization": 0.487,
+            "Text Analytics": 0.3222,
+            "Data Collection": 0.5167,
+            "Data Cleaning": 0.386,
+            "Business Analysis": 0.2778,
+            "Python": 0.6237,
+            "SQL": 0.3801,
+            "Google Bigquery": 0.3292,
+            "Tableau": 0.3023,
+            "Kibana": 0.5433,
+            "MS Excel/ MS Office": 0.6528,
+            "Linux": 0.9341,
+            "Elastic Search": 0.557
+        },
+        "filename": "cv (5014)_annotated.json"
+    }
+}

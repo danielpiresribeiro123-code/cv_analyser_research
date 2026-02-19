@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "DelhiSarvodaya Co-ed Sr, Sec",
+        "TECHNICAL SKILLS",
+        "Graphic software",
+        "AutoCAD",
+        "Windows 7",
+        "Heat and mass transfer",
+        "RAC",
+        "STRENGTHS",
+        "Positive Attitude",
+        "Quick Learner",
+        "Unmarried",
+        "Hindi",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "DEEPAK CHANDER",
+            "Mr. Pitamber Dutt",
+            "Indian"
+        ],
+        "job title": [
+            "Mechanical engineer",
+            "Hindu"
+        ],
+        "company": [],
+        "university": [
+            "Technical UniversityUttaranchal Institute Of",
+            "Technology",
+            "12thCentral Board of",
+            "CBSE",
+            "10thCentral Board of"
+        ],
+        "degree": [
+            "B.Tech",
+            "B.TechUttarakhand"
+        ],
+        "years of experience": [],
+        "address": [
+            "H.no-619 Pratap Vihar  Part-II",
+            "sector-20",
+            "New Delhi-110086",
+            "Dehradun2011-, 201569.6",
+            "SaraswatiVihar201054.4",
+            "Operating System",
+            "New Delhi"
+        ],
+        "email": [
+            "E-mail",
+            "deepak.mech4it@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+918882184040",
+            "+9185060743"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "DelhiSarvodaya Co-ed Sr, Sec": 0.4175,
+            "TECHNICAL SKILLS": 0.2729,
+            "Graphic software": 0.3688,
+            "AutoCAD": 0.358,
+            "Windows 7": 0.9393,
+            "Heat and mass transfer": 0.4784,
+            "RAC": 0.3602,
+            "STRENGTHS": 0.2402,
+            "Positive Attitude": 0.3483,
+            "Quick Learner": 0.2484,
+            "Unmarried": 0.2979,
+            "Hindi": 0.3292,
+            "English": 0.4364
+        },
+        "filename": "cv (3355)_annotated.json"
+    }
+}

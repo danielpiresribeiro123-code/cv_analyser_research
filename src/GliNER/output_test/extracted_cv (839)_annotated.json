@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "Information Technology",
+        "Code Debugging",
+        "Technical Skills",
+        "ASP.net",
+        "Visual Basics",
+        "php",
+        "C",
+        "C++",
+        "Java",
+        "HTML",
+        "Microsoft Visual Studio",
+        "Ollydbg",
+        "Sublime",
+        "Eclipse",
+        "MS Office",
+        "Database Watermarking",
+        "Web Application"
+    ],
+    "professional_info": {
+        "person name": [
+            "Parth B Agrawal"
+        ],
+        "job title": [
+            "Contact",
+            "1Post of Responsibility"
+        ],
+        "company": [],
+        "university": [
+            "Sigma Inst. Of Tech. & Engg. Ajwa",
+            "Gujarat Technological University",
+            "G.T.U",
+            "Kelavni Trust Vidhyalaya"
+        ],
+        "degree": [
+            "B.E.",
+            "D.E."
+        ],
+        "years of experience": [],
+        "address": [
+            "V.V.Nagar"
+        ],
+        "email": [
+            "+7600525606",
+            "Email",
+            "parthagrawal18@yahoo.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Information Technology": 0.4191,
+            "Code Debugging": 0.1647,
+            "Technical Skills": 0.2828,
+            "ASP.net": 0.8167,
+            "Visual Basics": 0.3661,
+            "php": 0.9565,
+            "C": 0.9677,
+            "C++": 0.97,
+            "Java": 0.9837,
+            "HTML": 0.6863,
+            "Microsoft Visual Studio": 0.4919,
+            "Ollydbg": 0.437,
+            "Sublime": 0.4441,
+            "Eclipse": 0.2804,
+            "MS Office": 0.5058,
+            "Database Watermarking": 0.3035,
+            "Web Application": 0.2659
+        },
+        "filename": "cv (839)_annotated.json"
+    }
+}

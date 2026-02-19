@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "Technical Skills",
+        "ability to distinguish",
+        "Ability to read and interpret wiring diagrams and floor plans",
+        "Able to communicate effectively at all levels and willing to learn",
+        "new skills",
+        "Good problem-solving skills",
+        "Flexible approach to work"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mahammad Haseen",
+            "Mohammad Haseen",
+            "Mohammad Haseeb"
+        ],
+        "job title": [
+            "Electrician",
+            "Technician",
+            "ELECTRICAL"
+        ],
+        "company": [],
+        "university": [
+            "Avadh training institute Lucknow"
+        ],
+        "degree": [
+            "10th form U.P Board",
+            "12th form U.P Board"
+        ],
+        "years of experience": [
+            "experience"
+        ],
+        "address": [
+            "11/191",
+            "Mohalla-Salar",
+            "Post-Rudauli",
+            "224120",
+            "11/191 Salar",
+            "Hindi",
+            "English"
+        ],
+        "email": [
+            "E mail Id",
+            "Mohdhaseen204@gmail.com",
+            "EMAIL ID"
+        ],
+        "phone": [
+            "Contact Number",
+            "+91 8604141119",
+            "CONTACT NO"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Technical Skills": 0.4791,
+            "ability to distinguish": 0.2413,
+            "Ability to read and interpret wiring diagrams and floor plans": 0.2094,
+            "Able to communicate effectively at all levels and willing to learn": 0.1864,
+            "new skills": 0.298,
+            "Good problem-solving skills": 0.4603,
+            "Flexible approach to work": 0.2457
+        },
+        "filename": "cv (396)_annotated.json"
+    }
+}

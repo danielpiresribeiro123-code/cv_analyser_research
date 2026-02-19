@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "construction management",
+        "budgeting",
+        "certifications",
+        "theoretical knowledge",
+        "AREA OF EXPERTISE",
+        "Quality management",
+        "Program management",
+        "Cost Engineering",
+        "Constructability review",
+        "Safety Compliance",
+        "Budget Analysis",
+        "value Engineering",
+        "Manpower resource management",
+        "Computational Skills & Knowledge",
+        "Technical Packages",
+        "Auto Cad 2010",
+        "STADD Pro v8i",
+        "structure modeling and analysis",
+        "Revit Architecture 2012",
+        "PRIMAVERA (P6)",
+        "MS Office 2007"
+    ],
+    "professional_info": {
+        "person name": [
+            "V.SUTHAKAR",
+            "suthakar"
+        ],
+        "job title": [
+            "SITE ENGINEER/BILLING ENGINEER",
+            "Civil Engineer",
+            "Site Engineer/Quantity Surveyor",
+            "Client representatives"
+        ],
+        "company": [
+            "Degree Institution",
+            "Mepco Schlenk",
+            "College",
+            "HSCSri Ganesar Higher",
+            "SSLCSt. Louis High",
+            "Berachah Builders"
+        ],
+        "university": [
+            "University"
+        ],
+        "degree": [
+            "B.E (Civil, Engineering)"
+        ],
+        "years of experience": [
+            "Four years"
+        ],
+        "address": [
+            "2/22 South Street"
+        ],
+        "email": [
+            "E-Mail ID",
+            "vksuthakar10@gmail.com"
+        ],
+        "phone": [
+            "Contact No",
+            "+91-7867914960",
+            "Skype"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "construction management": 0.3101,
+            "budgeting": 0.2134,
+            "certifications": 0.3115,
+            "theoretical knowledge": 0.2667,
+            "AREA OF EXPERTISE": 0.3247,
+            "Quality management": 0.3869,
+            "Program management": 0.3381,
+            "Cost Engineering": 0.5002,
+            "Constructability review": 0.1663,
+            "Safety Compliance": 0.2467,
+            "Budget Analysis": 0.2451,
+            "value Engineering": 0.5463,
+            "Manpower resource management": 0.2916,
+            "Computational Skills & Knowledge": 0.4835,
+            "Technical Packages": 0.1873,
+            "Auto Cad 2010": 0.7206,
+            "STADD Pro v8i": 0.5784,
+            "structure modeling and analysis": 0.1829,
+            "Revit Architecture 2012": 0.8019,
+            "PRIMAVERA (P6)": 0.5023,
+            "MS Office 2007": 0.8132
+        },
+        "filename": "cv (2923)_annotated.json"
+    }
+}

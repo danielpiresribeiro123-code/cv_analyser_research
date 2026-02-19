@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "hardworking capabilities",
+        "TECHNICAL QUALIFICATIONS",
+        "My Strengths",
+        "Hard working",
+        "Punctual",
+        "self confident"
+    ],
+    "professional_info": {
+        "person name": [
+            "MD. NAWAZ SHARIF",
+            "Hazrat Ali"
+        ],
+        "job title": [
+            "12th",
+            "Electrical site supervisor",
+            "Multiskilled Stn Equipment maintenance Engineer"
+        ],
+        "company": [
+            "Blue Star Limited",
+            "Relince Infratech",
+            "ETA Engineer pvt ltd"
+        ],
+        "university": [
+            "Bihar Bord",
+            "State Board Technical Education Purnia"
+        ],
+        "degree": [
+            "Diploma in Electrical Engg."
+        ],
+        "years of experience": [
+            "may 2011"
+        ],
+        "address": [
+            "D 40/1",
+            "Shaheen Bagh",
+            "Abul Fazal Part 2 Jamia Nagar",
+            "New Delhi-110025",
+            "D"
+        ],
+        "email": [
+            "Email",
+            "nawaz.sharif88@yahoo"
+        ],
+        "phone": [
+            "Mob",
+            "+919910707142"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "hardworking capabilities": 0.3383,
+            "TECHNICAL QUALIFICATIONS": 0.2005,
+            "My Strengths": 0.1752,
+            "Hard working": 0.4445,
+            "Punctual": 0.2927,
+            "self confident": 0.3392
+        },
+        "filename": "cv (2063)_annotated.json"
+    }
+}

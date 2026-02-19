@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "continual improvement",
+        "innovative attitude",
+        "STRENGTH",
+        "patience",
+        "Team work",
+        "Planning and organization",
+        "Travelling",
+        "Table tennis",
+        "volley ball",
+        "cricket",
+        "Male",
+        "Languages Known",
+        "Hindi",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "NAME",
+            "SALMAN SAIFI",
+            "SHAFIQ AHMED",
+            "Indian"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "SANT HARI DASS COLLEGE OF",
+            "HIGHER EDUCATION (DELHI)",
+            "G.G.S.I.P.U",
+            "Higher Secondary  SANJEEVANI PUBLIC SCHOOL",
+            "C.B.S.E."
+        ],
+        "degree": [
+            "B.B.A(GEN)"
+        ],
+        "years of experience": [],
+        "address": [
+            "RZ-10A KHUSHI RAM PARK",
+            "OM VIHAR",
+            "UTTAM NAGAR",
+            "NEW DELHI-110059"
+        ],
+        "email": [
+            "saifimy@gmail.com"
+        ],
+        "phone": [
+            "Contact No",
+            "+91 9718620194"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "continual improvement": 0.1873,
+            "innovative attitude": 0.2308,
+            "STRENGTH": 0.1923,
+            "patience": 0.4505,
+            "Team work": 0.4041,
+            "Planning and organization": 0.2897,
+            "Travelling": 0.4166,
+            "Table tennis": 0.4865,
+            "volley ball": 0.328,
+            "cricket": 0.3968,
+            "Male": 0.2353,
+            "Languages Known": 0.1708,
+            "Hindi": 0.9267,
+            "English": 0.9357
+        },
+        "filename": "cv (728)_annotated.json"
+    }
+}

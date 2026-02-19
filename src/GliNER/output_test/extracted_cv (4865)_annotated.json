@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "MACHINE LEARNING",
+        "Data science",
+        "Deep learning",
+        "Neural",
+        "networks",
+        "Artificial intelligence",
+        "Machine learning",
+        "Regression Analysis",
+        "Data structures",
+        "Embedded C",
+        "Arduino",
+        "Network",
+        "Management",
+        "Junior Engineer Award L&T",
+        "Best Solution Provided L&TPROJECTS",
+        "PERSONAL PROFILE",
+        "individual",
+        "home and office solutions",
+        "hardware management",
+        "Software"
+    ],
+    "professional_info": {
+        "person name": [
+            "AUDREY COLESON"
+        ],
+        "job title": [
+            "ANALYST",
+            "ENGINEER"
+        ],
+        "company": [
+            "Tata, Sons",
+            "Tata Sons"
+        ],
+        "university": [
+            "Cummins College of Engineering"
+        ],
+        "degree": [
+            "B.Tech"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "MACHINE LEARNING": 0.6444,
+            "Data science": 0.7489,
+            "Deep learning": 0.8821,
+            "Neural": 0.5165,
+            "networks": 0.4486,
+            "Artificial intelligence": 0.7892,
+            "Machine learning": 0.8778,
+            "Regression Analysis": 0.8163,
+            "Data structures": 0.642,
+            "Embedded C": 0.3794,
+            "Arduino": 0.1517,
+            "Network": 0.374,
+            "Management": 0.384,
+            "Junior Engineer Award L&T": 0.8372,
+            "Best Solution Provided L&TPROJECTS": 0.6757,
+            "PERSONAL PROFILE": 0.2281,
+            "individual": 0.1794,
+            "home and office solutions": 0.5057,
+            "hardware management": 0.3394,
+            "Software": 0.3349
+        },
+        "filename": "cv (4865)_annotated.json"
+    }
+}

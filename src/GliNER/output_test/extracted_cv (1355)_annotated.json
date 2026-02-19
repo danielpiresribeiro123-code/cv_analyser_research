@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "G.H.S.E.B.",
+        "Electrical Maintenance",
+        "Microcontroller based project",
+        "Computer Skills",
+        "Basic computer knowledge",
+        "MS Office",
+        "English",
+        "Hindi",
+        "Gujarati",
+        "Speak"
+    ],
+    "professional_info": {
+        "person name": [
+            "JWALANT S.MEHTA",
+            "MARUTINANDAN BUNGLOWS-1",
+            "OPP.SWARAJ BUNGLOWS",
+            "NR.MOTERA GAM"
+        ],
+        "job title": [
+            "Apprenticeship Trainee Engineer",
+            "ELECTRICAL SUPERVISOR"
+        ],
+        "company": [
+            "H.S.C.Shri N.M.High",
+            "TORRENT  POWER  LIMITED",
+            "Government Of Gujarat",
+            "Megha Rototech Pvt.Ltd.",
+            "Company Of Making Motors"
+        ],
+        "university": [
+            "DegreeInstitute Board",
+            "C.G.P.A.",
+            "EngineeringGujarat Institute",
+            "University20147.13"
+        ],
+        "degree": [
+            "B.E. Electrical",
+            "G.S.E.B."
+        ],
+        "years of experience": [
+            "Distinction",
+            "Working  Experience",
+            "7  Months"
+        ],
+        "address": [
+            "Prantij",
+            "Internet"
+        ],
+        "email": [
+            "8980463510",
+            "EMAIL ID",
+            "jwalantmehta93@gmail.com"
+        ],
+        "phone": [
+            "CONTACT NO"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "G.H.S.E.B.": 0.1743,
+            "Electrical Maintenance": 0.256,
+            "Microcontroller based project": 0.2614,
+            "Computer Skills": 0.2155,
+            "Basic computer knowledge": 0.2552,
+            "MS Office": 0.8005,
+            "English": 0.7045,
+            "Hindi": 0.8199,
+            "Gujarati": 0.8835,
+            "Speak": 0.2031
+        },
+        "filename": "cv (1355)_annotated.json"
+    }
+}

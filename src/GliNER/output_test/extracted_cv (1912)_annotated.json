@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "Unmarried",
+        "Proficiency",
+        "English",
+        "Hindi",
+        "Career Objective",
+        "Electronics and Communication Engineering",
+        "Computer Proficiency",
+        "Microsoft Office",
+        "Internet Surfing",
+        "sense of responsibility"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mahendra",
+            "Singh Harsana",
+            "Male",
+            "Indian",
+            "Raj."
+        ],
+        "job title": [],
+        "company": [
+            "Raj.",
+            "SOLAR PV SYSTEM",
+            "VAS Jaipur"
+        ],
+        "university": [
+            "KUNAL HARSANA",
+            "RTU Kota",
+            "CBSE board Delhi"
+        ],
+        "degree": [
+            "Bachelor of Technology",
+            "B.Tech"
+        ],
+        "years of experience": [],
+        "address": [
+            "Permanent Address",
+            "4/2, Ladiya Bagh"
+        ],
+        "email": [
+            "E-Mail",
+            "kunalharsanas@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+917737852323"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Unmarried": 0.3741,
+            "Proficiency": 0.2532,
+            "English": 0.8116,
+            "Hindi": 0.8632,
+            "Career Objective": 0.2197,
+            "Electronics and Communication Engineering": 0.3125,
+            "Computer Proficiency": 0.4105,
+            "Microsoft Office": 0.7579,
+            "Internet Surfing": 0.1601,
+            "sense of responsibility": 0.2103
+        },
+        "filename": "cv (1912)_annotated.json"
+    }
+}

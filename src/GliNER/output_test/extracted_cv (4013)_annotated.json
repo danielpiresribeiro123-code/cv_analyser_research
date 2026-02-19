@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "M.S OFFICE",
+        "Excel",
+        "Internet & outlook",
+        "Strong  commitments",
+        "QHSE",
+        "PTW",
+        "JSA",
+        "hazardous  area  classification",
+        "HSE standards",
+        "IIF"
+    ],
+    "professional_info": {
+        "person name": [
+            "DHIRENDRA SINGH"
+        ],
+        "job title": [
+            "HVAC Technician",
+            "HVAC Mechanical Technician",
+            "Maintenance  Senior  Electrical  Engineer",
+            "Technical",
+            "Power control center (PPC) panel operator"
+        ],
+        "company": [
+            "EMCO QATAR",
+            "QATAR GAS OPERATING COMPANY LTD",
+            "QATAR GAS operating company",
+            "QATARGAS Operating Company LTD",
+            "Qatar  gas"
+        ],
+        "university": [
+            "NDURATION INSTITUTE/BOARD",
+            "ITI 2009-2011  REFRIGERATION & AIR, CONDITION",
+            "10+2          2011         U.P. Board",
+            "10th2009          U.P. Board"
+        ],
+        "degree": [],
+        "years of experience": [
+            "TOTAL WORKING EXPERIENCE",
+            "08 YEARS 06 MONTHS"
+        ],
+        "address": [
+            "Vill - Bharsi",
+            "Post  - Piparsandi",
+            "Belghat",
+            "Dist - Gorakhpur (UP) India",
+            "Pin code-273404"
+        ],
+        "email": [
+            "E-mail",
+            "dh100993@gmail.com"
+        ],
+        "phone": [
+            "Mobile No",
+            "- +974 30032150"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "M.S OFFICE": 0.1624,
+            "Excel": 0.2498,
+            "Internet & outlook": 0.3721,
+            "Strong  commitments": 0.1513,
+            "QHSE": 0.5959,
+            "PTW": 0.6255,
+            "JSA": 0.6182,
+            "hazardous  area  classification": 0.4627,
+            "HSE standards": 0.6802,
+            "IIF": 0.3121
+        },
+        "filename": "cv (4013)_annotated.json"
+    }
+}

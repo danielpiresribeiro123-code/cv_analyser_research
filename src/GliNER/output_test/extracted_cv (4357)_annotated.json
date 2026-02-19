@@ -1,0 +1,42 @@
+{
+    "skills": [
+        "familiarization",
+        "Apple",
+        "Mac",
+        "Windows",
+        "City , State",
+        "procedure and protocol"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "NON COMMISSIONED SECURITY OFFICER",
+            "Petty Officer 3rd Class Aviation Ordnanceman",
+            "1 volunteer",
+            "Home delivery technician and warehouse associate"
+        ],
+        "company": [
+            "technology based company",
+            "Current Company Name",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "familiarization": 0.1821,
+            "Apple": 0.3401,
+            "Mac": 0.4216,
+            "Windows": 0.7097,
+            "City , State": 0.6664,
+            "procedure and protocol": 0.3914
+        },
+        "filename": "cv (4357)_annotated.json"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "Department of Computer Science and Engineering",
+        "Computer Architecture Progra m",
+        "Parallel & Distributed Computer Architectures",
+        "Multi-cor e/SoC Architectures",
+        "GPGPU systems",
+        "Hetero- geneous Architectures",
+        "Communication Networks & Communic ation Mechanisms",
+        "Per- formance Evaluation",
+        "Fault-tolerant Computing",
+        "Mobile Pl atforms"
+    ],
+    "professional_info": {
+        "person name": [
+            "Das",
+            "R.E.C.Rourkela",
+            "B.I.T.Sindri",
+            "C. R.",
+            "L. N. Bhuyan",
+            "V. V. S. Sarma"
+        ],
+        "job title": [
+            "Interim Head",
+            "Distinguished Professor",
+            "Program Director",
+            "Professor",
+            "Associate Professor",
+            "Assistant Professor"
+        ],
+        "company": [],
+        "university": [
+            "ThePennsylvania State University",
+            "University of Louisi ana",
+            "Sambalpur University",
+            "Ranchi University"
+        ],
+        "degree": [
+            "Ph.D.in Computer Science",
+            "M.S.in Electrical Engineering",
+            "B.S.inElectronics and Communication"
+        ],
+        "years of experience": [
+            "1986",
+            "2009",
+            "1997"
+        ],
+        "address": [
+            "PA16803",
+            "354F IST Building",
+            "University Park",
+            "PA16802",
+            "Cloud Systems"
+        ],
+        "email": [
+            "E-Mail"
+        ],
+        "phone": [
+            "Tel",
+            "(814) 237- 6362",
+            "(814) 865-0194",
+            "Fax",
+            "(814) 865-3176"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Department of Computer Science and Engineering": 0.1916,
+            "Computer Architecture Progra m": 0.1844,
+            "Parallel & Distributed Computer Architectures": 0.6562,
+            "Multi-cor e/SoC Architectures": 0.4852,
+            "GPGPU systems": 0.454,
+            "Hetero- geneous Architectures": 0.4493,
+            "Communication Networks & Communic ation Mechanisms": 0.4904,
+            "Per- formance Evaluation": 0.1775,
+            "Fault-tolerant Computing": 0.5242,
+            "Mobile Pl atforms": 0.2307
+        },
+        "filename": "cv (1110)_annotated.json"
+    }
+}

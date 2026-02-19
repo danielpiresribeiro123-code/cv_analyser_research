@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "segmentation technique",
+        "SEP 2019 TO TILL DATE",
+        "data",
+        "Processing",
+        "Structures",
+        "Deep Learning",
+        "Application Development",
+        "Python",
+        "Django",
+        "Flask",
+        "Kubernetes",
+        "C++",
+        "Conway's Game of Life",
+        "Symmetrical Algorithm",
+        "Position and Location",
+        "Determination for Transportation"
+    ],
+    "professional_info": {
+        "person name": [
+            "ABIGAIL FERNANDES"
+        ],
+        "job title": [
+            "Machine Learning developer",
+            "MACHINE LEARNING ENGINEER",
+            "Algorithm engineer",
+            "solution developer",
+            "RESEARCH ASSISTANT",
+            "ASSOCIATE"
+        ],
+        "company": [
+            "college",
+            "TATA CONSULTANCY SERVICES LTD.",
+            "SP business unit",
+            "SOLINOVATE",
+            "BITS GOA"
+        ],
+        "university": [
+            "SHRI GURU GOBIND SINGHJI COLLEGE",
+            "NANYANG TECHNOLOGICAL UNIVERSITY"
+        ],
+        "degree": [
+            "B.TECH(COMPUTERS)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "segmentation technique": 0.2153,
+            "SEP 2019 TO TILL DATE": 0.1561,
+            "data": 0.5201,
+            "Processing": 0.2397,
+            "Structures": 0.2748,
+            "Deep Learning": 0.5185,
+            "Application Development": 0.2739,
+            "Python": 0.8715,
+            "Django": 0.6135,
+            "Flask": 0.6393,
+            "Kubernetes": 0.8989,
+            "C++": 0.575,
+            "Conway's Game of Life": 0.19,
+            "Symmetrical Algorithm": 0.8068,
+            "Position and Location": 0.347,
+            "Determination for Transportation": 0.2661
+        },
+        "filename": "cv (4909)_annotated.json"
+    }
+}

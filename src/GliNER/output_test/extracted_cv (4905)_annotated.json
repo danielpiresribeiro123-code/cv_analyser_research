@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "Computer vision",
+        "Machine Learning",
+        "problem-solving",
+        "Tableau",
+        "Power BI",
+        "SKILLS",
+        "Machine learning",
+        "Deep learning",
+        "Image processing",
+        "Neural networks",
+        "Contextual Reasoning",
+        "Understanding images",
+        "GAN",
+        "modern fashion portal",
+        "Corporate Attendance using Face",
+        "Recognition"
+    ],
+    "professional_info": {
+        "person name": [
+            "JENNIFER ARMSTRONG"
+        ],
+        "job title": [
+            "PROFILE",
+            "Fresher",
+            "Engineer",
+            "expert",
+            "ACTIVITIES",
+            "Distinction medalist",
+            "innovation",
+            "Innovator of the year runner up",
+            "Conjugation"
+        ],
+        "company": [],
+        "university": [
+            "IIT"
+        ],
+        "degree": [
+            "B.Tech Computer Science"
+        ],
+        "years of experience": [
+            "EXPERIENCE"
+        ],
+        "address": [
+            "Guwahati"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Computer vision": 0.7042,
+            "Machine Learning": 0.6593,
+            "problem-solving": 0.1687,
+            "Tableau": 0.3418,
+            "Power BI": 0.6637,
+            "SKILLS": 0.2529,
+            "Machine learning": 0.7976,
+            "Deep learning": 0.8417,
+            "Image processing": 0.6405,
+            "Neural networks": 0.8626,
+            "Contextual Reasoning": 0.5379,
+            "Understanding images": 0.2985,
+            "GAN": 0.318,
+            "modern fashion portal": 0.1529,
+            "Corporate Attendance using Face": 0.1988,
+            "Recognition": 0.1514
+        },
+        "filename": "cv (4905)_annotated.json"
+    }
+}

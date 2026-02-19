@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "technical  skills",
+        "Mechanical Engineering",
+        "Educational &Professional Qualification",
+        "Mechanical",
+        "TECHNICAL  PROFICIENCY",
+        "Chessis",
+        "Gear & Transmission System",
+        "Brake",
+        "Heat Mass Transfer System",
+        "Apply Power Plant and Production Area",
+        "Lathe Machine",
+        "Casting",
+        "Engineering",
+        "IN/Plant Training",
+        "General Awareness",
+        "Steam Turbine Manufacturing",
+        "INTERPERSONAL SKILL",
+        "Willing to Learn New Thing",
+        "Self- Motivated",
+        "like to accept challenge",
+        "Confident and Determined"
+    ],
+    "professional_info": {
+        "person name": [
+            "RANJAN KUMAR"
+        ],
+        "job title": [
+            "professional managed environment",
+            "PROJECTS TITLE"
+        ],
+        "company": [
+            "Bihar Board",
+            "Multi Energy Resources Car",
+            "Maruti Suzuki Gurgoan",
+            "BHEL Haridwar"
+        ],
+        "university": [
+            "Sharda University",
+            "R.L.S.Y. College Muzaffarpur"
+        ],
+        "degree": [
+            "B.Tech",
+            "Intermediate",
+            "Matriculation"
+        ],
+        "years of experience": [],
+        "address": [
+            "Greater Noida",
+            "Present Address",
+            "J-71",
+            "Beta-2"
+        ],
+        "email": [
+            "Contact No.",
+            "E-mail"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "technical  skills": 0.2308,
+            "Mechanical Engineering": 0.4065,
+            "Educational &Professional Qualification": 0.2215,
+            "Mechanical": 0.3078,
+            "TECHNICAL  PROFICIENCY": 0.6891,
+            "Chessis": 0.3272,
+            "Gear & Transmission System": 0.1703,
+            "Brake": 0.1817,
+            "Heat Mass Transfer System": 0.3928,
+            "Apply Power Plant and Production Area": 0.2624,
+            "Lathe Machine": 0.3154,
+            "Casting": 0.1696,
+            "Engineering": 0.3514,
+            "IN/Plant Training": 0.1573,
+            "General Awareness": 0.1816,
+            "Steam Turbine Manufacturing": 0.2385,
+            "INTERPERSONAL SKILL": 0.3555,
+            "Willing to Learn New Thing": 0.317,
+            "Self- Motivated": 0.4724,
+            "like to accept challenge": 0.4751,
+            "Confident and Determined": 0.5336
+        },
+        "filename": "cv (3347)_annotated.json"
+    }
+}

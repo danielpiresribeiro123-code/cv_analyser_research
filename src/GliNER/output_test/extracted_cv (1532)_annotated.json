@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "Social Science",
+        "English",
+        "Professional Efficiencies",
+        "Good Interpersonal skill",
+        "Energetic and committed",
+        "Disciplined",
+        "Technical Skill",
+        "General Knowledge",
+        "COMPUTER",
+        "Educational Qualification",
+        "RESEARCHSNDT 762017",
+        "B.COM (BANKING, AND INSURANCE)"
+    ],
+    "professional_info": {
+        "person name": [
+            "principal",
+            "Respected Sir /Madam",
+            "Bhavani IyerRESUME",
+            "BHAVANI IYER"
+        ],
+        "job title": [
+            "teacher",
+            "SR",
+            "Tutor",
+            "R"
+        ],
+        "company": [],
+        "university": [
+            "Chellamal vidyalaya",
+            "INFANT JESUS SCHOOL AMBERNATH (MUMBAI)",
+            "CBSE",
+            "QUALIFICATION COLLEGE NAMEUNIVERSITY",
+            "B.EDSVB COLLEGE OF",
+            "SMT CHM COLLEGE"
+        ],
+        "degree": [
+            "HSC"
+        ],
+        "years of experience": [
+            "3 years"
+        ],
+        "address": [
+            "Hindu colony",
+            "Nanganallur",
+            "Chennai 600061",
+            "F1   RADHANAND APT",
+            "27 th STREET NANGANALLUR",
+            "8551095187"
+        ],
+        "email": [
+            "bhaviiyer93@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Social Science": 0.2506,
+            "English": 0.7541,
+            "Professional Efficiencies": 0.4451,
+            "Good Interpersonal skill": 0.5935,
+            "Energetic and committed": 0.5623,
+            "Disciplined": 0.4575,
+            "Technical Skill": 0.6577,
+            "General Knowledge": 0.4472,
+            "COMPUTER": 0.2786,
+            "Educational Qualification": 0.1822,
+            "RESEARCHSNDT 762017": 0.2343,
+            "B.COM (BANKING, AND INSURANCE)": 0.3416
+        },
+        "filename": "cv (1532)_annotated.json"
+    }
+}

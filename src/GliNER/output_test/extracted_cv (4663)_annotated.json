@@ -1,0 +1,53 @@
+{
+    "skills": [
+        "Strong influencing skills",
+        "Creative and strategic thinker",
+        "Excellent organizational skills",
+        "Effective ability to develop and maintain extensive network of contacts",
+        "Excellent written",
+        "verbal",
+        "interpersonal communication skills",
+        "strong attention to detail",
+        "talking points"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "SENIOR",
+            "FOOD DEFENSE ANALYST",
+            "public relations professional",
+            "strategist",
+            "analyst",
+            "publicist",
+            "Project Manager",
+            "USDA Detailee",
+            "Subject Matter Expert",
+            "SME",
+            "Agency lead"
+        ],
+        "company": [
+            "academia"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Strong influencing skills": 0.3883,
+            "Creative and strategic thinker": 0.2797,
+            "Excellent organizational skills": 0.4597,
+            "Effective ability to develop and maintain extensive network of contacts": 0.2881,
+            "Excellent written": 0.1822,
+            "verbal": 0.2253,
+            "interpersonal communication skills": 0.3589,
+            "strong attention to detail": 0.4349,
+            "talking points": 0.2151
+        },
+        "filename": "cv (4663)_annotated.json"
+    }
+}

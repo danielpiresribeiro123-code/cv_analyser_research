@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "Mechanical Engineering",
+        "Skills",
+        "IntermediateChameli  devi  intermediate",
+        "Diploma in AUTOCAD",
+        "Technical Skills",
+        "AUTO CAD",
+        "Microsoft Windows XP",
+        "7 & 8",
+        "Microsoft Office Professional",
+        "Key skills",
+        "Hard Working",
+        "Confident",
+        "Adaptability",
+        "Single",
+        "Hindi",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUMIT SHARMA",
+            "Mr. Balvir  Sharma",
+            "Indian"
+        ],
+        "job title": [],
+        "company": [
+            "SEIMENS PVT LTD"
+        ],
+        "university": [
+            "Mathura U.P.T.U.",
+            "MathuraU.P.BOARD",
+            "B.S.E.",
+            "CADD CENTER",
+            "BSA Engineering College"
+        ],
+        "degree": [
+            "B.Tech. (ME)"
+        ],
+        "years of experience": [],
+        "address": [
+            "MAHOLI ROAD",
+            "2A/450 Krishna vihar"
+        ],
+        "email": [
+            "E-mail",
+            "sumit00146@gmail.com"
+        ],
+        "phone": [
+            "Phone No.",
+            "+91-9458808182"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Mechanical Engineering": 0.4837,
+            "Skills": 0.3302,
+            "IntermediateChameli  devi  intermediate": 0.2504,
+            "Diploma in AUTOCAD": 0.3945,
+            "Technical Skills": 0.5329,
+            "AUTO CAD": 0.3715,
+            "Microsoft Windows XP": 0.5977,
+            "7 & 8": 0.2307,
+            "Microsoft Office Professional": 0.6571,
+            "Key skills": 0.5302,
+            "Hard Working": 0.2176,
+            "Confident": 0.3976,
+            "Adaptability": 0.2503,
+            "Single": 0.3714,
+            "Hindi": 0.4317,
+            "English": 0.4674
+        },
+        "filename": "cv (828)_annotated.json"
+    }
+}

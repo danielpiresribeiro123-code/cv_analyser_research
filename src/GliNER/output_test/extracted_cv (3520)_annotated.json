@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "Male",
+        "Single",
+        "Contributing my knowledge",
+        "development skills",
+        "profitably",
+        "Diploma  in  Electrical Engineering",
+        "Computer  Skills",
+        "MS Office",
+        "word",
+        "excel",
+        "PowerPoint",
+        "Skills and abilities",
+        "Ability to grasp and learn concepts quickly",
+        "hard worker",
+        "Ability to Work Independently",
+        "High Level of Motivation",
+        "Service Mindset",
+        "English",
+        "Hindi",
+        "Urdu",
+        "Key Skills",
+        "Working Knowledge"
+    ],
+    "professional_info": {
+        "person name": [
+            "ASIF UR RAHMAN",
+            "Mr. Motiur Rahman",
+            "Indian"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "Punjab  Technical, University (PUNJAB)"
+        ],
+        "degree": [
+            "DEE"
+        ],
+        "years of experience": [],
+        "address": [
+            "Permanent Address",
+            "Zakir nagar okhla",
+            "New Delhi - 110025"
+        ],
+        "email": [
+            "asifdelhi6@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91  828 573 4978"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Male": 0.1686,
+            "Single": 0.2314,
+            "Contributing my knowledge": 0.219,
+            "development skills": 0.2871,
+            "profitably": 0.1902,
+            "Diploma  in  Electrical Engineering": 0.4759,
+            "Computer  Skills": 0.297,
+            "MS Office": 0.8095,
+            "word": 0.5827,
+            "excel": 0.5111,
+            "PowerPoint": 0.5583,
+            "Skills and abilities": 0.3556,
+            "Ability to grasp and learn concepts quickly": 0.225,
+            "hard worker": 0.1889,
+            "Ability to Work Independently": 0.2494,
+            "High Level of Motivation": 0.1688,
+            "Service Mindset": 0.2018,
+            "English": 0.7244,
+            "Hindi": 0.8607,
+            "Urdu": 0.8469,
+            "Key Skills": 0.2151,
+            "Working Knowledge": 0.1713
+        },
+        "filename": "cv (3520)_annotated.json"
+    }
+}

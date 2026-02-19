@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "Auto CADD",
+        "Engineering Standard",
+        "Method of Measurement"
+    ],
+    "professional_info": {
+        "person name": [
+            "MUDASSIR ALI KHAN"
+        ],
+        "job title": [
+            "key player"
+        ],
+        "company": [
+            "Nodal Centre for Entrepreneurship Management Development (EMD)",
+            "AICTE",
+            "Nodal  Centre  for Entrepreneurship Management Development (EMD)",
+            "AL-LATIFIA TRADING & CONTRACTING COMPANY",
+            "Site QUANTITY SURVEYOR (Civil & Architectural Works)"
+        ],
+        "university": [
+            "University Polytechnic",
+            "Aligarh Muslim University"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "8/5, Mominpur Road",
+            "Street 10 D",
+            "P.O. BOX No. 57588",
+            "Riyadh, 11584, K.S.A."
+        ],
+        "email": [
+            "E-MAIL",
+            "mudassir21@gmail.com"
+        ],
+        "phone": [
+            "MOBILE PHONE",
+            "+91) 7309419812 / 9643609154"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "Auto CADD": 0.5438,
+            "Engineering Standard": 0.7915,
+            "Method of Measurement": 0.3593
+        },
+        "filename": "cv (1825)_annotated.json"
+    }
+}

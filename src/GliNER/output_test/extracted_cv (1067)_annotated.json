@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "Marital status",
+        "Omani Resident Visa",
+        "highly dynamic and action -oriented professional",
+        "Computer  and Information Systems in Management & Accounting",
+        "marketing p lan",
+        "customer’s  behavior",
+        "competitor’s  behavior"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAMER",
+            "Yousef Abdulwadod"
+        ],
+        "job title": [
+            "samer.adi",
+            "Married",
+            "Marketing Manager",
+            "Administration Manager"
+        ],
+        "company": [
+            "Syrian",
+            "Omani / Syrian",
+            "Company Healthy Beverages (GREEN  COLA)"
+        ],
+        "university": [
+            "Aleppo University"
+        ],
+        "degree": [
+            "Bachelor of Economic"
+        ],
+        "years of experience": [
+            "00968 99793231"
+        ],
+        "address": [],
+        "email": [
+            "hotmail",
+            "mail"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Marital status": 0.1636,
+            "Omani Resident Visa": 0.2736,
+            "highly dynamic and action -oriented professional": 0.2286,
+            "Computer  and Information Systems in Management & Accounting": 0.16,
+            "marketing p lan": 0.1572,
+            "customer’s  behavior": 0.1977,
+            "competitor’s  behavior": 0.1655
+        },
+        "filename": "cv (1067)_annotated.json"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "10th Passed",
+        "intermediate",
+        "Diploma Electrical Engineering",
+        "PANEL VFD PLC & Hydromatic System",
+        "Pressure pump",
+        "P-GATE",
+        "Ability to deal with people diplomatically",
+        "willingness to",
+        "team leader",
+        "Problem solving abilities",
+        "good listener",
+        "Male",
+        "Unmarried",
+        "Hindi",
+        "English",
+        "better personility"
+    ],
+    "professional_info": {
+        "person name": [
+            "SALMAN ALI",
+            "SARITA VIHAR",
+            "Wajid Ali"
+        ],
+        "job title": [
+            "Engineer",
+            "Muslim"
+        ],
+        "company": [
+            "GRUNDFOS SERVICE NEW DELHI",
+            "Grundfos",
+            "ABB motors",
+            "SWIFT ENGINEERING SYSTEM NEW DELHI"
+        ],
+        "university": [
+            "UP Board"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Vill – Mahason post mahuawa karkhana",
+            "District kushinagar Uttar Pradesh"
+        ],
+        "email": [
+            "Email",
+            "salman786.up@gmail.com"
+        ],
+        "phone": [
+            "9540215398",
+            "Pin 274402"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "10th Passed": 0.339,
+            "intermediate": 0.3278,
+            "Diploma Electrical Engineering": 0.5901,
+            "PANEL VFD PLC & Hydromatic System": 0.1803,
+            "Pressure pump": 0.1851,
+            "P-GATE": 0.1899,
+            "Ability to deal with people diplomatically": 0.3751,
+            "willingness to": 0.1529,
+            "team leader": 0.2836,
+            "Problem solving abilities": 0.4279,
+            "good listener": 0.5258,
+            "Male": 0.1858,
+            "Unmarried": 0.2844,
+            "Hindi": 0.7288,
+            "English": 0.6361,
+            "better personility": 0.2315
+        },
+        "filename": "cv (1727)_annotated.json"
+    }
+}

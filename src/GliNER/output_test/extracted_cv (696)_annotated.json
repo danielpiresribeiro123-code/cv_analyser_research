@@ -1,0 +1,41 @@
+{
+    "skills": [
+        "DATA ENTRY"
+    ],
+    "professional_info": {
+        "person name": [
+            "RESUM",
+            "VIDYADHAR",
+            "MISHRA",
+            "FATHERS",
+            "RAM",
+            "SAHAY",
+            "MATHERS",
+            "KAMLA MISHRA"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "ADUCATION",
+            "COURS"
+        ],
+        "degree": [
+            "GRADUATION",
+            "ADCA"
+        ],
+        "years of experience": [
+            "EXPERIENCE",
+            "1 YEAR"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "DATA ENTRY": 0.2559
+        },
+        "filename": "cv (696)_annotated.json"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "Electrical & Electronics Engineering",
+        "KEY SKILLS",
+        "Electrical Designing",
+        "AutoCAD",
+        "analysing skills",
+        "IR/PI",
+        "Ratio",
+        "Polarity",
+        "SC Test",
+        "OC Test",
+        "Vector group test",
+        "Winding resistance impedance",
+        "Tan delta",
+        "analysing knowledge",
+        "IR",
+        "Ration",
+        "Magnetizing curve",
+        "Contact Resistance",
+        "CB (Timing Test )",
+        "HVAC",
+        "Vacuum level test",
+        "Oil BDV"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMED FAIZ",
+            "UR RAHMAN"
+        ],
+        "job title": [
+            "Electrical Trainee Engineer",
+            "MEP Engineer"
+        ],
+        "company": [
+            "Sri neelamani Engineering and fabrications",
+            "Engineers and valures pvt  Ltd",
+            "OHL Contrating"
+        ],
+        "university": [
+            "Jawaharlal Nehru Technological University Hyderabad"
+        ],
+        "degree": [
+            "B.Tech."
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Electrical & Electronics Engineering": 0.5048,
+            "KEY SKILLS": 0.22,
+            "Electrical Designing": 0.1609,
+            "AutoCAD": 0.6213,
+            "analysing skills": 0.2186,
+            "IR/PI": 0.2947,
+            "Ratio": 0.1744,
+            "Polarity": 0.1775,
+            "SC Test": 0.1915,
+            "OC Test": 0.2297,
+            "Vector group test": 0.2804,
+            "Winding resistance impedance": 0.2315,
+            "Tan delta": 0.2381,
+            "analysing knowledge": 0.1609,
+            "IR": 0.1541,
+            "Ration": 0.1542,
+            "Magnetizing curve": 0.2174,
+            "Contact Resistance": 0.1989,
+            "CB (Timing Test )": 0.1654,
+            "HVAC": 0.1733,
+            "Vacuum level test": 0.2034,
+            "Oil BDV": 0.1656
+        },
+        "filename": "cv (4074)_annotated.json"
+    }
+}

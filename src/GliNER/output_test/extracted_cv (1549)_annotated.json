@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "English",
+        "Hindi",
+        "Gujarati"
+    ],
+    "professional_info": {
+        "person name": [
+            "Jariwala jankee R .",
+            "vesu",
+            "Jariwala Jankee Rajeshkumar",
+            "Jariwala Jankee R."
+        ],
+        "job title": [
+            "CAREER OBJECTIVE",
+            "Administrator",
+            "bhatar",
+            "assistant teacher",
+            "PERSONAL IMFORMATION",
+            "Female"
+        ],
+        "company": [
+            "DRB",
+            "Lalani group of industries",
+            "Rock and roll music school",
+            "Balaji commerce tuition class",
+            "NTPC"
+        ],
+        "university": [
+            "Navnirman Institute of Management",
+            "Symbiosis centre"
+        ],
+        "degree": [
+            "M.B.A",
+            "B.B.A"
+        ],
+        "years of experience": [],
+        "address": [
+            "Surat",
+            "Bhaidas Mehta’s",
+            "street",
+            "Sagrampura",
+            "Surat-395002",
+            "Your’s  Truly"
+        ],
+        "email": [
+            "E-mail",
+            "j.jankeejariwala@gmail.com"
+        ],
+        "phone": [
+            "Contact number",
+            "+91 8469966576"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "English": 0.8394,
+            "Hindi": 0.8637,
+            "Gujarati": 0.8991
+        },
+        "filename": "cv (1549)_annotated.json"
+    }
+}

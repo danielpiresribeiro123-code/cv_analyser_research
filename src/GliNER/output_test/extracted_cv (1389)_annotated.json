@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "creative",
+        "problem solving",
+        "management skill",
+        "YEAR BOARD/ UNIVERSITYPERCENTA",
+        "GTU",
+        "Strength",
+        "Broad minded",
+        "Optimistic",
+        "Believe in Team Work",
+        "Eager to know new things",
+        "Male",
+        "Single",
+        "English",
+        "Hindi",
+        "Gujarati"
+    ],
+    "professional_info": {
+        "person name": [
+            "Rathod Savankumar Kiranbhai",
+            "Mr.Kiranbhai Rangilbhai Rathod",
+            "SAVAN.K.",
+            "RATHOD"
+        ],
+        "job title": [
+            "Mechanical Engineer",
+            "BUSINESSMAN"
+        ],
+        "company": [
+            "growing",
+            "company",
+            "GE",
+            "H.S.C.",
+            "G.S.H.E.B",
+            "S.S.C.",
+            "G.S.E.B",
+            "ESSAR",
+            "HAZIRA"
+        ],
+        "university": [],
+        "degree": [
+            "B.E.",
+            "MECHANICAL",
+            "BE. Mechanical"
+        ],
+        "years of experience": [],
+        "address": [
+            "AT-Kareli",
+            "TA-Palsana",
+            "DIST-Surat",
+            "Opp.telephone exchange"
+        ],
+        "email": [
+            "Email",
+            "savanrathod46@gmail.com",
+            "+91 9687967987"
+        ],
+        "phone": [
+            "394310"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "creative": 0.3267,
+            "problem solving": 0.4145,
+            "management skill": 0.2966,
+            "YEAR BOARD/ UNIVERSITYPERCENTA": 0.1859,
+            "GTU": 0.2596,
+            "Strength": 0.1642,
+            "Broad minded": 0.5304,
+            "Optimistic": 0.5498,
+            "Believe in Team Work": 0.5337,
+            "Eager to know new things": 0.3166,
+            "Male": 0.2323,
+            "Single": 0.371,
+            "English": 0.8317,
+            "Hindi": 0.8275,
+            "Gujarati": 0.8492
+        },
+        "filename": "cv (1389)_annotated.json"
+    }
+}

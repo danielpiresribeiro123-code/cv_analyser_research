@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "Civil Engineering",
+        "MS office",
+        "AUTOCAD-2014",
+        "Internet Browser",
+        "KEY SKILLS",
+        "Construction structure",
+        "Quantity surveyor",
+        "Sub-contractor bills",
+        "Bar-bending schedule preparation",
+        "Labour handling",
+        "Material arrangement",
+        "Concrete work",
+        "finishing work",
+        "AREA OF EXPERTISE",
+        "Single",
+        "English",
+        "Kannada",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "SREKANTH T J",
+            "JAYADEV T S"
+        ],
+        "job title": [
+            "project Consultant",
+            "Consultant Engineer & Developer",
+            "Site Engineer"
+        ],
+        "company": [
+            "T.R. RAJAN",
+            "Shilpa Siri enterprises",
+            "Prestige Exora business park",
+            "External development works",
+            "Prestige shanthi nekethan forum mall"
+        ],
+        "university": [
+            "STJ INSTITUTE OF TECHNOLOGY"
+        ],
+        "degree": [
+            "B E in Civil Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "Sujasree niliya #1726/152"
+        ],
+        "email": [
+            "Email",
+            "Srikanthtj1992@gmail.com",
+            "Indian"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9663663356"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Civil Engineering": 0.6309,
+            "MS office": 0.8765,
+            "AUTOCAD-2014": 0.6419,
+            "Internet Browser": 0.8438,
+            "KEY SKILLS": 0.2545,
+            "Construction structure": 0.5622,
+            "Quantity surveyor": 0.3884,
+            "Sub-contractor bills": 0.3647,
+            "Bar-bending schedule preparation": 0.1879,
+            "Labour handling": 0.3569,
+            "Material arrangement": 0.34,
+            "Concrete work": 0.2593,
+            "finishing work": 0.2155,
+            "AREA OF EXPERTISE": 0.2289,
+            "Single": 0.4175,
+            "English": 0.5585,
+            "Kannada": 0.523,
+            "Hindi": 0.5522
+        },
+        "filename": "cv (565)_annotated.json"
+    }
+}

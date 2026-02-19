@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "skills",
+        "executive or leadership position",
+        "Skills",
+        "Instructional Design",
+        "Teaching",
+        "Development",
+        "Evernote",
+        "Social Media",
+        "Excel",
+        "Photoshop",
+        "Management",
+        "Projects",
+        "Financial Analysis",
+        "Portfolio Managament",
+        "Liability Structuring",
+        "Work History",
+        "Teaches",
+        "approved courses of study",
+        "academic strengths",
+        "standards",
+        "risk-taking",
+        "respectful and polite",
+        "District approved behavior modification techniques",
+        "Mathematics",
+        "ELA",
+        "History",
+        "Robotics"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "TEACHER",
+            "Staff",
+            "Current",
+            "administrators",
+            "faculty",
+            "parents"
+        ],
+        "company": [
+            "Adobe",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Slack",
+            "Outlook"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "skills": 0.2693,
+            "executive or leadership position": 0.3568,
+            "Skills": 0.2644,
+            "Instructional Design": 0.3407,
+            "Teaching": 0.1787,
+            "Development": 0.337,
+            "Evernote": 0.3174,
+            "Social Media": 0.3915,
+            "Excel": 0.4369,
+            "Photoshop": 0.3716,
+            "Management": 0.5641,
+            "Projects": 0.3184,
+            "Financial Analysis": 0.3446,
+            "Portfolio Managament": 0.1885,
+            "Liability Structuring": 0.1951,
+            "Work History": 0.1634,
+            "Teaches": 0.1618,
+            "approved courses of study": 0.1556,
+            "academic strengths": 0.4571,
+            "standards": 0.566,
+            "risk-taking": 0.2423,
+            "respectful and polite": 0.331,
+            "District approved behavior modification techniques": 0.2058,
+            "Mathematics": 0.4444,
+            "ELA": 0.5166,
+            "History": 0.2009,
+            "Robotics": 0.35
+        },
+        "filename": "cv (4298)_annotated.json"
+    }
+}

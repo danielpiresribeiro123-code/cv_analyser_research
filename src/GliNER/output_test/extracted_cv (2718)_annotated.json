@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "excel",
+        "Star Performer Award"
+    ],
+    "professional_info": {
+        "person name": [
+            "PURAN PANDEY",
+            "JIM CORBET",
+            "CHAIL"
+        ],
+        "job title": [
+            "Team Marketing Manager",
+            "TELE MARKETING LEADER",
+            "Top Tele Marketing Leader"
+        ],
+        "company": [
+            "progressive company",
+            "It’s the Time Share Company",
+            "PRIOR WORKING EXPOSERSSignature Siestas Pvt. Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "9 years’ experience"
+        ],
+        "address": [
+            "C-1",
+            "First Floor",
+            "RajuPark",
+            "New Delhi – 110062"
+        ],
+        "email": [
+            "Email",
+            "puranpandey795@gmail.com"
+        ],
+        "phone": [
+            "Contact No.",
+            "+91-8377912480",
+            "8527038918"
+        ]
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "excel": 0.179,
+            "Star Performer Award": 0.1679
+        },
+        "filename": "cv (2718)_annotated.json"
+    }
+}

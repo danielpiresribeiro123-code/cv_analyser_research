@@ -1,0 +1,42 @@
+{
+    "skills": [
+        "Excel",
+        "audit learning theory"
+    ],
+    "professional_info": {
+        "person name": [
+            "HRIDAY"
+        ],
+        "job title": [
+            "hriday10",
+            "HR Executive",
+            "HR Executive-Payroll",
+            "Assistant HR",
+            "Generalist",
+            "HR-Intern"
+        ],
+        "company": [
+            "Arsha Infra Developers Pvt Ltd",
+            "Denave India Pvt Ltd",
+            "Country Club India Ltd",
+            "Lords Hotels & Resorts Pvt Ltd"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "gmail",
+            "mail"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "Excel": 0.3397,
+            "audit learning theory": 0.8639
+        },
+        "filename": "cv (1765)_annotated.json"
+    }
+}

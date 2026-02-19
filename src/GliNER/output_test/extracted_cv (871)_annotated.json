@@ -1,0 +1,96 @@
+{
+    "skills": [
+        "Cartier Magazine",
+        "Conde Nast Traveler",
+        "Entertainment Weekly",
+        "ESPN Magazine",
+        "Maxim O Magazine",
+        "Zoot",
+        "MTV Fashionista",
+        "Calmart",
+        "Gen Art"
+    ],
+    "professional_info": {
+        "person name": [
+            "Maria Divaris",
+            "Ally Walker",
+            "Ali McGraw",
+            "Ashley Benson",
+            "Brooke Shileds",
+            "Camilla Alves",
+            "Carrie Preston",
+            "Cat Cora",
+            "Cheryl Burke",
+            "Christy Turlington",
+            "Cobie Smulders",
+            "Daniella Alonso",
+            "Denise Richards",
+            "Derek Hough",
+            "Elisabeth Rohm",
+            "Eva Longoria",
+            "Gavin Rossdale",
+            "Hannah Simone",
+            "Jillian Michaels",
+            "Jordin Sparks",
+            "Kelly Preston",
+            "Kristin Cavallari",
+            "Kyra Sedgwick",
+            "Lauren Hutton",
+            "Lucy Hale",
+            "Mary Lynn Rajskub",
+            "Mena Suvari",
+            "Miranda Cosgrove",
+            "Miranda Lambert",
+            "Monica Potter",
+            "Paris Hilton",
+            "Paul Wesley",
+            "Rashida Jones",
+            "Rebecca Hall",
+            "Ryan Kwanten",
+            "Sela Ward",
+            "Serena Williams",
+            "Shailene Woodley",
+            "Shay Mitchell",
+            "Troian Bellisario",
+            "Usain Bolt",
+            "Ay Yildiz",
+            "Sara Berman",
+            "Trevor Smith",
+            "Eduardo Lucero",
+            "Carlos Rosario",
+            "Heike Jarick",
+            "Freddie Rojas",
+            "Carlos Ortiz"
+        ],
+        "job title": [
+            "Hairstylist"
+        ],
+        "company": [
+            "Marie Claire"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue",
+            "90034"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Cartier Magazine": 0.2201,
+            "Conde Nast Traveler": 0.1927,
+            "Entertainment Weekly": 0.1866,
+            "ESPN Magazine": 0.2024,
+            "Maxim O Magazine": 0.3021,
+            "Zoot": 0.1517,
+            "MTV Fashionista": 0.1832,
+            "Calmart": 0.1839,
+            "Gen Art": 0.1531
+        },
+        "filename": "cv (871)_annotated.json"
+    }
+}

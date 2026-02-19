@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "take up challenging and innovative job",
+        "Educational Qualification",
+        "Strength",
+        "Positive Attitude",
+        "Co Operative",
+        "Quick learner",
+        "Punjabi",
+        "Hindi",
+        "Marital Status",
+        "Un Married"
+    ],
+    "professional_info": {
+        "person name": [
+            "Maneeb",
+            "Moti lal"
+        ],
+        "job title": [
+            "Electrician"
+        ],
+        "company": [
+            "VPO Hambran",
+            "Teh. &",
+            "organization of repute",
+            "Jai Durga Plyboard Factory Hambran"
+        ],
+        "university": [
+            "10th From PSEB Mohali"
+        ],
+        "degree": [],
+        "years of experience": [
+            "2 Year experience"
+        ],
+        "address": [
+            "Distt. Ludhiana",
+            "Cont. no.  97811-83135"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "take up challenging and innovative job": 0.2543,
+            "Educational Qualification": 0.2497,
+            "Strength": 0.297,
+            "Positive Attitude": 0.4821,
+            "Co Operative": 0.4776,
+            "Quick learner": 0.4064,
+            "Punjabi": 0.8938,
+            "Hindi": 0.9235,
+            "Marital Status": 0.1856,
+            "Un Married": 0.2693
+        },
+        "filename": "cv (1990)_annotated.json"
+    }
+}

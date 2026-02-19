@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "expertise",
+        "Scripting language",
+        "City , State",
+        "Data warehouse",
+        "Business Intelligence Tool",
+        "Stored procedures",
+        "Visualization Tool",
+        ".NET Framework",
+        "JavaScript",
+        "Web APIs",
+        "SQL queries",
+        ".NET Codes",
+        "Student Information System",
+        "data model",
+        "Agile Methodology",
+        "Azure DevOps"
+    ],
+    "professional_info": {
+        "person name": [
+            "Pavithra Shetty"
+        ],
+        "job title": [
+            "Customer-oriented Principal Consultant",
+            "Principal Consultant",
+            "junior developer",
+            "Business Intelligence Developer"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "expertise": 0.3222,
+            "Scripting language": 0.5112,
+            "City , State": 0.2727,
+            "Data warehouse": 0.7172,
+            "Business Intelligence Tool": 0.7313,
+            "Stored procedures": 0.151,
+            "Visualization Tool": 0.4123,
+            ".NET Framework": 0.8695,
+            "JavaScript": 0.6968,
+            "Web APIs": 0.8783,
+            "SQL queries": 0.1691,
+            ".NET Codes": 0.2241,
+            "Student Information System": 0.2354,
+            "data model": 0.1592,
+            "Agile Methodology": 0.8629,
+            "Azure DevOps": 0.7278
+        },
+        "filename": "cv (4446)_annotated.json"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "skills": [
+        "Dropbox",
+        "Windows",
+        "Linux",
+        "Mac"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [],
+        "company": [],
+        "university": [
+            "school"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Dropbox": 0.9199,
+            "Windows": 0.9281,
+            "Linux": 0.9376,
+            "Mac": 0.8809
+        },
+        "filename": "cv (2240)_annotated.json"
+    }
+}

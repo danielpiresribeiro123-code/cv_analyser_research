@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "Creative and positive leadership",
+        "Able to deliver exceptional results",
+        "operating standards",
+        "Efficient and highly organized",
+        "Professional managing skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "Khulood Rashed Al -Saad",
+            "H.R.H. Shaikha  Sabeeka Bint Ebrahim Al Khalifa"
+        ],
+        "job title": [
+            "Member of the Supreme Council for Women",
+            "Head of Treasury, Securities & Derivatives Operations",
+            "Corporate Title",
+            "Vice President Unit",
+            "Head of Operations"
+        ],
+        "company": [
+            "Gulf International Bank Bahrain",
+            "GIB Bahrain"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "H245",
+            "R1",
+            "B807",
+            "Isa Town",
+            "Arabic",
+            "English"
+        ],
+        "email": [
+            "Email Address    khulood.alsaad@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "(+973) 3960  8896"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Creative and positive leadership": 0.3276,
+            "Able to deliver exceptional results": 0.2475,
+            "operating standards": 0.2154,
+            "Efficient and highly organized": 0.263,
+            "Professional managing skills": 0.2909
+        },
+        "filename": "cv (1363)_annotated.json"
+    }
+}

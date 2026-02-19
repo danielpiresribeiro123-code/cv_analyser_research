@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Marital Status          Married",
+        "management",
+        "administration",
+        "Certificate in Cake and Bread Production",
+        "Diploma in Disaster Management",
+        "Certificate in Disaster Management",
+        "Certificate In Information Technology"
+    ],
+    "professional_info": {
+        "person name": [
+            "Elly Natembea Mahasi"
+        ],
+        "job title": [
+            "effective team player",
+            "ICT BRANCH CHAMPION",
+            "Manager",
+            "ICT SUPPORT ASSISTANT"
+        ],
+        "company": [
+            "Sirakaru High School",
+            "UCHUMI SUPERTMARKETS LIMITED"
+        ],
+        "university": [
+            "Vision college of Cake and Confectionery",
+            "Masinde Muliro University",
+            "Eldoret Polytechnic"
+        ],
+        "degree": [
+            "Certificate of Secondary education",
+            "Certificate of Primary Education"
+        ],
+        "years of experience": [],
+        "address": [
+            "Contact address",
+            "Postal Address",
+            "73167",
+            "NAIROBI"
+        ],
+        "email": [
+            "E-Mail",
+            "ellynatembeam@gmail.com"
+        ],
+        "phone": [
+            "Mobile Telephone",
+            "+254 0723432192"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Marital Status          Married": 0.2808,
+            "management": 0.2656,
+            "administration": 0.1592,
+            "Certificate in Cake and Bread Production": 0.7935,
+            "Diploma in Disaster Management": 0.8355,
+            "Certificate in Disaster Management": 0.8486,
+            "Certificate In Information Technology": 0.844
+        },
+        "filename": "cv (1407)_annotated.json"
+    }
+}

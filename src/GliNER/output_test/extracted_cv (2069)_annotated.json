@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "NACE LEVEL 2",
+        "technical expertise",
+        "innovative ideas",
+        "Diploma in Mechanical",
+        "NACE level  2 Certified Coating",
+        "Certificate No.:  41605"
+    ],
+    "professional_info": {
+        "person name": [
+            "JAVED AHMED QUADRI"
+        ],
+        "job title": [
+            "QA/QC Coating and Painting Inspector",
+            "QC Coating and Painting Inspector",
+            "Painting Supervisor",
+            "QA/QC Coating & Painting Inspector"
+        ],
+        "company": [
+            "SAUDI ARAMCO",
+            "progressive company",
+            "National Building Company",
+            "NACE International",
+            "American Galvanizers Association (AGA)"
+        ],
+        "university": [
+            "Al Kabir Polytechnic"
+        ],
+        "degree": [],
+        "years of experience": [
+            "7 years of experience",
+            "6 years of experience",
+            "Three years"
+        ],
+        "address": [],
+        "email": [
+            "hijaved@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "NACE LEVEL 2": 0.636,
+            "technical expertise": 0.7478,
+            "innovative ideas": 0.2981,
+            "Diploma in Mechanical": 0.7449,
+            "NACE level  2 Certified Coating": 0.6514,
+            "Certificate No.:  41605": 0.7624
+        },
+        "filename": "cv (2069)_annotated.json"
+    }
+}

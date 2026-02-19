@@ -1,0 +1,100 @@
+{
+    "skills": [
+        "Cosmopolitan",
+        "Glamour",
+        "GQ",
+        "Harper’s Bazaar",
+        "L’Uomo Vogue",
+        "Teen Vogue",
+        "Tetu Tu Style",
+        "Vogue",
+        "Intima Moda",
+        "Smashbox"
+    ],
+    "professional_info": {
+        "person name": [
+            "Edward Cruz",
+            "Adrienne Maloof",
+            "Afrika Bambaataa",
+            "Anna Wintour",
+            "Ariana Grande",
+            "Bethenny Frankel",
+            "Carlos Ponce",
+            "Chris Brown",
+            "David Bisbal",
+            "E. L. James",
+            "Fanny Lú",
+            "Gabrielle Anwar",
+            "Jaicko",
+            "Jennifer Lopez",
+            "Joanna Krupa",
+            "Katrina Campins",
+            "Kelis",
+            "Kirsten Dunst",
+            "Lisa Salters",
+            "Mariah Carey",
+            "Natalie Morales",
+            "Paula Abdul",
+            "Sonia Kashuk",
+            "Tobey McGuire",
+            "Walter Perez",
+            "John Masters",
+            "George Bellard",
+            "Fanny Lu",
+            "Natalia Betncurt",
+            "Danny Santiago",
+            "Irene Marie"
+        ],
+        "job title": [
+            "Makeup Artist",
+            "Key Artist"
+        ],
+        "company": [
+            "JKing & Maximan",
+            "Maxim",
+            "Trump",
+            "Fiat",
+            "Frito Lay",
+            "Orgainc",
+            "Johnson & Johnson",
+            "LPG",
+            "Oribe",
+            "Pantene",
+            "Target",
+            "Walmart",
+            "Belks",
+            "Chicos",
+            "INCA",
+            "JC Penny",
+            "Neiman Marcus",
+            "Pampered Chef",
+            "Falguni & Shane Peacock",
+            "Mercedes",
+            "MAC"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Cosmopolitan": 0.2499,
+            "Glamour": 0.1817,
+            "GQ": 0.2537,
+            "Harper’s Bazaar": 0.1841,
+            "L’Uomo Vogue": 0.2177,
+            "Teen Vogue": 0.2851,
+            "Tetu Tu Style": 0.1861,
+            "Vogue": 0.2254,
+            "Intima Moda": 0.1911,
+            "Smashbox": 0.1767
+        },
+        "filename": "cv (941)_annotated.json"
+    }
+}

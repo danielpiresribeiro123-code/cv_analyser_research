@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "proven ability",
+        "Well mannered",
+        "articulate",
+        "point of contact",
+        "Male",
+        "Distributed Computing",
+        "Emerging Programming Paradigms",
+        "Knowledge Management and Data Mining",
+        "Advanced Computer Architecture",
+        "Software Engineering",
+        "Data Communication and Network",
+        "Microprocessor and Microcomputer Applications",
+        "Advanced Topics in Algorithm",
+        "Enterprise Resource Planning",
+        "Artificial Intelligence",
+        "Ecommerce",
+        "Computer and Internet"
+    ],
+    "professional_info": {
+        "person name": [
+            "Saud Ali Habib AL-Jardani",
+            "Soud Ali Habib AL-Jardani"
+        ],
+        "job title": [
+            "systems  administrator",
+            "IT department"
+        ],
+        "company": [],
+        "university": [
+            "CVCV",
+            "Mazoon College Muscat",
+            "Majan College (University College) Darsayt",
+            "University of Luton"
+        ],
+        "degree": [
+            "Master of Technology (M.Tech) Computer Science",
+            "Bachelor Degree with Honor"
+        ],
+        "years of experience": [],
+        "address": [
+            "P.O BOX",
+            "RUWI",
+            "POSTAL CODE"
+        ],
+        "email": [
+            "E-mail",
+            "saud_aljardani@yahoo.com"
+        ],
+        "phone": [
+            "Phone",
+            "99542298--98201208"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "proven ability": 0.2842,
+            "Well mannered": 0.3052,
+            "articulate": 0.266,
+            "point of contact": 0.1762,
+            "Male": 0.2448,
+            "Distributed Computing": 0.4849,
+            "Emerging Programming Paradigms": 0.283,
+            "Knowledge Management and Data Mining": 0.2099,
+            "Advanced Computer Architecture": 0.3551,
+            "Software Engineering": 0.3202,
+            "Data Communication and Network": 0.2941,
+            "Microprocessor and Microcomputer Applications": 0.3297,
+            "Advanced Topics in Algorithm": 0.2352,
+            "Enterprise Resource Planning": 0.2698,
+            "Artificial Intelligence": 0.4661,
+            "Ecommerce": 0.1598,
+            "Computer and Internet": 0.1803
+        },
+        "filename": "cv (1079)_annotated.json"
+    }
+}

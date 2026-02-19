@@ -1,0 +1,35 @@
+{
+    "skills": [
+        "APPA NPC",
+        "ICP",
+        "DépartementB ChimieB etB Environnement"
+    ],
+    "professional_info": {
+        "person name": [
+            "Laurent Alleman",
+            "BALLEMAN",
+            "BALLEMANB",
+            "alleman"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "Ecole des Mines de Douai",
+            "EcoleB desB Mine sB deB"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "APPA NPC": 0.1606,
+            "ICP": 0.1828,
+            "DépartementB ChimieB etB Environnement": 0.2534
+        },
+        "filename": "cv (1165)_annotated.json"
+    }
+}

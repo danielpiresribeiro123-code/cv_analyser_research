@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "OBJECTIVE",
+        "experience",
+        "effective interpersonal skills",
+        "organizational abilities",
+        "coordinating",
+        "planning",
+        "Ability to work under pressure",
+        "time-sensitive",
+        "Experienced",
+        "Manage the fleet of vehicles"
+    ],
+    "professional_info": {
+        "person name": [
+            "F. MOHAMED RAFI"
+        ],
+        "job title": [
+            "DIPLOMA MECHANICAL ENGINEER",
+            "Engineering position",
+            "PMV Superintendent",
+            "Superintendent"
+        ],
+        "company": [
+            "BLACK CAT ENGG & CONST. CO",
+            "DOHA-QATAR",
+            "Lincoln&Miller"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Strong",
+            "27 years work experience",
+            "12 years"
+        ],
+        "address": [
+            "2G/123",
+            "Villa Jugnu",
+            "Rajiv Nagar Second Street",
+            "Tuticorin-628008"
+        ],
+        "email": [
+            "Email",
+            "mohdrafi28@yahoo.co.in",
+            "Creative"
+        ],
+        "phone": [
+            "Mob – 0091-9003635466",
+            "Tel    -   009146123910"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "OBJECTIVE": 0.1881,
+            "experience": 0.1916,
+            "effective interpersonal skills": 0.309,
+            "organizational abilities": 0.2922,
+            "coordinating": 0.3137,
+            "planning": 0.276,
+            "Ability to work under pressure": 0.3255,
+            "time-sensitive": 0.2432,
+            "Experienced": 0.1505,
+            "Manage the fleet of vehicles": 0.195
+        },
+        "filename": "cv (1841)_annotated.json"
+    }
+}

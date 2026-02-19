@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "Admin & HR",
+        "excellent communication",
+        "interpersonal skills",
+        "flexible and detail oriented attitude",
+        "strong  relationship  management",
+        "leadership",
+        "organizational  abilities",
+        "confident  initiator",
+        "strong background",
+        "leadership qualities",
+        "Administration",
+        "Communication Skill",
+        "Team Working",
+        "Problem solving ability",
+        "Managing all HR activities",
+        "Managing all Admin activities",
+        "General administrations",
+        "Recruitment and Succession planning",
+        "Leave and Attendance management",
+        "Joining Formalities and Documentation",
+        "Induction and Orientation",
+        "Payroll",
+        "Employee Engagement",
+        "Experience"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUBASH KUMAR PRADHAN"
+        ],
+        "job title": [
+            "Asst. Manager",
+            "Sr. Executive",
+            "Executive –HR Roles & Responsibilities"
+        ],
+        "company": [
+            "Group Management Services Pvt Ltd",
+            "Group Management Service Pvt Ltd",
+            "Godsons Management Services Pvt Ltd",
+            "Reliance Capital Ltd"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "T-686",
+            "E/2"
+        ],
+        "email": [
+            "Email",
+            "subash_1980_007@yahoo.co."
+        ],
+        "phone": [
+            "Mob",
+            "9811751901"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Admin & HR": 0.2956,
+            "excellent communication": 0.5326,
+            "interpersonal skills": 0.5754,
+            "flexible and detail oriented attitude": 0.4282,
+            "strong  relationship  management": 0.3293,
+            "leadership": 0.4468,
+            "organizational  abilities": 0.3687,
+            "confident  initiator": 0.4131,
+            "strong background": 0.3147,
+            "leadership qualities": 0.5871,
+            "Administration": 0.201,
+            "Communication Skill": 0.2786,
+            "Team Working": 0.2766,
+            "Problem solving ability": 0.4142,
+            "Managing all HR activities": 0.2141,
+            "Managing all Admin activities": 0.186,
+            "General administrations": 0.2282,
+            "Recruitment and Succession planning": 0.2115,
+            "Leave and Attendance management": 0.401,
+            "Joining Formalities and Documentation": 0.4314,
+            "Induction and Orientation": 0.152,
+            "Payroll": 0.1556,
+            "Employee Engagement": 0.1878,
+            "Experience": 0.2478
+        },
+        "filename": "cv (69)_annotated.json"
+    }
+}

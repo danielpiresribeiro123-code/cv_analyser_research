@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "Post graduation",
+        "Accounts profile",
+        "excellent knowledge of accounts",
+        "financial planning",
+        "analysis",
+        "GAAP",
+        "Admirable capacity",
+        "creative skills",
+        "Technical Skills",
+        "MS office",
+        "MS Word",
+        "MS Excel",
+        "MS PowerPoint",
+        "Tally 9.0",
+        "Internet Savvy",
+        "Advance Excel",
+        "V lookup",
+        "H lookup",
+        "Advance formulas",
+        "XL Web pro"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Accountant",
+            "Innovator",
+            "Position"
+        ],
+        "company": [
+            "Work Experience Company",
+            "My Holiday Times Pvt. Ltd."
+        ],
+        "university": [],
+        "degree": [
+            "BBA",
+            "MBA"
+        ],
+        "years of experience": [
+            "3.5 years of experience"
+        ],
+        "address": [
+            "H-49/14",
+            "Fourth Floor",
+            "Ghalib apartment",
+            "Jamia Nagar",
+            "110025"
+        ],
+        "email": [
+            "aqueelahamad004@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9717454992"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Post graduation": 0.2305,
+            "Accounts profile": 0.3106,
+            "excellent knowledge of accounts": 0.1745,
+            "financial planning": 0.2872,
+            "analysis": 0.2611,
+            "GAAP": 0.2463,
+            "Admirable capacity": 0.2076,
+            "creative skills": 0.3715,
+            "Technical Skills": 0.3198,
+            "MS office": 0.6824,
+            "MS Word": 0.5134,
+            "MS Excel": 0.3603,
+            "MS PowerPoint": 0.4776,
+            "Tally 9.0": 0.4991,
+            "Internet Savvy": 0.3092,
+            "Advance Excel": 0.3465,
+            "V lookup": 0.2489,
+            "H lookup": 0.2104,
+            "Advance formulas": 0.3163,
+            "XL Web pro": 0.7017
+        },
+        "filename": "cv (1738)_annotated.json"
+    }
+}

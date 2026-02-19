@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Operational knowledge",
+        "Fire alarm system",
+        "CCTV system",
+        "Access Control",
+        "Public  Address system",
+        "Proficient",
+        "Team player",
+        "quick learning capability",
+        "Integrated Building Management System",
+        "Automation Products",
+        "Technical skills",
+        "Fire  Alarm",
+        "CCTV",
+        "Fire Fighting"
+    ],
+    "professional_info": {
+        "person name": [
+            "Syed Mubarak"
+        ],
+        "job title": [
+            "Field Service Engineer"
+        ],
+        "company": [
+            "Professional Experience Company",
+            "Slas Safe and"
+        ],
+        "university": [
+            "Anna University"
+        ],
+        "degree": [
+            "syedmujibu01@gmail.com",
+            "Education B.E-Electronic & Communication Engineering  (2016)"
+        ],
+        "years of experience": [],
+        "address": [
+            "385",
+            "Middle Stre et",
+            "Krishnajipattinam",
+            "Chennai"
+        ],
+        "email": [
+            "Mail Id"
+        ],
+        "phone": [
+            "Mobile No",
+            "+918056053021",
+            "Pudukkottai – 614630"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Operational knowledge": 0.5744,
+            "Fire alarm system": 0.1896,
+            "CCTV system": 0.3352,
+            "Access Control": 0.5286,
+            "Public  Address system": 0.4859,
+            "Proficient": 0.3623,
+            "Team player": 0.1587,
+            "quick learning capability": 0.2578,
+            "Integrated Building Management System": 0.2416,
+            "Automation Products": 0.2021,
+            "Technical skills": 0.2202,
+            "Fire  Alarm": 0.2258,
+            "CCTV": 0.263,
+            "Fire Fighting": 0.2015
+        },
+        "filename": "cv (2367)_annotated.json"
+    }
+}

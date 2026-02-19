@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Versatile",
+        "Maximizing Productivity and Profits",
+        "Quality Assurance for product",
+        "Leadership/Supervision",
+        "Professionalism",
+        "Dependable",
+        "Hardworking",
+        "Resourceful",
+        "Punctual",
+        "Honest",
+        "Attention to Detail",
+        "Team Player",
+        "Accomplishments",
+        "Mechanical",
+        "Chemical EngineerTraining",
+        "Leadership",
+        "Safety Training",
+        "CDL (expired)",
+        "Experience"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "PLANT OPERATOR",
+            "Dedicated System Operator",
+            "Forklift"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "6 years",
+            "Eleven years"
+        ],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Versatile": 0.1606,
+            "Maximizing Productivity and Profits": 0.2306,
+            "Quality Assurance for product": 0.2543,
+            "Leadership/Supervision": 0.498,
+            "Professionalism": 0.5687,
+            "Dependable": 0.6854,
+            "Hardworking": 0.6596,
+            "Resourceful": 0.6286,
+            "Punctual": 0.5497,
+            "Honest": 0.6003,
+            "Attention to Detail": 0.5882,
+            "Team Player": 0.5064,
+            "Accomplishments": 0.5159,
+            "Mechanical": 0.2698,
+            "Chemical EngineerTraining": 0.1731,
+            "Leadership": 0.3166,
+            "Safety Training": 0.1787,
+            "CDL (expired)": 0.6246,
+            "Experience": 0.4509
+        },
+        "filename": "cv (4749)_annotated.json"
+    }
+}

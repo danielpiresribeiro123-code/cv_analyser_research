@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "Paint Technologist",
+        "Good knowledge",
+        "painting",
+        "new skill",
+        "TPM",
+        "Rejection analysis",
+        "Root Cause analysis",
+        "SKILL",
+        "Surface Coating",
+        "Defects Analysis of Paint & Powder",
+        "working knowledge",
+        "Pretreatment process",
+        "Electro deposition process",
+        "Conventional liquid",
+        "powder coating",
+        "wet on wet application",
+        "M.S",
+        "Structure & Glass Painting",
+        "Handling R.O",
+        "ETP"
+    ],
+    "professional_info": {
+        "person name": [
+            "Anil Babanrao Dhamale",
+            "PRESENT EMPLOYER",
+            "PREVIOUS EMPLOYER"
+        ],
+        "job title": [
+            "Designation",
+            "Incharge CED coating shop"
+        ],
+        "company": [
+            "GSC Coating Ind Pvt. Ltd",
+            "CED coating plant",
+            "Bosch",
+            "Minda",
+            "Rose",
+            "Ultratech",
+            "Kalyani",
+            "Kores",
+            "Phoenix Mecano Ind Pvt. Ltd",
+            "Phoenix Mecano"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Positive attitude",
+            "Excellent communication skill",
+            "12 years +"
+        ],
+        "address": [
+            "Pune"
+        ],
+        "email": [
+            "Email",
+            "dhamalea@yahoo.com"
+        ],
+        "phone": [
+            "+919922456288"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Paint Technologist": 0.4045,
+            "Good knowledge": 0.1984,
+            "painting": 0.1504,
+            "new skill": 0.23,
+            "TPM": 0.2597,
+            "Rejection analysis": 0.1648,
+            "Root Cause analysis": 0.2044,
+            "SKILL": 0.2314,
+            "Surface Coating": 0.3756,
+            "Defects Analysis of Paint & Powder": 0.1994,
+            "working knowledge": 0.2329,
+            "Pretreatment process": 0.3132,
+            "Electro deposition process": 0.389,
+            "Conventional liquid": 0.2218,
+            "powder coating": 0.197,
+            "wet on wet application": 0.3006,
+            "M.S": 0.1771,
+            "Structure & Glass Painting": 0.2722,
+            "Handling R.O": 0.2211,
+            "ETP": 0.1931
+        },
+        "filename": "cv (713)_annotated.json"
+    }
+}

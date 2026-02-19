@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "English",
+        "German",
+        "elementary C type language",
+        "Research field",
+        "Experimental and numerical analysis of thin -walled steel structures",
+        "Stability analysis",
+        "arch bridges",
+        "Numerical modelling of steel joints",
+        "Virtual experiments based design",
+        "Earthquake analysis",
+        "Professional skill",
+        "Dunaújváros Danube bridge",
+        "M=1:34 scale model test",
+        "M0 Highway bridge",
+        "Earthquake course for engineers",
+        "OTKA T062970",
+        "OTKA T049305"
+    ],
+    "professional_info": {
+        "person name": [
+            "Attila László Joó",
+            "Ádány, Sándor",
+            "Dunai, László",
+            "Duna i, László",
+            "Dinar, Camotim"
+        ],
+        "job title": [
+            "External advisor",
+            "Assistant professor",
+            "Assista nt professor"
+        ],
+        "company": [],
+        "university": [
+            "BME",
+            "Department of Structural Engineering",
+            "BME -Instituto, Superior Téchnico",
+            "Lindab",
+            "Lindab Kft.",
+            "Instituto Superior Téchnico"
+        ],
+        "degree": [
+            "PhD",
+            "PhD in civil engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "1111 Budapest",
+            "Bertalan L. 2. Z./IX."
+        ],
+        "email": [
+            "Email",
+            "ajoo@ce -os.eu"
+        ],
+        "phone": [
+            "Tel",
+            "+36/1/463 -17-79",
+            "Fax",
+            "+36/1/463 -17-84"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "English": 0.5183,
+            "German": 0.444,
+            "elementary C type language": 0.1518,
+            "Research field": 0.1723,
+            "Experimental and numerical analysis of thin -walled steel structures": 0.3433,
+            "Stability analysis": 0.4008,
+            "arch bridges": 0.3465,
+            "Numerical modelling of steel joints": 0.3093,
+            "Virtual experiments based design": 0.5463,
+            "Earthquake analysis": 0.6139,
+            "Professional skill": 0.2761,
+            "Dunaújváros Danube bridge": 0.3438,
+            "M=1:34 scale model test": 0.2783,
+            "M0 Highway bridge": 0.4361,
+            "Earthquake course for engineers": 0.1784,
+            "OTKA T062970": 0.2842,
+            "OTKA T049305": 0.3109
+        },
+        "filename": "cv (1002)_annotated.json"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "Mobile No  9811455193",
+        "Hotel management &catering technology manav bharti",
+        "COMPUTER KNOWLADGE",
+        "Basic knowledge of computer",
+        "STRENGH",
+        "Initiative",
+        "Maturity & Stability",
+        "Honesty",
+        "Flexibility",
+        "Excellent",
+        "ability for all work",
+        "SKILL",
+        "Good communication skill",
+        "Able to do work efficiently",
+        "Language knowledge",
+        "English",
+        "Hindi",
+        "Garhwali"
+    ],
+    "professional_info": {
+        "person name": [
+            "ANIL RAWAT",
+            "G S Rawat",
+            "Indian"
+        ],
+        "job title": [
+            "canteen&Housekeeping supervisor"
+        ],
+        "company": [
+            "Delphi Automotive Systems PVT"
+        ],
+        "university": [
+            "university solan (Himanchal Pardesh)"
+        ],
+        "degree": [
+            "U.P. board"
+        ],
+        "years of experience": [
+            "Seventeen years  experience",
+            "Married"
+        ],
+        "address": [
+            "House No.RZF 18 B",
+            "Galli No-44",
+            "Sad Nagar Part II",
+            "VIATE"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Mobile No  9811455193": 0.3711,
+            "Hotel management &catering technology manav bharti": 0.2302,
+            "COMPUTER KNOWLADGE": 0.3368,
+            "Basic knowledge of computer": 0.3614,
+            "STRENGH": 0.2573,
+            "Initiative": 0.1705,
+            "Maturity & Stability": 0.4229,
+            "Honesty": 0.3555,
+            "Flexibility": 0.3881,
+            "Excellent": 0.4044,
+            "ability for all work": 0.4089,
+            "SKILL": 0.3476,
+            "Good communication skill": 0.4285,
+            "Able to do work efficiently": 0.4066,
+            "Language knowledge": 0.2438,
+            "English": 0.7289,
+            "Hindi": 0.7403,
+            "Garhwali": 0.7112
+        },
+        "filename": "cv (3533)_annotated.json"
+    }
+}

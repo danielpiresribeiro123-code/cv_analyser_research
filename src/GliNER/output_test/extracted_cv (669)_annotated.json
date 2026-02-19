@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "PRODUCTION ●OPERATIONS ●QUALITY  MANAGEMENT",
+        "Result oriented",
+        "proactive",
+        "hardworking professional",
+        "quality management",
+        "production planning",
+        "Solid knowledge",
+        "product development",
+        "Highly computer literate",
+        "team builder",
+        "proven ability to motivate team members",
+        "ISO 22000:2005",
+        "Inventory planning",
+        "BOM",
+        "RBOM Operations management",
+        "SOP improvements",
+        "Kaizen   Appraisal",
+        "Production & Quality Management",
+        "Production & Operation Management"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "PRAKASH KARUPPAIYA Food Processing Engineer",
+            "SENIOR OFFICER"
+        ],
+        "company": [
+            "ADITYA BIRLA RETAIL LTD",
+            "ADITYA BIRLA GROUP",
+            "Chennai Reprocessing Center (RPC)"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "4 years of achievement driven experience"
+        ],
+        "address": [
+            "1348 D/ 233",
+            "Palaniyappa Nagar",
+            "Thirugokarnam",
+            "Pudukkottai",
+            "622 002"
+        ],
+        "email": [
+            "prakashfoodeng@gmail.com"
+        ],
+        "phone": [
+            "+91 - 81241 28000"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "PRODUCTION ●OPERATIONS ●QUALITY  MANAGEMENT": 0.4866,
+            "Result oriented": 0.4295,
+            "proactive": 0.4003,
+            "hardworking professional": 0.3113,
+            "quality management": 0.306,
+            "production planning": 0.2909,
+            "Solid knowledge": 0.194,
+            "product development": 0.2218,
+            "Highly computer literate": 0.4049,
+            "team builder": 0.4222,
+            "proven ability to motivate team members": 0.1991,
+            "ISO 22000:2005": 0.8415,
+            "Inventory planning": 0.2392,
+            "BOM": 0.3091,
+            "RBOM Operations management": 0.2153,
+            "SOP improvements": 0.1697,
+            "Kaizen   Appraisal": 0.1539,
+            "Production & Quality Management": 0.3187,
+            "Production & Operation Management": 0.5379
+        },
+        "filename": "cv (669)_annotated.json"
+    }
+}

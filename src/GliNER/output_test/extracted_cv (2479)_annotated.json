@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "technical  knowledge",
+        "innovative  ideas",
+        "Major                                                   Physics",
+        "Individual   Athletic   Champion",
+        "Volley Ball Captain",
+        "MS - OFFICE",
+        "NIIT COMPUTER LITERACY PROGRAMME",
+        "Male",
+        "Single",
+        "Tamil",
+        "English",
+        "Hindi",
+        "Songs",
+        "Driving"
+    ],
+    "professional_info": {
+        "person name": [
+            "J. ANBUMURUGAN",
+            "R. JAYACHANDRAN"
+        ],
+        "job title": [
+            "Designation",
+            "Indoor Sales Executive",
+            "Sales Supervisor",
+            "College - Sports Secretary"
+        ],
+        "company": [
+            "Institution                                             Govt.Hr.Sec",
+            "R.C.T.Hr,Sec",
+            "Al Bahri Hardware & Safety Eqpt. Llc",
+            "Heritage Supermarket",
+            "Indian"
+        ],
+        "university": [
+            "Government Arts College.Chidambaram.",
+            "B.Mutlur.",
+            "School.Chidambaram."
+        ],
+        "degree": [
+            "Bachelor of Science",
+            "B.Sc."
+        ],
+        "years of experience": [
+            "Experience                                             1 year",
+            "Experience                                             6 years",
+            "34"
+        ],
+        "address": [
+            "27",
+            "FIRST FLOOR",
+            "ELLAIYAMMAN KOIL STREET",
+            "CHIDAMBARAM – 608 001",
+            "CUDDALORE DISTRICT"
+        ],
+        "email": [
+            "janbumurugan@gmail.com"
+        ],
+        "phone": [
+            "Mobile #",
+            "9444114485"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "technical  knowledge": 0.2886,
+            "innovative  ideas": 0.3065,
+            "Major                                                   Physics": 0.3573,
+            "Individual   Athletic   Champion": 0.1887,
+            "Volley Ball Captain": 0.1726,
+            "MS - OFFICE": 0.3612,
+            "NIIT COMPUTER LITERACY PROGRAMME": 0.4108,
+            "Male": 0.2187,
+            "Single": 0.3562,
+            "Tamil": 0.4689,
+            "English": 0.6298,
+            "Hindi": 0.6889,
+            "Songs": 0.2457,
+            "Driving": 0.1616
+        },
+        "filename": "cv (2479)_annotated.json"
+    }
+}

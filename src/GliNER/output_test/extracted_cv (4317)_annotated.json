@@ -1,0 +1,49 @@
+{
+    "skills": [
+        "Microsoft Office",
+        "Smart Board",
+        "Geographic Information System",
+        "Engrade",
+        "Skedula",
+        "Working knowledge of Internet",
+        "First Aid and CPR Certified",
+        "Excellent classroom management",
+        "Plan Development",
+        "leadership skills",
+        "leadership qualities"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "TEACHER",
+            "Education professional",
+            "student mentor and counselor",
+            "COSA teacher",
+            "Environmental action team leader"
+        ],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Microsoft Office": 0.6896,
+            "Smart Board": 0.5477,
+            "Geographic Information System": 0.6273,
+            "Engrade": 0.3584,
+            "Skedula": 0.4686,
+            "Working knowledge of Internet": 0.2177,
+            "First Aid and CPR Certified": 0.9083,
+            "Excellent classroom management": 0.5513,
+            "Plan Development": 0.1511,
+            "leadership skills": 0.5418,
+            "leadership qualities": 0.2936
+        },
+        "filename": "cv (4317)_annotated.json"
+    }
+}

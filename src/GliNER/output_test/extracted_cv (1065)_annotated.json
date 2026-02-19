@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "Diploma E&E",
+        "Maintenance of all Electrical & HVAC units",
+        "BMS Operation",
+        "Maintenance of Elevator",
+        "Maintenance of  LT panels"
+    ],
+    "professional_info": {
+        "person name": [
+            "ANIL KUMAR.G",
+            "P.H.GOVINDREDDY.G",
+            "DEVAREDDIHALLY",
+            "CHALLAKERE",
+            "CHITRADURGA",
+            "dharwada",
+            "tumkur"
+        ],
+        "job title": [
+            "S.S.L.C",
+            "ITI Electrician",
+            "Carrier Profile"
+        ],
+        "company": [
+            "vendors",
+            "AHU",
+            "Cummins"
+        ],
+        "university": [
+            "Siddaganga  polytechnic"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "gmail.com",
+            "Gangambika  English"
+        ],
+        "phone": [
+            "Mobil number",
+            "- 9591534613"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Diploma E&E": 0.6475,
+            "Maintenance of all Electrical & HVAC units": 0.1623,
+            "BMS Operation": 0.1839,
+            "Maintenance of Elevator": 0.1539,
+            "Maintenance of  LT panels": 0.1789
+        },
+        "filename": "cv (1065)_annotated.json"
+    }
+}

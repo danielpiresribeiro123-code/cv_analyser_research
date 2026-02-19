@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "civil engineering",
+        "planning",
+        "designing",
+        "Diploma"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAHUL",
+            "rahulsuneja0001",
+            "PARSONS BRINKERHOFF"
+        ],
+        "job title": [
+            "Civil Engineer",
+            "Site Engineer",
+            "CONSULTANT",
+            "CONTRACTOR",
+            "Jr. Engineer Trainee"
+        ],
+        "company": [
+            "SatPriya Group of Institution",
+            "1st, Division",
+            "IL&FS, Engineering & Construction Company ltd.",
+            "DLF SECTOR ROAD PROJECT (UNDER PASS)",
+            "GURGAON",
+            "HUDA & DLF",
+            "IL & FS ENGINEERING & CONSTRUCTIO COMPANY LTD.",
+            "C&C, Construction Pvt. Ltd."
+        ],
+        "university": [
+            "M.D.U",
+            "BITS College of Polytechnic",
+            "BHIWANI"
+        ],
+        "degree": [
+            "Bachelor’s degree  in Civil Engineering",
+            "Diploma in Civil Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "552-2/32-A",
+            "Shivaji Colony"
+        ],
+        "email": [
+            "Email",
+            "gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "07206650504"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "civil engineering": 0.6523,
+            "planning": 0.2558,
+            "designing": 0.1518,
+            "Diploma": 0.3342
+        },
+        "filename": "cv (3157)_annotated.json"
+    }
+}

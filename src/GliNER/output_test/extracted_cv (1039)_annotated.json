@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "highly\tmotivated",
+        "hardworking",
+        "result-driven\tpersonality",
+        "Accounting\tand\tFinance",
+        "Asset\tMarkets",
+        "Corporate\tFinance",
+        "Real\tEstate\tFinance",
+        "Management\tAccounting",
+        "Valuation\tand\tSecurity\tAnalysis",
+        "Accounting",
+        "Control\t&\tStrategy",
+        "Financial\tReporting",
+        "Management",
+        "Hotel\tIndustry"
+    ],
+    "professional_info": {
+        "person name": [
+            "VINEET\tMATHRADAS"
+        ],
+        "job title": [
+            "Fund\tManager",
+            "Research\tAnalyst\tIntern",
+            "Investment\tBanking\tIntern",
+            "Staff\tStudent\tCommittee\tRepresentative"
+        ],
+        "company": [
+            "CBSE\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tClass\tof\t2013\tIndian\tSchool\tMuscat",
+            "NEFS",
+            "Prabhudas\tLilladher\tPvt\tLimited",
+            "National\tBank\tof\tOman"
+        ],
+        "university": [
+            "OMANI\t\tEDUCATION",
+            "London\tSchool\tof\tEconomics\tand\tPolitical\tScience",
+            "University\tof\tNottingham",
+            "London\tSchool\tof\tEconomics"
+        ],
+        "degree": [
+            "BSc.\t(Hons)\tFinance"
+        ],
+        "years of experience": [],
+        "address": [
+            "Way\tNo.\t3023",
+            "House\tNo.\t1918",
+            "PO\tBox\t60",
+            "PC\t103",
+            "Shatti\tAl\tQurum"
+        ],
+        "email": [
+            "Email",
+            "vineetmathradas@gmail.com"
+        ],
+        "phone": [
+            "Telephone",
+            "+968-92822972"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "highly\tmotivated": 0.3288,
+            "hardworking": 0.4034,
+            "result-driven\tpersonality": 0.57,
+            "Accounting\tand\tFinance": 0.4529,
+            "Asset\tMarkets": 0.6667,
+            "Corporate\tFinance": 0.892,
+            "Real\tEstate\tFinance": 0.8236,
+            "Management\tAccounting": 0.7957,
+            "Valuation\tand\tSecurity\tAnalysis": 0.6745,
+            "Accounting": 0.7131,
+            "Control\t&\tStrategy": 0.7473,
+            "Financial\tReporting": 0.5651,
+            "Management": 0.1805,
+            "Hotel\tIndustry": 0.3043
+        },
+        "filename": "cv (1039)_annotated.json"
+    }
+}

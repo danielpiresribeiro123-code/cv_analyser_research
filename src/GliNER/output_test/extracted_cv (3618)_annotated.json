@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "core competencies",
+        "dictation",
+        "verbal direction",
+        "Diploma  in Computer Application",
+        "Certified  Tally  Genesis  Accountant-Foundation  Course",
+        "Certified English Typewriting course"
+    ],
+    "professional_info": {
+        "person name": [
+            "N.CHANDRA KUMAR",
+            "Taniamangalam VILL"
+        ],
+        "job title": [
+            "liaison",
+            "supervisors"
+        ],
+        "company": [
+            "Jawaharlal  Nehru  Rajkiya  Mahavidayalai",
+            "Govt Senior Secondary School Bathu Basthi",
+            "Govt  Secondary  School  .  Dairy  Farm",
+            "SSi Computer  Education",
+            "SIS  Computer Education",
+            "Geetha Institute of Commerce"
+        ],
+        "university": [
+            "Pondicherry University",
+            "Amman Consultants"
+        ],
+        "degree": [
+            "Bachelor's  degree  of  English  Literature"
+        ],
+        "years of experience": [],
+        "address": [
+            "Port Blair",
+            "Melur TK",
+            "Madurai DIST",
+            "Madurai Dist."
+        ],
+        "email": [
+            "Email",
+            "chandrku@gmail.com"
+        ],
+        "phone": [
+            "answering telephones"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "core competencies": 0.2788,
+            "dictation": 0.1523,
+            "verbal direction": 0.1869,
+            "Diploma  in Computer Application": 0.4615,
+            "Certified  Tally  Genesis  Accountant-Foundation  Course": 0.6752,
+            "Certified English Typewriting course": 0.5468
+        },
+        "filename": "cv (3618)_annotated.json"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "CERTIFICATE COURSE",
+        "AutoCAD",
+        "Drilling Machine",
+        "Arc Welding & Lathe Machine",
+        "Regenerative Braking System",
+        "LINGUISTIC PROFICIENCY",
+        "English",
+        "Hindi",
+        "EXTRA-CURRICULAR ACTICITY"
+    ],
+    "professional_info": {
+        "person name": [
+            "PRASHANT KUMAR DWIVEDI",
+            "Sri. Dinesh Kumar Dwivedi"
+        ],
+        "job title": [
+            "H - 9411210129",
+            "CAREER OBJECTIVE",
+            "tactical leadership"
+        ],
+        "company": [
+            "LucknowIIMT Engineering",
+            "College Meerut2011-2015"
+        ],
+        "university": [
+            "EngineeringUTTAR PRADESH",
+            "Technical University",
+            "Diesel Locomotive Workshop",
+            "DLF"
+        ],
+        "degree": [
+            "B. Tech. – Mechanical",
+            "CAD Centre Allahabad",
+            "B. Tech."
+        ],
+        "years of experience": [],
+        "address": [
+            "Village - Chauhanpatti",
+            "U-Block 64/6",
+            "Room No. 7"
+        ],
+        "email": [
+            "E-mail",
+            "dwivediprashant539@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "CERTIFICATE COURSE": 0.3752,
+            "AutoCAD": 0.5479,
+            "Drilling Machine": 0.3367,
+            "Arc Welding & Lathe Machine": 0.3609,
+            "Regenerative Braking System": 0.4119,
+            "LINGUISTIC PROFICIENCY": 0.5019,
+            "English": 0.7483,
+            "Hindi": 0.8509,
+            "EXTRA-CURRICULAR ACTICITY": 0.3201
+        },
+        "filename": "cv (2282)_annotated.json"
+    }
+}

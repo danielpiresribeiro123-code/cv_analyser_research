@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "Male",
+        "Single",
+        "English",
+        "Urdu",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMAD ASIF",
+            "Mohamed Abid",
+            "Mohammed Asif"
+        ],
+        "job title": [
+            "technician",
+            "mechanic"
+        ],
+        "company": [
+            "Audi",
+            "vw",
+            "bmw",
+            "hyundai",
+            "HONDA",
+            "TOYOTA",
+            "FORD",
+            "GMC",
+            "SEAT",
+            "Liberty Service centre LLC.",
+            "Budget Rent Car Group",
+            "Al Habtoor Motors Group",
+            "Sai Automobiles PVT. LTD.",
+            "Skoda Dealer",
+            "excel motors PVT. LTD."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Bareilly"
+        ],
+        "email": [
+            "Email",
+            "ID-Asif_khan_uae92@yahoo.com",
+            "ID-Asifkhan907"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Male": 0.1505,
+            "Single": 0.197,
+            "English": 0.7329,
+            "Urdu": 0.672,
+            "Hindi": 0.7328
+        },
+        "filename": "cv (2061)_annotated.json"
+    }
+}

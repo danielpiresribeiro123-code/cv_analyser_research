@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "Competent professional",
+        "Operations Management",
+        "Quality Assurance",
+        "Client Serving",
+        "process Management",
+        "Team Management",
+        "Proficient",
+        "process operations",
+        "services standards",
+        "Skills",
+        "Strong communication & interpersonal skills",
+        "proven abilities",
+        "customer relationship management",
+        "Self motivated and organized individual",
+        "Client Servicing",
+        "Process Management",
+        "Quality Management"
+    ],
+    "professional_info": {
+        "person name": [
+            "Imtiyaz Ahmad Shiekh"
+        ],
+        "job title": [],
+        "company": [
+            "organization",
+            "well respected organization"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "9 years of experience"
+        ],
+        "address": [
+            "R/o Bicherwara",
+            "Teh Handwaara",
+            "Distt. Kupwara",
+            "Block. Langate",
+            "Pin.193302"
+        ],
+        "email": [
+            "E mail",
+            "e-mail"
+        ],
+        "phone": [
+            "Cell No",
+            "+91 9596428154/ 9980650013"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Competent professional": 0.239,
+            "Operations Management": 0.5483,
+            "Quality Assurance": 0.6106,
+            "Client Serving": 0.611,
+            "process Management": 0.638,
+            "Team Management": 0.7636,
+            "Proficient": 0.4159,
+            "process operations": 0.158,
+            "services standards": 0.6328,
+            "Skills": 0.1544,
+            "Strong communication & interpersonal skills": 0.689,
+            "proven abilities": 0.2468,
+            "customer relationship management": 0.4926,
+            "Self motivated and organized individual": 0.445,
+            "Client Servicing": 0.572,
+            "Process Management": 0.672,
+            "Quality Management": 0.6352
+        },
+        "filename": "cv (750)_annotated.json"
+    }
+}

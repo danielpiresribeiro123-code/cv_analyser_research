@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "power plants",
+        "control panels",
+        "LIGHTING CONTROL PANELS",
+        "PROFESSIONAL QUALIFICATION",
+        "PROFICIENCY CERTIFICATE",
+        "ITI",
+        "NCFVT INDIA   1990 TO 1992",
+        "EDUCATION  QUALIFICATION"
+    ],
+    "professional_info": {
+        "person name": [
+            "DILBAG SINGH"
+        ],
+        "job title": [
+            "ELECTRICAL TECHNICIAN",
+            "electrician",
+            "DESIGNATION / PERIOD",
+            "DESIGNATION / PERIOD                   ELECTRICIAN",
+            "DESIGNATION / PERIOD                                        ELECTRICIAN"
+        ],
+        "company": [
+            "M/S TARGET ENGINEERING CONST. CO. LLC",
+            "ABU DHABI U.A.E.",
+            "ECL",
+            "ALAIN GENERAL CONTRACTING CO. L.L.C.",
+            "ALGECO",
+            "ALAIN U.A.E.",
+            "KASHMIR  ELECTRIC TRADING CO.",
+            "PUNJAB SCHOOL EDUCATION BOARD WITH ELECTRICAL WIRING"
+        ],
+        "university": [
+            "HIGHER TECHNOLOGY COLLEGE DUBAI",
+            "COLLEGE FUJERAH",
+            "HIGHER TECHNOLOGY COLLEGE RAS AL KHEMA"
+        ],
+        "degree": [
+            "BACHELOR OF ARTS FROM INDIA"
+        ],
+        "years of experience": [
+            "23 years",
+            "11 years"
+        ],
+        "address": [
+            "P.O. BOX NO. -32258",
+            "P.O. BOX",
+            "1017"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "power plants": 0.1637,
+            "control panels": 0.3038,
+            "LIGHTING CONTROL PANELS": 0.1577,
+            "PROFESSIONAL QUALIFICATION": 0.4044,
+            "PROFICIENCY CERTIFICATE": 0.6493,
+            "ITI": 0.561,
+            "NCFVT INDIA   1990 TO 1992": 0.3591,
+            "EDUCATION  QUALIFICATION": 0.4509
+        },
+        "filename": "cv (1464)_annotated.json"
+    }
+}

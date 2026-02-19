@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "M.Sc",
+        "matlab",
+        "fortran",
+        "JAVA",
+        "VOIP",
+        "TCP/IP",
+        "SS7",
+        "ISDN",
+        "H.323",
+        "Mathematica",
+        "C++",
+        "Python",
+        "HTML OFFICE",
+        "MS-Office",
+        "LaTeX",
+        "Windows",
+        "Linux",
+        "T1",
+        "LAN",
+        "WAN"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [],
+        "company": [
+            "ציון"
+        ],
+        "university": [
+            "אורי לונדון",
+            "ציון"
+        ],
+        "degree": [
+            "Ph.D",
+            "B.Sc"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "ulondon@gmail.com"
+        ],
+        "phone": [
+            "050 -638 -5397"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "M.Sc": 0.2456,
+            "matlab": 0.8233,
+            "fortran": 0.5845,
+            "JAVA": 0.3483,
+            "VOIP": 0.2918,
+            "TCP/IP": 0.9021,
+            "SS7": 0.859,
+            "ISDN": 0.8675,
+            "H.323": 0.7748,
+            "Mathematica": 0.772,
+            "C++": 0.8315,
+            "Python": 0.8277,
+            "HTML OFFICE": 0.1583,
+            "MS-Office": 0.4975,
+            "LaTeX": 0.4229,
+            "Windows": 0.8922,
+            "Linux": 0.9284,
+            "T1": 0.8082,
+            "LAN": 0.8134,
+            "WAN": 0.7632
+        },
+        "filename": "cv (805)_annotated.json"
+    }
+}

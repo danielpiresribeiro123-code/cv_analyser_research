@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "state-of-art technology",
+        "knowledge",
+        "desire and drive to succeed",
+        "Senior Secondary 2011",
+        "Matriculation 2009",
+        "Brake System",
+        "Design and develop",
+        "TECHNICAL KNOWLEDGE",
+        "Designing",
+        "Understanding existing System",
+        "Detailed Knowledge",
+        "SOFTWARE SKILLS",
+        "Auto CAD",
+        "STRENGTH",
+        "Sense of Responsibility & Honesty towards Job",
+        "Punctuality and Confidence",
+        "Team Work",
+        "Leadership Qualities",
+        "can-do spirit"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHALAV  GOEL"
+        ],
+        "job title": [],
+        "company": [
+            "Board of School Education Haryana",
+            "Carriage & Wagon Workshop",
+            "Deen Bandhu Chhotu Ram Thermal Power Project",
+            "CADD CENTRE Training Services Pvt. Ltd"
+        ],
+        "university": [
+            "Seth Jai Parkash Mukand Lal Institute of Engineering & Technology",
+            "Kurukshetra University",
+            "S.D. Senior Secondary School",
+            "Board of School Education Haryana"
+        ],
+        "degree": [
+            "B.Tech"
+        ],
+        "years of experience": [],
+        "address": [
+            "Roop Nagar Colony"
+        ],
+        "email": [
+            "shalavgoel@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9034291589"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "state-of-art technology": 0.1512,
+            "knowledge": 0.1669,
+            "desire and drive to succeed": 0.2039,
+            "Senior Secondary 2011": 0.2768,
+            "Matriculation 2009": 0.3059,
+            "Brake System": 0.2439,
+            "Design and develop": 0.293,
+            "TECHNICAL KNOWLEDGE": 0.4206,
+            "Designing": 0.34,
+            "Understanding existing System": 0.3473,
+            "Detailed Knowledge": 0.3119,
+            "SOFTWARE SKILLS": 0.272,
+            "Auto CAD": 0.4729,
+            "STRENGTH": 0.2343,
+            "Sense of Responsibility & Honesty towards Job": 0.1913,
+            "Punctuality and Confidence": 0.2795,
+            "Team Work": 0.1833,
+            "Leadership Qualities": 0.3519,
+            "can-do spirit": 0.2361
+        },
+        "filename": "cv (3371)_annotated.json"
+    }
+}

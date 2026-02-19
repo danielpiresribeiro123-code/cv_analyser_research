@@ -1,0 +1,95 @@
+{
+    "skills": [
+        "LANGUAGE",
+        "ENGLISH",
+        "KISWAHILI",
+        "highly motivated",
+        "ECONOMICS",
+        "Microeconomics",
+        "Financial economics",
+        "Managerial economics",
+        "Macr oeconomics",
+        "Monetary theory and practice",
+        "Economic demography",
+        "Project planning and management",
+        "Econometrics",
+        "Labour economics",
+        "Health economics",
+        "Economic statistics",
+        "Research methodology",
+        "International finance",
+        "Economic development",
+        "Computer packages",
+        "ISO 9001:2008",
+        "KEY SKILLS AND COMPETENCIES",
+        "complex economic concepts",
+        "mathematics and business"
+    ],
+    "professional_info": {
+        "person name": [
+            "ALEX MUKHISA WASILWA",
+            "KENYAN",
+            "recent economics graduate"
+        ],
+        "job title": [
+            "SINGLE",
+            "CAREEER OBJECTIVES",
+            "Intern",
+            "Sales person"
+        ],
+        "company": [
+            "RONGO UNIVE RSITY   B.A",
+            "KCSE –B (PLAIN)",
+            "CHWELE BOYS  PRIMARY SCHOOL  KCPE -351 MARKS",
+            "Sacred Hea rt Cathedral College - Eldoret",
+            "National Water Conservation and Pipeline Corporation",
+            "Lemaiyans E nterprises (Eldoret)"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "WORK EXPERIENCE"
+        ],
+        "address": [
+            "P.O. BOX 221"
+        ],
+        "email": [
+            "EMAIL",
+            "MUKHISA1994@GMAIL.COM"
+        ],
+        "phone": [
+            "MOBILE",
+            "+254714189738/+254713628387"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "LANGUAGE": 0.2102,
+            "ENGLISH": 0.659,
+            "KISWAHILI": 0.1889,
+            "highly motivated": 0.1505,
+            "ECONOMICS": 0.5288,
+            "Microeconomics": 0.747,
+            "Financial economics": 0.847,
+            "Managerial economics": 0.8109,
+            "Macr oeconomics": 0.5944,
+            "Monetary theory and practice": 0.3829,
+            "Economic demography": 0.5675,
+            "Project planning and management": 0.219,
+            "Econometrics": 0.7036,
+            "Labour economics": 0.851,
+            "Health economics": 0.7647,
+            "Economic statistics": 0.365,
+            "Research methodology": 0.7178,
+            "International finance": 0.6539,
+            "Economic development": 0.4661,
+            "Computer packages": 0.1896,
+            "ISO 9001:2008": 0.8598,
+            "KEY SKILLS AND COMPETENCIES": 0.3118,
+            "complex economic concepts": 0.2396,
+            "mathematics and business": 0.3141
+        },
+        "filename": "cv (1369)_annotated.json"
+    }
+}

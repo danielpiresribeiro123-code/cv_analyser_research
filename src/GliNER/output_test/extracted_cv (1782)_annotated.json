@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "production targets",
+        "resourceful",
+        "innovative",
+        "maintenance",
+        "Efficient Utility",
+        "management",
+        "QA",
+        "QC",
+        "Man power handling",
+        "BTech Chemical Technology 2014",
+        "Diploma Chemical Engineering 2010",
+        "HSC 2007",
+        "SSC 2004",
+        "Diploma : Boilers For"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sawant Ganesh Tukaram"
+        ],
+        "job title": [
+            "Field Officer",
+            "Shift In charge"
+        ],
+        "company": [
+            "Oil Refinery",
+            "Department of Technology"
+        ],
+        "university": [
+            "Department of Technology",
+            "Shivaji University",
+            "Satara Polytechnic",
+            "AVH CHEMICALS PVT. Ltd .",
+            "Pranav Agro Industries Ltd .",
+            "Satara  Polytechnic",
+            "Kolhapur Divisional Board Maharashtra"
+        ],
+        "degree": [
+            "B.Tech (Chemical Technology)",
+            "DIPLOMA (CHEMICAL ENGINEERING)"
+        ],
+        "years of experience": [
+            "WORKING EXPERIENCE"
+        ],
+        "address": [
+            "Radhaai",
+            "Mayani Road",
+            "Dahiwadi",
+            "Dist : Satara",
+            "Pin"
+        ],
+        "email": [
+            "E mail id",
+            "sawantgt@gmail.com"
+        ],
+        "phone": [
+            "Mob.No.",
+            "+91 9665155050/8888934333"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "production targets": 0.2184,
+            "resourceful": 0.1896,
+            "innovative": 0.1895,
+            "maintenance": 0.2149,
+            "Efficient Utility": 0.2027,
+            "management": 0.1504,
+            "QA": 0.3084,
+            "QC": 0.2635,
+            "Man power handling": 0.1911,
+            "BTech Chemical Technology 2014": 0.5677,
+            "Diploma Chemical Engineering 2010": 0.6875,
+            "HSC 2007": 0.6474,
+            "SSC 2004": 0.6245,
+            "Diploma : Boilers For": 0.1644
+        },
+        "filename": "cv (1782)_annotated.json"
+    }
+}

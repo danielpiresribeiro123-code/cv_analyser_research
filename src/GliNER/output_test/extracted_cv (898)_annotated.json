@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "B.R.D.I.",
+        "Professional Qualification",
+        "INDUSTRIAL TRAINING",
+        "Windows 7",
+        "windows 8",
+        "windows 10",
+        "Programming Language C",
+        "NIIT",
+        "Ethical Hacking & Cyber Security I.I.T",
+        "SOFT SKILLS",
+        "Can maintain good interpersonal relationship",
+        "Quick leaner",
+        "strong analytical and problem solving aptitude",
+        "Ability to work in a dynamic environment",
+        "professional Mannerism",
+        "Can work effectively in team",
+        "EXTRA CURRICULAR ACTIVITIES"
+    ],
+    "professional_info": {
+        "person name": [
+            "ANANT PANDEY"
+        ],
+        "job title": [],
+        "company": [
+            "D.L.W . VARANASI"
+        ],
+        "university": [
+            "ELECTRONICS & COMM. ENGINEERING",
+            "Examination School Board",
+            "Examination College University"
+        ],
+        "degree": [
+            "B.R.D.I.",
+            "B.Tech.",
+            "B. Tech"
+        ],
+        "years of experience": [],
+        "address": [
+            "Telephone exchange"
+        ],
+        "email": [
+            "Email",
+            "anantpandey1993@gmail.com",
+            "9990958337"
+        ],
+        "phone": [
+            "Phone",
+            "M) +91-7599232470"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "B.R.D.I.": 0.3487,
+            "Professional Qualification": 0.2365,
+            "INDUSTRIAL TRAINING": 0.1786,
+            "Windows 7": 0.9769,
+            "windows 8": 0.966,
+            "windows 10": 0.9646,
+            "Programming Language C": 0.6258,
+            "NIIT": 0.3888,
+            "Ethical Hacking & Cyber Security I.I.T": 0.2082,
+            "SOFT SKILLS": 0.5521,
+            "Can maintain good interpersonal relationship": 0.3314,
+            "Quick leaner": 0.5391,
+            "strong analytical and problem solving aptitude": 0.2526,
+            "Ability to work in a dynamic environment": 0.2386,
+            "professional Mannerism": 0.5016,
+            "Can work effectively in team": 0.2883,
+            "EXTRA CURRICULAR ACTIVITIES": 0.1611
+        },
+        "filename": "cv (898)_annotated.json"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "Windows Server",
+        "Microsoft Exchange",
+        "Citrix Server",
+        "Network account",
+        "Exchange Mailbox",
+        "AS400 application",
+        "Expertise",
+        "Lync",
+        "Ability to communicate clearly & effectively",
+        "Goal oriented",
+        "ability to handle multiple tasks simultaneously",
+        "Excellent interpersonal skills",
+        "outstanding problem solving and decision making skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohd. Shariq Shamim"
+        ],
+        "job title": [
+            "System Engineer",
+            "Designation",
+            "MIS Executive",
+            "Finance Operations"
+        ],
+        "company": [
+            "Essentrix Technologies Pvt.Ltd",
+            "Jabong.com",
+            "Online Retail store",
+            "CCAvenue",
+            "HDFC",
+            "Jabong"
+        ],
+        "university": [
+            "UP"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Experience",
+            "1 year"
+        ],
+        "address": [
+            "551ka/334 Azad Nagar",
+            "Sanjay Gandhi Marg"
+        ],
+        "email": [
+            "E-mail",
+            "shariqbltr@gmail.com"
+        ],
+        "phone": [
+            "Mobile no",
+            "+91-9889840033"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Windows Server": 0.8083,
+            "Microsoft Exchange": 0.2375,
+            "Citrix Server": 0.5956,
+            "Network account": 0.2957,
+            "Exchange Mailbox": 0.3996,
+            "AS400 application": 0.3684,
+            "Expertise": 0.2017,
+            "Lync": 0.2239,
+            "Ability to communicate clearly & effectively": 0.3595,
+            "Goal oriented": 0.2957,
+            "ability to handle multiple tasks simultaneously": 0.271,
+            "Excellent interpersonal skills": 0.6123,
+            "outstanding problem solving and decision making skills": 0.3163
+        },
+        "filename": "cv (1959)_annotated.json"
+    }
+}

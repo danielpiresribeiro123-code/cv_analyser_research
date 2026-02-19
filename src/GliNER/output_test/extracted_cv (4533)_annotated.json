@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "SPANISH",
+        "Friendly and energetic",
+        "expertise",
+        "academic instruction",
+        "classroom management",
+        "Professional Certification",
+        "Permanent Certification in Secondary Inclusive Education",
+        "Regents diploma",
+        "Experience",
+        "Smart board technology",
+        "8th grade State Proficiency Exam",
+        "Supervised and managed 5 staff members",
+        "Interacted with parents"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Managed classes of up to 23 students",
+            "Coached",
+            "Freshman class advisor",
+            "Talent show coordinator",
+            "Eighth grade semi-formal coordinator",
+            "Advised the Middle School International Club",
+            "Director"
+        ],
+        "company": [
+            "Company Name",
+            "Harris Whalen"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "SPANISH": 0.7048,
+            "Friendly and energetic": 0.3268,
+            "expertise": 0.277,
+            "academic instruction": 0.1803,
+            "classroom management": 0.1624,
+            "Professional Certification": 0.5349,
+            "Permanent Certification in Secondary Inclusive Education": 0.7981,
+            "Regents diploma": 0.8946,
+            "Experience": 0.4046,
+            "Smart board technology": 0.4314,
+            "8th grade State Proficiency Exam": 0.2064,
+            "Supervised and managed 5 staff members": 0.1856,
+            "Interacted with parents": 0.1953
+        },
+        "filename": "cv (4533)_annotated.json"
+    }
+}

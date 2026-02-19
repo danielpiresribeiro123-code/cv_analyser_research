@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "Information Technology Management",
+        "skills",
+        "advanced training development",
+        "Microsoft Word",
+        "Power Point",
+        "Excel",
+        "American Sign Language",
+        "website",
+        "databases",
+        "access",
+        "Library of Congress",
+        "Computer Aided Real-Time translation",
+        "Information and Technology Management",
+        "American Sign Language",
+        "English",
+        "Excellent communication",
+        "access",
+        "problem solving skills",
+        "Real-Time"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INFORMATION TECHNOLOGY INTERN",
+            "supervisor",
+            "Media Student Assistant"
+        ],
+        "company": [
+            "company",
+            "Company Name"
+        ],
+        "university": [
+            "Bloomsburg University of Pennsylvania"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Experience"
+        ],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Information Technology Management": 0.3429,
+            "skills": 0.2966,
+            "advanced training development": 0.1762,
+            "Microsoft Word": 0.5227,
+            "Power Point": 0.5559,
+            "Excel": 0.3414,
+            "American Sign Language": 0.2903,
+            "website": 0.7769,
+            "databases": 0.7354,
+            "access": 0.2434,
+            "Library of Congress": 0.9318,
+            "Computer Aided Real-Time translation": 0.2381,
+            "Information and Technology Management": 0.3206,
+            "English": 0.7749,
+            "Excellent communication": 0.2809,
+            "problem solving skills": 0.4009,
+            "Real-Time": 0.1861
+        },
+        "filename": "cv (4750)_annotated.json"
+    }
+}

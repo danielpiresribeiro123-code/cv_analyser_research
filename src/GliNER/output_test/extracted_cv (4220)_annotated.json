@@ -1,0 +1,48 @@
+{
+    "skills": [
+        "AREAS OF EXPERTISE",
+        "3 phase induction motors"
+    ],
+    "professional_info": {
+        "person name": [
+            "N. Mohamed  Irsha"
+        ],
+        "job title": [
+            "Electrical maintenance",
+            "Designation",
+            "Electrical  engineer",
+            "manager",
+            "junior E ngineer / Electrical Maintenance"
+        ],
+        "company": [
+            "Indian",
+            "National  agricultural development company",
+            "Mitsubishi",
+            "Jindal SAW Gulf LLC",
+            "Ductile iron pipe manufacturing unit"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Riyad h",
+            "Abu Dhabi"
+        ],
+        "email": [
+            "E-mail",
+            "gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+919629219229"
+        ]
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "AREAS OF EXPERTISE": 0.1946,
+            "3 phase induction motors": 0.1606
+        },
+        "filename": "cv (4220)_annotated.json"
+    }
+}

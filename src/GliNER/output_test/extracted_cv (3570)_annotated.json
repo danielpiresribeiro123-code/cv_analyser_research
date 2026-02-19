@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "dynamic attitude",
+        "TECHNICAL SKILLS",
+        "FICO",
+        "Dunning",
+        "BRS",
+        "PROFESSIONAL QUALIFICATION",
+        "Specialization in Finance & HR",
+        "ACADEMIC QUALIFICATION",
+        "PASSINGDIV.PRINCIPLE",
+        "M.COM M.J"
+    ],
+    "professional_info": {
+        "person name": [
+            "HASEEB MOHAMMED KHAN"
+        ],
+        "job title": [
+            "VITAE",
+            "Office Manager",
+            "Accountant",
+            "Account Executive"
+        ],
+        "company": [
+            "HIKMAT FARES CHEHAYEB EST. For Contracting",
+            "MAHINDRA FIRST CHOICE SERVICES  Ltd",
+            "BLUE WAVE BUILDCON Pvt. Ltd"
+        ],
+        "university": [
+            "DUCAT  at Noida",
+            "Advance Institute of Management"
+        ],
+        "degree": [
+            "Master of Business Administration (2008-2010)",
+            "DEGREE/EXAM SCHOOL/UNIVERSITY YEAR OF"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-mail",
+            "hsbkhan04@gmail.com",
+            "haseeb786@mail.com"
+        ],
+        "phone": [
+            "Mob",
+            "+966-0508027096"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "dynamic attitude": 0.2034,
+            "TECHNICAL SKILLS": 0.2581,
+            "FICO": 0.2328,
+            "Dunning": 0.2801,
+            "BRS": 0.558,
+            "PROFESSIONAL QUALIFICATION": 0.2522,
+            "Specialization in Finance & HR": 0.4925,
+            "ACADEMIC QUALIFICATION": 0.367,
+            "PASSINGDIV.PRINCIPLE": 0.243,
+            "M.COM M.J": 0.3416
+        },
+        "filename": "cv (3570)_annotated.json"
+    }
+}

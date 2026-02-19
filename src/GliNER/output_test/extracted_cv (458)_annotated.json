@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "accuracy and efficiency",
+        "Strong expertise",
+        "Extensive expertise",
+        "Process Safety Management",
+        "standard work practice",
+        "Outstanding skills",
+        "Excellent ability to conceptualize and fully implement projects"
+    ],
+    "professional_info": {
+        "person name": [
+            "ASHOK KUMAR",
+            "Sr.Mechanical Engineer"
+        ],
+        "job title": [
+            "Project Engineer",
+            "MA. Automation IndiaProject Engineer",
+            "Mechanical Engineer",
+            "Consultant"
+        ],
+        "company": [
+            "Saudi Engineering Council",
+            "ILF Consulting Engineers",
+            "Hamad Al Muhana Group",
+            "Esquire Engineering Solutions Ltd",
+            "Bharath institute of science and technology",
+            "SRM Polytechnic College",
+            "Directorate of Technical Education",
+            "M.A. Automation",
+            "SWCC"
+        ],
+        "university": [
+            "Bharath University"
+        ],
+        "degree": [
+            "Bachelor's Degree - Mechanical Engineering",
+            "Diploma - Mechanical Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "D 4/9",
+            "Seevagasinthamani Street",
+            "Ganesh Nagar",
+            "Selaiyur",
+            "Chennai",
+            "Tamil Nadu 600 073",
+            "Riyadh"
+        ],
+        "email": [
+            "dashokkumar83@yahoo.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9884264632"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "accuracy and efficiency": 0.2169,
+            "Strong expertise": 0.3047,
+            "Extensive expertise": 0.2242,
+            "Process Safety Management": 0.2375,
+            "standard work practice": 0.5866,
+            "Outstanding skills": 0.2925,
+            "Excellent ability to conceptualize and fully implement projects": 0.1752
+        },
+        "filename": "cv (458)_annotated.json"
+    }
+}

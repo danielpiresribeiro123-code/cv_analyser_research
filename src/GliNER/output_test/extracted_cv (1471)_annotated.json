@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "H2063570",
+        "Good command in the technical area of my field",
+        "Self motivating",
+        "Good team spirit",
+        "Optimist",
+        "computer hard wear networking",
+        "Ms  office",
+        "Job Responsibility",
+        "Maintenance",
+        "Repairing",
+        "DG",
+        "wiring",
+        "Amf panel",
+        "hard wear networking",
+        "ACADEMIC CREDENTIALS",
+        "Passed - 10+2"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAVI KUMAR SHARMA"
+        ],
+        "job title": [
+            "Electrical technician",
+            "Electrical maintenance technician",
+            "Fire fighter and Safety officer"
+        ],
+        "company": [
+            "CELL-DELHI",
+            "Petron Engg. Cons.",
+            "Powerica Ltd.",
+            "Emrest Trading Associates (uae)",
+            "CHS (Client- Tanishq",
+            "Titan Industries Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "H. NO-2035",
+            "pillanji",
+            "Kotla",
+            "Mubarakpur",
+            "New Delhi-110003",
+            "09717216628"
+        ],
+        "email": [
+            "ravisharma12oct@yahoo.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "H2063570": 0.193,
+            "Good command in the technical area of my field": 0.1838,
+            "Self motivating": 0.2878,
+            "Good team spirit": 0.3546,
+            "Optimist": 0.3435,
+            "computer hard wear networking": 0.2876,
+            "Ms  office": 0.199,
+            "Job Responsibility": 0.2852,
+            "Maintenance": 0.3531,
+            "Repairing": 0.2647,
+            "DG": 0.2393,
+            "wiring": 0.1733,
+            "Amf panel": 0.2593,
+            "hard wear networking": 0.1574,
+            "ACADEMIC CREDENTIALS": 0.3206,
+            "Passed - 10+2": 0.3374
+        },
+        "filename": "cv (1471)_annotated.json"
+    }
+}

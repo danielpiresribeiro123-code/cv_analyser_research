@@ -1,0 +1,98 @@
+{
+    "skills": [
+        "Hard working Person",
+        "Leadership and Organizational skills",
+        "skills",
+        "Communication skill",
+        "Interpersonal skills",
+        "Leadership skill",
+        "Presentation skill",
+        "AREAS OF INTEREST",
+        "Sedimentology",
+        "Micropaleontology",
+        "GIS and Remote",
+        "Hydrogeology",
+        "English",
+        "Malayalam",
+        "Hindi",
+        "TamilSOFTWARE CAPABILITY",
+        "Microsoft Power Point",
+        "Word",
+        "Working Knowledge",
+        "Internet",
+        "Basic knowledge",
+        "ArcGis 9.3",
+        "geology"
+    ],
+    "professional_info": {
+        "person name": [
+            "ASWATHI JANARDHANAN"
+        ],
+        "job title": [
+            "CAREER OBJECTIVE"
+        ],
+        "company": [
+            "company",
+            "BoardGHSS",
+            "BoardRHSS"
+        ],
+        "university": [
+            "University Central",
+            "University of, Kerala",
+            "UniversityGovernment",
+            "SSLCKerala State",
+            "Indian Institute of Technology",
+            "Government College Kasaragod",
+            "GovernmentCollege Kasaragod"
+        ],
+        "degree": [
+            "MSc    Central",
+            "BSc   Kannur"
+        ],
+        "years of experience": [],
+        "address": [
+            "Kizhakkan Kovval House",
+            "Valiyapoil P O",
+            "Cheruvathur VIA",
+            "Cheemeni",
+            "Windows"
+        ],
+        "email": [
+            "EMAIL",
+            "yadavaswathi08@gmail.com"
+        ],
+        "phone": [
+            "MOB",
+            "+ 91-8078433981"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "Hard working Person": 0.4443,
+            "Leadership and Organizational skills": 0.3007,
+            "skills": 0.2211,
+            "Communication skill": 0.6125,
+            "Interpersonal skills": 0.4849,
+            "Leadership skill": 0.6586,
+            "Presentation skill": 0.6397,
+            "AREAS OF INTEREST": 0.234,
+            "Sedimentology": 0.8463,
+            "Micropaleontology": 0.7595,
+            "GIS and Remote": 0.2005,
+            "Hydrogeology": 0.8725,
+            "English": 0.6421,
+            "Malayalam": 0.7196,
+            "Hindi": 0.6744,
+            "TamilSOFTWARE CAPABILITY": 0.2118,
+            "Microsoft Power Point": 0.42,
+            "Word": 0.3031,
+            "Working Knowledge": 0.2192,
+            "Internet": 0.1679,
+            "Basic knowledge": 0.2607,
+            "ArcGis 9.3": 0.3398,
+            "geology": 0.2117
+        },
+        "filename": "cv (654)_annotated.json"
+    }
+}

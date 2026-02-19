@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "CAREER OBJECTIVE",
+        "technical skills",
+        "Member",
+        "ISHRAE",
+        "production technologies",
+        "Admine office-good luck house",
+        "Fabrication of Go-Kart vehicle",
+        "Innovation in Aqua silencer",
+        "safety in seat belt",
+        "TI",
+        "Brake  test",
+        "security",
+        "TRANING AND CERTIFICATION",
+        "SELF-ASSESMENT",
+        "Hard Working",
+        "Team Worker",
+        "Confident & Optimistic",
+        "Male"
+    ],
+    "professional_info": {
+        "person name": [
+            "SANDIP KUMAR PATEL",
+            "Sh. Dinanath patel",
+            "Indian"
+        ],
+        "job title": [
+            "mechanical Engineer",
+            "WORK EXEPRIANCE",
+            "Job profile-assistant Engineer"
+        ],
+        "company": [
+            "MPCON LTD",
+            "patel motors PVT. LTD."
+        ],
+        "university": [
+            "BE RGTU",
+            "IIT"
+        ],
+        "degree": [],
+        "years of experience": [
+            "DOB",
+            "12-09-1993"
+        ],
+        "address": [
+            "vill-ladhi bazaar",
+            "post-ladhi sarari",
+            "via-goreyakothi",
+            "Creo",
+            "BHOPAL201569",
+            "BSEB",
+            "Ambedkar  road",
+            "Vill- ladhi bazar",
+            "Distict- siwan"
+        ],
+        "email": [
+            "E-mail",
+            "sp725897@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "CAREER OBJECTIVE": 0.2083,
+            "technical skills": 0.3871,
+            "Member": 0.2077,
+            "ISHRAE": 0.1595,
+            "production technologies": 0.1992,
+            "Admine office-good luck house": 0.1589,
+            "Fabrication of Go-Kart vehicle": 0.1867,
+            "Innovation in Aqua silencer": 0.1875,
+            "safety in seat belt": 0.2811,
+            "TI": 0.3143,
+            "Brake  test": 0.2679,
+            "security": 0.2206,
+            "TRANING AND CERTIFICATION": 0.7425,
+            "SELF-ASSESMENT": 0.5527,
+            "Hard Working": 0.5246,
+            "Team Worker": 0.6197,
+            "Confident & Optimistic": 0.6252,
+            "Male": 0.3495
+        },
+        "filename": "cv (53)_annotated.json"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "Pew Latin American Fellowship",
+        "Medidas de Fluxo de Informação com  Apicação em Neurociência",
+        "Computational and Applied Mathematics",
+        "Brazilian Mathematical Olympiad",
+        "Brazilian Journal of Probability and Statistics"
+    ],
+    "professional_info": {
+        "person name": [
+            "Daniel Yasumasa Takahashi",
+            "Asif Ghazanfar",
+            "Antonio Galves",
+            "Koichi Sameshima",
+            "Luiz Antonio Baccalá",
+            "Paulo Domingos Cordaro",
+            "Orlandi E",
+            "Takahashi DY",
+            "Ghazanfar AA"
+        ],
+        "job title": [
+            "Postdoctoral Research Fellow"
+        ],
+        "company": [],
+        "university": [
+            "Neuroscience Institute",
+            "Princeton University",
+            "Universidade de São Paulo",
+            "USP"
+        ],
+        "degree": [
+            "PhD in Bioinformatics",
+            "Teorema do Núcleo de Schwartz",
+            "Medical degree"
+        ],
+        "years of experience": [],
+        "address": [
+            "Princeton, NJ",
+            "08540"
+        ],
+        "email": [
+            "e - m a i l                  dtakahas@princeton.edu",
+            "takahashiyd@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Pew Latin American Fellowship": 0.1828,
+            "Medidas de Fluxo de Informação com  Apicação em Neurociência": 0.1783,
+            "Computational and Applied Mathematics": 0.3021,
+            "Brazilian Mathematical Olympiad": 0.2062,
+            "Brazilian Journal of Probability and Statistics": 0.2382
+        },
+        "filename": "cv (1339)_annotated.json"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "Civil",
+        "Certificate",
+        "Specialization",
+        "Aided drawing(CAD) packages",
+        "M.S Word",
+        "M.S",
+        "Excel",
+        "Used-Photomod & Auto",
+        "Cad"
+    ],
+    "professional_info": {
+        "person name": [
+            "VINEETH.K.CHANDRAN",
+            "Sree"
+        ],
+        "job title": [
+            "position"
+        ],
+        "company": [
+            "Institution",
+            "Board of",
+            "I.T.I",
+            "Draughtsma",
+            "Narayana",
+            "Industrial",
+            "Centre.       National",
+            "Institute",
+            "UDYOGAMANDAL",
+            "ContinuingFAHED+ARCHITECTS"
+        ],
+        "university": [
+            "University",
+            "LFC Road Kaloor"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Details of experience"
+        ],
+        "address": [
+            "KAKKANATTU HOUSE",
+            "SOUTH  ADUVASSERY P.O",
+            "ERANAKULAM  DISTRICT",
+            "Info park  Koratty"
+        ],
+        "email": [
+            "Email ID",
+            "designvineeth@gmail.com",
+            "Ph        - 0484-2267043"
+        ],
+        "phone": [
+            "PIN-683578",
+            "Mob - +91 9895646960",
+            "+91 9400633175"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Civil": 0.789,
+            "Certificate": 0.6783,
+            "Specialization": 0.1656,
+            "Aided drawing(CAD) packages": 0.2608,
+            "M.S Word": 0.5794,
+            "M.S": 0.3056,
+            "Excel": 0.3881,
+            "Used-Photomod & Auto": 0.2456,
+            "Cad": 0.1704
+        },
+        "filename": "cv (615)_annotated.json"
+    }
+}

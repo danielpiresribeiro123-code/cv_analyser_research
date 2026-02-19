@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "Security",
+        "Administration",
+        "Public Relation",
+        "Intelligence",
+        "Operations",
+        "Communication",
+        "Leadership",
+        "team  building",
+        "interpersonal",
+        "communication",
+        "competitive",
+        "management skills",
+        "leadership",
+        "managing entire operations",
+        "optimal utilization of resources",
+        "Efficient",
+        "Competent in handling of small arms",
+        "efficiency",
+        "Charag",
+        "INS Agray",
+        "INS Amba",
+        "Submarine’s mother ship"
+    ],
+    "professional_info": {
+        "person name": [
+            "JITENDRA PRATAP SINGH"
+        ],
+        "job title": [
+            "Professional",
+            "proven  strategist",
+            "Team Leader",
+            "Maritime Security Team Leader"
+        ],
+        "company": [
+            "AMBREYRISK"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "21  years"
+        ],
+        "address": [],
+        "email": [
+            "9621862508",
+            "Jps175519@gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "+91-8953037989"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Security": 0.6887,
+            "Administration": 0.4387,
+            "Public Relation": 0.1929,
+            "Intelligence": 0.2287,
+            "Operations": 0.3178,
+            "Communication": 0.1642,
+            "Leadership": 0.5226,
+            "team  building": 0.4255,
+            "interpersonal": 0.709,
+            "communication": 0.5598,
+            "competitive": 0.3138,
+            "management skills": 0.4464,
+            "leadership": 0.5649,
+            "managing entire operations": 0.2977,
+            "optimal utilization of resources": 0.1537,
+            "Efficient": 0.1606,
+            "Competent in handling of small arms": 0.1985,
+            "efficiency": 0.2005,
+            "Charag": 0.2088,
+            "INS Agray": 0.3847,
+            "INS Amba": 0.5466,
+            "Submarine’s mother ship": 0.1844
+        },
+        "filename": "cv (506)_annotated.json"
+    }
+}

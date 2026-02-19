@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "Professional Strength",
+        "Highly organized",
+        "dedicated",
+        "positive attitude",
+        "Flexible",
+        "Resourceful",
+        "skilled in analyzing and solving problems",
+        "Good oral and interpersonal skills",
+        "Work  well  under  pressure",
+        "Technical Skills",
+        "Windows–NT",
+        "Window-2000",
+        "Windows-XP",
+        "Package Tally 7.2 3.14",
+        "MS OFFICE",
+        "SAP",
+        "ERP",
+        "Logistics",
+        "Accounts Payable"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Commercial Officer",
+            "Commercial Executive",
+            "Chief Manager-Commercial"
+        ],
+        "company": [
+            "Sphurti IndustriesJune",
+            "Aditi IndustriesJuly",
+            "Powertech EquipmentNov",
+            "ABB Ltd.",
+            "Jyoti Structures Ltd.",
+            "Ashoka Buildcon Ltd.",
+            "KEC International Ltd"
+        ],
+        "university": [
+            "Academics",
+            "MBA FinanceIndian Management Study & Research Centre",
+            "Dip in Industrial ElectronicsBoard of Technical Education"
+        ],
+        "degree": [],
+        "years of experience": [
+            "May 2006",
+            "+91 9890797495"
+        ],
+        "address": [
+            "32",
+            "Apurvai Soc., Kala Nagar"
+        ],
+        "email": [
+            "Email",
+            "sunil_gadkari@rediffmail.com"
+        ],
+        "phone": [
+            "422009"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Professional Strength": 0.3526,
+            "Highly organized": 0.4418,
+            "dedicated": 0.3581,
+            "positive attitude": 0.3895,
+            "Flexible": 0.5311,
+            "Resourceful": 0.4026,
+            "skilled in analyzing and solving problems": 0.2878,
+            "Good oral and interpersonal skills": 0.3382,
+            "Work  well  under  pressure": 0.216,
+            "Technical Skills": 0.2213,
+            "Windows–NT": 0.7276,
+            "Window-2000": 0.6717,
+            "Windows-XP": 0.7997,
+            "Package Tally 7.2 3.14": 0.1511,
+            "MS OFFICE": 0.6069,
+            "SAP": 0.3558,
+            "ERP": 0.4694,
+            "Logistics": 0.1617,
+            "Accounts Payable": 0.2522
+        },
+        "filename": "cv (451)_annotated.json"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "finance",
+        "Secondary Certificate",
+        "literary",
+        "Principles Of Investments",
+        "Capital Structure",
+        "Budgeting",
+        "Investment Analysis And Portfolio Management",
+        "Risk Management And Insurance",
+        "Valuation",
+        "Working Capital Management",
+        "Financial Modeling",
+        "Financial Markets And Institutions",
+        "Project Finance And Evaluation",
+        "Mergers And Acquisition",
+        "Multinational Financial Management",
+        "Computer Skills",
+        "Microsoft Office Programs",
+        "Movie Maker",
+        "Adobe",
+        "Photoshop",
+        "Investment Analysis And Portfolio"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ibrahim Nasser Ali Al-Azri"
+        ],
+        "job title": [
+            "entry-level position"
+        ],
+        "company": [
+            "Muscat Securities Market"
+        ],
+        "university": [
+            "Sultan Qaboos University",
+            "Omar Bin Alkhatab High School"
+        ],
+        "degree": [
+            "Bachelor degree"
+        ],
+        "years of experience": [
+            "Experience"
+        ],
+        "address": [
+            "P.O.Box: 49 Izki",
+            "Post Code 614",
+            "GSM"
+        ],
+        "email": [
+            "Email",
+            "ibrahimalazri94@gmail.com"
+        ],
+        "phone": [
+            "Tel",
+            "95426556"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "finance": 0.6432,
+            "Secondary Certificate": 0.6415,
+            "literary": 0.1685,
+            "Principles Of Investments": 0.572,
+            "Capital Structure": 0.5326,
+            "Budgeting": 0.2828,
+            "Investment Analysis And Portfolio Management": 0.5008,
+            "Risk Management And Insurance": 0.4061,
+            "Valuation": 0.2405,
+            "Working Capital Management": 0.3472,
+            "Financial Modeling": 0.4424,
+            "Financial Markets And Institutions": 0.4001,
+            "Project Finance And Evaluation": 0.2427,
+            "Mergers And Acquisition": 0.3374,
+            "Multinational Financial Management": 0.3738,
+            "Computer Skills": 0.2391,
+            "Microsoft Office Programs": 0.5817,
+            "Movie Maker": 0.6117,
+            "Adobe": 0.3751,
+            "Photoshop": 0.6495,
+            "Investment Analysis And Portfolio": 0.1524
+        },
+        "filename": "cv (1377)_annotated.json"
+    }
+}

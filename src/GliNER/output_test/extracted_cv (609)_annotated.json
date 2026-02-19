@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "Technical Ski lls",
+        "Hard Work",
+        "ELECTRONICS AND COMMUNICATION ENGINEERING",
+        "Strong Knowledge",
+        "Electronics designing",
+        "PCB designing",
+        "electronics manufacturing",
+        "High skills",
+        "Electronics components",
+        "Circuit breaker",
+        "Relays",
+        "Electrical panel",
+        "Power factor improvement devices",
+        "Very good knowledge",
+        "Electronics system",
+        "Good knowledge",
+        "DC Moto r",
+        "Excellent knowledge"
+    ],
+    "professional_info": {
+        "person name": [
+            "ROZAR BINNI HOSSAIN"
+        ],
+        "job title": [
+            "ELECTRONICS ENGINEER",
+            "Supervisor",
+            "Technology innovation and R&D executive",
+            "Contractor",
+            "Designation"
+        ],
+        "company": [
+            "B.Tech",
+            "Ping ventures pvt. Ltd.",
+            "Engineering Construction and Contract",
+            "J.B. Construction Organization"
+        ],
+        "university": [
+            "JNTU HYDERABAD"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "rozar.biny90 @gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Technical Ski lls": 0.3201,
+            "Hard Work": 0.2677,
+            "ELECTRONICS AND COMMUNICATION ENGINEERING": 0.2659,
+            "Strong Knowledge": 0.3118,
+            "Electronics designing": 0.2386,
+            "PCB designing": 0.2582,
+            "electronics manufacturing": 0.303,
+            "High skills": 0.4885,
+            "Electronics components": 0.1849,
+            "Circuit breaker": 0.2295,
+            "Relays": 0.1702,
+            "Electrical panel": 0.2168,
+            "Power factor improvement devices": 0.2532,
+            "Very good knowledge": 0.1814,
+            "Electronics system": 0.1535,
+            "Good knowledge": 0.1645,
+            "DC Moto r": 0.1639,
+            "Excellent knowledge": 0.2016
+        },
+        "filename": "cv (609)_annotated.json"
+    }
+}

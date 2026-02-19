@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "skills",
+        "easily motivated",
+        "confident",
+        "honest",
+        "dedicated to my job",
+        "SOFT SKILLS",
+        "Married",
+        "Linguistic Ability",
+        "Tamil",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "Akbar Ali",
+            "I",
+            "Sahul Hameed"
+        ],
+        "job title": [
+            "Cleaner",
+            "Office Boy",
+            "Office Assistant",
+            "Office boy/Office Assistant"
+        ],
+        "company": [
+            "S.S.L.C",
+            "SK Private Enterprices"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "10 Years"
+        ],
+        "address": [
+            "Tamil Nadu",
+            "Chennai"
+        ],
+        "email": [
+            "E-mail",
+            "sulthanaks@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "0091-8122212312/8124912312"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "skills": 0.2268,
+            "easily motivated": 0.6631,
+            "confident": 0.6105,
+            "honest": 0.5725,
+            "dedicated to my job": 0.413,
+            "SOFT SKILLS": 0.3129,
+            "Married": 0.2935,
+            "Linguistic Ability": 0.3553,
+            "Tamil": 0.5094,
+            "English": 0.8224
+        },
+        "filename": "cv (2039)_annotated.json"
+    }
+}

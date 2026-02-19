@@ -1,0 +1,101 @@
+{
+    "skills": [
+        "Professional Objective",
+        "Seeking a challenging career",
+        "organized manner",
+        "Soft Skills",
+        "Dedicated and focused",
+        "hard-working individual",
+        "Ability to manage people&",
+        "Open to suggestions",
+        "Electrical &",
+        "Windows",
+        "98",
+        "Ms - Word",
+        "Power Point",
+        "Excel",
+        "Unmarried",
+        "Urdu",
+        "Hindi",
+        "English",
+        "Work Handling",
+        "Sub Station Automation System",
+        "cable Glanding",
+        "P.C.C",
+        "M.C.C"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMED SHAHAB ALAM",
+            "Mohammed Wahabuddin"
+        ],
+        "job title": [
+            "Stat",
+            "Electrical Technician"
+        ],
+        "company": [
+            "progressive organization",
+            "ElectronicsMalik Sandal",
+            "S.S.CAadarsh Jain dharmic",
+            "siksha sadan S.S.School",
+            "Prolific",
+            "System Technology",
+            "Sodexo Technical Services (I) Pvt Ltd."
+        ],
+        "university": [
+            "Polytechnic"
+        ],
+        "degree": [
+            "Diploma"
+        ],
+        "years of experience": [],
+        "address": [
+            "RZ-11-B",
+            "Roshan Vihar",
+            "Block-D",
+            "Street No.-2",
+            "Najafgarh",
+            "New Delhi-110043",
+            "Bijapur",
+            "New Delhi-43",
+            "Internet"
+        ],
+        "email": [
+            "Email",
+            "shahab.alam77@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+9  1-8010250435"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "Professional Objective": 0.2691,
+            "Seeking a challenging career": 0.182,
+            "organized manner": 0.1859,
+            "Soft Skills": 0.3368,
+            "Dedicated and focused": 0.353,
+            "hard-working individual": 0.4396,
+            "Ability to manage people&": 0.4421,
+            "Open to suggestions": 0.5459,
+            "Electrical &": 0.1544,
+            "Windows": 0.9254,
+            "98": 0.5082,
+            "Ms - Word": 0.5504,
+            "Power Point": 0.4166,
+            "Excel": 0.4217,
+            "Unmarried": 0.4804,
+            "Urdu": 0.5128,
+            "Hindi": 0.5851,
+            "English": 0.6088,
+            "Work Handling": 0.1835,
+            "Sub Station Automation System": 0.1629,
+            "cable Glanding": 0.1803,
+            "P.C.C": 0.1786,
+            "M.C.C": 0.2038
+        },
+        "filename": "cv (3629)_annotated.json"
+    }
+}

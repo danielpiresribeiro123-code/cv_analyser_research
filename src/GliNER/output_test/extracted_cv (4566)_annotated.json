@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "INTERNATIONAL CERTIFICATION PROGRAM MANAGEMENT",
+        "expertise",
+        "international governmental liaison",
+        "aircraft certification",
+        "regulatory compliance",
+        "aircraft sales",
+        "multi-tasking",
+        "problem solving",
+        "risk management",
+        "Substantial knowledge",
+        "Microsoft Windows",
+        "MS Office NX7.5 Unigraphics Teamcenter",
+        "Moderate knowledge",
+        "computer networking",
+        "Strong management",
+        "complex problem solving",
+        "3D modeling",
+        "Type design approval",
+        "EASA",
+        "NX7.5 Unigraphics",
+        "validated type certificate",
+        "certification",
+        "certification procedures",
+        "Certification Plans"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "experienced professional",
+            "professional pilot",
+            "Lead subject matter expert",
+            "IC Program Manager"
+        ],
+        "company": [
+            "Current Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "14 years"
+        ],
+        "address": [
+            "City , State"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "INTERNATIONAL CERTIFICATION PROGRAM MANAGEMENT": 0.5108,
+            "expertise": 0.1766,
+            "international governmental liaison": 0.2329,
+            "aircraft certification": 0.83,
+            "regulatory compliance": 0.1546,
+            "aircraft sales": 0.3705,
+            "multi-tasking": 0.3826,
+            "problem solving": 0.361,
+            "risk management": 0.2862,
+            "Substantial knowledge": 0.2686,
+            "Microsoft Windows": 0.6488,
+            "MS Office NX7.5 Unigraphics Teamcenter": 0.469,
+            "Moderate knowledge": 0.3054,
+            "computer networking": 0.152,
+            "Strong management": 0.3683,
+            "complex problem solving": 0.2685,
+            "3D modeling": 0.2583,
+            "Type design approval": 0.1831,
+            "EASA": 0.2352,
+            "NX7.5 Unigraphics": 0.3304,
+            "validated type certificate": 0.2879,
+            "certification": 0.1972,
+            "certification procedures": 0.167,
+            "Certification Plans": 0.2426
+        },
+        "filename": "cv (4566)_annotated.json"
+    }
+}

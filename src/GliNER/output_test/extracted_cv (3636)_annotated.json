@@ -1,0 +1,99 @@
+{
+    "skills": [
+        "SOFTWARE     SKILLS",
+        "MS OFFICE",
+        "MARITAL STATUS",
+        "English",
+        "Hindi",
+        "R6802415",
+        "technical skills",
+        "work experience",
+        "Electrical & Electronics Engineering",
+        "201O-2012Intermediate jac board",
+        "Electrical and Electronics engineering",
+        "Facility  Management",
+        "Electrical /HVAC",
+        "Security System",
+        "FAS",
+        "Control circuits",
+        "advanced Electrical systems",
+        "RMU",
+        "SEPAM relay feeder protections",
+        "Good understanding of Electrical drawings",
+        "Timers Photo electric controls",
+        "PROFESSIONAL EXPERIENCE",
+        "Control panels",
+        "Field Instruments"
+    ],
+    "professional_info": {
+        "person name": [
+            "TARIQUE HUSSAIN",
+            "Indian",
+            "Single"
+        ],
+        "job title": [
+            "NATIONALITY",
+            "PROFESSIONAL SNAPSHOT",
+            "Multi Skilled Technician"
+        ],
+        "company": [
+            "SSLC   Bihar board",
+            "I Con Pvt Ltd",
+            "MAHAGUN MODERN"
+        ],
+        "university": [
+            "RGPV Technical University"
+        ],
+        "degree": [
+            "MP",
+            "BE"
+        ],
+        "years of experience": [
+            "creative"
+        ],
+        "address": [
+            "Rajbhawan ranchi Audrey",
+            "Qno. C/7",
+            "834001",
+            "Noida"
+        ],
+        "email": [
+            "E-MAIL",
+            "tariqueh201  @gmail.com"
+        ],
+        "phone": [
+            "+91 7654477620",
+            "+91 8447359646"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "SOFTWARE     SKILLS": 0.254,
+            "MS OFFICE": 0.9274,
+            "MARITAL STATUS": 0.271,
+            "English": 0.6795,
+            "Hindi": 0.8371,
+            "R6802415": 0.1519,
+            "technical skills": 0.4045,
+            "work experience": 0.2069,
+            "Electrical & Electronics Engineering": 0.4967,
+            "201O-2012Intermediate jac board": 0.2402,
+            "Electrical and Electronics engineering": 0.6438,
+            "Facility  Management": 0.1635,
+            "Electrical /HVAC": 0.326,
+            "Security System": 0.4176,
+            "FAS": 0.5015,
+            "Control circuits": 0.2865,
+            "advanced Electrical systems": 0.2113,
+            "RMU": 0.5159,
+            "SEPAM relay feeder protections": 0.328,
+            "Good understanding of Electrical drawings": 0.2066,
+            "Timers Photo electric controls": 0.2985,
+            "PROFESSIONAL EXPERIENCE": 0.1565,
+            "Control panels": 0.1688,
+            "Field Instruments": 0.3333
+        },
+        "filename": "cv (3636)_annotated.json"
+    }
+}

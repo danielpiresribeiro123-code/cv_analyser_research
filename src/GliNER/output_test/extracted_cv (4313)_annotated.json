@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "Experienced self-starter",
+        "customer service-oriented",
+        "organized",
+        "customer service",
+        "Seasoned",
+        "conflict resolution",
+        "Active listening skills",
+        "Resourceful",
+        "Windows XP",
+        "Vista",
+        "Patient and diligent",
+        "Vast technical knowledge",
+        "Customer Assistance",
+        "Live Support",
+        "Customer Interface",
+        "Accounting Skills",
+        "accounting software",
+        "financial analysis",
+        "budgeting and forecasting",
+        "Sales",
+        "skilled sales techniques",
+        "Product Sales",
+        "Market Research",
+        "awareness",
+        "attention to detail",
+        "integrity"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT",
+            "Customer Service Rep",
+            "PC expert",
+            "Service solutions expert",
+            "Work Experience Consultant",
+            "Customer Interface",
+            "Rental Agent",
+            "Cashier"
+        ],
+        "company": [
+            "Company Name City , State"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "13 years"
+        ],
+        "address": [],
+        "email": [],
+        "phone": [
+            "Telephone",
+            "phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Experienced self-starter": 0.2634,
+            "customer service-oriented": 0.1915,
+            "organized": 0.327,
+            "customer service": 0.1985,
+            "Seasoned": 0.1897,
+            "conflict resolution": 0.2788,
+            "Active listening skills": 0.3052,
+            "Resourceful": 0.2013,
+            "Windows XP": 0.8362,
+            "Vista": 0.4932,
+            "Patient and diligent": 0.2734,
+            "Vast technical knowledge": 0.3625,
+            "Customer Assistance": 0.2825,
+            "Live Support": 0.5006,
+            "Customer Interface": 0.247,
+            "Accounting Skills": 0.3469,
+            "accounting software": 0.5992,
+            "financial analysis": 0.282,
+            "budgeting and forecasting": 0.1503,
+            "Sales": 0.2259,
+            "skilled sales techniques": 0.2069,
+            "Product Sales": 0.3336,
+            "Market Research": 0.4567,
+            "awareness": 0.2882,
+            "attention to detail": 0.3767,
+            "integrity": 0.2812
+        },
+        "filename": "cv (4313)_annotated.json"
+    }
+}

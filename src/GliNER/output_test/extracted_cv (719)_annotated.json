@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "fresh skills",
+        "existent abilities",
+        "Sales and Distribution",
+        "SAP-SD",
+        "SAP",
+        "SAP-SD"
+    ],
+    "professional_info": {
+        "person name": [
+            "SURESH CHELIKANI"
+        ],
+        "job title": [
+            "Deputy Assistant Manager"
+        ],
+        "company": [
+            "Gulf Oil Corporation Ltd",
+            "Energies Division",
+            "SAP"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "H.No. 49-382/2",
+            "Plot No. 156",
+            "Balreddy Nagar",
+            "Chintal",
+            "Jeedimetla",
+            "Hyderabad – 500054",
+            "Kukapally"
+        ],
+        "email": [
+            "Email",
+            "scms.suresh@gmail.com"
+        ],
+        "phone": [
+            "Mob",
+            "+919700769955"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "fresh skills": 0.1641,
+            "existent abilities": 0.194,
+            "Sales and Distribution": 0.1881,
+            "SAP-SD": 0.2745,
+            "SAP": 0.2721
+        },
+        "filename": "cv (719)_annotated.json"
+    }
+}

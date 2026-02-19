@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "electrodetestcertificate",
+        "PQRandwelderqualificationcertificates",
+        "ASMESecIIPartA&B",
+        "FCAW",
+        "PROFESSIONALQUALIFICATIONS",
+        "NDT",
+        "ROBO-ZEST’15InternationallevelRoboticsChampionship",
+        "DESIGNING/DRAFTINGSOFTWARES",
+        "AUTOCAD",
+        "Ansys"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMEDSANOOJS",
+            "asagraduatetogrowwhilemeetingthecorporation"
+        ],
+        "job title": [],
+        "company": [
+            "ASSENT",
+            "TechShoreInspectionServices"
+        ],
+        "university": [
+            "MarEphraemCollegeofEngineeringandTechnology",
+            "ABCMatriculationHigherSecondarySchool",
+            "AnnamalaiUniversity"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "mohamedsanooj07@gmail.com"
+        ],
+        "phone": [
+            "MobileNo",
+            "+971-588213769"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "electrodetestcertificate": 0.6315,
+            "PQRandwelderqualificationcertificates": 0.3205,
+            "ASMESecIIPartA&B": 0.7867,
+            "FCAW": 0.1853,
+            "PROFESSIONALQUALIFICATIONS": 0.2324,
+            "NDT": 0.1528,
+            "ROBO-ZEST’15InternationallevelRoboticsChampionship": 0.2206,
+            "DESIGNING/DRAFTINGSOFTWARES": 0.2551,
+            "AUTOCAD": 0.2446,
+            "Ansys": 0.1754
+        },
+        "filename": "cv (421)_annotated.json"
+    }
+}

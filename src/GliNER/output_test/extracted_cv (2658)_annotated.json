@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "DIPLOMA",
+        "prudent personality",
+        "committed & dedicated",
+        "COMPUTER SKILLS",
+        "Autocad",
+        "Basic knowledge",
+        "MS Office",
+        "MS Word",
+        "MS Excel",
+        "PERSONAL SKILLS",
+        "Highly motivated and eager to learn new things",
+        "Strong motivational and leadership skills",
+        "Ability to produce best result in pressure situation",
+        "Excellent communication skills",
+        "Ability to work as individual",
+        "Hindi",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "AAKIF SAIFI",
+            "Mr Mujahid ali saifi",
+            "Indian"
+        ],
+        "job title": [
+            "professionals",
+            "key player"
+        ],
+        "company": [
+            "sato pooja pvt  ltd."
+        ],
+        "university": [],
+        "degree": [
+            "Diploma Lingayas University 2015",
+            "High School H.B.S.E. Board 2009"
+        ],
+        "years of experience": [
+            "EXPERIENCE"
+        ],
+        "address": [
+            "H. No. 1/1183 baba nagar",
+            "Sec-19"
+        ],
+        "email": [
+            "E-mail",
+            "akiisaif2@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 9999427767"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "DIPLOMA": 0.4692,
+            "prudent personality": 0.3813,
+            "committed & dedicated": 0.1638,
+            "COMPUTER SKILLS": 0.3119,
+            "Autocad": 0.4736,
+            "Basic knowledge": 0.2651,
+            "MS Office": 0.7549,
+            "MS Word": 0.6334,
+            "MS Excel": 0.6789,
+            "PERSONAL SKILLS": 0.2807,
+            "Highly motivated and eager to learn new things": 0.4128,
+            "Strong motivational and leadership skills": 0.359,
+            "Ability to produce best result in pressure situation": 0.2147,
+            "Excellent communication skills": 0.3862,
+            "Ability to work as individual": 0.2247,
+            "Hindi": 0.819,
+            "English": 0.7446
+        },
+        "filename": "cv (2658)_annotated.json"
+    }
+}

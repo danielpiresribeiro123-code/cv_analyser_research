@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "knowledge",
+        "Pipe lines",
+        "commercial & Industrial buildings",
+        "property development",
+        "Royal Commission Engineering Standards",
+        "Saudi Aramco Engineering Standards",
+        "ASTM Standards",
+        "Construction Safety Standards",
+        "Technical Skills",
+        "Auto CAD 2012",
+        "Excel",
+        "M.S. Word & Power point",
+        "Domain Knowledge",
+        "Pre-engineered Industrial Buildings",
+        "Residential & Commercial Buildings"
+    ],
+    "professional_info": {
+        "person name": [
+            "BALAKRISHNAN PUTHIABALANCareer"
+        ],
+        "job title": [
+            "CIVIL SITE ENGINEER",
+            "Construction Supervisor",
+            "Civil structural engineer",
+            "Trade man",
+            "Charge hand",
+            "Project Engineer"
+        ],
+        "company": [
+            "NASSER S. AL - HAJRI CORPORATION"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "9 years"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "balakrishnancivil.p@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+966-597280260"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "knowledge": 0.3345,
+            "Pipe lines": 0.1958,
+            "commercial & Industrial buildings": 0.3061,
+            "property development": 0.1778,
+            "Royal Commission Engineering Standards": 0.8885,
+            "Saudi Aramco Engineering Standards": 0.7398,
+            "ASTM Standards": 0.8583,
+            "Construction Safety Standards": 0.8657,
+            "Technical Skills": 0.5071,
+            "Auto CAD 2012": 0.5559,
+            "Excel": 0.3044,
+            "M.S. Word & Power point": 0.3286,
+            "Domain Knowledge": 0.217,
+            "Pre-engineered Industrial Buildings": 0.2846,
+            "Residential & Commercial Buildings": 0.273
+        },
+        "filename": "cv (120)_annotated.json"
+    }
+}

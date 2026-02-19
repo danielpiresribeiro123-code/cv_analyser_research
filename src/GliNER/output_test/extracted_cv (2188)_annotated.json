@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "Academic Qualification",
+        "Second Division",
+        "ITI",
+        "Electrician Trade",
+        "Basic Knowladge in Computer",
+        "Hobbies",
+        "Playing Badmintion",
+        "Listen Music",
+        "Strength",
+        "Self Confidence",
+        "Positive Attitude",
+        "Sincerely & Hardworking",
+        "Single",
+        "Hindi",
+        "English",
+        "Odia"
+    ],
+    "professional_info": {
+        "person name": [
+            "Jitendra  Behuria",
+            "Mr. Debendra Behuria",
+            "Indian"
+        ],
+        "job title": [
+            "Techinician",
+            "Male"
+        ],
+        "company": [
+            "CURRICULUM-VITAE",
+            "JITENDRA BEHURIA",
+            "IGATE Global Computer Solution Ltd",
+            "NSEZ",
+            "Odisha Board",
+            "SCTE & VT Bhuneshwar"
+        ],
+        "university": [
+            "High School"
+        ],
+        "degree": [],
+        "years of experience": [
+            "One Year Experience"
+        ],
+        "address": [
+            "Rajiv Colony",
+            "Salarpur",
+            "B.Domanda P.O - Bhamanda"
+        ],
+        "email": [
+            "E-mail",
+            "jitendrabehuria1992@gmail.com"
+        ],
+        "phone": [
+            "+91-7042386088"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Academic Qualification": 0.1783,
+            "Second Division": 0.5491,
+            "ITI": 0.3866,
+            "Electrician Trade": 0.4333,
+            "Basic Knowladge in Computer": 0.191,
+            "Hobbies": 0.1835,
+            "Playing Badmintion": 0.2601,
+            "Listen Music": 0.2668,
+            "Strength": 0.3309,
+            "Self Confidence": 0.5126,
+            "Positive Attitude": 0.5544,
+            "Sincerely & Hardworking": 0.4667,
+            "Single": 0.25,
+            "Hindi": 0.6476,
+            "English": 0.4458,
+            "Odia": 0.566
+        },
+        "filename": "cv (2188)_annotated.json"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "skills": [
+        "CISSP certification"
+    ],
+    "professional_info": {
+        "person name": [
+            "Howard Schmidt"
+        ],
+        "job title": [
+            "VICE PRESIDENT"
+        ],
+        "company": [
+            "Epson",
+            "Google",
+            "Fitbit",
+            "iconectiv",
+            "telecommunications services provider",
+            "Ericsson",
+            "Dana Point",
+            "AI startup"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "CISSP certification": 0.7942
+        },
+        "filename": "cv (4489)_annotated.json"
+    }
+}

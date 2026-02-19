@@ -1,0 +1,47 @@
+{
+    "skills": [
+        "electronic health records",
+        "network management",
+        "software development",
+        "database",
+        "IT systems",
+        "databases",
+        "engineering/operating standards"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INFORMATION TECHNOLOGY SPECIALIST",
+            "Principal Chemical Engineer / Information Technology Specialist",
+            "Facility Engineer Intern",
+            "Engineer Intern",
+            "Work History"
+        ],
+        "company": [
+            "Company Name",
+            "National Board for Technology Incubation",
+            "Federal Ministry of Science and Technology"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Abuja Nigeria"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "electronic health records": 0.5915,
+            "network management": 0.2844,
+            "software development": 0.3079,
+            "database": 0.3727,
+            "IT systems": 0.1717,
+            "databases": 0.287,
+            "engineering/operating standards": 0.2719
+        },
+        "filename": "cv (4578)_annotated.json"
+    }
+}

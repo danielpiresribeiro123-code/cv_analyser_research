@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "Male",
+        "Single",
+        "good professional",
+        "Information Technology",
+        "RESPONSIBILITY",
+        "Structural Works",
+        "Water Proofing Works",
+        "Contractor bills& Quantities",
+        "construction  safety",
+        "Tamil",
+        "English",
+        "Hindi",
+        "Personal Strengths",
+        "Self Confidence",
+        "AUTO CAD",
+        "MS-Word",
+        "Excel",
+        "Power Point",
+        "PROJECT WORK",
+        "DOMAIN SKILLS",
+        "Construction Safety",
+        "Finishing Working"
+    ],
+    "professional_info": {
+        "person name": [
+            "SARAVANA PERUMAL.S",
+            "Mr.SELVAM.R",
+            "Mrs.UMA.S"
+        ],
+        "job title": [
+            "SITE ENGINEER",
+            "inspector",
+            "Team Worker"
+        ],
+        "company": [
+            "Vivekanada Polytechnic College",
+            "H. S. S.",
+            "St.Joseph’s Higher Secondary School",
+            "S. S. L. C.",
+            "IG3 INFRA LTD",
+            "HSEET"
+        ],
+        "university": [],
+        "degree": [
+            "DIPOLMA IN CIVIL ENGINEERING"
+        ],
+        "years of experience": [],
+        "address": [
+            "Sendhi Udayandha Puram",
+            "Mudikandam(po)",
+            "630561",
+            "Operating System",
+            "Windows 7 XP"
+        ],
+        "email": [
+            "E-Mail",
+            "deepanuma254@gmail.com"
+        ],
+        "phone": [
+            "Phone Number",
+            "+918508881573"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Male": 0.1616,
+            "Single": 0.3052,
+            "good professional": 0.2623,
+            "Information Technology": 0.287,
+            "RESPONSIBILITY": 0.249,
+            "Structural Works": 0.2307,
+            "Water Proofing Works": 0.1928,
+            "Contractor bills& Quantities": 0.206,
+            "construction  safety": 0.2607,
+            "Tamil": 0.6103,
+            "English": 0.4252,
+            "Hindi": 0.6237,
+            "Personal Strengths": 0.5713,
+            "Self Confidence": 0.5458,
+            "AUTO CAD": 0.3808,
+            "MS-Word": 0.291,
+            "Excel": 0.2599,
+            "Power Point": 0.3989,
+            "PROJECT WORK": 0.2369,
+            "DOMAIN SKILLS": 0.2324,
+            "Construction Safety": 0.3299,
+            "Finishing Working": 0.197
+        },
+        "filename": "cv (3821)_annotated.json"
+    }
+}

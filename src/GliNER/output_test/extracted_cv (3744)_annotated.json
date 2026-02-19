@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "talent and knowledge",
+        "Industrial Experience",
+        "Maintenance",
+        "Production",
+        "Manpower planning",
+        "Manufacturing",
+        "Line inspection",
+        "skill level",
+        "Customer  Complaints",
+        "Operations",
+        "Customer Co-ordination"
+    ],
+    "professional_info": {
+        "person name": [
+            "T S KESAVAN"
+        ],
+        "job title": [
+            "Production Engineer",
+            "In charge of CNC LASER machines"
+        ],
+        "company": [
+            "MJM Fine Enclosures Pvt. Ltd",
+            "MJM FINE ENCLOSURES PVT LTD"
+        ],
+        "university": [],
+        "degree": [
+            "B.E (Mechanical Engineering)"
+        ],
+        "years of experience": [
+            "2  years of experience"
+        ],
+        "address": [
+            "Bangalore"
+        ],
+        "email": [
+            "Email",
+            "tskseven@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+918792522014"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "talent and knowledge": 0.175,
+            "Industrial Experience": 0.1627,
+            "Maintenance": 0.3397,
+            "Production": 0.3219,
+            "Manpower planning": 0.2914,
+            "Manufacturing": 0.2483,
+            "Line inspection": 0.2982,
+            "skill level": 0.1852,
+            "Customer  Complaints": 0.2159,
+            "Operations": 0.1955,
+            "Customer Co-ordination": 0.2312
+        },
+        "filename": "cv (3744)_annotated.json"
+    }
+}

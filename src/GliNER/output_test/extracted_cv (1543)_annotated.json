@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "10TH  /  S.S.L.C State Board Maths",
+        "Science",
+        "12TH  / H.S.C. State Board Maths",
+        "Computer Science",
+        "C Language",
+        "Physics2013First",
+        "EducationComputer Science",
+        "Tamil",
+        "Computer Literacy"
+    ],
+    "professional_info": {
+        "person name": [
+            "M.AJAI"
+        ],
+        "job title": [],
+        "company": [
+            "DUC",
+            "CSC",
+            "Xseed"
+        ],
+        "university": [
+            "BharathidasanMaths",
+            "Bharathidasan",
+            "CBSE",
+            "Bharathidasan University",
+            "A.V.V .M Sri"
+        ],
+        "degree": [
+            "B.Sc.",
+            "B.Ed.",
+            "M. Sc."
+        ],
+        "years of experience": [
+            "2010First",
+            "2014Distinction"
+        ],
+        "address": [
+            "2018/4 Kalingarayar street",
+            "Thalavaipalayam Road",
+            "Mellakattuthottam",
+            "M.kovil byepass",
+            "Thanjavur- 613501",
+            "Operating"
+        ],
+        "email": [
+            "Email",
+            "ajaimsc93@gmail.com"
+        ],
+        "phone": [
+            "Mobile Number",
+            "9159924640"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "10TH  /  S.S.L.C State Board Maths": 0.3929,
+            "Science": 0.3093,
+            "12TH  / H.S.C. State Board Maths": 0.4064,
+            "Computer Science": 0.7735,
+            "C Language": 0.6352,
+            "Physics2013First": 0.4941,
+            "EducationComputer Science": 0.2314,
+            "Tamil": 0.2132,
+            "Computer Literacy": 0.2205
+        },
+        "filename": "cv (1543)_annotated.json"
+    }
+}

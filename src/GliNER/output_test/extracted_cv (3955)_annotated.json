@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "CIVIL",
+        "ENGINEERING",
+        "EDUCATION QUALIFICATION",
+        "PASSINGPER",
+        "TECHNOLOGY201773 CGPA",
+        "DIPLOMA IN",
+        "CIVIL SOFTWARE PROFICIENCY",
+        "Revit Architecture",
+        "Auto CAD",
+        "MS Office",
+        "Committed person",
+        "Good verbal and written skills",
+        "Good in taking timely decision",
+        "Eager to work as a team",
+        "OTHER SKILLS",
+        "English",
+        "Tamil",
+        "Yours Truly"
+    ],
+    "professional_info": {
+        "person name": [
+            "MUTHU.S",
+            "S.MUTHU",
+            "Muthu Sekar",
+            "Sekar. K",
+            "Gomathi. S"
+        ],
+        "job title": [],
+        "company": [
+            "company",
+            "CENTAG",
+            "EDUCATIONSELKALATHUR",
+            "SSLCSTATE BOARDRAJAH’S HIGHER",
+            "SIVAGANGAI200865"
+        ],
+        "university": [
+            "UNIVERSITYINSTITUTEYEAR OF",
+            "UNIVERSITYSRI RAAJA RAAJAN",
+            "COLLEGE OF",
+            "POLYTECHNIC COLLEGE",
+            "MANAMADURAI201378",
+            "SECONDARY SCHOOL"
+        ],
+        "degree": [
+            "B.E."
+        ],
+        "years of experience": [],
+        "address": [
+            "No.1599/B",
+            "Seenivasan Nagar",
+            "Thondi Road",
+            "Sivagangai-630561"
+        ],
+        "email": [
+            "Email",
+            "s.muthusaha2212@gmail.com",
+            "Leadership Quality"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "CIVIL": 0.4648,
+            "ENGINEERING": 0.2947,
+            "EDUCATION QUALIFICATION": 0.1683,
+            "PASSINGPER": 0.2111,
+            "TECHNOLOGY201773 CGPA": 0.3021,
+            "DIPLOMA IN": 0.3558,
+            "CIVIL SOFTWARE PROFICIENCY": 0.2428,
+            "Revit Architecture": 0.5781,
+            "Auto CAD": 0.5445,
+            "MS Office": 0.7217,
+            "Committed person": 0.4071,
+            "Good verbal and written skills": 0.2525,
+            "Good in taking timely decision": 0.1542,
+            "Eager to work as a team": 0.1973,
+            "OTHER SKILLS": 0.1533,
+            "English": 0.4314,
+            "Tamil": 0.6316,
+            "Yours Truly": 0.2545
+        },
+        "filename": "cv (3955)_annotated.json"
+    }
+}

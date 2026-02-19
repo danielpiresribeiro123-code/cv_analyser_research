@@ -1,0 +1,104 @@
+{
+    "skills": [
+        "Skilled in technical",
+        "teamwork",
+        "Adaptable and driven",
+        "strong work ethic",
+        "Skills",
+        "Report creation",
+        "Freight operations",
+        "Adaptive team player",
+        "Dependable and reliable",
+        "Materials transport",
+        "Skilled forklift operator",
+        "Cargo handling",
+        "Defensive driver training",
+        "Report creation",
+        "Storage procedures",
+        "Reviewing records",
+        "Personnel mentoring",
+        "Reliable and trustworthy",
+        "Critical thinking",
+        "Data management",
+        "Team management",
+        "Friendly",
+        "positive attitude",
+        "Basic math",
+        "People skills",
+        "Microsoft Office",
+        "Team building",
+        "First Aid/CPR",
+        "Experience",
+        "stock system",
+        "precise attention to detail",
+        "Communicated effectively with members of public",
+        "internal database"
+    ],
+    "professional_info": {
+        "person name": [
+            "P"
+        ],
+        "job title": [
+            "AVIATION SUPPLY SPECIALIST",
+            "Prep Cook"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [
+            "Computer Science degree"
+        ],
+        "years of experience": [],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [
+            "mail",
+            "internet"
+        ],
+        "phone": [
+            "phone",
+            "fax"
+        ]
+    },
+    "metadata": {
+        "total_skills": 33,
+        "confidence_scores": {
+            "Skilled in technical": 0.2008,
+            "teamwork": 0.1994,
+            "Adaptable and driven": 0.5846,
+            "strong work ethic": 0.5377,
+            "Skills": 0.1819,
+            "Report creation": 0.4414,
+            "Freight operations": 0.3409,
+            "Adaptive team player": 0.4378,
+            "Dependable and reliable": 0.68,
+            "Materials transport": 0.3927,
+            "Skilled forklift operator": 0.2157,
+            "Cargo handling": 0.3832,
+            "Defensive driver training": 0.162,
+            "Storage procedures": 0.3464,
+            "Reviewing records": 0.3382,
+            "Personnel mentoring": 0.208,
+            "Reliable and trustworthy": 0.4956,
+            "Critical thinking": 0.5692,
+            "Data management": 0.5565,
+            "Team management": 0.5622,
+            "Friendly": 0.5832,
+            "positive attitude": 0.477,
+            "Basic math": 0.6709,
+            "People skills": 0.5188,
+            "Microsoft Office": 0.5708,
+            "Team building": 0.5721,
+            "First Aid/CPR": 0.4561,
+            "Experience": 0.2239,
+            "stock system": 0.2051,
+            "precise attention to detail": 0.1711,
+            "Communicated effectively with members of public": 0.1597,
+            "internal database": 0.6784
+        },
+        "filename": "cv (4449)_annotated.json"
+    }
+}

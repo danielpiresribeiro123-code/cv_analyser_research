@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "Microsoft Windows 2000/2003",
+        "XP",
+        "C",
+        "Java 1.5",
+        "Database",
+        "Oracle",
+        "MS office",
+        "Field of Interest",
+        "OOPS",
+        "DBMS",
+        "Video Sharing Platform"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "committed & dedicated people",
+            "Asst.",
+            "Professor",
+            "Lecturer"
+        ],
+        "company": [],
+        "university": [
+            "Sri Muthukumaran Institute of Technology",
+            "DMI College of Engineering",
+            "ARJ College of Engineering",
+            "SRM University",
+            "SRM College of Eng.",
+            "Anna UniversityM"
+        ],
+        "degree": [
+            "M.Tech (CSE)",
+            "B.E (ECE)"
+        ],
+        "years of experience": [
+            "8.5 years experience"
+        ],
+        "address": [
+            "Chennai-100",
+            "Trichy"
+        ],
+        "email": [
+            "Mail id",
+            "bala.kpn@gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "+91-99943-76949"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Microsoft Windows 2000/2003": 0.8579,
+            "XP": 0.9117,
+            "C": 0.9546,
+            "Java 1.5": 0.9042,
+            "Database": 0.2781,
+            "Oracle": 0.5534,
+            "MS office": 0.635,
+            "Field of Interest": 0.2717,
+            "OOPS": 0.4353,
+            "DBMS": 0.5957,
+            "Video Sharing Platform": 0.1847
+        },
+        "filename": "cv (1556)_annotated.json"
+    }
+}

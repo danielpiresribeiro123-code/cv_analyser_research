@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "management position",
+        "Continuous Improvement",
+        "Management",
+        "TECHNICAL SKILLS",
+        "EDITOR MS OFFICE",
+        "TALLY ERP 9.0",
+        "DEDICATED AND RESULT ORIENTED PERSON",
+        "LEARNING ATTITUDE",
+        "TEAM SPIRIT",
+        "DETERMINED",
+        "PASSIONATE",
+        "DEDICATED TOWARDS WORK",
+        "ENGLISH",
+        "URDU",
+        "HOBBIES1",
+        "LISTENING"
+    ],
+    "professional_info": {
+        "person name": [
+            "SADDAM ANSARI",
+            "JR.",
+            "ANWAROOL HAQUE ANSARI",
+            "NAJMA KHATOON",
+            "INDIAN"
+        ],
+        "job title": [
+            "JR. ACCOUNTANT",
+            "ACCOUNTANT"
+        ],
+        "company": [
+            "CURRICULUM VITAE",
+            "UNIVERSITYPERCENTAGE",
+            "COLLEGE OF, COMMERCE",
+            "INTERMEDIATE 2009L.M.I.C",
+            "DEGREE INSTITUTE NAME",
+            "INSTITUTION OF COMPELTE",
+            "COMPUTER EDUACTION NISHATGANJ",
+            "A.D. Tripathi & Associates",
+            "Anand Enterprises"
+        ],
+        "university": [
+            "D.D.U",
+            "UNIVERSITY51.05%",
+            "HIGH SCHOOL 2007J.H.S.S"
+        ],
+        "degree": [
+            "DEGREE YEAR",
+            "GRADUATION",
+            "B.COM2012ISLAMIA",
+            "Diploma In Computerised Financial, Accounting"
+        ],
+        "years of experience": [
+            "WORK EXPERIENCE",
+            "18 month working experience",
+            "12 month working experience"
+        ],
+        "address": [
+            "VILL-PIROJHAN"
+        ],
+        "email": [
+            "E-MAIL",
+            "saddam2506@gmail.com"
+        ],
+        "phone": [
+            "MOBILE NO",
+            "+919453373787"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "management position": 0.1788,
+            "Continuous Improvement": 0.1765,
+            "Management": 0.1731,
+            "TECHNICAL SKILLS": 0.2157,
+            "EDITOR MS OFFICE": 0.2663,
+            "TALLY ERP 9.0": 0.5576,
+            "DEDICATED AND RESULT ORIENTED PERSON": 0.4934,
+            "LEARNING ATTITUDE": 0.3284,
+            "TEAM SPIRIT": 0.4579,
+            "DETERMINED": 0.4629,
+            "PASSIONATE": 0.421,
+            "DEDICATED TOWARDS WORK": 0.2946,
+            "ENGLISH": 0.1901,
+            "URDU": 0.1751,
+            "HOBBIES1": 0.1685,
+            "LISTENING": 0.1711
+        },
+        "filename": "cv (2268)_annotated.json"
+    }
+}

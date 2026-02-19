@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Gender",
+        "Fem ale",
+        "Marital Status",
+        "M arried",
+        "English",
+        "Hindi",
+        "Marathi",
+        "Malayalam",
+        "Tally ERP.9"
+    ],
+    "professional_info": {
+        "person name": [
+            "Jincy Jose"
+        ],
+        "job title": [
+            "Business Support Service  Customer Care Executive",
+            "Popular Finance Pune  Accountant"
+        ],
+        "company": [
+            "St. Ursula High School",
+            "TATA"
+        ],
+        "university": [],
+        "degree": [
+            "SSC (10th)",
+            "HSC (12th)"
+        ],
+        "years of experience": [
+            "Experience",
+            "10 Months"
+        ],
+        "address": [
+            "Flat no 3 B -5 Nirupam H ousing Society Dattawadi"
+        ],
+        "email": [
+            "Email id",
+            "jjose.jisha90@gmail.com"
+        ],
+        "phone": [
+            "Contact No",
+            "+91 7756958453",
+            "B.com  Dy Patil College  2013",
+            "M.com  Dy Patil College  2016"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Gender": 0.2712,
+            "Fem ale": 0.1846,
+            "Marital Status": 0.1787,
+            "M arried": 0.2135,
+            "English": 0.7728,
+            "Hindi": 0.8555,
+            "Marathi": 0.7961,
+            "Malayalam": 0.6486,
+            "Tally ERP.9": 0.3712
+        },
+        "filename": "cv (1107)_annotated.json"
+    }
+}

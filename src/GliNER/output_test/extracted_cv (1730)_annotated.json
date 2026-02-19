@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "English",
+        "Hindi",
+        "TamilCareer",
+        "knowledge",
+        "technical  skills",
+        "Key Skills",
+        "Sound knowledge",
+        "Organized with positive attitude",
+        "Excellent Communication",
+        "multitask",
+        "manage time effectively"
+    ],
+    "professional_info": {
+        "person name": [
+            "M.NAZURUDEEN",
+            "mdnazurudeen",
+            "A.MOHAMED SHRIFF",
+            "MUSLIM"
+        ],
+        "job title": [
+            "Electrical Supervisor"
+        ],
+        "company": [
+            "ETA Star Engg. & Contracting",
+            "INDIAN",
+            "ETA Star Engineering & Contracting",
+            "DDE",
+            "B. S. Abdur rahman University",
+            "Jamal",
+            "Mohamed College",
+            "Nokia Phase 1 & Modine Air condition"
+        ],
+        "university": [
+            "W.L.L.",
+            "Alagappa University"
+        ],
+        "degree": [
+            "Master in Business Administration (Project Management)",
+            "Bachelor of Science (Electrical Technology)",
+            "Bachelor of Science (Mathematics)"
+        ],
+        "years of experience": [
+            "6 +years Experience"
+        ],
+        "address": [
+            "P.B. No. 23773",
+            "21B19, K. R. S Nagar",
+            "Edamalaipatti pudur"
+        ],
+        "email": [
+            "mdnazurudeen@gmail.com",
+            "MARRIED"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9514419193",
+            "+91-9344201082"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "English": 0.78,
+            "Hindi": 0.8016,
+            "TamilCareer": 0.4148,
+            "knowledge": 0.1727,
+            "technical  skills": 0.3188,
+            "Key Skills": 0.2825,
+            "Sound knowledge": 0.2005,
+            "Organized with positive attitude": 0.3186,
+            "Excellent Communication": 0.3434,
+            "multitask": 0.2171,
+            "manage time effectively": 0.2183
+        },
+        "filename": "cv (1730)_annotated.json"
+    }
+}

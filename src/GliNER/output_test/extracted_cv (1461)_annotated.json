@@ -1,0 +1,95 @@
+{
+    "skills": [
+        "Senior",
+        "Matriculation Punjab  school  education",
+        "PASS",
+        "TECHNICAL SKILLS",
+        "Office tools",
+        "MS-Word",
+        "Excel",
+        "PowerPoint",
+        "Internet",
+        "Languages Known",
+        "English",
+        "Hindi",
+        "Punjabi",
+        "Strengths",
+        "Good technical knowledge",
+        "Hardworking and sincere",
+        "Attractive communication skills",
+        "Analytical skills",
+        "Activities And Interests",
+        "Listening to Music",
+        "AB +positive",
+        "Male",
+        "Marital Status",
+        "Unmarried"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAJESH BHANDARI",
+            "Sh. Rakesh Bhandari",
+            "Indian"
+        ],
+        "job title": [
+            "Shift Leader"
+        ],
+        "company": [
+            "SecondaryPunjab  school  education",
+            "ServicesDIMENSIONS International College",
+            "SPAGDDIES",
+            "COUNTRY INN SUITES BY CARLSON"
+        ],
+        "university": [
+            "University"
+        ],
+        "degree": [
+            "Diploma in Hotel, and  Restaurant"
+        ],
+        "years of experience": [
+            "Working Experience",
+            "1.5 YEAR"
+        ],
+        "address": [
+            "Distt- Amritsar"
+        ],
+        "email": [
+            "Email",
+            "r.bhandari28@yahoo.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 99145 74565"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Senior": 0.1779,
+            "Matriculation Punjab  school  education": 0.3232,
+            "PASS": 0.3567,
+            "TECHNICAL SKILLS": 0.3222,
+            "Office tools": 0.3281,
+            "MS-Word": 0.5932,
+            "Excel": 0.3368,
+            "PowerPoint": 0.5018,
+            "Internet": 0.457,
+            "Languages Known": 0.1637,
+            "English": 0.8359,
+            "Hindi": 0.8858,
+            "Punjabi": 0.9228,
+            "Strengths": 0.1506,
+            "Good technical knowledge": 0.3074,
+            "Hardworking and sincere": 0.3323,
+            "Attractive communication skills": 0.2478,
+            "Analytical skills": 0.5305,
+            "Activities And Interests": 0.1767,
+            "Listening to Music": 0.2758,
+            "AB +positive": 0.2217,
+            "Male": 0.2081,
+            "Marital Status": 0.1665,
+            "Unmarried": 0.3147
+        },
+        "filename": "cv (1461)_annotated.json"
+    }
+}

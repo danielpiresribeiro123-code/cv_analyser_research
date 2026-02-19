@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "Information Technology",
+        "Vendor Management",
+        "VMO Leadership",
+        "Vendor selection process",
+        "Senior Project Management leadership",
+        "Business acumen",
+        "Global and strategic sourcing",
+        "Negotiations expert",
+        "Project management",
+        "IT Technical Support",
+        "Cloud Computing",
+        "Enterprise Business critical applications",
+        "Performance Metrics",
+        "System Availability"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INFORMATION TECHNOLOGY SENIOR MANAGER",
+            "IT Director",
+            "Consultant",
+            "VP",
+            "SVP",
+            "CIO"
+        ],
+        "company": [
+            "Company Name",
+            "Oracle",
+            "Infosys",
+            "Accenture",
+            "MindTree",
+            "Presidio",
+            "Salesforce",
+            "Cisco",
+            "Genpact",
+            "TechDemocracy",
+            "Tata",
+            "Pegasystems",
+            "Amdocs"
+        ],
+        "university": [],
+        "degree": [
+            "MBA Degree"
+        ],
+        "years of experience": [
+            "15+ Years",
+            "Leadership experience"
+        ],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Information Technology": 0.2366,
+            "Vendor Management": 0.3821,
+            "VMO Leadership": 0.6181,
+            "Vendor selection process": 0.1587,
+            "Senior Project Management leadership": 0.5183,
+            "Business acumen": 0.3944,
+            "Global and strategic sourcing": 0.1505,
+            "Negotiations expert": 0.3432,
+            "Project management": 0.4258,
+            "IT Technical Support": 0.1745,
+            "Cloud Computing": 0.2509,
+            "Enterprise Business critical applications": 0.2006,
+            "Performance Metrics": 0.2643,
+            "System Availability": 0.343
+        },
+        "filename": "cv (4390)_annotated.json"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "honest",
+        "dignity",
+        "interpersonal skill",
+        "creativity",
+        "learning experiences",
+        "Male"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sabbir Mahmud",
+            "Mohammed Abdul Al Baki",
+            "Sayeda Mongu Akter",
+            "Rahim Regan"
+        ],
+        "job title": [
+            "Married",
+            "Data Entry Operator",
+            "Computer Trainer & Salesman"
+        ],
+        "company": [
+            "Manson",
+            "Bangladesh Embassy School",
+            "Dhaka Board",
+            "Rashid Geotechnical & Material, Engineers",
+            "Desh Computer"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Present Address",
+            "Permanent Address",
+            "Nazir Road",
+            "Science",
+            "Somobai Super Market",
+            "S.S.K. Road"
+        ],
+        "email": [
+            "E-mail",
+            "regan_580@yahoo.com",
+            "regan580@gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "+88-01771734566",
+            "+88-01617734566"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "honest": 0.1738,
+            "dignity": 0.2639,
+            "interpersonal skill": 0.3974,
+            "creativity": 0.5004,
+            "learning experiences": 0.2032,
+            "Male": 0.2247
+        },
+        "filename": "cv (1379)_annotated.json"
+    }
+}

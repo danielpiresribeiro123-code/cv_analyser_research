@@ -1,0 +1,47 @@
+{
+    "skills": [
+        "Civil",
+        "AutoCAD",
+        "CIVIL department"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAHIL RIYAZ",
+            "Name of",
+            "I"
+        ],
+        "job title": [
+            "Draughtsman",
+            "Job Profile Df",
+            "ASHRAY ENGINEER  & ARCHITECT",
+            "Supervision"
+        ],
+        "company": [
+            "VIKAS ASSOCIATES ENGINEERS AND ARCHITECT"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "H.No- 5",
+            "Street No. 2",
+            "Ghulam Mehboob Road",
+            "Hathi Khana",
+            "Bhopal M.P"
+        ],
+        "email": [
+            "Email",
+            "rahilriyaz82@yahoo.co.in"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "Civil": 0.1682,
+            "AutoCAD": 0.302,
+            "CIVIL department": 0.2811
+        },
+        "filename": "cv (2207)_annotated.json"
+    }
+}

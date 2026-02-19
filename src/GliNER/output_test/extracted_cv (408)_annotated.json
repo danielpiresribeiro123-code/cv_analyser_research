@@ -1,0 +1,114 @@
+{
+    "skills": [
+        "Human Resource Management",
+        "Administration",
+        "HR Processes",
+        "Performance Management",
+        "Talent  Acquisition",
+        "Team  Management",
+        "Change  Management",
+        "Budgeting",
+        "Liaison",
+        "Organisational Development",
+        "Facilities Planning & Management",
+        "Crisis Management",
+        "Recreation  and  Welfare",
+        "Training  and  Development",
+        "Employee  Relations",
+        "Expertise",
+        "manpower planning",
+        "welfare schemes",
+        "grievance  handling",
+        "disciplinary  matters",
+        "Human  Behaviour  &  Performance",
+        "Team  Building",
+        "Motivation",
+        "HR Policies  & Procedures",
+        "professional  competencies",
+        "HR  functions",
+        "Recruitment",
+        "Human  Resource  Management",
+        "Business  Issues",
+        "outstanding motivational abilities",
+        "Excellent communication",
+        "negotiation",
+        "analytical",
+        "problem solving",
+        "inter-personal skills",
+        "You  Made  a  Difference  -  Hercinia  Award"
+    ],
+    "professional_info": {
+        "person name": [
+            "julekha.mohanty143",
+            "julekha",
+            "JULEKHA MOHANTY"
+        ],
+        "job title": [
+            "Dynamic Professional",
+            "Proactive  professional",
+            "HR Executive"
+        ],
+        "company": [
+            "SIMPLIFY WORKFORCE TECHNOLOGIES PVT. LTD.",
+            "US TECH SOLUTIONS PVT. LTD."
+        ],
+        "university": [
+            "ISBM",
+            "Bundelkhand University"
+        ],
+        "degree": [
+            "Executive MBA",
+            "Bachelor of Commerce"
+        ],
+        "years of experience": [
+            "4+ years of experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": [
+            "phone  calls"
+        ]
+    },
+    "metadata": {
+        "total_skills": 36,
+        "confidence_scores": {
+            "Human Resource Management": 0.5114,
+            "Administration": 0.5098,
+            "HR Processes": 0.4475,
+            "Performance Management": 0.4128,
+            "Talent  Acquisition": 0.4568,
+            "Team  Management": 0.4789,
+            "Change  Management": 0.491,
+            "Budgeting": 0.436,
+            "Liaison": 0.3118,
+            "Organisational Development": 0.4411,
+            "Facilities Planning & Management": 0.419,
+            "Crisis Management": 0.3457,
+            "Recreation  and  Welfare": 0.3247,
+            "Training  and  Development": 0.3809,
+            "Employee  Relations": 0.3963,
+            "Expertise": 0.1736,
+            "manpower planning": 0.3342,
+            "welfare schemes": 0.2168,
+            "grievance  handling": 0.2431,
+            "disciplinary  matters": 0.1963,
+            "Human  Behaviour  &  Performance": 0.2262,
+            "Team  Building": 0.3646,
+            "Motivation": 0.3207,
+            "HR Policies  & Procedures": 0.4779,
+            "professional  competencies": 0.1705,
+            "HR  functions": 0.1712,
+            "Recruitment": 0.1813,
+            "Human  Resource  Management": 0.4416,
+            "Business  Issues": 0.2703,
+            "outstanding motivational abilities": 0.259,
+            "Excellent communication": 0.5556,
+            "negotiation": 0.3976,
+            "analytical": 0.371,
+            "problem solving": 0.4659,
+            "inter-personal skills": 0.4706,
+            "You  Made  a  Difference  -  Hercinia  Award": 0.3733
+        },
+        "filename": "cv (408)_annotated.json"
+    }
+}

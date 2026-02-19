@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "innovative skills",
+        "diligent work",
+        "professional skills",
+        "technical skills",
+        "Academic Qualification",
+        "Grade M.TECH",
+        "Electrical Eng.",
+        "B.E. (Electrical )",
+        "MCCB",
+        "IEC 60947 -2",
+        "Pro -E software"
+    ],
+    "professional_info": {
+        "person name": [
+            "HARDIK"
+        ],
+        "job title": [
+            "challenging job"
+        ],
+        "company": [
+            "Sankalchand patel college of engineering",
+            "Shri Swaminarayan Gurukul School",
+            "Gujarat State Electricity C orporat ion Ltd",
+            "Larsen and Toub ro"
+        ],
+        "university": [
+            "Institute Of Technology",
+            "Nirma  University",
+            "Nirma University",
+            "Gujarat Technological University",
+            "G.H.S.E.B.",
+            "G.S.E.B."
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "ch -5",
+            "sector -22",
+            "Gandhinagar"
+        ],
+        "email": [
+            "E-mail",
+            "mehta.hardik.13@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9924139147"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "innovative skills": 0.4692,
+            "diligent work": 0.2693,
+            "professional skills": 0.4586,
+            "technical skills": 0.5352,
+            "Academic Qualification": 0.2238,
+            "Grade M.TECH": 0.2468,
+            "Electrical Eng.": 0.1713,
+            "B.E. (Electrical )": 0.2736,
+            "MCCB": 0.2095,
+            "IEC 60947 -2": 0.9271,
+            "Pro -E software": 0.402
+        },
+        "filename": "cv (3087)_annotated.json"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "skills": [
+        "technical skills",
+        "Technical Manager & Business",
+        "Technical knowledge",
+        "HV testing",
+        "IR testing",
+        "Thermal Testing"
+    ],
+    "professional_info": {
+        "person name": [
+            "Raju Rana"
+        ],
+        "job title": [
+            "QC & Testing Engineer",
+            "Technical manager & Business",
+            "Quality Control & Testing Engineer",
+            "Quality Control & Testing Department",
+            "Load Manager"
+        ],
+        "company": [
+            "Industrial Manufacturing Company",
+            "Karvin Power System pvt Ltd",
+            "Karvin Power System Pvt.Ltd",
+            "Ideal Lighting System Pvt.Ltd"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "3year"
+        ],
+        "address": [
+            "Mumbai"
+        ],
+        "email": [
+            "raju4578@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "technical skills": 0.3838,
+            "Technical Manager & Business": 0.4591,
+            "Technical knowledge": 0.1925,
+            "HV testing": 0.161,
+            "IR testing": 0.192,
+            "Thermal Testing": 0.1955
+        },
+        "filename": "cv (754)_annotated.json"
+    }
+}

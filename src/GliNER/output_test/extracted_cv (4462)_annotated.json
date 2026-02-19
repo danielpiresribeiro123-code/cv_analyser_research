@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "databases",
+        "editing",
+        "script",
+        "production direction",
+        "Accelerate Development",
+        "Proficient",
+        "design direction",
+        "tone of voice",
+        "online advertisements",
+        "Efficient",
+        "Pardot",
+        "Salesforce",
+        "account databases",
+        "website",
+        "graphic designers",
+        "company standards"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "MARKETING COORDINATOR",
+            "production manager",
+            "Customer Support Specialist",
+            "Public Relations and Marketing Intern"
+        ],
+        "company": [
+            "Company Name",
+            "HealthStream",
+            "Talent Management",
+            "vendors",
+            "Franklin Covey"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "email",
+            "City , State"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "databases": 0.1741,
+            "editing": 0.1817,
+            "script": 0.215,
+            "production direction": 0.2022,
+            "Accelerate Development": 0.1616,
+            "Proficient": 0.2924,
+            "design direction": 0.1529,
+            "tone of voice": 0.3123,
+            "online advertisements": 0.1753,
+            "Efficient": 0.2202,
+            "Pardot": 0.3609,
+            "Salesforce": 0.7688,
+            "account databases": 0.5457,
+            "website": 0.3918,
+            "graphic designers": 0.1733,
+            "company standards": 0.189
+        },
+        "filename": "cv (4462)_annotated.json"
+    }
+}

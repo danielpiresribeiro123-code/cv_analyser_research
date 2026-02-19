@@ -1,0 +1,48 @@
+{
+    "skills": [
+        "interpersonal"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "H.S.EOfficer",
+            "SafetyOfficer"
+        ],
+        "company": [
+            "Buniya",
+            "ORASCOMCONSTRUCTIONINDUTRIES",
+            "AlMezin",
+            "ADCO(GSE&C)",
+            "Ghantoot(Dorsch)",
+            "Transco(McConnell)",
+            "SAMSUNGC&T",
+            "SAMSUNGENGINEERING",
+            "KAEFERLLC",
+            "S.KEngineering(jacoob)",
+            "Tecnimont&SamsungEng",
+            "ADCO"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Excellentcommunication"
+        ],
+        "address": [
+            "MANISHKUMAR",
+            "AbuDhabiUAE",
+            "REEMISLNDABUDHABI",
+            "YASISLANDABUDHBAI"
+        ],
+        "email": [
+            "manishrox91@gmail.commanish.narendrasharma@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "interpersonal": 0.2106
+        },
+        "filename": "cv (47)_annotated.json"
+    }
+}

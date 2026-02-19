@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "TARAN",
+        "skills",
+        "CCNA",
+        "REDHAT LINUX",
+        "Campus Area Network",
+        "CCNAHAT",
+        "ROUTERS",
+        "SWITCHES",
+        "DNS",
+        "DHCP",
+        "VPN",
+        "KEY SKILLS",
+        "Databases",
+        "ORACLE",
+        "MY SQL",
+        "WINDOWS",
+        "LINUX",
+        "GNS",
+        "HINDI",
+        "ENGLISH",
+        "PUNJABI"
+    ],
+    "professional_info": {
+        "person name": [
+            "JASKARAN SINGH",
+            "KULWANT SINGH"
+        ],
+        "job title": [
+            "Professional  experience",
+            "ADMINSTRATOR"
+        ],
+        "company": [
+            "V.P.O SARHALI KALAN",
+            "TEH & DISTT ARN",
+            "Mc Lamp",
+            "CISCO"
+        ],
+        "university": [
+            "NIIT AMRITSAR",
+            "CMC NOIDA"
+        ],
+        "degree": [
+            "B.TechP.T.U652015",
+            "Senior Secondary P.S.E.B652010",
+            "Higher Secondary P.S.E.B602008"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "sandhuboys577@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "08557833116",
+            "9643774412"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "TARAN": 0.4672,
+            "skills": 0.1982,
+            "CCNA": 0.8452,
+            "REDHAT LINUX": 0.9184,
+            "Campus Area Network": 0.359,
+            "CCNAHAT": 0.4207,
+            "ROUTERS": 0.2057,
+            "SWITCHES": 0.2629,
+            "DNS": 0.2892,
+            "DHCP": 0.2483,
+            "VPN": 0.3811,
+            "KEY SKILLS": 0.2231,
+            "Databases": 0.277,
+            "ORACLE": 0.268,
+            "MY SQL": 0.6907,
+            "WINDOWS": 0.9898,
+            "LINUX": 0.9163,
+            "GNS": 0.32,
+            "HINDI": 0.325,
+            "ENGLISH": 0.3585,
+            "PUNJABI": 0.2805
+        },
+        "filename": "cv (236)_annotated.json"
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "skills": [
+        "Experienced",
+        "shipping  and  receiving",
+        "communication skills",
+        "Core Qualification",
+        "Excellent oral communication skills",
+        "Microsoft Outlook",
+        "Excel",
+        "Word",
+        "Good ability to work as a valued team member",
+        "Passi",
+        "Diploma (Logistics, & Shipping)",
+        "Technical Skills",
+        "Windows",
+        "XP",
+        "2007",
+        "2008",
+        "MS-Office",
+        "PowerPoint",
+        "Adobe Professional",
+        "Acrobat",
+        "Photoshop",
+        "Typewriting",
+        "FTP",
+        "Male",
+        "English",
+        "Tamil"
+    ],
+    "professional_info": {
+        "person name": [
+            "VIJAYARAJA A",
+            "Alagar K",
+            "Indian"
+        ],
+        "job title": [
+            "Professional",
+            "Shipping  Specialist"
+        ],
+        "company": [
+            "Ragavandhra Shipping Services",
+            "Spi Global Pvt Ltd",
+            "Laserwords",
+            "Scientific Publishing Services Pvt Ltd",
+            "ng",
+            "Arulmigu Kallalagar"
+        ],
+        "university": [
+            "Indian Institute of Logistics",
+            "Chennai2017",
+            "Polytechnic College",
+            "MelurAnna",
+            "University2010"
+        ],
+        "degree": [
+            "D.M.E"
+        ],
+        "years of experience": [
+            "6 years experience"
+        ],
+        "address": [
+            "25/15",
+            "K R Ramasamy Nagar",
+            "Velachery Main Road"
+        ],
+        "email": [
+            "Email",
+            "vijayaraja.6253@gmail.com"
+        ],
+        "phone": [
+            "Phone No",
+            "+919566856253"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Experienced": 0.2024,
+            "shipping  and  receiving": 0.1894,
+            "communication skills": 0.259,
+            "Core Qualification": 0.1624,
+            "Excellent oral communication skills": 0.2637,
+            "Microsoft Outlook": 0.4921,
+            "Excel": 0.2387,
+            "Word": 0.2632,
+            "Good ability to work as a valued team member": 0.1596,
+            "Passi": 0.2405,
+            "Diploma (Logistics, & Shipping)": 0.3378,
+            "Technical Skills": 0.3068,
+            "Windows": 0.933,
+            "XP": 0.7823,
+            "2007": 0.7289,
+            "2008": 0.4851,
+            "MS-Office": 0.5896,
+            "PowerPoint": 0.389,
+            "Adobe Professional": 0.6136,
+            "Acrobat": 0.3426,
+            "Photoshop": 0.3496,
+            "Typewriting": 0.3465,
+            "FTP": 0.3808,
+            "Male": 0.2726,
+            "English": 0.3966,
+            "Tamil": 0.5313
+        },
+        "filename": "cv (3596)_annotated.json"
+    }
+}

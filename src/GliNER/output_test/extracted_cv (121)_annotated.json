@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "skills",
+        "Dash Washer",
+        "star delta starter",
+        "DG sets",
+        "Electromechanical Energy Conversion I – Electromechanical Energy Conversion II - Power Electronic"
+    ],
+    "professional_info": {
+        "person name": [
+            "AMIT KUMAR GUPTA",
+            "fresh graduate"
+        ],
+        "job title": [
+            "Dec facility management",
+            "supervisor",
+            "Lecturer",
+            "Lab instructor"
+        ],
+        "company": [
+            "firm"
+        ],
+        "university": [
+            "Gautam Butha  University",
+            "Intermediate Uttar Pradesh Board",
+            "High School Uttar Pradesh Board",
+            "SPMIT ENGINEERING COLLEGE",
+            "SPMIT Engineering Collage",
+            "Uttar Pradesh Power Corporation Limited"
+        ],
+        "degree": [
+            "B-Tech (Electrical Engineering)",
+            "Diploma (Electrical Engineering)"
+        ],
+        "years of experience": [
+            "EXPERIENCE"
+        ],
+        "address": [
+            "F-130",
+            "Room No.-301",
+            "Katwaria Sarai",
+            "New Delhi-110016",
+            "2008-2011"
+        ],
+        "email": [
+            "E-mail",
+            "amit.siet@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "8470960368"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "skills": 0.1563,
+            "Dash Washer": 0.1987,
+            "star delta starter": 0.1569,
+            "DG sets": 0.2222,
+            "Electromechanical Energy Conversion I – Electromechanical Energy Conversion II - Power Electronic": 0.1574
+        },
+        "filename": "cv (121)_annotated.json"
+    }
+}

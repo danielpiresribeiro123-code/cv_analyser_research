@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Unmarried",
+        "07084098740",
+        "M1264563",
+        "Languages proficiency",
+        "Good command",
+        "English",
+        "The Art of  Persuasive Public Speaking",
+        "Computer Applications and Typing",
+        "HSE protocols",
+        "Pro-Actively contribute"
+    ],
+    "professional_info": {
+        "person name": [
+            "ZIYAUL HAQUE",
+            "ALI",
+            "Shamshul Haque Ali"
+        ],
+        "job title": [
+            "HSE Officer",
+            "INSTALLTION  & COMMISSIONING ENGINEER",
+            "Security officer / Safety",
+            "Security System Coordinator",
+            "Customer Service Department"
+        ],
+        "company": [
+            "Indian",
+            "Muslim",
+            "Emrill Services, LLC",
+            "Emrill, Services LLC",
+            "Emrill",
+            "AMCO SAFT",
+            "THE  HIGH –TECHNOLOGY BATTERY  MANUFACTURER",
+            "Emrill   Services LLC",
+            "EMRILL Service LLC",
+            "EMAAR Data Center"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "H.NO.636/74",
+            "Rafi Nagar Takrohi Market",
+            "Indira Nagar Lucknow"
+        ],
+        "email": [
+            "E-mail",
+            "ziyaul9559@gmail.com"
+        ],
+        "phone": [
+            "telephone",
+            "electronically"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Unmarried": 0.223,
+            "07084098740": 0.2479,
+            "M1264563": 0.264,
+            "Languages proficiency": 0.3502,
+            "Good command": 0.25,
+            "English": 0.6428,
+            "The Art of  Persuasive Public Speaking": 0.1648,
+            "Computer Applications and Typing": 0.3038,
+            "HSE protocols": 0.442,
+            "Pro-Actively contribute": 0.1947
+        },
+        "filename": "cv (2837)_annotated.json"
+    }
+}

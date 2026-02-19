@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "Internal  substation",
+        "Good knowledge",
+        "Feeder Pillar",
+        "LT & HT Panel",
+        "Civil work",
+        "Engineering Drawing",
+        "Electrical",
+        "TECHNICAL SKILLS",
+        "Feeder panel"
+    ],
+    "professional_info": {
+        "person name": [
+            "PREM SHANKAR"
+        ],
+        "job title": [
+            "ELECTRICAL  ENGINEER",
+            "TECHNOLOGY PROFESSIONAL",
+            "RF Engineer",
+            "Site Engineer"
+        ],
+        "company": [
+            "Telecom",
+            "Modern Electric Company",
+            "Phimetrics Technology Pvt. Ltd.",
+            "Abrasive Engineers Pvt. Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Nearly 3 years of experience",
+            "Nearly 1.25 years Experience",
+            "July 2013",
+            "May 2016",
+            "Dec 2017"
+        ],
+        "address": [
+            "Palam Village",
+            "New Delhi",
+            "Dehradun"
+        ],
+        "email": [
+            "E-Mail",
+            "vppremshankar@gmail .com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-8954079155",
+            "+91-7060712103"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Internal  substation": 0.1595,
+            "Good knowledge": 0.1877,
+            "Feeder Pillar": 0.1538,
+            "LT & HT Panel": 0.1764,
+            "Civil work": 0.199,
+            "Engineering Drawing": 0.1904,
+            "Electrical": 0.1514,
+            "TECHNICAL SKILLS": 0.1936,
+            "Feeder panel": 0.167
+        },
+        "filename": "cv (3700)_annotated.json"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "skills": [
+        "Male",
+        "Single",
+        "Back office And Accounts",
+        "Objective",
+        "committed and dedicated people",
+        "challenging and creative environment",
+        "Positive Traits",
+        "Enjoy working in a systematic environment",
+        "Quality conscious",
+        "Dynamic",
+        "Strong will power",
+        "High sense of responsibility",
+        "Locational",
+        "Situational adaptability",
+        "believe  in motivation",
+        "team performance",
+        "Sincere and Dedicated",
+        "Functional Experience",
+        "Maintaining Running Bills Records",
+        "Document Control",
+        "Microsoft tools &    Busy 14",
+        "Preparation of accounts payables and receivables",
+        "Preparation of sale invoices and journal vouchers",
+        "cash books"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohd.Amir",
+            "Indian",
+            "Mr. Naseemuddin"
+        ],
+        "job title": [
+            "Executive",
+            "key player"
+        ],
+        "company": [
+            "A.B.INFRAZONE PVT. LTD.",
+            "Hi -Tech"
+        ],
+        "university": [
+            "Exam        Board/University  Year",
+            "High School  U.P.  Board  2005",
+            "Intermediate  U.P.  Board"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Present Address",
+            "M-23/2",
+            "Ghaffar Manzil",
+            "New Delhi -110019",
+            "Permanent Address",
+            "H.No. 206"
+        ],
+        "email": [
+            "amirmd0003@gmail.com"
+        ],
+        "phone": [
+            "+91-9719471137",
+            "+91-8273632067",
+            "Pin- 243723"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Male": 0.1718,
+            "Single": 0.3575,
+            "Back office And Accounts": 0.3038,
+            "Objective": 0.2317,
+            "committed and dedicated people": 0.4326,
+            "challenging and creative environment": 0.1963,
+            "Positive Traits": 0.41,
+            "Enjoy working in a systematic environment": 0.3415,
+            "Quality conscious": 0.6553,
+            "Dynamic": 0.6829,
+            "Strong will power": 0.7262,
+            "High sense of responsibility": 0.7571,
+            "Locational": 0.3026,
+            "Situational adaptability": 0.6062,
+            "believe  in motivation": 0.4012,
+            "team performance": 0.2617,
+            "Sincere and Dedicated": 0.6983,
+            "Functional Experience": 0.1999,
+            "Maintaining Running Bills Records": 0.1531,
+            "Document Control": 0.15,
+            "Microsoft tools &    Busy 14": 0.5555,
+            "Preparation of accounts payables and receivables": 0.2049,
+            "Preparation of sale invoices and journal vouchers": 0.1523,
+            "cash books": 0.1781
+        },
+        "filename": "cv (3216)_annotated.json"
+    }
+}

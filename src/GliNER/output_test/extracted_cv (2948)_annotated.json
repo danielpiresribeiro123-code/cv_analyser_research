@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "skill",
+        "Electronics and communication",
+        "Softer known",
+        "Autocad electrical",
+        "Diptrace",
+        "Simmulation",
+        "Microsoft office",
+        "ACADEMIC PROJECT",
+        "PIR SENSOR BASED OCCUPANCY SENSOR",
+        "Electronics",
+        "Networking",
+        "RELAY",
+        "DRIVER",
+        "ULN2003A IC",
+        "PROFESSIONAL CERTIFICATION",
+        "CLOUD COMPUTING",
+        "Male",
+        "English",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "Pravin Kumar Tripathi",
+            "MR. RAJESHWAR DAYAL TRIPATHI",
+            "INDIAN"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "HIGHSCHOOL S.N.B.V",
+            "ORANE LABS",
+            "IIT KANPUR (U,P)",
+            "IIT-KANPUR",
+            "THE",
+            "INSTITUTION OF ELECTRONICS AND TELECOMMUNICATION ENGGINEERS"
+        ],
+        "degree": [
+            "B.TECH MIPS UPTU 2015"
+        ],
+        "years of experience": [],
+        "address": [
+            "1/221b Nawabganj"
+        ],
+        "email": [
+            "pravintripathi@mpgi.edu.in"
+        ],
+        "phone": [
+            "+91-9005850344"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "skill": 0.1518,
+            "Electronics and communication": 0.6187,
+            "Softer known": 0.1577,
+            "Autocad electrical": 0.4574,
+            "Diptrace": 0.4103,
+            "Simmulation": 0.4787,
+            "Microsoft office": 0.6188,
+            "ACADEMIC PROJECT": 0.3016,
+            "PIR SENSOR BASED OCCUPANCY SENSOR": 0.1983,
+            "Electronics": 0.5622,
+            "Networking": 0.2663,
+            "RELAY": 0.2845,
+            "DRIVER": 0.4281,
+            "ULN2003A IC": 0.7807,
+            "PROFESSIONAL CERTIFICATION": 0.8997,
+            "CLOUD COMPUTING": 0.5297,
+            "Male": 0.1825,
+            "English": 0.4454,
+            "Hindi": 0.5319
+        },
+        "filename": "cv (2948)_annotated.json"
+    }
+}

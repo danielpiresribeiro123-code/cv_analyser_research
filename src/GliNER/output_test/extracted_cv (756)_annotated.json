@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "AUTOMATIC OPTICAL INSPECTION (AOI)",
+        "Training Skills",
+        "IPC-A-610E Solder Ability Standard",
+        "ESD",
+        "ROHS",
+        "AOI",
+        "DEK ELAI &DEK",
+        "DEK 265 HORIZON",
+        "CYBER OPTICS & SAKI AOI  MACHINE",
+        "Programming Skills",
+        "C",
+        "Java",
+        "VC++",
+        "Device Driver",
+        "Android",
+        "Linux",
+        "winCE",
+        "8051controller and 8086 processor",
+        "ARM processor and controller",
+        "PIC",
+        "Embedded Networks",
+        "PCB design and Manufacturing",
+        "Networking"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Contact",
+            "ApprenticeSMT"
+        ],
+        "company": [
+            "B.E-ECE",
+            "Avalon Technology"
+        ],
+        "university": [
+            "SSLC Nehru Higher Secondary",
+            "HSC M.K.V.K  Matric Higher",
+            "A.R College Of  Engineering"
+        ],
+        "degree": [],
+        "years of experience": [
+            "professional experience"
+        ],
+        "address": [
+            "98 A / 1 Mangama salai"
+        ],
+        "email": [
+            "VARATHARAJ   E",
+            "8015736621",
+            "Email",
+            "varatharaj981@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "AUTOMATIC OPTICAL INSPECTION (AOI)": 0.244,
+            "Training Skills": 0.2402,
+            "IPC-A-610E Solder Ability Standard": 0.655,
+            "ESD": 0.2894,
+            "ROHS": 0.4378,
+            "AOI": 0.3899,
+            "DEK ELAI &DEK": 0.2043,
+            "DEK 265 HORIZON": 0.2157,
+            "CYBER OPTICS & SAKI AOI  MACHINE": 0.3464,
+            "Programming Skills": 0.4052,
+            "C": 0.9291,
+            "Java": 0.8909,
+            "VC++": 0.4378,
+            "Device Driver": 0.2586,
+            "Android": 0.9119,
+            "Linux": 0.9273,
+            "winCE": 0.6654,
+            "8051controller and 8086 processor": 0.1603,
+            "ARM processor and controller": 0.3391,
+            "PIC": 0.5908,
+            "Embedded Networks": 0.3028,
+            "PCB design and Manufacturing": 0.2395,
+            "Networking": 0.3331
+        },
+        "filename": "cv (756)_annotated.json"
+    }
+}

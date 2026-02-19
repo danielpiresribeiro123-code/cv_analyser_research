@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "FRESHER",
+        "SUMMARY",
+        "statistical",
+        "analytic capabilities",
+        "problem solving",
+        "data",
+        "Machine Learning",
+        "PERSONAL",
+        "Data Analyst",
+        "Data Mining",
+        "Visualization",
+        "Linear Regression",
+        "Modeling",
+        "Predictive Modeling",
+        "SQL",
+        "Server",
+        "Oracle",
+        "Python",
+        "PROJECTS",
+        "Railway Signals Determiner",
+        "relay weight system",
+        "EXTRA-CURRICULARS",
+        "Data Preprocessing",
+        "Data Visualization",
+        "Power BI"
+    ],
+    "professional_info": {
+        "person name": [
+            "LIAM ANDREWS"
+        ],
+        "job title": [
+            "Intern Trainee",
+            "ACADEMIC PROFILE",
+            "EXECUTIVE"
+        ],
+        "company": [],
+        "university": [],
+        "degree": [
+            "B.Tech(Civil) Garodia Institute of Technosciences"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "FRESHER": 0.2189,
+            "SUMMARY": 0.2049,
+            "statistical": 0.234,
+            "analytic capabilities": 0.2201,
+            "problem solving": 0.1792,
+            "data": 0.1666,
+            "Machine Learning": 0.8975,
+            "PERSONAL": 0.4878,
+            "Data Analyst": 0.3269,
+            "Data Mining": 0.6558,
+            "Visualization": 0.403,
+            "Linear Regression": 0.8156,
+            "Modeling": 0.4819,
+            "Predictive Modeling": 0.7462,
+            "SQL": 0.6857,
+            "Server": 0.5801,
+            "Oracle": 0.769,
+            "Python": 0.9631,
+            "PROJECTS": 0.2296,
+            "Railway Signals Determiner": 0.2902,
+            "relay weight system": 0.2696,
+            "EXTRA-CURRICULARS": 0.4683,
+            "Data Preprocessing": 0.3487,
+            "Data Visualization": 0.5582,
+            "Power BI": 0.4126
+        },
+        "filename": "cv (4910)_annotated.json"
+    }
+}

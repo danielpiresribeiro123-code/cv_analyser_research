@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "skilled",
+        "educated",
+        "Certification",
+        "TEFL",
+        "English",
+        "Basics of Computer",
+        "Ms Office",
+        "Strengths",
+        "Communication skills",
+        "Ambitious and perfectionist",
+        "Good team-work communication",
+        "Sense of responsibility",
+        "Dedicated to teaching students",
+        "Professionalism",
+        "Respectful",
+        "Patience with students",
+        "Extra- Curricular Activities",
+        "Dance",
+        "Married",
+        "Tamil"
+    ],
+    "professional_info": {
+        "person name": [
+            "M. Kandasamy",
+            "Female",
+            "Indian"
+        ],
+        "job title": [
+            "Teacher",
+            "Hindu"
+        ],
+        "company": [],
+        "university": [
+            "National College",
+            "Marriamman College of Education",
+            "Chidambaram Pillai College for women",
+            "Boiler Plant Girls Higher Secondary School"
+        ],
+        "degree": [
+            "Master of Arts",
+            "Bachelor of Education",
+            "Bachelor of Arts",
+            "HSC- 12th",
+            "SSLC- 10th"
+        ],
+        "years of experience": [],
+        "address": [
+            "Communication Address",
+            "F1",
+            "Plot No",
+            "Naramatha Street",
+            "Kasivisalakshipuram",
+            "Chennai - 600117"
+        ],
+        "email": [
+            "LEELA. K E-mail",
+            "leelapappu20@gmail.com",
+            "9786413038"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "skilled": 0.2284,
+            "educated": 0.1695,
+            "Certification": 0.2404,
+            "TEFL": 0.7494,
+            "English": 0.6464,
+            "Basics of Computer": 0.269,
+            "Ms Office": 0.2489,
+            "Strengths": 0.2127,
+            "Communication skills": 0.3947,
+            "Ambitious and perfectionist": 0.1892,
+            "Good team-work communication": 0.1676,
+            "Sense of responsibility": 0.2657,
+            "Dedicated to teaching students": 0.3047,
+            "Professionalism": 0.2731,
+            "Respectful": 0.341,
+            "Patience with students": 0.1963,
+            "Extra- Curricular Activities": 0.1743,
+            "Dance": 0.1691,
+            "Married": 0.3273,
+            "Tamil": 0.6561
+        },
+        "filename": "cv (1555)_annotated.json"
+    }
+}

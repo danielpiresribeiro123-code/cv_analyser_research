@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "Gender",
+        "FEMALE",
+        "MARRIED",
+        "OBJECTIVE",
+        "progressive and innovative",
+        "Commerce",
+        "XII Standard",
+        "X Standard",
+        "TECHNICAL QUALIFICATION",
+        "Typewriting",
+        "English",
+        "Tamil",
+        "MS Office",
+        "Interesting to read books",
+        "Linguistic Abilities",
+        "To Speak"
+    ],
+    "professional_info": {
+        "person name": [
+            "R.JAMBUNATHAN",
+            "R. JAMBUNATHAN",
+            "INDIAN",
+            "BRAHMIN",
+            "JAYANTHI. J"
+        ],
+        "job title": [
+            "growth oriented position",
+            "Ready to work"
+        ],
+        "company": [],
+        "university": [
+            "SEETHALAKSHMI RAMASWAMI COLLEGE",
+            "ST.PHILOMINAS Girls Hr Sec School",
+            "Computer Software College",
+            "Tamil Nadu Handloom Weavers Society",
+            "LIC of India",
+            "M/s.AMTREX",
+            "PRINCE Matriculation Hr. Sec. School"
+        ],
+        "degree": [
+            "BACHELOR OF COMMERCE",
+            "B.COM",
+            "HSC"
+        ],
+        "years of experience": [],
+        "address": [
+            "No.4",
+            "Natesan Street",
+            "Manasarovar Mandakini Flats",
+            "Ground Floor (G-3)",
+            "Ullagaram",
+            "Eldams Road"
+        ],
+        "email": [
+            "E-mail",
+            "jkrajam94@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+91 98411 58200"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Gender": 0.1635,
+            "FEMALE": 0.3987,
+            "MARRIED": 0.3637,
+            "OBJECTIVE": 0.1779,
+            "progressive and innovative": 0.1538,
+            "Commerce": 0.4671,
+            "XII Standard": 0.3266,
+            "X Standard": 0.3614,
+            "TECHNICAL QUALIFICATION": 0.2528,
+            "Typewriting": 0.2194,
+            "English": 0.6449,
+            "Tamil": 0.6267,
+            "MS Office": 0.3221,
+            "Interesting to read books": 0.1862,
+            "Linguistic Abilities": 0.3609,
+            "To Speak": 0.1691
+        },
+        "filename": "cv (1536)_annotated.json"
+    }
+}

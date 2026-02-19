@@ -1,0 +1,45 @@
+{
+    "skills": [],
+    "professional_info": {
+        "person name": [
+            "RITESHKUMAR SHIRKE",
+            "ritesh_shirke",
+            "riteshshirke"
+        ],
+        "job title": [
+            "Asst. Manager- Maintenance",
+            "Sr. Engineer",
+            "Engineer ( O & M )",
+            "Jr. Engineer",
+            "O & M"
+        ],
+        "company": [
+            "ADARSH Electricals",
+            "LANCO Solar Energy Pvt. Ltd .",
+            "Suzlon Infrastructure & Services Ltd.",
+            "ADARSH ELECTRICAL",
+            "Lanco Solar Energy Pvt Ltd.",
+            "MAHAGENCO"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "B-8",
+            "Arihant residency",
+            "Seva sadan road",
+            "viramgam- 382150",
+            "Ahmedabad"
+        ],
+        "email": [
+            "yahoo.co.",
+            "hotmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 0,
+        "confidence_scores": {},
+        "filename": "cv (2659)_annotated.json"
+    }
+}

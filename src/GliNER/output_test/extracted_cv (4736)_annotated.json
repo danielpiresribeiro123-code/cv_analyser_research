@@ -1,0 +1,47 @@
+{
+    "skills": [
+        "Outstanding work ethic",
+        "public relations",
+        "social media",
+        "social media"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "MARKETING AND COMMUNICATIONS DIRECTOR",
+            "National Marketing and Communications cohort",
+            "Seattle Executive Director",
+            "Government Affairs Director",
+            "Seattle Organizer",
+            "Associate Director of Corporate Relations",
+            "CEO",
+            "creative copywriter"
+        ],
+        "company": [
+            "Company Name",
+            "Stand for Children Washington",
+            "Black Girls CODE",
+            "Log Camp",
+            "National Association of Multicultural Digital Entrepreneurs",
+            "Washington STEM",
+            "WestEd",
+            "Education Pioneers",
+            "Ministry"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Outstanding work ethic": 0.1899,
+            "public relations": 0.1715,
+            "social media": 0.287
+        },
+        "filename": "cv (4736)_annotated.json"
+    }
+}

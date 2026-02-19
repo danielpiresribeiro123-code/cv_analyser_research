@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "Customer obsession",
+        "Growth Mindset",
+        "technical knowledge",
+        "problem solving",
+        "Skype for business",
+        "O365",
+        "ECGP",
+        "on premises framework and content",
+        "Online",
+        "O365Dedicated",
+        "Office 365"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT",
+            "Solutions Architect"
+        ],
+        "company": [
+            "Microsoft",
+            "3M",
+            "Alcoa",
+            "SfBOnline",
+            "Aon",
+            "Lubrizol",
+            "AllState",
+            "State",
+            "Delta Airlines"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Customer obsession": 0.2719,
+            "Growth Mindset": 0.1524,
+            "technical knowledge": 0.4416,
+            "problem solving": 0.2109,
+            "Skype for business": 0.3315,
+            "O365": 0.7585,
+            "ECGP": 0.554,
+            "on premises framework and content": 0.2369,
+            "Online": 0.2048,
+            "O365Dedicated": 0.5959,
+            "Office 365": 0.7359
+        },
+        "filename": "cv (4764)_annotated.json"
+    }
+}

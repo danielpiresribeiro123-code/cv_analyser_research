@@ -1,0 +1,110 @@
+{
+    "skills": [
+        "knowledge",
+        "PASSINGAGGREGATE",
+        "SSCJAFARY ENGLISH",
+        "Post  Graduate  Diploma",
+        "Industrial  Automation",
+        "IAO Accredited",
+        "Industrial Automation Tools",
+        "PLC",
+        "DCS",
+        "SCADA",
+        "VFD",
+        "EXPERIENCE",
+        "SCADA",
+        "Dyes&Intermidiates",
+        "HPLC",
+        "TECHNICAL SKILLS",
+        "GC &HPLC",
+        "Distributed  Control  System",
+        "Programming  languages",
+        "LD  (Ladder  Diagram)",
+        "FBD",
+        "Supervisory Control & Data Acquisition"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohammed Hasan",
+            "Basu"
+        ],
+        "job title": [
+            "Junior",
+            "Production engineer",
+            "automation engineer"
+        ],
+        "company": [
+            "TECHNOLOGICAL",
+            "Technocrat, Automation Pvt Limited",
+            "SRF LTD",
+            "MNC",
+            "ADANI HAZIRA  PORT",
+            "GOPINATH  CHEM, TECH Ltd",
+            "Siemens",
+            "AB",
+            "Allen Bradley",
+            "ABB",
+            "Asea Brown, Boveri",
+            "Honeywell",
+            "Schneider",
+            "GE-Fanuc",
+            "Keyence",
+            "Omron",
+            "Messung",
+            "Mitsubishi",
+            "Delta"
+        ],
+        "university": [
+            "COURSEINSTITUTION UNIVERSITY",
+            "INSTITUTE",
+            "UNIVERSITY20147.86"
+        ],
+        "degree": [
+            "PGDIA"
+        ],
+        "years of experience": [
+            "experience",
+            "Ø1  Year  Experience"
+        ],
+        "address": [
+            "eliance Tower",
+            "Gujarat",
+            "BHAVNAGARGUJARAT"
+        ],
+        "email": [
+            "Email",
+            "magichasan123@gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "+919537936559"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "knowledge": 0.2661,
+            "PASSINGAGGREGATE": 0.2888,
+            "SSCJAFARY ENGLISH": 0.2602,
+            "Post  Graduate  Diploma": 0.1583,
+            "Industrial  Automation": 0.1619,
+            "IAO Accredited": 0.1591,
+            "Industrial Automation Tools": 0.5586,
+            "PLC": 0.2335,
+            "DCS": 0.373,
+            "SCADA": 0.3545,
+            "VFD": 0.4808,
+            "EXPERIENCE": 0.205,
+            "Dyes&Intermidiates": 0.2248,
+            "HPLC": 0.3227,
+            "TECHNICAL SKILLS": 0.2453,
+            "GC &HPLC": 0.2466,
+            "Distributed  Control  System": 0.1782,
+            "Programming  languages": 0.3558,
+            "LD  (Ladder  Diagram)": 0.327,
+            "FBD": 0.2277,
+            "Supervisory Control & Data Acquisition": 0.3204
+        },
+        "filename": "cv (3928)_annotated.json"
+    }
+}

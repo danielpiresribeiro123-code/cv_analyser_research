@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "Community Medicine",
+        "Microbiology",
+        "Pathology",
+        "Internal Medicine",
+        "Psychiatry",
+        "Microsoft Word",
+        "Excel",
+        "Power Point",
+        "Professional Experience",
+        "DPT",
+        "MMR",
+        "BCG"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dr. Rahman"
+        ],
+        "job title": [
+            "CONSULTANT"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [
+            "George Washington University Bangladesh Medical College",
+            "University of Dhaka City"
+        ],
+        "degree": [
+            "MPH",
+            "MBBS"
+        ],
+        "years of experience": [
+            "five years"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Community Medicine": 0.8249,
+            "Microbiology": 0.8337,
+            "Pathology": 0.8498,
+            "Internal Medicine": 0.8821,
+            "Psychiatry": 0.4853,
+            "Microsoft Word": 0.4267,
+            "Excel": 0.3107,
+            "Power Point": 0.4957,
+            "Professional Experience": 0.1619,
+            "DPT": 0.3214,
+            "MMR": 0.3942,
+            "BCG": 0.2353
+        },
+        "filename": "cv (4455)_annotated.json"
+    }
+}

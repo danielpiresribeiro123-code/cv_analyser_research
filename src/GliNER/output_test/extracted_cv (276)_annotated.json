@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "Electrical Energy Audit and Energy Management",
+        "P.G.Diploma in Electrical Safety and Safety Management",
+        "PGD",
+        "Computer proficiency",
+        "Programming languages",
+        "Electrical Autocad",
+        "Autocad",
+        "E-plan (Basics)",
+        "VBA",
+        "Orcale PL/SQL",
+        "MS office",
+        "Word",
+        "Excel",
+        "Powerpoint",
+        "Windows XP",
+        "7",
+        "Vista",
+        "8",
+        "10",
+        "DB’s"
+    ],
+    "professional_info": {
+        "person name": [
+            "V.S.PARAMASIVAM"
+        ],
+        "job title": [
+            "Electrical Design & Project Engineer",
+            "Electrical Design Engineer",
+            "Project Engineer"
+        ],
+        "company": [
+            "progressive organization",
+            "Joseph’s Higher Sec. School",
+            "National Power Training Institute",
+            "Shree Paadali Electricals Pvt Ltd",
+            "Cadd Services Pondicherry",
+            "Kalpataru Power"
+        ],
+        "university": [
+            "Adhiparasakthi college of Engineering",
+            "Annamalai University"
+        ],
+        "degree": [
+            "B.E(Electrical and Electronics engineering)",
+            "B.E",
+            "P.G."
+        ],
+        "years of experience": [
+            "2009",
+            "2005",
+            "2003",
+            "Two Years work Experience"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "paramasivam.vs@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 7598102438"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Electrical Energy Audit and Energy Management": 0.1666,
+            "P.G.Diploma in Electrical Safety and Safety Management": 0.229,
+            "PGD": 0.2584,
+            "Computer proficiency": 0.23,
+            "Programming languages": 0.2496,
+            "Electrical Autocad": 0.1872,
+            "Autocad": 0.2194,
+            "E-plan (Basics)": 0.2886,
+            "VBA": 0.4733,
+            "Orcale PL/SQL": 0.4213,
+            "MS office": 0.5774,
+            "Word": 0.3971,
+            "Excel": 0.4121,
+            "Powerpoint": 0.4755,
+            "Windows XP": 0.9308,
+            "7": 0.2272,
+            "Vista": 0.7107,
+            "8": 0.1583,
+            "10": 0.2158,
+            "DB’s": 0.1542
+        },
+        "filename": "cv (276)_annotated.json"
+    }
+}

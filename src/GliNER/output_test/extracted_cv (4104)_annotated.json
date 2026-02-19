@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "Post Graduation",
+        "PG Diploma in Security and intelligence Management",
+        "Stream- PGDSIM",
+        "STRENGHTS",
+        "quick learner",
+        "logical reasoning",
+        "analytical skills",
+        "presentation skills",
+        "dynamic individual",
+        "SECURITY Sector",
+        "Playing cricket",
+        "chatting with friends",
+        "COMPUTER SKILLS",
+        "O/S- Window 2007",
+        "MS-Office",
+        "MS-Word",
+        "MS-Excel",
+        "MS-PowerPoin t",
+        "Tally ERP.9",
+        "ENGLISH",
+        "HINDI"
+    ],
+    "professional_info": {
+        "person name": [
+            "MANJINDER SINGH",
+            "manjindersinghs421"
+        ],
+        "job title": [
+            "challenging and responsible position"
+        ],
+        "company": [],
+        "university": [
+            "Jaipur National University (Jaipur)",
+            "Ossim Institute New Delhi",
+            "Punjab University Chandigarh"
+        ],
+        "degree": [
+            "PG Diploma in Computer Application",
+            "Stream-PGDCA",
+            "Master of Arts (Political Science)",
+            "Bachelor Of Arts  (General)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Hoshiarpur"
+        ],
+        "email": [
+            "Email",
+            "gmail.com",
+            "9779619133"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Post Graduation": 0.4468,
+            "PG Diploma in Security and intelligence Management": 0.7812,
+            "Stream- PGDSIM": 0.5787,
+            "STRENGHTS": 0.2081,
+            "quick learner": 0.3421,
+            "logical reasoning": 0.328,
+            "analytical skills": 0.3795,
+            "presentation skills": 0.2569,
+            "dynamic individual": 0.324,
+            "SECURITY Sector": 0.5378,
+            "Playing cricket": 0.1715,
+            "chatting with friends": 0.4015,
+            "COMPUTER SKILLS": 0.2143,
+            "O/S- Window 2007": 0.7141,
+            "MS-Office": 0.4804,
+            "MS-Word": 0.3395,
+            "MS-Excel": 0.4297,
+            "MS-PowerPoin t": 0.556,
+            "Tally ERP.9": 0.6615,
+            "ENGLISH": 0.7636,
+            "HINDI": 0.8102
+        },
+        "filename": "cv (4104)_annotated.json"
+    }
+}

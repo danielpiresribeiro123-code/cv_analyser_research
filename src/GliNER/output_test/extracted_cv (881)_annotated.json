@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "Arabic",
+        "English",
+        "Small and medium projects",
+        "Identification and management",
+        "Ability to study and review",
+        "credit policy and procedures",
+        "Preparing Loan applications",
+        "Compliance",
+        "Good knowledge of  conventional and Islamic bank  products",
+        "Computer literate",
+        "2-Certified Credit Analyst",
+        "Credit and Collection",
+        "Retail banking products Selling",
+        "anti money laundering",
+        "Vehicle  finance-Heavy  Equipment  Finance",
+        "Consumer  Durable  finance",
+        "Corporate Deposit",
+        "Islamic Finance"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohamed Ahmed Mohamed Ali Mohamed"
+        ],
+        "job title": [
+            "Money and banking Lecturer",
+            "1-Banking trainer",
+            "2-Banking  Training  Manager",
+            "3-Head of training",
+            "4-Learning and Development Manager"
+        ],
+        "company": [
+            "The American Academy of Financial Management – USA-2009",
+            "Economic Development Institute",
+            "WorkBank – USA",
+            "Bahwan Cybertek",
+            "High Institute",
+            "The Performance World",
+            "International Compliance Association",
+            "United Finance Company-Muscat",
+            "Umm Al Qaiwain Bank – Dubai-  UAE"
+        ],
+        "university": [
+            "Al Nelin University",
+            "University of Nebraska – USA"
+        ],
+        "degree": [
+            "1-Economics Masters’ Degree"
+        ],
+        "years of experience": [],
+        "address": [
+            "Muscat"
+        ],
+        "email": [
+            "Email",
+            "mohamedmuscat82@yahoo.com"
+        ],
+        "phone": [
+            "Phone",
+            "+968   95865993",
+            "+968 95193610",
+            "+249 923174745"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Arabic": 0.7577,
+            "English": 0.686,
+            "Small and medium projects": 0.1749,
+            "Identification and management": 0.2933,
+            "Ability to study and review": 0.2542,
+            "credit policy and procedures": 0.2495,
+            "Preparing Loan applications": 0.1636,
+            "Compliance": 0.1592,
+            "Good knowledge of  conventional and Islamic bank  products": 0.1581,
+            "Computer literate": 0.3718,
+            "2-Certified Credit Analyst": 0.6034,
+            "Credit and Collection": 0.2996,
+            "Retail banking products Selling": 0.229,
+            "anti money laundering": 0.362,
+            "Vehicle  finance-Heavy  Equipment  Finance": 0.2443,
+            "Consumer  Durable  finance": 0.1772,
+            "Corporate Deposit": 0.2693,
+            "Islamic Finance": 0.3193
+        },
+        "filename": "cv (881)_annotated.json"
+    }
+}

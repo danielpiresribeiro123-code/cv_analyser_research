@@ -1,0 +1,103 @@
+{
+    "skills": [
+        "Production & Operations",
+        "Management",
+        "Financial",
+        "Economic",
+        "Planning  &  Policies",
+        "Management",
+        "Entrepreneurship",
+        "Board1992 Pass class",
+        "SSC Guj. Secondary Education",
+        "Computer Proficiency",
+        "Certificate Course",
+        "MS office",
+        "Windows-98",
+        "Carrier Management (BCM)",
+        "English",
+        "Shorthand",
+        "HR",
+        "Marketing",
+        "Gujarati",
+        "typing",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "Merrnosh Ichhaporria",
+            "Widow"
+        ],
+        "job title": [
+            "Executive Director",
+            "Executives Director",
+            "Designation Sales Representatives",
+            "Designation Office Secretary"
+        ],
+        "company": [
+            "Chamber of Commerce &, Industries",
+            "London Chamber of, Commerce & Industries",
+            "Eureka Forbes Ltd.",
+            "M/s. Lohia Machinery Manufacturers",
+            "Indian Diamond"
+        ],
+        "university": [
+            "Sikkim  Manipal  Open",
+            "University",
+            "HSC Guj. Secondary Education",
+            "Board1989",
+            "State Examination Board"
+        ],
+        "degree": [
+            "BBA",
+            "MBA"
+        ],
+        "years of experience": [
+            "48%",
+            "Work Experience",
+            "Duration 6 months",
+            "4 years"
+        ],
+        "address": [
+            "B-101",
+            "Gitanjali Complex",
+            "Pal Road",
+            "Surat-395009",
+            "GandhinagarMay 1998"
+        ],
+        "email": [
+            "Email",
+            "merrnosh@gmail.com"
+        ],
+        "phone": [
+            "Contact numbers",
+            "Mobile",
+            "9727745101 / 9898077053"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Production & Operations": 0.4921,
+            "Management": 0.5562,
+            "Financial": 0.3993,
+            "Economic": 0.4922,
+            "Planning  &  Policies": 0.5715,
+            "Entrepreneurship": 0.4673,
+            "Board1992 Pass class": 0.4575,
+            "SSC Guj. Secondary Education": 0.2457,
+            "Computer Proficiency": 0.5136,
+            "Certificate Course": 0.4232,
+            "MS office": 0.5776,
+            "Windows-98": 0.4246,
+            "Carrier Management (BCM)": 0.3853,
+            "English": 0.9552,
+            "Shorthand": 0.785,
+            "HR": 0.27,
+            "Marketing": 0.4692,
+            "Gujarati": 0.7599,
+            "typing": 0.169,
+            "Hindi": 0.7502
+        },
+        "filename": "cv (1030)_annotated.json"
+    }
+}

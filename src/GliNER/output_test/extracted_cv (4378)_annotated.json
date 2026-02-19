@@ -1,0 +1,53 @@
+{
+    "skills": [
+        "Certified Nursing Assistant",
+        "Patient and highly compassionate",
+        "Certification # 342285200505E",
+        "Charting expertise",
+        "Reliable transportation",
+        "Calm and level-headed under duress",
+        "Medical terminology knowledge",
+        "Professional Experience Consultant",
+        "CNA",
+        "mood changes",
+        "eating percentages",
+        "daily inputs and outputs",
+        "emotional support"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [],
+        "company": [
+            "New York State Department of Health",
+            "Company Name - City , State"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": [
+            "follow-up calls",
+            "phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Certified Nursing Assistant": 0.5336,
+            "Patient and highly compassionate": 0.3948,
+            "Certification # 342285200505E": 0.5338,
+            "Charting expertise": 0.4318,
+            "Reliable transportation": 0.3031,
+            "Calm and level-headed under duress": 0.2195,
+            "Medical terminology knowledge": 0.348,
+            "Professional Experience Consultant": 0.2333,
+            "CNA": 0.4091,
+            "mood changes": 0.1755,
+            "eating percentages": 0.1517,
+            "daily inputs and outputs": 0.1731,
+            "emotional support": 0.2221
+        },
+        "filename": "cv (4378)_annotated.json"
+    }
+}

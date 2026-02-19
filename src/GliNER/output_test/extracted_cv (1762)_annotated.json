@@ -1,0 +1,104 @@
+{
+    "skills": [
+        "1Year Computer Diploma",
+        "Ms-Word",
+        "Ms",
+        "Excel",
+        "Power point INTERNET",
+        "TALLY",
+        "BUSY",
+        "Knowledge",
+        "C",
+        "C++",
+        "Linux",
+        "VB",
+        "MS Access",
+        "Dot Net",
+        "Java",
+        "asp.net",
+        "C#",
+        "sql.server2008",
+        "I.T.",
+        "Data Entry",
+        "SKILLS OF LANGUAGE",
+        "Confident",
+        "Punctual",
+        "Smart & Hard Working",
+        "Friendly  Nature",
+        "Interjectory Management",
+        "Stock Management",
+        "Make P.O.",
+        "Maintain stock inventory"
+    ],
+    "professional_info": {
+        "person name": [
+            "INDERJEET YADAV"
+        ],
+        "job title": [
+            "TR"
+        ],
+        "company": [
+            "COUESE UNIVERSITY BOARD",
+            "New Delhi Alan kit Health Care Pvt. Ltd.",
+            "Horizon industrial Products Pvt.Ltd."
+        ],
+        "university": [
+            "10th P.D.I College.",
+            "UP BOARD",
+            "12th P.D.I College. UP BOARD",
+            "IGNOU"
+        ],
+        "degree": [
+            "BCA",
+            "MCA"
+        ],
+        "years of experience": [],
+        "address": [
+            "A-64/RAJA BIHAR",
+            "ROHINI SEC-18",
+            "DELHI",
+            "Badli Industrial Area Delhi-42"
+        ],
+        "email": [
+            "E-Mail ID",
+            "inderjeet2010yadav@gmail.com",
+            "CONTACT NO.9953741652"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 29,
+        "confidence_scores": {
+            "1Year Computer Diploma": 0.2591,
+            "Ms-Word": 0.1915,
+            "Ms": 0.2977,
+            "Excel": 0.2758,
+            "Power point INTERNET": 0.346,
+            "TALLY": 0.2068,
+            "BUSY": 0.2553,
+            "Knowledge": 0.1649,
+            "C": 0.6114,
+            "C++": 0.8867,
+            "Linux": 0.374,
+            "VB": 0.8361,
+            "MS Access": 0.4079,
+            "Dot Net": 0.3331,
+            "Java": 0.9556,
+            "asp.net": 0.2859,
+            "C#": 0.8393,
+            "sql.server2008": 0.3101,
+            "I.T.": 0.1699,
+            "Data Entry": 0.2861,
+            "SKILLS OF LANGUAGE": 0.2244,
+            "Confident": 0.5109,
+            "Punctual": 0.408,
+            "Smart & Hard Working": 0.353,
+            "Friendly  Nature": 0.5226,
+            "Interjectory Management": 0.2071,
+            "Stock Management": 0.1933,
+            "Make P.O.": 0.1562,
+            "Maintain stock inventory": 0.1546
+        },
+        "filename": "cv (1762)_annotated.json"
+    }
+}

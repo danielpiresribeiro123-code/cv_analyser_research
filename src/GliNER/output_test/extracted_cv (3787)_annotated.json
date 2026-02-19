@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "Electrical Project Management",
+        "Management",
+        "expertise",
+        "expertise",
+        "flair",
+        "modern methodologies",
+        "quality standards",
+        "Excellence",
+        "Well-organized",
+        "effective leader",
+        "excellent communication",
+        "negotiation",
+        "relationship building skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "DEVLAL SINGH"
+        ],
+        "job title": [
+            "Electrical Professional",
+            "Achievement-driven Professional",
+            "Strategic Planner",
+            "site Manager"
+        ],
+        "company": [
+            "Acme Solar Pvt. Ltd.",
+            "Solar EPC Department"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "11 years of experience"
+        ],
+        "address": [],
+        "email": [
+            "E-mail",
+            "devlal_singh@yahoo.com",
+            "9113581987"
+        ],
+        "phone": [
+            "Contact Number",
+            "+ 91-9411656377"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Electrical Project Management": 0.3734,
+            "Management": 0.2148,
+            "expertise": 0.3301,
+            "flair": 0.1929,
+            "modern methodologies": 0.8118,
+            "quality standards": 0.8563,
+            "Excellence": 0.1542,
+            "Well-organized": 0.2408,
+            "effective leader": 0.444,
+            "excellent communication": 0.2267,
+            "negotiation": 0.2083,
+            "relationship building skills": 0.1613
+        },
+        "filename": "cv (3787)_annotated.json"
+    }
+}

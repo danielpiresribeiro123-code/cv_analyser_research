@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "hard work",
+        "honesty",
+        "Database",
+        "Computer skill"
+    ],
+    "professional_info": {
+        "person name": [
+            "Fakhrul Hassan"
+        ],
+        "job title": [
+            "Office Co-Ordinator",
+            "SR Relationship Manager",
+            "Designation               Team Leader",
+            "Associate Relationship Manager",
+            "Team Leader"
+        ],
+        "company": [
+            "MAHBOOB ANWAR",
+            "JAIPAN INDUSTRIES LTD.",
+            "INDIABULLS SECURITIES LTD.",
+            "securities and Exchange Board of India",
+            "HDFC BANK LTD.",
+            "HDFC",
+            "ICICI BANK LTD."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Aman Society",
+            "Gate No. 1",
+            "New Azad Nagar",
+            "Bhuli Road",
+            "Dhanbad – 826 001"
+        ],
+        "email": [
+            "E-mail",
+            "mahan786@gmail.com",
+            "Diploma in"
+        ],
+        "phone": [
+            "Mob. 09709667181 / 09504418600"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "hard work": 0.1799,
+            "honesty": 0.1681,
+            "Database": 0.3096,
+            "Computer skill": 0.3003
+        },
+        "filename": "cv (2936)_annotated.json"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "Age",
+        "Gender",
+        "Tamil",
+        "English",
+        "read and write"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sangeetha S",
+            "Sampath P",
+            "Female",
+            "Indian",
+            "Yours truly"
+        ],
+        "job title": [
+            "Special Educator"
+        ],
+        "company": [],
+        "university": [
+            "University of Madras",
+            "Justice Basheer Syed College for Women"
+        ],
+        "degree": [
+            "M.Sc Psychology",
+            "Diploma in teaching the Young Hearing Impaired (DTYHI)",
+            "Bachelor of Compuer Application"
+        ],
+        "years of experience": [
+            "29",
+            "Experience"
+        ],
+        "address": [
+            "2/40 Dharma raja koil street"
+        ],
+        "email": [
+            "E-mail address",
+            "sangeethamailme@yahoo.in"
+        ],
+        "phone": [
+            "Mobile Number",
+            "89394 09806"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Age": 0.2007,
+            "Gender": 0.2004,
+            "Tamil": 0.9248,
+            "English": 0.9122,
+            "read and write": 0.1797
+        },
+        "filename": "cv (1546)_annotated.json"
+    }
+}

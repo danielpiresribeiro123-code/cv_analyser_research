@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "Machine Learning",
+        "Data Mining",
+        "Deep Learning",
+        "Software Testing",
+        "Algorithms",
+        "Python",
+        "JIRA",
+        "NLP",
+        "SQL",
+        "Unsupervised learning",
+        "Clustering",
+        "Regression",
+        "Model Development",
+        "MLOPS",
+        "computer vision",
+        "Certified Cloud Deployment",
+        "Photo Basher",
+        "NLTK"
+    ],
+    "professional_info": {
+        "person name": [
+            "SYDNEY JONES"
+        ],
+        "job title": [
+            "PROFILE",
+            "junior Machine Learning Engineer",
+            "Correspondent"
+        ],
+        "company": [
+            "automotive manufacturing",
+            "client"
+        ],
+        "university": [
+            "TSC Solutions",
+            "STES College of Engineering"
+        ],
+        "degree": [
+            "B.Tech(Electronics/Telecommunication"
+        ],
+        "years of experience": [],
+        "address": [
+            "Pune"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Machine Learning": 0.6206,
+            "Data Mining": 0.6166,
+            "Deep Learning": 0.7871,
+            "Software Testing": 0.4498,
+            "Algorithms": 0.5828,
+            "Python": 0.9952,
+            "JIRA": 0.7712,
+            "NLP": 0.2542,
+            "SQL": 0.261,
+            "Unsupervised learning": 0.8273,
+            "Clustering": 0.8198,
+            "Regression": 0.7732,
+            "Model Development": 0.4972,
+            "MLOPS": 0.3303,
+            "computer vision": 0.3431,
+            "Certified Cloud Deployment": 0.8359,
+            "Photo Basher": 0.2388,
+            "NLTK": 0.2516
+        },
+        "filename": "cv (4994)_annotated.json"
+    }
+}

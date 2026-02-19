@@ -1,0 +1,108 @@
+{
+    "skills": [
+        "operating systems",
+        "Network",
+        "Excellent",
+        "City",
+        "State",
+        "object-oriented design",
+        "Billing system",
+        "Java",
+        "database",
+        "e-commerce website",
+        "EJB platform",
+        "computer database",
+        "Computer Science/ Information Technology",
+        "Computer Science/ Information",
+        "Computer Science Software/Programming",
+        "Computer Science",
+        "Software/Programming",
+        "Information Technology",
+        "Skills",
+        "API",
+        "C",
+        "C++",
+        "Hardware",
+        "Dns",
+        "e-commerce",
+        "Eclipse",
+        "EJB",
+        "XMl",
+        "Ftp",
+        "hard drives",
+        "Html",
+        "Hubs",
+        "Ide",
+        "Information"
+    ],
+    "professional_info": {
+        "person name": [
+            "CONSULTANT"
+        ],
+        "job title": [
+            "Database Administrator",
+            "Administration",
+            "Web developer",
+            "Consultant",
+            "Machinist",
+            "CNC Programmer",
+            "Business Administration"
+        ],
+        "company": [
+            "Company Name",
+            "Education and Training"
+        ],
+        "university": [
+            "Limestone College",
+            "MIT",
+            "University of Virginia Tech"
+        ],
+        "degree": [
+            "Bachelor of Science"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 34,
+        "confidence_scores": {
+            "operating systems": 0.2901,
+            "Network": 0.2899,
+            "Excellent": 0.1501,
+            "City": 0.3747,
+            "State": 0.2089,
+            "object-oriented design": 0.2548,
+            "Billing system": 0.3764,
+            "Java": 0.4188,
+            "database": 0.5335,
+            "e-commerce website": 0.2445,
+            "EJB platform": 0.5333,
+            "computer database": 0.5045,
+            "Computer Science/ Information Technology": 0.3266,
+            "Computer Science/ Information": 0.1687,
+            "Computer Science Software/Programming": 0.3059,
+            "Computer Science": 0.18,
+            "Software/Programming": 0.3146,
+            "Information Technology": 0.1833,
+            "Skills": 0.2173,
+            "API": 0.2194,
+            "C": 0.3094,
+            "C++": 0.285,
+            "Hardware": 0.2115,
+            "Dns": 0.4016,
+            "e-commerce": 0.241,
+            "Eclipse": 0.3101,
+            "EJB": 0.4586,
+            "XMl": 0.4234,
+            "Ftp": 0.4002,
+            "hard drives": 0.2075,
+            "Html": 0.2767,
+            "Hubs": 0.2613,
+            "Ide": 0.2478,
+            "Information": 0.1983
+        },
+        "filename": "cv (4699)_annotated.json"
+    }
+}

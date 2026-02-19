@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "professional skills",
+        "Educational Qualification",
+        "DECE  Samuel  DOTE  2013  63",
+        "Volley Ball",
+        "Strengths",
+        "Learning ability",
+        "good communication skills",
+        "Single",
+        "Tamil",
+        "English",
+        "Telugu"
+    ],
+    "professional_info": {
+        "person name": [
+            "P.MANIKANDAN",
+            "P. Manikandan",
+            "A. Ponnusamy",
+            "Indian"
+        ],
+        "job title": [
+            "Testing Engineer",
+            "Quality Engineer",
+            "Male"
+        ],
+        "company": [
+            "Course  Institution  Board",
+            "Global Electronics",
+            "Butterfly Home Appliances Pvt Ltd"
+        ],
+        "university": [
+            "Polytechnic",
+            "College",
+            "SSLC"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Work Experience",
+            "18months",
+            "2years"
+        ],
+        "address": [
+            "151/1 south street",
+            "Keelathattaparai",
+            "vidhyalayam"
+        ],
+        "email": [
+            "tutybabu3@gmail.co m"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "professional skills": 0.1663,
+            "Educational Qualification": 0.1697,
+            "DECE  Samuel  DOTE  2013  63": 0.2911,
+            "Volley Ball": 0.1812,
+            "Strengths": 0.1654,
+            "Learning ability": 0.2956,
+            "good communication skills": 0.2335,
+            "Single": 0.2701,
+            "Tamil": 0.7575,
+            "English": 0.7001,
+            "Telugu": 0.5442
+        },
+        "filename": "cv (218)_annotated.json"
+    }
+}

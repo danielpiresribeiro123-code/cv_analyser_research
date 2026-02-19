@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "Participation certificates",
+        "Creative"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAJNISH KUMAR",
+            "Bhiwadi Testing Engineer",
+            "Indian"
+        ],
+        "job title": [
+            "Positions of Responsibility",
+            "Executive Committee Member  of the SAC",
+            "DelhiSupervisor of Inhouse Team June 2016 to Present"
+        ],
+        "company": [
+            "Class XII 2011G.R. Public Sen.  Sec. School",
+            "Class X 2009G.R. Public Sen.  Sec. School",
+            "Robocon",
+            "Five core Electronics Ltd.",
+            "Livspace (Home Interior, Designs E-Commerce Pvt., Ltd."
+        ],
+        "university": [
+            "BMIT",
+            "Purnima institute of Technology"
+        ],
+        "degree": [
+            "B.Tech.(Electrical, Engineering)"
+        ],
+        "years of experience": [
+            "Experience"
+        ],
+        "address": [
+            "Jaipur65",
+            "Pune",
+            "Jaipur"
+        ],
+        "email": [
+            "Contact Information",
+            "M7368585"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "Participation certificates": 0.1609,
+            "Creative": 0.392
+        },
+        "filename": "cv (3001)_annotated.json"
+    }
+}

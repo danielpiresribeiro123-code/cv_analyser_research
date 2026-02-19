@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "academic skills",
+        "Perfectionist by nature",
+        "target and task oriented",
+        "Positive attitude",
+        "Confidant",
+        "passin",
+        "gMarke",
+        "Certificate achievements",
+        "Basic computer Knowledge",
+        "TECH  ANANTA 2K12",
+        "STRENGTH",
+        "Punctual",
+        "Hardworking",
+        "Flexibility",
+        "Unmarried",
+        "Hindi",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "Bhagwan Lal Mishra",
+            "Sh. Prameshwar Lal Mishra",
+            "Indian"
+        ],
+        "job title": [
+            "INTERNSHIP"
+        ],
+        "company": [
+            "Modern Woollens"
+        ],
+        "university": [
+            "MEWAR University",
+            "MEWAR",
+            "University",
+            "ATI"
+        ],
+        "degree": [
+            "Diploma(mechanica, l engineering)",
+            "3rd year"
+        ],
+        "years of experience": [
+            "6 months"
+        ],
+        "address": [
+            "Pin 311605",
+            "Mo.8769380343",
+            "Tithora201150.83600"
+        ],
+        "email": [
+            "Email ID",
+            "bhagwanm46@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "academic skills": 0.3534,
+            "Perfectionist by nature": 0.2809,
+            "target and task oriented": 0.3622,
+            "Positive attitude": 0.2602,
+            "Confidant": 0.4313,
+            "passin": 0.1703,
+            "gMarke": 0.1796,
+            "Certificate achievements": 0.1792,
+            "Basic computer Knowledge": 0.4093,
+            "TECH  ANANTA 2K12": 0.2661,
+            "STRENGTH": 0.1545,
+            "Punctual": 0.1599,
+            "Hardworking": 0.2831,
+            "Flexibility": 0.2758,
+            "Unmarried": 0.373,
+            "Hindi": 0.7669,
+            "English": 0.7498
+        },
+        "filename": "cv (1715)_annotated.json"
+    }
+}

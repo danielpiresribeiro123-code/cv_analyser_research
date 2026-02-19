@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "CARRIER",
+        "committed  and dedicated people",
+        "key player",
+        "ACADEMIC QUALIFICATION",
+        "AREA OF INTEREST",
+        "Dispensing of medication",
+        "Health care",
+        "English",
+        "Hindi",
+        "Bengali"
+    ],
+    "professional_info": {
+        "person name": [
+            "ZEHIRUL ISLAM BARBHUYAN",
+            "Musabbir Ali Barbhuyan",
+            "Muslim",
+            "Zehirul islam, barbhuyan"
+        ],
+        "job title": [],
+        "company": [
+            "leading corporate",
+            "Indian"
+        ],
+        "university": [
+            "ASSAM DOWN TOWN",
+            "UNIVERSITY",
+            "AHSEC",
+            "CHITALMARI HIGH SCHOOL",
+            "SEBA"
+        ],
+        "degree": [
+            "DIPLOMA IN PHARMACY",
+            "D.Pharm",
+            "DCA",
+            "DIPLOMA IN COMPUTER APPLICATION"
+        ],
+        "years of experience": [
+            "+918751967178",
+            "WORK OF EXPERIENCE",
+            "One Years",
+            "+ 918011119556"
+        ],
+        "address": [
+            "vill- Samorali Tup Gaon",
+            "PO-Samorali Bazar",
+            "PIN-782439",
+            "PIN -782439"
+        ],
+        "email": [
+            "CONTACT NO",
+            "+918011119556",
+            "Email",
+            "islamzehirul7@gmail.com",
+            "E-MAIL"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "CARRIER": 0.3815,
+            "committed  and dedicated people": 0.3367,
+            "key player": 0.2848,
+            "ACADEMIC QUALIFICATION": 0.1887,
+            "AREA OF INTEREST": 0.3591,
+            "Dispensing of medication": 0.5121,
+            "Health care": 0.3726,
+            "English": 0.7176,
+            "Hindi": 0.7764,
+            "Bengali": 0.8145
+        },
+        "filename": "cv (2897)_annotated.json"
+    }
+}

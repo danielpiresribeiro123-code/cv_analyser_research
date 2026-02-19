@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "Logistics",
+        "Organizational Leadership",
+        "Expert",
+        "inventory control",
+        "customer service",
+        "Proficient",
+        "NALCOMIS/RSUPPLY",
+        "Big Safari Inventory",
+        "Cost Point",
+        "FEDLOG Database",
+        "Versatile",
+        "proactive problem solver",
+        "excellent interpersonal skills",
+        "Highly adaptable to ever changing circumstances",
+        "MS Office Suite",
+        "Decision Making",
+        "Multi-Tasking",
+        "Security Clearance",
+        "Team Building",
+        "Planning & Scheduling",
+        "Analytical Thinking",
+        "Flexibility",
+        "Communication Skills",
+        "Supervisor Skills",
+        "Inventory Management",
+        "Process Improvement",
+        "BSI"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "MATERIAL CONTROL SPECIALIST",
+            "Logistics Supply Specialist"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "12 years of experience",
+            "9 years of experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "Logistics": 0.2864,
+            "Organizational Leadership": 0.7925,
+            "Expert": 0.2019,
+            "inventory control": 0.1539,
+            "customer service": 0.1705,
+            "Proficient": 0.2264,
+            "NALCOMIS/RSUPPLY": 0.5151,
+            "Big Safari Inventory": 0.458,
+            "Cost Point": 0.6804,
+            "FEDLOG Database": 0.889,
+            "Versatile": 0.4671,
+            "proactive problem solver": 0.4149,
+            "excellent interpersonal skills": 0.6485,
+            "Highly adaptable to ever changing circumstances": 0.1907,
+            "MS Office Suite": 0.9557,
+            "Decision Making": 0.5409,
+            "Multi-Tasking": 0.4752,
+            "Security Clearance": 0.2998,
+            "Team Building": 0.309,
+            "Planning & Scheduling": 0.4413,
+            "Analytical Thinking": 0.4841,
+            "Flexibility": 0.6072,
+            "Communication Skills": 0.5503,
+            "Supervisor Skills": 0.4801,
+            "Inventory Management": 0.2826,
+            "Process Improvement": 0.3692,
+            "BSI": 0.2992
+        },
+        "filename": "cv (4275)_annotated.json"
+    }
+}

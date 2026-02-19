@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "skills",
+        "business process management",
+        "process redesign",
+        "experience",
+        "Strong",
+        "interpersonal skills",
+        "Business Process Improvement & Redesign",
+        "Agile/Scrum",
+        "SDLC",
+        "Business Transformation",
+        "PMOÂ",
+        "Project management",
+        "BPM",
+        "Blockchain",
+        "Robotic Process Automation",
+        "Strong analytical skills",
+        "Customer Engagement & Design practice",
+        "Cognitive Process Transfomation",
+        "custom applications",
+        "Cloud platform",
+        "manual processes",
+        "Agile",
+        "Scrum Master",
+        "backlog"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "MANAGING CONSULTANT",
+            "Management Consultant",
+            "Senior Business Analyst",
+            "BPM Lead"
+        ],
+        "company": [
+            "IBM",
+            "Company Name",
+            "US Federal",
+            "Substance Abuse and Mental Health Services Administration",
+            "SAMHSA"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "skills": 0.2031,
+            "business process management": 0.4211,
+            "process redesign": 0.1951,
+            "experience": 0.2182,
+            "Strong": 0.2591,
+            "interpersonal skills": 0.6249,
+            "Business Process Improvement & Redesign": 0.3843,
+            "Agile/Scrum": 0.5974,
+            "SDLC": 0.6019,
+            "Business Transformation": 0.5951,
+            "PMOÂ": 0.3299,
+            "Project management": 0.5225,
+            "BPM": 0.4902,
+            "Blockchain": 0.1998,
+            "Robotic Process Automation": 0.4279,
+            "Strong analytical skills": 0.4515,
+            "Customer Engagement & Design practice": 0.2256,
+            "Cognitive Process Transfomation": 0.4698,
+            "custom applications": 0.1612,
+            "Cloud platform": 0.9361,
+            "manual processes": 0.2098,
+            "Agile": 0.3349,
+            "Scrum Master": 0.362,
+            "backlog": 0.1631
+        },
+        "filename": "cv (4726)_annotated.json"
+    }
+}

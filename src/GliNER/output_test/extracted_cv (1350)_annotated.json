@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "Single",
+        "responsible",
+        "disciplined",
+        "determined individual",
+        "reliable organizational and communication abilities",
+        "punctuality",
+        "skills",
+        "alert",
+        "humble worker",
+        "Active and productive",
+        "punctual",
+        "good communication skills",
+        "responsible individual",
+        "organizational skills",
+        "Arabic",
+        "English",
+        "Hindi",
+        "Buluchi",
+        "efficiently",
+        "office",
+        "General Education Diploma",
+        "bachelor degree programme",
+        "Accounting and Finance",
+        "captain"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sameer Sakhi Mohamed Al Bulushi",
+            "Omani",
+            "Male"
+        ],
+        "job title": [
+            "accountant",
+            "receptionist assistant",
+            "amanuensis"
+        ],
+        "company": [
+            "Microsoft"
+        ],
+        "university": [
+            "St Giles",
+            "University of Liverpool"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email Address",
+            "sameer_albulushi@hotmail.com"
+        ],
+        "phone": [
+            "Phone Number",
+            "+968 97826224"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Single": 0.1955,
+            "responsible": 0.5362,
+            "disciplined": 0.3499,
+            "determined individual": 0.2504,
+            "reliable organizational and communication abilities": 0.3787,
+            "punctuality": 0.5694,
+            "skills": 0.1742,
+            "alert": 0.2954,
+            "humble worker": 0.2368,
+            "Active and productive": 0.3569,
+            "punctual": 0.4853,
+            "good communication skills": 0.3562,
+            "responsible individual": 0.4095,
+            "organizational skills": 0.2671,
+            "Arabic": 0.8362,
+            "English": 0.9119,
+            "Hindi": 0.841,
+            "Buluchi": 0.8522,
+            "efficiently": 0.2043,
+            "office": 0.4121,
+            "General Education Diploma": 0.866,
+            "bachelor degree programme": 0.7687,
+            "Accounting and Finance": 0.2874,
+            "captain": 0.398
+        },
+        "filename": "cv (1350)_annotated.json"
+    }
+}

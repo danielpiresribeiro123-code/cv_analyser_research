@@ -1,0 +1,52 @@
+{
+    "skills": [
+        "Engineering skills",
+        "safety",
+        "quality standards",
+        "Health and Safety procedures",
+        "Transformers",
+        "PROFESSIONAL SKILLS"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMED NIZAMUDDIN"
+        ],
+        "job title": [
+            "Electrical Engineer",
+            "Construction Manager",
+            "Foreman",
+            "QA/QC Engineer",
+            "Client’s representative",
+            "Project Manager"
+        ],
+        "company": [
+            "ENRUN INDIA – India",
+            "Company"
+        ],
+        "university": [],
+        "degree": [
+            "Graduate Engineer Trainee"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-mail",
+            "nizammohammed461@gmail.com"
+        ],
+        "phone": [
+            "+919700702504"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Engineering skills": 0.3124,
+            "safety": 0.2015,
+            "quality standards": 0.5411,
+            "Health and Safety procedures": 0.202,
+            "Transformers": 0.1977,
+            "PROFESSIONAL SKILLS": 0.1724
+        },
+        "filename": "cv (2531)_annotated.json"
+    }
+}

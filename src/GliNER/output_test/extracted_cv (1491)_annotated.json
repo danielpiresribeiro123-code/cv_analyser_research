@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "thorough professional",
+        "highly motivated",
+        "passionate",
+        "Social  Science",
+        "English",
+        "Social Science",
+        "Hindi",
+        "proficient",
+        "CCE assessments",
+        "Experienced",
+        "CCE"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "G. Shenbaga Priya",
+            "Teacher",
+            "Academic Dean/Coordinator",
+            "PGT",
+            "Relationship Manager"
+        ],
+        "company": [
+            "Ravindra  Bharathi  Global",
+            "Beehive Communication",
+            "Mount Litera Zee School (CBSE)",
+            "Mount Litera Zee School(CBSE)"
+        ],
+        "university": [
+            "CBSE",
+            "ICSE"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Experienced"
+        ],
+        "address": [
+            "Chennai",
+            "Keelkattalai",
+            "Virudhunagar"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "thorough professional": 0.509,
+            "highly motivated": 0.4652,
+            "passionate": 0.4131,
+            "Social  Science": 0.6328,
+            "English": 0.6685,
+            "Social Science": 0.6739,
+            "Hindi": 0.3989,
+            "proficient": 0.2686,
+            "CCE assessments": 0.2738,
+            "Experienced": 0.1872,
+            "CCE": 0.1799
+        },
+        "filename": "cv (1491)_annotated.json"
+    }
+}

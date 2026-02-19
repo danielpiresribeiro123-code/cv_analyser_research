@@ -1,0 +1,45 @@
+{
+    "skills": [
+        "Personal Computer",
+        "Office Automation Software",
+        "Word Processing",
+        "Database Management",
+        "Electronic Spreadsheet",
+        "Appointing Authority Criteria",
+        "Qualification Standards"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Supervisor",
+            "Program Managers",
+            "Timekeeper For Employees",
+            "Director",
+            "Specialists",
+            "Managers",
+            "Program Specialist"
+        ],
+        "company": [
+            "Federal Service"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Personal Computer": 0.2229,
+            "Office Automation Software": 0.3347,
+            "Word Processing": 0.5885,
+            "Database Management": 0.5257,
+            "Electronic Spreadsheet": 0.6519,
+            "Appointing Authority Criteria": 0.2062,
+            "Qualification Standards": 0.3741
+        },
+        "filename": "cv (4603)_annotated.json"
+    }
+}

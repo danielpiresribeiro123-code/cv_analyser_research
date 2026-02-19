@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "hard work",
+        "punctuality",
+        "honesty",
+        "Academic Qualification",
+        "Commerce Stream",
+        "B.Com  2ndt year",
+        "Computer Skills",
+        "Basic  knowledge",
+        "MS",
+        "Word",
+        "Excel",
+        "Powerpoint",
+        "Internet",
+        "Tally",
+        "Gender",
+        "Unmarried",
+        "Hindi",
+        "English",
+        "Traveling"
+    ],
+    "professional_info": {
+        "person name": [
+            "ATUL SINGH",
+            "Mr. Vinay Kumar Singh",
+            "Indian",
+            "Hindu",
+            "Atul"
+        ],
+        "job title": [
+            "tele caller",
+            "financer",
+            "sales agent",
+            "Male"
+        ],
+        "company": [
+            "Hi-tech Pvt. Ltd",
+            "home credit india finance pvt. Ltd.",
+            "Sri ram finance pvt. Ltd.",
+            "lic"
+        ],
+        "university": [
+            "C.B.S.E. Delhi",
+            "Delhi  University"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "C-15 A",
+            "ambedkar palace",
+            "Sreet no.-1, Baprola Vihar",
+            "Najafgarh",
+            "New Delhi-110043",
+            "New Delhi"
+        ],
+        "email": [
+            "E-mail",
+            "atul7328@gmail.com"
+        ],
+        "phone": [
+            "Contact No",
+            "9871219613",
+            "Correspondence"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "hard work": 0.2726,
+            "punctuality": 0.2598,
+            "honesty": 0.3,
+            "Academic Qualification": 0.2122,
+            "Commerce Stream": 0.4216,
+            "B.Com  2ndt year": 0.4355,
+            "Computer Skills": 0.3518,
+            "Basic  knowledge": 0.2871,
+            "MS": 0.4634,
+            "Word": 0.4017,
+            "Excel": 0.3733,
+            "Powerpoint": 0.4951,
+            "Internet": 0.3449,
+            "Tally": 0.2994,
+            "Gender": 0.1886,
+            "Unmarried": 0.4347,
+            "Hindi": 0.6224,
+            "English": 0.6343,
+            "Traveling": 0.2173
+        },
+        "filename": "cv (27)_annotated.json"
+    }
+}

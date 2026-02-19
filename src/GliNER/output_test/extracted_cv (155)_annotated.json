@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "educational skills",
+        "ACADEMIC QUALIFICATIONS",
+        "DIPLOMAMechanical",
+        "EngineeringMaria",
+        "AIR LEAK DETECTION SYSTEM",
+        "mechanical engineering",
+        "microcontroller units",
+        "display units",
+        "certificates"
+    ],
+    "professional_info": {
+        "person name": [
+            "IGNESIOUS. D"
+        ],
+        "job title": [
+            "FIRE FIGHTING TECHNICIAN"
+        ],
+        "company": [
+            "SSLCSt. Joseph HSS",
+            "LOIUS & SONS"
+        ],
+        "university": [
+            "college Anna",
+            "University"
+        ],
+        "degree": [],
+        "years of experience": [
+            "experience"
+        ],
+        "address": [
+            "Address",
+            "Abu Dhabi",
+            "PalayamKerala State"
+        ],
+        "email": [
+            "+971544047666",
+            "+971528581765",
+            "Mail",
+            "ignesious20@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "educational skills": 0.2632,
+            "ACADEMIC QUALIFICATIONS": 0.227,
+            "DIPLOMAMechanical": 0.628,
+            "EngineeringMaria": 0.2098,
+            "AIR LEAK DETECTION SYSTEM": 0.2382,
+            "mechanical engineering": 0.6796,
+            "microcontroller units": 0.2191,
+            "display units": 0.1879,
+            "certificates": 0.4777
+        },
+        "filename": "cv (155)_annotated.json"
+    }
+}

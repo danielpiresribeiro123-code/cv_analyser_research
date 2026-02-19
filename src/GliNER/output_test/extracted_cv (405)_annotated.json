@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "flexible coupling",
+        "Mechanics of Materials",
+        "Solid Edge",
+        "ANSYS",
+        "SSCNC",
+        "Master CAM"
+    ],
+    "professional_info": {
+        "person name": [
+            "Anurag Verma"
+        ],
+        "job title": [
+            "Team Captain"
+        ],
+        "company": [
+            "Meta Wing Info Tech Pvt.",
+            "Indian Oil Corporation Limited",
+            "SDM"
+        ],
+        "university": [
+            "VTU",
+            "CBSE",
+            "L.D.College of Engineering",
+            "KSCST"
+        ],
+        "degree": [
+            "B.E."
+        ],
+        "years of experience": [],
+        "address": [
+            "New Delhi"
+        ],
+        "email": [
+            "Email",
+            "manuragverma@gmail.com"
+        ],
+        "phone": [
+            "Mob",
+            "+91-9560871670"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "flexible coupling": 0.2099,
+            "Mechanics of Materials": 0.373,
+            "Solid Edge": 0.7044,
+            "ANSYS": 0.6371,
+            "SSCNC": 0.6111,
+            "Master CAM": 0.6668
+        },
+        "filename": "cv (405)_annotated.json"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "productivity",
+        "Operations",
+        "management",
+        "analytical",
+        "organizational skills",
+        "Skills",
+        "Microsoft Office",
+        "Verint",
+        "Siebel",
+        "RTA",
+        "Operating Systems",
+        "Vista",
+        "Windows 7",
+        "Windows 8",
+        "Windows 10",
+        "City",
+        "State",
+        "quality",
+        "leadership"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CUSTOMER SERVICE REPRESENTATIVE",
+            "Customer Service Supervisor",
+            "customer service representatives",
+            "CSRs"
+        ],
+        "company": [
+            "Avaya",
+            "Company Name",
+            "Healthcare Marketplace"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Six years experience"
+        ],
+        "address": [],
+        "email": [
+            "e- mail",
+            "written correspondence",
+            "web-chat"
+        ],
+        "phone": [
+            "telephone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "productivity": 0.3569,
+            "Operations": 0.234,
+            "management": 0.1979,
+            "analytical": 0.3275,
+            "organizational skills": 0.256,
+            "Skills": 0.1511,
+            "Microsoft Office": 0.4834,
+            "Verint": 0.3456,
+            "Siebel": 0.2953,
+            "RTA": 0.2973,
+            "Operating Systems": 0.3177,
+            "Vista": 0.8727,
+            "Windows 7": 0.9381,
+            "Windows 8": 0.9539,
+            "Windows 10": 0.9422,
+            "City": 0.7973,
+            "State": 0.2851,
+            "quality": 0.1863,
+            "leadership": 0.1825
+        },
+        "filename": "cv (4510)_annotated.json"
+    }
+}

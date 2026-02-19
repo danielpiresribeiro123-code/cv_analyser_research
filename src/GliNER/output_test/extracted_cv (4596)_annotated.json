@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "problem solving skills",
+        "operations",
+        "in-depth knowledge",
+        "sales",
+        "finance",
+        "customer service",
+        "Operations management",
+        "Effective leader",
+        "Complex problem solving",
+        "Inventory control",
+        "Sound judgment",
+        "payroll",
+        "salon software",
+        "facility maintenance",
+        "schedules"
+    ],
+    "professional_info": {
+        "person name": [
+            "City"
+        ],
+        "job title": [
+            "OPERATIONS MANAGER",
+            "management professional",
+            "Operations Coordinator",
+            "Salon Manager",
+            "customer service representatives",
+            "Floor Manager"
+        ],
+        "company": [
+            "Company Name",
+            "IT department",
+            "salon",
+            "company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "New York, NY"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "problem solving skills": 0.2081,
+            "operations": 0.2934,
+            "in-depth knowledge": 0.1916,
+            "sales": 0.3422,
+            "finance": 0.3581,
+            "customer service": 0.3859,
+            "Operations management": 0.4585,
+            "Effective leader": 0.2321,
+            "Complex problem solving": 0.1783,
+            "Inventory control": 0.257,
+            "Sound judgment": 0.2298,
+            "payroll": 0.1724,
+            "salon software": 0.17,
+            "facility maintenance": 0.1541,
+            "schedules": 0.1793
+        },
+        "filename": "cv (4596)_annotated.json"
+    }
+}

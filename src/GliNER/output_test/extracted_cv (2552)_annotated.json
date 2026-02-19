@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "knowledge",
+        "skills",
+        "confidence",
+        "resourceful innovation",
+        "honesty",
+        "sincerity",
+        "hard work",
+        "Diploma in Fire and Safety Engineering",
+        "safety loss prevention",
+        "standards",
+        "codes",
+        "safe working practices",
+        "Supervises"
+    ],
+    "professional_info": {
+        "person name": [
+            "RESUME",
+            "H. B. Sadik Sheriff",
+            "sadiksheriff32"
+        ],
+        "job title": [
+            "Fire Fighter"
+        ],
+        "company": [
+            "IIPHS Institute of Fire and Safety Management",
+            "King Faisal Specialist Hospital and Research Centre",
+            "Mowasalat Transport Company"
+        ],
+        "university": [
+            "Annamalai University"
+        ],
+        "degree": [
+            "Bachelor of Business Administration"
+        ],
+        "years of experience": [],
+        "address": [
+            "Pudukkottai",
+            "Chidambaram"
+        ],
+        "email": [
+            "E-Mail",
+            "gmail.com",
+            "Skype"
+        ],
+        "phone": [
+            "Contact Number",
+            "00966 50 541 8082"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "knowledge": 0.2029,
+            "skills": 0.2866,
+            "confidence": 0.3848,
+            "resourceful innovation": 0.2024,
+            "honesty": 0.3858,
+            "sincerity": 0.3652,
+            "hard work": 0.2683,
+            "Diploma in Fire and Safety Engineering": 0.6048,
+            "safety loss prevention": 0.1534,
+            "standards": 0.7203,
+            "codes": 0.5347,
+            "safe working practices": 0.3395,
+            "Supervises": 0.2382
+        },
+        "filename": "cv (2552)_annotated.json"
+    }
+}

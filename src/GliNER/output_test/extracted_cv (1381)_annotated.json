@@ -1,0 +1,108 @@
+{
+    "skills": [
+        "PROFICIENT ENGLISH AND SWAHILI",
+        "Ambitious",
+        "motivated",
+        "very influential",
+        "hardworking",
+        "able to maintain authority when challenged",
+        "very ethical",
+        "Adaptable and resilient",
+        "honesty and integrity",
+        "Attentive and accurate to instruction",
+        "organized to my work plan",
+        "Good interpersonal relationship",
+        "independence of mind",
+        "very objective",
+        "able to work constructively with others",
+        "Willingness to listen",
+        "patience and courtesy",
+        "time consciousness",
+        "headwork",
+        "teamwork",
+        "appropriate technology",
+        "Kenya certificate of secondary education",
+        "Grade C",
+        "Kenya certificate of primary education",
+        "Diploma in supplies management",
+        "Computer application packages"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mr. Emmanuel simiyu",
+            "GENDER",
+            "Consolata Wanyonyi"
+        ],
+        "job title": [
+            "intern",
+            "procurement officer",
+            "supervisor",
+            "casual"
+        ],
+        "company": [
+            "KENYAN",
+            "Matulo friends secondary school",
+            "K.C.S.E",
+            "global village ICT Centre",
+            "county government of uasin gishu",
+            "ministry of health",
+            "ministry of finance",
+            "district hospital Eldoret",
+            "rift valley bottlers company limited",
+            "coco cola"
+        ],
+        "university": [
+            "K.C.P.E"
+        ],
+        "degree": [],
+        "years of experience": [
+            "2007-2010",
+            "2012-2014",
+            "August 2015",
+            "January 2014",
+            "June 2014",
+            "June 2015"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "gmail",
+            "MARRIED"
+        ],
+        "phone": [
+            "MOBILE"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "PROFICIENT ENGLISH AND SWAHILI": 0.2222,
+            "Ambitious": 0.6987,
+            "motivated": 0.5586,
+            "very influential": 0.6016,
+            "hardworking": 0.541,
+            "able to maintain authority when challenged": 0.2388,
+            "very ethical": 0.4686,
+            "Adaptable and resilient": 0.4227,
+            "honesty and integrity": 0.1603,
+            "Attentive and accurate to instruction": 0.4303,
+            "organized to my work plan": 0.3276,
+            "Good interpersonal relationship": 0.7114,
+            "independence of mind": 0.543,
+            "very objective": 0.5843,
+            "able to work constructively with others": 0.4007,
+            "Willingness to listen": 0.361,
+            "patience and courtesy": 0.2094,
+            "time consciousness": 0.3994,
+            "headwork": 0.2634,
+            "teamwork": 0.2985,
+            "appropriate technology": 0.1545,
+            "Kenya certificate of secondary education": 0.7971,
+            "Grade C": 0.1624,
+            "Kenya certificate of primary education": 0.7964,
+            "Diploma in supplies management": 0.819,
+            "Computer application packages": 0.341
+        },
+        "filename": "cv (1381)_annotated.json"
+    }
+}

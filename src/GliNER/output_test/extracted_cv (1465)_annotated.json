@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "Diploma Accommodation Operation in Management (A.O.M.",
+        "Housekeeping And Front Office Department",
+        "Computer Diploma in Tally",
+        "Listening Music",
+        "PERSONAL STRENGTH",
+        "Self disciplined",
+        "goal focused",
+        "Enjoy in working time",
+        "Young",
+        "confident and responsible",
+        "Positive attitude",
+        "systematic and hard working",
+        "Male",
+        "Single",
+        "English",
+        "Hindi",
+        "Urdu"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHD PARVEJ ANSARI",
+            "Mr. Shafi Ahmad Ansari"
+        ],
+        "job title": [],
+        "company": [
+            "High School"
+        ],
+        "university": [
+            "M.J.P Rohil Khand University",
+            "U.P Board.",
+            "Food, Craft Institute",
+            "University Polytechnic Campus",
+            "A.M.U.",
+            "Hotel  Clark  Amer"
+        ],
+        "degree": [
+            "B.A.",
+            "Intermediate"
+        ],
+        "years of experience": [],
+        "address": [
+            "H. No. 7 Kakrala",
+            "Badaun – 243637"
+        ],
+        "email": [
+            "Email",
+            "mohdparveja786@gmail.com"
+        ],
+        "phone": [
+            "Mob. No.",
+            "+91-8273758482 & 9536401604"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Diploma Accommodation Operation in Management (A.O.M.": 0.2067,
+            "Housekeeping And Front Office Department": 0.2267,
+            "Computer Diploma in Tally": 0.2463,
+            "Listening Music": 0.1536,
+            "PERSONAL STRENGTH": 0.3377,
+            "Self disciplined": 0.564,
+            "goal focused": 0.338,
+            "Enjoy in working time": 0.3434,
+            "Young": 0.5818,
+            "confident and responsible": 0.485,
+            "Positive attitude": 0.6319,
+            "systematic and hard working": 0.531,
+            "Male": 0.4639,
+            "Single": 0.3971,
+            "English": 0.7547,
+            "Hindi": 0.7409,
+            "Urdu": 0.7442
+        },
+        "filename": "cv (1465)_annotated.json"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "knowledge",
+        "ELECTRONICS AND COMMUNICATION",
+        "Ability to work accurately and sincerely",
+        "Sound organizational and interpersonal skills",
+        "TESTING PROFICIENCY",
+        "SRS",
+        "QTP",
+        "Knowledge in Unit",
+        "Qualificat",
+        "BoardPassing",
+        "YearStreamAggregate",
+        "CGPA",
+        "Kerala2010-91%",
+        "Blind Stick",
+        "Intelligent Boat Security System",
+        "SOFTWARE PROFICIENCY",
+        "Basics in c",
+        "MS Office 2010",
+        "Female",
+        "Single",
+        "English",
+        "Malayalam",
+        "Hindi",
+        "PERSONAL STRENGTH"
+    ],
+    "professional_info": {
+        "person name": [
+            "THAJUNNISA P H",
+            "HASSAN P M"
+        ],
+        "job title": [],
+        "company": [
+            "Spyrosys",
+            "Kerala2012Maths-Biology"
+        ],
+        "university": [
+            "ionInstitutionUniversity",
+            "B-TECHIndira Gandhi",
+            "Institute of",
+            "KavumkaraState Board"
+        ],
+        "degree": [
+            "B .Tech degree",
+            "XIIT.T.H.S.S",
+            "XT.T.H.S.S"
+        ],
+        "years of experience": [],
+        "address": [
+            "Pulinganal (H)",
+            "Randar P.O",
+            "Ernakulam",
+            "686673"
+        ],
+        "email": [
+            "thajunnisaph@gmail.com",
+            "Mob"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "knowledge": 0.2376,
+            "ELECTRONICS AND COMMUNICATION": 0.4672,
+            "Ability to work accurately and sincerely": 0.1675,
+            "Sound organizational and interpersonal skills": 0.319,
+            "TESTING PROFICIENCY": 0.2781,
+            "SRS": 0.1851,
+            "QTP": 0.6042,
+            "Knowledge in Unit": 0.3114,
+            "Qualificat": 0.498,
+            "BoardPassing": 0.6507,
+            "YearStreamAggregate": 0.2652,
+            "CGPA": 0.5404,
+            "Kerala2010-91%": 0.2108,
+            "Blind Stick": 0.3591,
+            "Intelligent Boat Security System": 0.3571,
+            "SOFTWARE PROFICIENCY": 0.2354,
+            "Basics in c": 0.2234,
+            "MS Office 2010": 0.8209,
+            "Female": 0.2043,
+            "Single": 0.3392,
+            "English": 0.7053,
+            "Malayalam": 0.7055,
+            "Hindi": 0.7052,
+            "PERSONAL STRENGTH": 0.4165
+        },
+        "filename": "cv (787)_annotated.json"
+    }
+}

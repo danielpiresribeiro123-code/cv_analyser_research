@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "D`ortho",
+        "DNB ortho",
+        "orthopaedics",
+        "Kannada",
+        "English",
+        "Hindi",
+        "Tamil",
+        "Malayalam",
+        "Telugu",
+        "pelvic-acetabular fractures",
+        "surgerie",
+        "Dr BALUSANKARAN GOLD MEDAL",
+        "DNB orthopaedics"
+    ],
+    "professional_info": {
+        "person name": [
+            "DR ANIL KUMAR S.V",
+            "Dr Peter vital"
+        ],
+        "job title": [
+            "SPECIALIST",
+            "Assistant Professor",
+            "Assisstant professor",
+            "Lecturer",
+            "Junior consultant",
+            "Senior resident",
+            "Junior resident",
+            "Tutor"
+        ],
+        "company": [],
+        "university": [
+            "MNAMS",
+            "JSS medical college",
+            "JJM medical college",
+            "IORAS",
+            "Chenthil nursing",
+            "Devadoss Multispeciality",
+            "BRAMC Bangalore",
+            "Sri Devaraj Urs Medical",
+            "Sri Devaraj Urs",
+            "Medical College",
+            "Devadoss multispeciality hospital",
+            "JJM"
+        ],
+        "degree": [
+            "MBBS"
+        ],
+        "years of experience": [
+            "38yrs",
+            "Married",
+            "EXPERIENCE"
+        ],
+        "address": [
+            "No 80",
+            "Nandidurga road extension",
+            "Benson town",
+            "Bangalore 46"
+        ],
+        "email": [
+            "dranilkumarsv@gmail.com",
+            "dranilkumar_sv@rediffmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "D`ortho": 0.4027,
+            "DNB ortho": 0.8324,
+            "orthopaedics": 0.3665,
+            "Kannada": 0.8664,
+            "English": 0.7948,
+            "Hindi": 0.8562,
+            "Tamil": 0.819,
+            "Malayalam": 0.7678,
+            "Telugu": 0.7108,
+            "pelvic-acetabular fractures": 0.378,
+            "surgerie": 0.2488,
+            "Dr BALUSANKARAN GOLD MEDAL": 0.6096,
+            "DNB orthopaedics": 0.6405
+        },
+        "filename": "cv (803)_annotated.json"
+    }
+}

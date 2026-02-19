@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "excellent communication",
+        "good analyzing",
+        "problem-solving skills",
+        "Proficient",
+        "well-armed",
+        "Debugging",
+        "Bug fixing",
+        "C",
+        "coding background",
+        "well informed",
+        "OOPs concepts",
+        "Embedded Software Development",
+        "Embedded Systems",
+        "Project Management",
+        "Chain Management",
+        "Defect Detection",
+        "Machine Learning",
+        "Unit Testing",
+        "Analysis of Images of animals",
+        "Face detection",
+        "best college elocutioner"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Titli Foundation System Developer",
+            "FRESHER SYSTEM DEVELOPER",
+            "Fresher"
+        ],
+        "company": [],
+        "university": [
+            "Manipal University"
+        ],
+        "degree": [
+            "B.Tech (Electronics)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "excellent communication": 0.499,
+            "good analyzing": 0.4541,
+            "problem-solving skills": 0.4812,
+            "Proficient": 0.3299,
+            "well-armed": 0.2233,
+            "Debugging": 0.3479,
+            "Bug fixing": 0.3651,
+            "C": 0.8122,
+            "coding background": 0.152,
+            "well informed": 0.2301,
+            "OOPs concepts": 0.433,
+            "Embedded Software Development": 0.5941,
+            "Embedded Systems": 0.4983,
+            "Project Management": 0.8033,
+            "Chain Management": 0.7427,
+            "Defect Detection": 0.5666,
+            "Machine Learning": 0.7761,
+            "Unit Testing": 0.6073,
+            "Analysis of Images of animals": 0.1809,
+            "Face detection": 0.303,
+            "best college elocutioner": 0.1662
+        },
+        "filename": "cv (4940)_annotated.json"
+    }
+}

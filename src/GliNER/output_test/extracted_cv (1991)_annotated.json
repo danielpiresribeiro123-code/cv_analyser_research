@@ -1,0 +1,53 @@
+{
+    "skills": [
+        "innovative",
+        "resourceful",
+        "quality standards",
+        "material optimization techniques"
+    ],
+    "professional_info": {
+        "person name": [
+            "ABBAS MANTHIRI"
+        ],
+        "job title": [
+            "Site Engineer",
+            "technical adviser",
+            "subcontractors",
+            "craftspeople",
+            "Operatives",
+            "project coordinators",
+            "project manager"
+        ],
+        "company": [
+            "Deejos Interiors",
+            "Built Tech Associates"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "hanuman colony",
+            "Chennai",
+            "Tamil nadu (TN)",
+            "600 115",
+            "Tamil nadu"
+        ],
+        "email": [
+            "E-Mail",
+            "abbascivil95@gmail.com"
+        ],
+        "phone": [
+            "+91  – 97908 53547"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "innovative": 0.2093,
+            "resourceful": 0.1908,
+            "quality standards": 0.3528,
+            "material optimization techniques": 0.3064
+        },
+        "filename": "cv (1991)_annotated.json"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "Skilled and highly organized professional",
+        "management",
+        "Strong organizational skills",
+        "eye for detail",
+        "Microsoft Office",
+        "Word",
+        "Excel",
+        "Access",
+        "PowerPoint",
+        "Web Expression",
+        "Technology Management",
+        "computer skills certificates",
+        "spreadsheet",
+        "database",
+        "presentation",
+        "development",
+        "multitasking",
+        "Supervision",
+        "Results-oriented",
+        "Quick learner",
+        "Self-directed",
+        "Strong problem solver",
+        "Professional and mature",
+        "Dedicated team player",
+        "Relevant Experience",
+        "strong attention to detail",
+        "exemplary customer service",
+        "team-player attitude",
+        "Experience"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "OFFICE ADMINISTRATOR",
+            "Office Administration"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Constant Contact"
+        ],
+        "phone": [
+            "phone",
+            "phones"
+        ]
+    },
+    "metadata": {
+        "total_skills": 29,
+        "confidence_scores": {
+            "Skilled and highly organized professional": 0.3301,
+            "management": 0.1563,
+            "Strong organizational skills": 0.3389,
+            "eye for detail": 0.3967,
+            "Microsoft Office": 0.7738,
+            "Word": 0.4752,
+            "Excel": 0.4633,
+            "Access": 0.6108,
+            "PowerPoint": 0.4583,
+            "Web Expression": 0.3603,
+            "Technology Management": 0.7946,
+            "computer skills certificates": 0.7739,
+            "spreadsheet": 0.2095,
+            "database": 0.6061,
+            "presentation": 0.3566,
+            "development": 0.4291,
+            "multitasking": 0.2294,
+            "Supervision": 0.1682,
+            "Results-oriented": 0.555,
+            "Quick learner": 0.6187,
+            "Self-directed": 0.5956,
+            "Strong problem solver": 0.6345,
+            "Professional and mature": 0.5797,
+            "Dedicated team player": 0.6957,
+            "Relevant Experience": 0.3478,
+            "strong attention to detail": 0.2662,
+            "exemplary customer service": 0.3478,
+            "team-player attitude": 0.4672,
+            "Experience": 0.1518
+        },
+        "filename": "cv (4365)_annotated.json"
+    }
+}

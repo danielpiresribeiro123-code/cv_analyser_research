@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "MEP Engineering",
+        "B+G+8 FL+ROOF+UR"
+    ],
+    "professional_info": {
+        "person name": [
+            "KHALID AHMAD",
+            "Khalil Mirzamohamed Ali  hussain",
+            "Abdul Rhem",
+            "Abdul latif Hassan Hattab"
+        ],
+        "job title": [
+            "Mechanical Engineer",
+            "Client",
+            "Consultant",
+            "Architectural consultant",
+            "consultants"
+        ],
+        "company": [
+            "PROCHNOST ELECTROMECHANICAL  LLC",
+            "Becon  Contracting LLC",
+            "MEP Contractor",
+            "Prochnost  Electromechanical Dubai",
+            "Mep Contracting",
+            "Prochnost Electromechanical LLC"
+        ],
+        "university": [
+            "Magadh University"
+        ],
+        "degree": [
+            "Bachelor in Technology (Mechanical)"
+        ],
+        "years of experience": [
+            "06 years",
+            "05 years"
+        ],
+        "address": [
+            "Mumbai"
+        ],
+        "email": [
+            "Email",
+            "khalid.ahmad4@yahoo.com"
+        ],
+        "phone": [
+            "Mob",
+            "+919870529789"
+        ]
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "MEP Engineering": 0.391,
+            "B+G+8 FL+ROOF+UR": 0.1898
+        },
+        "filename": "cv (3705)_annotated.json"
+    }
+}

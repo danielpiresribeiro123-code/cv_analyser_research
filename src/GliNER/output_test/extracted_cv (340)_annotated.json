@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Mech",
+        "anical",
+        "utsavs",
+        "2302",
+        "AutoCAD",
+        "Mechanical"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "UT",
+            "SA",
+            "V",
+            "SH",
+            "AR",
+            "MA",
+            "ExperienceProduction Engineer",
+            "GM",
+            "Internship"
+        ],
+        "company": [
+            "Salasar Stainless Ltd.",
+            "National Thermal Power Cooperation",
+            "Spheros Motherson"
+        ],
+        "university": [
+            "Uttar Pradesh technical university"
+        ],
+        "degree": [
+            "B.Tech",
+            "harma",
+            "D.O.B.",
+            "Education B.Tech. (Mechanical)",
+            "Bachelor of Technology",
+            "B.Tech."
+        ],
+        "years of experience": [],
+        "address": [
+            "Pilkhuwa",
+            "Dadri",
+            "Noida"
+        ],
+        "email": [
+            "@gma",
+            "il.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Mech": 0.3359,
+            "anical": 0.1504,
+            "utsavs": 0.1762,
+            "2302": 0.1663,
+            "AutoCAD": 0.3517,
+            "Mechanical": 0.5769
+        },
+        "filename": "cv (340)_annotated.json"
+    }
+}

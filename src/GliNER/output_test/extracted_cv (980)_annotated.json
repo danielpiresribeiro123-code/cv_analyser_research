@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "Finance",
+        "Economics"
+    ],
+    "professional_info": {
+        "person name": [
+            "KAWTHAR AQEEL AL-LAWATI"
+        ],
+        "job title": [
+            "Entry Level Position",
+            "organizer",
+            "Media Group Leader"
+        ],
+        "company": [
+            "College Of Economics & Political Science",
+            "Amazon Company",
+            "Dow Jones index",
+            "The Firm For Business and Economic Consulting LLC",
+            "The Firm LLC",
+            "Eco-Fin Group"
+        ],
+        "university": [
+            "Sultan Qaboos University",
+            "Bank Muscat"
+        ],
+        "degree": [
+            "BSc. In Finance"
+        ],
+        "years of experience": [],
+        "address": [
+            "P.O.Box 2775",
+            "P.C.112",
+            "Al-Mawaleh",
+            "Al-Khuwair Branch 317"
+        ],
+        "email": [
+            "E-mail",
+            "kawtharallawati@gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "+968-95595965"
+        ]
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "Finance": 0.4093,
+            "Economics": 0.7978
+        },
+        "filename": "cv (980)_annotated.json"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "interpersonal skill",
+        "Computer Skills",
+        "Basic Computer Knowledge",
+        "Value & Strengths",
+        "Personal",
+        "Sincere",
+        "Honest",
+        "Committed",
+        "Well adjusted to cross culture people",
+        "Professional",
+        "Unmarried",
+        "Male",
+        "Indian Language",
+        "Hindi & English"
+    ],
+    "professional_info": {
+        "person name": [
+            "waseem",
+            "Mohd. Mukarram"
+        ],
+        "job title": [
+            "Industrial Training",
+            "One & Half Month Industrial training"
+        ],
+        "company": [
+            "U.K. Board",
+            "Techword’s Roorkee",
+            "B.H.E.L. Ranipur Haridwar"
+        ],
+        "university": [
+            "Uttarakhand Technical University"
+        ],
+        "degree": [
+            "High School",
+            "Intermediate",
+            "B.Tech. in Mechanical Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "Safarpur",
+            "Sona Salempur Rajputhan"
+        ],
+        "email": [
+            "E-Mail Id",
+            "gmail.com"
+        ],
+        "phone": [
+            "Contact No.",
+            "+91- 9568130250"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "interpersonal skill": 0.4979,
+            "Computer Skills": 0.3513,
+            "Basic Computer Knowledge": 0.493,
+            "Value & Strengths": 0.3766,
+            "Personal": 0.4004,
+            "Sincere": 0.5257,
+            "Honest": 0.3417,
+            "Committed": 0.4955,
+            "Well adjusted to cross culture people": 0.4236,
+            "Professional": 0.1796,
+            "Unmarried": 0.2848,
+            "Male": 0.2112,
+            "Indian Language": 0.297,
+            "Hindi & English": 0.623
+        },
+        "filename": "cv (2343)_annotated.json"
+    }
+}

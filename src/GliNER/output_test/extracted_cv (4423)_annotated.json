@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "PeopleSoft Financials",
+        "PeopleTools",
+        "SQL Developer",
+        "MS Office",
+        "Visio",
+        "MS Project",
+        "Dell Stat",
+        "Application Designer",
+        "Putty",
+        "SharePoint",
+        "HP Application Lifecycle Management",
+        "Oracle Enterprise Manager",
+        "TOAD",
+        "Service Now",
+        "Remedy",
+        "Heat",
+        "Oracle E-Business",
+        "Asset Suite",
+        "IT",
+        "security",
+        "IT management",
+        "IT audit methods",
+        "Midwest Reliability Organization (MRO) standards"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "STAT Admin",
+            "Information Technology Auditor",
+            "PeopleSoft Security Administrator III"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "PeopleSoft Financials": 0.2173,
+            "PeopleTools": 0.3495,
+            "SQL Developer": 0.544,
+            "MS Office": 0.59,
+            "Visio": 0.559,
+            "MS Project": 0.6366,
+            "Dell Stat": 0.3417,
+            "Application Designer": 0.6793,
+            "Putty": 0.5464,
+            "SharePoint": 0.5945,
+            "HP Application Lifecycle Management": 0.3248,
+            "Oracle Enterprise Manager": 0.4182,
+            "TOAD": 0.592,
+            "Service Now": 0.5406,
+            "Remedy": 0.4828,
+            "Heat": 0.4692,
+            "Oracle E-Business": 0.3004,
+            "Asset Suite": 0.5535,
+            "IT": 0.2208,
+            "security": 0.2871,
+            "IT management": 0.1835,
+            "IT audit methods": 0.2929,
+            "Midwest Reliability Organization (MRO) standards": 0.34
+        },
+        "filename": "cv (4423)_annotated.json"
+    }
+}

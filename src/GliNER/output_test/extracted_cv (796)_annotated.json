@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "Good Knowledge of Vehicle Assembling, Dismantling and Repairing",
+        "Able to work independently and under pressure",
+        "Good oral and written skills",
+        "Good grasping power",
+        "Responsible for Fuel and Break Pipe Sub-assembly",
+        "2010-2012 ITI Diploma in Automobile",
+        "Specialization in Diesel and Advance",
+        "D.O.B.",
+        "Single",
+        "Willing to relocate"
+    ],
+    "professional_info": {
+        "person name": [
+            "Rakesh Kumar",
+            "Late Chet Ram",
+            "Indian"
+        ],
+        "job title": [
+            "Manufacturing Associate",
+            "Technician"
+        ],
+        "company": [
+            "Honda Cars India Ltd.",
+            "HRTC"
+        ],
+        "university": [
+            "ITI UNA",
+            "Himachal Pradesh Board of School Education"
+        ],
+        "degree": [
+            "2010 Matriculation"
+        ],
+        "years of experience": [],
+        "address": [
+            "VILLAGE – BAH",
+            "POST – GAHAR",
+            "TEHSIL – SARKAGHAT",
+            "DISTT.- MANDI (H.P.)"
+        ],
+        "email": [
+            "e-mail",
+            "94rakeshkumar@gmail.com"
+        ],
+        "phone": [
+            "Phone No.",
+            "+91 9625275003",
+            "8741848948"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Good Knowledge of Vehicle Assembling, Dismantling and Repairing": 0.3142,
+            "Able to work independently and under pressure": 0.2104,
+            "Good oral and written skills": 0.1882,
+            "Good grasping power": 0.1842,
+            "Responsible for Fuel and Break Pipe Sub-assembly": 0.2111,
+            "2010-2012 ITI Diploma in Automobile": 0.3138,
+            "Specialization in Diesel and Advance": 0.4147,
+            "D.O.B.": 0.6087,
+            "Single": 0.2698,
+            "Willing to relocate": 0.1845
+        },
+        "filename": "cv (796)_annotated.json"
+    }
+}

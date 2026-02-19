@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "outstanding managerial and customer service skills",
+        "excellent written and verbal communication skills",
+        "Successful team leader",
+        "highly-motivated mentor",
+        "proven dedication to self and subordinate improvement",
+        "Superior knowledge",
+        "INFOSEC/NETOPS",
+        "budget systems",
+        "Working knowledge",
+        "Thorough knowledge",
+        "Office of Management and Budget",
+        "Exceptional ability to recognize and analyze problems",
+        "summarize results",
+        "Recognized expert",
+        "Expertise",
+        "capability planning",
+        "IT environment",
+        "enterprise technical/Certification and Accreditation standards",
+        "CCRI processes",
+        "security practices",
+        "IA vulnerability tools",
+        "ACAS",
+        "Ability to apply knowledge of current security tools",
+        "SECURITY CLEARANCE: TOP SECRET (SCI)"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "BRANCH CHIEF INFORMATION TECHNOLOGY SPECIALIST",
+            "Motivated Information Technology and Cyber security professional",
+            "senior technical advisor and evaluator",
+            "top functional area managers",
+            "program managers",
+            "commanders"
+        ],
+        "company": [
+            "Company Name",
+            "contractors",
+            "vendors"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "outstanding managerial and customer service skills": 0.3661,
+            "excellent written and verbal communication skills": 0.3383,
+            "Successful team leader": 0.4381,
+            "highly-motivated mentor": 0.3626,
+            "proven dedication to self and subordinate improvement": 0.1719,
+            "Superior knowledge": 0.3905,
+            "INFOSEC/NETOPS": 0.2651,
+            "budget systems": 0.1534,
+            "Working knowledge": 0.3443,
+            "Thorough knowledge": 0.3149,
+            "Office of Management and Budget": 0.1748,
+            "Exceptional ability to recognize and analyze problems": 0.2792,
+            "summarize results": 0.1967,
+            "Recognized expert": 0.1507,
+            "Expertise": 0.2091,
+            "capability planning": 0.1589,
+            "IT environment": 0.1654,
+            "enterprise technical/Certification and Accreditation standards": 0.8464,
+            "CCRI processes": 0.5264,
+            "security practices": 0.3295,
+            "IA vulnerability tools": 0.5197,
+            "ACAS": 0.3181,
+            "Ability to apply knowledge of current security tools": 0.468,
+            "SECURITY CLEARANCE: TOP SECRET (SCI)": 0.2116
+        },
+        "filename": "cv (4259)_annotated.json"
+    }
+}

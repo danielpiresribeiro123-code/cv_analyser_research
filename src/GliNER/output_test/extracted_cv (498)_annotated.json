@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "broad skills and expertise",
+        "Course Passed",
+        "good housekeeping practice",
+        "Single",
+        "English",
+        "Hindi",
+        "Urdu"
+    ],
+    "professional_info": {
+        "person name": [
+            "MD TALIB",
+            "Md Neyaz Ahmad"
+        ],
+        "job title": [
+            "Electrical Site Engineer",
+            "manager"
+        ],
+        "company": [
+            "Vardaan Contracts Private Limited"
+        ],
+        "university": [
+            "M D University"
+        ],
+        "degree": [
+            "B. Tech in Electrical and Electronics Engg.",
+            "Degree Awaited"
+        ],
+        "years of experience": [],
+        "address": [
+            "D-66 4th Floor, Thokar No.-8",
+            "Shaheen Bagh",
+            "Sec-111",
+            "New Seelampur",
+            "Block H1/176",
+            "New Delhi"
+        ],
+        "email": [
+            "E-Mail",
+            "mdtalib65 @gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "+91-9868783834"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "broad skills and expertise": 0.1598,
+            "Course Passed": 0.3039,
+            "good housekeeping practice": 0.1648,
+            "Single": 0.1638,
+            "English": 0.5527,
+            "Hindi": 0.5217,
+            "Urdu": 0.5577
+        },
+        "filename": "cv (498)_annotated.json"
+    }
+}

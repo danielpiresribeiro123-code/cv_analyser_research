@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "OBJECTIVE",
+        "10TH Passed",
+        "TECHNICAL ABILTIES",
+        "Excellent technical skills",
+        "welding and furniture",
+        "WORK EXPERIENCE",
+        "06-01-1998",
+        "Marital status",
+        "Single",
+        "Male",
+        "English",
+        "Hindi",
+        "Punjabi",
+        "listening to music",
+        "Playing"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAVI KUMAR",
+            "V.P.O.  Lamlehri",
+            "Sh. Shamsher Singh"
+        ],
+        "job title": [
+            "civil helper",
+            "work"
+        ],
+        "company": [
+            "HP",
+            "organization",
+            "Hindu",
+            "Indian"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Tehsil and Distt. Una",
+            "174303"
+        ],
+        "email": [
+            "Email",
+            "kmravi199806@gmail.com"
+        ],
+        "phone": [
+            "Contact No"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "OBJECTIVE": 0.2714,
+            "10TH Passed": 0.3009,
+            "TECHNICAL ABILTIES": 0.5984,
+            "Excellent technical skills": 0.5078,
+            "welding and furniture": 0.2671,
+            "WORK EXPERIENCE": 0.2107,
+            "06-01-1998": 0.1573,
+            "Marital status": 0.1901,
+            "Single": 0.4001,
+            "Male": 0.2568,
+            "English": 0.8647,
+            "Hindi": 0.8915,
+            "Punjabi": 0.838,
+            "listening to music": 0.2048,
+            "Playing": 0.2473
+        },
+        "filename": "cv (16)_annotated.json"
+    }
+}

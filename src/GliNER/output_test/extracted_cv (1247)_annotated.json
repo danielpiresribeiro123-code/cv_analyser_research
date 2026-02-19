@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "Demonstrated achiever",
+        "exceptional knowledge",
+        "Strong marketing and finance background",
+        "fluency in several languages",
+        "“Advanced Level” U.S. State Department certification",
+        "Russian",
+        "Reading Comprehension",
+        "learning new concepts quickly",
+        "working well under pressure",
+        "communicating ideas clearly and effectively",
+        "networking environments",
+        "business software packages",
+        "B.A.",
+        "Foreign Languages",
+        "Spanish",
+        "French",
+        "Italian"
+    ],
+    "professional_info": {
+        "person name": [
+            "Loren Shevitz"
+        ],
+        "job title": [
+            "Director of Business Development",
+            "Director of Strategic planning",
+            "CFO",
+            "Vice President",
+            "Vice"
+        ],
+        "company": [
+            "Leningrad Polytechnic Institute",
+            "Healthinfusion Inc.",
+            "Home Infusion Therapy",
+            "Trans-Chemical Corporation",
+            "Ford Motor Company"
+        ],
+        "university": [
+            "George Washington University",
+            "The Elliott School of International Affairs",
+            "University of Miami"
+        ],
+        "degree": [
+            "Masters Degree in Russian & East European Studies"
+        ],
+        "years of experience": [],
+        "address": [
+            "Washington, D.C.",
+            "Coral Gables"
+        ],
+        "email": [],
+        "phone": [
+            "773-665-1234",
+            "1990",
+            "1988"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Demonstrated achiever": 0.2867,
+            "exceptional knowledge": 0.1655,
+            "Strong marketing and finance background": 0.1861,
+            "fluency in several languages": 0.1836,
+            "“Advanced Level” U.S. State Department certification": 0.5585,
+            "Russian": 0.7962,
+            "Reading Comprehension": 0.2412,
+            "learning new concepts quickly": 0.2257,
+            "working well under pressure": 0.2948,
+            "communicating ideas clearly and effectively": 0.2964,
+            "networking environments": 0.2239,
+            "business software packages": 0.5302,
+            "B.A.": 0.484,
+            "Foreign Languages": 0.1546,
+            "Spanish": 0.6258,
+            "French": 0.6105,
+            "Italian": 0.5715
+        },
+        "filename": "cv (1247)_annotated.json"
+    }
+}

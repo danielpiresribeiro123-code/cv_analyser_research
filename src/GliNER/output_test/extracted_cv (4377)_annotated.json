@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "Innovative and solution focused",
+        "Program and Project Management",
+        "Detail",
+        "skilled",
+        "identifying technology needs",
+        "Self",
+        "motivated",
+        "strong leader",
+        "team player",
+        "Project management",
+        "Program management",
+        "Process improvement",
+        "Requirements gathering",
+        "Team leader",
+        "Strategic planning",
+        "Results-oriented",
+        "Effective multi-tasker",
+        "Data analysis",
+        "Team player",
+        "Team building",
+        "Extensive technology experience",
+        "technology skills",
+        "Software Development Lifecycle MethodologyÂ",
+        "Communication leader",
+        "industry IT standards"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INFORMATION TECHNOLOGY MANAGER/ANALYST",
+            "Professional Summary",
+            "manager/analyst",
+            "Manager"
+        ],
+        "company": [
+            "Company Name",
+            "Graduate College",
+            "National Science Foundation",
+            "Council of Graduate Schools"
+        ],
+        "university": [
+            "National Institutes of Health",
+            "Iowa State University"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "Innovative and solution focused": 0.2721,
+            "Program and Project Management": 0.692,
+            "Detail": 0.1862,
+            "skilled": 0.2084,
+            "identifying technology needs": 0.1903,
+            "Self": 0.5005,
+            "motivated": 0.2788,
+            "strong leader": 0.454,
+            "team player": 0.5002,
+            "Project management": 0.7547,
+            "Program management": 0.7301,
+            "Process improvement": 0.6187,
+            "Requirements gathering": 0.5645,
+            "Team leader": 0.5386,
+            "Strategic planning": 0.5876,
+            "Results-oriented": 0.5048,
+            "Effective multi-tasker": 0.5194,
+            "Data analysis": 0.5348,
+            "Team player": 0.5076,
+            "Team building": 0.4429,
+            "Extensive technology experience": 0.4375,
+            "technology skills": 0.3268,
+            "Software Development Lifecycle MethodologyÂ": 0.8798,
+            "Communication leader": 0.1636,
+            "industry IT standards": 0.5146
+        },
+        "filename": "cv (4377)_annotated.json"
+    }
+}

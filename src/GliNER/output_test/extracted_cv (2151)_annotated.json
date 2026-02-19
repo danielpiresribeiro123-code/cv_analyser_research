@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "ASP.NET MVC",
+        "SQL",
+        ".NET",
+        "C#",
+        "Angular JS",
+        "MySQL",
+        "Analysis",
+        "testing",
+        "Internet Information Services",
+        "IIS",
+        "My SQL",
+        "MS SQL Server",
+        "WEB & CLIENT -SERVER",
+        "ASP.NET",
+        "ASP.NET Web API",
+        "MVC",
+        "JQuery",
+        "APPLICATION/WEB",
+        "Microsoft IIS",
+        ".Net Framework",
+        "Windows",
+        "IOS",
+        "Entity Framework",
+        "LINQ",
+        "Web Configuration",
+        "Machine Configuration",
+        ".Net Developer",
+        "Application Design"
+    ],
+    "professional_info": {
+        "person name": [
+            "Md Shahwaz  Akhter"
+        ],
+        "job title": [
+            "Designation"
+        ],
+        "company": [
+            "Technology  Magnus Softech Pvt. Ltd"
+        ],
+        "university": [
+            "IETE University",
+            "Institution Of Electronics And Telecommunication Engineers",
+            "Client  Universities"
+        ],
+        "degree": [
+            "Bachelor of Technology in Computer Science"
+        ],
+        "years of experience": [],
+        "address": [
+            "New Delhi"
+        ],
+        "email": [],
+        "phone": [
+            "Mobile",
+            "+91 -9310069826"
+        ]
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "ASP.NET MVC": 0.4459,
+            "SQL": 0.6041,
+            ".NET": 0.2964,
+            "C#": 0.9105,
+            "Angular JS": 0.7696,
+            "MySQL": 0.764,
+            "Analysis": 0.247,
+            "testing": 0.2195,
+            "Internet Information Services": 0.2564,
+            "IIS": 0.2644,
+            "My SQL": 0.8704,
+            "MS SQL Server": 0.7971,
+            "WEB & CLIENT -SERVER": 0.2539,
+            "ASP.NET": 0.5775,
+            "ASP.NET Web API": 0.5,
+            "MVC": 0.1707,
+            "JQuery": 0.4186,
+            "APPLICATION/WEB": 0.2812,
+            "Microsoft IIS": 0.6145,
+            ".Net Framework": 0.7783,
+            "Windows": 0.9535,
+            "IOS": 0.9628,
+            "Entity Framework": 0.5772,
+            "LINQ": 0.5669,
+            "Web Configuration": 0.178,
+            "Machine Configuration": 0.1879,
+            ".Net Developer": 0.3688,
+            "Application Design": 0.163
+        },
+        "filename": "cv (2151)_annotated.json"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "Civil",
+        "Road Construction",
+        "Village Road",
+        "Technical Skills",
+        "MS office",
+        "AutoCAD",
+        "Internet Savvy",
+        "Personal  Qualities",
+        "Positive attitude",
+        "result oriented",
+        "output",
+        "Excellent Communication/inter personal skills",
+        "HPC (High Performance Concrete)",
+        "Hindi",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "VIVEKANANDA  THAKUR",
+            "Harindra Nath Thakur",
+            "Mr. Harindra Nath Thakur",
+            "Male"
+        ],
+        "job title": [
+            "Site Engineer"
+        ],
+        "company": [
+            "DEGREEUNIVERSITYCOLLEGE BATCHAGGREGATE",
+            "UPTURajshree Institute Of Management",
+            "Samrat Infra Estate Pvt. Ltd.",
+            "S.S. Infrazone Pvt. Ltd.",
+            "PWD Pilibhit"
+        ],
+        "university": [
+            "10thUP BoardManiar Inter College"
+        ],
+        "degree": [
+            "B.Tech.(Civil)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Manikpur, Ballia, U.P."
+        ],
+        "email": [
+            "+919458709436",
+            "+917905970598",
+            "Email id",
+            "vsthakur9dec88@gmail. com"
+        ],
+        "phone": [
+            "Contact no"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Civil": 0.2074,
+            "Road Construction": 0.4814,
+            "Village Road": 0.5172,
+            "Technical Skills": 0.4172,
+            "MS office": 0.3855,
+            "AutoCAD": 0.4953,
+            "Internet Savvy": 0.4506,
+            "Personal  Qualities": 0.4165,
+            "Positive attitude": 0.3709,
+            "result oriented": 0.1798,
+            "output": 0.2975,
+            "Excellent Communication/inter personal skills": 0.5039,
+            "HPC (High Performance Concrete)": 0.3083,
+            "Hindi": 0.6231,
+            "English": 0.6244
+        },
+        "filename": "cv (524)_annotated.json"
+    }
+}

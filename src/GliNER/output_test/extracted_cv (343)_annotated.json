@@ -1,0 +1,106 @@
+{
+    "skills": [
+        "Diploma in Computer, Application",
+        "English",
+        "Hindi",
+        "Punjabi",
+        "STRENGTH",
+        "Time management skill",
+        "Dependable",
+        "Energetic",
+        "Dynamic team leader",
+        "Sense",
+        "Highly",
+        "inquisitive",
+        "creative",
+        "resour ceful",
+        "Knowledge",
+        "Skills & Abilities",
+        "Knowledgeable",
+        "E-Builders",
+        "DAMAC  Connect",
+        "Shear Point",
+        "Quality Related issues",
+        "Proficient",
+        "Microsoft Office Application",
+        "MS Word",
+        "Excel",
+        "PowerPoint",
+        "internet application",
+        "Basic Office Procedure",
+        "Write"
+    ],
+    "professional_info": {
+        "person name": [
+            "Lovepreet Singh",
+            "lovepreet",
+            "Male"
+        ],
+        "job title": [
+            "Secretary  / Document Controller",
+            "Document Controller /Secretary",
+            "Document Controller  /Cum Secretary"
+        ],
+        "company": [
+            "Al Qabdah Global Building Contracting L.L.C",
+            "Transemirates Contracting L.L.C",
+            "Al Qabdah Global Building Contracting L .L.C",
+            "G+6P+HC+31) Residential Tower",
+            "M/s Al Qasimia University WAQF (ASAS)",
+            "QHC"
+        ],
+        "university": [],
+        "degree": [
+            "BBA",
+            "Bachelor in Business"
+        ],
+        "years of experience": [
+            "3 year & 6 Month  Gulf experience"
+        ],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "email"
+        ],
+        "phone": [
+            "Contact Number",
+            "+971 -52-411-8943",
+            "fax"
+        ]
+    },
+    "metadata": {
+        "total_skills": 29,
+        "confidence_scores": {
+            "Diploma in Computer, Application": 0.5367,
+            "English": 0.8354,
+            "Hindi": 0.8123,
+            "Punjabi": 0.5437,
+            "STRENGTH": 0.4322,
+            "Time management skill": 0.3925,
+            "Dependable": 0.5896,
+            "Energetic": 0.5266,
+            "Dynamic team leader": 0.4762,
+            "Sense": 0.4902,
+            "Highly": 0.3448,
+            "inquisitive": 0.4919,
+            "creative": 0.4365,
+            "resour ceful": 0.4154,
+            "Knowledge": 0.2408,
+            "Skills & Abilities": 0.2093,
+            "Knowledgeable": 0.4378,
+            "E-Builders": 0.3054,
+            "DAMAC  Connect": 0.3379,
+            "Shear Point": 0.2447,
+            "Quality Related issues": 0.2345,
+            "Proficient": 0.3368,
+            "Microsoft Office Application": 0.7248,
+            "MS Word": 0.6332,
+            "Excel": 0.2503,
+            "PowerPoint": 0.3551,
+            "internet application": 0.5963,
+            "Basic Office Procedure": 0.2701,
+            "Write": 0.1598
+        },
+        "filename": "cv (343)_annotated.json"
+    }
+}

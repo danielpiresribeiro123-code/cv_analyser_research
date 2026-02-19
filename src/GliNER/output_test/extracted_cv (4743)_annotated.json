@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "Results-orientedÂ",
+        "creative",
+        "Tactical Planning",
+        "Retail Marketing",
+        "Organized and efficient",
+        "Advanced computer proficiency",
+        "PC",
+        "Mac",
+        "Customer Relationship Management (CRM)",
+        "Excellent communication skills",
+        "Goal-oriented",
+        "Business negotiation",
+        "Inspiring team leader",
+        "English - Spanish",
+        "Financial reporting",
+        "Effective team player",
+        "Experience",
+        "Image change",
+        "Customer Relations Management",
+        "Creative",
+        "Web content and design development",
+        "Consumer trends analysis",
+        "Financial analysis"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "MARKETING COORDINATOR",
+            "Marketing proffesionalÂ",
+            "Marketing and sales specialist",
+            "Creative producer"
+        ],
+        "company": [
+            "Company Name",
+            "Taco Palenque",
+            "Palenque Grill",
+            "Pollo Palenque",
+            "Tensai",
+            "Sushi"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "Results-orientedÂ": 0.2499,
+            "creative": 0.2547,
+            "Tactical Planning": 0.4326,
+            "Retail Marketing": 0.2816,
+            "Organized and efficient": 0.5291,
+            "Advanced computer proficiency": 0.6044,
+            "PC": 0.2487,
+            "Mac": 0.4131,
+            "Customer Relationship Management (CRM)": 0.6994,
+            "Excellent communication skills": 0.5225,
+            "Goal-oriented": 0.4665,
+            "Business negotiation": 0.5009,
+            "Inspiring team leader": 0.5011,
+            "English - Spanish": 0.6119,
+            "Financial reporting": 0.3942,
+            "Effective team player": 0.5205,
+            "Experience": 0.2075,
+            "Image change": 0.1612,
+            "Customer Relations Management": 0.1643,
+            "Creative": 0.3713,
+            "Web content and design development": 0.3024,
+            "Consumer trends analysis": 0.2858,
+            "Financial analysis": 0.1561
+        },
+        "filename": "cv (4743)_annotated.json"
+    }
+}

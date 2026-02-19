@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "GS-11",
+        "GS-2210-9",
+        "CUSTSPT",
+        "NOC Merit-2016-0031",
+        "Professional expertise",
+        "Excellent communicator",
+        "Stays current with technology",
+        "Excellent interpersonal skills",
+        "MS SharePoint",
+        "MS Access",
+        "MS Office",
+        "Adobe Suite",
+        "Windows",
+        "Linux",
+        "Mac",
+        "Skype",
+        "WebEx",
+        "Adobe Connect",
+        "MS Lync",
+        "Technical Skills",
+        "Level I, II and III customer Support",
+        "SharePoint",
+        "e-pubs",
+        "Merchant Mariner database"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INFORMATION TECHNOLOGY SPECIALIST",
+            "IT Specialist",
+            "Systems Analyst",
+            "Regional System Manager",
+            "System Admin",
+            "Program",
+            "Information Technology Specialist (Web)"
+        ],
+        "company": [
+            "Pacific Northwest Research Station",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Total Years"
+        ],
+        "address": [],
+        "email": [],
+        "phone": [
+            "remote",
+            "phone",
+            "local one on one"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "GS-11": 0.595,
+            "GS-2210-9": 0.5119,
+            "CUSTSPT": 0.2236,
+            "NOC Merit-2016-0031": 0.6164,
+            "Professional expertise": 0.1527,
+            "Excellent communicator": 0.7582,
+            "Stays current with technology": 0.1563,
+            "Excellent interpersonal skills": 0.753,
+            "MS SharePoint": 0.218,
+            "MS Access": 0.2433,
+            "MS Office": 0.5558,
+            "Adobe Suite": 0.7423,
+            "Windows": 0.9494,
+            "Linux": 0.9512,
+            "Mac": 0.9124,
+            "Skype": 0.2166,
+            "WebEx": 0.2377,
+            "Adobe Connect": 0.5882,
+            "MS Lync": 0.5379,
+            "Technical Skills": 0.2454,
+            "Level I, II and III customer Support": 0.2688,
+            "SharePoint": 0.1919,
+            "e-pubs": 0.1767,
+            "Merchant Mariner database": 0.2096
+        },
+        "filename": "cv (4593)_annotated.json"
+    }
+}

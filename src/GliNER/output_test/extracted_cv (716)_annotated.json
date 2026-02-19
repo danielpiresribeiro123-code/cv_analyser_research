@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "Maintain and document accurate information",
+        "Sales Target Achievement",
+        "Conversion and sales",
+        "Inventory management",
+        "Marketing & IT + Operations"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ghanshyam Patel"
+        ],
+        "job title": [
+            "Sales Executive",
+            "Chairperson of Extra Curricular Committee"
+        ],
+        "company": [
+            "Flourish Pure foods Pvt. Ltd.",
+            "Institution",
+            "Hindustan Coca Cola Beverages Pvt. Ltd.",
+            "Higher Secondary Schooling",
+            "S.S.G.V.",
+            "Secondary Schooling",
+            "Big Bazaar  (Future Group)",
+            "Big Bazaar"
+        ],
+        "university": [
+            "Jaipuria  Institute  of Management",
+            "BVM Engineering College",
+            "Gujarat Technical University"
+        ],
+        "degree": [
+            "Ghanshyam.patel@jaipuria.ac.in",
+            "PGDM",
+            "B.E."
+        ],
+        "years of experience": [],
+        "address": [
+            "Gayatri Nagar",
+            "Dabholi Road",
+            "Surat-4",
+            "Pin-395004",
+            "V. V. Nagar"
+        ],
+        "email": [
+            "Email"
+        ],
+        "phone": [
+            "Mobile",
+            "09033951896"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Maintain and document accurate information": 0.1678,
+            "Sales Target Achievement": 0.2116,
+            "Conversion and sales": 0.1536,
+            "Inventory management": 0.2474,
+            "Marketing & IT + Operations": 0.1536
+        },
+        "filename": "cv (716)_annotated.json"
+    }
+}

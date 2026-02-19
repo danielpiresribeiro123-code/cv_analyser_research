@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "MBA in Human Resource",
+        "HSC",
+        "SSLC",
+        "MBA  (HR)",
+        "Skills",
+        "MS Office",
+        "MS-excel",
+        "Internet applications",
+        "Hindi",
+        "English",
+        "Tamil"
+    ],
+    "professional_info": {
+        "person name": [
+            "B.KAYATHRI",
+            "Husband",
+            "Karthik.P",
+            "Female"
+        ],
+        "job title": [
+            "Job objective",
+            "challenging position",
+            "Married"
+        ],
+        "company": [
+            "maxima automation solutions pvt ltd"
+        ],
+        "university": [
+            "Indra Ganesan college of education",
+            "Alagappa university",
+            "Madras University",
+            "ALAGAPPA COLLEGE OF TECHNOLOGY",
+            "Anna University",
+            "Kendriya vidyalaya DGQA",
+            "CBSE"
+        ],
+        "degree": [
+            "B.Ed (Physical Science)",
+            "Master of Science ( Physics)",
+            "Bachelor of Science (Physics)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Present Address",
+            "4/238",
+            "Dr.kk Street"
+        ],
+        "email": [
+            "Email",
+            "bkayathri13@gmail.com",
+            "Indian"
+        ],
+        "phone": [
+            "Phone No",
+            "9789801180"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "MBA in Human Resource": 0.5787,
+            "HSC": 0.303,
+            "SSLC": 0.2613,
+            "MBA  (HR)": 0.3656,
+            "Skills": 0.1698,
+            "MS Office": 0.8564,
+            "MS-excel": 0.6165,
+            "Internet applications": 0.6006,
+            "Hindi": 0.8535,
+            "English": 0.7879,
+            "Tamil": 0.8067
+        },
+        "filename": "cv (1639)_annotated.json"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "CFA",
+        "CPA",
+        "Financial Management",
+        "Economics",
+        "Accounting",
+        "Actuarial Science",
+        "Economic Modeling Project",
+        "Risk-Weighted Asset Reduction Project"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUNG WOO AHN"
+        ],
+        "job title": [
+            "Magna Cum Laude",
+            "volunteer tutor",
+            "Associate",
+            "superior teamwork",
+            "Associate - Risk Control",
+            "Vice President"
+        ],
+        "company": [
+            "SLOAN SCHOOL OF MANAGEMENT",
+            "Bachelor of Science",
+            "UK-based global securities firm",
+            "large life insurance company",
+            "international financial services firm",
+            "MORGAN GRENFELL"
+        ],
+        "university": [
+            "mit.edu",
+            "UNIVERSITY OF PENNSYLVANIA"
+        ],
+        "degree": [
+            "MBA"
+        ],
+        "years of experience": [],
+        "address": [
+            "520 Beacon Street",
+            "Apartment 5C",
+            "Boston, MA",
+            "02115",
+            "Cambridge, MA",
+            "Internet"
+        ],
+        "email": [
+            "e-mail"
+        ],
+        "phone": [
+            "(617)266-9097"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "CFA": 0.6681,
+            "CPA": 0.6025,
+            "Financial Management": 0.2225,
+            "Economics": 0.4264,
+            "Accounting": 0.5921,
+            "Actuarial Science": 0.5017,
+            "Economic Modeling Project": 0.165,
+            "Risk-Weighted Asset Reduction Project": 0.2369
+        },
+        "filename": "cv (1440)_annotated.json"
+    }
+}

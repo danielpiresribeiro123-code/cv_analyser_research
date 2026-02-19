@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "skills",
+        "physics",
+        "chemistry",
+        "biology",
+        "computer science",
+        "PROFESSIONAL QUALIFICATION",
+        "COMPUTER SKILLS",
+        "3 months basic computer application certificate",
+        "PERSONAL PROFLIE",
+        "English",
+        "hindi",
+        "urdu",
+        "unmarried"
+    ],
+    "professional_info": {
+        "person name": [
+            "OUSAAF AHMED",
+            "Mr. Mustaqeem Ahmed"
+        ],
+        "job title": [
+            "CAREER OBJECTIVES"
+        ],
+        "company": [
+            "Pharmacy council of India and all India",
+            "Uttrakhand board of technical education"
+        ],
+        "university": [
+            "JKBOSE",
+            "Siddhartha institute of",
+            "Uttrakhand technical university"
+        ],
+        "degree": [
+            "Intermediate",
+            "Pass out graduate",
+            "B.Pharma."
+        ],
+        "years of experience": [],
+        "address": [
+            "V.P.O. – jogirampuri",
+            "Tehsil- Najibabad",
+            "Rorkee"
+        ],
+        "email": [
+            "E-mail",
+            "ousaafhashmi@yahoo.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+919045071505"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "skills": 0.1969,
+            "physics": 0.4567,
+            "chemistry": 0.3812,
+            "biology": 0.4045,
+            "computer science": 0.5572,
+            "PROFESSIONAL QUALIFICATION": 0.3443,
+            "COMPUTER SKILLS": 0.3377,
+            "3 months basic computer application certificate": 0.5549,
+            "PERSONAL PROFLIE": 0.2064,
+            "English": 0.7845,
+            "hindi": 0.8397,
+            "urdu": 0.8536,
+            "unmarried": 0.3503
+        },
+        "filename": "cv (3383)_annotated.json"
+    }
+}

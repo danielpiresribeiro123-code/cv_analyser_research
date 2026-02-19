@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "growth knowledge",
+        "creatively",
+        "standards and guidelines",
+        "AURORA",
+        "data base",
+        "Mechanical Engineering",
+        "Drafting Packages",
+        "Cero 2.0",
+        "MS Word",
+        "MS Excel",
+        "MS Powerpoint",
+        "Windows 7",
+        "Windows 8",
+        "Aurora"
+    ],
+    "professional_info": {
+        "person name": [
+            "HIRTHEESH KUMAR"
+        ],
+        "job title": [
+            "POSITION",
+            "DESIGN ENGINNER",
+            "procurement managers",
+            "Title",
+            "Design and Fabrication of water level maintainer"
+        ],
+        "company": [
+            "ILLUMINE INDUSTRIES PVT LTD"
+        ],
+        "university": [
+            "R.M.K Engineering College"
+        ],
+        "degree": [
+            "B.E"
+        ],
+        "years of experience": [],
+        "address": [
+            "Chennai",
+            "Kavaraipettai",
+            "Trichy"
+        ],
+        "email": [
+            "Email",
+            "hirtheeshkumar@hotmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9597557430"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "growth knowledge": 0.2466,
+            "creatively": 0.2036,
+            "standards and guidelines": 0.3125,
+            "AURORA": 0.1811,
+            "data base": 0.4793,
+            "Mechanical Engineering": 0.2698,
+            "Drafting Packages": 0.1643,
+            "Cero 2.0": 0.4351,
+            "MS Word": 0.7167,
+            "MS Excel": 0.5191,
+            "MS Powerpoint": 0.5394,
+            "Windows 7": 0.9666,
+            "Windows 8": 0.9521,
+            "Aurora": 0.2639
+        },
+        "filename": "cv (183)_annotated.json"
+    }
+}

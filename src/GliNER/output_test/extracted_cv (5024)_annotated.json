@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "Executive Profile",
+        "Machine learning",
+        "Deep learning",
+        "AWS",
+        "Sagemaker",
+        "EC2",
+        "Data Analysis",
+        "Data Mining",
+        "Artificial Intelligence",
+        "NLP model",
+        "Aspects",
+        "Topics",
+        "Linear Dirichlet Allocation",
+        "ad-hoc analysis",
+        "SQL",
+        "Redshift"
+    ],
+    "professional_info": {
+        "person name": [
+            "Asher Hall",
+            "Empryean",
+            "Oclosia"
+        ],
+        "job title": [
+            "DATA CONSULTANT"
+        ],
+        "company": [],
+        "university": [
+            "Jaipur University"
+        ],
+        "degree": [
+            "B.Tech(CSE)"
+        ],
+        "years of experience": [
+            "regular interactions"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Executive Profile": 0.3528,
+            "Machine learning": 0.869,
+            "Deep learning": 0.8642,
+            "AWS": 0.9802,
+            "Sagemaker": 0.2677,
+            "EC2": 0.1731,
+            "Data Analysis": 0.4195,
+            "Data Mining": 0.5322,
+            "Artificial Intelligence": 0.5678,
+            "NLP model": 0.2669,
+            "Aspects": 0.1902,
+            "Topics": 0.2307,
+            "Linear Dirichlet Allocation": 0.4573,
+            "ad-hoc analysis": 0.1791,
+            "SQL": 0.249,
+            "Redshift": 0.4076
+        },
+        "filename": "cv (5024)_annotated.json"
+    }
+}

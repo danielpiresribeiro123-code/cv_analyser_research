@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "Azmet cet",
+        "COMPUTER SKILLS",
+        "Basic Knowledge",
+        "MS Office",
+        "Ms – Word",
+        "Excel",
+        "Power – point",
+        "Internment",
+        "Punctual & Dedicated for my work",
+        "Good  Listener",
+        "Group control",
+        "Creative",
+        "Motivating",
+        "PROJECT INFORMATION",
+        "AREA OF INTEREST",
+        "Building drawing",
+        "Road Construction",
+        "Site Management"
+    ],
+    "professional_info": {
+        "person name": [
+            "MD. IMRAN",
+            "MD.  IMRAN",
+            "Md. Khurshed"
+        ],
+        "job title": [],
+        "company": [
+            "AZMET College of Engg & Technology",
+            "State Board of Technical Education",
+            "UP Board",
+            "SBTE Board",
+            "ADIT Buildiwell Pvt. Ltd.",
+            "Client Ravi Jaypuria",
+            "Barun Bevrage Ecotech III",
+            "Vega school",
+            "Hydro Eletric Project",
+            "Lanco Infratech Limited"
+        ],
+        "university": [],
+        "degree": [
+            "Diploma in (Civil Engg)"
+        ],
+        "years of experience": [
+            "EXPERIENCE",
+            "Five years  working experience"
+        ],
+        "address": [
+            "Town / Vill – Motibag",
+            "Pin - 855107 - BIHAR",
+            "Teesta 06"
+        ],
+        "email": [
+            "Email id",
+            "mdimrancivil@gmail.com"
+        ],
+        "phone": [
+            "+919205648599",
+            "8409918916"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Azmet cet": 0.2843,
+            "COMPUTER SKILLS": 0.3192,
+            "Basic Knowledge": 0.2198,
+            "MS Office": 0.7418,
+            "Ms – Word": 0.6744,
+            "Excel": 0.4445,
+            "Power – point": 0.6998,
+            "Internment": 0.4104,
+            "Punctual & Dedicated for my work": 0.1752,
+            "Good  Listener": 0.5098,
+            "Group control": 0.3084,
+            "Creative": 0.4745,
+            "Motivating": 0.3911,
+            "PROJECT INFORMATION": 0.1676,
+            "AREA OF INTEREST": 0.2937,
+            "Building drawing": 0.2083,
+            "Road Construction": 0.242,
+            "Site Management": 0.2586
+        },
+        "filename": "cv (3909)_annotated.json"
+    }
+}

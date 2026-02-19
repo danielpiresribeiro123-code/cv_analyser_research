@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "Biomedical Engineering",
+        "BME",
+        "mathematics",
+        "Electrical Engineering",
+        "technical capabilities",
+        "MATLAB",
+        "CleveMed BioRadio software",
+        "experience",
+        "microcontroller programming environments",
+        "Atmel AVR",
+        "Arduino Uno",
+        "FPGA design",
+        "ISE Design Suite",
+        "OrCAD PSpice",
+        "NI Mul tisim",
+        "Simulink",
+        "Xilinx software"
+    ],
+    "professional_info": {
+        "person name": [
+            "Robyn Goss",
+            "Mr. Gary Hill",
+            "Mr. Hill",
+            "high school student"
+        ],
+        "job title": [
+            "Project Manager"
+        ],
+        "company": [
+            "The Robot Company",
+            "Raytheon",
+            "Ametek Aerospace and Defense",
+            "Matlab",
+            "Ametek"
+        ],
+        "university": [
+            "California State University Long Beach",
+            "California S tate University Long Beach"
+        ],
+        "degree": [],
+        "years of experience": [
+            "communicating efficiently"
+        ],
+        "address": [
+            "1250 N. Bellflower Blvd.",
+            "Long Beach"
+        ],
+        "email": [
+            "Email"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Biomedical Engineering": 0.7588,
+            "BME": 0.5786,
+            "mathematics": 0.2006,
+            "Electrical Engineering": 0.7413,
+            "technical capabilities": 0.2645,
+            "MATLAB": 0.2284,
+            "CleveMed BioRadio software": 0.4953,
+            "experience": 0.179,
+            "microcontroller programming environments": 0.1701,
+            "Atmel AVR": 0.5132,
+            "Arduino Uno": 0.2155,
+            "FPGA design": 0.2551,
+            "ISE Design Suite": 0.7024,
+            "OrCAD PSpice": 0.5844,
+            "NI Mul tisim": 0.4994,
+            "Simulink": 0.404,
+            "Xilinx software": 0.3857
+        },
+        "filename": "cv (1114)_annotated.json"
+    }
+}

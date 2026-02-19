@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "change management",
+        "value -adding leadership",
+        "marketing and sales effi- ciency",
+        "customer and employee satisfaction",
+        "customer service",
+        "product management",
+        "culture change",
+        "Customer base"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "SU M M A R Y",
+            "Division Director & Group Business Development Director",
+            "Consultancy & Interim Management",
+            "Business & Financial Improvement Director",
+            "Chief Operating Officer",
+            "Project Director",
+            "Commercial Project Director",
+            "Sales Support Director",
+            "Head of Strategic Business Unit (DK)",
+            "Head of Logistics & procurement",
+            "Managing Director",
+            "Head of Marketing",
+            "Project Manager",
+            "Marketing Coordinator",
+            "BO A R D",
+            "Chairman of the Supervisory Board"
+        ],
+        "company": [
+            "DK",
+            "AnyCom A/S"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "change management": 0.2687,
+            "value -adding leadership": 0.5458,
+            "marketing and sales effi- ciency": 0.1684,
+            "customer and employee satisfaction": 0.1833,
+            "customer service": 0.2786,
+            "product management": 0.3445,
+            "culture change": 0.2306,
+            "Customer base": 0.1974
+        },
+        "filename": "cv (1090)_annotated.json"
+    }
+}

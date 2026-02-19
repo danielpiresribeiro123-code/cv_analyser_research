@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "beautiful soup",
+        "Individual",
+        "strong",
+        "communication skills",
+        "coordination",
+        "attention to detail",
+        "project building",
+        "PERSONAL",
+        "SKILLS",
+        "Python",
+        "Machine Learning",
+        "Deep",
+        "R",
+        "Computer Vision",
+        "Numpy",
+        "Panda",
+        "Matplotlib",
+        "MySQL",
+        "OpenCV",
+        "PyTorch",
+        "Real -Time Face Mask Detection",
+        "EXTRA-CURRICULARS",
+        "Neural Network",
+        "PyTorch"
+    ],
+    "professional_info": {
+        "person name": [
+            "MATTHEW HORRES"
+        ],
+        "job title": [
+            "JUNIOR DEVELOPER",
+            "Intern Trainee",
+            "Intern Developer",
+            "Electrical",
+            "SUMMARY"
+        ],
+        "company": [
+            "Gruvil Technologies",
+            "DRDO"
+        ],
+        "university": [
+            "Punjab University"
+        ],
+        "degree": [
+            "B.Tech"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "beautiful soup": 0.1617,
+            "Individual": 0.4135,
+            "strong": 0.2786,
+            "communication skills": 0.303,
+            "coordination": 0.2349,
+            "attention to detail": 0.3085,
+            "project building": 0.2339,
+            "PERSONAL": 0.4584,
+            "SKILLS": 0.1642,
+            "Python": 0.9856,
+            "Machine Learning": 0.7256,
+            "Deep": 0.2367,
+            "R": 0.7694,
+            "Computer Vision": 0.5451,
+            "Numpy": 0.4956,
+            "Panda": 0.5343,
+            "Matplotlib": 0.4986,
+            "MySQL": 0.8944,
+            "OpenCV": 0.2848,
+            "PyTorch": 0.4489,
+            "Real -Time Face Mask Detection": 0.2697,
+            "EXTRA-CURRICULARS": 0.2343,
+            "Neural Network": 0.7541
+        },
+        "filename": "cv (6)_annotated.json"
+    }
+}

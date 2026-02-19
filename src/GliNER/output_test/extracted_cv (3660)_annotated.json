@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "Secondary School Leaving Certificate",
+        "TECHNICAL EXPERTISE",
+        "Software Skill",
+        "Auto CAD",
+        "CREO",
+        "CATIA",
+        "ANSYS",
+        "MS -Office",
+        "C",
+        "C++",
+        "Automotive Powertrain",
+        "Computer Aided Design",
+        "Current Development in Automobiles",
+        "Braking and Drive System",
+        "Mini -Bike Design and Fabrication Techniques",
+        "Duel Fuel system",
+        "Dual Clutch Transmission system",
+        "Performance Improvement in Cooling Tower",
+        "Indian Engineering Olympiad",
+        "Performance and Improvement In Cooling Tower",
+        "Nano   Materials"
+    ],
+    "professional_info": {
+        "person name": [
+            "YUVARAJ.R",
+            "yuvaraj.r043"
+        ],
+        "job title": [],
+        "company": [
+            "Board of HSE, Tamil Nadu",
+            "Board of Publi c Examination, Tamil Nadu"
+        ],
+        "university": [
+            "Anna University",
+            "A.R.L.M."
+        ],
+        "degree": [
+            "Bachelor of Engineering (Mechanical Engineering)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Brookspet"
+        ],
+        "email": [
+            "Email",
+            "9445218021"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Secondary School Leaving Certificate": 0.3084,
+            "TECHNICAL EXPERTISE": 0.4863,
+            "Software Skill": 0.4041,
+            "Auto CAD": 0.7716,
+            "CREO": 0.5777,
+            "CATIA": 0.5404,
+            "ANSYS": 0.616,
+            "MS -Office": 0.7039,
+            "C": 0.5734,
+            "C++": 0.7539,
+            "Automotive Powertrain": 0.3124,
+            "Computer Aided Design": 0.4371,
+            "Current Development in Automobiles": 0.3006,
+            "Braking and Drive System": 0.2401,
+            "Mini -Bike Design and Fabrication Techniques": 0.2787,
+            "Duel Fuel system": 0.2236,
+            "Dual Clutch Transmission system": 0.2484,
+            "Performance Improvement in Cooling Tower": 0.3769,
+            "Indian Engineering Olympiad": 0.4101,
+            "Performance and Improvement In Cooling Tower": 0.185,
+            "Nano   Materials": 0.2041
+        },
+        "filename": "cv (3660)_annotated.json"
+    }
+}

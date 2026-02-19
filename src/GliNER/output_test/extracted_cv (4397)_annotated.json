@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "Bio-Pharma",
+        "skills",
+        "ingenious manner",
+        "Microbial testing",
+        "endotoxin- LAL Test",
+        "Nano particle Size and Charge analysis by Malveren Nano ZS 90",
+        "Protein extractions",
+        "HPLC",
+        "Polymerase chain reaction (PCR)",
+        "Method development",
+        "Method Validation",
+        "Method verification",
+        "Method transfer",
+        "Wet chemistry techniques",
+        "MS office",
+        "Efficient Internet Browsing",
+        "SAS programming",
+        "THz biological imaging",
+        "Study of Tera Spectra and Tera imaging",
+        "Analytical testing",
+        "method development",
+        "method validation",
+        "nanotechnology",
+        "UPLC",
+        "UV",
+        "FT-IR",
+        "Dissolution apparatus",
+        "pH meter",
+        "Capillary electrophoresis (CE) methods",
+        "PCR methods",
+        "Standard Operating Procedures",
+        "buffer preparation"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Research Associate"
+        ],
+        "company": [
+            "EPIC",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 32,
+        "confidence_scores": {
+            "Bio-Pharma": 0.3226,
+            "skills": 0.2322,
+            "ingenious manner": 0.1608,
+            "Microbial testing": 0.3862,
+            "endotoxin- LAL Test": 0.2837,
+            "Nano particle Size and Charge analysis by Malveren Nano ZS 90": 0.438,
+            "Protein extractions": 0.5286,
+            "HPLC": 0.2077,
+            "Polymerase chain reaction (PCR)": 0.2166,
+            "Method development": 0.6394,
+            "Method Validation": 0.6361,
+            "Method verification": 0.2979,
+            "Method transfer": 0.1684,
+            "Wet chemistry techniques": 0.3754,
+            "MS office": 0.7933,
+            "Efficient Internet Browsing": 0.5367,
+            "SAS programming": 0.5045,
+            "THz biological imaging": 0.1668,
+            "Study of Tera Spectra and Tera imaging": 0.1607,
+            "Analytical testing": 0.2587,
+            "method development": 0.6626,
+            "method validation": 0.5714,
+            "nanotechnology": 0.1681,
+            "UPLC": 0.2445,
+            "UV": 0.1723,
+            "FT-IR": 0.3006,
+            "Dissolution apparatus": 0.4188,
+            "pH meter": 0.4393,
+            "Capillary electrophoresis (CE) methods": 0.215,
+            "PCR methods": 0.2504,
+            "Standard Operating Procedures": 0.2686,
+            "buffer preparation": 0.1536
+        },
+        "filename": "cv (4397)_annotated.json"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "interpersonal abilities",
+        "consistence hard work",
+        "Self motivated",
+        "always organize",
+        "Basi c",
+        "M.S EXCEL",
+        "DRAFTING MAILS & INTERNET",
+        "Excellent Com munication skill",
+        "Fluent  English",
+        "Self Confidence",
+        "Positive  Attitude",
+        "Willing to learn new  things",
+        "Good Listener",
+        "Adaptable",
+        "Confident and  Focus",
+        "Enthusiastic and Hard Working",
+        "Punctuality",
+        "Honesty"
+    ],
+    "professional_info": {
+        "person name": [
+            "MMAAUUSSAAMM BBAAGGDDEE",
+            "CCAARREEEERR OOBBJJEECCTTIIVVEE",
+            "AACCAADDEEMMIICC QQUUAALLIIFFIICCAATTIIOONN",
+            "EEXXPPEERRIIEENNCCEE",
+            "CCOOMMPPUUTTEERR SSKKIILLLLSS",
+            "SSTTRREENNGGTTHH",
+            "HHOOBBBBIIEESS",
+            "PPEERRSSOONNAALL IINNFFOORRMMAATTIIOONN"
+        ],
+        "job title": [
+            "Executive"
+        ],
+        "company": [
+            "Vodafone  India",
+            "Hindustan & Petroleum  Gas",
+            "Yes Fashion  Pvt Ltd"
+        ],
+        "university": [
+            "EXAMINATION  BOARD/ UNIVERSITY",
+            "H.S.C)",
+            "CBSE"
+        ],
+        "degree": [
+            "B.Com  CVRU  2016",
+            "M.S WORD"
+        ],
+        "years of experience": [
+            "1  Year",
+            "2  Years"
+        ],
+        "address": [
+            "Flat No 405",
+            "Vraj Vihar",
+            "Adajan Gam",
+            "Surat – 395009"
+        ],
+        "email": [
+            "Email",
+            "mausam764482@gmail.com"
+        ],
+        "phone": [
+            "Cell No.",
+            "+91 8319073635",
+            "+91  8962192220"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "interpersonal abilities": 0.374,
+            "consistence hard work": 0.2983,
+            "Self motivated": 0.3982,
+            "always organize": 0.2247,
+            "Basi c": 0.1541,
+            "M.S EXCEL": 0.3649,
+            "DRAFTING MAILS & INTERNET": 0.448,
+            "Excellent Com munication skill": 0.3623,
+            "Fluent  English": 0.3606,
+            "Self Confidence": 0.5233,
+            "Positive  Attitude": 0.4137,
+            "Willing to learn new  things": 0.1724,
+            "Good Listener": 0.3468,
+            "Adaptable": 0.2675,
+            "Confident and  Focus": 0.2923,
+            "Enthusiastic and Hard Working": 0.3063,
+            "Punctuality": 0.1665,
+            "Honesty": 0.2831
+        },
+        "filename": "cv (603)_annotated.json"
+    }
+}

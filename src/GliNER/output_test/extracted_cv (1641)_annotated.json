@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "professional skills",
+        "strong interpersonal skills",
+        "thought leadership",
+        "integrity",
+        "excellent interpersonal",
+        "presentation skills",
+        "functioning well both independently and collaboratively",
+        "outgoing personality",
+        "Internet & Local Systems",
+        "MAC & WIN OS",
+        "CCNA",
+        "ENGLISH",
+        "TAMIL",
+        "HINDI",
+        "FRENCH",
+        "FTP"
+    ],
+    "professional_info": {
+        "person name": [
+            "KrishnaPriya",
+            "Rajkumar Sulochana",
+            "Rajkumar  Sulochana"
+        ],
+        "job title": [
+            "Technical Support Engineer",
+            "TEAM  LEADER"
+        ],
+        "company": [
+            "SSLC",
+            "HCL TECHNOLOGIES",
+            "Caliber Point",
+            "Hexaware Technologies",
+            "HEXAWARE",
+            "TRUTAC & MOOREPAY"
+        ],
+        "university": [
+            "SRM Easwari Engg. College",
+            "Anna University"
+        ],
+        "degree": [
+            "B.E.ComputerScience",
+            "HSC"
+        ],
+        "years of experience": [
+            "years of experience"
+        ],
+        "address": [
+            "Guindy"
+        ],
+        "email": [
+            "9787877947",
+            "Mail",
+            "gmail.com",
+            "gmail",
+            "Email"
+        ],
+        "phone": [
+            "Phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "professional skills": 0.1619,
+            "strong interpersonal skills": 0.32,
+            "thought leadership": 0.3494,
+            "integrity": 0.2378,
+            "excellent interpersonal": 0.6148,
+            "presentation skills": 0.1763,
+            "functioning well both independently and collaboratively": 0.2008,
+            "outgoing personality": 0.5941,
+            "Internet & Local Systems": 0.2427,
+            "MAC & WIN OS": 0.6419,
+            "CCNA": 0.923,
+            "ENGLISH": 0.6578,
+            "TAMIL": 0.5389,
+            "HINDI": 0.6777,
+            "FRENCH": 0.695,
+            "FTP": 0.1676
+        },
+        "filename": "cv (1641)_annotated.json"
+    }
+}

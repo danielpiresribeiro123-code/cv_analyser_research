@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "Electrical and Electronics",
+        "Expertise",
+        "budget planning",
+        "resource planning",
+        "site management",
+        "Practical knowledge",
+        "electrical drawing",
+        "Analytical",
+        "quality -oriented",
+        "eye for detail",
+        "Power Transformers",
+        "Station Reserve Transformers",
+        "SMDB & DB",
+        "Capacitor Banks Laying:  XLP E",
+        "ABS",
+        "safety standards"
+    ],
+    "professional_info": {
+        "person name": [
+            "ZAHID DURRANI",
+            "W.L.L"
+        ],
+        "job title": [
+            "Project Engineer",
+            "Site Engineer"
+        ],
+        "company": [
+            "Al-Jood Qatari Omani Trad. & Cont.",
+            "Kahramaa",
+            "OHL",
+            "Al-Jood Qatari Omani Trad.& Cont."
+        ],
+        "university": [],
+        "degree": [
+            "B. E."
+        ],
+        "years of experience": [
+            "nearly  5 years",
+            "3.5 years"
+        ],
+        "address": [],
+        "email": [
+            "E- Mail",
+            "zahiddurrani786@gmail.com ~ zahiddurrani1985@gmail.com",
+            "Certified"
+        ],
+        "phone": [
+            "+919661688001",
+            "Skype"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Electrical and Electronics": 0.1634,
+            "Expertise": 0.355,
+            "budget planning": 0.2405,
+            "resource planning": 0.1744,
+            "site management": 0.2803,
+            "Practical knowledge": 0.2951,
+            "electrical drawing": 0.1534,
+            "Analytical": 0.2668,
+            "quality -oriented": 0.1627,
+            "eye for detail": 0.2183,
+            "Power Transformers": 0.1753,
+            "Station Reserve Transformers": 0.15,
+            "SMDB & DB": 0.1568,
+            "Capacitor Banks Laying:  XLP E": 0.1927,
+            "ABS": 0.2238,
+            "safety standards": 0.2539
+        },
+        "filename": "cv (2838)_annotated.json"
+    }
+}

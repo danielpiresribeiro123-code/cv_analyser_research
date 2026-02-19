@@ -1,0 +1,98 @@
+{
+    "skills": [
+        "program and project management",
+        "content/collateral development",
+        "web/online",
+        "marketing",
+        "web development and design",
+        "social media",
+        "SEM",
+        "Self-starter",
+        "market trends",
+        "Team player",
+        "strong ability to communicate",
+        "technology",
+        "Web Marketing",
+        "Product Marketing",
+        "Event Marketing",
+        "Web & Content Design",
+        "Creative/Collateral Design",
+        "Development & Management",
+        "Japanese Localization",
+        "Program/Project Management",
+        "market research",
+        "website design &development",
+        "Event Management",
+        "Japanese Localization and Management",
+        "architecture",
+        "UI",
+        "content",
+        "back-end development"
+    ],
+    "professional_info": {
+        "person name": [
+            "Daniel Remer",
+            "Charles Lyon"
+        ],
+        "job title": [
+            "CONSULTANT",
+            "Resourceful Marketing Manager",
+            "Experience",
+            "Business Development Director"
+        ],
+        "company": [
+            "Verbum Inc.",
+            "IDG",
+            "GO",
+            "3Com",
+            "Company Name",
+            "Customers Matter",
+            "Panasonic USA",
+            "VS Technologies",
+            "Uniforce Sales & Engineering"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "program and project management": 0.4708,
+            "content/collateral development": 0.6346,
+            "web/online": 0.4629,
+            "marketing": 0.3132,
+            "web development and design": 0.4639,
+            "social media": 0.2965,
+            "SEM": 0.384,
+            "Self-starter": 0.387,
+            "market trends": 0.2112,
+            "Team player": 0.3694,
+            "strong ability to communicate": 0.1956,
+            "technology": 0.3412,
+            "Web Marketing": 0.4972,
+            "Product Marketing": 0.3479,
+            "Event Marketing": 0.2335,
+            "Web & Content Design": 0.3459,
+            "Creative/Collateral Design": 0.549,
+            "Development & Management": 0.3097,
+            "Japanese Localization": 0.4104,
+            "Program/Project Management": 0.4823,
+            "market research": 0.3612,
+            "website design &development": 0.3804,
+            "Event Management": 0.1609,
+            "Japanese Localization and Management": 0.3112,
+            "architecture": 0.4568,
+            "UI": 0.5906,
+            "content": 0.2503,
+            "back-end development": 0.3947
+        },
+        "filename": "cv (4352)_annotated.json"
+    }
+}

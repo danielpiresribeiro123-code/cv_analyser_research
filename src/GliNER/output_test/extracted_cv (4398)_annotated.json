@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "Kind and compassionate",
+        "Texas Teaching Certificate",
+        "Early Childhood Education endorsement",
+        "Critical thinker",
+        "Title I knowledge",
+        "Curriculum development",
+        "Standardized testing techniques",
+        "Learning assessments",
+        "IEPs knowledge",
+        "Flexible and adaptive",
+        "Calm under pressure",
+        "curriculum development",
+        "Classroom management",
+        "Records of Progress",
+        "Small group/Guided Reading Instruction",
+        "Hands on Math Instruction Experience",
+        "respect and personal responsibility",
+        "guided reading groups",
+        "whole group instruction",
+        "school-wide curriculum standards"
+    ],
+    "professional_info": {
+        "person name": [
+            "TEACHER",
+            "Current Teacher"
+        ],
+        "job title": [
+            "Elementary School Teacher",
+            "school administrators"
+        ],
+        "company": [
+            "Association of Texas Professional Educators",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Kind and compassionate": 0.3387,
+            "Texas Teaching Certificate": 0.8123,
+            "Early Childhood Education endorsement": 0.1667,
+            "Critical thinker": 0.3824,
+            "Title I knowledge": 0.1993,
+            "Curriculum development": 0.629,
+            "Standardized testing techniques": 0.3398,
+            "Learning assessments": 0.2528,
+            "IEPs knowledge": 0.2769,
+            "Flexible and adaptive": 0.273,
+            "Calm under pressure": 0.2083,
+            "curriculum development": 0.4707,
+            "Classroom management": 0.4878,
+            "Records of Progress": 0.3497,
+            "Small group/Guided Reading Instruction": 0.3258,
+            "Hands on Math Instruction Experience": 0.2558,
+            "respect and personal responsibility": 0.3791,
+            "guided reading groups": 0.2319,
+            "whole group instruction": 0.3039,
+            "school-wide curriculum standards": 0.6875
+        },
+        "filename": "cv (4398)_annotated.json"
+    }
+}

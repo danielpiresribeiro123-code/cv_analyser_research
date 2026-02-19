@@ -1,0 +1,43 @@
+{
+    "skills": [
+        "Ability",
+        "services"
+    ],
+    "professional_info": {
+        "person name": [
+            "Irfan  Rehman"
+        ],
+        "job title": [
+            "CASHIER/TELLER"
+        ],
+        "company": [
+            "EFU Life Assurance Company",
+            "HABIB BANK AG ZURICH"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "R-31",
+            "13-D/1 Gulshan-e-Iqbal",
+            "Karachi",
+            "MUSCAT",
+            "OMAN"
+        ],
+        "email": [
+            "0300-2512398",
+            "mail"
+        ],
+        "phone": [
+            "telephone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "Ability": 0.5565,
+            "services": 0.1561
+        },
+        "filename": "cv (1245)_annotated.json"
+    }
+}

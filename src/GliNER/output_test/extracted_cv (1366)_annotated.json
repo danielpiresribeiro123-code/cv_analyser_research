@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "practical experience",
+        "strong interpersonal skills",
+        "eagerness",
+        "Diploma in Higher Education in Accounting",
+        "English",
+        "Academic degree",
+        "high school diploma in Science studies",
+        "Sex",
+        "female",
+        "Arabic",
+        "Hindi",
+        "Single",
+        "Skills",
+        "excellent written and verbal communication skills",
+        "Microsoft office",
+        "word- excel",
+        "PowerPoint",
+        "comprehensive understanding of all accounting programs",
+        "team working",
+        "self-motivated",
+        "hard working"
+    ],
+    "professional_info": {
+        "person name": [
+            "Hassna Mohammad",
+            "Hanif Abbas"
+        ],
+        "job title": [
+            "95905992",
+            "Graduated"
+        ],
+        "company": [
+            "company"
+        ],
+        "university": [
+            "Majan college",
+            "University College",
+            "Ruwi Girls Secondary School"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "email",
+            "Hassna7676@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "practical experience": 0.3411,
+            "strong interpersonal skills": 0.6162,
+            "eagerness": 0.2746,
+            "Diploma in Higher Education in Accounting": 0.4706,
+            "English": 0.5394,
+            "Academic degree": 0.4549,
+            "high school diploma in Science studies": 0.3685,
+            "Sex": 0.2755,
+            "female": 0.2494,
+            "Arabic": 0.7372,
+            "Hindi": 0.6908,
+            "Single": 0.2543,
+            "Skills": 0.3303,
+            "excellent written and verbal communication skills": 0.3543,
+            "Microsoft office": 0.6528,
+            "word- excel": 0.2393,
+            "PowerPoint": 0.4264,
+            "comprehensive understanding of all accounting programs": 0.1782,
+            "team working": 0.2677,
+            "self-motivated": 0.5489,
+            "hard working": 0.484
+        },
+        "filename": "cv (1366)_annotated.json"
+    }
+}

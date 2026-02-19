@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "Electronics and Communication Engineering",
+        "ICT",
+        "ECE",
+        "Electrical & Electronics Engineering",
+        "Honours",
+        "Executive-Master of Business Administration",
+        "E-MBA",
+        "Human Resources Management",
+        "Certified GSM Mobile RF Engineer",
+        "CCNA",
+        "Web - Centric Computing",
+        "Tier-III DMR",
+        "Digital Mobile Radio",
+        "E- MBA"
+    ],
+    "professional_info": {
+        "person name": [
+            "W.L.L.",
+            "R. Imran Hussain Sayeed",
+            "R. IMRAN HUSSAIN SAYEEDR",
+            "IMRAN HUSSAIN SAYEED"
+        ],
+        "job title": [
+            "Project Supervisor",
+            "immu3010"
+        ],
+        "company": [
+            "National Institute of Business Management",
+            "BSNL",
+            "Rajiv Gandhi Memorial Telecom Training Centre",
+            "STG",
+            "ACCEL IT ACADEMY",
+            "NIIT",
+            "UNITED COMMERCIAL AGENCIES",
+            "Bahrain International Airport",
+            "Simoco",
+            "Ministry of Civil Aviation Authority",
+            "Bahrain Airport Company",
+            "Bahrain Airport Services"
+        ],
+        "university": [
+            "Sri Muthukumaran Institute of Technology",
+            "University of Madras",
+            "Panimalar Polytechnic"
+        ],
+        "degree": [
+            "Under Graduate Degree",
+            "Bachelor of Electronics and Communication Engineering",
+            "DEEE",
+            "Diploma in Computer Hardware and Networking",
+            "BE(ECE)"
+        ],
+        "years of experience": [
+            "16+ years of experience",
+            "+91-9790968036"
+        ],
+        "address": [],
+        "email": [
+            "E-mail",
+            "imran20584@yahoo.co."
+        ],
+        "phone": [
+            "Mobile",
+            "Skype"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Electronics and Communication Engineering": 0.2714,
+            "ICT": 0.3324,
+            "ECE": 0.1731,
+            "Electrical & Electronics Engineering": 0.1971,
+            "Honours": 0.1853,
+            "Executive-Master of Business Administration": 0.1929,
+            "E-MBA": 0.1921,
+            "Human Resources Management": 0.248,
+            "Certified GSM Mobile RF Engineer": 0.2228,
+            "CCNA": 0.7564,
+            "Web - Centric Computing": 0.3259,
+            "Tier-III DMR": 0.192,
+            "Digital Mobile Radio": 0.1846,
+            "E- MBA": 0.2491
+        },
+        "filename": "cv (2787)_annotated.json"
+    }
+}

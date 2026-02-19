@@ -1,0 +1,45 @@
+{
+    "skills": [
+        "SCADA",
+        "Distributed Control System (DCS)",
+        "DCS",
+        "Strong ability"
+    ],
+    "professional_info": {
+        "person name": [
+            "CURRICULUM VITAE",
+            "ABDUL RAHMAN M"
+        ],
+        "job title": [
+            "Control Room Operating  engineer"
+        ],
+        "company": [
+            "Valuthur Gas Turbine Power Station(VGTPS)",
+            "Alstom Heat Recovery Steam Generator(HRSG)"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Ramnad"
+        ],
+        "email": [
+            "Email",
+            "abdulraz555@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 9677342495"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "SCADA": 0.3179,
+            "Distributed Control System (DCS)": 0.2803,
+            "DCS": 0.3433,
+            "Strong ability": 0.1872
+        },
+        "filename": "cv (501)_annotated.json"
+    }
+}

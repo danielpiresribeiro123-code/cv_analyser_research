@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "ML",
+        "PROFICIENT SKILLS",
+        "Data Analysis",
+        "Data Science",
+        "Data",
+        "Visualization",
+        "Machine Learning",
+        "Intelligence",
+        "Decision Tree",
+        "Clustering",
+        "Python",
+        "SQL",
+        "Microsoft Excel",
+        "customer",
+        "Regression Analysis",
+        "Dataset management Model",
+        "CrUST Based Models",
+        "Axiom"
+    ],
+    "professional_info": {
+        "person name": [
+            "DIANA MILLER"
+        ],
+        "job title": [
+            "RESEARCH ASSISTANT",
+            "Student Research Assistant"
+        ],
+        "company": [],
+        "university": [
+            "Silnivesh Institute"
+        ],
+        "degree": [
+            "B.E(IT and ECE)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "ML": 0.3749,
+            "PROFICIENT SKILLS": 0.3489,
+            "Data Analysis": 0.4692,
+            "Data Science": 0.5009,
+            "Data": 0.2675,
+            "Visualization": 0.3178,
+            "Machine Learning": 0.6807,
+            "Intelligence": 0.1907,
+            "Decision Tree": 0.5008,
+            "Clustering": 0.4087,
+            "Python": 0.9067,
+            "SQL": 0.1963,
+            "Microsoft Excel": 0.1999,
+            "customer": 0.1569,
+            "Regression Analysis": 0.3829,
+            "Dataset management Model": 0.3955,
+            "CrUST Based Models": 0.3258,
+            "Axiom": 0.3818
+        },
+        "filename": "cv (5020)_annotated.json"
+    }
+}

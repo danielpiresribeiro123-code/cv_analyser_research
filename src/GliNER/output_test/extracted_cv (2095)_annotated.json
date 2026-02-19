@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "professional skills",
+        "Windows 2003",
+        "Outlook",
+        "Oracle",
+        "Hardware assembling",
+        "Hardware assembling & Trouble shooting",
+        "Database Explorer",
+        "Java",
+        "Inventory Control"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAHABUDEEN"
+        ],
+        "job title": [
+            "Assistant IT",
+            "Maintain the Hardware & trouble shooting",
+            "LAN Administrator",
+            "individual",
+            "Computer Programmer",
+            "LAN administratorEDUCATIONAL"
+        ],
+        "company": [
+            "CURRICULUM VITAE",
+            "Cars Taxi LLC",
+            "ETA Ascon –Star Group",
+            "Wahab Network Solutions",
+            "Rahman computer spares.  - India",
+            "FoxPro"
+        ],
+        "university": [
+            "Bharathidasan University"
+        ],
+        "degree": [
+            "M.Sc in Computer Science",
+            "B.Sc in Computer Sceince",
+            "PG Diploma in E-Commerce"
+        ],
+        "years of experience": [
+            "WORK EXPERIENCE",
+            "4+ Years",
+            "3 years",
+            "2 years"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "sahabudeen78@gmail.com"
+        ],
+        "phone": [
+            "Contact Number",
+            "+91-9500663585"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "professional skills": 0.2153,
+            "Windows 2003": 0.7849,
+            "Outlook": 0.2261,
+            "Oracle": 0.1731,
+            "Hardware assembling": 0.1864,
+            "Hardware assembling & Trouble shooting": 0.2086,
+            "Database Explorer": 0.4565,
+            "Java": 0.3327,
+            "Inventory Control": 0.3888
+        },
+        "filename": "cv (2095)_annotated.json"
+    }
+}

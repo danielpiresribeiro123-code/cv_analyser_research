@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "Computer Skills",
+        "Win-XP",
+        "Win-7",
+        "Win-8",
+        "Win-10",
+        "MS-Office",
+        "MS-World",
+        "MS-      Excel",
+        "CRM",
+        "ICT SME",
+        "data packages",
+        "service software",
+        "Cellular mobile telecommunications handsets"
+    ],
+    "professional_info": {
+        "person name": [
+            "CARRER",
+            "sudia Arabia"
+        ],
+        "job title": [
+            "Service Engineer"
+        ],
+        "company": [
+            "SAP",
+            "RBS COMPANY",
+            "saran Aircon Pvt.ltd.",
+            "Nokia",
+            "Samsung",
+            "Micromax",
+            "COOLPAD",
+            "BLACKBERRY",
+            "LENOVO",
+            "ACCER",
+            "LETV",
+            "BLUE",
+            "1PLUS",
+            "OBI",
+            "HTC",
+            "MI XIAOMI",
+            "MULTI BRAND",
+            "TRC HEAD",
+            "HCL Services Ltd.",
+            "HCL SERVICE LTD."
+        ],
+        "university": [
+            "Senior Secondary (12th)",
+            "Higher Secondary (10th)"
+        ],
+        "degree": [
+            "Diploma",
+            "Diploma in Mobile Engineering",
+            "M.P Board"
+        ],
+        "years of experience": [
+            "2 Years"
+        ],
+        "address": [
+            "Block-L Sangam Vihar"
+        ],
+        "email": [
+            "Email",
+            "shamshada0786@gmail.com"
+        ],
+        "phone": [
+            "mobile phones"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Computer Skills": 0.2875,
+            "Win-XP": 0.9834,
+            "Win-7": 0.9759,
+            "Win-8": 0.9628,
+            "Win-10": 0.9683,
+            "MS-Office": 0.5674,
+            "MS-World": 0.5544,
+            "MS-      Excel": 0.5684,
+            "CRM": 0.4762,
+            "ICT SME": 0.1676,
+            "data packages": 0.2723,
+            "service software": 0.1557,
+            "Cellular mobile telecommunications handsets": 0.2278
+        },
+        "filename": "cv (577)_annotated.json"
+    }
+}

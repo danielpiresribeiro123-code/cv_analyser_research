@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "SYSTEM ADMINISTRATION",
+        "SHAREPOINT",
+        "IT   Network Engineering domain",
+        "Web designing & Maintenance",
+        "Technically proficient",
+        "SharePoint Designer",
+        "Windows Server 2008 r2",
+        "Windows server 2012 r2",
+        "Expertise",
+        "Proficient",
+        "Developing custom web parts and workflows",
+        "Team Sites",
+        "Blogs",
+        "Alerts",
+        "IT  Networking  &  Administration",
+        "Web Application Development & Maintenance",
+        "Server Administration",
+        "libraries",
+        "Central Administration",
+        "PowerShell",
+        "AD",
+        "Office 365",
+        ".Net",
+        "Active Directory",
+        "Led web application",
+        "Database",
+        "Business Intelligence"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Result-oriented  professional",
+            "Team player",
+            "SharePoint Administrator"
+        ],
+        "company": [
+            "Ducate – Noida",
+            "Ducate"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "gmail.com"
+        ],
+        "phone": [
+            "+971-526199947"
+        ]
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "SYSTEM ADMINISTRATION": 0.3225,
+            "SHAREPOINT": 0.3401,
+            "IT   Network Engineering domain": 0.2537,
+            "Web designing & Maintenance": 0.1845,
+            "Technically proficient": 0.4407,
+            "SharePoint Designer": 0.3749,
+            "Windows Server 2008 r2": 0.5972,
+            "Windows server 2012 r2": 0.7464,
+            "Expertise": 0.2323,
+            "Proficient": 0.2115,
+            "Developing custom web parts and workflows": 0.1714,
+            "Team Sites": 0.1857,
+            "Blogs": 0.2592,
+            "Alerts": 0.1606,
+            "IT  Networking  &  Administration": 0.3774,
+            "Web Application Development & Maintenance": 0.2288,
+            "Server Administration": 0.2888,
+            "libraries": 0.5748,
+            "Central Administration": 0.2021,
+            "PowerShell": 0.2727,
+            "AD": 0.1555,
+            "Office 365": 0.7939,
+            ".Net": 0.1556,
+            "Active Directory": 0.4871,
+            "Led web application": 0.1625,
+            "Database": 0.1702,
+            "Business Intelligence": 0.3008
+        },
+        "filename": "cv (2260)_annotated.json"
+    }
+}

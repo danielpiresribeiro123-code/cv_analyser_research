@@ -1,0 +1,105 @@
+{
+    "skills": [
+        "Structural",
+        "Civil",
+        "IT PROFICIENCY/TECHNICAL SKILL",
+        "Windows",
+        "Linux",
+        "Fedora",
+        "MAC",
+        "Auto CAD (Civil)",
+        "Microsoft Office",
+        "STAAD PRO",
+        "REVIT",
+        "3D'S MAX",
+        "pleasant personality",
+        "caring and responsible attitude",
+        "Self-motivated",
+        "focused and dedicated",
+        "Good Managerial and interpersonal skills",
+        "Good communication Skills",
+        "INTERPERSONAL SKILL",
+        "Accept difficulties as challenges",
+        "Ability to rapidly build relationship and set up trust",
+        "Confident and Determined",
+        "Ability to cope up with different situations",
+        "Patience",
+        "Soft-spoken",
+        "nature wise friendly",
+        "AREA OF INTEREST",
+        "Designing"
+    ],
+    "professional_info": {
+        "person name": [
+            "VINOTH.M",
+            "vinothm7356",
+            "fresh graduate",
+            "Marks",
+            "MURUGESAN.P"
+        ],
+        "job title": [
+            "ME",
+            "Site Engineer",
+            "Structural Engineer"
+        ],
+        "company": [
+            "firm",
+            "TAMILNADU HOUSING BOARD"
+        ],
+        "university": [
+            "TechnologyAnna University",
+            "CollegeAnna University",
+            "HSCSt.Mary's Higher",
+            "SSLCSt.Mary's Higher"
+        ],
+        "degree": [
+            "Structural Engineer",
+            "M.E.",
+            "B.E."
+        ],
+        "years of experience": [],
+        "address": [
+            "Permanent Address",
+            "Keelappanaiyadiyenal"
+        ],
+        "email": [
+            "gmail.com",
+            "Contact"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "Structural": 0.4969,
+            "Civil": 0.7092,
+            "IT PROFICIENCY/TECHNICAL SKILL": 0.4343,
+            "Windows": 0.9665,
+            "Linux": 0.9157,
+            "Fedora": 0.7348,
+            "MAC": 0.811,
+            "Auto CAD (Civil)": 0.353,
+            "Microsoft Office": 0.7794,
+            "STAAD PRO": 0.4956,
+            "REVIT": 0.2982,
+            "3D'S MAX": 0.5288,
+            "pleasant personality": 0.5956,
+            "caring and responsible attitude": 0.483,
+            "Self-motivated": 0.5903,
+            "focused and dedicated": 0.5595,
+            "Good Managerial and interpersonal skills": 0.5806,
+            "Good communication Skills": 0.5412,
+            "INTERPERSONAL SKILL": 0.4675,
+            "Accept difficulties as challenges": 0.2937,
+            "Ability to rapidly build relationship and set up trust": 0.2377,
+            "Confident and Determined": 0.6204,
+            "Ability to cope up with different situations": 0.4283,
+            "Patience": 0.5503,
+            "Soft-spoken": 0.3591,
+            "nature wise friendly": 0.2301,
+            "AREA OF INTEREST": 0.256,
+            "Designing": 0.1562
+        },
+        "filename": "cv (3575)_annotated.json"
+    }
+}

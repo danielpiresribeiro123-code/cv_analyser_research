@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "TECHNICAL KNOWLEDGE",
+        "Good knowledge",
+        "Protection  Wing",
+        "basic knowledge",
+        "REF Relays",
+        "Distance relay",
+        "OMICRON CMC 356",
+        "DYNAMIC RELAY TEST KIT",
+        "Thorough knowledge"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHAHAN N"
+        ],
+        "job title": [
+            "ELECTRICAL TESTING AND COMMISSIONING ENGINEER",
+            "Testing  and Commissioning  Engineer",
+            "Protection  Relay  Test Engineer",
+            "MEGGER"
+        ],
+        "company": [
+            "Kerala State Electricity Board",
+            "Siprotech",
+            "Micom",
+            "Areva",
+            "Alstom",
+            "ABB",
+            "SEL",
+            "Easun  Reyrolle",
+            "JVS",
+            "Megawin",
+            "English Electric",
+            "Kerala State Electricity Board  Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "91 9447396671",
+            "Email",
+            "nshahann@gmail.com",
+            "nshahann@yahoo .com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "TECHNICAL KNOWLEDGE": 0.5562,
+            "Good knowledge": 0.267,
+            "Protection  Wing": 0.1922,
+            "basic knowledge": 0.3698,
+            "REF Relays": 0.2725,
+            "Distance relay": 0.2085,
+            "OMICRON CMC 356": 0.2175,
+            "DYNAMIC RELAY TEST KIT": 0.2356,
+            "Thorough knowledge": 0.3734
+        },
+        "filename": "cv (2017)_annotated.json"
+    }
+}

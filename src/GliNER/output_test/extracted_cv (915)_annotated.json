@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "944 Magazine",
+        "Local Wolves",
+        "Seventeen",
+        "WebMD Magazine",
+        "Line: A Journal Haute",
+        "Street",
+        "Kontrol  Girl Unleash'd",
+        "AIE Magazine",
+        "Summary Magazine",
+        "Cupcake Wars",
+        "Fashion Star",
+        "Key SPFX"
+    ],
+    "professional_info": {
+        "person name": [
+            "Kelly Hunt",
+            "Amber Valetta",
+            "Adelaide Kane",
+            "Crystal Hefner",
+            "Emma Holly Jones",
+            "Gia Coppola",
+            "Hayley Orrantia",
+            "Jesse Jo Stark",
+            "Karina Smirnoff",
+            "Lizzy Caplan",
+            "Monique Lhuillier",
+            "Rebecca Black",
+            "Rob Delaney",
+            "Sofia Richie",
+            "Vanessa Marano",
+            "Robert Erdman",
+            "Marc Baptiste",
+            "Warwick Saint",
+            "Enrique Badulescu",
+            "Kristian Schuller",
+            "Brian Bowen Smith",
+            "Robert Deutschman",
+            "Matt McCabe",
+            "Jiro Schneider",
+            "Tomas Muscionico",
+            "Robert Voltaire",
+            "Russell Baer",
+            "Morgan Lawley",
+            "Mazik Self",
+            "Ryan Pesecky",
+            "Will Sikora",
+            "Christina Sturmer",
+            "Andreas Kidess",
+            "Robert Rodriguez",
+            "Will Norton"
+        ],
+        "job title": [
+            "Makeup and Hair Artist",
+            "Hair & Makeup Artist"
+        ],
+        "company": [
+            "HBO"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue",
+            "90034"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "944 Magazine": 0.3601,
+            "Local Wolves": 0.2639,
+            "Seventeen": 0.1744,
+            "WebMD Magazine": 0.2379,
+            "Line: A Journal Haute": 0.2615,
+            "Street": 0.1712,
+            "Kontrol  Girl Unleash'd": 0.2632,
+            "AIE Magazine": 0.343,
+            "Summary Magazine": 0.2481,
+            "Cupcake Wars": 0.1842,
+            "Fashion Star": 0.1964,
+            "Key SPFX": 0.15
+        },
+        "filename": "cv (915)_annotated.json"
+    }
+}

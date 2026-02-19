@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "Manufacturing",
+        "Electronics-Quality",
+        "ISO 9001:2008",
+        "ISO  9001:2008",
+        "B.Tech(ECE)",
+        "Intermediate B.I.E.C",
+        "B.S.E.B"
+    ],
+    "professional_info": {
+        "person name": [
+            "MD. ALI HUSAIN DARJI"
+        ],
+        "job title": [
+            "Engineer – Quality Assurance",
+            "Quality ins.&Testing Engg.",
+            "NameCAP",
+            "certified automation professional"
+        ],
+        "company": [
+            "FLASH ELECTRONICS INDIA PVT. LTD.",
+            "Bajaj Auto Ltd.",
+            "Avaids technovators pvt.Ltd",
+            "M/s avaids Technovators pvt.Ltd",
+            "Avaids technovators",
+            "Aviation ilights"
+        ],
+        "university": [
+            "Magadh",
+            "University",
+            "Boadh Gaya",
+            "ACS Pune"
+        ],
+        "degree": [
+            "B.Tech(E.C.E)"
+        ],
+        "years of experience": [],
+        "address": [
+            "c/o-Hari ram Yadav",
+            "Khoh gaon",
+            "Manesar- 122050",
+            "Patna"
+        ],
+        "email": [
+            "Email",
+            "alihusain.ece@gmail.com",
+            "09708852159"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Manufacturing": 0.536,
+            "Electronics-Quality": 0.3173,
+            "ISO 9001:2008": 0.747,
+            "ISO  9001:2008": 0.7348,
+            "B.Tech(ECE)": 0.5173,
+            "Intermediate B.I.E.C": 0.4798,
+            "B.S.E.B": 0.2676
+        },
+        "filename": "cv (358)_annotated.json"
+    }
+}

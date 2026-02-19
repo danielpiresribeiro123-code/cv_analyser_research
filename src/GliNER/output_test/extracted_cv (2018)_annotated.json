@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "abilitiesandpersonalskillswhilebeing",
+        "resourceful",
+        "innovativeandflexiblethatoffersprofessionalgrowth",
+        "Specialization",
+        "ElectricalEngineering",
+        "TwomonthPLC(software)",
+        "MS-Office",
+        "PowerPoint",
+        "MaritalStatus",
+        "Unmarried",
+        "Punjabi",
+        "Hindi",
+        "English",
+        "ComputerSkills"
+    ],
+    "professional_info": {
+        "person name": [
+            "HarwinderSingh",
+            "KewalSingh",
+            "Indian",
+            "Male",
+            "HarwinderSinghProjectDetails"
+        ],
+        "job title": [],
+        "company": [
+            "occupationalhealth, &safety2018",
+            "GREENAC(ECOFRIENDLYAC)"
+        ],
+        "university": [
+            "Education",
+            "Institute University/BoardYearof",
+            "IOSH Greenworldgroup(GWG)Institutionof",
+            "B.Tech Ludhianagroupofcollege",
+            "ChaunkimaanPTU 2018",
+            "DiplomaGuruNanakDev",
+            "PolytechnicCollege",
+            "LDHPSBTE&IT 201366",
+            "10th Govt.HighSchool",
+            "MukandpurP.S.E.B 2010"
+        ],
+        "degree": [
+            "B.Tech"
+        ],
+        "years of experience": [
+            "45daysexperienceatPunjabstatetransmitioncorporationlimited132kvsub-station"
+        ],
+        "address": [
+            "Ludhiana"
+        ],
+        "email": [
+            "Email",
+            "harwinder219221@gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "+918437919174"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "abilitiesandpersonalskillswhilebeing": 0.3265,
+            "resourceful": 0.5832,
+            "innovativeandflexiblethatoffersprofessionalgrowth": 0.5122,
+            "Specialization": 0.1799,
+            "ElectricalEngineering": 0.5715,
+            "TwomonthPLC(software)": 0.1612,
+            "MS-Office": 0.7381,
+            "PowerPoint": 0.694,
+            "MaritalStatus": 0.2543,
+            "Unmarried": 0.5094,
+            "Punjabi": 0.8862,
+            "Hindi": 0.8047,
+            "English": 0.7722,
+            "ComputerSkills": 0.2333
+        },
+        "filename": "cv (2018)_annotated.json"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "strategic planning",
+        "professional relationship building",
+        "strong development",
+        "Technical leader",
+        "experience",
+        "Adaptable",
+        "managing teams",
+        "SDLC Methodology",
+        "Problem & Change",
+        "Software & Application Lifecycle Management",
+        "Technology Upgrades & Training",
+        "standards",
+        "sales knowledge",
+        "people skills",
+        "IT infrastructure",
+        "PC systems",
+        "local networks",
+        "mobile environment",
+        "corporate standards"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CORPORATE PROJECT MANAGER",
+            "Seasoned project manager"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "strategic planning": 0.2011,
+            "professional relationship building": 0.1877,
+            "strong development": 0.1873,
+            "Technical leader": 0.4723,
+            "experience": 0.1676,
+            "Adaptable": 0.3025,
+            "managing teams": 0.1998,
+            "SDLC Methodology": 0.7589,
+            "Problem & Change": 0.1921,
+            "Software & Application Lifecycle Management": 0.2281,
+            "Technology Upgrades & Training": 0.307,
+            "standards": 0.4181,
+            "sales knowledge": 0.208,
+            "people skills": 0.2726,
+            "IT infrastructure": 0.2427,
+            "PC systems": 0.2898,
+            "local networks": 0.156,
+            "mobile environment": 0.2414,
+            "corporate standards": 0.7556
+        },
+        "filename": "cv (4565)_annotated.json"
+    }
+}

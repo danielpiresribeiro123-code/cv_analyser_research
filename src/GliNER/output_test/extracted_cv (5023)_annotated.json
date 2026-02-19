@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "PYTHON",
+        "Django",
+        "Relational databases",
+        "RestAPI",
+        "Github",
+        "Jira",
+        "PostgreSQL",
+        "Software development",
+        "Debugging",
+        "Machine learning",
+        "Natural language",
+        "Processing",
+        "Artificial Intelligence",
+        "Data",
+        "Analysis",
+        "Docker",
+        "Tornado",
+        "Project Management",
+        "Machine",
+        "Learning",
+        "REST API",
+        "Developing"
+    ],
+    "professional_info": {
+        "person name": [
+            "ETHAN HUNT"
+        ],
+        "job title": [
+            "DEVELOPER",
+            "regular",
+            "trainer",
+            "Software Developer"
+        ],
+        "company": [
+            "Daffodil Software Pvt Ltd."
+        ],
+        "university": [
+            "Dr. Virendra Swaroop Institute of Computer",
+            "Pranveer Singh Institute of Technology"
+        ],
+        "degree": [
+            "BCA",
+            "MCA"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "PYTHON": 0.7669,
+            "Django": 0.7641,
+            "Relational databases": 0.7348,
+            "RestAPI": 0.3566,
+            "Github": 0.6151,
+            "Jira": 0.7117,
+            "PostgreSQL": 0.7866,
+            "Software development": 0.3812,
+            "Debugging": 0.3706,
+            "Machine learning": 0.902,
+            "Natural language": 0.4363,
+            "Processing": 0.3775,
+            "Artificial Intelligence": 0.6198,
+            "Data": 0.3346,
+            "Analysis": 0.3061,
+            "Docker": 0.2728,
+            "Tornado": 0.3147,
+            "Project Management": 0.5117,
+            "Machine": 0.3125,
+            "Learning": 0.1823,
+            "REST API": 0.4293,
+            "Developing": 0.2238
+        },
+        "filename": "cv (5023)_annotated.json"
+    }
+}

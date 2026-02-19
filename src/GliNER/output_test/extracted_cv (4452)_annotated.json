@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "OEM administration",
+        "DBA administration",
+        "Project Management",
+        "WebLogic Server Administration",
+        "Incident Management",
+        "Database administration",
+        "Change Management",
+        "AWS",
+        "Technical support",
+        "Linux",
+        "HP-Unix",
+        "Solaris",
+        "Windows",
+        "BP",
+        "Plugins",
+        "performance monitoring",
+        "Oracle Database",
+        "WebLogic",
+        "Enterprise manager",
+        "Cloudem12c",
+        "monitoring solutions",
+        "Cloudem",
+        "Process development",
+        "20000 Database",
+        "Fusion Middleware",
+        "ZFS targets",
+        "Enterprise Manager"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT",
+            "senior IT infrastructure specialist",
+            "seasoned technical specialist",
+            "Implementation Specialist",
+            "City Manager",
+            "Principal systems Consultant"
+        ],
+        "company": [
+            "Oracle",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [
+            "Masters in Computer Applications (MCA)"
+        ],
+        "years of experience": [
+            "7 years",
+            "6 years",
+            "12 years",
+            "February 2005"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "OEM administration": 0.4583,
+            "DBA administration": 0.3828,
+            "Project Management": 0.2609,
+            "WebLogic Server Administration": 0.2627,
+            "Incident Management": 0.1503,
+            "Database administration": 0.3144,
+            "Change Management": 0.1798,
+            "AWS": 0.3058,
+            "Technical support": 0.2055,
+            "Linux": 0.971,
+            "HP-Unix": 0.9222,
+            "Solaris": 0.9617,
+            "Windows": 0.864,
+            "BP": 0.1544,
+            "Plugins": 0.3987,
+            "performance monitoring": 0.1669,
+            "Oracle Database": 0.8575,
+            "WebLogic": 0.2047,
+            "Enterprise manager": 0.2686,
+            "Cloudem12c": 0.3956,
+            "monitoring solutions": 0.1815,
+            "Cloudem": 0.2734,
+            "Process development": 0.2042,
+            "20000 Database": 0.2206,
+            "Fusion Middleware": 0.1668,
+            "ZFS targets": 0.1918,
+            "Enterprise Manager": 0.2322
+        },
+        "filename": "cv (4452)_annotated.json"
+    }
+}

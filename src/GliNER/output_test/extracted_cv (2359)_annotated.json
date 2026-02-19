@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "15-11-1989",
+        "Caste",
+        "R.C.S.C",
+        "Sex",
+        "Male",
+        "Nationality",
+        "skills",
+        "abilities",
+        "DIPLOMA",
+        "ELECTRONICS & COMMUNICATION",
+        "ELECTRONIC MECHANIC",
+        "TECHNICAL SKILLS",
+        "Marital Status",
+        "Single",
+        "Blood Group",
+        "A+",
+        "Linguistic Abilities",
+        "English",
+        "Hindi",
+        "Malayalam",
+        "GSM Based Smart Parking System"
+    ],
+    "professional_info": {
+        "person name": [
+            "VIJO VARGHESE",
+            "Mr.M.K Varghese",
+            "Mrs.Jessy Varghese"
+        ],
+        "job title": [],
+        "company": [
+            "UPS & Inverter Servicing"
+        ],
+        "university": [
+            "Govt Polytechnic College Perumbavoor",
+            "ITI",
+            "Govt. ITI Kalamassery",
+            "State Board",
+            "Govt. H S S Chendamangalam",
+            "F.M.C.T.H.S Karumalloor",
+            "Training  Academy- south"
+        ],
+        "degree": [
+            "DIPLOMA IN ENGINEERING"
+        ],
+        "years of experience": [
+            "EXPERIENCE"
+        ],
+        "address": [
+            "MANAKAPPADY",
+            "NORTH  PARAVUR",
+            "Mobile"
+        ],
+        "email": [
+            "E-mail",
+            "vijovarghese89@gmail.com",
+            "Christian",
+            "Indian"
+        ],
+        "phone": [
+            "Phone",
+            "0484 2672370",
+            "+919747235252"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "15-11-1989": 0.1836,
+            "Caste": 0.2923,
+            "R.C.S.C": 0.2818,
+            "Sex": 0.3273,
+            "Male": 0.5593,
+            "Nationality": 0.1545,
+            "skills": 0.2733,
+            "abilities": 0.2373,
+            "DIPLOMA": 0.7819,
+            "ELECTRONICS & COMMUNICATION": 0.5612,
+            "ELECTRONIC MECHANIC": 0.2319,
+            "TECHNICAL SKILLS": 0.5065,
+            "Marital Status": 0.3102,
+            "Single": 0.5393,
+            "Blood Group": 0.1863,
+            "A+": 0.1694,
+            "Linguistic Abilities": 0.5053,
+            "English": 0.7487,
+            "Hindi": 0.745,
+            "Malayalam": 0.8375,
+            "GSM Based Smart Parking System": 0.1848
+        },
+        "filename": "cv (2359)_annotated.json"
+    }
+}

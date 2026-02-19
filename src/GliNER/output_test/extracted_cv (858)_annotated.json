@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "machine learning",
+        "statistical application",
+        "database management",
+        "Statistical Computing and Data Mining",
+        "Statistical Computing",
+        "SAS",
+        "Methods of Data Analysis",
+        "Excel",
+        "R",
+        "Expert",
+        "Able to code new algoriths and designs",
+        "Python",
+        "Intermediate",
+        "Able to perform statistical operations",
+        "NumPy",
+        "SciPy",
+        "SAS Programming",
+        "Intermediate",
+        "SQL",
+        "Matlab Programming",
+        "basic linear algebra",
+        "Korean (Language)"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Study Abroad Student",
+            "Teaching Assistant for Statistics 606",
+            "Head Teaching Assistant for Statistics 385",
+            "Lab Instructor for Statistics 280",
+            "Research Assistant",
+            "Native Speaker"
+        ],
+        "company": [
+            "Valtech Consulting Korea"
+        ],
+        "university": [
+            "Rice University",
+            "Fudan University",
+            "South China Normal University",
+            "Republic of Korea Army"
+        ],
+        "degree": [
+            "M.Stat Degree Candidate",
+            "Professional Masters Program",
+            "BA Statistics"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "machine learning": 0.4289,
+            "statistical application": 0.1735,
+            "database management": 0.2092,
+            "Statistical Computing and Data Mining": 0.364,
+            "Statistical Computing": 0.2301,
+            "SAS": 0.3524,
+            "Methods of Data Analysis": 0.3924,
+            "Excel": 0.2854,
+            "R": 0.299,
+            "Expert": 0.2675,
+            "Able to code new algoriths and designs": 0.1645,
+            "Python": 0.885,
+            "Intermediate": 0.1857,
+            "Able to perform statistical operations": 0.1741,
+            "NumPy": 0.4132,
+            "SciPy": 0.3974,
+            "SAS Programming": 0.2093,
+            "SQL": 0.3655,
+            "Matlab Programming": 0.236,
+            "basic linear algebra": 0.3997,
+            "Korean (Language)": 0.4356
+        },
+        "filename": "cv (858)_annotated.json"
+    }
+}

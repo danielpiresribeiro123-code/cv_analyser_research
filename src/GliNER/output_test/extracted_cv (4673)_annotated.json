@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "equipment procurement",
+        "logistics",
+        "construction",
+        "well site perforations",
+        "well site logging",
+        "well site flow back",
+        "safety",
+        "electrical"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSTRUCTION CONSULTANT",
+            "project management",
+            "general manger",
+            "national",
+            "corporate trainer",
+            "front, of the house manager",
+            "kitchen manager",
+            "bar manager",
+            "store owner",
+            "operator",
+            "project managers",
+            "vendors",
+            "Prospective Owner Operator"
+        ],
+        "company": [
+            "dynamic organization",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "experience"
+        ],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "equipment procurement": 0.2774,
+            "logistics": 0.2789,
+            "construction": 0.2064,
+            "well site perforations": 0.1947,
+            "well site logging": 0.1807,
+            "well site flow back": 0.1522,
+            "safety": 0.1838,
+            "electrical": 0.1663
+        },
+        "filename": "cv (4673)_annotated.json"
+    }
+}

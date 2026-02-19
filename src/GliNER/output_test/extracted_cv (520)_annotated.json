@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "highly  talented",
+        "professional",
+        "stipulated quality standards",
+        "ERP",
+        "construction Methodology",
+        "IMS"
+    ],
+    "professional_info": {
+        "person name": [
+            "D  e  si  g  n      a  t  i      on"
+        ],
+        "job title": [
+            "Civil Engineer",
+            "professional",
+            "QA/QC Engineer",
+            "Project director",
+            "Planning / Execution department"
+        ],
+        "company": [
+            "VR MODERN PROMOTERS"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Chennai"
+        ],
+        "email": [
+            "E-Mail",
+            "sbalaji530@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9551990086"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "highly  talented": 0.193,
+            "professional": 0.1894,
+            "stipulated quality standards": 0.3978,
+            "ERP": 0.329,
+            "construction Methodology": 0.8158,
+            "IMS": 0.2486
+        },
+        "filename": "cv (520)_annotated.json"
+    }
+}

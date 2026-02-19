@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "Electrical Engineering",
+        "microprocessor applications",
+        "artificial intelligence",
+        "fiber optics",
+        "quality control",
+        "GPA",
+        "Analog Electronic"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dr. Emanuel Fields",
+            "Dr. Fields",
+            "Professor Sam Singleton",
+            "John SmithJ"
+        ],
+        "job title": [
+            "Personnel Director"
+        ],
+        "company": [
+            "McDuff Inc.",
+            "McDuff",
+            "Jones Energy & Automation, Inc."
+        ],
+        "university": [
+            "CSULB",
+            "California State University, Long Beach"
+        ],
+        "degree": [
+            "Bachelor of Science"
+        ],
+        "years of experience": [],
+        "address": [
+            "4875 Inglewood Avenue",
+            "2520 Cimarron St."
+        ],
+        "email": [
+            "Email",
+            "JSmith@ucla.edu",
+            "email address"
+        ],
+        "phone": [
+            "Cell",
+            "(310) 316-0932",
+            "telephone number"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Electrical Engineering": 0.6286,
+            "microprocessor applications": 0.5843,
+            "artificial intelligence": 0.589,
+            "fiber optics": 0.6943,
+            "quality control": 0.2517,
+            "GPA": 0.2154,
+            "Analog Electronic": 0.322
+        },
+        "filename": "cv (1200)_annotated.json"
+    }
+}

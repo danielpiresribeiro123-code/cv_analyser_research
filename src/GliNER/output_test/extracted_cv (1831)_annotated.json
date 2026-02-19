@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "theoretical  knowledge",
+        "TECHNICAL  EDUCATION",
+        "DIPLOMA IN",
+        "DIPLOMA 2017ABBNOOR",
+        "Gender",
+        "Male",
+        "Status",
+        "UnMarried"
+    ],
+    "professional_info": {
+        "person name": [
+            "MD ADIL HUSSAIN",
+            "MD IRFAN ALAM"
+        ],
+        "job title": [
+            "ELECTRICAL",
+            "ENGINEERIN",
+            "EXPERINCE",
+            "FRESHER"
+        ],
+        "company": [
+            "VILL+POST- SARBAHDA",
+            "INSTITUTE BOARDPERCENTAGE",
+            "ITI2014SHIDDARTH Bihar Board",
+            "POLTECHNIC PSBTE",
+            "BCFSL LTD",
+            "VILL+POST – SARBAHDA"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "BAGHPAT",
+            "New Delhi- 110084",
+            "Permanent Address",
+            "PS- KHIZARSARAI",
+            "PIN- 824239"
+        ],
+        "email": [
+            "Email",
+            "irfanadil1996@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "theoretical  knowledge": 0.2166,
+            "TECHNICAL  EDUCATION": 0.1783,
+            "DIPLOMA IN": 0.6644,
+            "DIPLOMA 2017ABBNOOR": 0.8433,
+            "Gender": 0.2708,
+            "Male": 0.325,
+            "Status": 0.2178,
+            "UnMarried": 0.3013
+        },
+        "filename": "cv (1831)_annotated.json"
+    }
+}

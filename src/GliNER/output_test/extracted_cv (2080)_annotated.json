@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "C.G.P.A",
+        "BATTERY LEVEL INDICATOR",
+        "ELECTRONIC VOTING MACHINE",
+        "Control system",
+        "quick learner",
+        "strong grasping approach",
+        "Adaptable and Flexible",
+        "self-motivated person",
+        "Embedded system 8051",
+        "C++",
+        "Basic knowledge",
+        "Microsoft word",
+        "excel",
+        "PowerPoint",
+        "Playing badminton"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHIV KUMAR GUPTA"
+        ],
+        "job title": [],
+        "company": [
+            "BE-EC",
+            "Examination School/College Board",
+            "R.G.P.V",
+            "R.K.V.V",
+            "INDEYES INFOTECH BHOPAL"
+        ],
+        "university": [
+            "ACADEMICS",
+            "TIT college",
+            "Bijuri C.B.S.E.",
+            "St.  joseph  mission  school",
+            "BijuriC.B.S.E."
+        ],
+        "degree": [
+            "Bachelor of",
+            "Engineering",
+            "B.E."
+        ],
+        "years of experience": [],
+        "address": [
+            "F 212 lado sarai",
+            "Delhi"
+        ],
+        "email": [
+            "Email id",
+            "gupta.shiv98@gmail.com"
+        ],
+        "phone": [
+            "Pin code 110030",
+            "Mobile no. 7835991534"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "C.G.P.A": 0.2481,
+            "BATTERY LEVEL INDICATOR": 0.2168,
+            "ELECTRONIC VOTING MACHINE": 0.3534,
+            "Control system": 0.3771,
+            "quick learner": 0.3214,
+            "strong grasping approach": 0.216,
+            "Adaptable and Flexible": 0.3113,
+            "self-motivated person": 0.2116,
+            "Embedded system 8051": 0.1885,
+            "C++": 0.2207,
+            "Basic knowledge": 0.2401,
+            "Microsoft word": 0.585,
+            "excel": 0.4074,
+            "PowerPoint": 0.3895,
+            "Playing badminton": 0.203
+        },
+        "filename": "cv (2080)_annotated.json"
+    }
+}

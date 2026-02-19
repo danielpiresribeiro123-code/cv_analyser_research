@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "creative",
+        "Data  Entry",
+        "data Entry",
+        "Tally financial Accounting Program",
+        "Tally ERP 9",
+        "STRENGTH",
+        "Positive Attitude",
+        "Hard working & confident person",
+        "Unmarried",
+        "Hindi",
+        "English",
+        "Urdu"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHD SHADAB",
+            "Mr. Mohd Sayeed",
+            "Male",
+            "Indian"
+        ],
+        "job title": [
+            "Designation",
+            "Credit Reviewer (Operation)"
+        ],
+        "company": [
+            "PAMAC Finserve Private Ltd",
+            "HDFC Commercial Transport Group",
+            "HDFC BANK"
+        ],
+        "university": [
+            "MAHAVIDYALYAKANPUR",
+            "UNIVERSITY 2018",
+            "COLLEGE U.P BOARD 2014",
+            "COLLEGE I.C.S.E BOARD 2011"
+        ],
+        "degree": [
+            "PASSING",
+            "B.COMMAHAVEER PRASAD",
+            "S.S.CMODERN STANDARD INETR"
+        ],
+        "years of experience": [
+            "WORK EXPERIENCE"
+        ],
+        "address": [
+            "59/71-B",
+            "Pakariya Wali Gali",
+            "Hussianganj"
+        ],
+        "email": [
+            "E-mail",
+            "khan.shadab954@gmail.com",
+            "UNIVERSITYYEAR OF"
+        ],
+        "phone": [
+            "Mobile",
+            "+91- 9621439175"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "creative": 0.2759,
+            "Data  Entry": 0.2912,
+            "data Entry": 0.2088,
+            "Tally financial Accounting Program": 0.3484,
+            "Tally ERP 9": 0.421,
+            "STRENGTH": 0.3818,
+            "Positive Attitude": 0.434,
+            "Hard working & confident person": 0.3888,
+            "Unmarried": 0.2679,
+            "Hindi": 0.774,
+            "English": 0.7289,
+            "Urdu": 0.7319
+        },
+        "filename": "cv (1167)_annotated.json"
+    }
+}

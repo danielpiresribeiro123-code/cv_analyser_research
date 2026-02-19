@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "Dedicated and focused",
+        "Mastery",
+        "Microsoft Office",
+        "Word",
+        "Excel",
+        "Meticulous attention to detail",
+        "Windows",
+        "Mac OSX",
+        "Business writing",
+        "Strong interpersonal skills",
+        "Understands grammar",
+        "Proofreading",
+        "Billing and coding",
+        "Proficiency",
+        "Tessitura",
+        "Cision",
+        "Gorkana",
+        "Constant Contact",
+        "software",
+        "Self-directed",
+        "Professional and mature",
+        "Resourceful",
+        "Meeting planning",
+        "Report writing",
+        "Schedule management",
+        "Experience",
+        "crisis management",
+        "Proofreading"
+    ],
+    "professional_info": {
+        "person name": [
+            "Marcia Horowitz",
+            "Howard and Steven Rubenstein"
+        ],
+        "job title": [
+            "DIRECTOR OF PUBLIC RELATIONS / ASSOCIATE ARTIST",
+            "Creative administrator",
+            "public relations coordinator",
+            "Account Coordinator / Executive Assistant",
+            "Senior Executive Vice President",
+            "Receptionist / Administrative Assistant"
+        ],
+        "company": [
+            "Company Name",
+            "company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Outlook",
+            "email"
+        ],
+        "phone": [
+            "phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "Dedicated and focused": 0.4654,
+            "Mastery": 0.2155,
+            "Microsoft Office": 0.2125,
+            "Word": 0.2049,
+            "Excel": 0.1961,
+            "Meticulous attention to detail": 0.3816,
+            "Windows": 0.8051,
+            "Mac OSX": 0.6651,
+            "Business writing": 0.3435,
+            "Strong interpersonal skills": 0.7303,
+            "Understands grammar": 0.4115,
+            "Proofreading": 0.1985,
+            "Billing and coding": 0.223,
+            "Proficiency": 0.2775,
+            "Tessitura": 0.3682,
+            "Cision": 0.3066,
+            "Gorkana": 0.3713,
+            "Constant Contact": 0.497,
+            "software": 0.1792,
+            "Self-directed": 0.4584,
+            "Professional and mature": 0.5168,
+            "Resourceful": 0.4716,
+            "Meeting planning": 0.2892,
+            "Report writing": 0.3915,
+            "Schedule management": 0.288,
+            "Experience": 0.2514,
+            "crisis management": 0.1913
+        },
+        "filename": "cv (4621)_annotated.json"
+    }
+}

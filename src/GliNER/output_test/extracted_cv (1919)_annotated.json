@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Instrumentation  & Telecom",
+        "Instrumentation",
+        "Design & Engineering",
+        "Instrument Index",
+        "Panel GA Drawings",
+        "Instrument Hook -Up Drawings",
+        "PSV",
+        "Control Valve",
+        "Automation  & Telecom",
+        "Automation & Telecom"
+    ],
+    "professional_info": {
+        "person name": [
+            "MANISH KUMAR SHARM"
+        ],
+        "job title": [
+            "Dynamic Engineers",
+            "Designation",
+            "Engineer",
+            "Site Engineers"
+        ],
+        "company": [
+            "Dodsal Engg. & Const Pvt.",
+            "Ansaldo -STS",
+            "Honeywell",
+            "Dodsal Engg. & Const Pvt. Ltd",
+            "Dodsal Engg. & Const Pvt . Ltd",
+            "KOC",
+            "Kuwait Petroleum Corporation",
+            "SVP Services",
+            "Railway"
+        ],
+        "university": [],
+        "degree": [
+            "BE"
+        ],
+        "years of experience": [
+            "Total Experience",
+            "5 years  8 months",
+            "2 years 3 months"
+        ],
+        "address": [
+            "Dubai"
+        ],
+        "email": [
+            "E-Mail",
+            "gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9582049123"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Instrumentation  & Telecom": 0.696,
+            "Instrumentation": 0.582,
+            "Design & Engineering": 0.1522,
+            "Instrument Index": 0.1965,
+            "Panel GA Drawings": 0.1743,
+            "Instrument Hook -Up Drawings": 0.1543,
+            "PSV": 0.2098,
+            "Control Valve": 0.1823,
+            "Automation  & Telecom": 0.3771,
+            "Automation & Telecom": 0.4526
+        },
+        "filename": "cv (1919)_annotated.json"
+    }
+}

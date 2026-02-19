@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "Great knowledge of organizational buying behavior",
+        "Exceptionally motivated and eager to succeed",
+        "Profoundly resilient and energetic",
+        "Great positive thinker",
+        "can-do attitude",
+        "Remarkably astute",
+        "diligent",
+        "commercially aware",
+        "Profound ability to take ownership of problems",
+        "In-depth ability",
+        "Excellent communicator",
+        "Strong ability to interpret and understand complex issues",
+        "Uncommon ability to manage own workload",
+        "initiative",
+        "Immense ability to give attention to detail",
+        "Enviable outgoing personality",
+        "Remarkable ability",
+        "Sound organization skills",
+        "English",
+        "Urdu",
+        "VISA STATUS",
+        "market analysis"
+    ],
+    "professional_info": {
+        "person name": [
+            "MUHAMMAD SUMAIR ZUBAIR",
+            "ALKHUWAIR",
+            "MUSCAT",
+            "I"
+        ],
+        "job title": [],
+        "company": [
+            "OMAN",
+            "Organization",
+            "company",
+            "Islam",
+            "Punjabi",
+            "1-Freelancer Trader Forex"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "FLAT NO 21",
+            "BLD NO 4036",
+            "WAY NO 4748"
+        ],
+        "email": [
+            "EMAILL",
+            "GMAIL.COM",
+            "Married",
+            "UAE DRIVING LICENSE"
+        ],
+        "phone": [
+            "MOBILE",
+            "+96892661345"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Great knowledge of organizational buying behavior": 0.2039,
+            "Exceptionally motivated and eager to succeed": 0.3526,
+            "Profoundly resilient and energetic": 0.4675,
+            "Great positive thinker": 0.4681,
+            "can-do attitude": 0.3389,
+            "Remarkably astute": 0.408,
+            "diligent": 0.1673,
+            "commercially aware": 0.3206,
+            "Profound ability to take ownership of problems": 0.2209,
+            "In-depth ability": 0.3856,
+            "Excellent communicator": 0.5656,
+            "Strong ability to interpret and understand complex issues": 0.297,
+            "Uncommon ability to manage own workload": 0.2307,
+            "initiative": 0.1995,
+            "Immense ability to give attention to detail": 0.3392,
+            "Enviable outgoing personality": 0.5687,
+            "Remarkable ability": 0.3148,
+            "Sound organization skills": 0.2511,
+            "English": 0.455,
+            "Urdu": 0.6709,
+            "VISA STATUS": 0.2015,
+            "market analysis": 0.1653
+        },
+        "filename": "cv (1119)_annotated.json"
+    }
+}

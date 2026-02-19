@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Ranawat Joint Reconstruction Fellowship",
+        "Orthopaedics & Arthroplasty",
+        "Department of Arthroplasty",
+        "Clinical Fellowship",
+        "Knee Reconstructive Surgery",
+        "Arthroplasty",
+        "DNB (Ortho) Post Graduate Teaching Course",
+        "Orthopaedics"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dr. Dhiraj K Marothi",
+            "Dr. Dhiraj Marothi",
+            "Dr. C. S. Ranawat",
+            "Dr. Marothi"
+        ],
+        "job title": [
+            "Director",
+            "Senior Consultant",
+            "Associate Professor"
+        ],
+        "company": [],
+        "university": [
+            "University Of Dundee",
+            "The Gujarat Research & Medical Institute (Rajasthan Hospitals)",
+            "Asian Bariatrics"
+        ],
+        "degree": [
+            "MBBS",
+            "D.Orth",
+            "M.S. Orth",
+            "M.Ch Orth",
+            "M.Ch. Orth",
+            "MD",
+            "M.Ch (Orth)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-mail",
+            "dhirajmarothi@gmail.com"
+        ],
+        "phone": [
+            "+91-9408142999"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Ranawat Joint Reconstruction Fellowship": 0.4842,
+            "Orthopaedics & Arthroplasty": 0.626,
+            "Department of Arthroplasty": 0.462,
+            "Clinical Fellowship": 0.5728,
+            "Knee Reconstructive Surgery": 0.3942,
+            "Arthroplasty": 0.1653,
+            "DNB (Ortho) Post Graduate Teaching Course": 0.4326,
+            "Orthopaedics": 0.2426
+        },
+        "filename": "cv (937)_annotated.json"
+    }
+}

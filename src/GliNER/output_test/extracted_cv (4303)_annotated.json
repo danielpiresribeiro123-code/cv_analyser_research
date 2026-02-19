@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "Psychology",
+        "teaching certification",
+        "employee retention",
+        "skilled",
+        "Talented",
+        "effective",
+        "loyalty",
+        "contract negotiation",
+        "account management",
+        "Driven",
+        "personnel and payroll management",
+        "multi-tasking",
+        "Builds loyalty and long-term relationships with customers",
+        "website",
+        "embedded database",
+        "FTP functionality"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Sales Manager",
+            "Business development executive",
+            "sales professional"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "8 years"
+        ],
+        "address": [
+            "8620 Spectrum Center Blvd.",
+            "San Diego",
+            "92123"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Psychology": 0.1529,
+            "teaching certification": 0.6967,
+            "employee retention": 0.1637,
+            "skilled": 0.2961,
+            "Talented": 0.4631,
+            "effective": 0.1753,
+            "loyalty": 0.1723,
+            "contract negotiation": 0.2159,
+            "account management": 0.2053,
+            "Driven": 0.3594,
+            "personnel and payroll management": 0.1515,
+            "multi-tasking": 0.2163,
+            "Builds loyalty and long-term relationships with customers": 0.1904,
+            "website": 0.2738,
+            "embedded database": 0.7366,
+            "FTP functionality": 0.4872
+        },
+        "filename": "cv (4303)_annotated.json"
+    }
+}

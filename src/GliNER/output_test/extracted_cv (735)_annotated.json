@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "Skills",
+        "Qualifications",
+        "C",
+        "C++",
+        ".Net",
+        "Fee Management System",
+        "EXPERTISE QUALITIES",
+        "Adaptable in nature",
+        "Good leadership",
+        "Flexibility",
+        "C++ Certificate",
+        "Certificate",
+        "Web Design",
+        "Positive Attitude",
+        "Adaptive nature",
+        "Book reading",
+        "Dancing",
+        "Internet"
+    ],
+    "professional_info": {
+        "person name": [
+            "Shalabh Rao",
+            "shalabh.rao",
+            "Mr. Prakashchandra Rao"
+        ],
+        "job title": [
+            "professional",
+            "Web Designing Teacher",
+            "Computer Lab Assistant"
+        ],
+        "company": [
+            "Infocentroid Software Solutions Pvt. Ltd."
+        ],
+        "university": [
+            "Shree Sai Institute of Technology",
+            "Govt School of Excellence Ratlam (M.P)",
+            "Colors Animation Academy & E-media College",
+            "Tech ‘N’ Fact Institute",
+            "SSIT College",
+            "CEDMAP IT ACADEMY Ratlam",
+            "Colors Animation Academy & E-media College Ratlam"
+        ],
+        "degree": [
+            "Bachelor of Commuter Application"
+        ],
+        "years of experience": [
+            "EXPERIENCE",
+            "1 Year 6 Months"
+        ],
+        "address": [
+            "F/41 Deendayal Nagar"
+        ],
+        "email": [
+            "Email",
+            "hotmail.com"
+        ],
+        "phone": [
+            "Mob",
+            "+91 9907224593"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Skills": 0.2664,
+            "Qualifications": 0.2282,
+            "C": 0.2502,
+            "C++": 0.7665,
+            ".Net": 0.7643,
+            "Fee Management System": 0.2987,
+            "EXPERTISE QUALITIES": 0.3133,
+            "Adaptable in nature": 0.2925,
+            "Good leadership": 0.3932,
+            "Flexibility": 0.2938,
+            "C++ Certificate": 0.4684,
+            "Certificate": 0.2242,
+            "Web Design": 0.3807,
+            "Positive Attitude": 0.4058,
+            "Adaptive nature": 0.3421,
+            "Book reading": 0.1593,
+            "Dancing": 0.1988,
+            "Internet": 0.2649
+        },
+        "filename": "cv (735)_annotated.json"
+    }
+}

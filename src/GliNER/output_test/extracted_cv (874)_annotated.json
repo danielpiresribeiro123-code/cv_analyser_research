@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "Maxim O Magazine",
+        "RevLon",
+        "Mission of Justice",
+        "Paydirt By the Sword"
+    ],
+    "professional_info": {
+        "person name": [
+            "Matthew Englebert",
+            "America Ferrera",
+            "Beatrice Rosen",
+            "Brooklyn Decker",
+            "Chelsea Handler",
+            "Christina Aguilera",
+            "Emmy Rossum",
+            "Fergie",
+            "Gary Busey",
+            "Ghostface Killah",
+            "Hilary Duff",
+            "Holly Hunter",
+            "Kelly Preston",
+            "Lacey Chabert Lanisha Cole",
+            "Mark Calaway",
+            "Michael Chiklis",
+            "Michael Madsen",
+            "Oprah Winfrey",
+            "Rose McGowan",
+            "Seth Rogen",
+            "Shanna Moakler",
+            "Sheryl Crow",
+            "Snoop Dogg",
+            "Yun-Fat Chow"
+        ],
+        "job title": [
+            "Production Designer",
+            "ProduceR",
+            "Construction Coordinator",
+            "Cherry",
+            "Mistress",
+            "Prop Maker/Fabricator",
+            "Midnight Caller",
+            "ART DIRECTOR/FABRICATOR",
+            "Creative Engineering",
+            "SPECIAL SKILLS",
+            "Finished carpenter",
+            "mig and tig welder"
+        ],
+        "company": [
+            "Red Hot Chili Peppers",
+            "Access Direct",
+            "Vanity Fair",
+            "Vogue WWF Magazine",
+            "America’s Next",
+            "AnneCole Swimwear",
+            "HBO",
+            "JB Gold Ice tea",
+            "Kohl’s M & M’s",
+            "Neiman Marcus",
+            "Sun Pac ClothinG Vanity Fair",
+            "Americas Next",
+            "Mavi Jeans",
+            "Nordic Track Oreck Vacuum Cleaners",
+            "Mission of Justice",
+            "SET SHOP",
+            "NYX"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Maxim O Magazine": 0.1738,
+            "RevLon": 0.2733,
+            "Mission of Justice": 0.364,
+            "Paydirt By the Sword": 0.4039
+        },
+        "filename": "cv (874)_annotated.json"
+    }
+}

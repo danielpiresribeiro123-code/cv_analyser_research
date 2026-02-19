@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "Conjoint",
+        "Famille adoptive",
+        "certificat fiscal de déduct ion",
+        "M",
+        "B",
+        "P",
+        "D",
+        "divorcé",
+        "V",
+        "Nom de l’œuvre ou Pupille"
+    ],
+    "professional_info": {
+        "person name": [
+            "Nom       RÉ-ADHÉSION",
+            "Prénom",
+            "nom",
+            "C",
+            "célibataire sans enfant",
+            "Adopté"
+        ],
+        "job title": [],
+        "company": [
+            "UDAF / EFA69",
+            "EFA69",
+            "UDAF  / EFA69"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "12 bis rue Jean-Marie Chavant 69007  LYON",
+            "Adresse",
+            "Adresse Électronique",
+            "12 bis rue Jean-Marie Chavant 69007 LYON"
+        ],
+        "email": [
+            "www.efa69.fr",
+            "efa69@efa69.fr"
+        ],
+        "phone": [
+            "Téléphone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Conjoint": 0.157,
+            "Famille adoptive": 0.1557,
+            "certificat fiscal de déduct ion": 0.6891,
+            "M": 0.2279,
+            "B": 0.3669,
+            "P": 0.1718,
+            "D": 0.3503,
+            "divorcé": 0.2329,
+            "V": 0.2253,
+            "Nom de l’œuvre ou Pupille": 0.1762
+        },
+        "filename": "cv (651)_annotated.json"
+    }
+}

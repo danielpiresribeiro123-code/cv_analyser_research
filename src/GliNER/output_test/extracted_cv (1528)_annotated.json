@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Accounts & Admin",
+        "ACADEMIA",
+        "PG Diploma in Financial Management",
+        "TECHNICAL SKILLS",
+        "MS Word / Excel",
+        "Tally ERP 9",
+        "TAMIL",
+        "ENGLISH",
+        "HINDI"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sudha Sridharan"
+        ],
+        "job title": [
+            "Finance Executive",
+            "Accounts Executive",
+            "Accounts/Admin Asst",
+            "Bachelor of Commerce",
+            "Accounts Admin Asst"
+        ],
+        "company": [
+            "Viswire Simulation and Training Pvt Ltd",
+            "Redoctane Technologies Pvt Ltd",
+            "Activision Blizzard",
+            "Shriram Investments Ltd",
+            "Redoctane Technologies      Pvt Ltd"
+        ],
+        "university": [
+            "Annamalai University",
+            "M.S.University"
+        ],
+        "degree": [
+            "Bachelor of Commerce"
+        ],
+        "years of experience": [],
+        "address": [
+            "Selvaraj Nagar",
+            "Urappakkam West"
+        ],
+        "email": [
+            "E-Mail",
+            "ssudha.sridharan  @gmail.com",
+            "Email",
+            "Idssudha.sridharan@gmail.com"
+        ],
+        "phone": [
+            "Mob",
+            "+91 9941610152",
+            "Mobile",
+            "99416 10152"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Accounts & Admin": 0.2988,
+            "ACADEMIA": 0.2412,
+            "PG Diploma in Financial Management": 0.7281,
+            "TECHNICAL SKILLS": 0.1687,
+            "MS Word / Excel": 0.384,
+            "Tally ERP 9": 0.3835,
+            "TAMIL": 0.3115,
+            "ENGLISH": 0.6046,
+            "HINDI": 0.4842
+        },
+        "filename": "cv (1528)_annotated.json"
+    }
+}

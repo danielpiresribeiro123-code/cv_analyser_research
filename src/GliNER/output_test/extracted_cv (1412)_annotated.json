@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "MALE",
+        "SINGLE",
+        "presentable",
+        "resolute",
+        "socia l gentleman",
+        "reliable",
+        "self -",
+        "motivated",
+        "resourceful",
+        "skills",
+        "fulfillment",
+        "VISION",
+        "Diploma in Community Health Nursing",
+        "Certificate in Computer Studies",
+        "knowledge",
+        "skills",
+        "AVAILABILITY",
+        "HOBBIES",
+        "Socializing"
+    ],
+    "professional_info": {
+        "person name": [
+            "OKINDA ANDELE IAN",
+            "GENDER",
+            "Mr. DAVID YATOR",
+            "Mrs. MARGARET CHETA LAM"
+        ],
+        "job title": [
+            "entry level position",
+            "Former principal",
+            "HOD NURSING DEPARTMENT - ELDORET"
+        ],
+        "company": [
+            "WEBUYE",
+            "KENYA MEDICAL TRAINING COLLEGE",
+            "WEBUYE PROBATION TRAINING CENTRE",
+            "KIMILILI BOYS HIGH SCHOOL",
+            "TONNY MEMORIAL PRIMARY SCHOOL",
+            "KMTC –Eldoret"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "CHRISTIAN",
+            "ADRESS",
+            "1525"
+        ],
+        "email": [
+            "EMAIL",
+            "okindaian @gmail.com"
+        ],
+        "phone": [
+            "0713173139",
+            "Mobile no : 0725625072",
+            "TEL",
+            "0722379634"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "MALE": 0.2237,
+            "SINGLE": 0.4739,
+            "presentable": 0.4317,
+            "resolute": 0.4638,
+            "socia l gentleman": 0.3292,
+            "reliable": 0.3841,
+            "self -": 0.2299,
+            "motivated": 0.5337,
+            "resourceful": 0.5858,
+            "skills": 0.311,
+            "fulfillment": 0.207,
+            "VISION": 0.1871,
+            "Diploma in Community Health Nursing": 0.6258,
+            "Certificate in Computer Studies": 0.8645,
+            "knowledge": 0.2491,
+            "AVAILABILITY": 0.4697,
+            "HOBBIES": 0.1773,
+            "Socializing": 0.2388
+        },
+        "filename": "cv (1412)_annotated.json"
+    }
+}

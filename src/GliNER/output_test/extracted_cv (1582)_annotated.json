@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "Graduation",
+        "Basic Knowledge of Computer",
+        "Good Knowledge of Excel",
+        "English",
+        "PERSONAL DETAILS",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAHUL SINGH",
+            "RATHORE",
+            "Rajender singh",
+            "Male"
+        ],
+        "job title": [
+            "CAREER OBJECTIVE",
+            "challenging job",
+            "Tally caller"
+        ],
+        "company": [
+            "reputed company",
+            "CBSE Board",
+            "Global Wealth & Business Solution",
+            "JUBILANT FOOD WORKS",
+            "Domino’s  Pizza"
+        ],
+        "university": [
+            "Delhi University",
+            "Indian"
+        ],
+        "degree": [
+            "B.Com 3nd year"
+        ],
+        "years of experience": [
+            "EXPERIENCE",
+            "6 Month experience",
+            "One and half years experience",
+            "Unmarried"
+        ],
+        "address": [
+            "H. NO -364",
+            "ST. NO-6",
+            "MOONGA NAGAR",
+            "KARAWAL NAGAR ROAD",
+            "Mob No. 9211429533",
+            "DELHI 110094"
+        ],
+        "email": [
+            "Email",
+            "rahulrathore016@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Graduation": 0.2515,
+            "Basic Knowledge of Computer": 0.1888,
+            "Good Knowledge of Excel": 0.1708,
+            "English": 0.8538,
+            "PERSONAL DETAILS": 0.1904,
+            "Hindi": 0.8546
+        },
+        "filename": "cv (1582)_annotated.json"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "skills": [],
+    "professional_info": {
+        "person name": [
+            "SAIPEM ENI"
+        ],
+        "job title": [
+            "HSE   ENGINEER",
+            "HSE ENGINEER",
+            "HSE SUPERVISOR",
+            "HSE/SAFETY ENGINEER",
+            "SAFETY SUPERVISOR"
+        ],
+        "company": [
+            "progressive company",
+            "HYUNDAI SAMSUNG JOINT VENTURE",
+            "SAUDI OGER LTD"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "10 Years+"
+        ],
+        "address": [
+            "ABU DHABI",
+            "D-100",
+            "Shaheen Bagh",
+            "Okhla",
+            "New Delhi-110025",
+            "MADINAH"
+        ],
+        "email": [
+            "E mail",
+            "asadhse@yahoo.com",
+            "asadhse00@gmail.com"
+        ],
+        "phone": [
+            "Mob",
+            "+ 919873686259",
+            "+91 9560363893"
+        ]
+    },
+    "metadata": {
+        "total_skills": 0,
+        "confidence_scores": {},
+        "filename": "cv (1720)_annotated.json"
+    }
+}

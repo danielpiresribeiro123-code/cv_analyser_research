@@ -1,0 +1,108 @@
+{
+    "skills": [
+        "MBAAus",
+        "FCA SL",
+        "CMASL",
+        "CA Fiji",
+        "FIPFMUK",
+        "Institute of Chartered Accountants of Sri Lanka",
+        "ICASL",
+        "CA Sri Lanka",
+        "Institute of Certified Management Accountants of Sri Lanka",
+        "Institute of Professional Finance Managers ( UK)",
+        "Accounting",
+        "Auditing",
+        "Budgeting",
+        "Treasury Management",
+        "corporate planning",
+        "general management",
+        "Finance",
+        "Leasing",
+        "Hospitality",
+        "Fund  Management",
+        "Banking",
+        "Automobile",
+        "transportation",
+        "Manufacturing",
+        "real estate",
+        "Quick learner",
+        "Special Skills",
+        "Company Taxation",
+        "English",
+        "Hindi",
+        "Firm Designation"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sanjeewa Batuwita Walage"
+        ],
+        "job title": [
+            "Finance Manager"
+        ],
+        "company": [
+            "ACMA",
+            "Fiji Institute of Accountants (FIA)",
+            "Kunooz Logistic Global LLC"
+        ],
+        "university": [
+            "University of Southern Queensland"
+        ],
+        "degree": [
+            "MBA"
+        ],
+        "years of experience": [
+            "20  years’  experience",
+            "spoken"
+        ],
+        "address": [
+            "No 12C 1",
+            "Center Road",
+            "GunawardanaramaRoad"
+        ],
+        "email": [
+            "E-Mail",
+            "gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+96897901054"
+        ]
+    },
+    "metadata": {
+        "total_skills": 31,
+        "confidence_scores": {
+            "MBAAus": 0.3775,
+            "FCA SL": 0.1811,
+            "CMASL": 0.359,
+            "CA Fiji": 0.2805,
+            "FIPFMUK": 0.4257,
+            "Institute of Chartered Accountants of Sri Lanka": 0.4505,
+            "ICASL": 0.2451,
+            "CA Sri Lanka": 0.3331,
+            "Institute of Certified Management Accountants of Sri Lanka": 0.5691,
+            "Institute of Professional Finance Managers ( UK)": 0.3149,
+            "Accounting": 0.6423,
+            "Auditing": 0.5923,
+            "Budgeting": 0.58,
+            "Treasury Management": 0.6018,
+            "corporate planning": 0.5118,
+            "general management": 0.3613,
+            "Finance": 0.4726,
+            "Leasing": 0.4925,
+            "Hospitality": 0.5068,
+            "Fund  Management": 0.519,
+            "Banking": 0.4717,
+            "Automobile": 0.4434,
+            "transportation": 0.4039,
+            "Manufacturing": 0.5244,
+            "real estate": 0.2769,
+            "Quick learner": 0.1782,
+            "Special Skills": 0.2227,
+            "Company Taxation": 0.3009,
+            "English": 0.4723,
+            "Hindi": 0.3647,
+            "Firm Designation": 0.157
+        },
+        "filename": "cv (1336)_annotated.json"
+    }
+}

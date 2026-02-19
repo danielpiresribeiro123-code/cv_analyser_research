@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "team",
+        "professional skills",
+        "Retail Banking",
+        "customer needs analysis",
+        "Advance",
+        "Premier",
+        "Insurance",
+        "Loans",
+        "Mortgage",
+        "Core Banking",
+        "Credit Cards",
+        "Generates customer loyalty",
+        "knowledge",
+        "group compliance",
+        "Operation Risk",
+        "Wealth Management",
+        "FATCA",
+        "Taking appointments"
+    ],
+    "professional_info": {
+        "person name": [
+            "RUSTOM FAIZ MUHAMMAD AL- RAIISI"
+        ],
+        "job title": [
+            "Job Designation",
+            "Sales and Service Associate",
+            "Job Profile",
+            "Service Advisor"
+        ],
+        "company": [
+            "progressive organization",
+            "HSBC-Oman",
+            "Zubair Automobiles"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Ruwi"
+        ],
+        "email": [
+            "E-mail",
+            "alraisirustom@ gmail.com"
+        ],
+        "phone": [
+            "+968-96055460-99091517"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "team": 0.2027,
+            "professional skills": 0.2557,
+            "Retail Banking": 0.264,
+            "customer needs analysis": 0.1511,
+            "Advance": 0.2115,
+            "Premier": 0.1649,
+            "Insurance": 0.1862,
+            "Loans": 0.2633,
+            "Mortgage": 0.3155,
+            "Core Banking": 0.3623,
+            "Credit Cards": 0.4809,
+            "Generates customer loyalty": 0.1669,
+            "knowledge": 0.1753,
+            "group compliance": 0.345,
+            "Operation Risk": 0.5195,
+            "Wealth Management": 0.5299,
+            "FATCA": 0.3935,
+            "Taking appointments": 0.1597
+        },
+        "filename": "cv (1115)_annotated.json"
+    }
+}

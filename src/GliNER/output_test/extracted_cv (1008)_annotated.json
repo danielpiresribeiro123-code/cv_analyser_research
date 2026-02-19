@@ -1,0 +1,95 @@
+{
+    "skills": [
+        "MBA (Hosp.Mgmt.)",
+        "Executive  MBA (Finance)",
+        "surgery",
+        "Surgical Skills",
+        "Legal Knowledge",
+        "vision",
+        "Hospital Management",
+        "Strong Motivator",
+        "Creative Thinker",
+        "Dedicated to surpassing expectations",
+        "General Surgery",
+        "MBA Hospital Management",
+        "Executive  MBA Finance"
+    ],
+    "professional_info": {
+        "person name": [
+            "DR.SANTOSH KAKADE",
+            "drsantoshkakade",
+            "MD"
+        ],
+        "job title": [
+            "FCLM ACHE  member",
+            "International Fellow",
+            "Chief  Executive Officer",
+            "Medico legal Consultant",
+            "Top Management",
+            "CEO",
+            "Medical Director"
+        ],
+        "company": [
+            "RST Regional Cancer Hospital",
+            "Ruby Hall Clinic",
+            "Vivekanand Hospital"
+        ],
+        "university": [
+            "Ame rican College of Legal Medicine",
+            "Core India Institute of Legal Medicine",
+            "BGS Global Hospital",
+            "Aditya Birla Memoria l Hospital",
+            "Shivaji University",
+            "Pune University",
+            "Symbiosis International University",
+            "Alagappa University"
+        ],
+        "degree": [
+            "MS (Surgery)",
+            "D.Ortho",
+            "FICS",
+            "LL.M.",
+            "PhD in Law",
+            "M.S.",
+            "Diploma in Ort hopedics",
+            "LL.B"
+        ],
+        "years of experience": [
+            "20 years of practical experience"
+        ],
+        "address": [
+            "Flat 2",
+            "Sahitya Samrat  Apartment",
+            "Mobile",
+            "Sadashiv Peth",
+            "09422071490",
+            "Phone"
+        ],
+        "email": [
+            "drsantoshkakade@gmail.com"
+        ],
+        "phone": [
+            "09850671175                                                                                           1495",
+            "020 -24444490"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "MBA (Hosp.Mgmt.)": 0.3545,
+            "Executive  MBA (Finance)": 0.2317,
+            "surgery": 0.176,
+            "Surgical Skills": 0.2654,
+            "Legal Knowledge": 0.2875,
+            "vision": 0.1501,
+            "Hospital Management": 0.3054,
+            "Strong Motivator": 0.2221,
+            "Creative Thinker": 0.3233,
+            "Dedicated to surpassing expectations": 0.2645,
+            "General Surgery": 0.5086,
+            "MBA Hospital Management": 0.3275,
+            "Executive  MBA Finance": 0.3373
+        },
+        "filename": "cv (1008)_annotated.json"
+    }
+}

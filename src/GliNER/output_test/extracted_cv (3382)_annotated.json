@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "HSE Management",
+        "PTW System",
+        "NEBOSH - IGC - International General Certificate",
+        "IOSH -Managing Safely",
+        "P.G Diploma",
+        "Fire & Industrial Safety Management",
+        "Certificate program in -Construction Safety from Global Safety  studies",
+        "Certificate program in -Industrial Safety from Global Safety  studies",
+        "OSHAS 18001",
+        "ISO 9001"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Safety  Officer",
+            "HSE Engineer",
+            "HSE Coordinator",
+            "HSE Professional"
+        ],
+        "company": [
+            "Oil&Gas",
+            "Petrochemical Plant",
+            "Infrastructure Construction Projects",
+            "Plant  Mega Projects &  Infrastructure",
+            "Contractor"
+        ],
+        "university": [
+            "PONDICHERRY ENGINEERING COLLEGE",
+            "Alpha Matriculation Hr. Sec. School"
+        ],
+        "degree": [
+            "B. Tech"
+        ],
+        "years of experience": [
+            "6+ years’ experience"
+        ],
+        "address": [
+            "LOGACHANDIRANE R No 10/11",
+            "S2",
+            "Rainbow Apartments",
+            "12th St",
+            "I cross",
+            "Krishna Nagar",
+            "Lawspet"
+        ],
+        "email": [
+            "Email",
+            "chandiraneloga@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "(+91) 9944358648 /8015735753"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "HSE Management": 0.3079,
+            "PTW System": 0.2652,
+            "NEBOSH - IGC - International General Certificate": 0.8098,
+            "IOSH -Managing Safely": 0.5798,
+            "P.G Diploma": 0.4838,
+            "Fire & Industrial Safety Management": 0.3605,
+            "Certificate program in -Construction Safety from Global Safety  studies": 0.252,
+            "Certificate program in -Industrial Safety from Global Safety  studies": 0.3341,
+            "OSHAS 18001": 0.2273,
+            "ISO 9001": 0.5265
+        },
+        "filename": "cv (3382)_annotated.json"
+    }
+}

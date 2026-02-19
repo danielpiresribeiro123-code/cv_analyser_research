@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "Delhi",
+        "Mid Career",
+        "Male",
+        "Sales",
+        "Administration",
+        "Construction",
+        "Construction and Building"
+    ],
+    "professional_info": {
+        "person name": [
+            "Saleem Ahmad"
+        ],
+        "job title": [
+            "SALES/ACCOUNTANT",
+            "Accountant",
+            "Salesman",
+            "Full Time Employee",
+            "Internship",
+            "Contractor",
+            "Part Time Employee",
+            "Architectural Drafting and Visualization",
+            "2D/3D draftsman",
+            "Accountant/Salesman",
+            "Accountant/Saleman",
+            "Medical Representative"
+        ],
+        "company": [
+            "City Sanitary Store",
+            "City Home Construction Group",
+            "Cotton County"
+        ],
+        "university": [],
+        "degree": [
+            "Master's degree",
+            "Laws"
+        ],
+        "years of experience": [
+            "Married",
+            "11 YEARS, 7 MONTHS"
+        ],
+        "address": [
+            "CV46394009"
+        ],
+        "email": [
+            "CONTACT",
+            "Email Address",
+            "saleemahmad007@gmail.com"
+        ],
+        "phone": [
+            "Mobile Phone",
+            "+91.9917655470"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Delhi": 0.1526,
+            "Mid Career": 0.1587,
+            "Male": 0.21,
+            "Sales": 0.5265,
+            "Administration": 0.2836,
+            "Construction": 0.361,
+            "Construction and Building": 0.2817
+        },
+        "filename": "cv (147)_annotated.json"
+    }
+}

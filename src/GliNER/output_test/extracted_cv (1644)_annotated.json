@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "tech-proficient experience",
+        "Core Java",
+        "Unix",
+        "C",
+        "C++",
+        "Sql Server",
+        "Certification",
+        "Amfi Certification",
+        "Brain bench Certification",
+        "Tamil Nadu State level Eligibility Test for Lectureship",
+        "TNSLET",
+        "Windows 95/NT/2000",
+        "Sco Unix",
+        "HTML",
+        "DHTML",
+        "Oracle",
+        "branch operations",
+        "CRM next",
+        "Customer escalations"
+    ],
+    "professional_info": {
+        "person name": [
+            "P.PRIYANTHI"
+        ],
+        "job title": [
+            "industry ready professional",
+            "First Class",
+            "Deputy  Branch Manager",
+            "Assistant  Manager",
+            "Programmer Assistant",
+            "Web Programmer",
+            "PB Authorizer",
+            "cluster Head"
+        ],
+        "company": [
+            "NIIT",
+            "HDFC BANK LTD",
+            "ICICI Bank Ltd",
+            "SkyNet Communications Pvt. Ltd"
+        ],
+        "university": [
+            "Karunya Institute of Technology",
+            "National   Institute of Business Management [NIBM]",
+            "Anna University"
+        ],
+        "degree": [
+            "B.E.  in Electrical and Electronics",
+            "M.B.A –Finance  and customer relationship  Management"
+        ],
+        "years of experience": [],
+        "address": [
+            "East Main Road",
+            "Mob",
+            "9841143218"
+        ],
+        "email": [
+            "Email",
+            "priyanthis2001@rediffmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "tech-proficient experience": 0.1897,
+            "Core Java": 0.8444,
+            "Unix": 0.6605,
+            "C": 0.3767,
+            "C++": 0.8616,
+            "Sql Server": 0.4766,
+            "Certification": 0.1675,
+            "Amfi Certification": 0.9421,
+            "Brain bench Certification": 0.7023,
+            "Tamil Nadu State level Eligibility Test for Lectureship": 0.3055,
+            "TNSLET": 0.2673,
+            "Windows 95/NT/2000": 0.8915,
+            "Sco Unix": 0.8713,
+            "HTML": 0.6526,
+            "DHTML": 0.6045,
+            "Oracle": 0.5396,
+            "branch operations": 0.2078,
+            "CRM next": 0.4446,
+            "Customer escalations": 0.1805
+        },
+        "filename": "cv (1644)_annotated.json"
+    }
+}

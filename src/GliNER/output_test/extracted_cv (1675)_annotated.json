@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "resourceful and innovative",
+        "Store Management",
+        "Inventory Management",
+        "ATL & BTL Activities",
+        "Corporate Sales",
+        "GREEN MARKETING",
+        "First Class"
+    ],
+    "professional_info": {
+        "person name": [
+            "AZHAGESAN G"
+        ],
+        "job title": [
+            "RETAIL SALES EXECUTIVE",
+            "ASSISTANT BRANCH MANAGER OPERATIONS"
+        ],
+        "company": [
+            "LG CONSUMER ELECTRONICS INDIA PVT, LTD",
+            "James &co Madurai",
+            "SRI KRISHNA SWEETS",
+            "KARPAGA VINAYAGA INSTITUTE OF MANAGEMENT"
+        ],
+        "university": [
+            "ANNA UNIVERSITY"
+        ],
+        "degree": [
+            "GraduationMBA (HR & MARKETING)",
+            "GraduationB"
+        ],
+        "years of experience": [],
+        "address": [
+            "682",
+            "28 STREET",
+            "ME11",
+            "MOHAMED BIN"
+        ],
+        "email": [
+            "E-MAIL",
+            "azhagesan449@gmail.com"
+        ],
+        "phone": [
+            "CONTACT",
+            "+971566003398"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "resourceful and innovative": 0.2523,
+            "Store Management": 0.4379,
+            "Inventory Management": 0.4595,
+            "ATL & BTL Activities": 0.1588,
+            "Corporate Sales": 0.2386,
+            "GREEN MARKETING": 0.1647,
+            "First Class": 0.1627
+        },
+        "filename": "cv (1675)_annotated.json"
+    }
+}

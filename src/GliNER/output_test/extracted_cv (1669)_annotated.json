@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "experience",
+        "academic skills",
+        "Electrical and Instrumentation Department",
+        "DCS",
+        "PLC based systems",
+        "Microprocessor & Electromechanical",
+        "Core Competencies",
+        "SAP",
+        "SAP"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAJIN D.V",
+            "sajindhas39"
+        ],
+        "job title": [
+            "Senior Engineer"
+        ],
+        "company": [
+            "SRIKALAHASTHI PIPES LIMITED",
+            "Group of Electro steel Castings Limited"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Tirupati"
+        ],
+        "email": [
+            "E-mail",
+            "sajindhas39@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "Skype"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "experience": 0.261,
+            "academic skills": 0.4296,
+            "Electrical and Instrumentation Department": 0.2404,
+            "DCS": 0.5736,
+            "PLC based systems": 0.6182,
+            "Microprocessor & Electromechanical": 0.258,
+            "Core Competencies": 0.2613,
+            "SAP": 0.372
+        },
+        "filename": "cv (1669)_annotated.json"
+    }
+}

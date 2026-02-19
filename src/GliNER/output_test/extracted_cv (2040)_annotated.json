@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "Committed and dedicated people",
+        "extremely industrious student",
+        "Electronics Engineering",
+        "Quick and diverse learner",
+        "Curious to learn new things",
+        "3 Year Diploma  in Electronics",
+        "Fundamental knowledge of computer programming",
+        "C & C++",
+        "Microsoft Excel",
+        "Outlook Knowledge",
+        "10th",
+        "2nd Division"
+    ],
+    "professional_info": {
+        "person name": [
+            "VRIJENDRA KUMAR"
+        ],
+        "job title": [
+            "key player",
+            "engineer",
+            "T eam leader",
+            "Engineer + Invontry"
+        ],
+        "company": [
+            "CURRICULUM VITAE",
+            "ITI (Electronics Mechanic",
+            "Kaushlya Devi Industrial Training Institute",
+            "NER (North East Railway)",
+            "UP Board",
+            "RV SALUTION PVT. LTD .",
+            "INTARVO TECHNOLOGIES LTD .",
+            "FLEXTRONICES GLOBAL SERVICE",
+            "INTEX  TECHNOLOGIES",
+            "INDIA  LTD.",
+            "I technology Global Ltd."
+        ],
+        "university": [
+            "Govt. Polytechnic"
+        ],
+        "degree": [],
+        "years of experience": [
+            "PROFESSIONAL  EXPERIENCE"
+        ],
+        "address": [
+            "Vill- Sansar pur (futhia)",
+            "Post- Gandhi Nagar Basti",
+            "Khairuddin Pur",
+            "Sector- 80 Noida",
+            "Des Voeux Road Sheung"
+        ],
+        "email": [
+            "E-Mail",
+            "vrijendraraz@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91- 9711241373",
+            "+91- 9555694822"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Committed and dedicated people": 0.4732,
+            "extremely industrious student": 0.1507,
+            "Electronics Engineering": 0.2224,
+            "Quick and diverse learner": 0.4563,
+            "Curious to learn new things": 0.4184,
+            "3 Year Diploma  in Electronics": 0.507,
+            "Fundamental knowledge of computer programming": 0.4157,
+            "C & C++": 0.6284,
+            "Microsoft Excel": 0.4707,
+            "Outlook Knowledge": 0.3791,
+            "10th": 0.2166,
+            "2nd Division": 0.6055
+        },
+        "filename": "cv (2040)_annotated.json"
+    }
+}

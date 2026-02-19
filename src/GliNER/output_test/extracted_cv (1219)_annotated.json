@@ -1,0 +1,100 @@
+{
+    "skills": [
+        "English",
+        "Kiswahili",
+        "Team player",
+        "intrinsically- motivated",
+        "visionary",
+        "result-oriented",
+        "reliable",
+        "honest",
+        "dedicated to hard work",
+        "self-disciplined",
+        "person with integrity of heart",
+        "integrity",
+        "professionalism",
+        "sharp skills",
+        "lifetime satisfaction",
+        "Leadership skills",
+        "Management skills",
+        "Bachelors of Science (Wildlife management)",
+        "Second class upper Division",
+        "Certificate ROHK Computer College",
+        "Kenya Certificate of Secondary Education (KCSE)",
+        "Kenya Certificate of Primary Education (KCPE)",
+        "H.O.D Mathematics and Science"
+    ],
+    "professional_info": {
+        "person name": [
+            "SIMON LUVONGA LUMBASI",
+            "Kenyan"
+        ],
+        "job title": [
+            "Single",
+            "team member",
+            "Sales Executive",
+            "accountant",
+            "In charge of the station in absence of the MD",
+            "Commission 2014 committee member",
+            "project manager",
+            "missions committee chairman",
+            "Theatre team chairman",
+            "Deputy Class, representative"
+        ],
+        "company": [
+            "Kimang’eti Secondary School",
+            "Kimang’eti Primary School",
+            "University",
+            "Christian Union"
+        ],
+        "university": [
+            "University of Nairobi",
+            "Co-operative Bank of Kenya",
+            "Airtel  Networks Kisumu"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "P.O BOX 74",
+            "MALAVA"
+        ],
+        "email": [
+            "Email",
+            "luvongas@gmail.com"
+        ],
+        "phone": [
+            "Tel",
+            "+254 720388982",
+            "0720388982"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "English": 0.5249,
+            "Kiswahili": 0.5737,
+            "Team player": 0.7433,
+            "intrinsically- motivated": 0.6514,
+            "visionary": 0.6846,
+            "result-oriented": 0.545,
+            "reliable": 0.6173,
+            "honest": 0.5964,
+            "dedicated to hard work": 0.5161,
+            "self-disciplined": 0.5637,
+            "person with integrity of heart": 0.4764,
+            "integrity": 0.3302,
+            "professionalism": 0.4799,
+            "sharp skills": 0.3681,
+            "lifetime satisfaction": 0.1617,
+            "Leadership skills": 0.4244,
+            "Management skills": 0.4628,
+            "Bachelors of Science (Wildlife management)": 0.4524,
+            "Second class upper Division": 0.5766,
+            "Certificate ROHK Computer College": 0.397,
+            "Kenya Certificate of Secondary Education (KCSE)": 0.4464,
+            "Kenya Certificate of Primary Education (KCPE)": 0.3897,
+            "H.O.D Mathematics and Science": 0.1509
+        },
+        "filename": "cv (1219)_annotated.json"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "Technology",
+        "Certified in literary fest in quiz",
+        "Certified akhil  bhartiya sanskratiya gyan pariksha",
+        "Software",
+        "Area of Interest",
+        "Keil",
+        "Microprocessor",
+        "microcontroller",
+        "INTERESTS",
+        "Internet Surfing",
+        "STRENGTHS",
+        "Self motivated",
+        "Eage r to learn",
+        "my will power"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHIVAM SHARMA"
+        ],
+        "job title": [],
+        "company": [
+            "ACADAMIC",
+            "QUARDCOPTER",
+            "CENTRAL ELECTRONICS LIMITED",
+            "APPIN technology  lab"
+        ],
+        "university": [
+            "Krishna Institute of Engineering",
+            "CBSE board"
+        ],
+        "degree": [
+            "B. Tech in Electronics & Instrumentation"
+        ],
+        "years of experience": [],
+        "address": [
+            "H.no-N-417A",
+            "Sec-23",
+            "Sanjay Nagar",
+            "Ghaziabad-201001",
+            "Meerut road",
+            "Ghaziabad"
+        ],
+        "email": [
+            "E-mail",
+            "111shivam@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "91- 8826481856"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Technology": 0.194,
+            "Certified in literary fest in quiz": 0.3214,
+            "Certified akhil  bhartiya sanskratiya gyan pariksha": 0.8651,
+            "Software": 0.3124,
+            "Area of Interest": 0.1744,
+            "Keil": 0.5281,
+            "Microprocessor": 0.3317,
+            "microcontroller": 0.4239,
+            "INTERESTS": 0.213,
+            "Internet Surfing": 0.3118,
+            "STRENGTHS": 0.4737,
+            "Self motivated": 0.6823,
+            "Eage r to learn": 0.501,
+            "my will power": 0.6509
+        },
+        "filename": "cv (2148)_annotated.json"
+    }
+}

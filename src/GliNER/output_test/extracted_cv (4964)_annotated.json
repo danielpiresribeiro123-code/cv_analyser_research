@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "WORK EXPERIENCE",
+        "Leadership",
+        "team building",
+        "oriented mentality",
+        "PERSONAL",
+        "DBMS",
+        "RDBMS",
+        "Java",
+        "SAS",
+        "SQL",
+        "Business",
+        "Intelligence",
+        "Learning Algorithm",
+        "Machine Learning",
+        "Python",
+        "PROJECTS"
+    ],
+    "professional_info": {
+        "person name": [
+            "EMMA MARSHALL"
+        ],
+        "job title": [
+            "SOFTWARE ENGINEER",
+            "Cognibot",
+            "Intern",
+            "EXECUTIVE",
+            "professional",
+            "SKILLS",
+            "Developer",
+            "EXTRA-CURRICULARS"
+        ],
+        "company": [
+            "company"
+        ],
+        "university": [
+            "Vellore Institute of Technology",
+            "VIT"
+        ],
+        "degree": [
+            "GRADUATE",
+            "Integrated B.Tech & M.Tech"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "WORK EXPERIENCE": 0.2009,
+            "Leadership": 0.4771,
+            "team building": 0.2478,
+            "oriented mentality": 0.1869,
+            "PERSONAL": 0.4862,
+            "DBMS": 0.8732,
+            "RDBMS": 0.8886,
+            "Java": 0.888,
+            "SAS": 0.4251,
+            "SQL": 0.7011,
+            "Business": 0.4429,
+            "Intelligence": 0.3854,
+            "Learning Algorithm": 0.7874,
+            "Machine Learning": 0.8764,
+            "Python": 0.953,
+            "PROJECTS": 0.1543
+        },
+        "filename": "cv (4964)_annotated.json"
+    }
+}

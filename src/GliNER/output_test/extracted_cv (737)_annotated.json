@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "Mechanical Engineering",
+        "KOTA COURSE/STANDARD PERIOD Board",
+        "XII Standard 2012",
+        "X   Standard 2010",
+        "analytical",
+        "logical",
+        "communication skills",
+        "presentation skill",
+        "Young",
+        "positive attitude",
+        "good team spirit",
+        "hard working nature",
+        "curiousity to learn new things",
+        "Autocad",
+        "Hindi",
+        "English",
+        "Rajasthani"
+    ],
+    "professional_info": {
+        "person name": [
+            "KRISHAN KUMAR SAINI",
+            "Mr. Rajesh kumar saini",
+            "Mrs. Rajkumari devi",
+            "krishan kumar"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "Maharishi Arvind Institute Of Engineering And Technology",
+            "Rajasthan Technical University",
+            "B.Tech 2012-2016 R.T.U",
+            "RBSE Rajasthan",
+            "IIT Bhubaneswar"
+        ],
+        "degree": [
+            "B.Tech."
+        ],
+        "years of experience": [],
+        "address": [
+            "Jaipur"
+        ],
+        "email": [
+            "krishankumar007k@gmail.com"
+        ],
+        "phone": [
+            "+91-9887626828"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Mechanical Engineering": 0.2219,
+            "KOTA COURSE/STANDARD PERIOD Board": 0.1822,
+            "XII Standard 2012": 0.7187,
+            "X   Standard 2010": 0.65,
+            "analytical": 0.2944,
+            "logical": 0.3777,
+            "communication skills": 0.2567,
+            "presentation skill": 0.5661,
+            "Young": 0.4963,
+            "positive attitude": 0.6396,
+            "good team spirit": 0.7038,
+            "hard working nature": 0.7173,
+            "curiousity to learn new things": 0.3416,
+            "Autocad": 0.3036,
+            "Hindi": 0.7754,
+            "English": 0.6911,
+            "Rajasthani": 0.5886
+        },
+        "filename": "cv (737)_annotated.json"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "skills": [
+        "BeautyHQ",
+        "Crash",
+        "Fashion Quarterly",
+        "Modern Weekly Int’l No",
+        "Pulp",
+        "Remix Sense & Style",
+        "U+ Weekly",
+        "YEN",
+        "Goodnight Nurse"
+    ],
+    "professional_info": {
+        "person name": [
+            "Amber Dreadon",
+            "Anika Moa",
+            "Beau Garrett",
+            "Boh Runga",
+            "Brooke Fraser",
+            "Lorde",
+            "Emily Barclay",
+            "Eve",
+            "Hayley Williams",
+            "Hollie Smith",
+            "Jaquie Brown",
+            "Jim Sturgess",
+            "Kanye West",
+            "Karen Walker",
+            "Karine Vanesse",
+            "Kate Nash",
+            "Katie White",
+            "Kimbra",
+            "Ladyhawke",
+            "Madeline Sami",
+            "Regina Spektor",
+            "Rita Ora",
+            "Ruby Frost",
+            "Samantha Hayes",
+            "Steven Tyler",
+            "Black Cleo",
+            "Giselle",
+            "Karen",
+            "Missy Elliot",
+            "Byron Spencer",
+            "Carlotta Moye",
+            "Charles Howells",
+            "Craig Owen",
+            "Derek Henderson",
+            "Garth Badger",
+            "Georges Antoni",
+            "Guy Coombes",
+            "Hannah Richards",
+            "Harold David",
+            "Holly Blake",
+            "Jackie Miering",
+            "Jessica Sim",
+            "Karen Inderbitzen",
+            "Waller",
+            "Marissa Findlay",
+            "Olivia Hemus",
+            "Pierre Toussaint",
+            "Russ Flat",
+            "Sam Crawford",
+            "Sara Orme",
+            "Stephen Langdon",
+            "Steve Tilley",
+            "Steven Chee",
+            "Thom Kerr",
+            "Tim White"
+        ],
+        "job title": [
+            "Makeup Artist"
+        ],
+        "company": [
+            "Elle",
+            "Harper’s Bazaar"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632\t\tLa\tCienega\tAvenue",
+            "90034"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "BeautyHQ": 0.1691,
+            "Crash": 0.1539,
+            "Fashion Quarterly": 0.2025,
+            "Modern Weekly Int’l No": 0.1693,
+            "Pulp": 0.2237,
+            "Remix Sense & Style": 0.2742,
+            "U+ Weekly": 0.1625,
+            "YEN": 0.2472,
+            "Goodnight Nurse": 0.1803
+        },
+        "filename": "cv (1057)_annotated.json"
+    }
+}

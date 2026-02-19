@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "Diploma",
+        "Quality inspection",
+        "Mechanical departmen",
+        "male",
+        "Single",
+        "Hindi",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "ABID ANSARI",
+            "Bismillah ansari",
+            "Smt. Noorjahan khatoon"
+        ],
+        "job title": [
+            "in",
+            "Mechanic",
+            "al",
+            "Engineeri",
+            "ng"
+        ],
+        "company": [
+            "Qualification     Year University",
+            "/Board Percentage Institute/college",
+            "BTEUP",
+            "Boar",
+            "Ims  polytechnic",
+            "Intermediate     2013Up Board     59",
+            "Highschool     2011Up Board     61",
+            "Jai Bharat maruti",
+            "JBM",
+            "North East Railway gorakhpur mechanical"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "EXPERIENCE",
+            "2year experience"
+        ],
+        "address": [
+            "Vill-Bhawpur post-Rakba junglipatti District",
+            "lucknow"
+        ],
+        "email": [
+            "abidansari201294@gmail.com",
+            "Indian"
+        ],
+        "phone": [
+            "+919616785700",
+            "S8599934"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Diploma": 0.4421,
+            "Quality inspection": 0.3202,
+            "Mechanical departmen": 0.3954,
+            "male": 0.3576,
+            "Single": 0.4189,
+            "Hindi": 0.8444,
+            "English": 0.8267
+        },
+        "filename": "cv (598)_annotated.json"
+    }
+}

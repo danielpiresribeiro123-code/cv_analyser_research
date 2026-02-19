@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "Computer Diploma",
+        "Hardwar",
+        "MS Office",
+        "photocopiers and scanners",
+        "facsimile machines",
+        "personal computers",
+        "database systems"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAKESH KUMAR CHAUDHARY"
+        ],
+        "job title": [
+            "Back office Executive",
+            "Relation Ship Manager",
+            "Clerk"
+        ],
+        "company": [
+            "Company Name",
+            "ANGEL BROKING LTD",
+            "GLOBE CAPITAL MARKET LTD",
+            "KAYNET CAPITAL LTD"
+        ],
+        "university": [
+            "Capital Computer Education",
+            "ACS Academy For Computer Studies"
+        ],
+        "degree": [
+            "Graduate"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E- MAIL",
+            "gmail.com",
+            "voice mail system"
+        ],
+        "phone": [
+            "MOBILE",
+            "+91 9616191206",
+            "telephone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Computer Diploma": 0.4256,
+            "Hardwar": 0.3227,
+            "MS Office": 0.7209,
+            "photocopiers and scanners": 0.2723,
+            "facsimile machines": 0.3773,
+            "personal computers": 0.2911,
+            "database systems": 0.2962
+        },
+        "filename": "cv (327)_annotated.json"
+    }
+}

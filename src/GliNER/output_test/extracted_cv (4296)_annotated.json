@@ -1,0 +1,41 @@
+{
+    "skills": [
+        "abilities",
+        "skills",
+        "experience"
+    ],
+    "professional_info": {
+        "person name": [
+            "you",
+            "Alison Doyle",
+            "Your Name"
+        ],
+        "job title": [],
+        "company": [
+            "employer",
+            "company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Your Address",
+            "Zip Code"
+        ],
+        "email": [
+            "email"
+        ],
+        "phone": [
+            "Your Phone Number"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "abilities": 0.2444,
+            "skills": 0.6254,
+            "experience": 0.2577
+        },
+        "filename": "cv (4296)_annotated.json"
+    }
+}

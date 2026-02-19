@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "Computer Science",
+        "Computer Science",
+        "Fundamentals of Programming and computing",
+        "Microprocessor and Microcontroller",
+        "TECHNICAL SKILLS",
+        "Programming Languages",
+        "C",
+        "C++",
+        "Java",
+        "AREAS OF INTEREST",
+        "SOFT SKILLS",
+        "Good team player",
+        "Good comperer",
+        "Efficient Architecture for Secure",
+        "Group Key Management",
+        "Clustering Based Approach",
+        "Outlier Detection",
+        "Grid computing",
+        "Remote File Transfer",
+        "Spintronics"
+    ],
+    "professional_info": {
+        "person name": [
+            "S.Lavanya",
+            "M.E"
+        ],
+        "job title": [
+            "Assistant Professsor"
+        ],
+        "company": [],
+        "university": [
+            "Government College Of",
+            "Technology",
+            "Engineering College",
+            "Hindusthan College of Engineering and Technology",
+            "Government college of, Technology",
+            "Government college of Technology",
+            "Anjalai Ammal-",
+            "Mahalingam Engineering College",
+            "Arasu",
+            "HSL"
+        ],
+        "degree": [
+            "B.Tech"
+        ],
+        "years of experience": [
+            "TEACHING EXPERIENCE"
+        ],
+        "address": [
+            "Coimbatore"
+        ],
+        "email": [
+            "Email",
+            "s.lavanya.me@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 - 9500735196"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Computer Science": 0.5841,
+            "Fundamentals of Programming and computing": 0.4351,
+            "Microprocessor and Microcontroller": 0.4039,
+            "TECHNICAL SKILLS": 0.3309,
+            "Programming Languages": 0.22,
+            "C": 0.9717,
+            "C++": 0.9502,
+            "Java": 0.9789,
+            "AREAS OF INTEREST": 0.1677,
+            "SOFT SKILLS": 0.347,
+            "Good team player": 0.2165,
+            "Good comperer": 0.4926,
+            "Efficient Architecture for Secure": 0.2699,
+            "Group Key Management": 0.1723,
+            "Clustering Based Approach": 0.1661,
+            "Outlier Detection": 0.1585,
+            "Grid computing": 0.3144,
+            "Remote File Transfer": 0.1602,
+            "Spintronics": 0.1845
+        },
+        "filename": "cv (1594)_annotated.json"
+    }
+}

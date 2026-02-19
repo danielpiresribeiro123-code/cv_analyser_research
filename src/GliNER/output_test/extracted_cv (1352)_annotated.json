@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Doctorado",
+        "Maestría: Metalurgia",
+        "Licenciatura",
+        "Ingeniería Mecánica",
+        "FIME- CONACYT",
+        "FIME -HYLSA",
+        "FIME-HYLSA",
+        "FIME- HYLSA III",
+        "Ingeniería y Tecnología",
+        "Ingeniería y Tecnología",
+        "Premio Tecnos 2000",
+        "HYLSA"
+    ],
+    "professional_info": {
+        "person name": [
+            "Juan Antonio Aguilar Garib",
+            "Casado",
+            "Zarel Valdez Nava",
+            "Ubaldo Ortiz Méndez",
+            "Jorge Domingo Berrún Castañón",
+            "RicardoViramontes Brown"
+        ],
+        "job title": [],
+        "company": [
+            "UANL-CONACYT-KEMET-UPS-MARION TECHNOLOGIES",
+            "ECOS-ANUIES"
+        ],
+        "university": [
+            "Universidad Autónoma de Nuevo León",
+            "Instituto Tecnológico de Saltillo",
+            "UANL",
+            "UANL-UPS"
+        ],
+        "degree": [
+            "Ingeniería de Materiales"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "jaguilargarib@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Doctorado": 0.287,
+            "Maestría: Metalurgia": 0.4522,
+            "Licenciatura": 0.3966,
+            "Ingeniería Mecánica": 0.4728,
+            "FIME- CONACYT": 0.6212,
+            "FIME -HYLSA": 0.2033,
+            "FIME-HYLSA": 0.1989,
+            "FIME- HYLSA III": 0.1906,
+            "Ingeniería y Tecnología": 0.2126,
+            "Premio Tecnos 2000": 0.4234,
+            "HYLSA": 0.1715
+        },
+        "filename": "cv (1352)_annotated.json"
+    }
+}

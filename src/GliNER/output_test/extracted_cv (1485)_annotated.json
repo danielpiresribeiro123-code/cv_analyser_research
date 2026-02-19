@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "skills",
+        "abilities",
+        "Senior secondary",
+        "MS Word",
+        "MS Excel",
+        "MS Powerpoint",
+        "MATLAB",
+        "AUTOCAD",
+        "C & C++",
+        "Quick learner",
+        "can adjust with situation",
+        "leadership qualities",
+        "good visual memory",
+        "good in negotiation",
+        "curious",
+        "creative",
+        "Personal Profile",
+        "Unmarried",
+        "English",
+        "Hindi",
+        "Urdu",
+        "Arabic (Tamil)"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohammad  Majeed Alam",
+            "Indian"
+        ],
+        "job title": [
+            "Chemical Engineer",
+            "Chemical Technician",
+            "Cultural secretary"
+        ],
+        "company": [
+            "company",
+            "renowned organization",
+            "GYAN BHARTI RESIDENTIAL SCHOOL"
+        ],
+        "university": [
+            "ANNAMALAI UNIVERSITY",
+            "TAMIL NADU",
+            "MIRZA GHALIB COLLEGE"
+        ],
+        "degree": [
+            "BE CHEMICAL"
+        ],
+        "years of experience": [],
+        "address": [
+            "Vill. Bhadeya",
+            "post bhadeya",
+            "P.S- barachatti",
+            "Distt. Gaya",
+            "pin- 824201 INDIA"
+        ],
+        "email": [
+            "Email id",
+            "mdmajeedalam1718@gmail.com"
+        ],
+        "phone": [
+            "Mobile no",
+            "0091-8754820458"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "skills": 0.2671,
+            "abilities": 0.2876,
+            "Senior secondary": 0.1595,
+            "MS Word": 0.6918,
+            "MS Excel": 0.6669,
+            "MS Powerpoint": 0.693,
+            "MATLAB": 0.2847,
+            "AUTOCAD": 0.406,
+            "C & C++": 0.3649,
+            "Quick learner": 0.5122,
+            "can adjust with situation": 0.2445,
+            "leadership qualities": 0.5108,
+            "good visual memory": 0.524,
+            "good in negotiation": 0.5367,
+            "curious": 0.3864,
+            "creative": 0.3414,
+            "Personal Profile": 0.1754,
+            "Unmarried": 0.4106,
+            "English": 0.7052,
+            "Hindi": 0.7695,
+            "Urdu": 0.7248,
+            "Arabic (Tamil)": 0.4478
+        },
+        "filename": "cv (1485)_annotated.json"
+    }
+}

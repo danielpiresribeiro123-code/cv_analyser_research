@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "highly professional",
+        "innovative work techniques",
+        "Educational Qualification",
+        "+2 Arts",
+        "Computer Knowledge",
+        "DCA",
+        "Interest",
+        "internet surfing",
+        "Strength",
+        "Be always positive",
+        "Problem solving skill",
+        "Male",
+        "Unmarried",
+        "General",
+        "Odia",
+        "Hindi",
+        "Urdu",
+        "English",
+        "Bengoli",
+        "Arabic"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAYED SARWAR ALI",
+            "Sayed Mehboob Ali",
+            "Sayed Mahboob Ali",
+            "Indian"
+        ],
+        "job title": [
+            "Storekeeper"
+        ],
+        "company": [
+            "The Hotel Wood Bridge",
+            "Rak Abela Catering LLC",
+            "The Diplomatic Club",
+            "Al Hana Trading Group",
+            "Amwaj catering service",
+            "Muslim"
+        ],
+        "university": [
+            "B.S.E Odisha",
+            "CHSE"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Working Experience"
+        ],
+        "address": [
+            "At/Po- Tyendakura",
+            "Ps- Patkura",
+            "Dist- Kendrapara",
+            "Bhubaneswar"
+        ],
+        "email": [
+            "E-Mail",
+            "sayedsarwarali1@yahoo.com",
+            "Matriculation"
+        ],
+        "phone": [
+            "Mobile",
+            "+918018386348+917992908465",
+            "Whatsapp",
+            "+97470399622"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "highly professional": 0.1693,
+            "innovative work techniques": 0.2221,
+            "Educational Qualification": 0.1711,
+            "+2 Arts": 0.2609,
+            "Computer Knowledge": 0.4019,
+            "DCA": 0.327,
+            "Interest": 0.3409,
+            "internet surfing": 0.1535,
+            "Strength": 0.3442,
+            "Be always positive": 0.3568,
+            "Problem solving skill": 0.3976,
+            "Male": 0.1964,
+            "Unmarried": 0.2753,
+            "General": 0.2439,
+            "Odia": 0.8406,
+            "Hindi": 0.8716,
+            "Urdu": 0.7331,
+            "English": 0.7578,
+            "Bengoli": 0.6543,
+            "Arabic": 0.8077
+        },
+        "filename": "cv (2127)_annotated.json"
+    }
+}

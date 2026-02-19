@@ -1,0 +1,49 @@
+{
+    "skills": [
+        "Technical Skills",
+        "KNOWLEDGE OF FITTING IN INDUSTRIAL MACHINERY PATERN & ELECTRICAL  RELATED WORK"
+    ],
+    "professional_info": {
+        "person name": [
+            "KISHOR DAS"
+        ],
+        "job title": [
+            "Designation",
+            "Site Engineer",
+            "Electrician",
+            "Multi skill technician"
+        ],
+        "company": [
+            "MGL (mahanagar gas limited )",
+            "VIPUL FACILITY MANAGEMENT PVT. LTD",
+            "M/S COMBINED FACILITY MANAGEMENT PVT. LTD",
+            "M/S TEAM 2 FACILITY MANAGEMENT PVT. LTD"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "5  years 3 months +"
+        ],
+        "address": [
+            "Sect-54",
+            "Gurgaon",
+            "Central park -1",
+            "Sec-Rod",
+            "DLF phase -iv",
+            "cross point"
+        ],
+        "email": [
+            "E-mail",
+            "kishordasd@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "Technical Skills": 0.4061,
+            "KNOWLEDGE OF FITTING IN INDUSTRIAL MACHINERY PATERN & ELECTRICAL  RELATED WORK": 0.2713
+        },
+        "filename": "cv (1626)_annotated.json"
+    }
+}

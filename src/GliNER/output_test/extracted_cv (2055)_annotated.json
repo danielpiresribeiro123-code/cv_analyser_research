@@ -1,0 +1,103 @@
+{
+    "skills": [
+        "knowledge",
+        "Electrical",
+        "Electrician",
+        "HT",
+        "LT",
+        "HT Feeder",
+        "DI",
+        "DO",
+        "AI",
+        "AO",
+        "PLC",
+        "Protection devices",
+        "control circuit & power circuit",
+        "DOL starter",
+        "R-DOL starter",
+        "STAR- DELTA Starter",
+        "3 Ø induction motor",
+        "PCC",
+        "MOV",
+        "SOV",
+        "Perseverance",
+        "strong determination",
+        "Odia",
+        "Indian"
+    ],
+    "professional_info": {
+        "person name": [
+            "Parikhita Panda"
+        ],
+        "job title": [
+            "Electrical Technician",
+            "Shift Technician",
+            "Male"
+        ],
+        "company": [
+            "SCTE & VT",
+            "ITI",
+            "Swami Nigamananda Industrial Training Center",
+            "NCVT",
+            "Board of Secondary Education",
+            "BOTHRA SHIPPING SERVICE     PVT LTD",
+            "ACB Make Schneider",
+            "VCB Make ABB",
+            "VCU Make ABB",
+            "Power Distribution System",
+            "PCS",
+            "BSS",
+            "ZSS",
+            "BHUSAN STEEL",
+            "RAW MATERIAL HANDLEING SYSTME"
+        ],
+        "university": [
+            "Pabitra Mohan Institute of Technology"
+        ],
+        "degree": [
+            "DIPLOMA"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-mail",
+            "ashirbad93@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+919439965487",
+            "2012",
+            "2008"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "knowledge": 0.3281,
+            "Electrical": 0.4388,
+            "Electrician": 0.2505,
+            "HT": 0.1795,
+            "LT": 0.3075,
+            "HT Feeder": 0.347,
+            "DI": 0.4938,
+            "DO": 0.5388,
+            "AI": 0.4449,
+            "AO": 0.3165,
+            "PLC": 0.2224,
+            "Protection devices": 0.3021,
+            "control circuit & power circuit": 0.2387,
+            "DOL starter": 0.4874,
+            "R-DOL starter": 0.3117,
+            "STAR- DELTA Starter": 0.3916,
+            "3 Ø induction motor": 0.1766,
+            "PCC": 0.1817,
+            "MOV": 0.3479,
+            "SOV": 0.2708,
+            "Perseverance": 0.2472,
+            "strong determination": 0.2077,
+            "Odia": 0.3861,
+            "Indian": 0.2313
+        },
+        "filename": "cv (2055)_annotated.json"
+    }
+}

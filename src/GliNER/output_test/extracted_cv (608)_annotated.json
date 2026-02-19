@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "EPC projects Management",
+        "skills",
+        "Instrumentation and control",
+        "Engineering",
+        "erection",
+        "instrumentation and control system for power plants",
+        "quality assurance",
+        "Erection and Commissioning"
+    ],
+    "professional_info": {
+        "person name": [
+            "PRATYUSH KUMAR"
+        ],
+        "job title": [
+            "Site Engineer",
+            "Erection & Commissioning Engineer",
+            "Erection&CommissioningEngineer",
+            "Instrumentation Engineer"
+        ],
+        "company": [
+            "m/s Pooja Electricals",
+            "ABB India ltd",
+            "India power corporation limited",
+            "TALWANDI SABO POWER LTD",
+            "RSTEPL",
+            "Torrent Power Limited",
+            "ABB Symphony Plus"
+        ],
+        "university": [],
+        "degree": [
+            "Bachelor of Engineering"
+        ],
+        "years of experience": [
+            "3 year experience",
+            "2 year experience"
+        ],
+        "address": [
+            "BANAWALI",
+            "Dhursar",
+            "Ahmadabad"
+        ],
+        "email": [
+            "7562887639",
+            "7319320614pratyushbits@gmail.com"
+        ],
+        "phone": [
+            "Contact Number"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "EPC projects Management": 0.1556,
+            "skills": 0.1859,
+            "Instrumentation and control": 0.4949,
+            "Engineering": 0.5913,
+            "erection": 0.1545,
+            "instrumentation and control system for power plants": 0.1566,
+            "quality assurance": 0.1553,
+            "Erection and Commissioning": 0.3649
+        },
+        "filename": "cv (608)_annotated.json"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "young",
+        "energetic",
+        "talented",
+        "Electrical and Electronics",
+        "passion",
+        "strong analytical mindset",
+        "sound communication skills",
+        "work  experience",
+        "ACADEMIC QUALIFICATIONS",
+        "First Class",
+        "Excel Application",
+        "MORSE CODE"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMED ARIF"
+        ],
+        "job title": [
+            "challenging  job",
+            "Site Supervisor"
+        ],
+        "company": [
+            "K.B.S Construction"
+        ],
+        "university": [
+            "reputed university",
+            "Chennai Institute of technology",
+            "SMK FOMRA COLLEGE"
+        ],
+        "degree": [
+            "TOP ranked engineering graduate",
+            "Bachelor of Engineering (Electrical & Electronics)"
+        ],
+        "years of experience": [],
+        "address": [
+            "26/27 Venkatesan 2ndStreet",
+            "Mount Road",
+            "Chennai - 600002"
+        ],
+        "email": [
+            "Email",
+            "mohammedarif0104@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "00-91-9789413521"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "young": 0.3092,
+            "energetic": 0.2751,
+            "talented": 0.3194,
+            "Electrical and Electronics": 0.6707,
+            "passion": 0.2928,
+            "strong analytical mindset": 0.4201,
+            "sound communication skills": 0.3362,
+            "work  experience": 0.2299,
+            "ACADEMIC QUALIFICATIONS": 0.1999,
+            "First Class": 0.2291,
+            "Excel Application": 0.4886,
+            "MORSE CODE": 0.152
+        },
+        "filename": "cv (2858)_annotated.json"
+    }
+}

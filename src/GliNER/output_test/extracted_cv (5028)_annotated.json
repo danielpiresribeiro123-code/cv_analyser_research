@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "recommender system",
+        "machine learning",
+        "data science",
+        "Data Analysis",
+        "Deep Learning",
+        "Artificial Intelligence",
+        "Linear Regression",
+        "Statistical",
+        "Modeling",
+        "Predictive Modeling",
+        "Bootstrap",
+        "MySQL",
+        "JDBC",
+        "HTML",
+        "PHP",
+        "CSS",
+        "C++",
+        "Python",
+        "statistics",
+        "Pandas",
+        "MatplotlibPROJECTS"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Intern",
+            "FRESHER",
+            "SKILLS"
+        ],
+        "company": [
+            "HiB Pvt Ltd"
+        ],
+        "university": [
+            "BCA BGBS College",
+            "MCA BGBS College"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Mohantpur 2018",
+            "Mohantpur 2020WORK"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "recommender system": 0.1756,
+            "machine learning": 0.5822,
+            "data science": 0.5661,
+            "Data Analysis": 0.6293,
+            "Deep Learning": 0.8338,
+            "Artificial Intelligence": 0.6778,
+            "Linear Regression": 0.726,
+            "Statistical": 0.3887,
+            "Modeling": 0.5302,
+            "Predictive Modeling": 0.7508,
+            "Bootstrap": 0.5927,
+            "MySQL": 0.884,
+            "JDBC": 0.2025,
+            "HTML": 0.3536,
+            "PHP": 0.8891,
+            "CSS": 0.3247,
+            "C++": 0.2043,
+            "Python": 0.8668,
+            "statistics": 0.4446,
+            "Pandas": 0.3838,
+            "MatplotlibPROJECTS": 0.3769
+        },
+        "filename": "cv (5028)_annotated.json"
+    }
+}

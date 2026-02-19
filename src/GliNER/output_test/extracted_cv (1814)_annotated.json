@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "Electrical",
+        "Project execution & planning",
+        "Project Management",
+        "Contract Management",
+        "Business Development",
+        "Proficient",
+        "site coordination",
+        "team supervision",
+        "Capable to handle multiple projects",
+        "MS excel",
+        "AutoCAD",
+        "Quantity Surveying",
+        "Engineering and Solution",
+        "Diploma in Computer Awareness                                                                     2006"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMAD FEEROZ",
+            "Male"
+        ],
+        "job title": [
+            "B.E...",
+            "PROFESSIONAL / SYNOPSIS",
+            "Electrical Professional",
+            "Completed Schooling (X)",
+            "Consultant"
+        ],
+        "company": [
+            "DMSP",
+            "Institute Gandhi Polytechnic Muzaffar Nagar",
+            "Board of Technical Education Uttar Pradesh Lucknow",
+            "Board of Education Allahabad",
+            "UPPCL",
+            "Uttar Pradesh Power Corporation Limited",
+            "AKON International Limited Company",
+            "ARAMCO",
+            "RABIGH II NON",
+            "SAUDI",
+            "ARAMCO / PETRO"
+        ],
+        "university": [
+            "National Institute of  2007-2011"
+        ],
+        "degree": [
+            "Bachelor in Engineering-Electrical (Correspondence)",
+            "Diploma in Electrical Engineering"
+        ],
+        "years of experience": [
+            "10 Years and 03 months",
+            "Experienced",
+            "Proficient"
+        ],
+        "address": [],
+        "email": [
+            "E-mail",
+            "mohdfeeroz_je@yahoo.co.in",
+            "2004-2007"
+        ],
+        "phone": [
+            "Contact No",
+            "+966-54-349-3507"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Electrical": 0.3952,
+            "Project execution & planning": 0.1617,
+            "Project Management": 0.4712,
+            "Contract Management": 0.4126,
+            "Business Development": 0.1578,
+            "Proficient": 0.2423,
+            "site coordination": 0.2828,
+            "team supervision": 0.1522,
+            "Capable to handle multiple projects": 0.1824,
+            "MS excel": 0.6179,
+            "AutoCAD": 0.6792,
+            "Quantity Surveying": 0.1808,
+            "Engineering and Solution": 0.2204,
+            "Diploma in Computer Awareness                                                                     2006": 0.4129
+        },
+        "filename": "cv (1814)_annotated.json"
+    }
+}

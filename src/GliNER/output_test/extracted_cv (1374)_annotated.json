@@ -1,0 +1,49 @@
+{
+    "skills": [
+        "ISO Lead Auditor Exam",
+        "Oracle Accounting package"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sujatha Sivasankar"
+        ],
+        "job title": [
+            "Finance Accountant",
+            "Senior Accountant",
+            "DGM",
+            "Overall in charge of Accounts and Finance",
+            "Internal and External Auditors",
+            "Accounts Executive"
+        ],
+        "company": [
+            "Hyflux EPC LLC",
+            "SME Financing Company",
+            "Trading & Contracting Co."
+        ],
+        "university": [
+            "University of Madras",
+            "Madurai Kamaraj University-passed"
+        ],
+        "degree": [
+            "Certified Management Accountant",
+            "M.Com",
+            "B.com"
+        ],
+        "years of experience": [],
+        "address": [
+            "Azaiba"
+        ],
+        "email": [
+            "emails"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "ISO Lead Auditor Exam": 0.4113,
+            "Oracle Accounting package": 0.5318
+        },
+        "filename": "cv (1374)_annotated.json"
+    }
+}

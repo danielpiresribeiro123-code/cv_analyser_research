@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "D.N.B.",
+        "F.A.G.E.",
+        "Fellowship",
+        "Arthroscopy & Arthroplasty",
+        "Orthopaedics",
+        "National Board of Examination",
+        "N.B.E.",
+        "Diplomate",
+        "Diploma Orthopaedics Examination",
+        "Dip. S.I.C.O.T.",
+        "SICOT meets SICOT International Fellowship",
+        "holistic approach",
+        "management of complex trauma",
+        "sports injuries",
+        "joint disorders",
+        "Young Research Investigator Award"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dr. Kunal Aneja"
+        ],
+        "job title": [
+            "Editorial Board member",
+            "Reviewer"
+        ],
+        "company": [],
+        "university": [
+            "Sancheti Institute",
+            "Ganga Hospital",
+            "St. George University Teaching Hospital"
+        ],
+        "degree": [
+            "M.B.B.S.",
+            "M.S.",
+            "M.I.M.S.A"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "D.N.B.": 0.7514,
+            "F.A.G.E.": 0.6659,
+            "Fellowship": 0.2353,
+            "Arthroscopy & Arthroplasty": 0.4993,
+            "Orthopaedics": 0.3768,
+            "National Board of Examination": 0.4603,
+            "N.B.E.": 0.1835,
+            "Diplomate": 0.2142,
+            "Diploma Orthopaedics Examination": 0.6514,
+            "Dip. S.I.C.O.T.": 0.7083,
+            "SICOT meets SICOT International Fellowship": 0.2287,
+            "holistic approach": 0.1783,
+            "management of complex trauma": 0.2533,
+            "sports injuries": 0.2581,
+            "joint disorders": 0.24,
+            "Young Research Investigator Award": 0.2222
+        },
+        "filename": "cv (1009)_annotated.json"
+    }
+}

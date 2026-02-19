@@ -1,0 +1,96 @@
+{
+    "skills": [
+        "Energetic",
+        "Organized and professional",
+        "Dedicated and focused",
+        "prioritizing",
+        "expert time management methods",
+        "Microsoft Office",
+        "Excel spreadsheets",
+        "Meticulous attention to detail",
+        "QuickBooks",
+        "Schedule management",
+        "Self-directed",
+        "MS Office Suite",
+        "Resourceful",
+        "Self-starter",
+        "Articulate and well-spoken",
+        "Flexible",
+        "Accomplishments",
+        "Lesson Planning",
+        "new learning methods",
+        "Material Development",
+        "Team Building and Leadership",
+        "Plan Development",
+        "Education Strategies",
+        "special educational strategies and techniques",
+        "cognition",
+        "memory",
+        "Goal Setting",
+        "Technology Integration",
+        "Creative Lesson Planning",
+        "Parent Communication",
+        "Counseling"
+    ],
+    "professional_info": {
+        "person name": [
+            "TEACHER"
+        ],
+        "job title": [
+            "high-level executive support roles",
+            "employee and manager",
+            "war veteran",
+            "Current"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "years experience"
+        ],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 31,
+        "confidence_scores": {
+            "Energetic": 0.6191,
+            "Organized and professional": 0.5172,
+            "Dedicated and focused": 0.4291,
+            "prioritizing": 0.1933,
+            "expert time management methods": 0.3597,
+            "Microsoft Office": 0.4293,
+            "Excel spreadsheets": 0.5879,
+            "Meticulous attention to detail": 0.3796,
+            "QuickBooks": 0.3434,
+            "Schedule management": 0.4666,
+            "Self-directed": 0.6443,
+            "MS Office Suite": 0.8114,
+            "Resourceful": 0.6127,
+            "Self-starter": 0.6913,
+            "Articulate and well-spoken": 0.543,
+            "Flexible": 0.6614,
+            "Accomplishments": 0.2017,
+            "Lesson Planning": 0.3655,
+            "new learning methods": 0.2356,
+            "Material Development": 0.2942,
+            "Team Building and Leadership": 0.6793,
+            "Plan Development": 0.332,
+            "Education Strategies": 0.3763,
+            "special educational strategies and techniques": 0.1501,
+            "cognition": 0.2102,
+            "memory": 0.1571,
+            "Goal Setting": 0.2448,
+            "Technology Integration": 0.5324,
+            "Creative Lesson Planning": 0.3263,
+            "Parent Communication": 0.2504,
+            "Counseling": 0.1659
+        },
+        "filename": "cv (4476)_annotated.json"
+    }
+}

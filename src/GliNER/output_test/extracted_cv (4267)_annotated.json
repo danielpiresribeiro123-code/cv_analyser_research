@@ -1,0 +1,45 @@
+{
+    "skills": [
+        "Account management",
+        "National Award of Merit",
+        "info graphics",
+        "public relations"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "VP MARKETING & COMMUNICATIONS",
+            "Marketing manager",
+            "writer",
+            "Research Advocate",
+            "Account Executive",
+            "Marketing Campaign Manager"
+        ],
+        "company": [
+            "118-store retail chain",
+            "United States Department of Transportation, U.S. Coast Guard",
+            "Company Name",
+            "creative agency"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Washington, DC"
+        ],
+        "email": [
+            "email"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Account management": 0.2718,
+            "National Award of Merit": 0.3559,
+            "info graphics": 0.2611,
+            "public relations": 0.2224
+        },
+        "filename": "cv (4267)_annotated.json"
+    }
+}

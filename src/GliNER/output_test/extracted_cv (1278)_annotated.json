@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "APPLIED",
+        "TALLY",
+        "MS OFFICE",
+        "VISUAL BASIC",
+        "HTML",
+        "SAP BASIC",
+        "CERTIFICAT",
+        "IONS",
+        "CERTIFICATE",
+        "ENGLISH",
+        "IN LINUX",
+        "PROGRAMMING"
+    ],
+    "professional_info": {
+        "person name": [
+            "GAUTAM. PRDEEP KUMAR",
+            "MAHATHMA",
+            "GANDHI"
+        ],
+        "job title": [],
+        "company": [
+            "eYEA",
+            "RINSTITUTION",
+            "UNIVERSITYPERCENTA",
+            "GE",
+            "B.CO",
+            "SCHOOL(MALAKK, ARA)",
+            "CISCE",
+            "COUNSIL OF",
+            "INMA CO OMAN LLC"
+        ],
+        "university": [
+            "OF",
+            "BIRLA INSTITUTE",
+            "COLLEGE OF",
+            "UNIVERSITY OF",
+            "CAMBRIDGE"
+        ],
+        "degree": [
+            "MBA201",
+            "M200",
+            "HSE200",
+            "ICSE200",
+            "PRELIMINARY",
+            "EUROPE LEVEL",
+            "B1 FROM",
+            "MASTER"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "gautam.acchu13@gmail.com"
+        ],
+        "phone": [
+            "Tel",
+            "+96897620084"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "APPLIED": 0.2356,
+            "TALLY": 0.2678,
+            "MS OFFICE": 0.543,
+            "VISUAL BASIC": 0.8694,
+            "HTML": 0.7466,
+            "SAP BASIC": 0.7477,
+            "CERTIFICAT": 0.8845,
+            "IONS": 0.5542,
+            "CERTIFICATE": 0.9391,
+            "ENGLISH": 0.7151,
+            "IN LINUX": 0.1514,
+            "PROGRAMMING": 0.515
+        },
+        "filename": "cv (1278)_annotated.json"
+    }
+}

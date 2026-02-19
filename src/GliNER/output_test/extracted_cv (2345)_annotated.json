@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "Engineering",
+        "MCC panels",
+        "PCC Panels",
+        "GG Panels",
+        "Auxiliary panels",
+        "Power Transformers",
+        "A.C. Motors",
+        "Motor Starters",
+        "Load shedding & load sharing system",
+        "Competency",
+        "Electrical Maintenance of Power Generation",
+        "TCG 2032",
+        "Gas Engine",
+        "TCG 2020 V16",
+        "TCG 2020 V20"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ajay Singh"
+        ],
+        "job title": [
+            "Senior Engineer",
+            "Electrical Engineer",
+            "O&M",
+            "Shift Engineer",
+            "DET"
+        ],
+        "company": [
+            "CURRICULUM VITAE",
+            "Green Power Intl Pvt Ltd.",
+            "M/S  Green  Power  Intl  Pvt  Ltd",
+            "Saint Gobain Glass India Pvt Ltd",
+            "DLF Utilities Ltd",
+            "BSES India Pvt.",
+            "Barmalt India Ltd",
+            "MAN",
+            "B&W",
+            "M/S Powerica Ltd.",
+            "VCB",
+            "ABB",
+            "Siemens",
+            "ACB"
+        ],
+        "university": [],
+        "degree": [
+            "Diploma",
+            "B.Tech in Electrical                                    40"
+        ],
+        "years of experience": [],
+        "address": [
+            "Krishna Park",
+            "Ankleshwar"
+        ],
+        "email": [
+            "Email",
+            "ajaycoolguy619@gmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Engineering": 0.2879,
+            "MCC panels": 0.1879,
+            "PCC Panels": 0.1532,
+            "GG Panels": 0.1958,
+            "Auxiliary panels": 0.2224,
+            "Power Transformers": 0.1995,
+            "A.C. Motors": 0.1562,
+            "Motor Starters": 0.2111,
+            "Load shedding & load sharing system": 0.1894,
+            "Competency": 0.357,
+            "Electrical Maintenance of Power Generation": 0.1848,
+            "TCG 2032": 0.1796,
+            "Gas Engine": 0.1845,
+            "TCG 2020 V16": 0.2673,
+            "TCG 2020 V20": 0.2086
+        },
+        "filename": "cv (2345)_annotated.json"
+    }
+}

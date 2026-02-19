@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "Software Development and implimentation",
+        "IT Infrastructure",
+        "firewall",
+        "ERP software",
+        "SQL",
+        "ERP"
+    ],
+    "professional_info": {
+        "person name": [
+            "SREERAJ V. P ."
+        ],
+        "job title": [
+            "WORK EXPERIANCE",
+            "Manager",
+            "Functional Consultant"
+        ],
+        "company": [
+            "Entesos Enterprise Solutions (P) Ltd.",
+            "FOS",
+            "Lens and Frames Opticians",
+            "Maverick Infotec (P) Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "edathoot house",
+            "kannikulangara p. o.",
+            "thrissur",
+            "Kochi",
+            "Mysore"
+        ],
+        "email": [
+            "vpsreeraj@gmail.comm"
+        ],
+        "phone": [
+            "+91 7558853337",
+            "+91 9400043334O"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Software Development and implimentation": 0.4494,
+            "IT Infrastructure": 0.2287,
+            "firewall": 0.1664,
+            "ERP software": 0.3921,
+            "SQL": 0.2987,
+            "ERP": 0.3119
+        },
+        "filename": "cv (4014)_annotated.json"
+    }
+}

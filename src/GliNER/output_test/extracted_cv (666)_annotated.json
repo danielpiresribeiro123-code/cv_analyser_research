@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "Mechanical",
+        "Professional",
+        "Technical Skills",
+        "Design Software",
+        "CAD/CAM",
+        "Pro-E",
+        "computer certificate",
+        "C++",
+        "Technology &",
+        "Management",
+        "Automatic car lifting jack"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAGHVENDRA SUMAN",
+            "sanskar bharti"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "NIIT",
+            "UniversityYear of",
+            "Medicaps institute of",
+            "StreamStar Public School",
+            "Indore State Board",
+            "S. S. C    S.S.CLokmanya Vidya",
+            "Niketan Higher"
+        ],
+        "degree": [
+            "B.EMechanical"
+        ],
+        "years of experience": [
+            "EXPERIENCE",
+            "5 months working experience"
+        ],
+        "address": [],
+        "email": [
+            "Raghvendrasuman212@gmail.com"
+        ],
+        "phone": [
+            "Indore - 452009",
+            "91-731-2489229"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Mechanical": 0.5196,
+            "Professional": 0.1608,
+            "Technical Skills": 0.5914,
+            "Design Software": 0.1954,
+            "CAD/CAM": 0.5908,
+            "Pro-E": 0.4203,
+            "computer certificate": 0.7819,
+            "C++": 0.7592,
+            "Technology &": 0.1685,
+            "Management": 0.373,
+            "Automatic car lifting jack": 0.1617
+        },
+        "filename": "cv (666)_annotated.json"
+    }
+}

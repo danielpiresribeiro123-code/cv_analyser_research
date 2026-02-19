@@ -1,0 +1,49 @@
+{
+    "skills": [
+        "skills",
+        "TECHNICAL SKILLS",
+        "Voltage drop calculation",
+        "Electrical Estimation and"
+    ],
+    "professional_info": {
+        "person name": [
+            "S.BALA SUNDAR SEKAR"
+        ],
+        "job title": [
+            "Maintenance Engineer",
+            "Electrical Engineer",
+            "Electrical Contractor",
+            "MEP Estimation Engineer"
+        ],
+        "company": [
+            "Al Fadaa ElectroMechanical works, LLC",
+            "Totus ElectroMechanical works LLC"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "4+ years Experience"
+        ],
+        "address": [
+            "Ras Al Khaimah"
+        ],
+        "email": [
+            "balasibi@yahoo.co.in"
+        ],
+        "phone": [
+            "Mobile",
+            "+971 522275089",
+            "+91 8754818809"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "skills": 0.1646,
+            "TECHNICAL SKILLS": 0.3959,
+            "Voltage drop calculation": 0.2133,
+            "Electrical Estimation and": 0.1787
+        },
+        "filename": "cv (2328)_annotated.json"
+    }
+}

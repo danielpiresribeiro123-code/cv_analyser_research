@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Positive and cheerful",
+        "Creative arts talent",
+        "Childcare management software programs",
+        "Basic clerical knowledge",
+        "Classroom management",
+        "Exceptional organizational skills",
+        "Training in food handling preparation",
+        "Head Start program knowledge",
+        "Certified in Early Childhood Education",
+        "Infant, toddler and preschool curricula",
+        "infant area",
+        "preschool area"
+    ],
+    "professional_info": {
+        "person name": [
+            "TEACHER"
+        ],
+        "job title": [
+            "preschool teacher",
+            "Childcare provider",
+            "Daycare management professional",
+            "Preschool educator",
+            "Teacher"
+        ],
+        "company": [
+            "Company Name",
+            "Creation Kingdom -130"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City",
+            "Georgetown",
+            "KY",
+            "40324"
+        ],
+        "email": [],
+        "phone": [
+            "502-868-6764"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Positive and cheerful": 0.6386,
+            "Creative arts talent": 0.4904,
+            "Childcare management software programs": 0.6047,
+            "Basic clerical knowledge": 0.3348,
+            "Classroom management": 0.5095,
+            "Exceptional organizational skills": 0.3014,
+            "Training in food handling preparation": 0.2911,
+            "Head Start program knowledge": 0.2646,
+            "Certified in Early Childhood Education": 0.8734,
+            "Infant, toddler and preschool curricula": 0.3025,
+            "infant area": 0.2212,
+            "preschool area": 0.1843
+        },
+        "filename": "cv (4709)_annotated.json"
+    }
+}

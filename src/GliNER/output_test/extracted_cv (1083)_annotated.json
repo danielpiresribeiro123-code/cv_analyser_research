@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "marketing",
+        "management",
+        "Additional Skills",
+        "Computer Diploma",
+        "COMPUTER TECHNOLOGY",
+        "Unmarried",
+        "English",
+        "Hindi",
+        "Internet Surfing & Sports",
+        "Forex experience",
+        "Treasury",
+        "Managerial skills",
+        "creativity",
+        "stability",
+        "Dedication"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUNIL PAWAR",
+            "Mr. Jogi Pawar"
+        ],
+        "job title": [
+            "Decision-maker",
+            "Forex cashier"
+        ],
+        "company": [
+            "DAVV Indore",
+            "ALL INDIA, SOCIETY ELECTRONIC",
+            "Indian",
+            "LULU INTERNATIONAL EXCHANGE LLC UAE"
+        ],
+        "university": [],
+        "degree": [
+            "B.B.A",
+            "Bachelor of business, administration"
+        ],
+        "years of experience": [],
+        "address": [
+            "PERMANENT ADDRESS",
+            "Bisapur khurd",
+            "Bisapur Kalan",
+            "Pin code 480107"
+        ],
+        "email": [
+            "E-Mail",
+            "sunilpawar4biz@gmail.com"
+        ],
+        "phone": [
+            "MOBILE",
+            "+918349-989569"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "marketing": 0.408,
+            "management": 0.2549,
+            "Additional Skills": 0.2212,
+            "Computer Diploma": 0.5489,
+            "COMPUTER TECHNOLOGY": 0.2071,
+            "Unmarried": 0.2535,
+            "English": 0.7803,
+            "Hindi": 0.8069,
+            "Internet Surfing & Sports": 0.2718,
+            "Forex experience": 0.1715,
+            "Treasury": 0.327,
+            "Managerial skills": 0.2625,
+            "creativity": 0.264,
+            "stability": 0.2463,
+            "Dedication": 0.296
+        },
+        "filename": "cv (1083)_annotated.json"
+    }
+}

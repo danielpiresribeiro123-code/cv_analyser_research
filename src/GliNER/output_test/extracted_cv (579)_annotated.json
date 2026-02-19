@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "08447719251",
+        "skills",
+        "EXPERTISE",
+        "Business Development",
+        "Analytical Skills",
+        "sales expert",
+        "Customer Relationship",
+        "Management",
+        "Retail sales management",
+        "Planningmanagement",
+        "Problem Solving and Decision Making",
+        "Team Management",
+        "Excellent Communication Skills",
+        "Leadership",
+        "Skills",
+        "Business DevelopmentExecutive",
+        "current prospect database"
+    ],
+    "professional_info": {
+        "person name": [
+            "VIKAS PUJARI",
+            "SHARAF"
+        ],
+        "job title": [
+            "Training personnel",
+            "DG",
+            "Business and IT SALES Executive"
+        ],
+        "company": [
+            "GULF",
+            "SOURCES",
+            "Souq.com",
+            "Wadi.com",
+            "Jadopado.com",
+            "Carrefour Bahrain",
+            "Union Co-op",
+            "Axiom",
+            "Sharaf DG",
+            "AND",
+            "BHAWANA",
+            "COMPUTRE",
+            "RS"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "gmail.com",
+            "email"
+        ],
+        "phone": [
+            "phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "08447719251": 0.2584,
+            "skills": 0.345,
+            "EXPERTISE": 0.2903,
+            "Business Development": 0.4933,
+            "Analytical Skills": 0.6494,
+            "sales expert": 0.5719,
+            "Customer Relationship": 0.5256,
+            "Management": 0.4928,
+            "Retail sales management": 0.4951,
+            "Planningmanagement": 0.2468,
+            "Problem Solving and Decision Making": 0.4165,
+            "Team Management": 0.4743,
+            "Excellent Communication Skills": 0.3739,
+            "Leadership": 0.6331,
+            "Skills": 0.3845,
+            "Business DevelopmentExecutive": 0.2934,
+            "current prospect database": 0.5961
+        },
+        "filename": "cv (579)_annotated.json"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "Cooperation",
+        "Correspondence",
+        "Social  Work",
+        "Innovative  E  governance",
+        "Advertising",
+        "Project Management",
+        "English",
+        "Gujarati Higher Secondary",
+        "Indore                         Hindi",
+        "SAP",
+        "Personal work",
+        "Internet research work"
+    ],
+    "professional_info": {
+        "person name": [
+            "Director",
+            "CEO"
+        ],
+        "job title": [
+            "P.A.",
+            "Director of Company",
+            "MSG",
+            "CEO",
+            "Project Officer"
+        ],
+        "company": [
+            "Vadilal Industries Limited",
+            "AHMEDABAD   DESIGNATION",
+            "DOJ",
+            "ADANI FOUNDATION"
+        ],
+        "university": [
+            "D.A.V.V.",
+            "Gujarati College",
+            "Gujarati Higher Secondary"
+        ],
+        "degree": [
+            "B.Com."
+        ],
+        "years of experience": [],
+        "address": [
+            "Karnavati Vibhag-1",
+            "Parasnagar",
+            "Naranpura Ahmedabad – 380013"
+        ],
+        "email": [
+            "E-mail",
+            "miteshpanchal@live.com",
+            "mitesh.jpanchal@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+91 9925239363",
+            "+91 9737482998",
+            "2003",
+            "1998"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Cooperation": 0.1898,
+            "Correspondence": 0.1586,
+            "Social  Work": 0.3842,
+            "Innovative  E  governance": 0.3976,
+            "Advertising": 0.4517,
+            "Project Management": 0.6981,
+            "English": 0.5089,
+            "Gujarati Higher Secondary": 0.3512,
+            "Indore                         Hindi": 0.4654,
+            "SAP": 0.303,
+            "Personal work": 0.1641,
+            "Internet research work": 0.154
+        },
+        "filename": "cv (54)_annotated.json"
+    }
+}

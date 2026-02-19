@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "hardworking",
+        "Solar PV Industry",
+        "Solar Power Project",
+        "knowledge",
+        "skills",
+        "knowledge",
+        "dedicated and focused individual",
+        "exceptional knowledge",
+        "learning ability",
+        "systematic",
+        "organized",
+        "team player",
+        "excellent communication skills",
+        "skills",
+        "trust and reliability"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUNIL KUMAR",
+            "Male",
+            "sunil_kumar1799"
+        ],
+        "job title": [
+            "Designation",
+            "Manager"
+        ],
+        "company": [
+            "TRA International",
+            "M/S Ganges Internationale Private Limited",
+            "GIPL",
+            "Ganges Internationale Private Limited"
+        ],
+        "university": [],
+        "degree": [
+            "B.Tech"
+        ],
+        "years of experience": [],
+        "address": [
+            "C-23",
+            "Netaji  Nagar",
+            "New Delhi",
+            "110023",
+            "Netaji Nagar",
+            "New Delhi -110023"
+        ],
+        "email": [
+            "Contact",
+            "Email"
+        ],
+        "phone": [
+            "+91-9718299172",
+            "+919718299172"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "hardworking": 0.4279,
+            "Solar PV Industry": 0.3393,
+            "Solar Power Project": 0.2341,
+            "knowledge": 0.2213,
+            "skills": 0.3201,
+            "dedicated and focused individual": 0.2864,
+            "exceptional knowledge": 0.2514,
+            "learning ability": 0.2435,
+            "systematic": 0.4274,
+            "organized": 0.3725,
+            "team player": 0.4227,
+            "excellent communication skills": 0.4112,
+            "trust and reliability": 0.1989
+        },
+        "filename": "cv (2478)_annotated.json"
+    }
+}

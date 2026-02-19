@@ -1,0 +1,52 @@
+{
+    "skills": [
+        "Concentration in Economics"
+    ],
+    "professional_info": {
+        "person name": [
+            "FABIO ARMANI",
+            "GETÚLIO VARGAS",
+            "AGRICOLE INDOSUEZ"
+        ],
+        "job title": [
+            "Director of the Brazilian Club",
+            "Administrator of the Brazil-MBA webpage",
+            "Summer Associate",
+            "Asset Management Analyst",
+            "Equities Proprietary Position Analyst",
+            "Project Coordinator",
+            "Finance and Administrative Manager",
+            "Controller"
+        ],
+        "company": [
+            "ALLEN & HAMILTON",
+            "B2B portals",
+            "Internet Data Center"
+        ],
+        "university": [],
+        "degree": [
+            "MBA degree",
+            "Bachelor of Arts in Public Administration"
+        ],
+        "years of experience": [],
+        "address": [
+            "929 Massachusetts Ave.",
+            "Apt 6C",
+            "Cambridge, MA",
+            "02139"
+        ],
+        "email": [
+            "e-mail"
+        ],
+        "phone": [
+            "(617) 354-1096"
+        ]
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "Concentration in Economics": 0.321
+        },
+        "filename": "cv (1272)_annotated.json"
+    }
+}

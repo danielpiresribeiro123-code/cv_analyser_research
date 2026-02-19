@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Female",
+        "Married",
+        "Tamil",
+        "H.Sc",
+        "MS -Dos",
+        "MS Office",
+        "Photoshop",
+        "MS Front page"
+    ],
+    "professional_info": {
+        "person name": [
+            "K. SASIKALA",
+            "E. Kasi",
+            "Indian",
+            "Dr. Sheeja"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "MBC",
+            "S.D.N.B",
+            "Autonomous",
+            "Jaigopal   Garodia  Govt. G irl’s Higher"
+        ],
+        "degree": [
+            "M.Sc .",
+            "M.Sc Plant Biology &Plant",
+            "B.Sc Plant Biology & Plant",
+            "M.Sc."
+        ],
+        "years of experience": [],
+        "address": [
+            "9/16, 1st street",
+            "Ragupathy N agar",
+            "C hennai -114",
+            "Chrompet -64"
+        ],
+        "email": [
+            "Email",
+            "sasibio04@gmail.com"
+        ],
+        "phone": [
+            "Mobile number",
+            "+91-7358227790/9551799450"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Female": 0.2905,
+            "Married": 0.3096,
+            "Tamil": 0.7258,
+            "H.Sc": 0.2165,
+            "MS -Dos": 0.5993,
+            "MS Office": 0.7582,
+            "Photoshop": 0.5785,
+            "MS Front page": 0.536
+        },
+        "filename": "cv (1640)_annotated.json"
+    }
+}

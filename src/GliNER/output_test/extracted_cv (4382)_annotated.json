@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "leadership",
+        "master planning",
+        "Supply Chain Operational Excellence plan",
+        "Business Process Improvement plan",
+        "lean principles",
+        "change management process",
+        "best practices",
+        "VMI",
+        "Kanban",
+        "Consignment",
+        "supplier performance management"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "SUPPLY CHAIN MANAGER",
+            "Operations Manager",
+            "department heads"
+        ],
+        "company": [
+            "City",
+            "Company"
+        ],
+        "university": [
+            "FIU College of Business"
+        ],
+        "degree": [
+            "MBA Programs"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "leadership": 0.2482,
+            "master planning": 0.1727,
+            "Supply Chain Operational Excellence plan": 0.1756,
+            "Business Process Improvement plan": 0.1686,
+            "lean principles": 0.7128,
+            "change management process": 0.549,
+            "best practices": 0.69,
+            "VMI": 0.4996,
+            "Kanban": 0.5311,
+            "Consignment": 0.4022,
+            "supplier performance management": 0.1563
+        },
+        "filename": "cv (4382)_annotated.json"
+    }
+}

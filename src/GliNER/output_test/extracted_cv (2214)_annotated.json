@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "Technical and personal skills",
+        "Arduino",
+        "c",
+        "C Language",
+        "Quad copter",
+        "Certification Course",
+        "ECE",
+        "Computer Skills",
+        "window xp",
+        "vista",
+        "window7",
+        "window8",
+        "Hardware and Assembling",
+        "STRENGTHS",
+        "Positive Approach",
+        "Vision for Growth",
+        "Honest",
+        "Hardworking",
+        "Smartworker"
+    ],
+    "professional_info": {
+        "person name": [
+            "Vijay Kumar"
+        ],
+        "job title": [
+            "Research",
+            "Engineer",
+            "Technical Sales Executive",
+            "Leadership qualities"
+        ],
+        "company": [
+            "Robosapiens Technologies  P.V.T.",
+            "USFIX Technical Services"
+        ],
+        "university": [
+            "BLS College of Engineering",
+            "KUK University",
+            "Govt.  Polytechnic Nilokheri",
+            "HSBE board"
+        ],
+        "degree": [
+            "B. Tech with ECE",
+            "Diploma with Computer engineering",
+            "diploma in Computer Engineering",
+            "B-Tech",
+            "diploma"
+        ],
+        "years of experience": [
+            "Work Experience"
+        ],
+        "address": [
+            "VPO Mundhal Khurd",
+            "Distt. And tehsil"
+        ],
+        "email": [
+            "+91-7053653054",
+            "vijayangira6@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Technical and personal skills": 0.1917,
+            "Arduino": 0.1809,
+            "c": 0.6476,
+            "C Language": 0.9593,
+            "Quad copter": 0.1783,
+            "Certification Course": 0.7621,
+            "ECE": 0.6912,
+            "Computer Skills": 0.3755,
+            "window xp": 0.5988,
+            "vista": 0.8517,
+            "window7": 0.6392,
+            "window8": 0.5343,
+            "Hardware and Assembling": 0.1973,
+            "STRENGTHS": 0.1914,
+            "Positive Approach": 0.2613,
+            "Vision for Growth": 0.3237,
+            "Honest": 0.3771,
+            "Hardworking": 0.238,
+            "Smartworker": 0.3377
+        },
+        "filename": "cv (2214)_annotated.json"
+    }
+}

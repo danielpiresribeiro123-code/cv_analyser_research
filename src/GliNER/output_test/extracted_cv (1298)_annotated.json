@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "Urdu",
+        "Punjabi",
+        "English",
+        "Kiswahili",
+        "French",
+        "Arabic",
+        "ABE UK level 5 and level 6 higher diploma in Business management",
+        "ACCA Part 2",
+        "Professional Banker Certificate",
+        "Diploma in insurance",
+        "Diploma in Financial Planning"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohammed Ammar Khan",
+            "Kenyan"
+        ],
+        "job title": [
+            "29068871/ A1829173",
+            "Asian/Pakistani",
+            "Trainee experience",
+            "Finance attaché",
+            "Audit attaché",
+            "Accounts assistant",
+            "Financial adviser"
+        ],
+        "company": [
+            "The Aga Khan Primary School",
+            "Premier academy",
+            "St. Mary’s academy",
+            "Chartered Institute of Banking (UK)",
+            "Chartered Insurance Institute (UK)",
+            "Chartered Institute of Securities and Investments",
+            "Tri Clover Ltd",
+            "PKF East Africa",
+            "The Athi River Steel Plant Ltd",
+            "Britam",
+            "Cytonn Investments"
+        ],
+        "university": [
+            "University of Sunderland",
+            "University of Nicosia"
+        ],
+        "degree": [
+            "IGCSE O-level",
+            "GCE A-level",
+            "Bachelor of Arts (Hons) Degree in Accounting and Financial management",
+            "Master of Business Administration"
+        ],
+        "years of experience": [],
+        "address": [
+            "Donyo Sabuk avenue",
+            "P.O Box 40920-00100",
+            "Mombasa Road",
+            "Grevillea Grove",
+            "Muthithi Place",
+            "Muthithi Road",
+            "Monrovia Street",
+            "Fedha Tower"
+        ],
+        "email": [],
+        "phone": [
+            "Cell phone number",
+            "+254718864307"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Urdu": 0.313,
+            "Punjabi": 0.2007,
+            "English": 0.7698,
+            "Kiswahili": 0.881,
+            "French": 0.635,
+            "Arabic": 0.7066,
+            "ABE UK level 5 and level 6 higher diploma in Business management": 0.6499,
+            "ACCA Part 2": 0.8159,
+            "Professional Banker Certificate": 0.818,
+            "Diploma in insurance": 0.6614,
+            "Diploma in Financial Planning": 0.597
+        },
+        "filename": "cv (1298)_annotated.json"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "skills": [
+        "Jamia Nagar",
+        "analytical and honest professional",
+        "expert knowledge",
+        "Tally",
+        "Maintaining basic accounts",
+        "Proficient in team member",
+        "determined",
+        "quick learner",
+        "good interpersonal skill",
+        "MS Excel",
+        "TALLY ERP 9.0",
+        "TALLY 7.2",
+        "Good command over calculations",
+        "Windows XP",
+        "2007",
+        "Vista",
+        "Windows 10",
+        "MS Office Suite",
+        "Personal Qualities",
+        "Self-Motivated",
+        "Loyal towards work and duties",
+        "Good communication skills",
+        "Interpersonal",
+        "Ability to provide excellent customer service",
+        "Positive thinking and hardworking",
+        "Attitude to learn and improve continuously"
+    ],
+    "professional_info": {
+        "person name": [
+            "INAM ALI",
+            "inam95ali"
+        ],
+        "job title": [
+            "inam0014",
+            "Accountant",
+            "Chartered Accountant Firm"
+        ],
+        "company": [
+            "Shymova Transformation Private Limited",
+            "Vipin Gupta & Co."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "3+ years of work experience"
+        ],
+        "address": [
+            "Syed Road",
+            "Gali no.2"
+        ],
+        "email": [
+            "E-Mail",
+            "gmail.com",
+            "Skype",
+            "E-mail applications"
+        ],
+        "phone": [
+            "Mobile No",
+            "+91 9871274780/9811879373"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Jamia Nagar": 0.168,
+            "analytical and honest professional": 0.2842,
+            "expert knowledge": 0.247,
+            "Tally": 0.1898,
+            "Maintaining basic accounts": 0.1759,
+            "Proficient in team member": 0.2105,
+            "determined": 0.2767,
+            "quick learner": 0.4004,
+            "good interpersonal skill": 0.3874,
+            "MS Excel": 0.3228,
+            "TALLY ERP 9.0": 0.3081,
+            "TALLY 7.2": 0.3068,
+            "Good command over calculations": 0.2138,
+            "Windows XP": 0.8573,
+            "2007": 0.9018,
+            "Vista": 0.9474,
+            "Windows 10": 0.9503,
+            "MS Office Suite": 0.8867,
+            "Personal Qualities": 0.1995,
+            "Self-Motivated": 0.4487,
+            "Loyal towards work and duties": 0.1643,
+            "Good communication skills": 0.2468,
+            "Interpersonal": 0.2572,
+            "Ability to provide excellent customer service": 0.2889,
+            "Positive thinking and hardworking": 0.2597,
+            "Attitude to learn and improve continuously": 0.3064
+        },
+        "filename": "cv (2701)_annotated.json"
+    }
+}

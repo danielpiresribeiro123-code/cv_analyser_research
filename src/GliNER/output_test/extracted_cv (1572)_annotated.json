@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "result oriented",
+        "hardworking individual",
+        "RAG",
+        "MIS",
+        "KPI",
+        "Vendor Aging analysis",
+        "KAIZENS",
+        "KAIZEN BRAVO Certification",
+        "Technical Skills",
+        "MS Office"
+    ],
+    "professional_info": {
+        "person name": [
+            "S. HARINI"
+        ],
+        "job title": [
+            "Designation",
+            "Senior Analyst",
+            "Senior Finance Associate",
+            "Manager"
+        ],
+        "company": [
+            "Scope International Pvt. Ltd.",
+            "Hewlett-Packard"
+        ],
+        "university": [
+            "University2008-201180.4%",
+            "CBSE"
+        ],
+        "degree": [
+            "PASSINGPERCENTAG",
+            "E",
+            "B.Com(Gen.) Madras",
+            "HSC",
+            "SSLC"
+        ],
+        "years of experience": [
+            "Experience",
+            "3 Years",
+            "3 Years & 5 Months"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "result oriented": 0.3199,
+            "hardworking individual": 0.2138,
+            "RAG": 0.1623,
+            "MIS": 0.2233,
+            "KPI": 0.18,
+            "Vendor Aging analysis": 0.3404,
+            "KAIZENS": 0.3391,
+            "KAIZEN BRAVO Certification": 0.8785,
+            "Technical Skills": 0.3048,
+            "MS Office": 0.3578
+        },
+        "filename": "cv (1572)_annotated.json"
+    }
+}

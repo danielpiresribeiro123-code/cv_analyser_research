@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "professional skills",
+        "MECHANICAL",
+        "Technological",
+        "Intermediate",
+        "Secondary",
+        "TECHNICAL SKILLS",
+        "CATIA V5",
+        "Pro-E 4.0",
+        "Creo 2.0",
+        "SHEETMETAL",
+        "PART MODELING",
+        "GD&T",
+        "MS-Office",
+        "Basics In C",
+        "Production Engineering",
+        "Engineering graphics",
+        "PERSONAL STRENGTH",
+        "Self-motivated",
+        "Optimist",
+        "Quick learner",
+        "certificate"
+    ],
+    "professional_info": {
+        "person name": [
+            "BhanuPrakash"
+        ],
+        "job title": [
+            "“A”   certificate holder",
+            "team facilitator",
+            "coordinator"
+        ],
+        "company": [
+            "SSCSt  Meera’s  Grammar",
+            "SAE",
+            "NCC (Air force Wing)"
+        ],
+        "university": [
+            "Vignan  Institute  Of",
+            "University",
+            "CollegeBoard of",
+            "High SchoolState Board of",
+            "VIGNAN INSTITUTE OF TECHNOLOGY AND SCIENCE"
+        ],
+        "degree": [
+            "B.Tech",
+            "Intermediate"
+        ],
+        "years of experience": [],
+        "address": [
+            "Bibinagar",
+            "A-309",
+            "Hill Colony",
+            "Vanasthalipuram",
+            "Hyd-70"
+        ],
+        "email": [
+            "Contact no: 9030121757",
+            "Email ID",
+            "Bhanuprakash.bbnagar@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "professional skills": 0.2137,
+            "MECHANICAL": 0.5821,
+            "Technological": 0.6148,
+            "Intermediate": 0.4079,
+            "Secondary": 0.2375,
+            "TECHNICAL SKILLS": 0.2404,
+            "CATIA V5": 0.5984,
+            "Pro-E 4.0": 0.5531,
+            "Creo 2.0": 0.5419,
+            "SHEETMETAL": 0.4966,
+            "PART MODELING": 0.3643,
+            "GD&T": 0.3874,
+            "MS-Office": 0.8502,
+            "Basics In C": 0.5898,
+            "Production Engineering": 0.7141,
+            "Engineering graphics": 0.3415,
+            "PERSONAL STRENGTH": 0.4311,
+            "Self-motivated": 0.5392,
+            "Optimist": 0.6007,
+            "Quick learner": 0.5447,
+            "certificate": 0.2014
+        },
+        "filename": "cv (3342)_annotated.json"
+    }
+}

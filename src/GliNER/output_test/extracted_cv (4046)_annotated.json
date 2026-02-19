@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "Plumber ITI",
+        "Diploma in Computer application",
+        "multilingual",
+        "plumbing",
+        "Ability and Experience of working independently",
+        "Ability and willingness to learn and innovate",
+        "Positive attitude",
+        "Well versed",
+        "MS-Office",
+        "Word",
+        "Excel",
+        "power point",
+        "XP",
+        "2000",
+        "98",
+        "water heaters",
+        "faucets",
+        "pressure switches",
+        "steam to hot water exchangers",
+        "defected washers"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAJID RAZA",
+            "CA  RRER"
+        ],
+        "job title": [],
+        "company": [
+            "national   Council for Vocational Training",
+            "DUBAI  AIR PORT C3 PROJECT",
+            "DUBAI AIRPORT C3 PROJECT",
+            "ABU DHABI CCAD PROJECT",
+            "ABU DHABI CCAD PROJEDCT"
+        ],
+        "university": [
+            "Ranchi university"
+        ],
+        "degree": [
+            "Bachelor of arts"
+        ],
+        "years of experience": [
+            "7 YEARS"
+        ],
+        "address": [],
+        "email": [
+            "EMAIL",
+            "+97466241098"
+        ],
+        "phone": [
+            "MOBILE"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Plumber ITI": 0.2992,
+            "Diploma in Computer application": 0.4223,
+            "multilingual": 0.2505,
+            "plumbing": 0.2658,
+            "Ability and Experience of working independently": 0.2454,
+            "Ability and willingness to learn and innovate": 0.266,
+            "Positive attitude": 0.4253,
+            "Well versed": 0.3215,
+            "MS-Office": 0.7045,
+            "Word": 0.4947,
+            "Excel": 0.4474,
+            "power point": 0.5465,
+            "XP": 0.7372,
+            "2000": 0.5426,
+            "98": 0.4356,
+            "water heaters": 0.1575,
+            "faucets": 0.153,
+            "pressure switches": 0.2043,
+            "steam to hot water exchangers": 0.1554,
+            "defected washers": 0.2055
+        },
+        "filename": "cv (4046)_annotated.json"
+    }
+}

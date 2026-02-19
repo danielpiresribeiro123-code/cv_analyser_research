@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "Civil",
+        "international standards",
+        "project development",
+        "construction procedure s",
+        "methodologies",
+        "project management software’s",
+        "Planning",
+        "Scheduling",
+        "Coordination",
+        "Primavera",
+        "P3",
+        "P6",
+        "Ms Projectand",
+        "MS office software",
+        "Industry Skills",
+        "Prim avera",
+        "PMP",
+        "Project Management",
+        "Planning",
+        "Fidic Conditions of Contract",
+        "Time Impact & delay analysis",
+        "Programme analysis",
+        "Earned Value Analysis",
+        "Claim Digger",
+        "Portfolio analyst",
+        "Software Skills",
+        "Project Planning Software",
+        "Design Software"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohammad Owais Qureshy",
+            "Mohammad Owais",
+            "project directors",
+            "Mohammad Owais QureshyMohammad Owais Qureshy"
+        ],
+        "job title": [
+            "ProjectPlanning Engineer",
+            "dynamic professional",
+            "Planning Engineer",
+            "project managers"
+        ],
+        "company": [
+            "Metac Gen Con Co LLCas"
+        ],
+        "university": [
+            "AL-Falah school of engineering & Management",
+            "Aligarh Muslim University"
+        ],
+        "degree": [
+            "B.E. (Mechanical)",
+            "12th"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "Civil": 0.2126,
+            "international standards": 0.6973,
+            "project development": 0.4492,
+            "construction procedure s": 0.2999,
+            "methodologies": 0.5319,
+            "project management software’s": 0.272,
+            "Planning": 0.2676,
+            "Scheduling": 0.2468,
+            "Coordination": 0.232,
+            "Primavera": 0.7874,
+            "P3": 0.3009,
+            "P6": 0.3294,
+            "Ms Projectand": 0.4886,
+            "MS office software": 0.5132,
+            "Industry Skills": 0.1838,
+            "Prim avera": 0.4888,
+            "PMP": 0.7252,
+            "Project Management": 0.1717,
+            "Fidic Conditions of Contract": 0.1618,
+            "Time Impact & delay analysis": 0.2561,
+            "Programme analysis": 0.3241,
+            "Earned Value Analysis": 0.2332,
+            "Claim Digger": 0.341,
+            "Portfolio analyst": 0.3538,
+            "Software Skills": 0.2133,
+            "Project Planning Software": 0.3829,
+            "Design Software": 0.2496
+        },
+        "filename": "cv (3268)_annotated.json"
+    }
+}

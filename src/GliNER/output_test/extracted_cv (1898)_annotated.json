@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "Engineering",
+        "Engineering92",
+        "COMPUTER",
+        "Power Electronics",
+        "AUTO CAD 2010",
+        "Transformer",
+        "Multisim",
+        "Programmable logic control",
+        "MATLAB SIMULATION",
+        "C",
+        "JAVA BASIC",
+        "PLC PROGRAMMING",
+        "Leadership ability",
+        "Help to others",
+        "PLC",
+        "REMOTE CONTROL USING HOME APPLIANCIES",
+        "MINI HYTRO POWER PLANT",
+        "ARDUINO BASED HUMAN SENSING",
+        "SELF BALANCING ROBOT",
+        "PLC&SCADA interfacing program"
+    ],
+    "professional_info": {
+        "person name": [
+            "D.sasikumar",
+            "P.A.C Rama",
+            "Samy  raja",
+            "Nadar.",
+            "sasivijay786"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "ACADEMIC",
+            "K.L.N College of",
+            "polytechnic",
+            "college 2011-2013",
+            "SSLC",
+            "anna university Chennai guindy",
+            "kln college of engineering"
+        ],
+        "degree": [
+            "B.EElectrical  and"
+        ],
+        "years of experience": [],
+        "address": [
+            "79/78B SOLARAJAPURAM STREET",
+            "AVARAMPATTI",
+            "RAJAPALAYAM- 626117"
+        ],
+        "email": [
+            "Sasivijay786@gmail.com",
+            "E-MAIL"
+        ],
+        "phone": [
+            "9629212031",
+            "MOBILE"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Engineering": 0.3422,
+            "Engineering92": 0.1968,
+            "COMPUTER": 0.468,
+            "Power Electronics": 0.3722,
+            "AUTO CAD 2010": 0.5923,
+            "Transformer": 0.5034,
+            "Multisim": 0.499,
+            "Programmable logic control": 0.5803,
+            "MATLAB SIMULATION": 0.4509,
+            "C": 0.8368,
+            "JAVA BASIC": 0.8907,
+            "PLC PROGRAMMING": 0.7668,
+            "Leadership ability": 0.4552,
+            "Help to others": 0.2708,
+            "PLC": 0.1663,
+            "REMOTE CONTROL USING HOME APPLIANCIES": 0.1681,
+            "MINI HYTRO POWER PLANT": 0.1775,
+            "ARDUINO BASED HUMAN SENSING": 0.2053,
+            "SELF BALANCING ROBOT": 0.2314,
+            "PLC&SCADA interfacing program": 0.1674
+        },
+        "filename": "cv (1898)_annotated.json"
+    }
+}

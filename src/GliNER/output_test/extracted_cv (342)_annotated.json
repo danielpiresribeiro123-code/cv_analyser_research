@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "English",
+        "Hindi",
+        "Marathi",
+        "Radio (Tactical)",
+        "MS Word",
+        "MS Excel",
+        "Power Point",
+        "basic hardware & networking",
+        "Anti Piracy Course",
+        "City & Guilds Course",
+        "ROSC",
+        "ARPA(Automatic Radar)",
+        "ARPA",
+        "Diploma in General communication",
+        "Diploma in Information Technology"
+    ],
+    "professional_info": {
+        "person name": [
+            "Deshmukh Santosh Kumar",
+            "Mrs Sushma S Deshmukh"
+        ],
+        "job title": [
+            "ADMINISTRATION OFFICER",
+            "Petty Officer",
+            "Senior Team Leader",
+            "Maritime Security Team",
+            "Deputy Team Leader",
+            "2nd Officer (NCV) Coastal",
+            "Fire and safety Officer"
+        ],
+        "company": [],
+        "university": [
+            "Cochin University of Science & Technology",
+            "Om Computer Institute",
+            "CBSE Board2011"
+        ],
+        "degree": [
+            "AR",
+            "Degree Equivalent"
+        ],
+        "years of experience": [],
+        "address": [
+            "S.No 18/2",
+            "Sambhaji Nagar",
+            "Runwal Park"
+        ],
+        "email": [
+            "+91 9284998983",
+            "E-mail ID",
+            "santoshkumardeshmukh777@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "English": 0.7154,
+            "Hindi": 0.8242,
+            "Marathi": 0.858,
+            "Radio (Tactical)": 0.1757,
+            "MS Word": 0.5704,
+            "MS Excel": 0.5401,
+            "Power Point": 0.4515,
+            "basic hardware & networking": 0.1967,
+            "Anti Piracy Course": 0.2287,
+            "City & Guilds Course": 0.1775,
+            "ROSC": 0.2115,
+            "ARPA(Automatic Radar)": 0.1747,
+            "ARPA": 0.2222,
+            "Diploma in General communication": 0.7552,
+            "Diploma in Information Technology": 0.7791
+        },
+        "filename": "cv (342)_annotated.json"
+    }
+}

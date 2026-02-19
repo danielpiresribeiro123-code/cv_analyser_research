@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "competency",
+        "hard work",
+        "personality",
+        "Electrical & Electronics",
+        "1st class",
+        "honors",
+        "Intermediate of science",
+        "good communication skill",
+        "professional experience",
+        "teamwork ability",
+        "hardworking and result oriented attitude",
+        "well understanding",
+        "firm nature"
+    ],
+    "professional_info": {
+        "person name": [
+            "ABDULLAH"
+        ],
+        "job title": [
+            "ELECTRICAL & ELECTRONICS ENGINEER",
+            "ELECTRICAL SITE ENGINEER"
+        ],
+        "company": [
+            "R High School Sanh Begusarai",
+            "INDIAN Oil Crop Ltd",
+            "Vertical Axix Energy with Wind Energy",
+            "VARDHMAN ELECTRO-MECH PVT. LIMITED",
+            "VARDHMAN ELECTRO-MECH PVT.LIMITED"
+        ],
+        "university": [
+            "Al Falah School of Engineering & Technology",
+            "Maharishi Dayanand University",
+            "P.D.S.k. College Begusarai"
+        ],
+        "degree": [
+            "Bachelor degree",
+            "B.S.E.B",
+            "Matriculation"
+        ],
+        "years of experience": [],
+        "address": [
+            "Village&Post-Sanha",
+            "Mob No"
+        ],
+        "email": [
+            "E-mail",
+            "abdullah10293@gmail.com",
+            "Skype"
+        ],
+        "phone": [
+            "+919934057864"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "competency": 0.5775,
+            "hard work": 0.2894,
+            "personality": 0.154,
+            "Electrical & Electronics": 0.3521,
+            "1st class": 0.1997,
+            "honors": 0.1891,
+            "Intermediate of science": 0.3515,
+            "good communication skill": 0.5222,
+            "professional experience": 0.4596,
+            "teamwork ability": 0.5614,
+            "hardworking and result oriented attitude": 0.5513,
+            "well understanding": 0.5065,
+            "firm nature": 0.6469
+        },
+        "filename": "cv (2811)_annotated.json"
+    }
+}

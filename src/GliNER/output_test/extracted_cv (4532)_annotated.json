@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "media production",
+        "messaging",
+        "Excellent oral and written communication skills",
+        "marketing",
+        "public relations",
+        "Superb writer and editor",
+        "Poised and competent",
+        "natural leader",
+        "Promotional campaigns",
+        "Project management",
+        "Deadline-driven",
+        "Exceptional multi-tasker",
+        "Decisive problem solver",
+        "Persuasive negotiator",
+        "Organized and efficient",
+        "Motivated team player",
+        "Account management",
+        "Direct marketing campaigns",
+        "Excellent written and verbal communicator",
+        "Microsoft Office Suite",
+        "Enthusiastic team player",
+        "Media relations",
+        "business",
+        "politics",
+        "entertainment",
+        "digital media",
+        "advertising",
+        "consumer promotional campaigns",
+        "tech",
+        "blogs"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "PUBLIC RELATIONS MARKETING MANAGER",
+            "Public Relations/Marketing/Media expert",
+            "Public Relations Specialist",
+            "team builder",
+            "expert"
+        ],
+        "company": [
+            "television company",
+            "non-profit",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "20+years"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 30,
+        "confidence_scores": {
+            "media production": 0.1582,
+            "messaging": 0.2112,
+            "Excellent oral and written communication skills": 0.4055,
+            "marketing": 0.2376,
+            "public relations": 0.2285,
+            "Superb writer and editor": 0.2855,
+            "Poised and competent": 0.2998,
+            "natural leader": 0.3594,
+            "Promotional campaigns": 0.1934,
+            "Project management": 0.6451,
+            "Deadline-driven": 0.151,
+            "Exceptional multi-tasker": 0.2614,
+            "Decisive problem solver": 0.2658,
+            "Persuasive negotiator": 0.4661,
+            "Organized and efficient": 0.4075,
+            "Motivated team player": 0.4104,
+            "Account management": 0.4241,
+            "Direct marketing campaigns": 0.1634,
+            "Excellent written and verbal communicator": 0.3289,
+            "Microsoft Office Suite": 0.7957,
+            "Enthusiastic team player": 0.3679,
+            "Media relations": 0.3637,
+            "business": 0.2635,
+            "politics": 0.2425,
+            "entertainment": 0.264,
+            "digital media": 0.4567,
+            "advertising": 0.268,
+            "consumer promotional campaigns": 0.1972,
+            "tech": 0.1874,
+            "blogs": 0.157
+        },
+        "filename": "cv (4532)_annotated.json"
+    }
+}

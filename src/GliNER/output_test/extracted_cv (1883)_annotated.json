@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "ACADEMIC QUALIFICATION",
+        "SOFTWARE PROFICIENCY",
+        "CAM/CAD",
+        "ANSYS",
+        "CATIA",
+        "Solid edge",
+        "Engineering DrawingInterpersonal skills",
+        "Good communication skills",
+        "Leadership quality",
+        "Confident",
+        "ability to fulfill job requirement",
+        "Organizing ability",
+        "Social adaptable",
+        "Self-motivation",
+        "Self-confidence",
+        "ability to grasp things quickly",
+        "HOBBIES",
+        "Making new friends",
+        "Unmarried",
+        "English",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAJIV KUMAR",
+            "MR.BILTU PRASAD MAHTO",
+            "Mr. Biltu Prasad Mahto"
+        ],
+        "job title": [
+            "Force Motor As a Service Engineer"
+        ],
+        "company": [
+            "GURU NANAK DEV ENGG. COLLEGE",
+            "Senior Secondary School",
+            "DIN DYAL HIGH SCHOOL UMGAON"
+        ],
+        "university": [
+            "AutoMobile",
+            "VISVESVARAYA TECHNOLOGICAL UNIVERSITY",
+            "B.D.EVENING COLLEGE"
+        ],
+        "degree": [
+            "Bachelor of Engineering"
+        ],
+        "years of experience": [
+            "1Year"
+        ],
+        "address": [
+            "Pipraun Via-Umgaon",
+            "P.s.",
+            "Harlakhi Dist."
+        ],
+        "email": [
+            "E-mail",
+            "rajeev7507@gmail.com"
+        ],
+        "phone": [
+            "Contact",
+            "+919880306230",
+            "9 155047766"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "ACADEMIC QUALIFICATION": 0.2957,
+            "SOFTWARE PROFICIENCY": 0.4809,
+            "CAM/CAD": 0.296,
+            "ANSYS": 0.2373,
+            "CATIA": 0.3204,
+            "Solid edge": 0.404,
+            "Engineering DrawingInterpersonal skills": 0.1963,
+            "Good communication skills": 0.4146,
+            "Leadership quality": 0.4772,
+            "Confident": 0.353,
+            "ability to fulfill job requirement": 0.2401,
+            "Organizing ability": 0.2801,
+            "Social adaptable": 0.4867,
+            "Self-motivation": 0.399,
+            "Self-confidence": 0.3348,
+            "ability to grasp things quickly": 0.2807,
+            "HOBBIES": 0.197,
+            "Making new friends": 0.2339,
+            "Unmarried": 0.2766,
+            "English": 0.677,
+            "Hindi": 0.7837
+        },
+        "filename": "cv (1883)_annotated.json"
+    }
+}

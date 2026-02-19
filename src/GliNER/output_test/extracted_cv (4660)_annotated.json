@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "interest",
+        "medical field",
+        "passion",
+        "Effectiveness",
+        "disciplined and passionate",
+        "dedication",
+        "Highly skilled",
+        "aviation and ammunitions supply management",
+        "aviation supply administration",
+        "expertise",
+        "accountability",
+        "highly technical functions",
+        "aviation supply management",
+        "automated material management systems",
+        "Federal Acquisition regulations"
+    ],
+    "professional_info": {
+        "person name": [
+            "I",
+            "Owen B Headman"
+        ],
+        "job title": [
+            "candidate",
+            "retired United States Army Sergeant"
+        ],
+        "company": [
+            "AVIATION SUPPLY SPECIALISTS",
+            "Company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "over 20 years of military experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "interest": 0.1692,
+            "medical field": 0.4941,
+            "passion": 0.2704,
+            "Effectiveness": 0.4172,
+            "disciplined and passionate": 0.301,
+            "dedication": 0.2163,
+            "Highly skilled": 0.2381,
+            "aviation and ammunitions supply management": 0.3561,
+            "aviation supply administration": 0.3664,
+            "expertise": 0.2884,
+            "accountability": 0.3754,
+            "highly technical functions": 0.2023,
+            "aviation supply management": 0.5009,
+            "automated material management systems": 0.6344,
+            "Federal Acquisition regulations": 0.2391
+        },
+        "filename": "cv (4660)_annotated.json"
+    }
+}

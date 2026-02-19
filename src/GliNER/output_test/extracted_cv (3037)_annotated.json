@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "HVAC",
+        "Maintenance",
+        "MECHANICAL AND AIR  CONDITION equipment",
+        "Mechanical and Air-condition equipment",
+        "Screw/Scroll/Reciprocating Type Package/Ductable",
+        "Split Units",
+        "VRFs",
+        "AHUs",
+        "Proven",
+        "People management skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "H.N.MANNA",
+            "HARA NATH MANNA"
+        ],
+        "job title": [
+            "INCHARGE",
+            "Competent & diligent foreman",
+            "departmental in -charge",
+            "Department In-charge"
+        ],
+        "company": [
+            "JlNDAL STEEL AND POWER LIMITED",
+            "HEATING VENTILATION AND AIR CONDITION MECHANICAL STEEL AND POWER INDUSTRY",
+            "JINDAL STEEL AND POWER, LTD",
+            "JINDAL STEEL AND POWER LIMITED"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "16 years",
+            "15 years"
+        ],
+        "address": [
+            "C.G. 496001",
+            "JV-11",
+            "Near-2 no gate",
+            "kharsia road",
+            "Raigarh-CG-496001"
+        ],
+        "email": [
+            "Email",
+            "hnmanna@gmail.com"
+        ],
+        "phone": [
+            "MOB",
+            "+919827477776",
+            "+91-9827477776"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "HVAC": 0.6004,
+            "Maintenance": 0.436,
+            "MECHANICAL AND AIR  CONDITION equipment": 0.2362,
+            "Mechanical and Air-condition equipment": 0.3438,
+            "Screw/Scroll/Reciprocating Type Package/Ductable": 0.3631,
+            "Split Units": 0.506,
+            "VRFs": 0.4041,
+            "AHUs": 0.3909,
+            "Proven": 0.2388,
+            "People management skills": 0.6387
+        },
+        "filename": "cv (3037)_annotated.json"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "GATE 2015",
+        "creative",
+        "leadership",
+        "technical",
+        "innovative",
+        "logical skills",
+        "CATIA",
+        "AUTOCAD",
+        "Electric Loco Study",
+        "Software/Computer Proficiency",
+        "MS OFFICE",
+        "Production Engineering",
+        "Industrial Engineering",
+        "Business Management",
+        "Project Management",
+        "Software Engineering"
+    ],
+    "professional_info": {
+        "person name": [
+            "Prashant Goyal"
+        ],
+        "job title": [],
+        "company": [
+            "B.TECH  JSS ACADEMY OF",
+            "TECHNICAL",
+            "INTERMEDIATE  AGRA PUBLIC SCHOOL",
+            "HIGH SCHOOL  GANESHA BLESSED",
+            "Bharat Heavy Electricals Limited",
+            "CETPA  Infotech Pvt. Ltd.",
+            "Northern Railways"
+        ],
+        "university": [
+            "NOIDA  UTTAR PRADESH",
+            "UNIVERSITY  2015",
+            "AGRA  CBSE",
+            "SHIVPURI  CBSE"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-mail",
+            "prashantgoyal93jss@gmail.com",
+            "prashantgoyal93@yahoo.com",
+            "Objecti ve"
+        ],
+        "phone": [
+            "Tel",
+            "9711470283",
+            "9458566076"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "GATE 2015": 0.9135,
+            "creative": 0.2082,
+            "leadership": 0.491,
+            "technical": 0.2875,
+            "innovative": 0.1843,
+            "logical skills": 0.4025,
+            "CATIA": 0.3587,
+            "AUTOCAD": 0.2502,
+            "Electric Loco Study": 0.2345,
+            "Software/Computer Proficiency": 0.1595,
+            "MS OFFICE": 0.7616,
+            "Production Engineering": 0.5632,
+            "Industrial Engineering": 0.5115,
+            "Business Management": 0.4295,
+            "Project Management": 0.5366,
+            "Software Engineering": 0.3236
+        },
+        "filename": "cv (1227)_annotated.json"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "Bioinformatics",
+        "Microbial Source Trac king for Fecal Coliforms",
+        "Database Management",
+        "National Merit Scholarship",
+        "National Eligibility Test",
+        "Soil Science",
+        "Soil fertility",
+        "Soil Chemistry",
+        "Microbiology",
+        "Arc View GIS",
+        "crop uptake",
+        "Geohydr ologic Mapping",
+        "GIS",
+        "Database development and management",
+        "Computer Program design"
+    ],
+    "professional_info": {
+        "person name": [
+            "REDDY GANTA"
+        ],
+        "job title": [
+            "Environmental Scientist"
+        ],
+        "company": [
+            "GLORIETA GEOSCIENCE, INC."
+        ],
+        "university": [
+            "Indiana University-P urdue University Indianapolis",
+            "Indian Council of Agricultural Research (ICAR)",
+            "University of Idaho"
+        ],
+        "degree": [
+            "M.S."
+        ],
+        "years of experience": [
+            "Professional Experience"
+        ],
+        "address": [
+            "1 723 Second Street",
+            "Santa Fe",
+            "Ext. 107"
+        ],
+        "email": [
+            "email"
+        ],
+        "phone": [
+            "Voice",
+            "Fax"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Bioinformatics": 0.3496,
+            "Microbial Source Trac king for Fecal Coliforms": 0.2724,
+            "Database Management": 0.2821,
+            "National Merit Scholarship": 0.3329,
+            "National Eligibility Test": 0.2963,
+            "Soil Science": 0.5942,
+            "Soil fertility": 0.4131,
+            "Soil Chemistry": 0.3063,
+            "Microbiology": 0.2315,
+            "Arc View GIS": 0.467,
+            "crop uptake": 0.2515,
+            "Geohydr ologic Mapping": 0.2079,
+            "GIS": 0.2671,
+            "Database development and management": 0.2262,
+            "Computer Program design": 0.3312
+        },
+        "filename": "cv (1156)_annotated.json"
+    }
+}

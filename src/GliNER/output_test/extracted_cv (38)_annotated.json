@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "knowledge",
+        "experience",
+        "eager",
+        "enthusiastic",
+        "determined",
+        "Able to examine a complicated problem in all aspects",
+        "cool",
+        "Confident",
+        "Column",
+        "Electrical Rack",
+        "Manpower handling",
+        "Team Leader",
+        "skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "AVINASH KATOCH"
+        ],
+        "job title": [
+            "Structural Engineer",
+            "Mechanical Engineer",
+            "ENGINEER"
+        ],
+        "company": [
+            "M/s SATNAM GLOBAL INFRAPROJECT LTD.",
+            "ONGC VA&S1 Development Project Odlarevu"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "4.5 Year Experience"
+        ],
+        "address": [
+            "Palampur",
+            "Kangra - 176076",
+            "H.P",
+            "Amlapuram"
+        ],
+        "email": [
+            "E-mail id",
+            "avikatoch1211.@gmail.com"
+        ],
+        "phone": [
+            "Contact",
+            "+918374469079",
+            "+919882626143"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "knowledge": 0.2026,
+            "experience": 0.2045,
+            "eager": 0.2508,
+            "enthusiastic": 0.2007,
+            "determined": 0.1898,
+            "Able to examine a complicated problem in all aspects": 0.1865,
+            "cool": 0.2215,
+            "Confident": 0.4125,
+            "Column": 0.1598,
+            "Electrical Rack": 0.1695,
+            "Manpower handling": 0.1641,
+            "Team Leader": 0.3025,
+            "skills": 0.1673
+        },
+        "filename": "cv (38)_annotated.json"
+    }
+}

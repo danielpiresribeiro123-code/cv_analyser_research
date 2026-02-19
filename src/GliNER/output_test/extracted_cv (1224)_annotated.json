@@ -1,0 +1,33 @@
+{
+    "skills": [
+        "Hebrew",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Music Teacher",
+            "psychologist",
+            "Choir Director",
+            "Director"
+        ],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Chicago, IL",
+            "Yehud"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "Hebrew": 0.8049,
+            "English": 0.5703
+        },
+        "filename": "cv (1224)_annotated.json"
+    }
+}

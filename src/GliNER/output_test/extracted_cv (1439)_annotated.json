@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "character",
+        "Personal skills",
+        "Good interpersonal and communication skills",
+        "public relation",
+        "Outgoing personality",
+        "willingness to take initiative",
+        "Excellent organization skills",
+        "Microsoft office",
+        "windows word",
+        "Excel",
+        "Access",
+        "Inter-",
+        "net",
+        "Power point",
+        "Writing",
+        "Reading",
+        "Conversation"
+    ],
+    "professional_info": {
+        "person name": [
+            "Palestinian"
+        ],
+        "job title": [
+            "Single",
+            "title"
+        ],
+        "company": [
+            "company",
+            "G.P.A"
+        ],
+        "university": [
+            "Middle East University"
+        ],
+        "degree": [
+            "Master in Accounting",
+            "BA Degree in Accounting"
+        ],
+        "years of experience": [],
+        "address": [
+            "Amman- Um Alsoumaq"
+        ],
+        "email": [
+            "E-Mail",
+            "tomb_mohammad@ytahoo.com"
+        ],
+        "phone": [
+            "+962777778860"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "character": 0.1662,
+            "Personal skills": 0.3303,
+            "Good interpersonal and communication skills": 0.4279,
+            "public relation": 0.2961,
+            "Outgoing personality": 0.7141,
+            "willingness to take initiative": 0.4529,
+            "Excellent organization skills": 0.3695,
+            "Microsoft office": 0.6883,
+            "windows word": 0.6264,
+            "Excel": 0.525,
+            "Access": 0.5835,
+            "Inter-": 0.4651,
+            "net": 0.6338,
+            "Power point": 0.6974,
+            "Writing": 0.5143,
+            "Reading": 0.4279,
+            "Conversation": 0.3568
+        },
+        "filename": "cv (1439)_annotated.json"
+    }
+}

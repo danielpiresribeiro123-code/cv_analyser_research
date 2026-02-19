@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "c reative problem solving",
+        "lean management skills",
+        "technical skills",
+        "Arc GIS",
+        "Auto CAD",
+        "Erdas Ima gine",
+        "Arc Object",
+        "C# .Net",
+        "MapInfo",
+        "Image Processing Software",
+        "Erdas imagine",
+        "DBMS software",
+        "MS Access",
+        "C",
+        "Python",
+        "Arc Object",
+        "C#  .NET",
+        "MS Word",
+        "Advance Excel"
+    ],
+    "professional_info": {
+        "person name": [
+            "ABHIJIT ADHIKARY"
+        ],
+        "job title": [
+            "GIS Engineer",
+            "Developer",
+            "GIS Executive"
+        ],
+        "company": [
+            "ERIS Techno Management Pvt. Ltd.",
+            "Spatial Geotech Pvt. Ltd."
+        ],
+        "university": [
+            "Uttarakhand Open Univ ersity"
+        ],
+        "degree": [
+            "Masters in Geoinfomatics"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email id",
+            "abhijitadhikary001@gmail.com",
+            "Highest Educational Qualification"
+        ],
+        "phone": [
+            "+917278409851"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "c reative problem solving": 0.337,
+            "lean management skills": 0.6085,
+            "technical skills": 0.5054,
+            "Arc GIS": 0.5387,
+            "Auto CAD": 0.4654,
+            "Erdas Ima gine": 0.3898,
+            "Arc Object": 0.4278,
+            "C# .Net": 0.4674,
+            "MapInfo": 0.3973,
+            "Image Processing Software": 0.2781,
+            "Erdas imagine": 0.3611,
+            "DBMS software": 0.2397,
+            "MS Access": 0.874,
+            "C": 0.4013,
+            "Python": 0.7214,
+            "C#  .NET": 0.4014,
+            "MS Word": 0.5774,
+            "Advance Excel": 0.3556
+        },
+        "filename": "cv (2921)_annotated.json"
+    }
+}

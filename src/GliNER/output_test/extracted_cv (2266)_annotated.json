@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "MD",
+        "CAREER",
+        "ACADEMIC",
+        "Accounts Hons",
+        "Science",
+        "Math",
+        "PROFESSIONAL",
+        "Diploma",
+        "Ms.",
+        "Internet",
+        "MS",
+        "Windows",
+        "XP",
+        "IT"
+    ],
+    "professional_info": {
+        "person name": [
+            "ZAKI",
+            "Mehdi",
+            "Hassan",
+            "Durga",
+            "Till"
+        ],
+        "job title": [],
+        "company": [
+            "Enterprises",
+            "Microtek"
+        ],
+        "university": [
+            "B.Com.",
+            "B.R.A.B.U.",
+            "I.Sc.",
+            "B.S.E.B"
+        ],
+        "degree": [
+            "Matriculation"
+        ],
+        "years of experience": [
+            "2",
+            "with"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "mdzakiahmad9709@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+919608321650",
+            "2012",
+            "2009",
+            "2005"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "MD": 0.2123,
+            "CAREER": 0.3827,
+            "ACADEMIC": 0.2313,
+            "Accounts Hons": 0.4401,
+            "Science": 0.1528,
+            "Math": 0.2486,
+            "PROFESSIONAL": 0.2159,
+            "Diploma": 0.2486,
+            "Ms.": 0.2395,
+            "Internet": 0.6738,
+            "MS": 0.1667,
+            "Windows": 0.8607,
+            "XP": 0.4673,
+            "IT": 0.1556
+        },
+        "filename": "cv (2266)_annotated.json"
+    }
+}

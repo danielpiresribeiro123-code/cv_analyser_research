@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "Design Engineering",
+        "Master Data Management",
+        "Query Handling",
+        "engineering drawings",
+        "successful team player",
+        "Effective communicator",
+        "problem solving",
+        "organizational abilities"
+    ],
+    "professional_info": {
+        "person name": [
+            "GYANESH GULSHAN"
+        ],
+        "job title": [
+            "Component Engineer",
+            "CAD Engineer"
+        ],
+        "company": [
+            "Oceaneering International Services Ltd",
+            "Oceaneering International Services Ltd.",
+            "AutoCAD",
+            "SolidWorks"
+        ],
+        "university": [],
+        "degree": [
+            "Mechanical Engineering graduate"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": [
+            "+91 904 146 6633"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Design Engineering": 0.8164,
+            "Master Data Management": 0.3769,
+            "Query Handling": 0.1934,
+            "engineering drawings": 0.1754,
+            "successful team player": 0.171,
+            "Effective communicator": 0.2134,
+            "problem solving": 0.1983,
+            "organizational abilities": 0.169
+        },
+        "filename": "cv (2181)_annotated.json"
+    }
+}

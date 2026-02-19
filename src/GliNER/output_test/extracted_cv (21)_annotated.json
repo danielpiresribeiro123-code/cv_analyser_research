@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "expertise",
+        "Skill Set",
+        "Good knowledge",
+        "circuit boards",
+        "electrical circuits",
+        "transmission",
+        "switching",
+        "control",
+        "operation system",
+        "Strong technical",
+        "physics skill",
+        "Innovative thinking",
+        "positive approach",
+        "Ms-Office",
+        "MS office",
+        "PowerPoint",
+        "Control & Instrumentation",
+        "DDC-MIS",
+        "Distributed Digital Control Monitoring & Instrument Information System",
+        "Electricity Generation by Windmill & Control with Microcontroller",
+        "Wind Mill technique",
+        "step up transformer"
+    ],
+    "professional_info": {
+        "person name": [
+            "EHTESHAM KHAN",
+            "12th"
+        ],
+        "job title": [
+            "Professional",
+            "Academic"
+        ],
+        "company": [],
+        "university": [
+            "Kanpur  Institute  Of Technology",
+            "Shah Faiz Public School",
+            "C.B.S.E.",
+            "Panki Thermal Power Station"
+        ],
+        "degree": [
+            "B.Tech  in  Electrical  &  Electronics  Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "235/19",
+            "Tughlakabaad Ext.",
+            "New Delhi"
+        ],
+        "email": [
+            "E mail Id: ehteshamkhan503@gmail.com"
+        ],
+        "phone": [
+            "Mobile no",
+            "+919310131659",
+            "8874060242"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "expertise": 0.271,
+            "Skill Set": 0.209,
+            "Good knowledge": 0.2795,
+            "circuit boards": 0.1657,
+            "electrical circuits": 0.1977,
+            "transmission": 0.3528,
+            "switching": 0.3359,
+            "control": 0.2891,
+            "operation system": 0.276,
+            "Strong technical": 0.1834,
+            "physics skill": 0.1911,
+            "Innovative thinking": 0.2885,
+            "positive approach": 0.1808,
+            "Ms-Office": 0.7068,
+            "MS office": 0.6105,
+            "PowerPoint": 0.2537,
+            "Control & Instrumentation": 0.1501,
+            "DDC-MIS": 0.232,
+            "Distributed Digital Control Monitoring & Instrument Information System": 0.1912,
+            "Electricity Generation by Windmill & Control with Microcontroller": 0.1977,
+            "Wind Mill technique": 0.2388,
+            "step up transformer": 0.2379
+        },
+        "filename": "cv (21)_annotated.json"
+    }
+}

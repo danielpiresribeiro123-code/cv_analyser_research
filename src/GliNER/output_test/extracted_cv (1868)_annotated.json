@@ -1,0 +1,97 @@
+{
+    "skills": [
+        "innovative skills",
+        "Responsible for machine maintenance",
+        "Responsible for preventive and predictive maintenance",
+        "Inventory management",
+        "5S",
+        "MTTR",
+        "MTBF",
+        "root cause analysis",
+        "Knowledge of Motor Connection & its Protection",
+        "Knowledge",
+        "PLC",
+        "Knowledge of different types of sensors and its wring",
+        "Knowledge of MCB",
+        "MCCB",
+        "ELCB",
+        "RCCB",
+        "pneumatic system",
+        "pneumatic cylinder",
+        "Knowledge",
+        "NO",
+        "NC",
+        "relay",
+        "contactor and its connection",
+        "Knowledge of solenoid valves",
+        "ACADEMIC QUALIFICATION",
+        "QUALIFICATION INSTITUTE BOARDYear of",
+        "Intermediate           Kisan"
+    ],
+    "professional_info": {
+        "person name": [
+            "FAISAL HUSSAIN KHAN"
+        ],
+        "job title": [
+            "Title",
+            "Maintenance Engineer"
+        ],
+        "company": [
+            "Motherson Sumi Systems Limited",
+            "MSSL",
+            "Samvardhana",
+            "Motherson Group",
+            "Sumitomo Wiring, Systems",
+            "Signal and Telecommunication Centre NE Railway",
+            "RS Infra Private Limited",
+            "Sofcon India Private, Limited",
+            "Sofcon India Private Limited"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Village-Jagdeeshpur Gahi",
+            "Post-Ghaghsara",
+            "Thaseel-Sahjanwa",
+            "Distt.-Gorakhpur",
+            "Noida"
+        ],
+        "email": [
+            "hi2faisal@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "innovative skills": 0.1655,
+            "Responsible for machine maintenance": 0.1849,
+            "Responsible for preventive and predictive maintenance": 0.1691,
+            "Inventory management": 0.2278,
+            "5S": 0.2631,
+            "MTTR": 0.2045,
+            "MTBF": 0.2106,
+            "root cause analysis": 0.2224,
+            "Knowledge of Motor Connection & its Protection": 0.3729,
+            "Knowledge": 0.1604,
+            "PLC": 0.3029,
+            "Knowledge of different types of sensors and its wring": 0.2207,
+            "Knowledge of MCB": 0.2878,
+            "MCCB": 0.2839,
+            "ELCB": 0.2639,
+            "RCCB": 0.3048,
+            "pneumatic system": 0.1798,
+            "pneumatic cylinder": 0.1927,
+            "NO": 0.2739,
+            "NC": 0.2577,
+            "relay": 0.2164,
+            "contactor and its connection": 0.1992,
+            "Knowledge of solenoid valves": 0.3328,
+            "ACADEMIC QUALIFICATION": 0.2053,
+            "QUALIFICATION INSTITUTE BOARDYear of": 0.1706,
+            "Intermediate           Kisan": 0.3609
+        },
+        "filename": "cv (1868)_annotated.json"
+    }
+}

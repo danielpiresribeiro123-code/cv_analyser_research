@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "Fresher",
+        "Operating System",
+        "Windows",
+        "GNU",
+        "Linux/UNIX",
+        "MS",
+        "Office",
+        "Libreoffice",
+        "Openoffice",
+        "C",
+        "C++",
+        "Oracle",
+        "Tally",
+        "Good Knowlegde of computer Hardware",
+        "Unmarried",
+        "Bihar",
+        "English",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "Prashant  Kumar  Tiwari",
+            "Akhileshwar Tiwari",
+            "Shoshila Devi",
+            "Arun Kumar Tiwary",
+            "Indian",
+            "Prashant Kumar Tiwari"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "Magadh university"
+        ],
+        "degree": [
+            "B.sc. IT",
+            "Intermediate",
+            "B.S.E.B",
+            "Matriculation             2010             B.S.E.B"
+        ],
+        "years of experience": [],
+        "address": [
+            "61/9",
+            "Correspondence  Address",
+            "C/o"
+        ],
+        "email": [
+            "prashantmani38@gmail.com",
+            "Email"
+        ],
+        "phone": [
+            "+91-7739049356",
+            "Contact No.",
+            "+91­7739049356"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Fresher": 0.3061,
+            "Operating System": 0.2981,
+            "Windows": 0.9225,
+            "GNU": 0.2271,
+            "Linux/UNIX": 0.6389,
+            "MS": 0.2955,
+            "Office": 0.3005,
+            "Libreoffice": 0.5959,
+            "Openoffice": 0.6365,
+            "C": 0.9199,
+            "C++": 0.8814,
+            "Oracle": 0.2511,
+            "Tally": 0.5417,
+            "Good Knowlegde of computer Hardware": 0.1698,
+            "Unmarried": 0.326,
+            "Bihar": 0.2055,
+            "English": 0.4709,
+            "Hindi": 0.5735
+        },
+        "filename": "cv (1933)_annotated.json"
+    }
+}

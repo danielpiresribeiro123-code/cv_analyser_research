@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "Career Objective",
+        "Computer Skills",
+        "Microsoft office",
+        "Primavera Contractor",
+        "AutoCAD",
+        "Strengths",
+        "Personal Dossier",
+        "Model Making",
+        "Interacting",
+        "people",
+        "Male",
+        "unmarried",
+        "Hindi",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAHUL KUMAR PATIDAR",
+            "Mr. Radhakishan patidar",
+            "Indian"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "B. Tech(Civil) M.M Engineering College",
+            "MMEC"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "H.NO. 31",
+            "Vill. Binda",
+            "PIN 326023",
+            "m.n.3",
+            "RBSE 54kota",
+            "RBSE 53.83"
+        ],
+        "email": [
+            "Email",
+            "raeioupatel@gmail.com",
+            "08929267359",
+            "09826732826"
+        ],
+        "phone": [
+            "Contact no"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Career Objective": 0.1705,
+            "Computer Skills": 0.3443,
+            "Microsoft office": 0.6458,
+            "Primavera Contractor": 0.296,
+            "AutoCAD": 0.3782,
+            "Strengths": 0.2866,
+            "Personal Dossier": 0.1699,
+            "Model Making": 0.2228,
+            "Interacting": 0.2344,
+            "people": 0.1918,
+            "Male": 0.2838,
+            "unmarried": 0.4193,
+            "Hindi": 0.4198,
+            "English": 0.509
+        },
+        "filename": "cv (2112)_annotated.json"
+    }
+}

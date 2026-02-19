@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "CAREER OBJECTIVE",
+        "To work in healthy and environment",
+        "organizational goals",
+        "making optimum use of my work ethics and skills",
+        "EDUCATIONAL QUALIFICATION",
+        "U.P Board",
+        "PROFESSIONAL QUALIFICATION",
+        "BASIC COMPUTER KNOWLADEGE",
+        "PERSONAL PROFILE",
+        "Marital status",
+        "Single",
+        "Gender",
+        "Male",
+        "Language known",
+        "English",
+        "Urdu",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHD UVAISH",
+            "Father ’s  Name",
+            "Abdul Rahman",
+            "Indian",
+            "Muslim"
+        ],
+        "job title": [
+            "personal driver"
+        ],
+        "company": [
+            "CURRICULUM VITAE",
+            "delhi shahadra"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "EXPERIENCE",
+            "3 years work experience"
+        ],
+        "address": [
+            "H.NO-4929",
+            "N-3 Street no-4",
+            "kanti Nagar",
+            "Sunhari Masjid",
+            "Delhi-110051"
+        ],
+        "email": [],
+        "phone": [
+            "Mobile No-8745879603"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "CAREER OBJECTIVE": 0.3418,
+            "To work in healthy and environment": 0.1601,
+            "organizational goals": 0.1721,
+            "making optimum use of my work ethics and skills": 0.1777,
+            "EDUCATIONAL QUALIFICATION": 0.203,
+            "U.P Board": 0.5136,
+            "PROFESSIONAL QUALIFICATION": 0.2001,
+            "BASIC COMPUTER KNOWLADEGE": 0.2798,
+            "PERSONAL PROFILE": 0.3177,
+            "Marital status": 0.2436,
+            "Single": 0.5338,
+            "Gender": 0.3293,
+            "Male": 0.4223,
+            "Language known": 0.1611,
+            "English": 0.8871,
+            "Urdu": 0.6892,
+            "Hindi": 0.7877
+        },
+        "filename": "cv (253)_annotated.json"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "Hindi",
+        "English",
+        "M. S. Office",
+        "Tally 4.5",
+        "Tally 5.4",
+        "Tally 6.3",
+        "Tally 7.2",
+        "Tally 9.0",
+        "Ace Fact & Pos one Hypermarket Trading Software",
+        "High School",
+        "Inter",
+        "EXPERIENCE",
+        "Fire Protection System",
+        "Fire Alarm System",
+        "Fire Extinguisher System"
+    ],
+    "professional_info": {
+        "person name": [
+            "HARIKESH PRAJAPATI",
+            "Shri Musha Prajapati"
+        ],
+        "job title": [
+            "Two Year Industrial Accountant",
+            "DATA ENTRY COMPUTER OPERATOR"
+        ],
+        "company": [
+            "C/o Musha Prajapati",
+            "The Institute of Computer Accountants ( I.C.A)",
+            "ICA Kanpur",
+            "Institute of Management & Professional Account Training ( IMPACT)",
+            "Span co Ltd",
+            "Call Center. Ltd Gurgaon",
+            "M/s Vision Safety"
+        ],
+        "university": [
+            "U.P Board Allahabad Utter Pradesh",
+            "Chatrapati sahooji Maharaj University of Kanpur",
+            "Mahatma Gandhi University Meghalaya (Distance)"
+        ],
+        "degree": [
+            "B. Com.",
+            "M.B.A"
+        ],
+        "years of experience": [
+            "Married"
+        ],
+        "address": [
+            "C – 49-50 Pandav Nagar Complex",
+            "C-49-50 Pandav Nagar Complex",
+            "Internet"
+        ],
+        "email": [
+            "E- Mail"
+        ],
+        "phone": [
+            "+971-522630932",
+            "+91-8948192153",
+            "2007-09"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Hindi": 0.7086,
+            "English": 0.6476,
+            "M. S. Office": 0.3827,
+            "Tally 4.5": 0.5065,
+            "Tally 5.4": 0.4108,
+            "Tally 6.3": 0.4738,
+            "Tally 7.2": 0.4302,
+            "Tally 9.0": 0.2792,
+            "Ace Fact & Pos one Hypermarket Trading Software": 0.1656,
+            "High School": 0.4544,
+            "Inter": 0.2937,
+            "EXPERIENCE": 0.1564,
+            "Fire Protection System": 0.1555,
+            "Fire Alarm System": 0.1554,
+            "Fire Extinguisher System": 0.1816
+        },
+        "filename": "cv (128)_annotated.json"
+    }
+}

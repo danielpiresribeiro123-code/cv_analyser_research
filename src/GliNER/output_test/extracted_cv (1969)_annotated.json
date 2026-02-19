@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "Knowledge",
+        "Disciplined",
+        "Motivated",
+        "Responsible",
+        "Fast  Learner",
+        "Communicative",
+        "Challenging",
+        "Self-starter",
+        "finisher",
+        "Single",
+        "English",
+        "Hindi",
+        "Malyalam",
+        "Thamil",
+        "Kannada",
+        "TECHNICAL QUALIFICATIONS"
+    ],
+    "professional_info": {
+        "person name": [
+            "MYLADUMPARYIL(H)",
+            "P.O CHETTAPLAM",
+            "RINCE M JOSE",
+            "M.M Jose"
+        ],
+        "job title": [
+            "Order Manager",
+            "Senior Sales Executive"
+        ],
+        "company": [
+            "Myladumparyil (H)",
+            "PULPALLYEDUCATION BOARD",
+            "Chemmanur Impex Pvt Ltd",
+            "Chemmanur Jewellers Ltd"
+        ],
+        "university": [
+            "EXAM INSTITUTE UNIVERSITY/BOARD",
+            "S.S.L.CVIJAYA  HIGHER",
+            "ST.MARYS  HIGHER",
+            "HISTORYPAZHASSI RAJA",
+            "PULPALLYCALICUT UNIVERSITY",
+            "MS-OFFICE 2000"
+        ],
+        "degree": [
+            "BA"
+        ],
+        "years of experience": [
+            "Experience",
+            "4 years"
+        ],
+        "address": [
+            "PIN-6753579",
+            "PERMANENT ADDRESS",
+            "PIN- 673579",
+            "Wayanad",
+            "KERALA"
+        ],
+        "email": [
+            "rince2009@gmail.com",
+            "MOB"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Knowledge": 0.2559,
+            "Disciplined": 0.5436,
+            "Motivated": 0.5591,
+            "Responsible": 0.5593,
+            "Fast  Learner": 0.6407,
+            "Communicative": 0.5219,
+            "Challenging": 0.6366,
+            "Self-starter": 0.5748,
+            "finisher": 0.5608,
+            "Single": 0.1985,
+            "English": 0.8355,
+            "Hindi": 0.8685,
+            "Malyalam": 0.8344,
+            "Thamil": 0.8337,
+            "Kannada": 0.8681,
+            "TECHNICAL QUALIFICATIONS": 0.1548
+        },
+        "filename": "cv (1969)_annotated.json"
+    }
+}

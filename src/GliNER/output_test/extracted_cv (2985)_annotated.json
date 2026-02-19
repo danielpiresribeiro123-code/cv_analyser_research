@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "HSE",
+        "Quality",
+        "Diploma in civil engineering",
+        "B.Tech ( Construction management )",
+        "Foundation",
+        "Civil Autocad",
+        "Primavera 3.1",
+        "MS word",
+        "MS excel"
+    ],
+    "professional_info": {
+        "person name": [
+            "ANANDAKUMAR"
+        ],
+        "job title": [
+            "Strength for achievement of task",
+            "Sr. Project Engineer",
+            "Project Manager",
+            "Project engineer",
+            "Engineer"
+        ],
+        "company": [
+            "Towell Infra. Proj. Co. LLC",
+            "Shriram EPC Ltd",
+            "Galfar Engg. & Contg. SAOG",
+            "Amiantit oman Co. LLC",
+            "Asian techs Ltd"
+        ],
+        "university": [
+            "The Seshasayee Institute of Technology",
+            "Karnataka state open university"
+        ],
+        "degree": [],
+        "years of experience": [
+            "18 years",
+            "Nearly 8 Years",
+            "April 1998"
+        ],
+        "address": [
+            "Plot no.7",
+            "L.S Nagar",
+            "Madhakottai road",
+            "PIN - 613005"
+        ],
+        "email": [
+            "anandakumar_pkd@yahoo.com"
+        ],
+        "phone": [
+            "Mobile nos.",
+            "+91 9500284486",
+            "+91 9486126249"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "HSE": 0.1678,
+            "Quality": 0.2672,
+            "Diploma in civil engineering": 0.5208,
+            "B.Tech ( Construction management )": 0.3386,
+            "Foundation": 0.1987,
+            "Civil Autocad": 0.6179,
+            "Primavera 3.1": 0.7703,
+            "MS word": 0.5739,
+            "MS excel": 0.6714
+        },
+        "filename": "cv (2985)_annotated.json"
+    }
+}

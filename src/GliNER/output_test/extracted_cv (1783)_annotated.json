@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "challenging  position",
+        "promotion  &  excellence",
+        "Professional",
+        "Technical Skills",
+        "Computer Skills",
+        "Windows XP",
+        "Vista",
+        "7",
+        "Professional Soft-wares",
+        "Microsoft Office",
+        "AUTOCAD",
+        "Strengths",
+        "Surfing Net",
+        "Unmarried",
+        "Language Known",
+        "Hindi",
+        "English",
+        "Dogri"
+    ],
+    "professional_info": {
+        "person name": [
+            "NEHAL SINGH",
+            "Mahant  Bachittar  Singh",
+            "Sh.Yash Paul",
+            "Smt.Chanchla",
+            "Male",
+            "Indian"
+        ],
+        "job title": [
+            "Team Leader"
+        ],
+        "company": [
+            "JKBOSE"
+        ],
+        "university": [
+            "College Of Engineering &",
+            "TechnologyJammu University"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "H.No.89",
+            "L.No.10",
+            "Indra colony"
+        ],
+        "email": [
+            "EMAIL ID",
+            "nehalsingh704@gmail.com",
+            "2015B.E"
+        ],
+        "phone": [
+            "Contact No.",
+            "+91-9086368564"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "challenging  position": 0.1604,
+            "promotion  &  excellence": 0.1862,
+            "Professional": 0.3862,
+            "Technical Skills": 0.4671,
+            "Computer Skills": 0.3621,
+            "Windows XP": 0.963,
+            "Vista": 0.7056,
+            "7": 0.4735,
+            "Professional Soft-wares": 0.3448,
+            "Microsoft Office": 0.8156,
+            "AUTOCAD": 0.6288,
+            "Strengths": 0.3433,
+            "Surfing Net": 0.1733,
+            "Unmarried": 0.3426,
+            "Language Known": 0.168,
+            "Hindi": 0.7127,
+            "English": 0.699,
+            "Dogri": 0.5517
+        },
+        "filename": "cv (1783)_annotated.json"
+    }
+}

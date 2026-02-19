@@ -1,0 +1,105 @@
+{
+    "skills": [
+        "Baccalaureate literatures and human science",
+        "license in sociology",
+        "French",
+        "certificate in companies – management",
+        "English",
+        "Certificate of training professionally  labor  inspector",
+        "certificate of training in industrial hygiene and industrial safety",
+        "diploma of the composition of a labor inspector Algeria",
+        "Certificate in hygiene and security",
+        "Professional Experience",
+        "Mastery of language",
+        "Arabic",
+        "Native",
+        "Excellent",
+        "written and spoken",
+        "Computer Skills",
+        "Microsoft Office",
+        "Computer Sets",
+        "Honor",
+        "pride",
+        "dignity",
+        "skills",
+        "Good Communication Skills",
+        "Full effort at work",
+        "innovation",
+        "thinking outside the box",
+        "Do not make problems with colleagues",
+        "work under pressure",
+        "good relationship",
+        "nice spirit"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sahraoui brahim Benlouta"
+        ],
+        "job title": [
+            "inspector of work"
+        ],
+        "company": [
+            "noamane ben bachir cheria tebessa Algeria",
+            "Algeria2",
+            "international  bureau of work . Suisse",
+            "national institute of labor ALGERIA",
+            "niboch -  roiyal school – Algeria",
+            "onalait",
+            "companies",
+            "Restaurant Management Corporation"
+        ],
+        "university": [
+            "badji mokhtar university Annaba –Algeria"
+        ],
+        "degree": [],
+        "years of experience": [
+            "one years experience",
+            "ten   years experience"
+        ],
+        "address": [],
+        "email": [
+            "0528940936",
+            "E-mail",
+            "brahimsahraoui787  @yahoo.com"
+        ],
+        "phone": [
+            "Cell Phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 30,
+        "confidence_scores": {
+            "Baccalaureate literatures and human science": 0.6044,
+            "license in sociology": 0.2916,
+            "French": 0.5164,
+            "certificate in companies – management": 0.3888,
+            "English": 0.7896,
+            "Certificate of training professionally  labor  inspector": 0.4717,
+            "certificate of training in industrial hygiene and industrial safety": 0.6976,
+            "diploma of the composition of a labor inspector Algeria": 0.4655,
+            "Certificate in hygiene and security": 0.6145,
+            "Professional Experience": 0.3239,
+            "Mastery of language": 0.3183,
+            "Arabic": 0.8047,
+            "Native": 0.353,
+            "Excellent": 0.3269,
+            "written and spoken": 0.223,
+            "Computer Skills": 0.2828,
+            "Microsoft Office": 0.634,
+            "Computer Sets": 0.5681,
+            "Honor": 0.4064,
+            "pride": 0.337,
+            "dignity": 0.2798,
+            "skills": 0.1872,
+            "Good Communication Skills": 0.3017,
+            "Full effort at work": 0.2215,
+            "innovation": 0.4636,
+            "thinking outside the box": 0.3164,
+            "Do not make problems with colleagues": 0.2246,
+            "work under pressure": 0.203,
+            "good relationship": 0.2996,
+            "nice spirit": 0.2806
+        },
+        "filename": "cv (2606)_annotated.json"
+    }
+}

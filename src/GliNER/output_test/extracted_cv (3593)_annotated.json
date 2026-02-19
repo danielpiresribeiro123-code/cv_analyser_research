@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "HVAC",
+        "skills",
+        "Heat load calculation",
+        "ISHRAE",
+        "ASHRAE",
+        "E-20 pattern",
+        "CARRIER Book",
+        "AHU’s",
+        "Equal Friction method",
+        "SNACNA standards",
+        "MEP Coordination drawings",
+        "work method statement",
+        "HVAC ducts",
+        "power tools",
+        "Skills",
+        "HVAC Designing",
+        "AutoCAD drafting and designing"
+    ],
+    "professional_info": {
+        "person name": [
+            "Md Ekhlaque Hussain"
+        ],
+        "job title": [
+            "MECHANICAL ENGINEER",
+            "design engineer",
+            "Site Engineer",
+            "Mechanical Site Engineer",
+            "Project Engineer",
+            "duct fitter",
+            "pipe fitter"
+        ],
+        "company": [
+            "Climate",
+            "Karim Fabricators"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Total 3 Years"
+        ],
+        "address": [
+            "Dighwara",
+            "841207",
+            "Noida"
+        ],
+        "email": [
+            "E- mail",
+            "hussainekhlaque77@gmail.com"
+        ],
+        "phone": [
+            "Mob",
+            "+91-73786-68372"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "HVAC": 0.2013,
+            "skills": 0.251,
+            "Heat load calculation": 0.1832,
+            "ISHRAE": 0.7974,
+            "ASHRAE": 0.3435,
+            "E-20 pattern": 0.7396,
+            "CARRIER Book": 0.6789,
+            "AHU’s": 0.1587,
+            "Equal Friction method": 0.742,
+            "SNACNA standards": 0.5377,
+            "MEP Coordination drawings": 0.24,
+            "work method statement": 0.165,
+            "HVAC ducts": 0.1658,
+            "power tools": 0.1964,
+            "Skills": 0.2478,
+            "HVAC Designing": 0.194,
+            "AutoCAD drafting and designing": 0.2019
+        },
+        "filename": "cv (3593)_annotated.json"
+    }
+}

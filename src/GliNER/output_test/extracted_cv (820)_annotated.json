@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "Billboard",
+        "Cosmopolitan",
+        "Entertainment Weekly",
+        "InStyle",
+        "Marie Claire",
+        "Maxim",
+        "Rolling Stone",
+        "Vanity Fair"
+    ],
+    "professional_info": {
+        "person name": [
+            "Anne Heche",
+            "Angie Harmon",
+            "Becki Newton",
+            "Brooke Shields",
+            "Camila Alves",
+            "Claudia Schiffer",
+            "Chloe Moretz",
+            "Erika Jayne",
+            "Gabourey Sidibe",
+            "Jennifer Love-Hewitt",
+            "Kelly Preston",
+            "Kristin Cavallari Lucy Liu Mandy Moore",
+            "Madeleine Stowe",
+            "Mary J. Blige Melissa Leo",
+            "Petra Ecclestone",
+            "Rachel Weisz",
+            "Stacy Keibler Tracee Ellis Ross",
+            "Vanessa Williams",
+            "Yasmin Le Bon",
+            "Julianne Moore",
+            "Hype Williams",
+            "JENNIFER LOPEZ",
+            "KELLY ROWLAND",
+            "MARY J"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632\t\tLa\tCienega\tAvenue",
+            "90034"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Billboard": 0.1833,
+            "Cosmopolitan": 0.1766,
+            "Entertainment Weekly": 0.152,
+            "InStyle": 0.1634,
+            "Marie Claire": 0.2246,
+            "Maxim": 0.2425,
+            "Rolling Stone": 0.2123,
+            "Vanity Fair": 0.2617
+        },
+        "filename": "cv (820)_annotated.json"
+    }
+}

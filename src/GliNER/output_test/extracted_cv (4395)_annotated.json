@@ -1,0 +1,102 @@
+{
+    "skills": [
+        "prioritizing",
+        "Energetic",
+        "organized",
+        "professional",
+        "Microsoft Office",
+        "Excel",
+        "PowerPoint",
+        "proficiency",
+        "Quick learner",
+        "Outstanding interpersonal skills",
+        "Issue resolution",
+        "Excellent analytical skills",
+        "Cooperative team member",
+        "Computer proficient",
+        "Extremely organized",
+        "Attention to detail",
+        "Data Organization",
+        "Policy Development",
+        "Reporting",
+        "Technology Proficient",
+        "Document Organization",
+        "Multitasking",
+        "Inventory Management",
+        "VeriBalance functions",
+        "identifying needs",
+        "quickly gaining trust"
+    ],
+    "professional_info": {
+        "person name": [
+            "Lambda"
+        ],
+        "job title": [
+            "CUSTOMER SERVICE REPRESENTATIVE",
+            "Career Focus",
+            "cash administrator",
+            "Paralegal",
+            "Customer Service",
+            "Aviation Electrician",
+            "Cashier"
+        ],
+        "company": [
+            "Lambda Epsilon Chi",
+            "Lowe's Home Improvment",
+            "Company Name",
+            "Delicatessen"
+        ],
+        "university": [
+            "Central Piedmont Community College"
+        ],
+        "degree": [
+            "Associate of Applied Science"
+        ],
+        "years of experience": [
+            "Experience"
+        ],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [
+            "e-mail",
+            "fax"
+        ],
+        "phone": [
+            "telephone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "prioritizing": 0.1915,
+            "Energetic": 0.4067,
+            "organized": 0.4768,
+            "professional": 0.2352,
+            "Microsoft Office": 0.8048,
+            "Excel": 0.378,
+            "PowerPoint": 0.3577,
+            "proficiency": 0.1998,
+            "Quick learner": 0.4639,
+            "Outstanding interpersonal skills": 0.6815,
+            "Issue resolution": 0.6216,
+            "Excellent analytical skills": 0.6195,
+            "Cooperative team member": 0.3289,
+            "Computer proficient": 0.5367,
+            "Extremely organized": 0.5008,
+            "Attention to detail": 0.63,
+            "Data Organization": 0.3284,
+            "Policy Development": 0.3888,
+            "Reporting": 0.3507,
+            "Technology Proficient": 0.4708,
+            "Document Organization": 0.5076,
+            "Multitasking": 0.5081,
+            "Inventory Management": 0.4196,
+            "VeriBalance functions": 0.1788,
+            "identifying needs": 0.1554,
+            "quickly gaining trust": 0.226
+        },
+        "filename": "cv (4395)_annotated.json"
+    }
+}

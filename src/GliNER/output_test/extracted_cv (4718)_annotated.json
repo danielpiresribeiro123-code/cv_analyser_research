@@ -1,0 +1,47 @@
+{
+    "skills": [
+        "Linux",
+        "System administration",
+        "UNIX",
+        "Technical writing",
+        "leadership and oversight",
+        "DiscernVisualDeveloper",
+        "HNAuser",
+        "Bedrock"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT",
+            "System Engineer",
+            "Project Managers"
+        ],
+        "company": [
+            "Company Name",
+            "Consulting Organization",
+            "Health Sentry"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "6 years"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Linux": 0.9492,
+            "System administration": 0.185,
+            "UNIX": 0.9102,
+            "Technical writing": 0.197,
+            "leadership and oversight": 0.1689,
+            "DiscernVisualDeveloper": 0.7172,
+            "HNAuser": 0.6884,
+            "Bedrock": 0.7389
+        },
+        "filename": "cv (4718)_annotated.json"
+    }
+}

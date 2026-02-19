@@ -1,0 +1,104 @@
+{
+    "skills": [
+        "DATA SCIENCE",
+        "NA",
+        "strong programming",
+        "skills",
+        "good academic results",
+        "sound knowledge",
+        "Machine learning",
+        "techniques",
+        "keen to learn",
+        "skill",
+        "highly analytical",
+        "individual",
+        "interpersonal",
+        "technical skills",
+        "desire to learn",
+        "determined attitude",
+        "PERSONAL",
+        "Software Development",
+        "Management",
+        "Technical",
+        "Architecture",
+        "Data Visualization",
+        "Python",
+        "Statistics",
+        "Learning",
+        "Algorithm",
+        "Heuristics",
+        "PROJECTS",
+        "Determining Correlation of Dataset",
+        "Interpretability of Unlabeled",
+        "EXTRA-CURRICULARS",
+        "Data Management"
+    ],
+    "professional_info": {
+        "person name": [
+            "AMELIA MARTIN",
+            "I",
+            "graduate"
+        ],
+        "job title": [
+            "full-, time employee",
+            "entry",
+            "role",
+            "Client"
+        ],
+        "company": [],
+        "university": [
+            "AIT",
+            "WSM University"
+        ],
+        "degree": [
+            "B.Tech(Computers)",
+            "Masters (Data Science)",
+            "Master of Data Science"
+        ],
+        "years of experience": [],
+        "address": [
+            "Gurukulnagar",
+            "Ahmedabad"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 32,
+        "confidence_scores": {
+            "DATA SCIENCE": 0.6347,
+            "NA": 0.188,
+            "strong programming": 0.2765,
+            "skills": 0.4195,
+            "good academic results": 0.3203,
+            "sound knowledge": 0.3894,
+            "Machine learning": 0.7328,
+            "techniques": 0.3372,
+            "keen to learn": 0.1613,
+            "skill": 0.2053,
+            "highly analytical": 0.3814,
+            "individual": 0.5307,
+            "interpersonal": 0.6786,
+            "technical skills": 0.5586,
+            "desire to learn": 0.426,
+            "determined attitude": 0.2011,
+            "PERSONAL": 0.4167,
+            "Software Development": 0.4923,
+            "Management": 0.6911,
+            "Technical": 0.1777,
+            "Architecture": 0.1779,
+            "Data Visualization": 0.2873,
+            "Python": 0.9044,
+            "Statistics": 0.3454,
+            "Learning": 0.3876,
+            "Algorithm": 0.6518,
+            "Heuristics": 0.4507,
+            "PROJECTS": 0.3202,
+            "Determining Correlation of Dataset": 0.2323,
+            "Interpretability of Unlabeled": 0.3526,
+            "EXTRA-CURRICULARS": 0.2147,
+            "Data Management": 0.4551
+        },
+        "filename": "cv (4915)_annotated.json"
+    }
+}

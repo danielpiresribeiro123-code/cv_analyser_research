@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "personal abilities",
+        "PASSPORT ASSUE",
+        "PASSPORT NUMBER     N4626879",
+        "Gender",
+        "Male",
+        "unmarried",
+        "Hindi",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "Maneesh Kumar",
+            "Indian",
+            "Manish kumar"
+        ],
+        "job title": [],
+        "company": [
+            "CURRICULUM VITAE",
+            "High school",
+            "Gulf Dubai"
+        ],
+        "university": [
+            "UP Board",
+            "UP Board in"
+        ],
+        "degree": [],
+        "years of experience": [
+            "3 Year Experience",
+            "1 Year Experience"
+        ],
+        "address": [
+            "Address",
+            "Madar Manda",
+            "Allahabad"
+        ],
+        "email": [
+            "E mail",
+            "ramjee.rm.786@gmail.com",
+            "Intermediate"
+        ],
+        "phone": [
+            "Mobile No"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "personal abilities": 0.2118,
+            "PASSPORT ASSUE": 0.1866,
+            "PASSPORT NUMBER     N4626879": 0.1637,
+            "Gender": 0.2718,
+            "Male": 0.3195,
+            "unmarried": 0.4045,
+            "Hindi": 0.8656,
+            "English": 0.8912
+        },
+        "filename": "cv (3083)_annotated.json"
+    }
+}

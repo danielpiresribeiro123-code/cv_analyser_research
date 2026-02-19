@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "innovative ideas",
+        "experience",
+        "Internet Handling",
+        "Tamil",
+        "Married",
+        "English",
+        "Speak",
+        "write"
+    ],
+    "professional_info": {
+        "person name": [
+            "V. MANJULA",
+            "I",
+            "XllJAIGOPAL GORADIA GIRLS",
+            "Female",
+            "A. Vembuli"
+        ],
+        "job title": [
+            "KELAMBAKKAM201078%",
+            "Tele Marketing Executive",
+            "Accounts Department"
+        ],
+        "company": [
+            "COLLEGE FOR WOMEN",
+            "GOVT HIGHER",
+            "India Info line Ltd",
+            "Indian Health Organisation",
+            "Ramlax Groups"
+        ],
+        "university": [
+            "SECONDARY SCHOOL",
+            "GOVT HIGHER"
+        ],
+        "degree": [
+            "B.B.APROF. DHANAPALAN"
+        ],
+        "years of experience": [
+            "EXPERIENCE",
+            "6 Years 7 Months experience"
+        ],
+        "address": [
+            "Dr. Ambedkar Street",
+            "Rathinapuram",
+            "Chennai- 600 061",
+            "Operating System",
+            "Ms. Office"
+        ],
+        "email": [
+            "m.manjumani1990@gmail.com",
+            "9841119542"
+        ],
+        "phone": [
+            "Cell",
+            "9094457704"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "innovative ideas": 0.206,
+            "experience": 0.2502,
+            "Internet Handling": 0.4469,
+            "Tamil": 0.7702,
+            "Married": 0.1815,
+            "English": 0.7056,
+            "Speak": 0.1828,
+            "write": 0.1531
+        },
+        "filename": "cv (1638)_annotated.json"
+    }
+}

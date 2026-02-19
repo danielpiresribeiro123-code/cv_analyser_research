@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "Troubleshooting and analytical skills",
+        "Communication and interpersonal skills",
+        "Proven project management abilities",
+        "professionalism",
+        "thoroughness",
+        "commitment to quality and teamwork",
+        "Windows XP",
+        "Windows 7",
+        "Server 2003",
+        "Server 2008",
+        "MS Office",
+        "Active Directory",
+        "VMware vSphere",
+        "BSM",
+        "NNMi - iSPI",
+        "Netview",
+        "WSUS"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INFORMATION TECHNOLOGY SPECIALIST",
+            "Information Technology"
+        ],
+        "company": [
+            "Dell",
+            "HP",
+            "HP-UX",
+            "Sun",
+            "Symantec",
+            "HPNA",
+            "Company Name",
+            "VPSI"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "On-Site headquarters"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Troubleshooting and analytical skills": 0.4519,
+            "Communication and interpersonal skills": 0.3239,
+            "Proven project management abilities": 0.3545,
+            "professionalism": 0.248,
+            "thoroughness": 0.3122,
+            "commitment to quality and teamwork": 0.2428,
+            "Windows XP": 0.9722,
+            "Windows 7": 0.9706,
+            "Server 2003": 0.9543,
+            "Server 2008": 0.9561,
+            "MS Office": 0.6941,
+            "Active Directory": 0.4375,
+            "VMware vSphere": 0.4639,
+            "BSM": 0.2346,
+            "NNMi - iSPI": 0.2784,
+            "Netview": 0.2797,
+            "WSUS": 0.6429
+        },
+        "filename": "cv (4388)_annotated.json"
+    }
+}

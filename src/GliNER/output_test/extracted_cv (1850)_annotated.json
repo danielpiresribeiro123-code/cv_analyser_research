@@ -1,0 +1,91 @@
+{
+    "skills": [
+        "Mechanical and Automation Engineering",
+        "GATE 2015",
+        "technical skills",
+        "creative manner",
+        "Unmarried",
+        "Graduation",
+        "Computer and Software Skills",
+        "Windows 7",
+        "XP",
+        "VISTA",
+        "MS-Office",
+        "PRO-Engineer",
+        "BASIC MODULE",
+        "Auto CAD",
+        "Solidworks",
+        "MATLAB",
+        "C/C++",
+        "English",
+        "Hindi",
+        "Autocad 2-D",
+        "Catia"
+    ],
+    "professional_info": {
+        "person name": [
+            "Male",
+            "Mr. Rajender Uppal",
+            "Mrs. Poonam Uppal"
+        ],
+        "job title": [
+            "responsible position"
+        ],
+        "company": [
+            "B.Tech",
+            "MODERN INDUSTRIES",
+            "NTPC"
+        ],
+        "university": [
+            "ANUJ UPPAL",
+            "Maharaja Agrasen Institute Of, Technology",
+            "MAIT",
+            "Guru Gobind Singh Indraprastha",
+            "University Delhi201583",
+            "National Thermal Power Corporation ltd"
+        ],
+        "degree": [
+            "CADD-centre"
+        ],
+        "years of experience": [],
+        "address": [
+            "WZ-3365 MAHINDRA PARK",
+            "DELHI-110034"
+        ],
+        "email": [
+            "E-Mail",
+            "kush3365@gmail.com"
+        ],
+        "phone": [
+            "Contact No.",
+            "+91-9013362997"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Mechanical and Automation Engineering": 0.2839,
+            "GATE 2015": 0.8566,
+            "technical skills": 0.4356,
+            "creative manner": 0.2049,
+            "Unmarried": 0.1958,
+            "Graduation": 0.4141,
+            "Computer and Software Skills": 0.2221,
+            "Windows 7": 0.9118,
+            "XP": 0.6448,
+            "VISTA": 0.7723,
+            "MS-Office": 0.5493,
+            "PRO-Engineer": 0.1954,
+            "BASIC MODULE": 0.2729,
+            "Auto CAD": 0.2825,
+            "Solidworks": 0.3933,
+            "MATLAB": 0.4856,
+            "C/C++": 0.4813,
+            "English": 0.3079,
+            "Hindi": 0.4347,
+            "Autocad 2-D": 0.2304,
+            "Catia": 0.2932
+        },
+        "filename": "cv (1850)_annotated.json"
+    }
+}

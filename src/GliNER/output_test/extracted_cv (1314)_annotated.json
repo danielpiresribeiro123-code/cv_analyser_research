@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "Specialty Orthopaedics",
+        "CERTIFICATION",
+        "American Board of Orthopaedic Surgery Board Certified",
+        "Diplomate of the American Board of Orthopaedic Surgery",
+        "Advanced Trauma Life Support Certification"
+    ],
+    "professional_info": {
+        "person name": [
+            "DAVID B. WILSON",
+            "Kenneth E. DeHaven, MD",
+            "Richard E. Grant, MD"
+        ],
+        "job title": [
+            "PROFESSIONAL PRACTICE",
+            "Orthopaedic Surgeon",
+            "Director",
+            "Orthopaedic Surgery Resident",
+            "Chairman",
+            "INTERNSHIP",
+            "Intern",
+            "UNDERGRADUATE",
+            "Diplomate of the National Board of Medical Examiners"
+        ],
+        "company": [],
+        "university": [
+            "University of Rochester",
+            "Howard University Hospital",
+            "Milton S. Hershey Medical Center",
+            "University of Pittsburgh School of Medicine",
+            "Johns Hopkins University"
+        ],
+        "degree": [
+            "Doctor of Medicine",
+            "Bachelor of Arts in Natural Science"
+        ],
+        "years of experience": [],
+        "address": [
+            "119 Professional Center",
+            "Suite 307",
+            "1265 Wayne Avenue",
+            "1400 Locust Street",
+            "3120 Highland Road"
+        ],
+        "email": [
+            "Business E-mail",
+            "dbwilson",
+            "@pacosm.com",
+            "www.pacosm.com"
+        ],
+        "phone": [
+            "Business Phone",
+            "724.465.2676",
+            "Business Fax",
+            "724.349.1830"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Specialty Orthopaedics": 0.292,
+            "CERTIFICATION": 0.528,
+            "American Board of Orthopaedic Surgery Board Certified": 0.6956,
+            "Diplomate of the American Board of Orthopaedic Surgery": 0.6948,
+            "Advanced Trauma Life Support Certification": 0.9217
+        },
+        "filename": "cv (1314)_annotated.json"
+    }
+}

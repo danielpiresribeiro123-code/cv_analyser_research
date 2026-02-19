@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "TECHNICAL SKILLS",
+        "Diploma in Electrical Engineering",
+        "Internet",
+        "Computer",
+        "DIPLOMA",
+        "English",
+        "Hindi",
+        "Math",
+        "Science",
+        "Social Science",
+        "Diploma in",
+        "Star Case wiring",
+        "Manually Operated D.C. Motor",
+        "D.G.",
+        "UPS",
+        "STRENGTH",
+        "Smart-Working and Self-confident",
+        "HOBBIES",
+        "Listening to Music",
+        "LINGUISTIC PROFICIENCY",
+        "EXTRA CURRICULAR ACTIVITIES"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAGAR SINGH"
+        ],
+        "job title": [
+            "Electrician Executive",
+            "technician"
+        ],
+        "company": [
+            "Best Western Skycity Hotel",
+            "Lite Bite Foods Pvt. Ltd."
+        ],
+        "university": [
+            "University",
+            "Intermediate",
+            "SonebhadraU.P. Board",
+            "College Mahuli",
+            "SonebhadraU.P. Board P.C.M.",
+            "PolytechnicTeerthanker",
+            "Mahaveer",
+            "MoradabadElectrical",
+            "Hindalco Industries Ltd."
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "singhsagar655@gmail.com",
+            "9015242466"
+        ],
+        "phone": [
+            "+91 9560127994"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "TECHNICAL SKILLS": 0.3556,
+            "Diploma in Electrical Engineering": 0.5853,
+            "Internet": 0.3064,
+            "Computer": 0.3785,
+            "DIPLOMA": 0.249,
+            "English": 0.7492,
+            "Hindi": 0.909,
+            "Math": 0.4469,
+            "Science": 0.4731,
+            "Social Science": 0.5684,
+            "Diploma in": 0.6212,
+            "Star Case wiring": 0.1522,
+            "Manually Operated D.C. Motor": 0.1652,
+            "D.G.": 0.182,
+            "UPS": 0.2798,
+            "STRENGTH": 0.2342,
+            "Smart-Working and Self-confident": 0.3484,
+            "HOBBIES": 0.2173,
+            "Listening to Music": 0.2166,
+            "LINGUISTIC PROFICIENCY": 0.3855,
+            "EXTRA CURRICULAR ACTIVITIES": 0.1588
+        },
+        "filename": "cv (4186)_annotated.json"
+    }
+}

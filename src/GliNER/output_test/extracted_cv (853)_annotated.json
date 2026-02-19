@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "Applied Time Series and Forecasting",
+        "Applied Stochastic Processes",
+        "Market Models",
+        "Quantitative Financial Risk Management",
+        "Investment Analytics",
+        "R",
+        "behavioral finance",
+        "regression models"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "EDUCATION",
+            "Summer Analyst",
+            "Research Assistant",
+            "Programmer",
+            "Data Analyst"
+        ],
+        "company": [
+            "Awty International School"
+        ],
+        "university": [
+            "Rice University",
+            "Bank of America Merrill Lynch",
+            "Baylor College of Medicine"
+        ],
+        "degree": [
+            "Bachelor of Arts in Mathematical Economics Analysis",
+            "Master of Arts in Statistics",
+            "Heads of Global Wealth & Retirement Solutions"
+        ],
+        "years of experience": [],
+        "address": [
+            "New York, NY"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Applied Time Series and Forecasting": 0.4209,
+            "Applied Stochastic Processes": 0.4291,
+            "Market Models": 0.4906,
+            "Quantitative Financial Risk Management": 0.3691,
+            "Investment Analytics": 0.173,
+            "R": 0.6157,
+            "behavioral finance": 0.1551,
+            "regression models": 0.1718
+        },
+        "filename": "cv (853)_annotated.json"
+    }
+}

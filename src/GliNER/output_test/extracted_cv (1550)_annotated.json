@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "knowledge",
+        "Relentless professional",
+        "Competency",
+        "BHA Knowledge",
+        "Making Kill sheets",
+        "trend sheets",
+        "Hole Calculations",
+        "Highly logical",
+        "problem-solving and analytical skills",
+        "capable of coming up with innovative and effective solutions",
+        "lifting gears",
+        "ST-120",
+        "Catheads",
+        "Shale Shakers",
+        "Pump Room",
+        "Pit Room",
+        "Technical Skillset",
+        "Mud motor+float sub"
+    ],
+    "professional_info": {
+        "person name": [
+            "GAURAV TYAGI"
+        ],
+        "job title": [
+            "Petroleum Engineer",
+            "Assistant  Driller",
+            "Assistant Driller",
+            "shift tool pusher"
+        ],
+        "company": [
+            "Malaysian  Crew",
+            "UMW  Oil  &  Gas",
+            "UMW Oil & Gas",
+            "Malaysian Crew",
+            "China  Merchants Heavy Industries",
+            "Diamond Platform"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "gauravtyagi382@yahoo.com"
+        ],
+        "phone": [
+            "Mobile  No.",
+            "+91-9690906590"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "knowledge": 0.1575,
+            "Relentless professional": 0.1992,
+            "Competency": 0.2855,
+            "BHA Knowledge": 0.2277,
+            "Making Kill sheets": 0.3272,
+            "trend sheets": 0.1536,
+            "Hole Calculations": 0.4876,
+            "Highly logical": 0.3662,
+            "problem-solving and analytical skills": 0.2229,
+            "capable of coming up with innovative and effective solutions": 0.1832,
+            "lifting gears": 0.2142,
+            "ST-120": 0.1802,
+            "Catheads": 0.175,
+            "Shale Shakers": 0.3166,
+            "Pump Room": 0.2475,
+            "Pit Room": 0.2967,
+            "Technical Skillset": 0.2467,
+            "Mud motor+float sub": 0.2486
+        },
+        "filename": "cv (1550)_annotated.json"
+    }
+}

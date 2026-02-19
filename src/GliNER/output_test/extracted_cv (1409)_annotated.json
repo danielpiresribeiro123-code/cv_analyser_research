@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "team player",
+        "Dedicated",
+        "hardworking",
+        "disciplined",
+        "honest",
+        "Able to work under minimal supervision",
+        "Ability to learn quickly",
+        "Certified Public Accountant Part 3",
+        "Certificate in computer applications2005-2008",
+        "SKILLS",
+        "Strong analytical and interpersonal skills",
+        "Good team player",
+        "Good negotiator",
+        "Good I.T Skills",
+        "Good training Skills",
+        "MONITORING & EVALUATION SECTION"
+    ],
+    "professional_info": {
+        "person name": [
+            "Doreen N. Sitati"
+        ],
+        "job title": [
+            "Management and administrative position"
+        ],
+        "company": [
+            "VISION INSTITTE OF PROFESSIONALS",
+            "KENYA LEATHER DEVELOPMENT COUNCIL"
+        ],
+        "university": [
+            "UNIVERSITY OF NAIROBI",
+            "INSTITUTE OF ADVANCED TECHNOLOGY",
+            "ALLIANCE GIRLS’ HIGH SCHOOL",
+            "SECRET HEART ACADEMY"
+        ],
+        "degree": [
+            "Bachelor of Economics (Second Class Honours)",
+            "Kenya Certificate of Secondary Education",
+            "Kenya Certificate of Primary Education"
+        ],
+        "years of experience": [],
+        "address": [
+            "POSTAL ADDRESS",
+            "P.O. BOX 62173-00200 Nairobi"
+        ],
+        "email": [
+            "E-MAIL",
+            "deesitati1@gmail.com"
+        ],
+        "phone": [
+            "TELEPHONE",
+            "0726 044183"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "team player": 0.3962,
+            "Dedicated": 0.3869,
+            "hardworking": 0.2962,
+            "disciplined": 0.308,
+            "honest": 0.2163,
+            "Able to work under minimal supervision": 0.1931,
+            "Ability to learn quickly": 0.2176,
+            "Certified Public Accountant Part 3": 0.7801,
+            "Certificate in computer applications2005-2008": 0.7778,
+            "SKILLS": 0.1914,
+            "Strong analytical and interpersonal skills": 0.4942,
+            "Good team player": 0.5462,
+            "Good negotiator": 0.623,
+            "Good I.T Skills": 0.4195,
+            "Good training Skills": 0.4602,
+            "MONITORING & EVALUATION SECTION": 0.1502
+        },
+        "filename": "cv (1409)_annotated.json"
+    }
+}

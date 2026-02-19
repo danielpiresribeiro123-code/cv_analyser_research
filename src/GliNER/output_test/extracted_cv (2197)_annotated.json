@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "innovative ideas",
+        "Technical Skills",
+        "Having a thorough understanding of electrical systems",
+        "Production analysis",
+        "Root cause analysis",
+        "Excellent trouble shooting skills",
+        "Circuit breakers",
+        "Transformer testing",
+        "Sound knowledge",
+        "Medium and low voltage switchgear",
+        "H.T and L.T",
+        "VCB  ct/pt  ratio",
+        "contract  resistance  measurement(crm)",
+        "VCB bus bar",
+        "Transformer ratio",
+        "WMS system",
+        "Pyreonometer",
+        "Temperature sensor"
+    ],
+    "professional_info": {
+        "person name": [
+            "Kunal Ramteke"
+        ],
+        "job title": [],
+        "company": [
+            "BHEL-EDN BANGLORE"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-mail",
+            "kunaleieng@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-7737414374",
+            "+91-8319392475"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "innovative ideas": 0.2246,
+            "Technical Skills": 0.4474,
+            "Having a thorough understanding of electrical systems": 0.1764,
+            "Production analysis": 0.1804,
+            "Root cause analysis": 0.179,
+            "Excellent trouble shooting skills": 0.4949,
+            "Circuit breakers": 0.1512,
+            "Transformer testing": 0.2199,
+            "Sound knowledge": 0.2018,
+            "Medium and low voltage switchgear": 0.1759,
+            "H.T and L.T": 0.1805,
+            "VCB  ct/pt  ratio": 0.1794,
+            "contract  resistance  measurement(crm)": 0.3054,
+            "VCB bus bar": 0.1606,
+            "Transformer ratio": 0.1932,
+            "WMS system": 0.4824,
+            "Pyreonometer": 0.4477,
+            "Temperature sensor": 0.5003
+        },
+        "filename": "cv (2197)_annotated.json"
+    }
+}

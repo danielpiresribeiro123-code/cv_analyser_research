@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "Machine Learning",
+        "attunement methods",
+        "PROFICIENT SKILLS",
+        "Requirement Gathering",
+        "Software",
+        "Development",
+        "Data Reporting",
+        "Root",
+        "Cause Analysis",
+        "Solution Engineering",
+        "Key",
+        "Aspect Analysis",
+        "Data Mining",
+        "Data",
+        "Analytics",
+        "Java",
+        "HTML",
+        "JavaScript",
+        "C",
+        "Python",
+        "Machine Learning",
+        "BCA (Computers)",
+        "MCA (Computers)",
+        "Data Science",
+        "P R O J E C T S",
+        "Disconfiguration"
+    ],
+    "professional_info": {
+        "person name": [
+            "NOLAN CLARK"
+        ],
+        "job title": [
+            "MACHINE LEARNING GRADUATE",
+            "RESEARCH ASSISTANT",
+            "Graduate Research and Teaching",
+            "assistant",
+            "Instructor & Teaching Assistant"
+        ],
+        "company": [],
+        "university": [
+            "University",
+            "Sikkim university"
+        ],
+        "degree": [],
+        "years of experience": [
+            "1 year and a half"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Machine Learning": 0.2979,
+            "attunement methods": 0.526,
+            "PROFICIENT SKILLS": 0.2306,
+            "Requirement Gathering": 0.3037,
+            "Software": 0.3776,
+            "Development": 0.3664,
+            "Data Reporting": 0.4764,
+            "Root": 0.5385,
+            "Cause Analysis": 0.5944,
+            "Solution Engineering": 0.4177,
+            "Key": 0.4008,
+            "Aspect Analysis": 0.5731,
+            "Data Mining": 0.6193,
+            "Data": 0.377,
+            "Analytics": 0.5118,
+            "Java": 0.8774,
+            "HTML": 0.2403,
+            "JavaScript": 0.9329,
+            "C": 0.8484,
+            "Python": 0.9132,
+            "BCA (Computers)": 0.5797,
+            "MCA (Computers)": 0.5533,
+            "Data Science": 0.4518,
+            "P R O J E C T S": 0.3881,
+            "Disconfiguration": 0.2651
+        },
+        "filename": "cv (4931)_annotated.json"
+    }
+}

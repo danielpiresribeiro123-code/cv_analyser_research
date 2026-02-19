@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "ML",
+        "MaskRCNN",
+        "client side technology",
+        "Machine Learning",
+        "expertise",
+        "PERSONAL",
+        "Tensorflow",
+        "AWS",
+        "Keras",
+        "Deep",
+        "Learning",
+        "Pytorch",
+        "Flask",
+        "Machine",
+        "PySpark",
+        "Kafka",
+        "XML",
+        "API",
+        "JavaScript",
+        "AngularJS",
+        "RestAPI",
+        "PHP"
+    ],
+    "professional_info": {
+        "person name": [
+            "ADRIAN LOPEZ"
+        ],
+        "job title": [
+            "SOFTWARE DEVELOPER",
+            "ANALYST",
+            "analyst professional"
+        ],
+        "company": [
+            "AT&C Solutions",
+            "SAP"
+        ],
+        "university": [
+            "PES University"
+        ],
+        "degree": [
+            "B.Tech(IT)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Bangalore"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "ML": 0.3902,
+            "MaskRCNN": 0.4591,
+            "client side technology": 0.2484,
+            "Machine Learning": 0.5767,
+            "expertise": 0.2423,
+            "PERSONAL": 0.3076,
+            "Tensorflow": 0.3708,
+            "AWS": 0.949,
+            "Keras": 0.3291,
+            "Deep": 0.3404,
+            "Learning": 0.173,
+            "Pytorch": 0.4496,
+            "Flask": 0.3782,
+            "Machine": 0.2951,
+            "PySpark": 0.4645,
+            "Kafka": 0.2078,
+            "XML": 0.193,
+            "API": 0.3232,
+            "JavaScript": 0.8593,
+            "AngularJS": 0.2863,
+            "RestAPI": 0.2963,
+            "PHP": 0.8783
+        },
+        "filename": "cv (4867)_annotated.json"
+    }
+}

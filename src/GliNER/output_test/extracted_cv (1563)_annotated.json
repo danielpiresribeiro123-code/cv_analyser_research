@@ -1,0 +1,98 @@
+{
+    "skills": [
+        "communication",
+        "Physics",
+        "Expertise/Strengths",
+        "Excellent Communication",
+        "presentation",
+        "Interpersonal",
+        "learning",
+        "analytical and logical skills",
+        "Passionate about learning new technologies",
+        "quick learner",
+        "Great people person",
+        "MS Office",
+        "Internet",
+        "Hindi",
+        "Technical skills",
+        "Windows XP",
+        "windows 7 basic",
+        "Win 8",
+        "MS Word",
+        "MS Excel",
+        "MS Powerpoint",
+        "Diploma in X-ray Technician"
+    ],
+    "professional_info": {
+        "person name": [
+            "radiographer",
+            "I"
+        ],
+        "job title": [
+            "Therapy Assistant",
+            "Diploma",
+            "Teacher",
+            "Coordinator",
+            "Admin Manager"
+        ],
+        "company": [],
+        "university": [
+            "Annai Theresa Institute of Paramedical, Technology",
+            "Sri Saii Child, Development Centre",
+            "Sri Balaji Medical College and hospital"
+        ],
+        "degree": [
+            "bachelor’s degree",
+            "B.Sc",
+            "Distant Mode"
+        ],
+        "years of experience": [
+            "2 years",
+            "experience",
+            "March 2012 – March 2013"
+        ],
+        "address": [
+            "RAMYA ILAYARAJA #4",
+            "NehruStreet",
+            "Nilamangai Nagar",
+            "Chennai 600088",
+            "10"
+        ],
+        "email": [
+            "ramprithu@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "9962807909(M)",
+            "044 – 43526738"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "communication": 0.2091,
+            "Physics": 0.7193,
+            "Expertise/Strengths": 0.1919,
+            "Excellent Communication": 0.393,
+            "presentation": 0.3671,
+            "Interpersonal": 0.6717,
+            "learning": 0.3365,
+            "analytical and logical skills": 0.2886,
+            "Passionate about learning new technologies": 0.164,
+            "quick learner": 0.191,
+            "Great people person": 0.491,
+            "MS Office": 0.5131,
+            "Internet": 0.236,
+            "Hindi": 0.6382,
+            "Technical skills": 0.1756,
+            "Windows XP": 0.8936,
+            "windows 7 basic": 0.6154,
+            "Win 8": 0.7267,
+            "MS Word": 0.7789,
+            "MS Excel": 0.7185,
+            "MS Powerpoint": 0.7273,
+            "Diploma in X-ray Technician": 0.5991
+        },
+        "filename": "cv (1563)_annotated.json"
+    }
+}

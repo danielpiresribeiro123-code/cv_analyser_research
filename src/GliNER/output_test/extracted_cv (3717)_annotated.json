@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "planning",
+        "organising",
+        "Co-ordination",
+        "Team Development & management",
+        "Vendor Management",
+        "PR",
+        "Client Servicing",
+        "military contracting",
+        "large scale construction contracting",
+        "Core Qualifications",
+        "Excellent computer and mobile te chnology skills",
+        "Need Analysis",
+        "prospecting",
+        "negotiation",
+        "Analyzing customer's requirements"
+    ],
+    "professional_info": {
+        "person name": [
+            "SALIK SHAIKH"
+        ],
+        "job title": [
+            "Business Development Executive"
+        ],
+        "company": [
+            "Exito Hr solutions Pvt.Ltd"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "2.8 years of  good experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": [
+            "Mobile",
+            "+91 -8376833616"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "planning": 0.2922,
+            "organising": 0.3327,
+            "Co-ordination": 0.4642,
+            "Team Development & management": 0.5795,
+            "Vendor Management": 0.5665,
+            "PR": 0.6069,
+            "Client Servicing": 0.4829,
+            "military contracting": 0.4318,
+            "large scale construction contracting": 0.3353,
+            "Core Qualifications": 0.1812,
+            "Excellent computer and mobile te chnology skills": 0.3061,
+            "Need Analysis": 0.2813,
+            "prospecting": 0.1887,
+            "negotiation": 0.229,
+            "Analyzing customer's requirements": 0.1654
+        },
+        "filename": "cv (3717)_annotated.json"
+    }
+}

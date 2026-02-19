@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "Professional excellence",
+        "Job satisfaction",
+        "Quality",
+        "Project Progress reports",
+        "Resource Planning",
+        "Project Reconciliation",
+        "Project Expertise",
+        "team leader",
+        "Project development",
+        "project requirements",
+        "Ability to perform multiple task",
+        "Ability to  prepare  Project completion Reports"
+    ],
+    "professional_info": {
+        "person name": [
+            "Nitesh Anchal"
+        ],
+        "job title": [
+            "Facility Management Engineer",
+            "Solar Engineer",
+            "Manager Project",
+            "Site Engineer"
+        ],
+        "company": [
+            "Trimax IT Infrastructure & Services Ltd.",
+            "Pious Solar Energy",
+            "Kanishka Energy"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "9871238836",
+            "July 2014",
+            "Experience",
+            "5.6 Years"
+        ],
+        "address": [],
+        "email": [
+            "Mobile",
+            "Email",
+            "niteshanchal@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Professional excellence": 0.3846,
+            "Job satisfaction": 0.216,
+            "Quality": 0.1931,
+            "Project Progress reports": 0.181,
+            "Resource Planning": 0.1589,
+            "Project Reconciliation": 0.1967,
+            "Project Expertise": 0.5756,
+            "team leader": 0.2914,
+            "Project development": 0.1903,
+            "project requirements": 0.1754,
+            "Ability to perform multiple task": 0.2067,
+            "Ability to  prepare  Project completion Reports": 0.2717
+        },
+        "filename": "cv (3093)_annotated.json"
+    }
+}

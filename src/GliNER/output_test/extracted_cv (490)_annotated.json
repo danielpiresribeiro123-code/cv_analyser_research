@@ -1,0 +1,103 @@
+{
+    "skills": [
+        "Mobile",
+        "Good team leader",
+        "English",
+        "Bengali",
+        "Hindi",
+        "ge/  CGPA",
+        "Technical  Skills",
+        "Theoretical Knowledge",
+        "Practical Knowledge",
+        "Data Structure",
+        "DBMS",
+        "Operating",
+        "System",
+        "Networking",
+        "C",
+        "JAVA",
+        "HTML",
+        "PHP",
+        "SQL",
+        "VISUAL",
+        "STUDIO",
+        "Photoshop",
+        "Android",
+        "J2EE",
+        "Online Hardware and Software Support",
+        "Database Management System",
+        "Visual Studio",
+        "paint",
+        "Science Talent Search Examination",
+        "Sanjivan IQ Test",
+        "Webpage designing"
+    ],
+    "professional_info": {
+        "person name": [
+            "PRIYABRATA SARKAR"
+        ],
+        "job title": [],
+        "company": [
+            "B. Tech in Information Technology",
+            "Degree",
+            "ClassCollege/School University",
+            "TechnologyMoulana   Abul",
+            "TechnologyInformatio",
+            "Gandhi  Memorial",
+            "GLOBSYN Finishing School",
+            "WEBTECH LABS, PVT. LTD."
+        ],
+        "university": [
+            "Institute    Of",
+            "Kalam  Azad",
+            "University   Of"
+        ],
+        "degree": [
+            "B.Tech Adamas"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-mail",
+            "priyabrata126@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 31,
+        "confidence_scores": {
+            "Mobile": 0.2838,
+            "Good team leader": 0.2286,
+            "English": 0.4589,
+            "Bengali": 0.4843,
+            "Hindi": 0.6048,
+            "ge/  CGPA": 0.1502,
+            "Technical  Skills": 0.1927,
+            "Theoretical Knowledge": 0.407,
+            "Practical Knowledge": 0.3698,
+            "Data Structure": 0.2932,
+            "DBMS": 0.5119,
+            "Operating": 0.2631,
+            "System": 0.322,
+            "Networking": 0.4288,
+            "C": 0.8314,
+            "JAVA": 0.9726,
+            "HTML": 0.3351,
+            "PHP": 0.9804,
+            "SQL": 0.1543,
+            "VISUAL": 0.2888,
+            "STUDIO": 0.2339,
+            "Photoshop": 0.3253,
+            "Android": 0.1745,
+            "J2EE": 0.4103,
+            "Online Hardware and Software Support": 0.1958,
+            "Database Management System": 0.7195,
+            "Visual Studio": 0.481,
+            "paint": 0.2025,
+            "Science Talent Search Examination": 0.5071,
+            "Sanjivan IQ Test": 0.5199,
+            "Webpage designing": 0.2719
+        },
+        "filename": "cv (490)_annotated.json"
+    }
+}

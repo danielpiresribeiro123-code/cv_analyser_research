@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "Gender",
+        "Married",
+        "Major Field Study",
+        "PERSONAL PARTICULAR",
+        "Specialization",
+        "Die Works",
+        "Mechanical drawings",
+        "Correct function",
+        "Die Making",
+        "Production"
+    ],
+    "professional_info": {
+        "person name": [
+            "Desulu Premananda"
+        ],
+        "job title": [
+            "Male",
+            "L8006314",
+            "Fitter",
+            "CNC Milling Setter",
+            "Mechanical fitter",
+            "Die Fitter",
+            "Supervisor & Cnc Milling Setter"
+        ],
+        "company": [
+            "Maa Mahurikalua Industrial Training Center",
+            "Sterling Industal Product",
+            "Awal Gulf Manufacturing Co. Bsc.",
+            "Sridhar Machine Tools Pvt. Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Village-Barapalli",
+            "Po-Hugulapatta",
+            "Dist-Ganjam",
+            "Odisha-761001"
+        ],
+        "email": [
+            "Email",
+            "pemananda111@gmail.com",
+            "Country of Graduate"
+        ],
+        "phone": [
+            "+91-8328873022",
+            "8828558068"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Gender": 0.1697,
+            "Married": 0.2995,
+            "Major Field Study": 0.3086,
+            "PERSONAL PARTICULAR": 0.1592,
+            "Specialization": 0.2046,
+            "Die Works": 0.8181,
+            "Mechanical drawings": 0.1556,
+            "Correct function": 0.1548,
+            "Die Making": 0.6211,
+            "Production": 0.5822
+        },
+        "filename": "cv (1740)_annotated.json"
+    }
+}

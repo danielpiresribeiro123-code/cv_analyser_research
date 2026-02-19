@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "Database",
+        "Data Visualisation",
+        "Intelligence",
+        "Data Analysis",
+        "Data Visualization",
+        "Deep Learning",
+        "Machine Learning",
+        "Adobe Analytics",
+        "Excel",
+        "Matplotlib",
+        "Python",
+        "SKILLS",
+        "Data Blending & Transformation",
+        "Data Visualisation"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Analyst Support",
+            "SUPPORT",
+            "ANALYST"
+        ],
+        "company": [
+            "Tata Sons"
+        ],
+        "university": [
+            "Maulana Abul University"
+        ],
+        "degree": [
+            "B.tech(IT)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Database": 0.4265,
+            "Data Visualisation": 0.2125,
+            "Intelligence": 0.2717,
+            "Data Analysis": 0.3183,
+            "Data Visualization": 0.3209,
+            "Deep Learning": 0.9414,
+            "Machine Learning": 0.9432,
+            "Adobe Analytics": 0.5095,
+            "Excel": 0.2507,
+            "Matplotlib": 0.3271,
+            "Python": 0.9918,
+            "SKILLS": 0.2137,
+            "Data Blending & Transformation": 0.3122
+        },
+        "filename": "cv (4898)_annotated.json"
+    }
+}

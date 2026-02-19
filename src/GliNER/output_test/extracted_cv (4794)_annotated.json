@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "logistics and embarkation management",
+        "electronics troubleshooting",
+        "electrical maintenance",
+        "preventative maintenance",
+        "Effective communicator",
+        "leader",
+        "Basic",
+        "Calibration",
+        "conversion",
+        "DC",
+        "Electronics",
+        "frame",
+        "Leadership",
+        "Logic",
+        "logistics",
+        "mathematics",
+        "office",
+        "Radar",
+        "reading",
+        "Safety",
+        "FM",
+        "switches",
+        "troubleshoot",
+        "troubleshooting"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "MAINTENANCE SPECIALIST/TECHNICIAN",
+            "Military veteran",
+            "journeyman electrician",
+            "maintenance specialist",
+            "supervisor",
+            "Logistics & Embarkation Rep",
+            "Aviation Electronics Technician",
+            "Safety-supervisor"
+        ],
+        "company": [
+            "TWPC",
+            "Company Name",
+            "City"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "four years",
+            "verbal communication"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "logistics and embarkation management": 0.3616,
+            "electronics troubleshooting": 0.6032,
+            "electrical maintenance": 0.5666,
+            "preventative maintenance": 0.4988,
+            "Effective communicator": 0.4778,
+            "leader": 0.4973,
+            "Basic": 0.1673,
+            "Calibration": 0.3422,
+            "conversion": 0.1795,
+            "DC": 0.4778,
+            "Electronics": 0.561,
+            "frame": 0.4737,
+            "Leadership": 0.4069,
+            "Logic": 0.3857,
+            "logistics": 0.2173,
+            "mathematics": 0.3065,
+            "office": 0.2206,
+            "Radar": 0.4436,
+            "reading": 0.2359,
+            "Safety": 0.4245,
+            "FM": 0.4397,
+            "switches": 0.4962,
+            "troubleshoot": 0.166,
+            "troubleshooting": 0.2514
+        },
+        "filename": "cv (4794)_annotated.json"
+    }
+}

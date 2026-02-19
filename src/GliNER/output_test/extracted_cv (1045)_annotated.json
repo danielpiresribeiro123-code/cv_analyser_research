@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "New Product and Venture Development and Finance",
+        "Magna Cum Laude",
+        "wireless infrastructure software",
+        "caching technology"
+    ],
+    "professional_info": {
+        "person name": [
+            "WILLIAM CHU"
+        ],
+        "job title": [
+            "MBA Candidate",
+            "Asian House manager"
+        ],
+        "company": [
+            "Electrical Engineering",
+            "isovia",
+            "ADERO",
+            "EdgeFusion & Content Bridge services",
+            "Akamai",
+            "Digital Island",
+            "FIDELITY INVESTMENTS",
+            "Fidelity"
+        ],
+        "university": [
+            "mit",
+            "TUFTS UNIVERSITY",
+            "ITU"
+        ],
+        "degree": [
+            "Electrical Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "295 Harvard Street",
+            "#601",
+            "Cambridge, MA",
+            "Medford, MA",
+            "Boston, MA"
+        ],
+        "email": [],
+        "phone": [
+            "617-497-8243"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "New Product and Venture Development and Finance": 0.1878,
+            "Magna Cum Laude": 0.1672,
+            "wireless infrastructure software": 0.2008,
+            "caching technology": 0.3593
+        },
+        "filename": "cv (1045)_annotated.json"
+    }
+}

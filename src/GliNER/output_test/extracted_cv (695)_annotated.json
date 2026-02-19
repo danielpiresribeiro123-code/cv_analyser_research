@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "Sex",
+        "Male",
+        "Single",
+        "English",
+        "Hindi",
+        "Marathi",
+        "resourceful",
+        "innovative",
+        "specialist",
+        "creative environment",
+        "BE (MECH) Distinction",
+        "Excellent analytical and organizational skills",
+        "Self starter",
+        "Language C",
+        "PRO-E",
+        "AUTO-CAD",
+        "WINDOWS 95",
+        "XP",
+        "WINDOWS 7"
+    ],
+    "professional_info": {
+        "person name": [
+            "GAJANAN SARJERAO",
+            "KASHIMBARE",
+            "PGDISHE",
+            "S.L.Kashimbare",
+            "Indian",
+            "H.S.C",
+            "S.S.C"
+        ],
+        "job title": [
+            "key player"
+        ],
+        "company": [
+            "Kolhapur Board",
+            "ROBOSOFT SYSTEMS"
+        ],
+        "university": [
+            "Shivaji University",
+            "Shivaji, University"
+        ],
+        "degree": [
+            "B.E. MECHANICAL"
+        ],
+        "years of experience": [],
+        "address": [
+            "Present Address",
+            "606",
+            "Shagun Residency",
+            "Zadeshwar Rd",
+            "Pin-, 392011",
+            "A/P-Sangawade",
+            "Pin-416202"
+        ],
+        "email": [
+            "Email",
+            "gajananmk3@gmail.com"
+        ],
+        "phone": [
+            "Mobile No-07066529317"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Sex": 0.232,
+            "Male": 0.4142,
+            "Single": 0.5073,
+            "English": 0.8956,
+            "Hindi": 0.8608,
+            "Marathi": 0.8455,
+            "resourceful": 0.1816,
+            "innovative": 0.161,
+            "specialist": 0.1875,
+            "creative environment": 0.1852,
+            "BE (MECH) Distinction": 0.716,
+            "Excellent analytical and organizational skills": 0.2218,
+            "Self starter": 0.5456,
+            "Language C": 0.1674,
+            "PRO-E": 0.2041,
+            "AUTO-CAD": 0.3422,
+            "WINDOWS 95": 0.8523,
+            "XP": 0.2504,
+            "WINDOWS 7": 0.9313
+        },
+        "filename": "cv (695)_annotated.json"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "POST GRADUATION DIPLOMA IN HEALTH SAFETY AND ENVIRONMENT(APPEARED)",
+        "PERSONAL PROFILE",
+        "English",
+        "hindi",
+        "Languages",
+        "LISTENING MUSIC",
+        "WATCHING"
+    ],
+    "professional_info": {
+        "person name": [
+            "NAVDEEP KUMAR DHIMAN"
+        ],
+        "job title": [
+            "TRAINEE"
+        ],
+        "company": [],
+        "university": [
+            "NATIONAL INSTITUTE OF FIRE ENGINEERING AND SAFETY",
+            "HIMACHAL PRADESH TECHNICAL UNIVERSITY"
+        ],
+        "degree": [
+            "MANAGEMENT CHANDIGARH",
+            "BACHELOR OF TECHNOLOGY (B.TECH) IN MECHANICAL ENGINEERINGwith"
+        ],
+        "years of experience": [
+            "EXPERIENCE"
+        ],
+        "address": [
+            "PIN CODE- 177001"
+        ],
+        "email": [
+            "navdeepdhiman18@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "POST GRADUATION DIPLOMA IN HEALTH SAFETY AND ENVIRONMENT(APPEARED)": 0.5853,
+            "PERSONAL PROFILE": 0.4653,
+            "English": 0.8901,
+            "hindi": 0.9397,
+            "Languages": 0.3464,
+            "LISTENING MUSIC": 0.1527,
+            "WATCHING": 0.1615
+        },
+        "filename": "cv (3981)_annotated.json"
+    }
+}

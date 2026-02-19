@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "Bioinformatics",
+        "Microbial Source Tracking for Fecal Coliforms",
+        "Agriculture",
+        "Soil Science& Agril. Chemistry",
+        "National Merit Scholarship",
+        "Database  Management",
+        "application development",
+        "Arc View GIS",
+        "Microbial  Source  Tracking  for  fecal  coliforms  using  RNA ribotyping",
+        "Database Design and Management"
+    ],
+    "professional_info": {
+        "person name": [
+            "REDDY GANTA"
+        ],
+        "job title": [
+            "Agricultural Infomatics Scientist",
+            "Agricultural Informatics Scientist"
+        ],
+        "company": [
+            "GLORIETA GEOSCIENCE, INC."
+        ],
+        "university": [
+            "Indiana  University-Purdue  University Indianapolis",
+            "ANGR Agril. University"
+        ],
+        "degree": [
+            "M.S.",
+            "B.Sc."
+        ],
+        "years of experience": [
+            "Professional Experience",
+            "5 Years Experience"
+        ],
+        "address": [
+            "P.O.BOX 5727",
+            "Santa Fe",
+            "87502",
+            "Ext. 107"
+        ],
+        "email": [
+            "email",
+            "ganta@glorietageo.com"
+        ],
+        "phone": [
+            "Voice",
+            "Fax"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Bioinformatics": 0.5837,
+            "Microbial Source Tracking for Fecal Coliforms": 0.1929,
+            "Agriculture": 0.4732,
+            "Soil Science& Agril. Chemistry": 0.1694,
+            "National Merit Scholarship": 0.3183,
+            "Database  Management": 0.3738,
+            "application development": 0.2803,
+            "Arc View GIS": 0.5111,
+            "Microbial  Source  Tracking  for  fecal  coliforms  using  RNA ribotyping": 0.1879,
+            "Database Design and Management": 0.2493
+        },
+        "filename": "cv (1157)_annotated.json"
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "skills": [
+        "professional skill set",
+        "On page Optimization",
+        "Link Optimization",
+        "Content Optimization",
+        "Title Tag/Meta Tag Optimization",
+        "Image Optimization",
+        "Keyword Optimization",
+        "Sitemap",
+        "Off page Optimization",
+        "Link Building",
+        "Social Media Optimization",
+        "Search Engine Marketing",
+        "Google & Yahoo/Bing Webmaster Tool",
+        "Google Analytic s Tool",
+        "Google Adwords Tool",
+        "SKILLS & CAPABILITIES",
+        "Communication skill",
+        "English",
+        "Sincere and hard working",
+        "Willing to take responsibilities",
+        "Eager to face challenges",
+        "Positive attitude",
+        "Leadership Skills",
+        "Single",
+        "LanguageSpeakRead & Write Understand",
+        "Hindi",
+        "Malayalam",
+        "Tamil"
+    ],
+    "professional_info": {
+        "person name": [
+            "Nithin Raj"
+        ],
+        "job title": [
+            "Search Engine Optimization (SEO) Specialist",
+            "Intern",
+            "Male"
+        ],
+        "company": [
+            "Spectrum  Softtech Solutions pvt. Ltd."
+        ],
+        "university": [
+            "University",
+            "Coimbatote D.O.T.E",
+            "TENTH 60Kendriya Vidyalaya",
+            "KanjikodeCBSE"
+        ],
+        "degree": [
+            "Diploma      EEE 66SNGPC"
+        ],
+        "years of experience": [],
+        "address": [
+            "RajBhavan",
+            "Anand Street",
+            "Nallepilly P.O.",
+            "Mobile No",
+            "Kerala - 678553",
+            "Mahakavi G. Road"
+        ],
+        "email": [
+            "Email",
+            "nithinraj995 @gmail.com"
+        ],
+        "phone": [
+            "Telephone No : 0492-3282787"
+        ]
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "professional skill set": 0.2096,
+            "On page Optimization": 0.3744,
+            "Link Optimization": 0.3895,
+            "Content Optimization": 0.4445,
+            "Title Tag/Meta Tag Optimization": 0.4668,
+            "Image Optimization": 0.4127,
+            "Keyword Optimization": 0.4164,
+            "Sitemap": 0.2411,
+            "Off page Optimization": 0.3743,
+            "Link Building": 0.3665,
+            "Social Media Optimization": 0.2889,
+            "Search Engine Marketing": 0.15,
+            "Google & Yahoo/Bing Webmaster Tool": 0.4134,
+            "Google Analytic s Tool": 0.6718,
+            "Google Adwords Tool": 0.3221,
+            "SKILLS & CAPABILITIES": 0.253,
+            "Communication skill": 0.3182,
+            "English": 0.6605,
+            "Sincere and hard working": 0.3091,
+            "Willing to take responsibilities": 0.3274,
+            "Eager to face challenges": 0.1558,
+            "Positive attitude": 0.3104,
+            "Leadership Skills": 0.3997,
+            "Single": 0.2985,
+            "LanguageSpeakRead & Write Understand": 0.2514,
+            "Hindi": 0.6491,
+            "Malayalam": 0.7181,
+            "Tamil": 0.5268
+        },
+        "filename": "cv (535)_annotated.json"
+    }
+}

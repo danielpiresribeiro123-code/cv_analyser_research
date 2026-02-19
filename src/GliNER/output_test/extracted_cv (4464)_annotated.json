@@ -1,0 +1,49 @@
+{
+    "skills": [
+        "Project Management",
+        "Circuit Management",
+        "software",
+        "Remedy ticketing system"
+    ],
+    "professional_info": {
+        "person name": [
+            "GS11",
+            "Kevin L. Trostle"
+        ],
+        "job title": [
+            "INFORMATION TECHNOLOGY SPECIALIST",
+            "Supervison",
+            "Licensed Electrician",
+            "Alarm management",
+            "Alarm Technician",
+            "Training",
+            "Supply",
+            "Quality Assurance",
+            "management",
+            "support personnel"
+        ],
+        "company": [
+            "GS11",
+            "Company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": [
+            "DSN 266-4800",
+            "COMM. 865) 336-4800"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Project Management": 0.5529,
+            "Circuit Management": 0.3646,
+            "software": 0.2378,
+            "Remedy ticketing system": 0.2851
+        },
+        "filename": "cv (4464)_annotated.json"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "skills": [
+        "Well-organized and reliable",
+        "able to remain calm under pressure",
+        "Dynamic",
+        "enthusiastic",
+        "flexible",
+        "communication",
+        "Excellent interpersonal and communication skills",
+        "Adapt easily to new concept and responsibilities",
+        "Able to deal with extended pressure",
+        "strong on follow through",
+        "Excellent",
+        "customer service",
+        "Fax",
+        "Scanner",
+        "Quieck Book Account software",
+        "Telly Orecal software",
+        "English",
+        "Excellent",
+        "Gujarati",
+        "Excellent",
+        "Hindi",
+        "ExcellentEducational",
+        "Higher Secondary School Certificate",
+        "accounting and finance",
+        "C A PE-II",
+        "Customer Service & Feed back",
+        "Account maintains",
+        "Customer Follow Up",
+        "Banking"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHILPA MAHENDRABHAI MARU"
+        ],
+        "job title": [],
+        "company": [
+            "Nationality",
+            "Bechalore of Commerece",
+            "Pankaj Tours & Travels"
+        ],
+        "university": [
+            "Saurastra University"
+        ],
+        "degree": [
+            "HSC"
+        ],
+        "years of experience": [
+            "extensive experience"
+        ],
+        "address": [
+            "First Floor Dhebar Road",
+            "Para Bazar"
+        ],
+        "email": [
+            "E-mail",
+            "mnsp84@gmail.com"
+        ],
+        "phone": [
+            "Mobile #",
+            "+91 9510281284"
+        ]
+    },
+    "metadata": {
+        "total_skills": 29,
+        "confidence_scores": {
+            "Well-organized and reliable": 0.3562,
+            "able to remain calm under pressure": 0.2157,
+            "Dynamic": 0.4215,
+            "enthusiastic": 0.2536,
+            "flexible": 0.2807,
+            "communication": 0.1591,
+            "Excellent interpersonal and communication skills": 0.3674,
+            "Adapt easily to new concept and responsibilities": 0.2494,
+            "Able to deal with extended pressure": 0.2529,
+            "strong on follow through": 0.3467,
+            "Excellent": 0.2686,
+            "customer service": 0.2457,
+            "Fax": 0.2097,
+            "Scanner": 0.2439,
+            "Quieck Book Account software": 0.3091,
+            "Telly Orecal software": 0.4036,
+            "English": 0.6832,
+            "Gujarati": 0.7215,
+            "Hindi": 0.6828,
+            "ExcellentEducational": 0.1772,
+            "Higher Secondary School Certificate": 0.3034,
+            "accounting and finance": 0.1834,
+            "C A PE-II": 0.1527,
+            "Customer Service & Feed back": 0.2049,
+            "Account maintains": 0.2255,
+            "Customer Follow Up": 0.2721,
+            "Banking": 0.1935
+        },
+        "filename": "cv (1302)_annotated.json"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "construction methodology",
+        "Self motivated",
+        "determined",
+        "hard working",
+        "proactive",
+        "HSE",
+        "SSC"
+    ],
+    "professional_info": {
+        "person name": [
+            "G S SUBRAHMANYA VARMA",
+            "varma"
+        ],
+        "job title": [
+            "Assistant engineer",
+            "Sr. site engineer"
+        ],
+        "company": [
+            "L&W constructions",
+            "MNC Singapore subsidiary company",
+            "Brawn Space",
+            "Voice gate technologies",
+            "Global Technology ParkClient",
+            "Maple tree",
+            "MTB3",
+            "Ascendas india private limited"
+        ],
+        "university": [
+            "SRM UNIVERSITY",
+            "Narayana junior college",
+            "Sri prakash vidya niketan"
+        ],
+        "degree": [
+            "Bachelor of technology in civil engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "sun city",
+            "Near madhapur",
+            "Hyderabad",
+            "Beside Eco Space",
+            "Bellandur",
+            "Bangalore",
+            "ITPL",
+            "White field"
+        ],
+        "email": [
+            "E-mail",
+            "gss3337@gmail.com",
+            "07259894399 08500314456"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "construction methodology": 0.8688,
+            "Self motivated": 0.374,
+            "determined": 0.2731,
+            "hard working": 0.3329,
+            "proactive": 0.2902,
+            "HSE": 0.4487,
+            "SSC": 0.5586
+        },
+        "filename": "cv (2178)_annotated.json"
+    }
+}

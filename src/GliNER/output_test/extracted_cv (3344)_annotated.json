@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "Manufacturing of Connecting Rod",
+        "Regenerative Anti Locking Braking System",
+        "Electromagnetic Clutch",
+        "Dynamo",
+        "Rotary Friction Welding machine",
+        "3-Jaw Chuck & Tail Stock",
+        "IT Skills",
+        "Windows XP",
+        "7",
+        "8",
+        "Microsoft Office",
+        "Internet",
+        "Interest",
+        "Reading Books",
+        "Singing & Listening music",
+        "English",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "Yogesh Kumar",
+            "Sh. Charan Singh"
+        ],
+        "job title": [],
+        "company": [
+            "Govt. High School",
+            "Rawal Convent School",
+            "Assembly of Powertrac Tractor",
+            "Yamaha Motors Pvt. Ltd. Faridabad"
+        ],
+        "university": [
+            "Institute of Engineering &Technology",
+            "Kurukshetra University"
+        ],
+        "degree": [
+            "B.Tech."
+        ],
+        "years of experience": [],
+        "address": [
+            "VPO-Sagarpur",
+            "Pin code-121004"
+        ],
+        "email": [
+            "E-mail",
+            "yogesh14592@gmail.com"
+        ],
+        "phone": [
+            "Mob",
+            "+91-9468384403"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Manufacturing of Connecting Rod": 0.3129,
+            "Regenerative Anti Locking Braking System": 0.249,
+            "Electromagnetic Clutch": 0.1796,
+            "Dynamo": 0.2375,
+            "Rotary Friction Welding machine": 0.2837,
+            "3-Jaw Chuck & Tail Stock": 0.2444,
+            "IT Skills": 0.3076,
+            "Windows XP": 0.9399,
+            "7": 0.2533,
+            "8": 0.2889,
+            "Microsoft Office": 0.6682,
+            "Internet": 0.5786,
+            "Interest": 0.256,
+            "Reading Books": 0.1552,
+            "Singing & Listening music": 0.1944,
+            "English": 0.3739,
+            "Hindi": 0.5288
+        },
+        "filename": "cv (3344)_annotated.json"
+    }
+}

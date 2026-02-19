@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "motivated",
+        "adaptable and responsible",
+        "professional and  technical  skills",
+        "methodical",
+        "customer-focused approach",
+        "strong drive to see things through to completion",
+        "Mechanical Engineering",
+        "Industrial management",
+        "Theory of Machines",
+        "Machine Design",
+        "Commerce Stream",
+        "Science Stream",
+        "Mechanical Engineer  Power House Management at Delhi",
+        "Hobbies and Interests",
+        "D. O. B."
+    ],
+    "professional_info": {
+        "person name": [
+            "Rahul Tiwari",
+            "Mr. Ramakant Tiwari"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "IASE Deemed University",
+            "Victory Intermediate College"
+        ],
+        "degree": [
+            "Diploma in Mechanical Engineering"
+        ],
+        "years of experience": [
+            "3 Years"
+        ],
+        "address": [
+            "A 794",
+            "Sunrise Apartment Bakkarwala",
+            "2009 Intermediate (12th) U. P . Board, Allahabad",
+            "Doharighat",
+            "Pin"
+        ],
+        "email": [
+            "E-mail",
+            "garg.rahul256@gmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "motivated": 0.4264,
+            "adaptable and responsible": 0.3011,
+            "professional and  technical  skills": 0.2837,
+            "methodical": 0.3399,
+            "customer-focused approach": 0.1923,
+            "strong drive to see things through to completion": 0.1849,
+            "Mechanical Engineering": 0.4937,
+            "Industrial management": 0.3084,
+            "Theory of Machines": 0.328,
+            "Machine Design": 0.3535,
+            "Commerce Stream": 0.7521,
+            "Science Stream": 0.704,
+            "Mechanical Engineer  Power House Management at Delhi": 0.221,
+            "Hobbies and Interests": 0.2566,
+            "D. O. B.": 0.3057
+        },
+        "filename": "cv (1510)_annotated.json"
+    }
+}

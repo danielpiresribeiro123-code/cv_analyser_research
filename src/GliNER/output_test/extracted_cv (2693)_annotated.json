@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "technical skills",
+        "positive attitude",
+        "dedicated member",
+        "Key skills",
+        "Dedicated and hard working nature",
+        "Comprehensive problem solving abilities",
+        "quick learner",
+        "Can do’ attitude",
+        "Effective communication skills",
+        "Diploma in MECH(Tool and Die making)",
+        "Personal Skills",
+        "Highly motivated",
+        "Capable of quickly learning new concepts and technique",
+        "Male",
+        "Painting",
+        "Drawing",
+        "English",
+        "Tamil",
+        "Telugu"
+    ],
+    "professional_info": {
+        "person name": [
+            "P.NAVANEETHA KRISHNAN",
+            "P.Padmanabhan"
+        ],
+        "job title": [
+            "Academic Profile"
+        ],
+        "company": [
+            "TUBE INVESTMENTS OF INDIA PVT LTD",
+            "POPULAR VEHICLES & SEVICES S/R (Anna nagar)",
+            "KUN HYUNDAI S/R (Pursawalkam)",
+            "Brakes India, Ltd.",
+            "ADDISON  & CO  Ltd.",
+            "CHENNAI  PORT  TRUST"
+        ],
+        "university": [
+            "Zinda Shaib"
+        ],
+        "degree": [],
+        "years of experience": [
+            "68%"
+        ],
+        "address": [
+            "Permanent address",
+            "20/8"
+        ],
+        "email": [
+            "E-Mail",
+            "kunnavakrish@gmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "technical skills": 0.384,
+            "positive attitude": 0.3124,
+            "dedicated member": 0.3811,
+            "Key skills": 0.3215,
+            "Dedicated and hard working nature": 0.3842,
+            "Comprehensive problem solving abilities": 0.3736,
+            "quick learner": 0.416,
+            "Can do’ attitude": 0.1844,
+            "Effective communication skills": 0.2115,
+            "Diploma in MECH(Tool and Die making)": 0.439,
+            "Personal Skills": 0.1515,
+            "Highly motivated": 0.2703,
+            "Capable of quickly learning new concepts and technique": 0.3033,
+            "Male": 0.2447,
+            "Painting": 0.3562,
+            "Drawing": 0.1707,
+            "English": 0.7444,
+            "Tamil": 0.6486,
+            "Telugu": 0.5835
+        },
+        "filename": "cv (2693)_annotated.json"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "skills": [
+        "Male",
+        "Unmarried",
+        "Languages Known",
+        "English",
+        "Hindi",
+        "Urdu",
+        "OBJECTIVE",
+        "capabilities",
+        "sense of dedicati on towards my duties",
+        "sole aim",
+        "Revit Architecture",
+        "Computer Proficiency",
+        "AutoCAD 2D",
+        "Revit  MEP",
+        "Strengths",
+        "Adoptability to different en vironments",
+        "quick learning",
+        "capabilities",
+        "Team Work",
+        "Flexible",
+        "Punctual",
+        "Interest to Learn New Things",
+        "Willing And Able To learn New Pr oducts Concepts And technique"
+    ],
+    "professional_info": {
+        "person name": [
+            "Gulvez khan",
+            "Muzammil khan",
+            "Indian"
+        ],
+        "job title": [
+            "Designation",
+            "AutoCAD Draughtsman"
+        ],
+        "company": [
+            "Hoxton & Urban",
+            "UP Board (Uttar Pradesh)"
+        ],
+        "university": [
+            "MJPRU  { Bareilly }"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Sep  2016"
+        ],
+        "address": [
+            "R 296",
+            "Block-, L",
+            "Street no.14",
+            "Ramesh Park",
+            "Laxmi Nagar",
+            "Abdullah Masjid",
+            "Ph.no .+91 –7065483238",
+            "Mohalla-Kawar",
+            "Town & Post",
+            "243001"
+        ],
+        "email": [
+            "E-mail Address",
+            "Gulwezkhan26@gmail.com",
+            "Pursuing graduation",
+            "Intermediate",
+            "Passed  High School"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "Male": 0.1946,
+            "Unmarried": 0.2835,
+            "Languages Known": 0.1628,
+            "English": 0.3762,
+            "Hindi": 0.3855,
+            "Urdu": 0.7209,
+            "OBJECTIVE": 0.3241,
+            "capabilities": 0.3593,
+            "sense of dedicati on towards my duties": 0.2089,
+            "sole aim": 0.1638,
+            "Revit Architecture": 0.4425,
+            "Computer Proficiency": 0.4192,
+            "AutoCAD 2D": 0.3637,
+            "Revit  MEP": 0.4444,
+            "Strengths": 0.3187,
+            "Adoptability to different en vironments": 0.1582,
+            "quick learning": 0.2933,
+            "Team Work": 0.3345,
+            "Flexible": 0.4265,
+            "Punctual": 0.3349,
+            "Interest to Learn New Things": 0.3573,
+            "Willing And Able To learn New Pr oducts Concepts And technique": 0.1818
+        },
+        "filename": "cv (1932)_annotated.json"
+    }
+}

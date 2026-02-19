@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "personal attributes",
+        "Leather Technology Footwear",
+        "CASD",
+        "Intermediate",
+        "Advance Diploma",
+        "Computer Application",
+        "Footwear Manufacturing & Designing",
+        "Production",
+        "Quality Control",
+        "High communication skills",
+        "Positive attitude",
+        "Punctuality",
+        "Self-motivation",
+        "Confidence",
+        "Creativity",
+        "Teamwork",
+        "Leadership qualities",
+        "Team work"
+    ],
+    "professional_info": {
+        "person name": [
+            "Gulzar Ali"
+        ],
+        "job title": [],
+        "company": [
+            "Government Leather Institute",
+            "Board of Technical Education",
+            "Global Footwear Pvt. Ltd.",
+            "Nike",
+            "Puma",
+            "Lotto",
+            "Sierra",
+            "Converse"
+        ],
+        "university": [
+            "Dr. Ram Manohar Lohiya Avadh University faizabad",
+            "U.P. Board",
+            "Lucknow computer Education Faizabad"
+        ],
+        "degree": [
+            "B.S.C.",
+            "ADCA"
+        ],
+        "years of experience": [
+            "09389689010",
+            "4Year’s experience"
+        ],
+        "address": [
+            "Add.",
+            "Narela Delhi",
+            "Lucknow"
+        ],
+        "email": [
+            "Email",
+            "gulzaraligli@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "personal attributes": 0.3342,
+            "Leather Technology Footwear": 0.2476,
+            "CASD": 0.1788,
+            "Intermediate": 0.3076,
+            "Advance Diploma": 0.1971,
+            "Computer Application": 0.3999,
+            "Footwear Manufacturing & Designing": 0.2717,
+            "Production": 0.1979,
+            "Quality Control": 0.3433,
+            "High communication skills": 0.5528,
+            "Positive attitude": 0.6697,
+            "Punctuality": 0.5585,
+            "Self-motivation": 0.6012,
+            "Confidence": 0.621,
+            "Creativity": 0.5374,
+            "Teamwork": 0.4244,
+            "Leadership qualities": 0.6648,
+            "Team work": 0.34
+        },
+        "filename": "cv (211)_annotated.json"
+    }
+}

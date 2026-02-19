@@ -1,0 +1,98 @@
+{
+    "skills": [
+        "previous court experience",
+        "petitions",
+        "Excellent research",
+        "documentation",
+        "reporting abilities",
+        "outstanding communication and presentation",
+        "procedural and methodological approaches",
+        "Detail oriented",
+        "commitment",
+        "excellent customer service",
+        "Core Qualifications",
+        "Westlaw",
+        "Concordance",
+        "CaseMap",
+        "Principles and Practices of Legal Communication",
+        "Court Procedures/Processes",
+        "Results-oriented",
+        "Client-focused",
+        "Interview Techniques and Methods",
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Access",
+        "Project",
+        "Experience",
+        "client files",
+        "vendor files",
+        "Self-directed",
+        "outstanding organizational skills",
+        "excellent task and time management skills"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INFORMATION TECHNOLOGY COORDINATOR",
+            "Professional Summary",
+            "Paralegal",
+            "Corporate Information Officer",
+            "CIO",
+            "Senior Leadership Team",
+            "Single Point of Contact (SPOC)",
+            "Executive Assistant",
+            "Contractor"
+        ],
+        "company": [
+            "LexisNexis",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "More than 5 years of experience"
+        ],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 30,
+        "confidence_scores": {
+            "previous court experience": 0.1636,
+            "petitions": 0.1855,
+            "Excellent research": 0.2296,
+            "documentation": 0.2098,
+            "reporting abilities": 0.4163,
+            "outstanding communication and presentation": 0.3467,
+            "procedural and methodological approaches": 0.6528,
+            "Detail oriented": 0.527,
+            "commitment": 0.1507,
+            "excellent customer service": 0.1706,
+            "Core Qualifications": 0.1604,
+            "Westlaw": 0.2893,
+            "Concordance": 0.4339,
+            "CaseMap": 0.521,
+            "Principles and Practices of Legal Communication": 0.3405,
+            "Court Procedures/Processes": 0.1765,
+            "Results-oriented": 0.5494,
+            "Client-focused": 0.5067,
+            "Interview Techniques and Methods": 0.7495,
+            "Word": 0.5193,
+            "Excel": 0.412,
+            "PowerPoint": 0.5004,
+            "Access": 0.392,
+            "Project": 0.3898,
+            "Experience": 0.2807,
+            "client files": 0.2128,
+            "vendor files": 0.1737,
+            "Self-directed": 0.3987,
+            "outstanding organizational skills": 0.4056,
+            "excellent task and time management skills": 0.2692
+        },
+        "filename": "cv (4791)_annotated.json"
+    }
+}

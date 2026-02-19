@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "Social Studies",
+        "experience",
+        "Criminology",
+        "Political Science",
+        "Secondary Social Science Education",
+        "Valid and Current Teaching Certification",
+        "Cross Country and Track",
+        "Creative lesson planning",
+        "Critical thinker",
+        "Experiential learning",
+        "Self-motivated",
+        "Fast learner",
+        "Positive and encouraging",
+        "Bilingual",
+        "Data-driven curriculum expertise",
+        "SMART Board",
+        "innovative classroom management tools",
+        "standards",
+        "Professional Learning Communities",
+        "Cross Curriculum Collaboration",
+        "Reading",
+        "Language Arts",
+        "ESOL in the Content Area",
+        "Helped students develop and improve study methods and habits"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "administrators"
+        ],
+        "company": [
+            "Current Company Name"
+        ],
+        "university": [
+            "Title 1 school",
+            "local businesses"
+        ],
+        "degree": [
+            "bachelor's degrees"
+        ],
+        "years of experience": [],
+        "address": [
+            "Hollywood, Florida"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Social Studies": 0.8676,
+            "experience": 0.2016,
+            "Criminology": 0.5309,
+            "Political Science": 0.6707,
+            "Secondary Social Science Education": 0.2268,
+            "Valid and Current Teaching Certification": 0.6421,
+            "Cross Country and Track": 0.294,
+            "Creative lesson planning": 0.2655,
+            "Critical thinker": 0.2625,
+            "Experiential learning": 0.2329,
+            "Self-motivated": 0.2364,
+            "Fast learner": 0.2826,
+            "Positive and encouraging": 0.3526,
+            "Bilingual": 0.1543,
+            "Data-driven curriculum expertise": 0.3479,
+            "SMART Board": 0.3809,
+            "innovative classroom management tools": 0.1525,
+            "standards": 0.4201,
+            "Professional Learning Communities": 0.2437,
+            "Cross Curriculum Collaboration": 0.3005,
+            "Reading": 0.6752,
+            "Language Arts": 0.6424,
+            "ESOL in the Content Area": 0.5531,
+            "Helped students develop and improve study methods and habits": 0.207
+        },
+        "filename": "cv (4746)_annotated.json"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Marketing",
+        "distribution  &  service  standards",
+        "Resourceful",
+        "Proficiency",
+        "Academic Credentials",
+        "computerised cash register system",
+        "lean method",
+        "excel spreadsheets",
+        "guest service",
+        "food up- sell",
+        "performance",
+        "service recovery",
+        "positive and professional attitude"
+    ],
+    "professional_info": {
+        "person name": [
+            "Devendra Kumar Singh"
+        ],
+        "job title": [
+            "Assistant Manager",
+            "Assistant  Manager"
+        ],
+        "company": [
+            "SGSIC",
+            "Mawarid Group of Companies",
+            "Pizza Hut",
+            "Icyspicy Food Point"
+        ],
+        "university": [
+            "Chandigarh Business School",
+            "DDU University"
+        ],
+        "degree": [
+            "PGDM",
+            "MBA",
+            "B.Sc."
+        ],
+        "years of experience": [
+            "6 years of rich experience"
+        ],
+        "address": [
+            "Chandigarh",
+            "Gorakhpur"
+        ],
+        "email": [],
+        "phone": [
+            "+917355650179/8175068232 E-Mail:devendracgc@gmail .com"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Marketing": 0.2405,
+            "distribution  &  service  standards": 0.7325,
+            "Resourceful": 0.1633,
+            "Proficiency": 0.2076,
+            "Academic Credentials": 0.2297,
+            "computerised cash register system": 0.3471,
+            "lean method": 0.7963,
+            "excel spreadsheets": 0.1552,
+            "guest service": 0.2765,
+            "food up- sell": 0.2621,
+            "performance": 0.3188,
+            "service recovery": 0.1908,
+            "positive and professional attitude": 0.2328
+        },
+        "filename": "cv (3873)_annotated.json"
+    }
+}

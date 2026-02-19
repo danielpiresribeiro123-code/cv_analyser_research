@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "demandingallmyskillandexplore",
+        "Strongtechnicalskillsandknowledgeofmechanicalengineering",
+        "AdeptinworkingwithCADtoolsandstatisticaltools",
+        "Skilledinusingmechanicaltesteranddifferentmetrologytools",
+        "Comprehensiveknowledgeoffundamentaltestingpracticesanddata",
+        "Familiaritywithengineeringanalysisprocessandtechniques",
+        "Effectivecommunicationskills",
+        "dependableperson",
+        "IS8472",
+        "Creoparamatric",
+        "ANSYS",
+        "Abilitytoworkunderpressureandcandealwithconflicts",
+        "Abilitytolearnnewskills",
+        "Tamil(R/W/S)",
+        "Hindi(S)",
+        "M1243377-valid"
+    ],
+    "professional_info": {
+        "person name": [
+            "AZHMEERHAJAMAIDEEN.S",
+            "B.E.",
+            "J.SHAHULHAMEED",
+            "Indian",
+            "PERUMALKOVILSTREET",
+            "PATTUKKOTTAI",
+            "THANJAVUR(Dt.)",
+            "S.AZHMEERHAJA",
+            "MAIDEEN"
+        ],
+        "job title": [
+            "MECHANICALENGINEER",
+            "MechanicalEngineeringatUCE–PKTcampusin2014",
+            "QualityandProductionSupervisor",
+            "TestingEngineerandAssemblySupervisor"
+        ],
+        "company": [
+            "NationalDesignerDisplaySystem",
+            "Yathipumps",
+            "AutoCAD"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Khopoli",
+            "Mumbai-410203",
+            "Sivananthapuram",
+            "Coimbatore-35",
+            "168A"
+        ],
+        "email": [
+            "E-mail",
+            "ajmeerhaja10@gmail.com",
+            "Leadershipskills"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9659702488"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "demandingallmyskillandexplore": 0.1985,
+            "Strongtechnicalskillsandknowledgeofmechanicalengineering": 0.1983,
+            "AdeptinworkingwithCADtoolsandstatisticaltools": 0.2238,
+            "Skilledinusingmechanicaltesteranddifferentmetrologytools": 0.174,
+            "Comprehensiveknowledgeoffundamentaltestingpracticesanddata": 0.1568,
+            "Familiaritywithengineeringanalysisprocessandtechniques": 0.2414,
+            "Effectivecommunicationskills": 0.2523,
+            "dependableperson": 0.3679,
+            "IS8472": 0.2271,
+            "Creoparamatric": 0.4521,
+            "ANSYS": 0.5345,
+            "Abilitytoworkunderpressureandcandealwithconflicts": 0.2577,
+            "Abilitytolearnnewskills": 0.2452,
+            "Tamil(R/W/S)": 0.2294,
+            "Hindi(S)": 0.2099,
+            "M1243377-valid": 0.1905
+        },
+        "filename": "cv (179)_annotated.json"
+    }
+}

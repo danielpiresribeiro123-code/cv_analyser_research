@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "Electrical",
+        "Sound knowledge",
+        "soft starter",
+        "DOL Starter",
+        "star delta starter",
+        "PCC Cabling",
+        "MCC Cabling and wiring",
+        "Interlocking",
+        "ESP",
+        "AVR",
+        "Synchronizing",
+        "Exitation",
+        "Motor Re-Winding",
+        "QUALITY CIRCLE",
+        "Safety committee"
+    ],
+    "professional_info": {
+        "person name": [
+            "Jitender Singh"
+        ],
+        "job title": [
+            "Current Designation",
+            "FORMAN ELECTRICAL",
+            "I.T.I Electrician",
+            "Electrical Forman"
+        ],
+        "company": [
+            "Simbhaoli Sugars Ltd.",
+            "Simbhaoli Power Private Ltd.",
+            "Raj Agro Industries PLC",
+            "Wama Sugar Factory",
+            "ABB",
+            "Danfoss",
+            "Siemens",
+            "Alstom",
+            "ACB",
+            "L&T",
+            "AEG Germany",
+            "Thermodyne France",
+            "CO-GEN PLANT",
+            "Indian",
+            "Sikh"
+        ],
+        "university": [
+            "UP Board"
+        ],
+        "degree": [
+            "Intermediate"
+        ],
+        "years of experience": [
+            "19 years experience"
+        ],
+        "address": [
+            "Sibu Siree",
+            "East Wolega Zone"
+        ],
+        "email": [
+            "E-Mail",
+            "Jitender_16@ymail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Electrical": 0.2728,
+            "Sound knowledge": 0.302,
+            "soft starter": 0.2821,
+            "DOL Starter": 0.3399,
+            "star delta starter": 0.338,
+            "PCC Cabling": 0.278,
+            "MCC Cabling and wiring": 0.1863,
+            "Interlocking": 0.323,
+            "ESP": 0.3344,
+            "AVR": 0.3798,
+            "Synchronizing": 0.3721,
+            "Exitation": 0.2678,
+            "Motor Re-Winding": 0.1752,
+            "QUALITY CIRCLE": 0.2073,
+            "Safety committee": 0.1805
+        },
+        "filename": "cv (3451)_annotated.json"
+    }
+}

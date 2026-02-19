@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Certificat",
+        "eQualificati",
+        "DGPA",
+        "Injection molding machine"
+    ],
+    "professional_info": {
+        "person name": [
+            "MINHAJ SARWER"
+        ],
+        "job title": [
+            "committed",
+            "dedicated  people",
+            "Quality Engineer",
+            "assistant Engineer",
+            "waler"
+        ],
+        "company": [
+            "Bengal  Institute  of  Technology  &, Management",
+            "onInstitute Board",
+            "Universit",
+            "Bengal Institute, of Technology&, Management",
+            "W.B.U.T20147.13",
+            "10thMatriculationHigh School Sontha  B.S.E.B",
+            "Machino Plastics Ltd",
+            "JSW",
+            "UBE",
+            "TOSHIBA",
+            "CLF",
+            "Super master",
+            "ERA INFARA Engg.Ltd",
+            "Dehli Metro Rail corporation"
+        ],
+        "university": [],
+        "degree": [
+            "B.Tech  in  Mechanical  Engineering",
+            "GraduationB.Tech"
+        ],
+        "years of experience": [
+            "Professional Experience",
+            "2 Years"
+        ],
+        "address": [
+            "Vill-PHULWARI",
+            "PO-ALTA",
+            "Pin– 855107",
+            "Manesar Gurgaon",
+            "Sector 8"
+        ],
+        "email": [
+            "E-mail",
+            "minhajsarwer@  gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+917549240462",
+            "+917503101481"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Certificat": 0.508,
+            "eQualificati": 0.7115,
+            "DGPA": 0.255,
+            "Injection molding machine": 0.1703
+        },
+        "filename": "cv (3519)_annotated.json"
+    }
+}

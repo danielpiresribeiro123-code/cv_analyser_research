@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "technical laborious skills",
+        "Performance driven professional",
+        "capacity planning",
+        "decision-making strengths",
+        "AUTO CAD 2013",
+        "Auto desk Revit MEP",
+        "NavisWorks",
+        "Windows XP",
+        "MS office",
+        "MS Excel",
+        "PowerPoint",
+        "Saketh Tower (Sriyam)",
+        "AL-Baker Tower",
+        "company standards"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mukesh Puppala"
+        ],
+        "job title": [
+            "ELECTRICAL ENGINEER"
+        ],
+        "company": [
+            "KG MECH Electro-Mechanical Pvt  .   Ltd",
+            "Insurance Regulatory Development Authority",
+            "ARGON Global",
+            "W.L.L",
+            "2B+GF+2P+43+HP"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "+97431088299",
+            "6 years of experience"
+        ],
+        "address": [
+            "Hyderabad"
+        ],
+        "email": [
+            "Male",
+            "Email",
+            "Mukeshpuppala28@gmail.com",
+            "CONTACT"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "technical laborious skills": 0.3549,
+            "Performance driven professional": 0.2442,
+            "capacity planning": 0.1855,
+            "decision-making strengths": 0.2161,
+            "AUTO CAD 2013": 0.7448,
+            "Auto desk Revit MEP": 0.6598,
+            "NavisWorks": 0.5217,
+            "Windows XP": 0.7414,
+            "MS office": 0.7288,
+            "MS Excel": 0.5309,
+            "PowerPoint": 0.3374,
+            "Saketh Tower (Sriyam)": 0.1511,
+            "AL-Baker Tower": 0.2438,
+            "company standards": 0.5134
+        },
+        "filename": "cv (2740)_annotated.json"
+    }
+}

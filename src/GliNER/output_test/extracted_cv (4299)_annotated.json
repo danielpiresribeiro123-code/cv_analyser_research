@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "organizational skills",
+        "ability",
+        "Experience",
+        "knowledge",
+        "aviation",
+        "task oriented",
+        "Agriculture",
+        "Commercial",
+        "Aircraft",
+        "Airport",
+        "Airline",
+        "certificates",
+        "intranet",
+        "internet",
+        "aircraft specifications",
+        "experience",
+        "Manage"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CUSTOMER SERVICE REPRESENTATIVE",
+            "team member",
+            "multiple underwriters",
+            "underwriter assistants",
+            "brokers",
+            "manager"
+        ],
+        "company": [
+            "Company Name",
+            "Phoenix Aviation",
+            "AIG Aerospace"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "organizational skills": 0.1866,
+            "ability": 0.1863,
+            "Experience": 0.1718,
+            "knowledge": 0.3408,
+            "aviation": 0.6401,
+            "task oriented": 0.2297,
+            "Agriculture": 0.7453,
+            "Commercial": 0.7133,
+            "Aircraft": 0.205,
+            "Airport": 0.5845,
+            "Airline": 0.585,
+            "certificates": 0.5869,
+            "intranet": 0.3781,
+            "internet": 0.1907,
+            "aircraft specifications": 0.2064,
+            "experience": 0.2079,
+            "Manage": 0.1963
+        },
+        "filename": "cv (4299)_annotated.json"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "analytical skills",
+        "ability",
+        "Strength",
+        "Self motivated",
+        "energetic and positive",
+        "Capable of working without supervision",
+        "Team worker",
+        "ability to lead",
+        "Ability to work with people of every level",
+        "Energy",
+        "MECH",
+        "Thermal",
+        "Solar and biomass",
+        "AUTOCAD 2007",
+        "PRO/E",
+        "MS OFFICE",
+        "GAMBIT",
+        "Engineering  thermodynamics",
+        "Engineering metallurgy",
+        "Male",
+        "Single"
+    ],
+    "professional_info": {
+        "person name": [
+            "BHOJAN A",
+            "R.Asokan",
+            "Indian"
+        ],
+        "job title": [
+            "Educational Qualification"
+        ],
+        "company": [
+            "ISTE"
+        ],
+        "university": [
+            "university20147.84",
+            "Engineering Collage",
+            "Kovilvenni.Anna",
+            "university",
+            "adiprasakthi engg college",
+            "Achariya engineering college Pondicherry"
+        ],
+        "degree": [
+            "M.Tech",
+            "B.E"
+        ],
+        "years of experience": [],
+        "address": [
+            "Trichy",
+            "State board20068.8"
+        ],
+        "email": [
+            "E-Mail",
+            "bhojanmech@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9600313641"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "analytical skills": 0.4523,
+            "ability": 0.3608,
+            "Strength": 0.2845,
+            "Self motivated": 0.5186,
+            "energetic and positive": 0.3306,
+            "Capable of working without supervision": 0.4414,
+            "Team worker": 0.2952,
+            "ability to lead": 0.3276,
+            "Ability to work with people of every level": 0.3367,
+            "Energy": 0.2895,
+            "MECH": 0.185,
+            "Thermal": 0.2203,
+            "Solar and biomass": 0.3422,
+            "AUTOCAD 2007": 0.6466,
+            "PRO/E": 0.5569,
+            "MS OFFICE": 0.5465,
+            "GAMBIT": 0.5228,
+            "Engineering  thermodynamics": 0.6777,
+            "Engineering metallurgy": 0.6388,
+            "Male": 0.3247,
+            "Single": 0.4135
+        },
+        "filename": "cv (529)_annotated.json"
+    }
+}

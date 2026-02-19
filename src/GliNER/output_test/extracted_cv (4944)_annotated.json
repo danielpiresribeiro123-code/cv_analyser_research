@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "data science",
+        "analytics",
+        "Machine Learning",
+        "MLLANDO BARRIER",
+        "SKILLS",
+        "Logistic",
+        "Regression",
+        "Business Analysis",
+        "Python",
+        "SQL",
+        "Pandas",
+        "Numpy",
+        "PROJECTS",
+        "Max Limit Prediction for a Fault",
+        "Tolerance Model",
+        "PythonEXPERIENCE",
+        "EDUCATION",
+        "ACTIVITIES AND AWARDS"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Young Aspirant",
+            "DESIGN ENGINEER"
+        ],
+        "company": [
+            "VW TECHNOLOGY",
+            "Automotive design department"
+        ],
+        "university": [
+            "GURGAON"
+        ],
+        "degree": [
+            "B.TECH(MECHANICAL) SPSC COLLEGE"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "data science": 0.5482,
+            "analytics": 0.2675,
+            "Machine Learning": 0.6715,
+            "MLLANDO BARRIER": 0.319,
+            "SKILLS": 0.2449,
+            "Logistic": 0.7313,
+            "Regression": 0.8013,
+            "Business Analysis": 0.5662,
+            "Python": 0.9773,
+            "SQL": 0.259,
+            "Pandas": 0.3644,
+            "Numpy": 0.295,
+            "PROJECTS": 0.2098,
+            "Max Limit Prediction for a Fault": 0.3773,
+            "Tolerance Model": 0.1522,
+            "PythonEXPERIENCE": 0.8445,
+            "EDUCATION": 0.2075,
+            "ACTIVITIES AND AWARDS": 0.4892
+        },
+        "filename": "cv (4944)_annotated.json"
+    }
+}

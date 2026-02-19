@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "ISO",
+        "9001",
+        "Engine Assembly Mfg.",
+        "Sequencing",
+        "SEM I"
+    ],
+    "professional_info": {
+        "person name": [
+            "KRANTIKUMAR BABASO CHAVARE"
+        ],
+        "job title": [
+            "Designation",
+            "Trainee Engineer"
+        ],
+        "company": [
+            "Technology",
+            "HSCD.K.T.E.Society",
+            "IchalkaranjiHSC",
+            "Kirloskar Oil Engine Ltd.",
+            "Kirloskar  Oil  Engine  Ltd.",
+            "JCB",
+            "Kirloskar oil",
+            "MIDC Kagal"
+        ],
+        "university": [
+            "M.TechRajarambapu Institute of",
+            "UniversityMay 2014-15Mech",
+            "B.E.Walchand Institute Of",
+            "SSCGovindrao High School",
+            "IchalkaranjiSSC"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "A/P: Shiradwad"
+        ],
+        "email": [
+            "- +91-7588171859",
+            "E-mail",
+            "kkchavare@gmail.com"
+        ],
+        "phone": [
+            "Contact"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "ISO": 0.8018,
+            "9001": 0.256,
+            "Engine Assembly Mfg.": 0.1535,
+            "Sequencing": 0.1683,
+            "SEM I": 0.1546
+        },
+        "filename": "cv (1195)_annotated.json"
+    }
+}

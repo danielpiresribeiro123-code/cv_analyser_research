@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "Production/Engineering",
+        "expertise",
+        "leadership",
+        "automation  engineering",
+        "engineering  /  development  skills",
+        "AREA OF EXPERTISE",
+        "instrumentation  and  control  fields",
+        "Knowledge",
+        "DCS & SCADA programs",
+        "Mark vi-e / Cimplicity",
+        "PLC’s",
+        "Vibration  Monitoring  System",
+        "Field  Instruments",
+        "Compressor Control Systems",
+        "CEMS & other Analyzers",
+        "Data Acquisition System",
+        "Fire and Gas Detection System",
+        "Flammable Detectors",
+        "Fire Fighting Systems",
+        "emergency shutdown valves",
+        "RTD",
+        "gas detectors",
+        "flame sensors",
+        "smoke detectors",
+        "MCP’s"
+    ],
+    "professional_info": {
+        "person name": [
+            "JOE JOSEPH"
+        ],
+        "job title": [
+            "INSTRUMENT & CONTROL ENGINEER/TECHNICIAN",
+            "Result oriented engineering professional"
+        ],
+        "company": [
+            "Yokogawa Centum",
+            "Invensys Foxboro",
+            "Emerson Delta-V"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "About  8  years  of  experience"
+        ],
+        "address": [],
+        "email": [
+            "Email"
+        ],
+        "phone": [
+            "Mobile",
+            "+233204979714",
+            "+233206930015"
+        ]
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "Production/Engineering": 0.4184,
+            "expertise": 0.2391,
+            "leadership": 0.1946,
+            "automation  engineering": 0.3454,
+            "engineering  /  development  skills": 0.1527,
+            "AREA OF EXPERTISE": 0.2508,
+            "instrumentation  and  control  fields": 0.2092,
+            "Knowledge": 0.2725,
+            "DCS & SCADA programs": 0.5485,
+            "Mark vi-e / Cimplicity": 0.5302,
+            "PLC’s": 0.3183,
+            "Vibration  Monitoring  System": 0.2543,
+            "Field  Instruments": 0.2607,
+            "Compressor Control Systems": 0.2387,
+            "CEMS & other Analyzers": 0.1534,
+            "Data Acquisition System": 0.1713,
+            "Fire and Gas Detection System": 0.1955,
+            "Flammable Detectors": 0.2148,
+            "Fire Fighting Systems": 0.2888,
+            "emergency shutdown valves": 0.1554,
+            "RTD": 0.1536,
+            "gas detectors": 0.1962,
+            "flame sensors": 0.196,
+            "smoke detectors": 0.1551,
+            "MCP’s": 0.2928
+        },
+        "filename": "cv (2113)_annotated.json"
+    }
+}

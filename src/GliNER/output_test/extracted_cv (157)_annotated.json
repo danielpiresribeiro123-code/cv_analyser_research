@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "skills knowledge",
+        "ability to the fully",
+        "Quality Inspections",
+        "Layout And Production",
+        "Strength",
+        "Hardworking",
+        "Honesty",
+        "Positive Attitude",
+        "Punctuality"
+    ],
+    "professional_info": {
+        "person name": [
+            "PAWAN TIWARI",
+            "Sh. Anirudh Tiwary"
+        ],
+        "job title": [
+            "Quality Engineer",
+            "QA Engineer"
+        ],
+        "company": [
+            "Sunder Maya Sintered Product Pvt. Ltd",
+            "Tecumseh Product India Pvt. Ltd .",
+            "M/S Blue Stamping & Forging Ltd",
+            "M/S SMP Sintered Bush  Pvt. Ltd",
+            "Dsiidc Industrial"
+        ],
+        "university": [
+            "CBSE",
+            "M.D. University Rohtak"
+        ],
+        "degree": [
+            "B.Tech (Mechanical Engineering )"
+        ],
+        "years of experience": [
+            "Working Experience"
+        ],
+        "address": [
+            "H.No.1366",
+            "Adarsh Nagar",
+            "Malerna Road",
+            "Pin  -121004",
+            "Plot No. 12",
+            "Sec-25",
+            "Village  Khajuria",
+            "Post  Kalyanpur",
+            "Thana - Bhore"
+        ],
+        "email": [
+            "Ph. +918368247120",
+            "E-mail",
+            "tiwaripawan242@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "skills knowledge": 0.1756,
+            "ability to the fully": 0.1821,
+            "Quality Inspections": 0.1545,
+            "Layout And Production": 0.2705,
+            "Strength": 0.2293,
+            "Hardworking": 0.3424,
+            "Honesty": 0.2613,
+            "Positive Attitude": 0.317,
+            "Punctuality": 0.2466
+        },
+        "filename": "cv (157)_annotated.json"
+    }
+}

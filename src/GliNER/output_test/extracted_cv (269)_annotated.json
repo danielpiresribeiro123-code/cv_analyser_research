@@ -1,0 +1,100 @@
+{
+    "skills": [
+        "team leader",
+        "good team member",
+        "adaptable",
+        "versatile",
+        "innovative",
+        "ability to inspire other’s",
+        "Microsoft office",
+        "Payroll",
+        "Tally software",
+        "Risk and Financial Analysis",
+        "International Supply Chain Management",
+        "Global Strategic Management",
+        "Edexcel BTEC Level 7 Extended Diploma",
+        "Strategic Management",
+        "Managing Financial Principles And Techniques",
+        "Research Methods",
+        "Project Development And Implementation",
+        "Strategic Human Resource Management",
+        "Strategic Quality And Systems Management",
+        "Management Accountancy",
+        "Advanced Human Resource Management",
+        "budget planning",
+        "budget control",
+        "auditing",
+        "book keeping"
+    ],
+    "professional_info": {
+        "person name": [
+            "Nirajkumar Singh",
+            "Indian"
+        ],
+        "job title": [
+            "team leader",
+            "graduate",
+            "Finance manager"
+        ],
+        "company": [
+            "H.S.C Gujarat Board",
+            "Indian Society",
+            "Offer Beat"
+        ],
+        "university": [
+            "Staffordshire University",
+            "International School of Management Studies",
+            "N.R. Institute of Business Administration",
+            "S.S.C Gujarat Board"
+        ],
+        "degree": [
+            "Master of Business Administration",
+            "Bachelor of Business Management"
+        ],
+        "years of experience": [
+            "First class"
+        ],
+        "address": [
+            "206/4, Chankyapuri"
+        ],
+        "email": [
+            "E-mail",
+            "Nirajkumar.uk26@gmail.com",
+            "M. No"
+        ],
+        "phone": [
+            "+91 7600634764"
+        ]
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "team leader": 0.3958,
+            "good team member": 0.2721,
+            "adaptable": 0.3591,
+            "versatile": 0.2639,
+            "innovative": 0.2753,
+            "ability to inspire other’s": 0.1669,
+            "Microsoft office": 0.706,
+            "Payroll": 0.2813,
+            "Tally software": 0.4523,
+            "Risk and Financial Analysis": 0.4562,
+            "International Supply Chain Management": 0.645,
+            "Global Strategic Management": 0.4963,
+            "Edexcel BTEC Level 7 Extended Diploma": 0.593,
+            "Strategic Management": 0.4141,
+            "Managing Financial Principles And Techniques": 0.2808,
+            "Research Methods": 0.3841,
+            "Project Development And Implementation": 0.1547,
+            "Strategic Human Resource Management": 0.6328,
+            "Strategic Quality And Systems Management": 0.4852,
+            "Management Accountancy": 0.2755,
+            "Advanced Human Resource Management": 0.5156,
+            "budget planning": 0.1566,
+            "budget control": 0.162,
+            "auditing": 0.1692,
+            "book keeping": 0.1515
+        },
+        "filename": "cv (269)_annotated.json"
+    }
+}

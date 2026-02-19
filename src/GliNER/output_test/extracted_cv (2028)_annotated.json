@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "ambitious & hardworking",
+        "MS Office",
+        "Auto Cad",
+        "MS Project",
+        "Project Management",
+        "Design Review",
+        "Project Planning",
+        "Manage Client Relationship",
+        "Quality control",
+        "Resource Management",
+        "Execution",
+        "Project Scheduling",
+        "Interior Fit out",
+        "civil engineering",
+        "Construction /Interior field",
+        "Fit out & Interior works",
+        "Execution",
+        "company Information Systems and databases"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sridhar",
+            "sridhar_v78"
+        ],
+        "job title": [
+            "Construction Manager",
+            "general manager"
+        ],
+        "company": [
+            "S.A. Polytechnic. State board of technical education",
+            "Royalton Holdings Limited",
+            "Trump Tower Hotel Apartments",
+            "Garant Holdings Limited",
+            "Port Baku Residence Apartments",
+            "Pasha Constructions"
+        ],
+        "university": [
+            "Adichunchanagiri Institute Of Technology",
+            "Vishveshwariah Technological University"
+        ],
+        "degree": [
+            "Bachelor’s  Degree in  Civil Engineering",
+            "Diploma in Civil Engineering"
+        ],
+        "years of experience": [
+            "15+  Years  of experience"
+        ],
+        "address": [
+            "Chikmagalur",
+            "Dubai"
+        ],
+        "email": [
+            "Email",
+            "gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+918861423421",
+            "Skype"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "ambitious & hardworking": 0.341,
+            "MS Office": 0.7836,
+            "Auto Cad": 0.7107,
+            "MS Project": 0.7517,
+            "Project Management": 0.2801,
+            "Design Review": 0.3132,
+            "Project Planning": 0.3019,
+            "Manage Client Relationship": 0.2043,
+            "Quality control": 0.3334,
+            "Resource Management": 0.3423,
+            "Execution": 0.2027,
+            "Project Scheduling": 0.2339,
+            "Interior Fit out": 0.4316,
+            "civil engineering": 0.3962,
+            "Construction /Interior field": 0.2502,
+            "Fit out & Interior works": 0.1936,
+            "company Information Systems and databases": 0.273
+        },
+        "filename": "cv (2028)_annotated.json"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "Law  and Taxation",
+        "Ph.D",
+        "STATA",
+        "EVIEWS",
+        "SPSS",
+        "Prowess",
+        "Prowess IQ",
+        "Bloomberg",
+        "Capital line",
+        "ACE Equity Database Usage Achievement",
+        "Basic working knowledge",
+        "C",
+        "Tally",
+        "SQL Visual Ba -sic 6",
+        "Web designing using HTML"
+    ],
+    "professional_info": {
+        "person name": [
+            "AGHILA SASIDHARAN"
+        ],
+        "job title": [
+            "Devidhan           Accountant"
+        ],
+        "company": [],
+        "university": [
+            "DoMS",
+            "IIT Madras Education",
+            "Indian Institute of Technology",
+            "Govt Arts college",
+            "Government Higher Secondary School",
+            "Kerala Secondary Board of Education",
+            "LBS"
+        ],
+        "degree": [
+            "Ph.D – Finance",
+            "M.com",
+            "Master of  Commerce"
+        ],
+        "years of experience": [
+            "25yrs"
+        ],
+        "address": [
+            "Mambaram",
+            "Kerala 12th Std",
+            "Nirmalagiri 10th Std"
+        ],
+        "email": [
+            "aghilak.k4@gmail.com"
+        ],
+        "phone": [
+            "+919 846198331",
+            "ISSN 2321 – 8916"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Law  and Taxation": 0.2591,
+            "Ph.D": 0.2338,
+            "STATA": 0.3956,
+            "EVIEWS": 0.3908,
+            "SPSS": 0.4778,
+            "Prowess": 0.5159,
+            "Prowess IQ": 0.5591,
+            "Bloomberg": 0.2582,
+            "Capital line": 0.5531,
+            "ACE Equity Database Usage Achievement": 0.2587,
+            "Basic working knowledge": 0.1929,
+            "C": 0.2619,
+            "Tally": 0.3416,
+            "SQL Visual Ba -sic 6": 0.5459,
+            "Web designing using HTML": 0.6748
+        },
+        "filename": "cv (983)_annotated.json"
+    }
+}

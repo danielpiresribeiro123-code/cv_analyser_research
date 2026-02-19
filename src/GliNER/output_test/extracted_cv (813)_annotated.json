@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "REG  NO - 87387",
+        "LM 10558"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dr.C.DINESH"
+        ],
+        "job title": [
+            "Life member"
+        ],
+        "company": [],
+        "university": [
+            "MADRAS MEDICAL COLLEGE",
+            "THE TAMILNADU DR.M.G.R. MEDICAL UNIVERSITY",
+            "THE TAMILNADU  MEDICAL COUNCIL / INDIAN MEDICAL COUNCIL",
+            "Indian medical Association",
+            "Dr. M.G.R. Medical University",
+            "The TamilNadu Dr. M.G.R. Medical University"
+        ],
+        "degree": [
+            "MBBS",
+            "M.B. B.S",
+            "MASTERS IN ORTHOPAEDICS"
+        ],
+        "years of experience": [],
+        "address": [
+            "INDIAN",
+            "2/1,  PASUMPON NAGAR",
+            "80 FEET ROAD",
+            "OLYMPUS RAMANATHAPURAM",
+            "Home"
+        ],
+        "email": [
+            "MARRIED",
+            "Email ID",
+            "dineshchidambaram75@gmail.co m"
+        ],
+        "phone": [
+            "Phone",
+            "044-26493008",
+            "Mobile",
+            "+91 9677242249"
+        ]
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "REG  NO - 87387": 0.2106,
+            "LM 10558": 0.204
+        },
+        "filename": "cv (813)_annotated.json"
+    }
+}

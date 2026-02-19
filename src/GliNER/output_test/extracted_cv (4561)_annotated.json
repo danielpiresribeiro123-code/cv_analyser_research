@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "Georgia history",
+        "geography",
+        "civics",
+        "economics",
+        "higher order thinking skills",
+        "writing",
+        "U.S History",
+        "World history",
+        "Social Studies",
+        "office supply inventory",
+        "multimedia learning tools",
+        "progressive teaching principles",
+        "Instructional Programs",
+        "effective frameworks",
+        "standards"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "HISTORY TEACHER",
+            "World History teacher",
+            "project leaders"
+        ],
+        "company": [
+            "Current Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Chatham County",
+            "Savannah"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Georgia history": 0.6182,
+            "geography": 0.5798,
+            "civics": 0.5063,
+            "economics": 0.5563,
+            "higher order thinking skills": 0.2133,
+            "writing": 0.186,
+            "U.S History": 0.3965,
+            "World history": 0.7516,
+            "Social Studies": 0.3997,
+            "office supply inventory": 0.3331,
+            "multimedia learning tools": 0.6859,
+            "progressive teaching principles": 0.2451,
+            "Instructional Programs": 0.2637,
+            "effective frameworks": 0.6329,
+            "standards": 0.2439
+        },
+        "filename": "cv (4561)_annotated.json"
+    }
+}

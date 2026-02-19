@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "OBJECTIVE",
+        "Enthusiastic learner",
+        "interpersonal",
+        "Identifying and networking with prospective clients",
+        "team targets",
+        "customer defined parameters",
+        "competent  strategies",
+        "Ensure adherence to client policies and procedures pertaining to process",
+        "Ability  to  recognize  unusual  transactions,  trends  or  variations",
+        "areas for process improvement"
+    ],
+    "professional_info": {
+        "person name": [
+            "KARTIK GOELKARTIK GOEL"
+        ],
+        "job title": [
+            "DesignationDesignationCustomer Service Officer",
+            "Customer Service Officer",
+            "supervisor or manager"
+        ],
+        "company": [
+            "CompanyCompanyAXIS BANK LTDAXIS BANK LTD",
+            "MINISTRY OF DEFENCE BRANCH"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Delhi",
+            "110052"
+        ],
+        "email": [
+            "Email",
+            "Kartikgoel.18@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+91–9999298879"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "OBJECTIVE": 0.1871,
+            "Enthusiastic learner": 0.4826,
+            "interpersonal": 0.1539,
+            "Identifying and networking with prospective clients": 0.29,
+            "team targets": 0.2019,
+            "customer defined parameters": 0.1678,
+            "competent  strategies": 0.2499,
+            "Ensure adherence to client policies and procedures pertaining to process": 0.1735,
+            "Ability  to  recognize  unusual  transactions,  trends  or  variations": 0.3437,
+            "areas for process improvement": 0.1565
+        },
+        "filename": "cv (3894)_annotated.json"
+    }
+}

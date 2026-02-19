@@ -1,0 +1,53 @@
+{
+    "skills": [
+        "English",
+        "Spanish",
+        "Counseling Certification",
+        "Counseling Internship",
+        "Bilingual EndorsementÂ",
+        "citizenship",
+        "open mindedness",
+        "Kindergarten",
+        "Kindergarten"
+    ],
+    "professional_info": {
+        "person name": [
+            "TEACHER",
+            "I"
+        ],
+        "job title": [
+            "Dedicated teaching and counseling educator"
+        ],
+        "company": [
+            "Alweus",
+            "Company Name",
+            "Olweus"
+        ],
+        "university": [],
+        "degree": [
+            "MA Education"
+        ],
+        "years of experience": [
+            "17 of experience"
+        ],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "English": 0.8366,
+            "Spanish": 0.8893,
+            "Counseling Certification": 0.9331,
+            "Counseling Internship": 0.2347,
+            "Bilingual EndorsementÂ": 0.9016,
+            "citizenship": 0.5553,
+            "open mindedness": 0.8285,
+            "Kindergarten": 0.2894
+        },
+        "filename": "cv (4604)_annotated.json"
+    }
+}

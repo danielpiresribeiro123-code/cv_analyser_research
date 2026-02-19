@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "engineering",
+        "teamwork",
+        "skills",
+        "creative thinking",
+        "DEGREE",
+        "MECHANICAL",
+        "Skills",
+        "Certificate Course",
+        "AUTOCAD",
+        "PRO-E",
+        "ANSYS",
+        "MS OFFICE package",
+        "Ability to install various software",
+        "Professional Diploma in Product Design and Analysis"
+    ],
+    "professional_info": {
+        "person name": [
+            "ABDUL BASIT JAWAID"
+        ],
+        "job title": [
+            "professional position",
+            "Certification"
+        ],
+        "company": [
+            "company"
+        ],
+        "university": [
+            "ST. MARY’S COLLEGE OF ENGINEERING &, TECHNOLOGY",
+            "JAWAHARLAL",
+            "NEHRU TECHNOLOGICAL UNIVERSITY",
+            "12thBSEBM.M COLLEGE",
+            "10th BSEBMUSLIM HIGH SCHOOL",
+            "Central Institute Of Plastic, Engineering & Technology"
+        ],
+        "degree": [
+            "Bachelor of Technology"
+        ],
+        "years of experience": [],
+        "address": [
+            "Permanent Address",
+            "KABIRPUR ROAD",
+            "BIHAR-812006",
+            "BHAGALPUR 201052.8",
+            "BHAGALPUR200862.6"
+        ],
+        "email": [
+            "E-mail",
+            "abjawaid01@gmail.com",
+            "(+91)8880796242"
+        ],
+        "phone": [
+            "Contact No.",
+            "(+91)9546139469"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "engineering": 0.3857,
+            "teamwork": 0.2074,
+            "skills": 0.3598,
+            "creative thinking": 0.3448,
+            "DEGREE": 0.2047,
+            "MECHANICAL": 0.3482,
+            "Skills": 0.1716,
+            "Certificate Course": 0.2282,
+            "AUTOCAD": 0.4343,
+            "PRO-E": 0.3951,
+            "ANSYS": 0.3016,
+            "MS OFFICE package": 0.6136,
+            "Ability to install various software": 0.1821,
+            "Professional Diploma in Product Design and Analysis": 0.8187
+        },
+        "filename": "cv (2815)_annotated.json"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "Cyber Security",
+        "Intrusion detection",
+        "analysis",
+        "System Administration",
+        "Military Cyber Operations",
+        "Security Clearance",
+        "TS/SCI Security Clearance",
+        "Technical Skills and Qualifications",
+        "Windows",
+        "Unix",
+        "Linux",
+        "VMWare",
+        "Wireshark",
+        "Snort",
+        "TCPDump",
+        "EnCase",
+        "Bash Programming",
+        "Intrusion analysis",
+        "Firewalls",
+        "City",
+        "State",
+        "digital evidence analysis",
+        "PCI (Payment Card Industry)",
+        "HIPAA",
+        "ISO 27001",
+        "Sarbanes-, Oxley"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INFORMATION TECHNOLOGY SPECIALIST",
+            "Information Security Analyst",
+            "Systems professional",
+            "Network Security Analyst",
+            "Corporate Security"
+        ],
+        "company": [
+            "Company Name",
+            "Rackspace"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "16 years"
+        ],
+        "address": [],
+        "email": [
+            "email"
+        ],
+        "phone": [
+            "phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Cyber Security": 0.2735,
+            "Intrusion detection": 0.2051,
+            "analysis": 0.1566,
+            "System Administration": 0.2736,
+            "Military Cyber Operations": 0.3077,
+            "Security Clearance": 0.501,
+            "TS/SCI Security Clearance": 0.744,
+            "Technical Skills and Qualifications": 0.2232,
+            "Windows": 0.968,
+            "Unix": 0.9587,
+            "Linux": 0.9672,
+            "VMWare": 0.4115,
+            "Wireshark": 0.5666,
+            "Snort": 0.5876,
+            "TCPDump": 0.5652,
+            "EnCase": 0.4718,
+            "Bash Programming": 0.4434,
+            "Intrusion analysis": 0.2392,
+            "Firewalls": 0.3059,
+            "City": 0.3549,
+            "State": 0.1721,
+            "digital evidence analysis": 0.1833,
+            "PCI (Payment Card Industry)": 0.4007,
+            "HIPAA": 0.4422,
+            "ISO 27001": 0.5152,
+            "Sarbanes-, Oxley": 0.4916
+        },
+        "filename": "cv (4434)_annotated.json"
+    }
+}

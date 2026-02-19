@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "International Economics",
+        "Direction of Financial Risk Manageme nt",
+        "Statistics",
+        "GRE",
+        "Verbal",
+        "Math",
+        "Writing",
+        "TOEFL iBT",
+        "Reading",
+        "Listening",
+        "Speaking",
+        "Introduction to Regression and Statistical Computing",
+        "Applied Time Series and Forecasting",
+        "Quantitative Financial Analytics",
+        "Statistical Computing and Graphics",
+        "R Programming",
+        "Advanced Statistical Methods",
+        "Market Models",
+        "ARIMA",
+        "GARCH",
+        "MCMC method",
+        "Dogs of The Dow",
+        "Buy And Hold",
+        "MaxMedian"
+    ],
+    "professional_info": {
+        "person name": [
+            "Name",
+            "atus al"
+        ],
+        "job title": [
+            "Internship",
+            "Margin Account  Trader",
+            "Corporate Client Manager"
+        ],
+        "company": [
+            "Jiyuhai Investment Consulting Company Limited",
+            "China Everbright Bank",
+            "Caterpillar Inc.",
+            "Hainan Airlines"
+        ],
+        "university": [
+            "Central University of Finance and Economics",
+            "Rice  University",
+            "Rice University"
+        ],
+        "degree": [
+            "Bachelor Degree",
+            "Bachelor of Economics",
+            "Master Degree",
+            "Master  of Statistics",
+            "STAT 280"
+        ],
+        "years of experience": [],
+        "address": [
+            "Beijing"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "International Economics": 0.4272,
+            "Direction of Financial Risk Manageme nt": 0.1564,
+            "Statistics": 0.3319,
+            "GRE": 0.8772,
+            "Verbal": 0.248,
+            "Math": 0.206,
+            "Writing": 0.2663,
+            "TOEFL iBT": 0.895,
+            "Reading": 0.3607,
+            "Listening": 0.264,
+            "Speaking": 0.6232,
+            "Introduction to Regression and Statistical Computing": 0.2012,
+            "Applied Time Series and Forecasting": 0.3106,
+            "Quantitative Financial Analytics": 0.4759,
+            "Statistical Computing and Graphics": 0.2277,
+            "R Programming": 0.1973,
+            "Advanced Statistical Methods": 0.3168,
+            "Market Models": 0.3792,
+            "ARIMA": 0.6487,
+            "GARCH": 0.4578,
+            "MCMC method": 0.307,
+            "Dogs of The Dow": 0.4061,
+            "Buy And Hold": 0.3122,
+            "MaxMedian": 0.5065
+        },
+        "filename": "cv (851)_annotated.json"
+    }
+}

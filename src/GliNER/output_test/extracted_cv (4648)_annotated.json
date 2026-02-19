@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "Enthusiastic",
+        "compounding",
+        "Enjoys",
+        "multitasking",
+        "certified immunizer",
+        "Professional Experience",
+        "ACHC accreditation",
+        "Pharmacy workflow",
+        "Insurance billing knowledge",
+        "specialty medications",
+        "reciprocity process",
+        "non-sterile compounding",
+        "topical analgesics",
+        "scar diminishing creams",
+        "record keeping",
+        "batch and patient specific compounding",
+        "medication therapy management"
+    ],
+    "professional_info": {
+        "person name": [
+            "Pharmacist"
+        ],
+        "job title": [
+            "CONSULTANT",
+            "Objective",
+            "Pharmacist in Charge",
+            "Staff Pharmacist"
+        ],
+        "company": [
+            "Texas and Idaho State Boards of Pharmacy",
+            "Company Name",
+            "company",
+            "high volume 24 hour store",
+            "clinic store"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Enthusiastic": 0.1728,
+            "compounding": 0.2828,
+            "Enjoys": 0.155,
+            "multitasking": 0.211,
+            "certified immunizer": 0.6861,
+            "Professional Experience": 0.1539,
+            "ACHC accreditation": 0.7863,
+            "Pharmacy workflow": 0.1736,
+            "Insurance billing knowledge": 0.2393,
+            "specialty medications": 0.3948,
+            "reciprocity process": 0.1801,
+            "non-sterile compounding": 0.6814,
+            "topical analgesics": 0.1841,
+            "scar diminishing creams": 0.193,
+            "record keeping": 0.1647,
+            "batch and patient specific compounding": 0.1839,
+            "medication therapy management": 0.1518
+        },
+        "filename": "cv (4648)_annotated.json"
+    }
+}

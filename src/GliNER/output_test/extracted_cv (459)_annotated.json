@@ -1,0 +1,112 @@
+{
+    "skills": [
+        "MCP",
+        "Technical Support",
+        "Windows 2008",
+        "2003",
+        "NT",
+        "VM Ware",
+        "Expertise",
+        "TCP/IP",
+        "DNS",
+        "DHCP",
+        "DFS",
+        "FTP",
+        "Routing  &  Switching",
+        "Routers",
+        "well-honed skill set",
+        "Technical Skills",
+        "Server OS",
+        "Windows  2003",
+        "2008",
+        "Server",
+        "2012",
+        "Active Directory Site and Service",
+        "Active Directory",
+        "Group  Policy",
+        "Software  deployment",
+        "Software restriction",
+        "Folder  Redirection",
+        "Microsoft  Backup Utility",
+        "RIS",
+        "Offline Files",
+        "Remote Desktops",
+        "FSMO Roles",
+        "Network Printing",
+        "IIS",
+        "2008 and 2012 server and client OS",
+        "Routing Protocols",
+        "IP"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "SYSTEM ADMINISTRATOR",
+            "Team Leader",
+            "Senior Engineer",
+            "Acknowledged trouble shooter",
+            "key decision maker"
+        ],
+        "company": [
+            "Future net Technologies  (India) Pvt Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "9 years of experience"
+        ],
+        "address": [],
+        "email": [
+            "9894488746",
+            "Email",
+            "ccallmelimat@gmail.com",
+            "chatam1426@gmail.com"
+        ],
+        "phone": [
+            "Contact"
+        ]
+    },
+    "metadata": {
+        "total_skills": 37,
+        "confidence_scores": {
+            "MCP": 0.7581,
+            "Technical Support": 0.2474,
+            "Windows 2008": 0.8539,
+            "2003": 0.1514,
+            "NT": 0.4063,
+            "VM Ware": 0.7048,
+            "Expertise": 0.2811,
+            "TCP/IP": 0.7769,
+            "DNS": 0.6751,
+            "DHCP": 0.6362,
+            "DFS": 0.538,
+            "FTP": 0.7297,
+            "Routing  &  Switching": 0.2671,
+            "Routers": 0.242,
+            "well-honed skill set": 0.2772,
+            "Technical Skills": 0.1771,
+            "Server OS": 0.3406,
+            "Windows  2003": 0.836,
+            "2008": 0.3109,
+            "Server": 0.4114,
+            "2012": 0.1727,
+            "Active Directory Site and Service": 0.3343,
+            "Active Directory": 0.3019,
+            "Group  Policy": 0.3658,
+            "Software  deployment": 0.1606,
+            "Software restriction": 0.2298,
+            "Folder  Redirection": 0.2001,
+            "Microsoft  Backup Utility": 0.4331,
+            "RIS": 0.4363,
+            "Offline Files": 0.254,
+            "Remote Desktops": 0.2754,
+            "FSMO Roles": 0.2607,
+            "Network Printing": 0.1887,
+            "IIS": 0.506,
+            "2008 and 2012 server and client OS": 0.1596,
+            "Routing Protocols": 0.2252,
+            "IP": 0.291
+        },
+        "filename": "cv (459)_annotated.json"
+    }
+}

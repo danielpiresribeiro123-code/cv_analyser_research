@@ -1,0 +1,103 @@
+{
+    "skills": [
+        "manufacturing engineering",
+        "team building",
+        "Results oriented",
+        "consummate professional",
+        "excellent interpersonal and communicative skills",
+        "outstanding problem solving/troubleshooting abilities",
+        "operational excellence",
+        "extremely enthusiastic",
+        "self-directed",
+        "real change leader",
+        "unique ability",
+        "Project Management",
+        "Supplier Management",
+        "HACCP and GMP Certification",
+        "Lean Manufacturing",
+        "Six-Sigma Champion",
+        "GFSI SQF",
+        "HACCP Certified",
+        "Certified",
+        "Six Sigma",
+        "Better Process Control",
+        "Operations Management",
+        "Lean/Sigma",
+        "Key Performance Indicators",
+        "SPC",
+        "training program",
+        "plant layout and cell technology implementation",
+        "inventory control systems",
+        "Quality Systems Program",
+        "continuous process improvements",
+        "key capital investments"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Executive Manager",
+            "sales",
+            "Titan II ICBM Propellant Transfer System Master Team Chief"
+        ],
+        "company": [
+            "Trifecta Foods",
+            "Lotus Pet Foods",
+            "Lotus Pet Foods Inc.",
+            "Pacific Fabric Reels Inc.",
+            "United States Air Force"
+        ],
+        "university": [
+            "Southern Illinois University",
+            "Community College of the US Air Force"
+        ],
+        "degree": [
+            "Bachelor of Science : Industrial Technology",
+            "Associate of Science : Fuel Systems Maintenance"
+        ],
+        "years of experience": [
+            "25 years of experience"
+        ],
+        "address": [
+            "City , State"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 31,
+        "confidence_scores": {
+            "manufacturing engineering": 0.4476,
+            "team building": 0.2098,
+            "Results oriented": 0.6202,
+            "consummate professional": 0.4667,
+            "excellent interpersonal and communicative skills": 0.6163,
+            "outstanding problem solving/troubleshooting abilities": 0.5746,
+            "operational excellence": 0.1779,
+            "extremely enthusiastic": 0.3565,
+            "self-directed": 0.338,
+            "real change leader": 0.3291,
+            "unique ability": 0.1735,
+            "Project Management": 0.1545,
+            "Supplier Management": 0.2686,
+            "HACCP and GMP Certification": 0.4187,
+            "Lean Manufacturing": 0.3319,
+            "Six-Sigma Champion": 0.4357,
+            "GFSI SQF": 0.3274,
+            "HACCP Certified": 0.507,
+            "Certified": 0.197,
+            "Six Sigma": 0.173,
+            "Better Process Control": 0.1526,
+            "Operations Management": 0.266,
+            "Lean/Sigma": 0.4586,
+            "Key Performance Indicators": 0.1604,
+            "SPC": 0.2929,
+            "training program": 0.1727,
+            "plant layout and cell technology implementation": 0.1586,
+            "inventory control systems": 0.4054,
+            "Quality Systems Program": 0.2723,
+            "continuous process improvements": 0.2244,
+            "key capital investments": 0.1953
+        },
+        "filename": "cv (4432)_annotated.json"
+    }
+}

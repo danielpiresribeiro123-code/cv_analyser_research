@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "Software",
+        "Development",
+        "business management",
+        "learning models",
+        "PROFICIENT SKILLS",
+        "C++",
+        "C#",
+        "Jenkins",
+        "SpringBoot",
+        "Django",
+        "Python",
+        "Firebase",
+        "data compression delivery system",
+        "database management",
+        "EDUCATIONAL HISTORY"
+    ],
+    "professional_info": {
+        "person name": [
+            "BENJAMIN OSTA"
+        ],
+        "job title": [
+            "FRESHER DEVELOPER",
+            "fresher",
+            "Software Engineer",
+            "Software Developer",
+            "Intern"
+        ],
+        "company": [
+            "SAP"
+        ],
+        "university": [
+            "Anna University"
+        ],
+        "degree": [
+            "B.Tech(Civil)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Software": 0.2861,
+            "Development": 0.2632,
+            "business management": 0.6183,
+            "learning models": 0.1558,
+            "PROFICIENT SKILLS": 0.2058,
+            "C++": 0.896,
+            "C#": 0.9396,
+            "Jenkins": 0.4942,
+            "SpringBoot": 0.5264,
+            "Django": 0.5599,
+            "Python": 0.9633,
+            "Firebase": 0.8026,
+            "data compression delivery system": 0.2007,
+            "database management": 0.3699,
+            "EDUCATIONAL HISTORY": 0.1851
+        },
+        "filename": "cv (4841)_annotated.json"
+    }
+}

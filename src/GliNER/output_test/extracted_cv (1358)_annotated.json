@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "retail banking",
+        "business banking",
+        "financial accounting",
+        "PRINCE2 Project Management framework",
+        "PROFESSIONAL CERTIFICATIONS",
+        "PRINCE2 Project Management Foundation & Practitioner",
+        "Six Sigma Green Belt",
+        "excel  based  models"
+    ],
+    "professional_info": {
+        "person name": [
+            "SARFARAZ DAWAR KHAN",
+            "sarfaraz.d.khan"
+        ],
+        "job title": [
+            "Qualified shariah consultant",
+            "Finance Manager",
+            "Islamic  Wealth  Management  Business  Development  Trainee"
+        ],
+        "company": [
+            "IIUM Institute of Islamic Banking & Finance",
+            "Al-Haris Al-Jayeid Technical Services LLC",
+            "Holborn Assets Financial Services"
+        ],
+        "university": [
+            "Osmania University"
+        ],
+        "degree": [
+            "MSc in Islamic Banking and Finance (Research based)",
+            "Bachelor of Commerce (Major Accountancy)"
+        ],
+        "years of experience": [
+            "+971 50 686 1253",
+            "6 years of experience"
+        ],
+        "address": [
+            "Dubai"
+        ],
+        "email": [
+            "gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "retail banking": 0.2758,
+            "business banking": 0.2555,
+            "financial accounting": 0.2329,
+            "PRINCE2 Project Management framework": 0.7569,
+            "PROFESSIONAL CERTIFICATIONS": 0.4587,
+            "PRINCE2 Project Management Foundation & Practitioner": 0.7856,
+            "Six Sigma Green Belt": 0.4723,
+            "excel  based  models": 0.2197
+        },
+        "filename": "cv (1358)_annotated.json"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "9962392366",
+        "Outgoing",
+        "creative",
+        "ambitious",
+        "identifying disability",
+        "Diploma in Elementary Education",
+        "Advance Diploma in Montessori Training",
+        "Improved method",
+        "Letters",
+        "Sounds of the alphabet",
+        "Fine and Gross skill",
+        "Reading corner",
+        "reading skill",
+        "Special concentrations and methods",
+        "CIRCLE TIME",
+        "ETHRIC",
+        "AREAS OF EXPERTISE",
+        "Early childhood development",
+        "Student assessment",
+        "Motivating children",
+        "Co operative learning"
+    ],
+    "professional_info": {
+        "person name": [
+            "VASUMADHI.V",
+            "URAPPAKKAM",
+            "Vasumadhi"
+        ],
+        "job title": [
+            "professional"
+        ],
+        "company": [],
+        "university": [
+            "NIOS",
+            "Madras University"
+        ],
+        "degree": [
+            "B.com"
+        ],
+        "years of experience": [
+            "2years of experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "9962392366": 0.2673,
+            "Outgoing": 0.6808,
+            "creative": 0.4804,
+            "ambitious": 0.3746,
+            "identifying disability": 0.2603,
+            "Diploma in Elementary Education": 0.4093,
+            "Advance Diploma in Montessori Training": 0.3399,
+            "Improved method": 0.6861,
+            "Letters": 0.155,
+            "Sounds of the alphabet": 0.1891,
+            "Fine and Gross skill": 0.4137,
+            "Reading corner": 0.2846,
+            "reading skill": 0.5261,
+            "Special concentrations and methods": 0.2831,
+            "CIRCLE TIME": 0.3183,
+            "ETHRIC": 0.1639,
+            "AREAS OF EXPERTISE": 0.2272,
+            "Early childhood development": 0.5308,
+            "Student assessment": 0.1574,
+            "Motivating children": 0.1528,
+            "Co operative learning": 0.4945
+        },
+        "filename": "cv (1534)_annotated.json"
+    }
+}

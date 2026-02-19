@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "Mob-7533845879",
+        "Objective",
+        "inherent skills",
+        "atitude",
+        "Qualification",
+        "Professional  Qualification",
+        "AUTOCAD                         FEATURE CAM",
+        "CNC(PROGRAMMING)",
+        "Gender",
+        "Male",
+        "Hobbies",
+        "Playing Chess"
+    ],
+    "professional_info": {
+        "person name": [
+            "DILLU KUMAR",
+            "Dinesh singh"
+        ],
+        "job title": [
+            "professional"
+        ],
+        "company": [
+            "CURRICULUM VITAE",
+            "BIHAR BOARD PATNA"
+        ],
+        "university": [
+            "Polytechnic In Mechanical",
+            "Shri Venkateshwara University",
+            "Amroha"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Parmament Address",
+            "Vill-renua",
+            "Post-Siwan",
+            "Dist-Siwan(Bihar)841226"
+        ],
+        "email": [
+            "Email",
+            "dillu88195@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Mob-7533845879": 0.3029,
+            "Objective": 0.1607,
+            "inherent skills": 0.1801,
+            "atitude": 0.3296,
+            "Qualification": 0.2073,
+            "Professional  Qualification": 0.6811,
+            "AUTOCAD                         FEATURE CAM": 0.3374,
+            "CNC(PROGRAMMING)": 0.2822,
+            "Gender": 0.2483,
+            "Male": 0.4228,
+            "Hobbies": 0.2013,
+            "Playing Chess": 0.2382
+        },
+        "filename": "cv (721)_annotated.json"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "high degree of efficiency",
+        "excellent communication skills",
+        "problem resolution abilities",
+        "high-level of confidentiality",
+        "Excellent Customer Service",
+        "Accounting & Basic Book-keeping",
+        "Processing Payroll",
+        "Client relations experience",
+        "Analytical & detail oriented",
+        "Independent judgment",
+        "decision making abilities",
+        "high level of confidentiality",
+        "Train & Supervise other staff",
+        "office supplies & equipments",
+        "Teaching",
+        "English",
+        "Grammar",
+        "marking work",
+        "Editing"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "GENERAL MANAGER",
+            "Professional Summary Manager",
+            "ADMINISTRATIVE ASSISTANT & PUBLIC RELATIONS OFFICER",
+            "Multi-lingual specialists"
+        ],
+        "company": [
+            "Company Name",
+            "institute"
+        ],
+        "university": [
+            "State"
+        ],
+        "degree": [],
+        "years of experience": [
+            "seven years of experience"
+        ],
+        "address": [
+            "State"
+        ],
+        "email": [],
+        "phone": [
+            "phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "high degree of efficiency": 0.1643,
+            "excellent communication skills": 0.4334,
+            "problem resolution abilities": 0.5569,
+            "high-level of confidentiality": 0.3895,
+            "Excellent Customer Service": 0.408,
+            "Accounting & Basic Book-keeping": 0.3674,
+            "Processing Payroll": 0.3067,
+            "Client relations experience": 0.1957,
+            "Analytical & detail oriented": 0.623,
+            "Independent judgment": 0.5631,
+            "decision making abilities": 0.5446,
+            "high level of confidentiality": 0.4347,
+            "Train & Supervise other staff": 0.1824,
+            "office supplies & equipments": 0.2307,
+            "Teaching": 0.1564,
+            "English": 0.748,
+            "Grammar": 0.2137,
+            "marking work": 0.1722,
+            "Editing": 0.4138
+        },
+        "filename": "cv (4485)_annotated.json"
+    }
+}

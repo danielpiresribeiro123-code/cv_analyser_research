@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "Carrier objective",
+        "Exprience",
+        "Academic Qualification",
+        "Language known",
+        "Hindi",
+        "English",
+        "Nationality",
+        "Sex",
+        "Male",
+        "Marital status",
+        "Married"
+    ],
+    "professional_info": {
+        "person name": [
+            "ROHIT KUMAR",
+            "MR.NARAYAN SHARMA",
+            "Indian",
+            "Hindu"
+        ],
+        "job title": [],
+        "company": [
+            "CURRICULAM VITAE",
+            "Daksh international Buiness Services LTD."
+        ],
+        "university": [],
+        "degree": [
+            "B s.c proceed for last Year"
+        ],
+        "years of experience": [
+            "EXPERIENCE",
+            "3 years"
+        ],
+        "address": [
+            "I-255/9 Hari Nagar",
+            "Jaitpur Badarpur",
+            "New delhi -110044"
+        ],
+        "email": [
+            "EMAIL ID",
+            "sr110553@gmail.com",
+            "10th & 12th Passed Bihar Boa rd."
+        ],
+        "phone": [
+            "Contact",
+            "+91- 9716670087 /8287328770"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Carrier objective": 0.1543,
+            "Exprience": 0.1665,
+            "Academic Qualification": 0.4686,
+            "Language known": 0.215,
+            "Hindi": 0.8858,
+            "English": 0.8185,
+            "Nationality": 0.1884,
+            "Sex": 0.2182,
+            "Male": 0.3695,
+            "Marital status": 0.2065,
+            "Married": 0.3508
+        },
+        "filename": "cv (2448)_annotated.json"
+    }
+}

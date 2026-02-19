@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "Structural",
+        "Engineering",
+        "Civil",
+        "COMPUTER  SKILLS",
+        "STAAD.Pro",
+        "Auto CAD",
+        "MS PROJECT",
+        "PRIMAVERA",
+        "Computer Languages",
+        "C",
+        "MS Office",
+        "STYLE+STRUCTURE",
+        "GET -Civil"
+    ],
+    "professional_info": {
+        "person name": [
+            "PAVAN KUMAR TATIKONDA",
+            "SRI CHAITANYA",
+            "JUNIOR",
+            "KALASALA"
+        ],
+        "job title": [
+            "sunny9177032832",
+            "Ph.no",
+            "Designation"
+        ],
+        "company": [
+            "Company"
+        ],
+        "university": [
+            "COLLEGE  UNIVERSITY /BOAR",
+            "ANDHRA",
+            "UNIVERSITY",
+            "COLLEGE OF",
+            "GITAM",
+            "INSTITUTE OF",
+            "SSC",
+            "BHASHYAM"
+        ],
+        "degree": [
+            "D YEAR OF",
+            "M.TECH",
+            "B.TECH"
+        ],
+        "years of experience": [
+            "WORK EXPERIENCE",
+            "Experience",
+            "2  Years 6 months"
+        ],
+        "address": [
+            "Visakhapatnam, India"
+        ],
+        "email": [
+            "E-mail",
+            "sunny2052@gmail.com",
+            "Skype"
+        ],
+        "phone": [
+            "+919177032832"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Structural": 0.2989,
+            "Engineering": 0.504,
+            "Civil": 0.5523,
+            "COMPUTER  SKILLS": 0.3574,
+            "STAAD.Pro": 0.464,
+            "Auto CAD": 0.4402,
+            "MS PROJECT": 0.7087,
+            "PRIMAVERA": 0.4088,
+            "Computer Languages": 0.3513,
+            "C": 0.6043,
+            "MS Office": 0.7983,
+            "STYLE+STRUCTURE": 0.5378,
+            "GET -Civil": 0.34
+        },
+        "filename": "cv (2977)_annotated.json"
+    }
+}

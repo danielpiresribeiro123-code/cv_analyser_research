@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "Professional skills",
+        "Operations",
+        "data base",
+        "T ally.ERP9",
+        "Professional Skills",
+        "SAP-Fi/Co.",
+        "T ally ERP.9",
+        "MS Office",
+        "Ms Excel",
+        "Ms Word"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMAD",
+            "mohammed.aftab54"
+        ],
+        "job title": [
+            "Intern",
+            "Managing new clients",
+            "Audit and Accounts Assistant",
+            "EDUCATIONAL QUALIFICATIONS"
+        ],
+        "company": [
+            "Y.B.Anand & Company"
+        ],
+        "university": [
+            "rInstitution with Details",
+            "6Osmania University"
+        ],
+        "degree": [
+            "MBA",
+            "Masters of Business, Administration",
+            "BCOM",
+            "Bachelors of, Commerce"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "+971 58 916 8036",
+            "gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Professional skills": 0.1588,
+            "Operations": 0.1665,
+            "data base": 0.3689,
+            "T ally.ERP9": 0.2512,
+            "Professional Skills": 0.2142,
+            "SAP-Fi/Co.": 0.3388,
+            "T ally ERP.9": 0.4139,
+            "MS Office": 0.668,
+            "Ms Excel": 0.4148,
+            "Ms Word": 0.5469
+        },
+        "filename": "cv (336)_annotated.json"
+    }
+}

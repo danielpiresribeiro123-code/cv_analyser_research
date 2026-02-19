@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "Married",
+        "Educational Status",
+        "Administration",
+        "Work Desire",
+        "Professionalism",
+        "Academic requirements",
+        "COMPUTER SKILL",
+        "MS OFFICE",
+        "MS DOS",
+        "EXCEL",
+        "D.E.E.E",
+        "SSLC (10th STD)",
+        "Achieved  Rajyapuraskar award",
+        "Hindi",
+        "English",
+        "Telugu",
+        "Marathy",
+        "Tamil"
+    ],
+    "professional_info": {
+        "person name": [
+            "M.GURUNATH",
+            "MUNIVARADHAN"
+        ],
+        "job title": [
+            "Work Experience",
+            "Professional",
+            "Admin Assistant",
+            "Admin Executive",
+            "Administrative Officer"
+        ],
+        "company": [
+            "Paramount, Airways",
+            "AirAsia.com",
+            "Velammal, Education Trust",
+            "KENDRIYA VIDHYALAYA",
+            "DGQA",
+            "Bharat Scouts and Guides"
+        ],
+        "university": [
+            "CBSE"
+        ],
+        "degree": [
+            "Graduate",
+            "Diploma",
+            "BCA",
+            "DOTE"
+        ],
+        "years of experience": [
+            "6 Years Experience"
+        ],
+        "address": [
+            "15/5,1ST STREET",
+            "B.V.NAGAR",
+            "PALAVANTHANGAL"
+        ],
+        "email": [
+            "E-mail",
+            "Gurunathm_84@yahoo.com",
+            "2009-20012",
+            "2000-2003"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Married": 0.241,
+            "Educational Status": 0.1784,
+            "Administration": 0.1853,
+            "Work Desire": 0.1906,
+            "Professionalism": 0.2248,
+            "Academic requirements": 0.1527,
+            "COMPUTER SKILL": 0.3083,
+            "MS OFFICE": 0.8097,
+            "MS DOS": 0.8105,
+            "EXCEL": 0.4614,
+            "D.E.E.E": 0.4347,
+            "SSLC (10th STD)": 0.1677,
+            "Achieved  Rajyapuraskar award": 0.3573,
+            "Hindi": 0.8588,
+            "English": 0.8331,
+            "Telugu": 0.6932,
+            "Marathy": 0.6668,
+            "Tamil": 0.8393
+        },
+        "filename": "cv (1604)_annotated.json"
+    }
+}

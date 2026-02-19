@@ -1,0 +1,102 @@
+{
+    "skills": [
+        "Civil Engineering",
+        "Structural Department",
+        "Key Skills",
+        "Expertise",
+        "slump cone test apparatus",
+        "compressive cube testing machine",
+        "flakiness and elongation testing",
+        "apparatus",
+        "IS code",
+        "Skilled",
+        "structural section",
+        "modern construction methodology",
+        "Familiar with Indian Codes",
+        "Efficient",
+        "BOQ",
+        "Excellent communication skills",
+        "English",
+        "Bengali",
+        "Hindi",
+        "problem solving skills",
+        "Competent",
+        "punctual",
+        "responsible",
+        "motivating",
+        "team player"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mahadev Das"
+        ],
+        "job title": [],
+        "company": [
+            "Techno India",
+            "Tata Housing",
+            "GSRP",
+            "LARSEN &TOUBRO",
+            "Examination Institute Name Board",
+            "SecondaryNangi High School(H.S).",
+            "Madhyamik Batanagar Sri Ramkrishna",
+            "Ashram Vivekananda",
+            "Vidyamandir.",
+            "CESC Power plant",
+            "Budge Budge",
+            "Tantia Construction Limited"
+        ],
+        "university": [
+            "AICTE",
+            "MAKAUT",
+            "MAKAUT201",
+            "WBCHSE201",
+            "WBBSE201"
+        ],
+        "degree": [
+            "B.Tech"
+        ],
+        "years of experience": [
+            "Total 1 year experience"
+        ],
+        "address": [
+            "Vill-Patpur",
+            "Dhara"
+        ],
+        "email": [
+            "Email",
+            "mdmahadevdas@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "Civil Engineering": 0.319,
+            "Structural Department": 0.4162,
+            "Key Skills": 0.2007,
+            "Expertise": 0.2765,
+            "slump cone test apparatus": 0.4025,
+            "compressive cube testing machine": 0.3924,
+            "flakiness and elongation testing": 0.2237,
+            "apparatus": 0.172,
+            "IS code": 0.2322,
+            "Skilled": 0.1659,
+            "structural section": 0.2432,
+            "modern construction methodology": 0.9331,
+            "Familiar with Indian Codes": 0.2175,
+            "Efficient": 0.1696,
+            "BOQ": 0.1637,
+            "Excellent communication skills": 0.3065,
+            "English": 0.5599,
+            "Bengali": 0.6197,
+            "Hindi": 0.6546,
+            "problem solving skills": 0.1591,
+            "Competent": 0.267,
+            "punctual": 0.2419,
+            "responsible": 0.295,
+            "motivating": 0.1749,
+            "team player": 0.2531
+        },
+        "filename": "cv (3435)_annotated.json"
+    }
+}

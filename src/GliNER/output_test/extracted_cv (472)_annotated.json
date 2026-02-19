@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "OBJECTIVE",
+        "Chemicals Engineering",
+        "STRENGTH",
+        "Communication Skill",
+        "Analytical Skill",
+        "Self Motivated",
+        "Willingness to lea rn & Do",
+        "new things",
+        "energetic",
+        "initiator",
+        "Problem Solver",
+        "Confident",
+        "Positive attitude",
+        "PROFESSIONAL QUALIFICATION"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [],
+        "company": [
+            "A  Training  un der Aarti industries  Ltd."
+        ],
+        "university": [
+            "Government Engineering collage valsad",
+            "Gujarat Technology  University",
+            "Valsad Government",
+            "Gujarat Technology University",
+            "Valsad GEC - GTU"
+        ],
+        "degree": [
+            "B.E.",
+            "Bachelor of, Engineering",
+            "H.S.C.",
+            "G.H.S.E.B."
+        ],
+        "years of experience": [],
+        "address": [
+            "B-234",
+            "Ambika Nagar -2",
+            "Near Health center",
+            "Katargam"
+        ],
+        "email": [
+            "Email",
+            "vipul.kalsariya9@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 8758419182"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "OBJECTIVE": 0.1508,
+            "Chemicals Engineering": 0.3496,
+            "STRENGTH": 0.2424,
+            "Communication Skill": 0.4554,
+            "Analytical Skill": 0.578,
+            "Self Motivated": 0.6643,
+            "Willingness to lea rn & Do": 0.5488,
+            "new things": 0.338,
+            "energetic": 0.6258,
+            "initiator": 0.6059,
+            "Problem Solver": 0.578,
+            "Confident": 0.6548,
+            "Positive attitude": 0.6452,
+            "PROFESSIONAL QUALIFICATION": 0.1876
+        },
+        "filename": "cv (472)_annotated.json"
+    }
+}

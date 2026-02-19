@@ -1,0 +1,106 @@
+{
+    "skills": [
+        "Domestic Plumbing",
+        "New installations",
+        "Solar Heating",
+        "Water piping systems",
+        "Sanitary systems",
+        "Welding",
+        "Preparing budgets",
+        "Health & safety",
+        "PERSONAL SKILLS",
+        "Team building",
+        "Negotiating skills",
+        "Customer service",
+        "ACADEMIC",
+        "PSEB",
+        "Plumber Diploma",
+        "National Trade",
+        "Knowledge of computer",
+        "Typing",
+        "MS dos",
+        "Excel",
+        "Note book",
+        "Word pad",
+        "Power point & Basic",
+        "Hobbies",
+        "Reading Books",
+        "PERSONAL SUMMARY",
+        "knowledge",
+        "expertise",
+        "proven ability",
+        "plumbing",
+        "WORK EXPERIENCE",
+        "plumbing systems",
+        "Solvent welding",
+        "gas boilers"
+    ],
+    "professional_info": {
+        "person name": [
+            "Gurinder Singh"
+        ],
+        "job title": [
+            "Plumber Foreman",
+            "Experienced plumber",
+            "licensee approved plumber"
+        ],
+        "company": [
+            "ambitious company",
+            "Building Contractors",
+            "Improvement Trust"
+        ],
+        "university": [
+            "Gov",
+            "Mohindra College Patiala"
+        ],
+        "degree": [
+            "PSEB"
+        ],
+        "years of experience": [],
+        "address": [
+            "Patiala"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 34,
+        "confidence_scores": {
+            "Domestic Plumbing": 0.8658,
+            "New installations": 0.6369,
+            "Solar Heating": 0.6539,
+            "Water piping systems": 0.6538,
+            "Sanitary systems": 0.7045,
+            "Welding": 0.6072,
+            "Preparing budgets": 0.2893,
+            "Health & safety": 0.545,
+            "PERSONAL SKILLS": 0.2607,
+            "Team building": 0.2524,
+            "Negotiating skills": 0.2346,
+            "Customer service": 0.3017,
+            "ACADEMIC": 0.3086,
+            "PSEB": 0.644,
+            "Plumber Diploma": 0.744,
+            "National Trade": 0.1641,
+            "Knowledge of computer": 0.2392,
+            "Typing": 0.3266,
+            "MS dos": 0.6854,
+            "Excel": 0.6049,
+            "Note book": 0.3831,
+            "Word pad": 0.7306,
+            "Power point & Basic": 0.587,
+            "Hobbies": 0.1589,
+            "Reading Books": 0.269,
+            "PERSONAL SUMMARY": 0.2502,
+            "knowledge": 0.1656,
+            "expertise": 0.2392,
+            "proven ability": 0.1922,
+            "plumbing": 0.165,
+            "WORK EXPERIENCE": 0.1778,
+            "plumbing systems": 0.2395,
+            "Solvent welding": 0.515,
+            "gas boilers": 0.1791
+        },
+        "filename": "cv (4042)_annotated.json"
+    }
+}

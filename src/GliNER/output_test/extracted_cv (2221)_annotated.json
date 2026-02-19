@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "LV  power  distribution",
+        "FAS  &  FF",
+        "estimation",
+        "Execution & achievement of the target of projects",
+        "liaison",
+        "PROFESSIONAL QUALIFICATION",
+        "Certificate Course",
+        "MS Project 2007-CADD Centre",
+        "Industrial Automation",
+        "Auto CAD",
+        "Auto CAD-CADD Centre",
+        "MEP"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohammad TauseefAhsan"
+        ],
+        "job title": [
+            "Project Engineer(Electrical)",
+            "Electrical Engineer",
+            "Electrical  Engineer",
+            "Electrical Design of Switchgear Assembly-Advance",
+            "Manager (MEP)"
+        ],
+        "company": [
+            "Larsen &Tubro",
+            "Prolific Technologies",
+            "AL SOFI CONTRACTING"
+        ],
+        "university": [
+            "M.U"
+        ],
+        "degree": [
+            "BSc.Engineering (Electrical)"
+        ],
+        "years of experience": [],
+        "address": [
+            "A-32/D-19",
+            "Indrapuri colony Rajabazar",
+            "Patna-14"
+        ],
+        "email": [
+            "E- mailID",
+            "ertauseef@rediffmail.com"
+        ],
+        "phone": [
+            "+917050102327"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "LV  power  distribution": 0.3642,
+            "FAS  &  FF": 0.343,
+            "estimation": 0.3822,
+            "Execution & achievement of the target of projects": 0.1658,
+            "liaison": 0.1948,
+            "PROFESSIONAL QUALIFICATION": 0.4109,
+            "Certificate Course": 0.4454,
+            "MS Project 2007-CADD Centre": 0.4361,
+            "Industrial Automation": 0.2301,
+            "Auto CAD": 0.4655,
+            "Auto CAD-CADD Centre": 0.2048,
+            "MEP": 0.2557
+        },
+        "filename": "cv (2221)_annotated.json"
+    }
+}

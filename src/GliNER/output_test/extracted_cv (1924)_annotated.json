@@ -1,0 +1,46 @@
+{
+    "skills": [
+        "tools & tackles",
+        "PROJECT PLANNING & MANAGEMENT",
+        "standards"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHARIB ALAM",
+            "sharib.samaar",
+            "Mechanical engineerSHARIB ALAM"
+        ],
+        "job title": [
+            "mechanical engineer",
+            "Clients/ Consultants"
+        ],
+        "company": [
+            "Contracting and Project Management Consultancy Services Company",
+            "Saudi Binladin Group",
+            "General Authority of civil aviation group three"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "More  than  six Years of  experience"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "sharib.alam@gmail.com",
+            "Skype"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "tools & tackles": 0.152,
+            "PROJECT PLANNING & MANAGEMENT": 0.2402,
+            "standards": 0.1855
+        },
+        "filename": "cv (1924)_annotated.json"
+    }
+}

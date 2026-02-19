@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "Product design",
+        "Expertise Quality",
+        "High skilled in heating, cooling & humidity systems",
+        "Knowledge of Refrigerants",
+        "Knowledge of ASU",
+        "HVAC",
+        "Project management",
+        "AREA(S) OF INTEREST",
+        "Refrigeration & Air conditioning",
+        "Thermodynamics",
+        "Microsoft Office pac kage",
+        "DTP",
+        "OPERATING SYSTEM",
+        "WINDOW XP",
+        "Auto Cad"
+    ],
+    "professional_info": {
+        "person name": [
+            "IFTAKAR AHMAD"
+        ],
+        "job title": [
+            "high -level position"
+        ],
+        "company": [
+            "High school",
+            "ENPRO Instruments",
+            "Pacific Dynamics"
+        ],
+        "university": [
+            "HNB Garhwal University",
+            "Uttarakhand Board"
+        ],
+        "degree": [
+            "B.Sc",
+            "B.Sc.",
+            "Intermediate"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-MAIL ID",
+            "Iftakar_ahmad@yahoo.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Product design": 0.1759,
+            "Expertise Quality": 0.2059,
+            "High skilled in heating, cooling & humidity systems": 0.2173,
+            "Knowledge of Refrigerants": 0.5167,
+            "Knowledge of ASU": 0.2217,
+            "HVAC": 0.5043,
+            "Project management": 0.2702,
+            "AREA(S) OF INTEREST": 0.2453,
+            "Refrigeration & Air conditioning": 0.1747,
+            "Thermodynamics": 0.3767,
+            "Microsoft Office pac kage": 0.2083,
+            "DTP": 0.1823,
+            "OPERATING SYSTEM": 0.3193,
+            "WINDOW XP": 0.6086,
+            "Auto Cad": 0.2459
+        },
+        "filename": "cv (3971)_annotated.json"
+    }
+}

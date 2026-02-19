@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "Domino Saints",
+        "EDITORIAL",
+        "Caras People en Espanol",
+        "ADVERTISING",
+        "Sketchers",
+        "COMMERCIALS",
+        "MUSIC VIDEOS",
+        "TELEVISION"
+    ],
+    "professional_info": {
+        "person name": [
+            "Claudia Alonso",
+            "Daniel Arenas",
+            "David Zepeda",
+            "Erika Buenfil",
+            "Gaby Espino",
+            "Jorge Bernal",
+            "Maite Perroni",
+            "Manny Manuel",
+            "Marc Anthony",
+            "Marjorie de Sousa",
+            "Martin Amado",
+            "Myrka Dellanos",
+            "Nabila Tapia",
+            "Pedro Moreno",
+            "Reykon el Lider",
+            "Zuleyka Rivera",
+            "David Rousseau"
+        ],
+        "job title": [
+            "Wardrobe Stylist"
+        ],
+        "company": [
+            "Conrad Miami Hotel",
+            "AT&T",
+            "Doritos EatPastry",
+            "Fresh from Florida",
+            "Florida Blue Health",
+            "Ford",
+            "La Voz Kids",
+            "Telemundo"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue",
+            "90034"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Domino Saints": 0.8733,
+            "EDITORIAL": 0.2941,
+            "Caras People en Espanol": 0.244,
+            "ADVERTISING": 0.4037,
+            "Sketchers": 0.7767,
+            "COMMERCIALS": 0.2801,
+            "MUSIC VIDEOS": 0.2697,
+            "TELEVISION": 0.4217
+        },
+        "filename": "cv (1019)_annotated.json"
+    }
+}

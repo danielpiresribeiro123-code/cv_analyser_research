@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "Computer Proficiency",
+        "Ms Office",
+        "Sex",
+        "Female",
+        "Married",
+        "English",
+        "Tamil"
+    ],
+    "professional_info": {
+        "person name": [
+            "R. RAJESHWARI",
+            "R. Jeyachandran",
+            "Indian Author",
+            "Mr.S.Rasaiah",
+            "Indian",
+            "R.RAJESHWARI"
+        ],
+        "job title": [
+            "Maths Teacher"
+        ],
+        "company": [],
+        "university": [
+            "St. Antony’s College",
+            "Vivekananda College",
+            "HSCGovt.Hr.Sec.School",
+            "SSLCGovt.Hr.Sec.School",
+            "SRM Auckland Grammar Senior Secondary School",
+            "Christ Convent School"
+        ],
+        "degree": [
+            "B.Ed (Maths)",
+            "B.Sc (Maths)"
+        ],
+        "years of experience": [
+            "Working Experience"
+        ],
+        "address": [
+            "No.8",
+            "6th street",
+            "Balamurugan",
+            "Chennai-600117",
+            "Mannarpuram2012",
+            "Agasteeswaram 2011",
+            "Kottaram 2008",
+            "Fategrahpanjtoor"
+        ],
+        "email": [
+            "Email"
+        ],
+        "phone": [
+            "Cell",
+            "+91 9940286165"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Computer Proficiency": 0.5291,
+            "Ms Office": 0.2148,
+            "Sex": 0.2645,
+            "Female": 0.3189,
+            "Married": 0.385,
+            "English": 0.5603,
+            "Tamil": 0.5033
+        },
+        "filename": "cv (1571)_annotated.json"
+    }
+}

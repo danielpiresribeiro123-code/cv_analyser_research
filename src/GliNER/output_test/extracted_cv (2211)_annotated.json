@@ -1,0 +1,48 @@
+{
+    "skills": [
+        "Intermediate",
+        "State space modeling",
+        "PWM technique",
+        "Mobile technology",
+        "PWM"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMED ABDUL KHAYOOM"
+        ],
+        "job title": [],
+        "company": [
+            "MPC"
+        ],
+        "university": [
+            "VISHWA  BHARATHI  COLLEGE  OF ENGINEERING2010-2014",
+            "Kendriya Vidyalaya"
+        ],
+        "degree": [
+            "Graduation",
+            "B-tech"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "gmail"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-8099914812",
+            "remote telephone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Intermediate": 0.205,
+            "State space modeling": 0.3005,
+            "PWM technique": 0.5175,
+            "Mobile technology": 0.1901,
+            "PWM": 0.2162
+        },
+        "filename": "cv (2211)_annotated.json"
+    }
+}

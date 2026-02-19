@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "clinical pharmacology",
+        "interpersonal skills",
+        "versatility",
+        "Strong Diverse Science Background",
+        "Strong Academic Skills",
+        "Strong Decision-Making Ability",
+        "Prescription Dispensing and Compounding",
+        "Drug Interaction Assessment",
+        "Clinical Interventions",
+        "Product Safety and Quality Assurance",
+        "Exceptional Patient Care",
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Access",
+        "Ability to Identify and Solve Potential Problem",
+        "High Personal and Professional Ethics",
+        "Creative Cognitive Skills",
+        "Pharmaceutical Research and Data Analysis",
+        "Efficient and Accurate",
+        "Exceptional Attention to Details",
+        "Excellent Telephone Etiquette",
+        "Ability to Listen and Communicate in a Articulate Manner",
+        "High Level of Organizational and Personal Skills",
+        "Customer and Coworker Relationship Management",
+        "Achievements",
+        "drug-inventory management system",
+        "leading by example"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "STAFF PHARMACIST",
+            "Pharmacist"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [
+            "Doctor of Pharmacy",
+            "Master in Science"
+        ],
+        "years of experience": [
+            "Nine years of retail experience",
+            "Russian speaking customers"
+        ],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "clinical pharmacology": 0.4795,
+            "interpersonal skills": 0.5042,
+            "versatility": 0.1812,
+            "Strong Diverse Science Background": 0.3405,
+            "Strong Academic Skills": 0.4781,
+            "Strong Decision-Making Ability": 0.5001,
+            "Prescription Dispensing and Compounding": 0.1757,
+            "Drug Interaction Assessment": 0.3034,
+            "Clinical Interventions": 0.2858,
+            "Product Safety and Quality Assurance": 0.2921,
+            "Exceptional Patient Care": 0.2519,
+            "Word": 0.6791,
+            "Excel": 0.5884,
+            "PowerPoint": 0.5932,
+            "Access": 0.5624,
+            "Ability to Identify and Solve Potential Problem": 0.5565,
+            "High Personal and Professional Ethics": 0.5284,
+            "Creative Cognitive Skills": 0.2146,
+            "Pharmaceutical Research and Data Analysis": 0.664,
+            "Efficient and Accurate": 0.5681,
+            "Exceptional Attention to Details": 0.5612,
+            "Excellent Telephone Etiquette": 0.6095,
+            "Ability to Listen and Communicate in a Articulate Manner": 0.5973,
+            "High Level of Organizational and Personal Skills": 0.5178,
+            "Customer and Coworker Relationship Management": 0.2801,
+            "Achievements": 0.2246,
+            "drug-inventory management system": 0.1883,
+            "leading by example": 0.405
+        },
+        "filename": "cv (4707)_annotated.json"
+    }
+}

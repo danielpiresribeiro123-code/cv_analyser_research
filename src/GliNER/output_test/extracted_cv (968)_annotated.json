@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "motivated",
+        "adaptable",
+        "responsible",
+        "focused to work",
+        "strong drive",
+        "Diploma in Quantity Survey (Private student)",
+        "Road survey"
+    ],
+    "professional_info": {
+        "person name": [
+            "John Hillary Webi"
+        ],
+        "job title": [
+            "Personal profile",
+            "construction student",
+            "Road Surveyor Assistant",
+            "Quantity Survey Assistant"
+        ],
+        "company": [
+            "Kenya Institute of Highway and Building Technology",
+            "Malava Boys High School",
+            "Sabema International  Ltd",
+            "Nyange Integrated Consultants Ltd"
+        ],
+        "university": [
+            "University College of Estate Management",
+            "Kenya Certificate of Secondary Education"
+        ],
+        "degree": [
+            "Bachelor’s  Degree in Quantity Survey",
+            "Diploma in Quantity Survey"
+        ],
+        "years of experience": [],
+        "address": [
+            "P.O.Box 32 -50100",
+            "Kakamega"
+        ],
+        "email": [
+            "Email",
+            "hilla.wj@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+254 724 879889"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "motivated": 0.5487,
+            "adaptable": 0.3535,
+            "responsible": 0.2868,
+            "focused to work": 0.2519,
+            "strong drive": 0.2728,
+            "Diploma in Quantity Survey (Private student)": 0.4232,
+            "Road survey": 0.2246
+        },
+        "filename": "cv (968)_annotated.json"
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "skills": [
+        "Power",
+        "Oil & Gas",
+        "Process and Production",
+        "Academic Credentials",
+        "Matriculation",
+        "Professional Skills",
+        "Certificate in Electrical Design Engineering",
+        "soft skills",
+        "Meter & Relay Co-ordination",
+        "Load Calculation & Load list prepration",
+        "Transformer & Generator sizing",
+        "Switchgear sizing & specifications",
+        "Pump & Motor sizing",
+        "Cable & Busbar sizing",
+        "Lighting Calculations",
+        "Earthing & Lightning Protection Calculation",
+        "Circuit  Breakers",
+        "Capacitor Banks",
+        "Substation",
+        "Electrical Transient Analysis Program",
+        "AUTOCAD"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUMIT KUMAR",
+            "V&PO Ghasouli",
+            "Trainee",
+            "Rai"
+        ],
+        "job title": [
+            "Ph.-8529912353",
+            "Sr.  Sec.",
+            "Halux",
+            "Luxicon",
+            "Trainee",
+            "DILux"
+        ],
+        "company": [
+            "cbse",
+            "EDPTI",
+            "L & T Electrical and Automation",
+            "MotiNagar",
+            "Oshram india pvt. Ltd",
+            "Elite power Pvt. Ltd."
+        ],
+        "university": [
+            "DCRUST",
+            "Murthal",
+            "Hindu  College  of, Engineering"
+        ],
+        "degree": [
+            "B.Tech.(Electrical)"
+        ],
+        "years of experience": [
+            "Work Experience"
+        ],
+        "address": [
+            "Teh.-Ganaur",
+            "Sonipat",
+            "Haryana-131101",
+            "Sonepat",
+            "Ganaur"
+        ],
+        "email": [
+            "E-mail",
+            "sumittyagi64@yahoo.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Power": 0.1548,
+            "Oil & Gas": 0.1816,
+            "Process and Production": 0.3693,
+            "Academic Credentials": 0.4391,
+            "Matriculation": 0.3294,
+            "Professional Skills": 0.3936,
+            "Certificate in Electrical Design Engineering": 0.6528,
+            "soft skills": 0.311,
+            "Meter & Relay Co-ordination": 0.2489,
+            "Load Calculation & Load list prepration": 0.1686,
+            "Transformer & Generator sizing": 0.2115,
+            "Switchgear sizing & specifications": 0.2105,
+            "Pump & Motor sizing": 0.1897,
+            "Cable & Busbar sizing": 0.1666,
+            "Lighting Calculations": 0.1733,
+            "Earthing & Lightning Protection Calculation": 0.1833,
+            "Circuit  Breakers": 0.1955,
+            "Capacitor Banks": 0.2598,
+            "Substation": 0.2671,
+            "Electrical Transient Analysis Program": 0.1983,
+            "AUTOCAD": 0.2253
+        },
+        "filename": "cv (1781)_annotated.json"
+    }
+}

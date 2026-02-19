@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "YOLO CNN",
+        "OCR Insights",
+        "Computer Science",
+        "Java",
+        "C++",
+        "Python",
+        "Machine Learning",
+        "Algorithms",
+        "Natural Language Processing",
+        "Deep Learning",
+        "Computer Vision",
+        "Pattern Recognition",
+        "Data Science",
+        "Data Analysis",
+        "C",
+        "PySpark",
+        "Kubeflow",
+        "Object Detection"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Data Scientist",
+            "Software Engineer",
+            "Data Analyst"
+        ],
+        "company": [
+            "One97 Communications Limited"
+        ],
+        "university": [
+            "SGBAU university",
+            "Indian Institute of Technology",
+            "IIT"
+        ],
+        "degree": [
+            "B.Tech",
+            "M.Tech"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "YOLO CNN": 0.4876,
+            "OCR Insights": 0.4737,
+            "Computer Science": 0.2457,
+            "Java": 0.9167,
+            "C++": 0.9092,
+            "Python": 0.9467,
+            "Machine Learning": 0.6352,
+            "Algorithms": 0.5119,
+            "Natural Language Processing": 0.5847,
+            "Deep Learning": 0.7347,
+            "Computer Vision": 0.6418,
+            "Pattern Recognition": 0.5933,
+            "Data Science": 0.5795,
+            "Data Analysis": 0.4672,
+            "C": 0.7199,
+            "PySpark": 0.3625,
+            "Kubeflow": 0.5157,
+            "Object Detection": 0.1738
+        },
+        "filename": "cv (4837)_annotated.json"
+    }
+}

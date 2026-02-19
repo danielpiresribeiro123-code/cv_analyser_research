@@ -1,0 +1,30 @@
+{
+    "skills": [
+        "OQAI"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mickaël Derbez",
+            "enfantsB",
+            "enfants"
+        ],
+        "job title": [
+            "BenB2003",
+            "BEnB2006"
+        ],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "OQAI": 0.1724
+        },
+        "filename": "cv (1193)_annotated.json"
+    }
+}

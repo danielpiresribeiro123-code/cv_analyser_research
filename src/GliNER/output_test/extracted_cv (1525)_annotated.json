@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "Good communication skill",
+        "Ability to handle children of different age groups",
+        "new teaching methodology",
+        "STRENGTHS",
+        "Enthusiastic and hardworking",
+        "Positive attitude",
+        "Responsible towards work",
+        "Self-motivated and directed",
+        "MS-DOS",
+        "Windows 98",
+        "2000",
+        "XP",
+        "Visual Basic 6.0",
+        "ASP",
+        "SQL Server",
+        "FoxPro",
+        "Ms-Access",
+        "Multimedia Tools",
+        "Photoshop",
+        "Flash",
+        "Tailoring      Arts and crafts",
+        "Female",
+        "English",
+        "Tamil"
+    ],
+    "professional_info": {
+        "person name": [
+            "SANTHIYA SRIRAM",
+            "B.SANTHIYA",
+            "R.Sriram",
+            "SANTHIYA"
+        ],
+        "job title": [
+            "Teacher"
+        ],
+        "company": [],
+        "university": [
+            "UNIVERSITYCURRENT",
+            "MCAIndira Gandhi National Open University",
+            "IGNOU",
+            "BCASrimad Andavan Arts and Science College",
+            "Bharathidasan",
+            "XIIThe Girls’ Higher Secondary School",
+            "XThe Girls’ Higher Secondary School"
+        ],
+        "degree": [
+            "University77%"
+        ],
+        "years of experience": [],
+        "address": [
+            "NO.77/6",
+            "BLOCK II"
+        ],
+        "email": [
+            "+91-9894567867 santhiyasriram@gmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Good communication skill": 0.2759,
+            "Ability to handle children of different age groups": 0.1614,
+            "new teaching methodology": 0.5264,
+            "STRENGTHS": 0.1771,
+            "Enthusiastic and hardworking": 0.34,
+            "Positive attitude": 0.2912,
+            "Responsible towards work": 0.2278,
+            "Self-motivated and directed": 0.351,
+            "MS-DOS": 0.9394,
+            "Windows 98": 0.929,
+            "2000": 0.4722,
+            "XP": 0.8709,
+            "Visual Basic 6.0": 0.622,
+            "ASP": 0.434,
+            "SQL Server": 0.2965,
+            "FoxPro": 0.3082,
+            "Ms-Access": 0.3204,
+            "Multimedia Tools": 0.1816,
+            "Photoshop": 0.416,
+            "Flash": 0.4189,
+            "Tailoring      Arts and crafts": 0.39,
+            "Female": 0.2483,
+            "English": 0.5492,
+            "Tamil": 0.5805
+        },
+        "filename": "cv (1525)_annotated.json"
+    }
+}

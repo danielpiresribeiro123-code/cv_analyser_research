@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Mechanical Engineering",
+        "New Product Introduction",
+        "XIIth standard",
+        "Xth  standard",
+        "GD&T",
+        "Finite Element Analysis",
+        "ANSYS software",
+        "Casting Simulation",
+        "ProCAST software",
+        "Reverse Engineering Process",
+        "Machining inspection",
+        "Defect analysis",
+        "Process planning & execution",
+        "international standards"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ayush Pandey"
+        ],
+        "job title": [
+            "Design & Development Engineer"
+        ],
+        "company": [
+            "growth-oriented organization",
+            "Seth Sriniwas Agarwal Institute of Engineering & Technology",
+            "U.P.T.U",
+            "Sardar Patel Inter College",
+            "Ram Krishana Mission Higher Secondary School",
+            "Frontier Alloy Steels Ltd."
+        ],
+        "university": [],
+        "degree": [
+            "Bachelor in Mechanical Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "Plot No. 122/650",
+            "Shastri Nagar"
+        ],
+        "email": [
+            "shub.pandey7@yahoo",
+            "+91-8765599273",
+            "+91-8115031253",
+            "shub.pandey7"
+        ],
+        "phone": [
+            "+91-8765599273"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Mechanical Engineering": 0.6907,
+            "New Product Introduction": 0.4153,
+            "XIIth standard": 0.3055,
+            "Xth  standard": 0.3128,
+            "GD&T": 0.183,
+            "Finite Element Analysis": 0.6385,
+            "ANSYS software": 0.6706,
+            "Casting Simulation": 0.607,
+            "ProCAST software": 0.4894,
+            "Reverse Engineering Process": 0.3881,
+            "Machining inspection": 0.325,
+            "Defect analysis": 0.4074,
+            "Process planning & execution": 0.3046,
+            "international standards": 0.5292
+        },
+        "filename": "cv (3278)_annotated.json"
+    }
+}

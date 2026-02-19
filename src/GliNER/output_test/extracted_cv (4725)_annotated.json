@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "Personable",
+        "high-energy nursing professional",
+        "ambitious individual",
+        "Licenses",
+        "CPR certified through American Heart Association",
+        "Skills",
+        "Medical Terminology",
+        "Vital Signs & Patient MonitoringÂ",
+        "Electronic Health Record",
+        "HIPPA Regulations/ Privacy",
+        "Patient Safety & Care",
+        "Patient Advocacy and Support",
+        "Medication AdministrationÂ",
+        "expertise"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "BANK TELLER",
+            "Professional tellers",
+            "Retail Sales Consultant"
+        ],
+        "company": [
+            "Company Name",
+            "Bank of America"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Personable": 0.7051,
+            "high-energy nursing professional": 0.5181,
+            "ambitious individual": 0.5825,
+            "Licenses": 0.204,
+            "CPR certified through American Heart Association": 0.674,
+            "Skills": 0.2319,
+            "Medical Terminology": 0.4968,
+            "Vital Signs & Patient MonitoringÂ": 0.6448,
+            "Electronic Health Record": 0.7516,
+            "HIPPA Regulations/ Privacy": 0.5422,
+            "Patient Safety & Care": 0.5535,
+            "Patient Advocacy and Support": 0.4829,
+            "Medication AdministrationÂ": 0.5564,
+            "expertise": 0.3285
+        },
+        "filename": "cv (4725)_annotated.json"
+    }
+}

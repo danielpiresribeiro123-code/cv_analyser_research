@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "7020581975",
+        "CAREER OBJECTIVE",
+        "Male",
+        "Marital Status",
+        "Unmarried",
+        "English",
+        "Hindi",
+        "Marathi",
+        "Hybrid Power Generation",
+        "Team member(s)",
+        "geYear of PassingDiploma In",
+        "Electrical"
+    ],
+    "professional_info": {
+        "person name": [
+            "AKASH PRALHAD",
+            "PATIL",
+            "EngineeringSmt. S.S.Patil"
+        ],
+        "job title": [],
+        "company": [
+            "TCPDF"
+        ],
+        "university": [
+            "University",
+            "Inst.Of",
+            "12th Asc College Nashik"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Address At -Kathora",
+            "Pin Code 425107",
+            "India"
+        ],
+        "email": [
+            "akash250258970@gmail.com",
+            "Hindu"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "7020581975": 0.3157,
+            "CAREER OBJECTIVE": 0.1638,
+            "Male": 0.2919,
+            "Marital Status": 0.2654,
+            "Unmarried": 0.3983,
+            "English": 0.8625,
+            "Hindi": 0.8685,
+            "Marathi": 0.905,
+            "Hybrid Power Generation": 0.3136,
+            "Team member(s)": 0.2311,
+            "geYear of PassingDiploma In": 0.2049,
+            "Electrical": 0.2995
+        },
+        "filename": "cv (1948)_annotated.json"
+    }
+}

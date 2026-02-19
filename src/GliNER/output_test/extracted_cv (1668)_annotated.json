@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "Ability",
+        "potential",
+        "Transformer  protection",
+        "Reactor  protection",
+        "Busbar  protection",
+        "Motor  protection",
+        "Synchronizing Scheme"
+    ],
+    "professional_info": {
+        "person name": [
+            "BALAMURUGAN SERAN SENGUTTUVANBALAMURUGAN SERAN SENGUTTUVAN"
+        ],
+        "job title": [
+            "TESTING AND COMMISSIONING ENGINEER",
+            "Floor Maintenance Engineer"
+        ],
+        "company": [
+            "Sodexo India Pvt. Ltd.",
+            "PDCS PROJECTS INDIA Pvt. Ltd.",
+            "ALSTOM",
+            "ABB",
+            "SCHNEIDER",
+            "RRVPNL"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "106/221 Suriya Narayanan Street",
+            "Royapuram",
+            "Chennai – 600013"
+        ],
+        "email": [
+            "Email",
+            "balamurugan.seran@gmail.com"
+        ],
+        "phone": [
+            "+91 9551204517Contact"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Ability": 0.5129,
+            "potential": 0.1683,
+            "Transformer  protection": 0.3161,
+            "Reactor  protection": 0.3623,
+            "Busbar  protection": 0.2009,
+            "Motor  protection": 0.3008,
+            "Synchronizing Scheme": 0.2626
+        },
+        "filename": "cv (1668)_annotated.json"
+    }
+}

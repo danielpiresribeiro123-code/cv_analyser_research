@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "Male",
+        "Single",
+        "Hindi & English",
+        "CERTIFICATION COURSE",
+        "Diploma in Computer Networking",
+        "Computer Hardware & Networking",
+        "HARDWARE SKILLS",
+        "WIN98",
+        "Server",
+        "2008",
+        "Linux 6.0",
+        "NETWORKING SKILL",
+        "Server 2008",
+        "Active Directory",
+        "Services",
+        "Network Auditing",
+        "DHCP",
+        "Dynamic host configuration protocol",
+        "VPN",
+        "Virtual Private",
+        "Network",
+        "DNS",
+        "Domain Name Service",
+        "WDS",
+        "Windows mail",
+        "print"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHD.RIZAWAN ANSARI",
+            "Abdul Gapfar"
+        ],
+        "job title": [
+            "OBJECTIVE CAREER"
+        ],
+        "company": [
+            "DATA EXPERT"
+        ],
+        "university": [
+            "S. K. I. College",
+            "S.V.N.I. College",
+            "JETKING  Institute Allahabad",
+            "Institute Allahabad"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "- 183/212 K.L Kydganj"
+        ],
+        "email": [
+            "mohdrizwan39@gmail.com",
+            "8924895908"
+        ],
+        "phone": [
+            "Contact No.",
+            "- +919118535396"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Male": 0.1691,
+            "Single": 0.199,
+            "Hindi & English": 0.4588,
+            "CERTIFICATION COURSE": 0.4762,
+            "Diploma in Computer Networking": 0.2542,
+            "Computer Hardware & Networking": 0.2952,
+            "HARDWARE SKILLS": 0.26,
+            "WIN98": 0.9033,
+            "Server": 0.8232,
+            "2008": 0.6655,
+            "Linux 6.0": 0.8387,
+            "NETWORKING SKILL": 0.4023,
+            "Server 2008": 0.7421,
+            "Active Directory": 0.2782,
+            "Services": 0.3196,
+            "Network Auditing": 0.2149,
+            "DHCP": 0.3334,
+            "Dynamic host configuration protocol": 0.3146,
+            "VPN": 0.272,
+            "Virtual Private": 0.2001,
+            "Network": 0.1534,
+            "DNS": 0.2841,
+            "Domain Name Service": 0.3286,
+            "WDS": 0.4251,
+            "Windows mail": 0.4668,
+            "print": 0.164
+        },
+        "filename": "cv (93)_annotated.json"
+    }
+}

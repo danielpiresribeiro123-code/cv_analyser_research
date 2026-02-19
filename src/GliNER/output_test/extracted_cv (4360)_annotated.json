@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "Industry expert",
+        "technology systems",
+        "business applications",
+        "IT service management",
+        "Network Security",
+        "IT Operational Management",
+        "scalar design/architecture",
+        "business process improvement",
+        "technology",
+        "Retail and eCommerce",
+        "Employment and Contracts",
+        "Mission Services",
+        "technology infrastructure",
+        "Business Continuity strategy",
+        "staff augmentation",
+        "outsourcing"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "SENIOR VICE-PRESIDENT AND CHIEF INFORMATION OFFICER",
+            "world-renowned Nobel Peace Prize winner",
+            "industry technology leaders",
+            "Vice-President, Information Technology"
+        ],
+        "company": [
+            "international financial company",
+            "Company Name",
+            "Goodwill",
+            "Cisco",
+            "Splashtop",
+            "VEEAM",
+            "Airwatch",
+            "Quantum Technologies"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Industry expert": 0.5185,
+            "technology systems": 0.4243,
+            "business applications": 0.5036,
+            "IT service management": 0.2573,
+            "Network Security": 0.533,
+            "IT Operational Management": 0.289,
+            "scalar design/architecture": 0.3057,
+            "business process improvement": 0.3074,
+            "technology": 0.1742,
+            "Retail and eCommerce": 0.4063,
+            "Employment and Contracts": 0.3101,
+            "Mission Services": 0.4395,
+            "technology infrastructure": 0.1546,
+            "Business Continuity strategy": 0.2261,
+            "staff augmentation": 0.1566,
+            "outsourcing": 0.2551
+        },
+        "filename": "cv (4360)_annotated.json"
+    }
+}

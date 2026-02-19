@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "technical  skills",
+        "analytical  skills",
+        "hard  work",
+        "Professional skill",
+        "MS Office",
+        "AUTO CAD",
+        "Pro-e",
+        "CNC programming",
+        "basic",
+        "C++",
+        "JAVA",
+        "basic",
+        "ERP"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ram Krishna Shukla"
+        ],
+        "job title": [
+            "Title"
+        ],
+        "company": [
+            "SISTec"
+        ],
+        "university": [
+            "UNIVERSITY YEAR OF PASSING AGGREGATE"
+        ],
+        "degree": [
+            "H.no17 Lakshmipuri Hinotiya",
+            "M.Tech[Machine, Design]",
+            "BE[ME]"
+        ],
+        "years of experience": [
+            "Experience"
+        ],
+        "address": [],
+        "email": [
+            "ram21.sistec@gmail.com"
+        ],
+        "phone": [
+            "Email",
+            "Contact",
+            "+917747086881",
+            "12thCBSE 2011",
+            "10thCBSE 2009"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "technical  skills": 0.6055,
+            "analytical  skills": 0.6291,
+            "hard  work": 0.2046,
+            "Professional skill": 0.378,
+            "MS Office": 0.782,
+            "AUTO CAD": 0.5145,
+            "Pro-e": 0.3782,
+            "CNC programming": 0.3495,
+            "basic": 0.2051,
+            "C++": 0.4723,
+            "JAVA": 0.4933,
+            "ERP": 0.4601
+        },
+        "filename": "cv (3617)_annotated.json"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "skills": [
+        "Software development Life Cycle",
+        "legacy client server insurance system",
+        "relational backend",
+        "n-tiered insurance system",
+        "application tool suite",
+        "Billing module",
+        "hosted environment",
+        "print solution",
+        "Accelio suite of products",
+        "Adobe suite of products"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Consulting manager",
+            "Professional Experience Consultant",
+            "Technical Project Manager",
+            "vendor relationship manager"
+        ],
+        "company": [
+            "Company Name",
+            "P & C insurance company",
+            "P & C",
+            "lockbox financial institution",
+            "client company",
+            "Ernst & Young"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Software development Life Cycle": 0.5078,
+            "legacy client server insurance system": 0.1937,
+            "relational backend": 0.565,
+            "n-tiered insurance system": 0.3217,
+            "application tool suite": 0.4392,
+            "Billing module": 0.168,
+            "hosted environment": 0.7956,
+            "print solution": 0.2336,
+            "Accelio suite of products": 0.6712,
+            "Adobe suite of products": 0.6244
+        },
+        "filename": "cv (4625)_annotated.json"
+    }
+}

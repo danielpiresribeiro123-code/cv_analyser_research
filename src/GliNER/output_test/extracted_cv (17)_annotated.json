@@ -1,0 +1,102 @@
+{
+    "skills": [
+        "Skype",
+        "technical and analytical skillsto",
+        "EHVAC & HVDC Substations",
+        "Transmission Lines",
+        "AC & DC Machines",
+        "Facts Controller",
+        "Railway Projects",
+        "Converters",
+        "Power Plants",
+        "Oil and Gas Drilling and Refinery Plants",
+        "Petro Chemical plants",
+        "Steel Plants",
+        "Green Field and Brown Field Projects",
+        "Shutdown Projects",
+        "Chemical and Waste Water Treatment Plants",
+        "Academic credentials",
+        "Electrical Supervisor Competency Certificate",
+        "C-32928",
+        "Computer Proficiency Operating System",
+        "MS Dos",
+        "Windows",
+        "MS Office",
+        "MATLAB",
+        "C++",
+        "Electrical cad",
+        "Auto cad",
+        "PSIM",
+        "Tina Academic Projects",
+        "Modified Multi Phase Induction Motor with High Starting Torque",
+        "mat lab simulation",
+        "International  Journal of Innovative Research In Science, Engineering And Technology"
+    ],
+    "professional_info": {
+        "person name": [
+            "Nagaraj.P B.E",
+            "nangampirai"
+        ],
+        "job title": [
+            "Engineering Manager"
+        ],
+        "company": [],
+        "university": [
+            "A.C College of Engg. and Tech.",
+            "KaraikudiAnna University Chennai2008-2011",
+            "Tamilnad Polytechnic MaduraiDept ofTechnical Education1991-1995",
+            "S.S.L.CK.N High School",
+            "MaduraiState Board of School Education1981-1991"
+        ],
+        "degree": [
+            "DIPLOMA"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "krithickesh@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 7402062105 /8220774114"
+        ]
+    },
+    "metadata": {
+        "total_skills": 31,
+        "confidence_scores": {
+            "Skype": 0.2377,
+            "technical and analytical skillsto": 0.2491,
+            "EHVAC & HVDC Substations": 0.1701,
+            "Transmission Lines": 0.1676,
+            "AC & DC Machines": 0.1897,
+            "Facts Controller": 0.2873,
+            "Railway Projects": 0.2941,
+            "Converters": 0.2345,
+            "Power Plants": 0.2433,
+            "Oil and Gas Drilling and Refinery Plants": 0.1866,
+            "Petro Chemical plants": 0.1719,
+            "Steel Plants": 0.1925,
+            "Green Field and Brown Field Projects": 0.3714,
+            "Shutdown Projects": 0.2172,
+            "Chemical and Waste Water Treatment Plants": 0.227,
+            "Academic credentials": 0.1761,
+            "Electrical Supervisor Competency Certificate": 0.7781,
+            "C-32928": 0.7756,
+            "Computer Proficiency Operating System": 0.2677,
+            "MS Dos": 0.7421,
+            "Windows": 0.2326,
+            "MS Office": 0.7829,
+            "MATLAB": 0.4686,
+            "C++": 0.471,
+            "Electrical cad": 0.615,
+            "Auto cad": 0.6428,
+            "PSIM": 0.4875,
+            "Tina Academic Projects": 0.4528,
+            "Modified Multi Phase Induction Motor with High Starting Torque": 0.1501,
+            "mat lab simulation": 0.4124,
+            "International  Journal of Innovative Research In Science, Engineering And Technology": 0.2308
+        },
+        "filename": "cv (17)_annotated.json"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "Management",
+        "FINANCIAL ACCOUNTING",
+        "TALLY",
+        "INTERNETArea of",
+        "ReadWriteSpeakReadWriteSpeakReadWriteSpeak",
+        "ExcellentYesYesYesYesYes",
+        "Good",
+        "CONSTRUCTIONSiliguri",
+        "Making Friend"
+    ],
+    "professional_info": {
+        "person name": [
+            "TARIQUE ATIQUE SIDDIQUI",
+            "Md. Atique Siddiqui",
+            "Md.Atique Siddiqui"
+        ],
+        "job title": [
+            "Executive1"
+        ],
+        "company": [],
+        "university": [
+            "UniversityQualificati",
+            "Sikkim Manipal",
+            "University20112013Sikkim Manipal",
+            "UniversityMBA",
+            "IIAS School Of",
+            "Kamaraj",
+            "UniversityBBA2nd",
+            "Institute of",
+            "IIAS"
+        ],
+        "degree": [
+            "School20052006C.B.S.E10th2nd"
+        ],
+        "years of experience": [
+            "02111987MaleIndianISLAMK6847777",
+            "Experience"
+        ],
+        "address": [
+            "21, “K” Building Sonam Wandi Road",
+            "Khan Hotel",
+            "Hill Cart Road",
+            "K6847777"
+        ],
+        "email": [
+            "E-mail",
+            "just.tarique@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Management": 0.335,
+            "FINANCIAL ACCOUNTING": 0.2345,
+            "TALLY": 0.2142,
+            "INTERNETArea of": 0.2078,
+            "ReadWriteSpeakReadWriteSpeakReadWriteSpeak": 0.2285,
+            "ExcellentYesYesYesYesYes": 0.2631,
+            "Good": 0.1578,
+            "CONSTRUCTIONSiliguri": 0.1615,
+            "Making Friend": 0.2016
+        },
+        "filename": "cv (3953)_annotated.json"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "experience",
+        "proven expertise",
+        "English",
+        "Excellent reading",
+        "Hindi",
+        "Gujarati",
+        "Excellent reading and speaking",
+        "SPECIALIZED  SKILLS",
+        "Excellent interpersonal and commu nication skills",
+        "Multi-tasking abilities",
+        "organizing and managing different tasks",
+        "Expert knowledge",
+        "Thorough insights",
+        "GST knowledge",
+        "Payroll preparation",
+        "General Ledger"
+    ],
+    "professional_info": {
+        "person name": [
+            "JITENDRA SONI",
+            "Accountant",
+            "JITEN DRA SONI",
+            "Indian Accountant"
+        ],
+        "job title": [
+            "accountant",
+            "Asst.Accountant",
+            "finance manager",
+            "Support and assist  tax consultant"
+        ],
+        "company": [
+            "Oil & Gas",
+            "Real Estate",
+            "high-end trading and distributors company",
+            "A.H COMMERCIAL",
+            "SAP FI/CO",
+            "Reliance Global Services"
+        ],
+        "university": [
+            "SIKKIM MANIPAL UNIVERSITY"
+        ],
+        "degree": [
+            "TESORO",
+            "D.O.B.",
+            "MBA – FINANCE"
+        ],
+        "years of experience": [
+            "6+ years of experience",
+            "Excellent reading"
+        ],
+        "address": [
+            "Hyderabad",
+            "Raipur",
+            "Chhatisgar"
+        ],
+        "email": [
+            "Email",
+            "jkmost@gmail.com",
+            "TESORO"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 7416825383"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "experience": 0.1841,
+            "proven expertise": 0.2414,
+            "English": 0.747,
+            "Excellent reading": 0.218,
+            "Hindi": 0.8356,
+            "Gujarati": 0.6357,
+            "Excellent reading and speaking": 0.2386,
+            "SPECIALIZED  SKILLS": 0.1779,
+            "Excellent interpersonal and commu nication skills": 0.3622,
+            "Multi-tasking abilities": 0.3815,
+            "organizing and managing different tasks": 0.1537,
+            "Expert knowledge": 0.4204,
+            "Thorough insights": 0.1988,
+            "GST knowledge": 0.3105,
+            "Payroll preparation": 0.2091,
+            "General Ledger": 0.2054
+        },
+        "filename": "cv (581)_annotated.json"
+    }
+}

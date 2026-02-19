@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "retail  banking",
+        "business  banking",
+        "financial accounting",
+        "financial matters",
+        "PRINCE2 Project Management framework",
+        "PROFESSIONAL CERTIFICATIONS",
+        "PRINCE2®Foundation & Practitioner",
+        "Six Sigma Green Belt",
+        "excel",
+        "Advanced Excel",
+        "PowerPivot",
+        "Dashboards",
+        "Microsoft Power point"
+    ],
+    "professional_info": {
+        "person name": [
+            "SARFARAZ DAWAR KHAN",
+            "sarfaraz.d.khan"
+        ],
+        "job title": [
+            "Qualified shariah consultant",
+            "Finance Manager",
+            "Islamic  Wealth  Management  Business  Development  Trainee"
+        ],
+        "company": [
+            "IIUM Institute of Islamic Banking & Finance",
+            "International Institute of Islamic Thought and Civilization",
+            "Al-Haris Al-Jayeid Technical Services LLC"
+        ],
+        "university": [
+            "Osmania University"
+        ],
+        "degree": [
+            "MSc in Islamic Banking and Finance (Research based)",
+            "Bachelor of Commerce (Major Accountancy)"
+        ],
+        "years of experience": [
+            "+971 50 686 1253",
+            "8  years  of  experience"
+        ],
+        "address": [
+            "Dubai"
+        ],
+        "email": [
+            "gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "retail  banking": 0.3046,
+            "business  banking": 0.2759,
+            "financial accounting": 0.2275,
+            "financial matters": 0.171,
+            "PRINCE2 Project Management framework": 0.7405,
+            "PROFESSIONAL CERTIFICATIONS": 0.3903,
+            "PRINCE2®Foundation & Practitioner": 0.7438,
+            "Six Sigma Green Belt": 0.4619,
+            "excel": 0.3711,
+            "Advanced Excel": 0.3306,
+            "PowerPivot": 0.4563,
+            "Dashboards": 0.2557,
+            "Microsoft Power point": 0.5034
+        },
+        "filename": "cv (1364)_annotated.json"
+    }
+}

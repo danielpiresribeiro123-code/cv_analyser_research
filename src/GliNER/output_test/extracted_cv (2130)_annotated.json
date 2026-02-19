@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "Technical Qualification",
+        "ITI",
+        "AIS",
+        "Megger"
+    ],
+    "professional_info": {
+        "person name": [
+            "asim.hasan567",
+            "Asim Hasan Khan"
+        ],
+        "job title": [
+            "Designation",
+            "Electrical Technician"
+        ],
+        "company": [
+            "SCVT",
+            "ADCO & GASCO",
+            "Oil&Gas Petroleum",
+            "Emiratess Technical Associatess LLC",
+            "Power Project Division",
+            "siemens",
+            "schneider electric",
+            "ABB"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "2Years",
+            "07 Years"
+        ],
+        "address": [
+            "INDIA",
+            "UAE",
+            "Shahjahanpur",
+            "ABUDHABI",
+            "PGUR",
+            "5283",
+            "N7277"
+        ],
+        "email": [
+            "Email",
+            "gmail"
+        ],
+        "phone": [
+            "Mob.+918853396126",
+            "+971543964037"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Technical Qualification": 0.2592,
+            "ITI": 0.7208,
+            "AIS": 0.1727,
+            "Megger": 0.2014
+        },
+        "filename": "cv (2130)_annotated.json"
+    }
+}

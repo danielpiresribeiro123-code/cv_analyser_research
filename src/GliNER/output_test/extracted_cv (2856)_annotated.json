@@ -1,0 +1,97 @@
+{
+    "skills": [
+        "PHP",
+        "MySQL",
+        "Technical Proficiency",
+        "Core Java",
+        "Java Script",
+        "C",
+        "Web Technologies",
+        "CSS",
+        "HTML",
+        "Jquery",
+        "Ajax",
+        "XML",
+        "Wordpress",
+        "Joomla",
+        "Dreamweaver",
+        "MS Office",
+        "Microsoft  Visual studio 2008",
+        "Wamp Server",
+        "SQL Server 2005",
+        "Windows XP/Vista/ 7",
+        "WAMP SERVER",
+        "Ability to work in team",
+        "Hobbies"
+    ],
+    "professional_info": {
+        "person name": [
+            "WASEEM AHMED"
+        ],
+        "job title": [
+            "Software developer",
+            "Junior Software  Programmer",
+            "Summer Trainee",
+            "Male"
+        ],
+        "company": [
+            "B.Tech",
+            "Information Technology",
+            "iNoxh Software",
+            "Solutions Pvt. Ltd.",
+            "HCL–CDC"
+        ],
+        "university": [
+            "Uttarakhand Technical University"
+        ],
+        "degree": [
+            "B.Tech (I.T.)"
+        ],
+        "years of experience": [
+            "Experience",
+            "4 year",
+            "Strength",
+            "Positive Attitude"
+        ],
+        "address": [
+            "Village-Bhenhera Tanda",
+            "Post Office-Manglour Town",
+            "Pin-247656"
+        ],
+        "email": [
+            "E-mail ID-wsaeemahmed@gmail.com"
+        ],
+        "phone": [
+            "Mobile No.  +91-9690826315"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "PHP": 0.9837,
+            "MySQL": 0.2127,
+            "Technical Proficiency": 0.4522,
+            "Core Java": 0.8965,
+            "Java Script": 0.9764,
+            "C": 0.9035,
+            "Web Technologies": 0.2578,
+            "CSS": 0.6709,
+            "HTML": 0.7747,
+            "Jquery": 0.581,
+            "Ajax": 0.8608,
+            "XML": 0.7179,
+            "Wordpress": 0.2682,
+            "Joomla": 0.2538,
+            "Dreamweaver": 0.5113,
+            "MS Office": 0.7189,
+            "Microsoft  Visual studio 2008": 0.6945,
+            "Wamp Server": 0.7328,
+            "SQL Server 2005": 0.6599,
+            "Windows XP/Vista/ 7": 0.8867,
+            "WAMP SERVER": 0.6514,
+            "Ability to work in team": 0.1661,
+            "Hobbies": 0.2418
+        },
+        "filename": "cv (2856)_annotated.json"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "Instrumentation",
+        "Control",
+        "COMPUTER SKILLS",
+        "AutoCAD",
+        "DCA",
+        "Ms -Office",
+        "Windows -7",
+        "Xp",
+        "DTP",
+        "HARDWARE&NETWORKING",
+        "Web Designing & Development",
+        "Maximo",
+        "CMMS",
+        "Planning",
+        "Data Management",
+        "Automatic Fuse change over system",
+        "Applied",
+        "Automation"
+    ],
+    "professional_info": {
+        "person name": [
+            "NAME",
+            "PRASANNA VENGATESH"
+        ],
+        "job title": [
+            "Plant",
+            "Maintenance",
+            "technician",
+            "Inspector",
+            "Apprentice",
+            "AMC",
+            "Supervisor"
+        ],
+        "company": [
+            "Engineering  Seshasayee",
+            "LMW (Unit - I)",
+            "Sun Business",
+            "Solutions",
+            "IFB Service",
+            "Q - Electronics"
+        ],
+        "university": [
+            "Institute of, Technology"
+        ],
+        "degree": [
+            "Diploma in"
+        ],
+        "years of experience": [],
+        "address": [
+            "208",
+            "Second floor",
+            "DIP – 2"
+        ],
+        "email": [
+            "E-MAIL",
+            "s.prasannavengatesh@gmail .com"
+        ],
+        "phone": [
+            "PHONE",
+            "+971 -0505572568"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Instrumentation": 0.2304,
+            "Control": 0.2638,
+            "COMPUTER SKILLS": 0.2448,
+            "AutoCAD": 0.2775,
+            "DCA": 0.2071,
+            "Ms -Office": 0.3719,
+            "Windows -7": 0.384,
+            "Xp": 0.3526,
+            "DTP": 0.3737,
+            "HARDWARE&NETWORKING": 0.3047,
+            "Web Designing & Development": 0.4015,
+            "Maximo": 0.3872,
+            "CMMS": 0.2295,
+            "Planning": 0.3177,
+            "Data Management": 0.3417,
+            "Automatic Fuse change over system": 0.1963,
+            "Applied": 0.1533,
+            "Automation": 0.2556
+        },
+        "filename": "cv (308)_annotated.json"
+    }
+}

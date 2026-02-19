@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "skills",
+        "Electronics & Communication",
+        "Electronics &",
+        "Engineering",
+        "PLC",
+        "SCADA",
+        "Twido",
+        "SCADA Software"
+    ],
+    "professional_info": {
+        "person name": [
+            "RINTU BORAH",
+            "Guru Gobind Singh"
+        ],
+        "job title": [],
+        "company": [
+            "Guru Gobind Singh College of Engg. & Technology",
+            "H.R.H. The Prince Of",
+            "SchoolSecondary Board Of",
+            "FUTURONIX AUTOMATION PVT. LIMITAD",
+            "Futuronix Automation Pvt. Ltd.",
+            "Allen Bradelly",
+            "Modicon",
+            "Mitsubishi",
+            "ASSAM ELECTRONICS HOUSE"
+        ],
+        "university": [
+            "National Informatics Centre",
+            "College Of Engg. &, Technology",
+            "Punjab Technical University",
+            "Wales Institute Of",
+            "HSLC Cinnamara High"
+        ],
+        "degree": [
+            "B Tech.",
+            "B.Tech.",
+            "Diploma"
+        ],
+        "years of experience": [],
+        "address": [
+            "P.O.-Tezu",
+            "District-Lohit",
+            "Talwandi Sabo"
+        ],
+        "email": [
+            "E-mail",
+            "rintu_borah@yahoo.com"
+        ],
+        "phone": [
+            "+919863751802",
+            "+917423800465"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "skills": 0.2038,
+            "Electronics & Communication": 0.3414,
+            "Electronics &": 0.2466,
+            "Engineering": 0.4401,
+            "PLC": 0.3131,
+            "SCADA": 0.2628,
+            "Twido": 0.3878,
+            "SCADA Software": 0.2976
+        },
+        "filename": "cv (2708)_annotated.json"
+    }
+}

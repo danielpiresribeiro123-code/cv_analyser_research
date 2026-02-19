@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "COMMUNICATIONS",
+        "Strategically grounded",
+        "Creative",
+        "articulate",
+        "resourceful",
+        "Innovative",
+        "energetic",
+        "good sense of humor",
+        "Leadership",
+        "Lean",
+        "Government Relations",
+        "understandable communication",
+        "current social media tools",
+        "Lean",
+        "enterprise software solution",
+        "finance",
+        "human relations",
+        "real estate services"
+    ],
+    "professional_info": {
+        "person name": [
+            "Greco"
+        ],
+        "job title": [
+            "DIRECTOR",
+            "Government Relations, Communications and Organizational Development Director",
+            "Director of Budget and Program Development",
+            "Director of Program Management"
+        ],
+        "company": [
+            "Company Name",
+            "City , State"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "COMMUNICATIONS": 0.2579,
+            "Strategically grounded": 0.3677,
+            "Creative": 0.5293,
+            "articulate": 0.3066,
+            "resourceful": 0.3788,
+            "Innovative": 0.5223,
+            "energetic": 0.3153,
+            "good sense of humor": 0.397,
+            "Leadership": 0.2533,
+            "Lean": 0.3021,
+            "Government Relations": 0.2093,
+            "understandable communication": 0.1587,
+            "current social media tools": 0.4194,
+            "enterprise software solution": 0.216,
+            "finance": 0.2017,
+            "human relations": 0.3418,
+            "real estate services": 0.2191
+        },
+        "filename": "cv (4515)_annotated.json"
+    }
+}

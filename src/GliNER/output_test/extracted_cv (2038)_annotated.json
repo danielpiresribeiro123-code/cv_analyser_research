@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "strength",
+        "hard work",
+        "diligence",
+        "self confidence",
+        "Robotic Spot Welding Machines",
+        "Punctuality",
+        "Ability to work under, pressure",
+        "Quick Learner",
+        "Positive Attitude"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAQUIB DAUD",
+            "daud",
+            "I"
+        ],
+        "job title": [
+            "Mechanical, Engineer"
+        ],
+        "company": [
+            "Research Design, Standard Organization",
+            "Engine Development Directorate",
+            "Rail Coach, Factory",
+            "Indian Railways",
+            "Computer Aided Design and Manufacturing Facilities, Incorporated",
+            "Traverser",
+            "Varsity Premises",
+            "University Premises"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "G-8",
+            "F/F",
+            "ABUL FAZAL",
+            "ENCLAVE-1",
+            "AZAD",
+            "ROAD",
+            "JAMIA",
+            "NAGAR",
+            "OKHLA",
+            "NEW DELHI",
+            "110025",
+            "Lucknow",
+            "Kapurthala"
+        ],
+        "email": [
+            "E-Mail",
+            "saquibdaud786@gmail.com"
+        ],
+        "phone": [
+            "Phone no",
+            "+919013804036",
+            "+917309179859"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "strength": 0.42,
+            "hard work": 0.2387,
+            "diligence": 0.363,
+            "self confidence": 0.3964,
+            "Robotic Spot Welding Machines": 0.1679,
+            "Punctuality": 0.3645,
+            "Ability to work under, pressure": 0.1549,
+            "Quick Learner": 0.2949,
+            "Positive Attitude": 0.3529
+        },
+        "filename": "cv (2038)_annotated.json"
+    }
+}

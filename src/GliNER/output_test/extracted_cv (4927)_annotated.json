@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "machine learning",
+        "web applications",
+        "docker-based units",
+        "machine learnig",
+        "deep learning",
+        "Web Development",
+        "Neural Networks",
+        "Python",
+        "TensorflowJS",
+        "Front End",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "FlutterABOUT",
+        "SKILLS",
+        "Object Detection",
+        "Image Segmentation",
+        "BMI"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Intern",
+            "FRESHER DEVELOPER",
+            "fresher",
+            "software developer"
+        ],
+        "company": [
+            "ASI Technologies",
+            "Technology"
+        ],
+        "university": [
+            "SGGS College of Engineering",
+            "Kormandal"
+        ],
+        "degree": [
+            "B.Tech"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "machine learning": 0.7362,
+            "web applications": 0.609,
+            "docker-based units": 0.2386,
+            "machine learnig": 0.1901,
+            "deep learning": 0.7467,
+            "Web Development": 0.4296,
+            "Neural Networks": 0.7997,
+            "Python": 0.7959,
+            "TensorflowJS": 0.6582,
+            "Front End": 0.4033,
+            "HTML": 0.5734,
+            "CSS": 0.3524,
+            "JavaScript": 0.8005,
+            "FlutterABOUT": 0.3221,
+            "SKILLS": 0.233,
+            "Object Detection": 0.446,
+            "Image Segmentation": 0.4073,
+            "BMI": 0.15
+        },
+        "filename": "cv (4927)_annotated.json"
+    }
+}

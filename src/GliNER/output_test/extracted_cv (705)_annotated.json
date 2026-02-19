@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "OBJECTIVE",
+        "potential",
+        "Academic Qualification",
+        "Passed Senior Secondary examination",
+        "Passed Secondary examination",
+        "Gender",
+        "Male",
+        "married",
+        "Hindi",
+        "English",
+        "Hobbies",
+        "Reading Books",
+        "Cricket"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUNIL KUMAR JAKHAR",
+            "Bholu Ram",
+            "SUNIL JAKHAR"
+        ],
+        "job title": [],
+        "company": [
+            "Hindu",
+            "Indian"
+        ],
+        "university": [
+            "RBSE",
+            "Rajasthan University"
+        ],
+        "degree": [
+            "B.com"
+        ],
+        "years of experience": [
+            "WORKING EXPERIENCE"
+        ],
+        "address": [
+            "Plot no. 19",
+            "Adharsh Nagar",
+            "Gukulpuraphatak",
+            "Kalwar Road Jhotwara Dist.",
+            "Mob No."
+        ],
+        "email": [
+            "Email",
+            "suniljakharjat1994@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "OBJECTIVE": 0.4186,
+            "potential": 0.4093,
+            "Academic Qualification": 0.3133,
+            "Passed Senior Secondary examination": 0.2696,
+            "Passed Secondary examination": 0.1699,
+            "Gender": 0.3258,
+            "Male": 0.3619,
+            "married": 0.4253,
+            "Hindi": 0.8779,
+            "English": 0.587,
+            "Hobbies": 0.219,
+            "Reading Books": 0.2043,
+            "Cricket": 0.206
+        },
+        "filename": "cv (705)_annotated.json"
+    }
+}

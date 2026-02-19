@@ -1,0 +1,35 @@
+{
+    "skills": [],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Music Teacher",
+            "Cantorial Soloist",
+            "Choir Ringer",
+            "cantor",
+            "professional choir member",
+            "Guest Solosit",
+            "Choir Director",
+            "8th grade Comparative Religion teacher",
+            "music leader",
+            "shircago",
+            "Director"
+        ],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Chicago, IL",
+            "Oak Park, MI",
+            "Highland Park, IL"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 0,
+        "confidence_scores": {},
+        "filename": "cv (1223)_annotated.json"
+    }
+}

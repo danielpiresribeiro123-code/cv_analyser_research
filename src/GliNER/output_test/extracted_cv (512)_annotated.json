@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "professional skills",
+        "Professional Qualification",
+        "C.A.",
+        "Professional QualificationCareer",
+        "Educational Qualification",
+        "Advanced Diploma in Computer Applications",
+        "MS-Office",
+        "Tally",
+        "MS excels",
+        "Fixed assets",
+        "Inventory"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHD IMRAN",
+            "ERNST AND YOUNG"
+        ],
+        "job title": [
+            "Audit assistant"
+        ],
+        "company": [
+            "EY Al khobar Saudi Arabia",
+            "zamil holding",
+            "NCC",
+            "TOTs",
+            "Chartered accountant firm",
+            "M/s  Navdeep  Kumar  &Associates  Chartered Accountants"
+        ],
+        "university": [
+            "National institute of Electronics & Information Technology",
+            "Department of Electronics and Accreditation of computer courses"
+        ],
+        "degree": [
+            "B.com (Hons)",
+            "A LEVEL",
+            "O LEVEL"
+        ],
+        "years of experience": [],
+        "address": [
+            "246/66 EAST SCHOOL BLOCK MANDAWALI",
+            "DELHI-92"
+        ],
+        "email": [
+            "Email",
+            "mohdimran54357@yahoo.co."
+        ],
+        "phone": [
+            "Mobile No",
+            "+91 9899012452"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "professional skills": 0.2634,
+            "Professional Qualification": 0.4287,
+            "C.A.": 0.4289,
+            "Professional QualificationCareer": 0.2159,
+            "Educational Qualification": 0.5939,
+            "Advanced Diploma in Computer Applications": 0.315,
+            "MS-Office": 0.5567,
+            "Tally": 0.5374,
+            "MS excels": 0.2593,
+            "Fixed assets": 0.1592,
+            "Inventory": 0.172
+        },
+        "filename": "cv (512)_annotated.json"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "communication skills",
+        "Scheme Tracing",
+        "TECHNICAL SKILLS",
+        "Programming Languages",
+        "C",
+        "JAVA",
+        "windows vista/7/8",
+        "CO-CURICULARACTIVITIES"
+    ],
+    "professional_info": {
+        "person name": [
+            "PRASHANT KUMAR CHOUDHARY"
+        ],
+        "job title": [
+            "PROFILE",
+            "Event Coordinator",
+            "Secured 2nd Position"
+        ],
+        "company": [
+            "NPTI",
+            "National power",
+            "National Thermal Power Co Ltd",
+            "NTPC",
+            "IPGCL PPCL",
+            "INSTITUTE",
+            "GGSIPU"
+        ],
+        "university": [
+            "UNIVERSITY/BOARD",
+            "CLASS 10TH BOARD",
+            "CBSE  BOARD",
+            "CLASS 12TH BOARD"
+        ],
+        "degree": [
+            "B.Tech(POWER ENGG.)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "prashantchoudharynpti @gmail.com"
+        ],
+        "phone": [
+            "M: +91 - 8860642070"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "communication skills": 0.2587,
+            "Scheme Tracing": 0.201,
+            "TECHNICAL SKILLS": 0.3271,
+            "Programming Languages": 0.1578,
+            "C": 0.6786,
+            "JAVA": 0.6394,
+            "windows vista/7/8": 0.8032,
+            "CO-CURICULARACTIVITIES": 0.2957
+        },
+        "filename": "cv (2589)_annotated.json"
+    }
+}

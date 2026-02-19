@@ -1,0 +1,119 @@
+{
+    "skills": [
+        "Male",
+        "English",
+        "Hindi",
+        "Tamil",
+        "Malayalam",
+        "Knowledge",
+        "dedication",
+        "focus",
+        "positive attitude",
+        "Technical Skills",
+        "Manual Testing",
+        "Test case Preparation",
+        "STLC",
+        "Automation Testing",
+        "QTP",
+        "Basics C",
+        "Java",
+        ".Net",
+        "Soft skills",
+        "Self-Motive",
+        "debugging",
+        "Software Development",
+        "Hardware And Networking",
+        "Software Testing",
+        "BCAYMBC kothamangalam",
+        "BCA",
+        "BLOOD BANK",
+        "Front End",
+        "ASP.net",
+        "Back End",
+        "SQL",
+        "BIKE SHOW ROOM",
+        "Visual Basic 6",
+        "SQLMCA"
+    ],
+    "professional_info": {
+        "person name": [
+            "ABIN JOY",
+            "S/o Joy T M",
+            "Thadathil(H)",
+            "A H S S Kallorkad",
+            "S.S.L.CVimala matha H S S kadalikad"
+        ],
+        "job title": [
+            "A Co-operative Team Player",
+            "Quality Analyser  trainee"
+        ],
+        "company": [
+            "reputed organization",
+            "spyrosis",
+            "HSCS"
+        ],
+        "university": [
+            "Kavana",
+            "INDIAN",
+            "MCAICET"
+        ],
+        "degree": [
+            "Educational Qualification"
+        ],
+        "years of experience": [],
+        "address": [
+            "Address",
+            "Management"
+        ],
+        "email": [
+            "Email",
+            "abinjoy712@g",
+            "mail.com",
+            "Leadership and motivational skill"
+        ],
+        "phone": [
+            "+919846460616",
+            "Pincode-683574"
+        ]
+    },
+    "metadata": {
+        "total_skills": 34,
+        "confidence_scores": {
+            "Male": 0.1893,
+            "English": 0.5545,
+            "Hindi": 0.6013,
+            "Tamil": 0.4613,
+            "Malayalam": 0.6371,
+            "Knowledge": 0.205,
+            "dedication": 0.375,
+            "focus": 0.359,
+            "positive attitude": 0.4018,
+            "Technical Skills": 0.3995,
+            "Manual Testing": 0.4937,
+            "Test case Preparation": 0.4236,
+            "STLC": 0.2487,
+            "Automation Testing": 0.438,
+            "QTP": 0.3509,
+            "Basics C": 0.2532,
+            "Java": 0.8623,
+            ".Net": 0.2801,
+            "Soft skills": 0.5113,
+            "Self-Motive": 0.4685,
+            "debugging": 0.2138,
+            "Software Development": 0.2785,
+            "Hardware And Networking": 0.3047,
+            "Software Testing": 0.2299,
+            "BCAYMBC kothamangalam": 0.2931,
+            "BCA": 0.6934,
+            "BLOOD BANK": 0.36,
+            "Front End": 0.1678,
+            "ASP.net": 0.4153,
+            "Back End": 0.263,
+            "SQL": 0.4977,
+            "BIKE SHOW ROOM": 0.3443,
+            "Visual Basic 6": 0.8571,
+            "SQLMCA": 0.2859
+        },
+        "filename": "cv (1049)_annotated.json"
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "skills": [
+        "CAREER OBJECTIVE",
+        "Knowledge",
+        "skills",
+        "Three Year Diploma In",
+        "Professional Skills",
+        "Master Diploma in Architectural Design",
+        "AutoCAD",
+        "3DS MAX",
+        "REVIT Arch.",
+        "MSP",
+        "PPM Concept",
+        "Staad Pro.",
+        "V-Ray",
+        "Photoshop",
+        "Microsoft Office",
+        "Word",
+        "Powerpoint",
+        "Excel",
+        "INTERPERSONAL SKILL",
+        "Confident and Determined",
+        "Ability to cope up with different situations",
+        "English",
+        "Hindi",
+        "Single",
+        "Interested in designing softwares"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ariz er.ariz1189",
+            "Kanth",
+            "Amroha",
+            "Mr.Shujauddin"
+        ],
+        "job title": [
+            "Civil Engineer",
+            "Interior &",
+            "Exterior Designer",
+            "Branch",
+            "Engineer"
+        ],
+        "company": [
+            "Civil EngineeringBoard of Technical, Education",
+            "CADD Centre",
+            "Autodesk",
+            "Unique Construction",
+            "H M S Associates",
+            "My Homes Maker"
+        ],
+        "university": [
+            "U.P2014",
+            "High School (10th)",
+            "UP Board of Allahabad"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Six month working experience"
+        ],
+        "address": [
+            "Mohalla Ghosipura"
+        ],
+        "email": [
+            "gmail",
+            "fresh graduate",
+            "Indian"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-8958196381"
+        ]
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "CAREER OBJECTIVE": 0.1556,
+            "Knowledge": 0.1853,
+            "skills": 0.1534,
+            "Three Year Diploma In": 0.5686,
+            "Professional Skills": 0.322,
+            "Master Diploma in Architectural Design": 0.6186,
+            "AutoCAD": 0.399,
+            "3DS MAX": 0.5771,
+            "REVIT Arch.": 0.6492,
+            "MSP": 0.2375,
+            "PPM Concept": 0.2047,
+            "Staad Pro.": 0.6132,
+            "V-Ray": 0.4511,
+            "Photoshop": 0.4712,
+            "Microsoft Office": 0.6715,
+            "Word": 0.4306,
+            "Powerpoint": 0.3562,
+            "Excel": 0.422,
+            "INTERPERSONAL SKILL": 0.4683,
+            "Confident and Determined": 0.3272,
+            "Ability to cope up with different situations": 0.2442,
+            "English": 0.2816,
+            "Hindi": 0.5484,
+            "Single": 0.2334,
+            "Interested in designing softwares": 0.1571
+        },
+        "filename": "cv (330)_annotated.json"
+    }
+}

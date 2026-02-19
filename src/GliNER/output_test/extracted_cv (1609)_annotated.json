@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "Personal Profile",
+        "Male",
+        "single",
+        "OBJECTIVE",
+        "challenging",
+        "growth oriented position",
+        "progressive and innovative",
+        "ACADEMIC RECORD",
+        "DIPLOMA",
+        "Electronics and Communication Engineering",
+        "First Class with Distinction",
+        "X Standard (SSLC)",
+        "First class",
+        "Linguistic Abilities",
+        "English",
+        "Tamil"
+    ],
+    "professional_info": {
+        "person name": [
+            "G. SETHURAMAN",
+            "Mr. G. SETHURAMAN",
+            "Indian",
+            "KARTHIK. S"
+        ],
+        "job title": [
+            "HARDWARE ENGINEER",
+            "HARDWARE TEACHING STAFF"
+        ],
+        "company": [
+            "Kalaimagal Vidhya Madhir. Matric. Hr. Sec. School",
+            "UNIQ TECHNOLOGIES",
+            "VEDHA"
+        ],
+        "university": [
+            "Panimalar Polytechnic College"
+        ],
+        "degree": [],
+        "years of experience": [
+            "TWO  YEARS EXPERIENCE"
+        ],
+        "address": [
+            "No.4",
+            "Natesan Street",
+            "Manasarovar Mandakini Flats",
+            "Ground Floor (G-3)",
+            "Ullagaram"
+        ],
+        "email": [
+            "E-mail",
+            "Karthiksethu16@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+91 74011 48478"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Personal Profile": 0.1729,
+            "Male": 0.292,
+            "single": 0.2129,
+            "OBJECTIVE": 0.1693,
+            "challenging": 0.2015,
+            "growth oriented position": 0.1989,
+            "progressive and innovative": 0.1687,
+            "ACADEMIC RECORD": 0.2014,
+            "DIPLOMA": 0.6835,
+            "Electronics and Communication Engineering": 0.8242,
+            "First Class with Distinction": 0.2493,
+            "X Standard (SSLC)": 0.2476,
+            "First class": 0.2606,
+            "Linguistic Abilities": 0.2636,
+            "English": 0.5821,
+            "Tamil": 0.1734
+        },
+        "filename": "cv (1609)_annotated.json"
+    }
+}

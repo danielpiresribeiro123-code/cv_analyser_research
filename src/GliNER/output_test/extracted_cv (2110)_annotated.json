@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "MatriculationfromH.PBOARD.Chandigarh",
+        "DiplomainMechanicalEngineeringfromCCET-26Chandigarh",
+        "TwoyearDiplomainMachinistfromITIinChandigarh",
+        "STRENGTHS",
+        "Hardworking",
+        "Punctuality",
+        "SelfConfident",
+        "Responsible",
+        "Believeinteamwork",
+        "Uniqueabilitytolearnwithinashortnotice",
+        "PlayCricket",
+        "MALE",
+        "Single",
+        "English",
+        "Hindi",
+        "Punjabi"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAKESHKUMAR",
+            "Sh.SITARAM"
+        ],
+        "job title": [
+            "Technician"
+        ],
+        "company": [
+            "ChandigarhCollegeofEngineeringandTechnology",
+            "GROZ-BECKERTASIA(P).LTDChandigarhasaTechnician",
+            "GROZ-BECKERTASIA(P).LTDChandigarhApprenticeship",
+            "Mahindra&MahindraSawrajDivision",
+            "Punjabtractorlimited",
+            "DELTRON"
+        ],
+        "university": [
+            "SecondaryEducationfromP.S.E.B.Chandigarh"
+        ],
+        "degree": [],
+        "years of experience": [
+            "EXPERIENCE"
+        ],
+        "address": [
+            "Tehsil-Jaisinghpur",
+            "District-Kangra",
+            "HimachalPardesh176096",
+            "Phase-1"
+        ],
+        "email": [
+            "EmailID",
+            "rdkumar326@gmail.com",
+            "E-MailID"
+        ],
+        "phone": [
+            "MobileNo.8699676626",
+            "9872292115"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "MatriculationfromH.PBOARD.Chandigarh": 0.2396,
+            "DiplomainMechanicalEngineeringfromCCET-26Chandigarh": 0.6067,
+            "TwoyearDiplomainMachinistfromITIinChandigarh": 0.3105,
+            "STRENGTHS": 0.2179,
+            "Hardworking": 0.46,
+            "Punctuality": 0.4799,
+            "SelfConfident": 0.5041,
+            "Responsible": 0.5457,
+            "Believeinteamwork": 0.5031,
+            "Uniqueabilitytolearnwithinashortnotice": 0.3146,
+            "PlayCricket": 0.1641,
+            "MALE": 0.3208,
+            "Single": 0.2233,
+            "English": 0.3767,
+            "Hindi": 0.464,
+            "Punjabi": 0.4259
+        },
+        "filename": "cv (2110)_annotated.json"
+    }
+}

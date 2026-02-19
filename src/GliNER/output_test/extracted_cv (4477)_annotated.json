@@ -1,0 +1,41 @@
+{
+    "skills": [
+        "standards",
+        "guidelines and regulations",
+        "advanced practice registered nursing (APRN)",
+        "guidelines",
+        "Advance Practice Registered Nurse (APRN)"
+    ],
+    "professional_info": {
+        "person name": [
+            "CONSULTANT"
+        ],
+        "job title": [
+            "Principal Investigator",
+            "Project Director"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City , State",
+            "Lausanne"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "standards": 0.5321,
+            "guidelines and regulations": 0.5793,
+            "advanced practice registered nursing (APRN)": 0.2733,
+            "guidelines": 0.3316,
+            "Advance Practice Registered Nurse (APRN)": 0.2881
+        },
+        "filename": "cv (4477)_annotated.json"
+    }
+}

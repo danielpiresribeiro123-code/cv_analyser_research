@@ -1,0 +1,97 @@
+{
+    "skills": [
+        "Analytical skills",
+        "Business development",
+        "Financial skills",
+        "Strategic Planning",
+        "Customer relations",
+        "Computer and presentation skills",
+        "PERSONAL STRENGTH",
+        "Attention to details",
+        "Analytical thinking",
+        "analytical manner",
+        "Communication skills",
+        "Computer skilled",
+        "literate",
+        "Microsoft Office Applications",
+        "Word",
+        "PowerPoint",
+        "Outlook",
+        "Excel",
+        "Access",
+        "statistical software’s",
+        "ODK",
+        "STATA",
+        "SPSS",
+        "Financial analysis",
+        "Research Design",
+        "research tools",
+        "Open Data Kit",
+        "Leading the Research Team",
+        "designing tools",
+        "Kiswahili",
+        "operational framework",
+        "rights based approach"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Financial Consultant",
+            "Research Assistant",
+            "CIC County  team leader"
+        ],
+        "company": [
+            "BrandMe ltd"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "haron582001@yahoo.com"
+        ],
+        "phone": [
+            "Phone",
+            "0712306013"
+        ]
+    },
+    "metadata": {
+        "total_skills": 32,
+        "confidence_scores": {
+            "Analytical skills": 0.3349,
+            "Business development": 0.3196,
+            "Financial skills": 0.247,
+            "Strategic Planning": 0.4184,
+            "Customer relations": 0.2753,
+            "Computer and presentation skills": 0.311,
+            "PERSONAL STRENGTH": 0.2026,
+            "Attention to details": 0.316,
+            "Analytical thinking": 0.4582,
+            "analytical manner": 0.1708,
+            "Communication skills": 0.1575,
+            "Computer skilled": 0.3316,
+            "literate": 0.1613,
+            "Microsoft Office Applications": 0.4682,
+            "Word": 0.4761,
+            "PowerPoint": 0.2649,
+            "Outlook": 0.4788,
+            "Excel": 0.2106,
+            "Access": 0.4288,
+            "statistical software’s": 0.17,
+            "ODK": 0.7299,
+            "STATA": 0.6216,
+            "SPSS": 0.6164,
+            "Financial analysis": 0.3499,
+            "Research Design": 0.187,
+            "research tools": 0.2075,
+            "Open Data Kit": 0.6273,
+            "Leading the Research Team": 0.3115,
+            "designing tools": 0.1663,
+            "Kiswahili": 0.6273,
+            "operational framework": 0.6456,
+            "rights based approach": 0.1581
+        },
+        "filename": "cv (1286)_annotated.json"
+    }
+}

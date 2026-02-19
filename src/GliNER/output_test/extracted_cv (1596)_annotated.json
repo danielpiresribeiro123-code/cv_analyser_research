@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "Mathematics",
+        "Statistics",
+        "Mechanics",
+        "Electricity and Electronics",
+        "P G DIPLOMA",
+        "Materials Management",
+        "Electrical and Electronics",
+        "Engineering",
+        "Nautical Physics",
+        "Hindi",
+        "Tamil",
+        "DiplomaMaterials",
+        "DiplomaElectrical"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAMPATH SIDDHAN",
+            "CandidateSAMPATH SIDDHAN"
+        ],
+        "job title": [
+            "Secondary School Teacher"
+        ],
+        "company": [],
+        "university": [
+            "University of, Madras",
+            "ANNA",
+            "University",
+            "University of Madras",
+            "ANNA University",
+            "Government Arts College",
+            "S S L C"
+        ],
+        "degree": [
+            "B.E",
+            "B.Sc (MATHEMATICS)",
+            "B.E (EEE)",
+            "B.Sc MATHEMATICS"
+        ],
+        "years of experience": [
+            "10  Years",
+            "28 Years",
+            "Industry Experience",
+            "Experience28",
+            "Experience10"
+        ],
+        "address": [
+            "H-401",
+            "Casa Grand Cherry Pick",
+            "B"
+        ],
+        "email": [
+            "samsiddhan@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Mathematics": 0.6281,
+            "Statistics": 0.6483,
+            "Mechanics": 0.6391,
+            "Electricity and Electronics": 0.2365,
+            "P G DIPLOMA": 0.4606,
+            "Materials Management": 0.4082,
+            "Electrical and Electronics": 0.1778,
+            "Engineering": 0.3517,
+            "Nautical Physics": 0.3442,
+            "Hindi": 0.5033,
+            "Tamil": 0.4875,
+            "DiplomaMaterials": 0.2001,
+            "DiplomaElectrical": 0.256
+        },
+        "filename": "cv (1596)_annotated.json"
+    }
+}

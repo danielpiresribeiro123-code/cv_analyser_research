@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "creative environment",
+        "Technical Skills",
+        "Windows XP",
+        "Windows - 7",
+        "MS-Office",
+        "Auto CAD",
+        "Adobe Photoshop",
+        "Planning & Billing",
+        "Structural Engineering",
+        "surveying",
+        "My Strength",
+        "Personal integrity",
+        "Sincerity and Dedication to work",
+        "Languages known",
+        "English            Hindi",
+        "Hobbies"
+    ],
+    "professional_info": {
+        "person name": [
+            "N",
+            "ARVINDSINGH",
+            "NARENDRA SINGH"
+        ],
+        "job title": [
+            "Junior Engineer"
+        ],
+        "company": [
+            "DIPLOMA Civil EngineeringPAAVENDHAR",
+            "SSLC GeneralSARVJANIC I C",
+            "Oriental structural engineers Pvt. Ltd"
+        ],
+        "university": [
+            "CURRICULUM VITAE",
+            "Civil EngineeringKSOU",
+            "UNIVERCITYKarnataka",
+            "POLYTECHNICH",
+            "COLLEGE",
+            "SOUTH Tamilnadu",
+            "HIGHER",
+            "RAJARAM",
+            "ADARSH I C BAH",
+            "AGRAUP",
+            "CHAURANGAHAR",
+            "BAH-AGRA          UP"
+        ],
+        "degree": [
+            "B.TECH"
+        ],
+        "years of experience": [
+            "EXPERIENCE",
+            "21",
+            "Single"
+        ],
+        "address": [
+            "Utter Pradesh-283104",
+            "Board 200765"
+        ],
+        "email": [
+            "7210228269",
+            "14arvindsingh@gmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "creative environment": 0.2145,
+            "Technical Skills": 0.2389,
+            "Windows XP": 0.9581,
+            "Windows - 7": 0.9351,
+            "MS-Office": 0.65,
+            "Auto CAD": 0.6742,
+            "Adobe Photoshop": 0.6623,
+            "Planning & Billing": 0.1614,
+            "Structural Engineering": 0.1889,
+            "surveying": 0.2003,
+            "My Strength": 0.2552,
+            "Personal integrity": 0.3491,
+            "Sincerity and Dedication to work": 0.1547,
+            "Languages known": 0.1553,
+            "English            Hindi": 0.4994,
+            "Hobbies": 0.169
+        },
+        "filename": "cv (199)_annotated.json"
+    }
+}

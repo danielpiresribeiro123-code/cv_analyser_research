@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "patience",
+        "righteousness",
+        "Cost Accountancy",
+        "tally Erp9",
+        "tally ERP 9",
+        "Cost  Accountancy",
+        "MS-Office Suite",
+        "Excel",
+        "Word",
+        "PowerPoint",
+        "ICWAI",
+        "English",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "DEEPIKA KAUSHIK",
+            "Mr. Ravinder kaushik"
+        ],
+        "job title": [
+            "successful professional",
+            "Accounts Assistant",
+            "Accountant"
+        ],
+        "company": [
+            "Jms & co",
+            "Delhi Grip consultant private limited",
+            "The Institute of Cost Accountant of IndiaICWAI (Group-1)",
+            "ICWAI (Group-2)",
+            "CBSE Board",
+            "ICWAI"
+        ],
+        "university": [
+            "Delhi University"
+        ],
+        "degree": [
+            "Bachelor of Commerce"
+        ],
+        "years of experience": [],
+        "address": [
+            "New Delhi"
+        ],
+        "email": [
+            "Email",
+            "kaushik.deepika087@gmail.com"
+        ],
+        "phone": [
+            "+91 9871904629 (M)"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "patience": 0.1572,
+            "righteousness": 0.2039,
+            "Cost Accountancy": 0.9115,
+            "tally Erp9": 0.4574,
+            "tally ERP 9": 0.5376,
+            "Cost  Accountancy": 0.9121,
+            "MS-Office Suite": 0.7234,
+            "Excel": 0.4345,
+            "Word": 0.4048,
+            "PowerPoint": 0.4833,
+            "ICWAI": 0.5442,
+            "English": 0.7644,
+            "Hindi": 0.7675
+        },
+        "filename": "cv (1097)_annotated.json"
+    }
+}

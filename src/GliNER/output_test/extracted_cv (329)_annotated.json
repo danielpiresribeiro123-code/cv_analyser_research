@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "mechanical stream",
+        "Computer Skills",
+        "Good knowledge of computer",
+        "MS Word",
+        "Excel",
+        "power point",
+        "AUTO CAD 2015",
+        "MEP"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUNILDHIMAN",
+            "Sunildhiman383"
+        ],
+        "job title": [
+            "Plumbing/Fire fighting supervisor",
+            "Plumbing Supervisor",
+            "pluming and fire fighting supervisor"
+        ],
+        "company": [
+            "State Board of Technical, Education Haryana",
+            "M/s Build Craft pvt.Ltd.",
+            "Drake & Scull Engineering L.L.C. Amman",
+            "Drake & scull Engineering",
+            "M.M. Continental hotel Mullana (Ambala)",
+            "M.M. Medical college Mullana (Ambala)",
+            "Al Manara Aqaba Hotel Amman(Jordan)"
+        ],
+        "university": [
+            "Kurkshtera University"
+        ],
+        "degree": [
+            "B.tech."
+        ],
+        "years of experience": [
+            "- 10 years",
+            "2008 to 2011",
+            "2011 to 2016"
+        ],
+        "address": [],
+        "email": [
+            "gmail.com"
+        ],
+        "phone": [
+            "+919466229920",
+            "2008",
+            "2004"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "mechanical stream": 0.4341,
+            "Computer Skills": 0.2332,
+            "Good knowledge of computer": 0.1905,
+            "MS Word": 0.6037,
+            "Excel": 0.4611,
+            "power point": 0.548,
+            "AUTO CAD 2015": 0.7378,
+            "MEP": 0.5605
+        },
+        "filename": "cv (329)_annotated.json"
+    }
+}

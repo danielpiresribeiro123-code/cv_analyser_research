@@ -1,0 +1,109 @@
+{
+    "skills": [
+        "Self-driven",
+        "highly-motivated individual contributor",
+        "able to conceptualize new ideas",
+        "Organized professional",
+        "guidance and counselling skills",
+        "Skilled at communicating complex information",
+        "Strong multi-tasking ability",
+        "KEY SKILLS",
+        "MATHEMATICS",
+        "COMPUTER SCIENCE",
+        "SCIENCE",
+        "ENGLISH",
+        "SOCIAL SCIENCE",
+        "HINDI",
+        "SPOKEN",
+        "GENERAL KNOWLEDGE",
+        "GENERAL",
+        "KNOWLEDGE",
+        "CYBER",
+        "SOFTWARE TOOLS",
+        "MS WORD",
+        "MS EXCEL",
+        "PDF",
+        "POWERPOINT",
+        "SOFWARE",
+        "TOOLS USED FOR SCHOOL ADMINISTRATION",
+        "SCHOOL MANAGEMENT SYSTEMS",
+        "EDUCATIONAL BACKGROUND",
+        "Computer ScienceBITS"
+    ],
+    "professional_info": {
+        "person name": [
+            "Srividhya Krishnaswami"
+        ],
+        "job title": [
+            "PASSIONATE TEACHER",
+            "Engineer",
+            "Technical Staff"
+        ],
+        "company": [
+            "Tier-1 companies",
+            "Hewlett-Packard EnterpriseNovember",
+            "Bankbazaar.com",
+            "Oracle India Pvt Ltd.",
+            "Verizon Data Services India Pvt Ltd.",
+            "XII  Board of Higher Secondary",
+            "X (AISSE)Central Board of Secondary"
+        ],
+        "university": [],
+        "degree": [
+            "B.E. (Hons.)"
+        ],
+        "years of experience": [
+            "15+ years of experience",
+            "August 2008",
+            "December 2006",
+            "August 2004"
+        ],
+        "address": [
+            "Bangalore",
+            "Chennai",
+            "Pilani"
+        ],
+        "email": [
+            "Email",
+            "srividhyak27@gmail.com"
+        ],
+        "phone": [
+            "Phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 29,
+        "confidence_scores": {
+            "Self-driven": 0.4894,
+            "highly-motivated individual contributor": 0.4758,
+            "able to conceptualize new ideas": 0.2147,
+            "Organized professional": 0.4387,
+            "guidance and counselling skills": 0.1745,
+            "Skilled at communicating complex information": 0.2116,
+            "Strong multi-tasking ability": 0.504,
+            "KEY SKILLS": 0.1929,
+            "MATHEMATICS": 0.8215,
+            "COMPUTER SCIENCE": 0.6116,
+            "SCIENCE": 0.6468,
+            "ENGLISH": 0.761,
+            "SOCIAL SCIENCE": 0.5626,
+            "HINDI": 0.5455,
+            "SPOKEN": 0.2371,
+            "GENERAL KNOWLEDGE": 0.3399,
+            "GENERAL": 0.1564,
+            "KNOWLEDGE": 0.2186,
+            "CYBER": 0.4147,
+            "SOFTWARE TOOLS": 0.1572,
+            "MS WORD": 0.7646,
+            "MS EXCEL": 0.6524,
+            "PDF": 0.3888,
+            "POWERPOINT": 0.3822,
+            "SOFWARE": 0.4727,
+            "TOOLS USED FOR SCHOOL ADMINISTRATION": 0.1983,
+            "SCHOOL MANAGEMENT SYSTEMS": 0.3062,
+            "EDUCATIONAL BACKGROUND": 0.1765,
+            "Computer ScienceBITS": 0.3023
+        },
+        "filename": "cv (1500)_annotated.json"
+    }
+}

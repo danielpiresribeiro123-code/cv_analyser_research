@@ -1,0 +1,111 @@
+{
+    "skills": [
+        "Gender",
+        "Female",
+        "Marital status",
+        "Single OBJECTIVE",
+        "good academic record",
+        "accounting",
+        "account s payable",
+        "accounts receivables",
+        "general accounting",
+        "technical accounting skills",
+        "practical understanding",
+        "proven individual",
+        "GOOD",
+        "financial accounting",
+        "management accounting",
+        "auditing",
+        "Business Mathematics",
+        "Principles of Management",
+        "Operations Management",
+        "Finance",
+        "Principles of Marketing",
+        "Business Statistics",
+        "Accounting Information Systems",
+        "Business Law",
+        "Taxation",
+        "Corporate Governance",
+        "International Business",
+        "Payroll",
+        "Purchase",
+        "Projects",
+        "Treasury"
+    ],
+    "professional_info": {
+        "person name": [
+            "JOKHA MOHAMMED AHMED  AL ISMAILI",
+            "Accountant graduate",
+            "graduate"
+        ],
+        "job title": [
+            "entry level ac counting position",
+            "professional accountant  career"
+        ],
+        "company": [
+            "The Supreme Council for Planning (SCP)"
+        ],
+        "university": [
+            "Oman leading university",
+            "SUL TAN QABOOS UNIVER SITY"
+        ],
+        "degree": [
+            "Bachelor’s  degree",
+            "BACHELOR DEGREE ACCOUNTING",
+            "Management Accounting"
+        ],
+        "years of experience": [
+            "hands -on experience"
+        ],
+        "address": [
+            "Address",
+            "Nizwa",
+            "AL AIN SECONDARY SCH OOL"
+        ],
+        "email": [
+            "Email",
+            "jokha.mohamed@gmail.com"
+        ],
+        "phone": [
+            "Contact No.",
+            "+968 92002533"
+        ]
+    },
+    "metadata": {
+        "total_skills": 31,
+        "confidence_scores": {
+            "Gender": 0.2482,
+            "Female": 0.1962,
+            "Marital status": 0.2016,
+            "Single OBJECTIVE": 0.1509,
+            "good academic record": 0.2286,
+            "accounting": 0.1521,
+            "account s payable": 0.2059,
+            "accounts receivables": 0.2695,
+            "general accounting": 0.4501,
+            "technical accounting skills": 0.5112,
+            "practical understanding": 0.2659,
+            "proven individual": 0.2825,
+            "GOOD": 0.1782,
+            "financial accounting": 0.5091,
+            "management accounting": 0.4025,
+            "auditing": 0.4725,
+            "Business Mathematics": 0.183,
+            "Principles of Management": 0.1931,
+            "Operations Management": 0.1837,
+            "Finance": 0.5078,
+            "Principles of Marketing": 0.2159,
+            "Business Statistics": 0.3144,
+            "Accounting Information Systems": 0.3002,
+            "Business Law": 0.3505,
+            "Taxation": 0.3949,
+            "Corporate Governance": 0.2685,
+            "International Business": 0.2155,
+            "Payroll": 0.3967,
+            "Purchase": 0.4371,
+            "Projects": 0.311,
+            "Treasury": 0.4113
+        },
+        "filename": "cv (1201)_annotated.json"
+    }
+}

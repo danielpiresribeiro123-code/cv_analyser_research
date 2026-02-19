@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "NCC “B” Certificate",
+        "NCC “C” Certificate",
+        "English",
+        "Tamil",
+        "SKILLS",
+        "Ability to work with people",
+        "Good presentation skills",
+        "Good teaching skills",
+        "Good Communication skills",
+        "TECHNICAL KNOWLEDGE",
+        "Microsoft word",
+        "Excel",
+        "PowerPoint Presentation",
+        "Savvy",
+        "Gender",
+        "Female"
+    ],
+    "professional_info": {
+        "person name": [
+            "JENNIFER D J",
+            "JENNIFER DJ"
+        ],
+        "job title": [
+            "Best CADO Leader"
+        ],
+        "company": [
+            "NCC COY"
+        ],
+        "university": [
+            "College of Engineering",
+            "Anna University",
+            "Stella Maris College",
+            "University of Madras",
+            "RAVINDRA B HARATHI GLOBAL SCHOOL"
+        ],
+        "degree": [
+            "M.Phil Mathematics",
+            "M.Sc Mathematics",
+            "B.Sc Mathematics"
+        ],
+        "years of experience": [
+            "EXPERIENCE",
+            "24 years"
+        ],
+        "address": [
+            "F2",
+            "Royce Enclave Flats",
+            "Chozhapuram",
+            "Fifth Street",
+            "Ambattur",
+            "Chennai – 600053",
+            "Internet"
+        ],
+        "email": [
+            "E-mail ID",
+            "jenni.roque1@gmail.com",
+            "Email ID"
+        ],
+        "phone": [
+            "Mobile",
+            "+91- 8056203764",
+            "+91 8056203764"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "NCC “B” Certificate": 0.8511,
+            "NCC “C” Certificate": 0.8259,
+            "English": 0.5174,
+            "Tamil": 0.4863,
+            "SKILLS": 0.2013,
+            "Ability to work with people": 0.5222,
+            "Good presentation skills": 0.7241,
+            "Good teaching skills": 0.6312,
+            "Good Communication skills": 0.6999,
+            "TECHNICAL KNOWLEDGE": 0.2549,
+            "Microsoft word": 0.5776,
+            "Excel": 0.4489,
+            "PowerPoint Presentation": 0.4808,
+            "Savvy": 0.4495,
+            "Gender": 0.2347,
+            "Female": 0.3029
+        },
+        "filename": "cv (1503)_annotated.json"
+    }
+}

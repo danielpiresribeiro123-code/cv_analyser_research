@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "MIG-97",
+        "TNUDP",
+        "Education",
+        "Education2018Bharathiyar",
+        "Tamil",
+        "English",
+        "Married",
+        "MAT LAB",
+        "Adobe Photoshop",
+        "Basic Ms. Office"
+    ],
+    "professional_info": {
+        "person name": [
+            "M. SARANYA",
+            "M. Alagesh",
+            "Avinasi Gounder",
+            "N. Muthusamy",
+            "D.T"
+        ],
+        "job title": [
+            "Ph.No",
+            "9659669092",
+            "Teachers"
+        ],
+        "company": [],
+        "university": [
+            "Vivekananda College",
+            "University",
+            "Marriyammal College",
+            "University71",
+            "Bharathiyar University",
+            "Kasthuriba Gandhi Baliga Vidhyalaya"
+        ],
+        "degree": [
+            "B.Sc (Maths)",
+            "B.Ed (Maths)",
+            "M. Sc (Maths)"
+        ],
+        "years of experience": [
+            "2012Periyar",
+            "26",
+            "Three Years"
+        ],
+        "address": [
+            "Trichy-620026"
+        ],
+        "email": [
+            "saranyamdk@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "MIG-97": 0.1973,
+            "TNUDP": 0.2246,
+            "Education": 0.1531,
+            "Education2018Bharathiyar": 0.1905,
+            "Tamil": 0.4969,
+            "English": 0.5426,
+            "Married": 0.3324,
+            "MAT LAB": 0.3578,
+            "Adobe Photoshop": 0.5386,
+            "Basic Ms. Office": 0.3393
+        },
+        "filename": "cv (1521)_annotated.json"
+    }
+}

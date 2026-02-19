@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "MEP",
+        "Electrical",
+        "Subject(s)Div.",
+        "AllI",
+        "MathematicsI",
+        "Electrical EngineeringII",
+        "Electrical EngineeringWith"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dilip Chatterjee",
+            "Late shri J. Chatterjee"
+        ],
+        "job title": [
+            "Project Manager",
+            "Sr. Project Manager",
+            "MEP Head"
+        ],
+        "company": [
+            "Airmech LLC",
+            "Larsen  &  Toubro  Limited",
+            "DLF",
+            "Larsen  &  Toubro",
+            "L&T  Construction"
+        ],
+        "university": [],
+        "degree": [
+            "B.E."
+        ],
+        "years of experience": [],
+        "address": [
+            "Present Address",
+            "New Delhi"
+        ],
+        "email": [
+            "E-mail",
+            "dilip_satna@yahoo.com"
+        ],
+        "phone": [
+            "Mobile",
+            "0091- 7289997706"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "MEP": 0.445,
+            "Electrical": 0.3534,
+            "Subject(s)Div.": 0.2606,
+            "AllI": 0.234,
+            "MathematicsI": 0.6027,
+            "Electrical EngineeringII": 0.8073,
+            "Electrical EngineeringWith": 0.8064
+        },
+        "filename": "cv (3082)_annotated.json"
+    }
+}

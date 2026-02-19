@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "Dealing in Equity and currency Market",
+        "Branch Banking"
+    ],
+    "professional_info": {
+        "person name": [
+            "VIRAK V GANDHI"
+        ],
+        "job title": [
+            "Internship",
+            "Management Intern",
+            "Job Designation",
+            "Relationship Manager",
+            "Deputy Manager"
+        ],
+        "company": [
+            "Management Studies",
+            "Commerce",
+            "Ahmedabad Stock Exchange Limited",
+            "ASEL",
+            "HDFC Securities Ltd.",
+            "HDFC Bank Ltd.",
+            "ICICI Bank Ltd.",
+            "Vadodara – Main Branch"
+        ],
+        "university": [
+            "DegreeSchool",
+            "PGDMSom Lalit Institute of",
+            "B.COMMV & LU College of",
+            "HSCADK Jr. College",
+            "SSCIndian School"
+        ],
+        "degree": [
+            "BoardSpecializationBatch"
+        ],
+        "years of experience": [],
+        "address": [
+            "Bhatiya Chakla",
+            "Gandhi Street",
+            "Mundra Kutch",
+            "MumbaiMumbai"
+        ],
+        "email": [
+            "Contact",
+            "Email",
+            "gandhi.virak@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "Dealing in Equity and currency Market": 0.3398,
+            "Branch Banking": 0.1926
+        },
+        "filename": "cv (1040)_annotated.json"
+    }
+}

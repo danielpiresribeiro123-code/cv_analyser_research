@@ -1,0 +1,100 @@
+{
+    "skills": [
+        "PHYSICS",
+        "6 Months diploma",
+        "web technology",
+        "hardware and networking",
+        "1 Year diploma",
+        "computer application",
+        "SKILLS AND COMPETENCIES",
+        "Technical skills",
+        "dos",
+        "windows",
+        "MS-of fice suite",
+        "English",
+        "speed 30 w/m",
+        "Strengths",
+        "Analytical skills",
+        "logical thinking",
+        "problem solvin g skills",
+        "leadership qualities",
+        "energetic",
+        "enthusiastic",
+        "self-confident",
+        "dedicated",
+        "hardworking",
+        "Managing for incoming and out going inventory",
+        "Tamil",
+        "Faithfully"
+    ],
+    "professional_info": {
+        "person name": [
+            "INAMUL HASAN",
+            "Indian"
+        ],
+        "job title": [
+            "Mechanic for any electronic devices",
+            "sale s supervisor",
+            "sales men",
+            "Store keeper",
+            "line manager",
+            "coordinator"
+        ],
+        "company": [],
+        "university": [
+            "Syed Hameedha Arts and",
+            "Science College",
+            "Kilakarai Alagappa",
+            "University"
+        ],
+        "degree": [
+            "B.SC.",
+            "Karaikudi 2015"
+        ],
+        "years of experience": [
+            "Work Experience"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "Inamulh920@gmail.com"
+        ],
+        "phone": [
+            "Mobile number",
+            "+971503185260",
+            "+971552463104"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "PHYSICS": 0.2649,
+            "6 Months diploma": 0.2108,
+            "web technology": 0.8932,
+            "hardware and networking": 0.2408,
+            "1 Year diploma": 0.1673,
+            "computer application": 0.2703,
+            "SKILLS AND COMPETENCIES": 0.1793,
+            "Technical skills": 0.3735,
+            "dos": 0.9419,
+            "windows": 0.9521,
+            "MS-of fice suite": 0.7638,
+            "English": 0.5847,
+            "speed 30 w/m": 0.1796,
+            "Strengths": 0.2003,
+            "Analytical skills": 0.7397,
+            "logical thinking": 0.7191,
+            "problem solvin g skills": 0.6022,
+            "leadership qualities": 0.7536,
+            "energetic": 0.6065,
+            "enthusiastic": 0.4539,
+            "self-confident": 0.5118,
+            "dedicated": 0.4701,
+            "hardworking": 0.4835,
+            "Managing for incoming and out going inventory": 0.1786,
+            "Tamil": 0.4306,
+            "Faithfully": 0.3879
+        },
+        "filename": "cv (4173)_annotated.json"
+    }
+}

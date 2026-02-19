@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "technical knowledge",
+        "digital marketing skills",
+        "learning skills",
+        "Excellent learning skills",
+        "Knowledge",
+        "internet marketing",
+        "Knowledge",
+        "search engine optimization",
+        "COMPUTER SKILLS",
+        "Website development",
+        "server hosting and management",
+        "Advance knowledge",
+        "Google search engine",
+        "internet marketing skill",
+        "Excellent learning skill"
+    ],
+    "professional_info": {
+        "person name": [
+            "Bablu Kumar Yadav"
+        ],
+        "job title": [],
+        "company": [
+            "B.E",
+            "Mechanical Engineering",
+            "S.S.H.S",
+            "Chakiya  Bihar School Examination  Board",
+            "SGSITS",
+            "digital marketing company"
+        ],
+        "university": [
+            "Sagar Institute of Science & Technology",
+            "S.B.D.P Inter College",
+            "Jakhanian  Uttar Pradesh State Board",
+            "SISTec"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Vill- Siswa",
+            "P.O- Bankata Jagirdari",
+            "District- Gopalganj"
+        ],
+        "email": [
+            "babluyadavme@gmail.com",
+            "Contact No"
+        ],
+        "phone": [
+            "+91-9407592910"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "technical knowledge": 0.3197,
+            "digital marketing skills": 0.3515,
+            "learning skills": 0.273,
+            "Excellent learning skills": 0.1831,
+            "Knowledge": 0.1794,
+            "internet marketing": 0.1757,
+            "search engine optimization": 0.2004,
+            "COMPUTER SKILLS": 0.3338,
+            "Website development": 0.2594,
+            "server hosting and management": 0.2053,
+            "Advance knowledge": 0.2457,
+            "Google search engine": 0.211,
+            "internet marketing skill": 0.3027,
+            "Excellent learning skill": 0.1737
+        },
+        "filename": "cv (2848)_annotated.json"
+    }
+}

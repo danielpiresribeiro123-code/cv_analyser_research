@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "Executive Diploma in Telecommunications",
+        "Honors Experience",
+        "market research",
+        "financial models",
+        "Business Transformation",
+        "Revenue Assurance",
+        "customer service and retention"
+    ],
+    "professional_info": {
+        "person name": [
+            "LUIS BERNARDO PINTADO"
+        ],
+        "job title": [
+            "Summer Associate",
+            "Senior Consultant",
+            "Primary Interexchange Carrier Manager",
+            "Quality and Processes Manager",
+            "vice-presidential",
+            "senior management",
+            "operational",
+            "Product and Market Processes Consultant"
+        ],
+        "company": [
+            "STRATEGIC MANAGEMENT GROUP",
+            "Strategic Consulting Firm",
+            "start-up long- haul fiber operator",
+            "CLECs",
+            "Business Consulting Firm",
+            "GC&EG",
+            "First Competitive Long Distance Carrier",
+            "Frozen Food distribution company"
+        ],
+        "university": [
+            "mit.edu"
+        ],
+        "degree": [
+            "Master's in Business Administration",
+            "Bachelor's in Business Administration"
+        ],
+        "years of experience": [],
+        "address": [
+            "550 Columbus Ave.",
+            "Apt. 7",
+            "Boston, MA",
+            "02118",
+            "Cambridge, MA"
+        ],
+        "email": [
+            "(617) 867-0263",
+            "e-mail"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Executive Diploma in Telecommunications": 0.4431,
+            "Honors Experience": 0.1645,
+            "market research": 0.1815,
+            "financial models": 0.1905,
+            "Business Transformation": 0.1725,
+            "Revenue Assurance": 0.2137,
+            "customer service and retention": 0.1522
+        },
+        "filename": "cv (1226)_annotated.json"
+    }
+}

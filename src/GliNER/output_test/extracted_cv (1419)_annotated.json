@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "Accounting",
+        "Tally",
+        "Tally",
+        "Trading Account",
+        "P&L Account",
+        "Balance Sheet",
+        "TECHNICAL SKILLS",
+        "Windows 98",
+        "2000",
+        "XP",
+        "Ms Office"
+    ],
+    "professional_info": {
+        "person name": [
+            "T. NAVEEN KUMAR",
+            "I"
+        ],
+        "job title": [
+            "Accounts assistant"
+        ],
+        "company": [
+            "S.N Electricals"
+        ],
+        "university": [
+            "LAL Bahadur Degree College",
+            "O.U-2011"
+        ],
+        "degree": [
+            "B.Com"
+        ],
+        "years of experience": [
+            "Total Work Experience",
+            "2.7  Years"
+        ],
+        "address": [
+            "No.8-5-186",
+            "Mallikarjuna Colony",
+            "Old Bowenpally",
+            "Secunderabad -11",
+            "Hyderabad"
+        ],
+        "email": [
+            "Mail Id",
+            "taklanaveenkumar@gmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Accounting": 0.2217,
+            "Tally": 0.1976,
+            "Trading Account": 0.1501,
+            "P&L Account": 0.3266,
+            "Balance Sheet": 0.1841,
+            "TECHNICAL SKILLS": 0.2097,
+            "Windows 98": 0.9541,
+            "2000": 0.7717,
+            "XP": 0.9283,
+            "Ms Office": 0.4218
+        },
+        "filename": "cv (1419)_annotated.json"
+    }
+}

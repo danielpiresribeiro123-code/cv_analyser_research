@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "astute learner",
+        "best performer",
+        "Valves",
+        "safety valves",
+        "English",
+        "Urdu",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "FARAZ IQBAL ALVI"
+        ],
+        "job title": [
+            "Asst. Mechanical  Site incharge",
+            "ASSISTANT  MECHANICAL  SUPERVISOR CARRIER"
+        ],
+        "company": [],
+        "university": [
+            "1    HIGH SCHOOL",
+            "C.B.S.E.(DELHI)"
+        ],
+        "degree": [],
+        "years of experience": [
+            "About 1 year experience"
+        ],
+        "address": [],
+        "email": [
+            "E-Mail id",
+            "faraziqbalalvi007@gmail.com"
+        ],
+        "phone": [
+            "Contact No",
+            "+91-7506285876"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "astute learner": 0.1969,
+            "best performer": 0.1728,
+            "Valves": 0.2282,
+            "safety valves": 0.2239,
+            "English": 0.6414,
+            "Urdu": 0.4766,
+            "Hindi": 0.6307
+        },
+        "filename": "cv (585)_annotated.json"
+    }
+}

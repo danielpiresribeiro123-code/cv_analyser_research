@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "SKILLS",
+        "Excellent ability",
+        "safety procedures",
+        "Able to plan and schedule new techniques",
+        "Very good coordinating and organizing skills",
+        "Good knowledge of equipment, supplies and services",
+        "Very good knowledge of catering set-up procedures"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mr. SUBHAN AHMAD",
+            "Mr. MOHAMMAD SHAHID"
+        ],
+        "job title": [
+            "Kitchen Helper",
+            "Cook's Helper"
+        ],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "TOTAL EXPERIENCE",
+            "2 YEARS"
+        ],
+        "address": [
+            "H.NO 144",
+            "VILLAGE ALADDINPUR PO & PS SEOHARA",
+            "DHAMPUR BIJOR (UP)"
+        ],
+        "email": [
+            "EMAIL",
+            "SUBHAN.AHMAD101@GMAIL.COM"
+        ],
+        "phone": [
+            "PHONE",
+            "9758773157 & 9758773159"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "SKILLS": 0.1674,
+            "Excellent ability": 0.1941,
+            "safety procedures": 0.1818,
+            "Able to plan and schedule new techniques": 0.1701,
+            "Very good coordinating and organizing skills": 0.1951,
+            "Good knowledge of equipment, supplies and services": 0.2222,
+            "Very good knowledge of catering set-up procedures": 0.199
+        },
+        "filename": "cv (464)_annotated.json"
+    }
+}

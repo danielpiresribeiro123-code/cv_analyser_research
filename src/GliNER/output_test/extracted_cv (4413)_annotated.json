@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "hardware and software support",
+        "Highly poised and dedicated",
+        "network",
+        "project and emergency management",
+        "Complex problem-solver",
+        "top-notch planning and communication strengths",
+        "Resourceful team player",
+        "fast learner",
+        "background",
+        "Skills",
+        "Process improvement implementation",
+        "Permissions management",
+        "Software licenses and patches",
+        "Excellent problem solving skills",
+        "Operating systems",
+        "Task estimation",
+        "GUI and tools",
+        "streaming video platforms",
+        "Timeline management",
+        "Operational support",
+        "Windows operating systems",
+        "Experience",
+        "software systems",
+        "knowledge base"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INFORMATION TECHNOLOGY SPECIALIST",
+            "Systematic IT professional",
+            "database administrator",
+            "user experience team",
+            "product managers",
+            "Shift Leader"
+        ],
+        "company": [
+            "progressive organization",
+            "Company Name",
+            "City",
+            "Microsoft"
+        ],
+        "university": [],
+        "degree": [
+            "Recent graduate",
+            "Current"
+        ],
+        "years of experience": [],
+        "address": [
+            "State"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "hardware and software support": 0.2335,
+            "Highly poised and dedicated": 0.2432,
+            "network": 0.267,
+            "project and emergency management": 0.4701,
+            "Complex problem-solver": 0.4518,
+            "top-notch planning and communication strengths": 0.2512,
+            "Resourceful team player": 0.4036,
+            "fast learner": 0.3027,
+            "background": 0.1705,
+            "Skills": 0.3567,
+            "Process improvement implementation": 0.1997,
+            "Permissions management": 0.3191,
+            "Software licenses and patches": 0.3766,
+            "Excellent problem solving skills": 0.5595,
+            "Operating systems": 0.5995,
+            "Task estimation": 0.3365,
+            "GUI and tools": 0.5967,
+            "streaming video platforms": 0.1903,
+            "Timeline management": 0.5756,
+            "Operational support": 0.2957,
+            "Windows operating systems": 0.8388,
+            "Experience": 0.2486,
+            "software systems": 0.1929,
+            "knowledge base": 0.1545
+        },
+        "filename": "cv (4413)_annotated.json"
+    }
+}

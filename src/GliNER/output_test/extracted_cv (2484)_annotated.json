@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "creativity",
+        "basic data entry",
+        "file punching",
+        "Technical Skill",
+        "XP2000",
+        "Ms-Office",
+        "Savvy Internet",
+        "Personal Skill",
+        "Strong analytical",
+        "problem solving",
+        "organizational ability",
+        "Written and communication skills",
+        "Ability to deal with people diplomatically",
+        "Willingness to learn",
+        "Hobbies",
+        "Avid biker",
+        "English",
+        "Urdu",
+        "Hindi",
+        "Unmarried",
+        "Kareli"
+    ],
+    "professional_info": {
+        "person name": [
+            "Saiyed Mohd Misbahuddin",
+            "Saiyed Mohd Anique",
+            "Indian",
+            "SAIYED",
+            "MOHD MISBAHUDDIN"
+        ],
+        "job title": [
+            "accountant"
+        ],
+        "company": [
+            "CBSE Board"
+        ],
+        "university": [
+            "CSJM University Kanpur",
+            "UP Board",
+            "Kesarwani Trading Company"
+        ],
+        "degree": [
+            "M.Com",
+            "B.Com",
+            "Intermediate"
+        ],
+        "years of experience": [
+            "Work Experience"
+        ],
+        "address": [
+            "M-9 M.I.G Ghaus Nagar"
+        ],
+        "email": [
+            "Email",
+            "tamisbahatcmp@gmail.com",
+            "Mob",
+            "9616514602"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "creativity": 0.4205,
+            "basic data entry": 0.2401,
+            "file punching": 0.1771,
+            "Technical Skill": 0.3,
+            "XP2000": 0.6428,
+            "Ms-Office": 0.4749,
+            "Savvy Internet": 0.2258,
+            "Personal Skill": 0.2655,
+            "Strong analytical": 0.3797,
+            "problem solving": 0.4202,
+            "organizational ability": 0.2794,
+            "Written and communication skills": 0.3024,
+            "Ability to deal with people diplomatically": 0.2767,
+            "Willingness to learn": 0.2854,
+            "Hobbies": 0.1898,
+            "Avid biker": 0.4045,
+            "English": 0.7963,
+            "Urdu": 0.7089,
+            "Hindi": 0.7045,
+            "Unmarried": 0.2868,
+            "Kareli": 0.2204
+        },
+        "filename": "cv (2484)_annotated.json"
+    }
+}

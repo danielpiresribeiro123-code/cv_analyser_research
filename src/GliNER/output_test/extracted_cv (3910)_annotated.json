@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "analytical",
+        "technical capabilities",
+        "Academic  Credentials",
+        "quality standard",
+        "business intelligence  reporting tools",
+        "dashboards",
+        "charting",
+        "graphing",
+        "scorecards",
+        "interpersonal",
+        "communication",
+        "analytical",
+        "technical",
+        "problem solving skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohit Kumar Agrawal"
+        ],
+        "job title": [
+            "In -Team Process Trainer",
+            "indispensable team player",
+            "Quality Analysts",
+            "Team Leads"
+        ],
+        "company": [
+            "CBSE",
+            "B.R.D.A.V Public School"
+        ],
+        "university": [
+            "Bhara thidasan University",
+            "The Indian Institute Of Financial Planning",
+            "Delhi University",
+            "Ramanujan College",
+            "Tech Mahindra"
+        ],
+        "degree": [
+            "M.B.A.",
+            "B.com"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+919310337028",
+            "2009 -12"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "analytical": 0.4667,
+            "technical capabilities": 0.1627,
+            "Academic  Credentials": 0.281,
+            "quality standard": 0.5903,
+            "business intelligence  reporting tools": 0.4818,
+            "dashboards": 0.4817,
+            "charting": 0.3509,
+            "graphing": 0.3019,
+            "scorecards": 0.5174,
+            "interpersonal": 0.5586,
+            "communication": 0.4297,
+            "technical": 0.325,
+            "problem solving skills": 0.1948
+        },
+        "filename": "cv (3910)_annotated.json"
+    }
+}

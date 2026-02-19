@@ -1,0 +1,126 @@
+{
+    "skills": [
+        "Web Application",
+        "Windows",
+        "MS SQL Server",
+        "MySql",
+        "RDBMS",
+        "Technical Skills",
+        "C#.Net",
+        "ASP.Net",
+        "Asp.Net MVC",
+        "Ado.Net",
+        "MS SQL",
+        "JavaScript",
+        "Jquery",
+        "Ajax",
+        "Json",
+        "HTML",
+        "CSS",
+        "Bootstrap Design",
+        "Win form",
+        "Web Services",
+        "WebAPI",
+        "WCF",
+        "WPF",
+        "Enityframework",
+        "LINQ",
+        "framework",
+        "Computer Proficiency",
+        "Microsoft Excel",
+        "MS Word",
+        "PowerPoint",
+        "Projects",
+        "Web page development",
+        "Schookee Management System",
+        "Automated Drop box System",
+        "Assets Tracking System",
+        "English",
+        "Fluent in speaking and writing",
+        "Hindi",
+        "Urdu",
+        "Fluent in speaking",
+        "Unmarried"
+    ],
+    "professional_info": {
+        "person name": [
+            "MD AJAZ KHAN"
+        ],
+        "job title": [
+            "Software developer",
+            "La  n      g  u      a      ges"
+        ],
+        "company": [
+            "Virgosys Software Private Limited"
+        ],
+        "university": [
+            "Sambhram  Institute  Of  Technology",
+            "NIIT"
+        ],
+        "degree": [
+            "MCA",
+            "Bsc-IT"
+        ],
+        "years of experience": [
+            "+2 Years of Professional Experience"
+        ],
+        "address": [
+            "L3004828",
+            "Contact No."
+        ],
+        "email": [
+            "+91 7848003405",
+            "outlook.com"
+        ],
+        "phone": [
+            "Email address"
+        ]
+    },
+    "metadata": {
+        "total_skills": 41,
+        "confidence_scores": {
+            "Web Application": 0.1905,
+            "Windows": 0.6266,
+            "MS SQL Server": 0.9138,
+            "MySql": 0.9005,
+            "RDBMS": 0.1622,
+            "Technical Skills": 0.2036,
+            "C#.Net": 0.5512,
+            "ASP.Net": 0.2551,
+            "Asp.Net MVC": 0.381,
+            "Ado.Net": 0.4705,
+            "MS SQL": 0.5993,
+            "JavaScript": 0.6789,
+            "Jquery": 0.5876,
+            "Ajax": 0.5352,
+            "Json": 0.493,
+            "HTML": 0.5734,
+            "CSS": 0.1924,
+            "Bootstrap Design": 0.3023,
+            "Win form": 0.3637,
+            "Web Services": 0.7695,
+            "WebAPI": 0.6819,
+            "WCF": 0.6257,
+            "WPF": 0.6484,
+            "Enityframework": 0.465,
+            "LINQ": 0.3292,
+            "framework": 0.1503,
+            "Computer Proficiency": 0.1993,
+            "Microsoft Excel": 0.3192,
+            "MS Word": 0.4117,
+            "PowerPoint": 0.3081,
+            "Projects": 0.2453,
+            "Web page development": 0.205,
+            "Schookee Management System": 0.2362,
+            "Automated Drop box System": 0.1781,
+            "Assets Tracking System": 0.1883,
+            "English": 0.5189,
+            "Fluent in speaking and writing": 0.2227,
+            "Hindi": 0.6574,
+            "Urdu": 0.6211,
+            "Fluent in speaking": 0.2151,
+            "Unmarried": 0.2739
+        },
+        "filename": "cv (2212)_annotated.json"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "academic and creative abilities",
+        "Finance field",
+        "Finance",
+        "HR",
+        "Computer",
+        "Application",
+        "Campus Placement",
+        "Change Management",
+        "STRENGTHS",
+        "Comp uter Literate",
+        "Interpersonal",
+        "Good Communication skills",
+        "Self motivated",
+        "s elf driven",
+        "eager to learn",
+        "passionate to succeed"
+    ],
+    "professional_info": {
+        "person name": [
+            "ARCHITH NATHAN A",
+            "archith56",
+            "Prof. Sri.Kandiah",
+            "Mr. Pazhore Gopi",
+            "Mrs."
+        ],
+        "job title": [
+            "Tax Analyst",
+            "Trainee"
+        ],
+        "company": [
+            "GRD Institute of",
+            "EY",
+            "Ernst & Young",
+            "COOPERATION (I .M)  KERALA LIMITED LTD",
+            "RAMCO Systems Ltd."
+        ],
+        "university": [
+            "Bharathiar University",
+            "University  Nirmala  College of",
+            "CBSE  Bharathiya Vidya",
+            "Bhavan Vidya Mandir",
+            "Southampton University"
+        ],
+        "degree": [
+            "M.B.A",
+            "B.COM",
+            "Technology  B.com"
+        ],
+        "years of experience": [
+            "2016",
+            "2013",
+            "25"
+        ],
+        "address": [],
+        "email": [
+            "E-Mail ID",
+            "gmail.com"
+        ],
+        "phone": [
+            "Mobile No",
+            "+91-8086494539"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "academic and creative abilities": 0.1567,
+            "Finance field": 0.2992,
+            "Finance": 0.3931,
+            "HR": 0.2173,
+            "Computer": 0.3964,
+            "Application": 0.3214,
+            "Campus Placement": 0.257,
+            "Change Management": 0.2271,
+            "STRENGTHS": 0.2512,
+            "Comp uter Literate": 0.3685,
+            "Interpersonal": 0.3488,
+            "Good Communication skills": 0.3045,
+            "Self motivated": 0.3741,
+            "s elf driven": 0.1895,
+            "eager to learn": 0.3022,
+            "passionate to succeed": 0.3193
+        },
+        "filename": "cv (1432)_annotated.json"
+    }
+}

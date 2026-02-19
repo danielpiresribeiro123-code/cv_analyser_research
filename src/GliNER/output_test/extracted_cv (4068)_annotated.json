@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "Intermediate U.P. Board 201268.2",
+        "Automatic solar tracking system",
+        "LDR",
+        "Computer Proficiency",
+        "Basic computer knowledge",
+        "MS Office",
+        "Certificates",
+        "Matlab",
+        "Strength",
+        "Team player",
+        "quick learner",
+        "Excellent interpersonal skills",
+        "Workaholic",
+        "English",
+        "Hindi",
+        "Single"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHAHID AHAMAD",
+            "Nasir Ahamad",
+            "Bilkish Khatun",
+            "Indian"
+        ],
+        "job title": [
+            "entry level electrical engineering position"
+        ],
+        "company": [
+            "High School U.P. Board"
+        ],
+        "university": [
+            "R.R. Institute of Modern, Technology"
+        ],
+        "degree": [
+            "B.Tech (Electrical, Engineering)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Ward No10 Azad Road Salempur",
+            "Internet",
+            "Net surfing"
+        ],
+        "email": [
+            "Shahid.jan18@gmail.com"
+        ],
+        "phone": [
+            "+919415223696",
+            "+918707361721"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Intermediate U.P. Board 201268.2": 0.2632,
+            "Automatic solar tracking system": 0.1907,
+            "LDR": 0.157,
+            "Computer Proficiency": 0.5002,
+            "Basic computer knowledge": 0.5041,
+            "MS Office": 0.8089,
+            "Certificates": 0.4081,
+            "Matlab": 0.2682,
+            "Strength": 0.2016,
+            "Team player": 0.2218,
+            "quick learner": 0.1556,
+            "Excellent interpersonal skills": 0.6052,
+            "Workaholic": 0.4125,
+            "English": 0.1946,
+            "Hindi": 0.2997,
+            "Single": 0.3401
+        },
+        "filename": "cv (4068)_annotated.json"
+    }
+}

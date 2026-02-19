@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "technology",
+        "financial",
+        "consumer",
+        "Global marketing",
+        "Quality leadership",
+        "Multi Task Abilities",
+        "Proven Sales Success",
+        "Deadline-driven",
+        "Microsoft Office Suite",
+        "SmartScript",
+        "SmarteLoad"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "PUBLIC RELATIONS CONSULTANT",
+            "Experienced",
+            "sales and marketing professional",
+            "Account management",
+            "Public relations expert",
+            "Start-up background",
+            "expert",
+            "Experience",
+            "Inside Sales Representative",
+            "Direct Sales Representative",
+            "Account Manager"
+        ],
+        "company": [
+            "Company Name",
+            "AccordSQA",
+            "GatherWorks",
+            "AccuRev",
+            "Bowstreet"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "technology": 0.4169,
+            "financial": 0.2112,
+            "consumer": 0.1805,
+            "Global marketing": 0.361,
+            "Quality leadership": 0.5227,
+            "Multi Task Abilities": 0.4012,
+            "Proven Sales Success": 0.4024,
+            "Deadline-driven": 0.3435,
+            "Microsoft Office Suite": 0.8633,
+            "SmartScript": 0.3948,
+            "SmarteLoad": 0.3696
+        },
+        "filename": "cv (4336)_annotated.json"
+    }
+}

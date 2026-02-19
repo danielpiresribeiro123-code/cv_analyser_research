@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "Machine Learning",
+        "English",
+        "Machine Learning",
+        "PERSONAL",
+        "SKILLS",
+        "Python",
+        "SQL",
+        "Natural",
+        "Language Processing",
+        "Java",
+        "HTML",
+        "API Design",
+        "Data Analysis",
+        "Matplotlib",
+        "Seaborn",
+        "Tableau",
+        "Keras",
+        "R",
+        "Deep Learning",
+        "NLP",
+        "RNNs"
+    ],
+    "professional_info": {
+        "person name": [
+            "NAOMI JACKSON"
+        ],
+        "job title": [
+            "JUNIOR SDE-MACHINE LEARNING",
+            "Junior SDE",
+            "developer",
+            "engineer",
+            "Software Developer"
+        ],
+        "company": [
+            "HCL",
+            "SAP"
+        ],
+        "university": [
+            "STC College"
+        ],
+        "degree": [
+            "BCA"
+        ],
+        "years of experience": [],
+        "address": [
+            "Pondicherry"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Machine Learning": 0.581,
+            "English": 0.5042,
+            "PERSONAL": 0.4374,
+            "SKILLS": 0.1825,
+            "Python": 0.9901,
+            "SQL": 0.1886,
+            "Natural": 0.4973,
+            "Language Processing": 0.4906,
+            "Java": 0.9779,
+            "HTML": 0.3223,
+            "API Design": 0.2889,
+            "Data Analysis": 0.2794,
+            "Matplotlib": 0.3118,
+            "Seaborn": 0.156,
+            "Tableau": 0.2018,
+            "Keras": 0.3224,
+            "R": 0.9304,
+            "Deep Learning": 0.5085,
+            "NLP": 0.3563,
+            "RNNs": 0.4572
+        },
+        "filename": "cv (4870)_annotated.json"
+    }
+}

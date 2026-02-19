@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "skills",
+        "leadership positions",
+        "excellent communication skills",
+        "task oriented work",
+        "Microsoft Office",
+        "Excel",
+        "PowerPoint",
+        "proficient",
+        "Strong verbal communication",
+        "Quick learner",
+        "Issue resolution",
+        "Attention to detail",
+        "Energetic and organized",
+        "MLA formatting",
+        "Fact checking",
+        "Self-motivated",
+        "experience",
+        "eloquent writing abilities",
+        "Product inspection",
+        "Inventory control",
+        "inventory oversight"
+    ],
+    "professional_info": {
+        "person name": [
+            "I",
+            "film student"
+        ],
+        "job title": [
+            "skilled student",
+            "Independent worker",
+            "Production and marketing intern",
+            "website designer"
+        ],
+        "company": [
+            "small business",
+            "Company Name",
+            "company"
+        ],
+        "university": [
+            "Chapman"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "contact information"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "skills": 0.1615,
+            "leadership positions": 0.4019,
+            "excellent communication skills": 0.2216,
+            "task oriented work": 0.1627,
+            "Microsoft Office": 0.7773,
+            "Excel": 0.5175,
+            "PowerPoint": 0.557,
+            "proficient": 0.2379,
+            "Strong verbal communication": 0.3281,
+            "Quick learner": 0.3152,
+            "Issue resolution": 0.188,
+            "Attention to detail": 0.3969,
+            "Energetic and organized": 0.3453,
+            "MLA formatting": 0.1673,
+            "Fact checking": 0.3426,
+            "Self-motivated": 0.2268,
+            "experience": 0.1666,
+            "eloquent writing abilities": 0.2676,
+            "Product inspection": 0.2357,
+            "Inventory control": 0.3762,
+            "inventory oversight": 0.2016
+        },
+        "filename": "cv (4653)_annotated.json"
+    }
+}

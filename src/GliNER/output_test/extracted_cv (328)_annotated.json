@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "HVAC maintenance & Facility Management",
+        "depth knowledge",
+        "Heating Ventilation and Air-conditioning",
+        "proven  skills",
+        "Man  &  Machine Management",
+        "HVAC System",
+        "AHU’s",
+        "FCU’s",
+        "Cooling Tower",
+        "standard",
+        "HVAC",
+        "Window AC",
+        "Split AC",
+        "Package AC",
+        "TECHNICAL KNOWLEDGE & SKILLS",
+        "AHU",
+        "FCU",
+        "Precision AC",
+        "Motor’s",
+        "motor starter",
+        "Condenser Pump",
+        "Chiller Secondary Pump"
+    ],
+    "professional_info": {
+        "person name": [
+            "Manoj Kumar keshari",
+            "manoj3476",
+            "I"
+        ],
+        "job title": [
+            "HVAC Maintenance Engineer"
+        ],
+        "company": [
+            "AMC vendor",
+            "York",
+            "Trane"
+        ],
+        "university": [],
+        "degree": [
+            "diploma",
+            "Mechanical Engineer"
+        ],
+        "years of experience": [
+            "16 years"
+        ],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "gmail.com"
+        ],
+        "phone": [
+            "Contact",
+            "+91- 9810575433",
+            "Skype"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "HVAC maintenance & Facility Management": 0.1843,
+            "depth knowledge": 0.2849,
+            "Heating Ventilation and Air-conditioning": 0.4015,
+            "proven  skills": 0.1839,
+            "Man  &  Machine Management": 0.1877,
+            "HVAC System": 0.1583,
+            "AHU’s": 0.1843,
+            "FCU’s": 0.2092,
+            "Cooling Tower": 0.2505,
+            "standard": 0.6085,
+            "HVAC": 0.1592,
+            "Window AC": 0.2897,
+            "Split AC": 0.2194,
+            "Package AC": 0.2203,
+            "TECHNICAL KNOWLEDGE & SKILLS": 0.4185,
+            "AHU": 0.1807,
+            "FCU": 0.2014,
+            "Precision AC": 0.1934,
+            "Motor’s": 0.1984,
+            "motor starter": 0.263,
+            "Condenser Pump": 0.1636,
+            "Chiller Secondary Pump": 0.1954
+        },
+        "filename": "cv (328)_annotated.json"
+    }
+}

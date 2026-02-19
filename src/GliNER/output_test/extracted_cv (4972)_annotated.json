@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "AI/ML",
+        "Learning algorithms",
+        "PROFICIENT SKILLS",
+        "Machine Learning",
+        "Deep Learning",
+        "Algorithm",
+        "Image Processing",
+        "Computer",
+        "Vision",
+        "AWS",
+        "SAGEMAKER",
+        "Flask API",
+        "Data Visualization",
+        "Natural Language",
+        "Processing",
+        "Python",
+        "C++",
+        "Ruby",
+        "Mini Cloud Storage",
+        "processors"
+    ],
+    "professional_info": {
+        "person name": [
+            "HAYLEE ROGERS"
+        ],
+        "job title": [
+            "SOFTWARE DEVELOPER"
+        ],
+        "company": [
+            "P R O J E C T S"
+        ],
+        "university": [
+            "Nagpur University"
+        ],
+        "degree": [
+            "B.Tech/B.E."
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "AI/ML": 0.1844,
+            "Learning algorithms": 0.1601,
+            "PROFICIENT SKILLS": 0.2491,
+            "Machine Learning": 0.5741,
+            "Deep Learning": 0.7208,
+            "Algorithm": 0.8637,
+            "Image Processing": 0.3846,
+            "Computer": 0.2969,
+            "Vision": 0.3184,
+            "AWS": 0.9471,
+            "SAGEMAKER": 0.2579,
+            "Flask API": 0.4775,
+            "Data Visualization": 0.3244,
+            "Natural Language": 0.2643,
+            "Processing": 0.2772,
+            "Python": 0.8448,
+            "C++": 0.5281,
+            "Ruby": 0.7245,
+            "Mini Cloud Storage": 0.1983,
+            "processors": 0.2013
+        },
+        "filename": "cv (4972)_annotated.json"
+    }
+}

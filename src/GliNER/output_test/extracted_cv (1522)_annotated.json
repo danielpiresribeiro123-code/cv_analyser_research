@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "P. G. Diploma in Computer Applications",
+        "SSLC",
+        "Excellent explanation skills",
+        "Good communication skills",
+        "Computer savvy",
+        "Can control huge strength class",
+        "Proficiency prize holder",
+        "Best Outgoing Student",
+        "Gardening",
+        "Writing poetries",
+        "Female",
+        "Tamil",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "N. MONISHA MEENALOCHANI",
+            "S. Narendhra Kumar",
+            "B. N. Amudha Valli"
+        ],
+        "job title": [
+            "General Secretary"
+        ],
+        "company": [],
+        "university": [
+            "A. M. Jain College",
+            "Madras University",
+            "Pondicherry University",
+            "Guru Nanak College",
+            "State board"
+        ],
+        "degree": [
+            "MPhil Mathematics",
+            "M.Sc Mathematics",
+            "BSc Mathematics",
+            "HSC"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "gmail.com"
+        ],
+        "phone": [
+            "+91-9791126510"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "P. G. Diploma in Computer Applications": 0.7168,
+            "SSLC": 0.7642,
+            "Excellent explanation skills": 0.5805,
+            "Good communication skills": 0.4281,
+            "Computer savvy": 0.6248,
+            "Can control huge strength class": 0.1693,
+            "Proficiency prize holder": 0.2248,
+            "Best Outgoing Student": 0.2524,
+            "Gardening": 0.1963,
+            "Writing poetries": 0.1546,
+            "Female": 0.2388,
+            "Tamil": 0.7917,
+            "English": 0.699
+        },
+        "filename": "cv (1522)_annotated.json"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "Mechanical engineering",
+        "Diploma",
+        "Key Skills",
+        "Technical ideas/methods",
+        "Capable of problem solving",
+        "Quick learning",
+        "Great communication skills",
+        "MS Dos",
+        "Office excel",
+        "net"
+    ],
+    "professional_info": {
+        "person name": [
+            "MANGARAJ BEHARI Chanduli"
+        ],
+        "job title": [
+            "plumbing technician"
+        ],
+        "company": [
+            "Diploma",
+            "Sobha Developers Limited",
+            "Engineering Maintenance Company",
+            "EMCO-ETA ASCON GROUP",
+            "DAFZA",
+            "Sobha Amethyst project  Bangalore",
+            "Sobha Amethyst",
+            "EMCO –ETA ASCON GROUP",
+            "Dubai Free zone Authority"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "3+ yrs",
+            "02. years"
+        ],
+        "address": [
+            "42 Mouza Cuttack",
+            "Mobile"
+        ],
+        "email": [
+            "E-Mail",
+            "mangarajbehari@rediffmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Mechanical engineering": 0.2919,
+            "Diploma": 0.425,
+            "Key Skills": 0.3168,
+            "Technical ideas/methods": 0.3524,
+            "Capable of problem solving": 0.2669,
+            "Quick learning": 0.1944,
+            "Great communication skills": 0.2297,
+            "MS Dos": 0.5112,
+            "Office excel": 0.6059,
+            "net": 0.1695
+        },
+        "filename": "cv (2141)_annotated.json"
+    }
+}

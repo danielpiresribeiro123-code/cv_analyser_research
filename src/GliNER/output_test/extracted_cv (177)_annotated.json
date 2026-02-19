@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "Proficient",
+        "forecasting models",
+        "CORE COMPETENCIES",
+        "Budget & Statistical analysis expert",
+        "ERP",
+        "Financial Planning and Strategy",
+        "Expertise",
+        "SAP FICO",
+        "BW",
+        "Oracle",
+        "Cognos",
+        "Cost Accounting",
+        "Microsoft Suite",
+        "Word",
+        "Excel",
+        "PPT",
+        "Budgeting",
+        "MIS",
+        "Variance Analysis",
+        "computing",
+        "Financial modelling",
+        "Annual Financial Budget",
+        "P&L",
+        "ledger scrutiny",
+        "Cash flow planning & working capital",
+        "Stock cover analysis",
+        "Fixed Asset Database management"
+    ],
+    "professional_info": {
+        "person name": [
+            "DANISH SHAIKH"
+        ],
+        "job title": [
+            "Corporate Finan ce Manager",
+            "Business Controller"
+        ],
+        "company": [
+            "Fortune 500 organizations"
+        ],
+        "university": [],
+        "degree": [
+            "M.B.A",
+            "SOCPA",
+            "B.COM"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "Proficient": 0.2233,
+            "forecasting models": 0.1582,
+            "CORE COMPETENCIES": 0.2282,
+            "Budget & Statistical analysis expert": 0.205,
+            "ERP": 0.239,
+            "Financial Planning and Strategy": 0.2238,
+            "Expertise": 0.2433,
+            "SAP FICO": 0.367,
+            "BW": 0.301,
+            "Oracle": 0.2215,
+            "Cognos": 0.2705,
+            "Cost Accounting": 0.2024,
+            "Microsoft Suite": 0.7854,
+            "Word": 0.4528,
+            "Excel": 0.3434,
+            "PPT": 0.3889,
+            "Budgeting": 0.2548,
+            "MIS": 0.2714,
+            "Variance Analysis": 0.2669,
+            "computing": 0.1863,
+            "Financial modelling": 0.2409,
+            "Annual Financial Budget": 0.1729,
+            "P&L": 0.1646,
+            "ledger scrutiny": 0.1523,
+            "Cash flow planning & working capital": 0.2097,
+            "Stock cover analysis": 0.2738,
+            "Fixed Asset Database management": 0.2876
+        },
+        "filename": "cv (177)_annotated.json"
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "skills": [
+        "Electrical Design",
+        "AutoCAD",
+        "MS Excel",
+        "Word",
+        "Power Point",
+        "Site Management",
+        "Communication &",
+        "Presentation skills",
+        "Leadership",
+        "engineering",
+        "electrical &",
+        "Electrical Site",
+        "Execution",
+        "Electrical",
+        "Designing",
+        "experience expertise",
+        "Self-",
+        "motivated",
+        "Hard-working",
+        "dedicated",
+        "team player",
+        "analytical",
+        "communication",
+        "key player",
+        "creative environment",
+        "MV/LV"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHEHBAAZ PATNI",
+            "engrshehbaaz"
+        ],
+        "job title": [
+            "ELECTRICAL",
+            "ENGINEER",
+            "Electrical Engineer",
+            "M S Electrical Contractor",
+            "Electrical Site Engineer"
+        ],
+        "company": [
+            "Engineering",
+            "Instrumentation",
+            "Higher Secondary",
+            "Prestige Groups",
+            "Prestige Royal Woods – Villas Construction",
+            "Prestige Royal Woods"
+        ],
+        "university": [
+            "Osmania University"
+        ],
+        "degree": [
+            "Bachelor of"
+        ],
+        "years of experience": [
+            "3 years of work experience"
+        ],
+        "address": [
+            "Hyderabad"
+        ],
+        "email": [
+            "gmail"
+        ],
+        "phone": [
+            "+91-9160498242"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Electrical Design": 0.5905,
+            "AutoCAD": 0.2059,
+            "MS Excel": 0.6206,
+            "Word": 0.4791,
+            "Power Point": 0.5922,
+            "Site Management": 0.451,
+            "Communication &": 0.1505,
+            "Presentation skills": 0.2523,
+            "Leadership": 0.3483,
+            "engineering": 0.1704,
+            "electrical &": 0.171,
+            "Electrical Site": 0.4176,
+            "Execution": 0.2274,
+            "Electrical": 0.3155,
+            "Designing": 0.1784,
+            "experience expertise": 0.2326,
+            "Self-": 0.1909,
+            "motivated": 0.3884,
+            "Hard-working": 0.468,
+            "dedicated": 0.5296,
+            "team player": 0.3182,
+            "analytical": 0.1528,
+            "communication": 0.2731,
+            "key player": 0.3252,
+            "creative environment": 0.3858,
+            "MV/LV": 0.1635
+        },
+        "filename": "cv (1890)_annotated.json"
+    }
+}

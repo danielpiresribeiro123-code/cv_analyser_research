@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "machine learning",
+        "deep learning",
+        "Strong engineering professional",
+        "Big data",
+        "analytics",
+        "PERSONAL",
+        "SKILLS",
+        "Python",
+        "NLP",
+        "Computer vision",
+        "Image processing",
+        "SQL",
+        "Data",
+        "analysis",
+        "Spark",
+        "Apache",
+        "hive",
+        "Apache pig",
+        "Tensorflow",
+        "Sklearn",
+        "science",
+        "Cotton leaf",
+        "EXTRA-CURRICULARS",
+        "Natural language processing",
+        "Pyspark"
+    ],
+    "professional_info": {
+        "person name": [
+            "JADEN WILLOW"
+        ],
+        "job title": [
+            "Intern Trainee",
+            "EXECUTIVE"
+        ],
+        "company": [],
+        "university": [
+            "B.Tech Darjeeling Engineering College",
+            "Calcutta university"
+        ],
+        "degree": [
+            "M.Tech",
+            "Master's degree"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "machine learning": 0.5392,
+            "deep learning": 0.6143,
+            "Strong engineering professional": 0.3997,
+            "Big data": 0.473,
+            "analytics": 0.2441,
+            "PERSONAL": 0.3162,
+            "SKILLS": 0.1537,
+            "Python": 0.989,
+            "NLP": 0.3237,
+            "Computer vision": 0.3839,
+            "Image processing": 0.2021,
+            "SQL": 0.2749,
+            "Data": 0.2357,
+            "analysis": 0.1981,
+            "Spark": 0.4185,
+            "Apache": 0.241,
+            "hive": 0.441,
+            "Apache pig": 0.2827,
+            "Tensorflow": 0.3685,
+            "Sklearn": 0.4937,
+            "science": 0.1564,
+            "Cotton leaf": 0.2319,
+            "EXTRA-CURRICULARS": 0.1577,
+            "Natural language processing": 0.1831,
+            "Pyspark": 0.5087
+        },
+        "filename": "cv (4827)_annotated.json"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "Techniques in Foot & Ankle Surgery",
+        "BOARD CERTIFICATION",
+        "Board Certified",
+        "American Board of Orthopedic Surgery",
+        "F.R.C.S Ed",
+        "F.R.C.S Eng",
+        "A.B.O.S",
+        "American Board of Orthopaedic  Surgery",
+        "Orthopaedic  Surgery",
+        "Department of Orthopaedic Surgery"
+    ],
+    "professional_info": {
+        "person name": [
+            "Prof.  Vinod Kumar PANCHBHAVI",
+            "Tilman  J. and Paige Fertitta",
+            "Panchbhavi  VK",
+            "Trevino SG",
+            "Panchbhavi"
+        ],
+        "job title": [
+            "PROFESSOR",
+            "Chief of Division           Foot & Ankle Surgery",
+            "Editor – in – Chief",
+            "Program Director",
+            "Course instructor ID# 277577",
+            "Professorship",
+            "Associate  Professor",
+            "Assistant  Professor"
+        ],
+        "company": [],
+        "university": [
+            "University of Texas Medical Branch",
+            "UTMB",
+            "Osmania University",
+            "Royal College of Surgeons"
+        ],
+        "degree": [
+            "M.B., B.S",
+            "M.S (Ortho)"
+        ],
+        "years of experience": [],
+        "address": [
+            "301 University BLVD"
+        ],
+        "email": [],
+        "phone": [
+            "Fax"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Techniques in Foot & Ankle Surgery": 0.2768,
+            "BOARD CERTIFICATION": 0.7572,
+            "Board Certified": 0.3441,
+            "American Board of Orthopedic Surgery": 0.7421,
+            "F.R.C.S Ed": 0.2561,
+            "F.R.C.S Eng": 0.2899,
+            "A.B.O.S": 0.439,
+            "American Board of Orthopaedic  Surgery": 0.7027,
+            "Orthopaedic  Surgery": 0.2555,
+            "Department of Orthopaedic Surgery": 0.2275
+        },
+        "filename": "cv (1025)_annotated.json"
+    }
+}

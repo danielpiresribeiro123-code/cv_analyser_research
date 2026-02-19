@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Lean 6 Sigma Certified",
+        "key aircraft systems and quality assurance processes",
+        "trouble shooting",
+        "Management of large maintenance crews",
+        "Troubleshooting",
+        "Proficiency with mechanical and pneumatic tools",
+        "Supply chain management",
+        "Mechanical aptitude",
+        "Military leadership experience",
+        "Job status reports",
+        "Knowledgeable of applicable local codes",
+        "Accomplishments",
+        "Fuel systems",
+        "Hydraulic systems",
+        "Experience"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "AVIATION MECHANIC",
+            "Licensed FAA rated Airframe and Powerplant (A&P) Technician",
+            "aviation professional",
+            "N Assistant Phase Coordinator",
+            "FAA Licensed Airframe & Powerplant Mechanic",
+            "Chief Mechanic"
+        ],
+        "company": [
+            "Yellow Belt",
+            "Company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Five years of experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Lean 6 Sigma Certified": 0.6986,
+            "key aircraft systems and quality assurance processes": 0.1803,
+            "trouble shooting": 0.1928,
+            "Management of large maintenance crews": 0.2148,
+            "Troubleshooting": 0.4252,
+            "Proficiency with mechanical and pneumatic tools": 0.5482,
+            "Supply chain management": 0.6124,
+            "Mechanical aptitude": 0.7565,
+            "Military leadership experience": 0.6234,
+            "Job status reports": 0.1504,
+            "Knowledgeable of applicable local codes": 0.2484,
+            "Accomplishments": 0.1854,
+            "Fuel systems": 0.1695,
+            "Hydraulic systems": 0.3219,
+            "Experience": 0.1655
+        },
+        "filename": "cv (4771)_annotated.json"
+    }
+}

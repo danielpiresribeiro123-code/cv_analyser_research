@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "Intermediate(PCM)",
+        "Area of Interest",
+        "CCNA NETWORKING",
+        "IP ROUTING AND SWITCH NETWORKING",
+        "IT-COMMN",
+        "Software Proficiency",
+        "Office suite",
+        "MS-Office",
+        "Basic knowledge",
+        "c  language",
+        "language",
+        "Basic knowledge of computer system",
+        "MICROCONTROLER",
+        "SMART STREET LIGHT",
+        "Personal skills",
+        "Creative and logical",
+        "Self discipline",
+        "high motivation",
+        "Fast learner and team player",
+        "Optimistic"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAHUL BHADOURIA",
+            "Mr. R S BHADOURIA",
+            "Smt. REKHA BHADOURIA",
+            "Male"
+        ],
+        "job title": [
+            "responsible Electronic and Communication, Engineer",
+            "Homemaker"
+        ],
+        "company": [
+            "CBSE",
+            "Infosys"
+        ],
+        "university": [
+            "INDERPRASTHA ENGINEERING COLLEGE",
+            "Uttar Pradesh Technical University",
+            "UPTU",
+            "BHEL",
+            "NTPC"
+        ],
+        "degree": [
+            "B. Tech",
+            "ELECTRONICS AND COMMUNICATION ENGINEERING",
+            "Bachelor of Technology",
+            "B.Tech.",
+            "B.Tech"
+        ],
+        "years of experience": [],
+        "address": [
+            "C/O RS Bhadouria",
+            "37a/21s/2a  Madhu nagar",
+            "Pin 282001Objective"
+        ],
+        "email": [
+            "Email",
+            "rbhadouria07@gmail.com"
+        ],
+        "phone": [
+            "Contact No",
+            "+91-8750142682"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Intermediate(PCM)": 0.2464,
+            "Area of Interest": 0.225,
+            "CCNA NETWORKING": 0.6908,
+            "IP ROUTING AND SWITCH NETWORKING": 0.5495,
+            "IT-COMMN": 0.3007,
+            "Software Proficiency": 0.2334,
+            "Office suite": 0.2473,
+            "MS-Office": 0.8948,
+            "Basic knowledge": 0.2175,
+            "c  language": 0.2858,
+            "language": 0.304,
+            "Basic knowledge of computer system": 0.245,
+            "MICROCONTROLER": 0.3623,
+            "SMART STREET LIGHT": 0.3564,
+            "Personal skills": 0.236,
+            "Creative and logical": 0.3272,
+            "Self discipline": 0.2892,
+            "high motivation": 0.2555,
+            "Fast learner and team player": 0.4203,
+            "Optimistic": 0.3353
+        },
+        "filename": "cv (2180)_annotated.json"
+    }
+}

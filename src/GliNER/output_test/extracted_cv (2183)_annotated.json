@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "creativity",
+        "Marketing  &",
+        "Finance",
+        "Intermediate",
+        "COMPUTER AWARENESS",
+        "Electronics Commerce",
+        "Computer Diploma",
+        "Data Base Management System",
+        "PERSONAL ASSETS",
+        "Maintain & Build Strong relationship",
+        "Good Communication Skills",
+        "Problem Solving & Counseling",
+        "Positive thinking",
+        "Always active and full of energy",
+        "Hindi",
+        "English",
+        "Urdu",
+        "Unmarried"
+    ],
+    "professional_info": {
+        "person name": [
+            "ABDUL QADIR",
+            "Mohd. Iliyas"
+        ],
+        "job title": [
+            "OFFICE ASSISTANT"
+        ],
+        "company": [
+            "KAMUNA  CREDIT  CO-OPERATIVE, SOCIETY LTD.",
+            "Parle-G Industrial",
+            "IGL Pvt. Ltd."
+        ],
+        "university": [
+            "KIPM College of Management",
+            "St. Andrew’s Degree College",
+            "U.P. Board"
+        ],
+        "degree": [
+            "MBA",
+            "B.Com"
+        ],
+        "years of experience": [
+            "06th July 1992",
+            "EXPERIENCE",
+            "One  Year  working  experience"
+        ],
+        "address": [
+            "H.No. 391 Zahidabad",
+            "Near Garden House"
+        ],
+        "email": [
+            "Email",
+            "abdulqadir639@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "creativity": 0.3572,
+            "Marketing  &": 0.2949,
+            "Finance": 0.4504,
+            "Intermediate": 0.2405,
+            "COMPUTER AWARENESS": 0.255,
+            "Electronics Commerce": 0.4729,
+            "Computer Diploma": 0.1739,
+            "Data Base Management System": 0.4574,
+            "PERSONAL ASSETS": 0.4437,
+            "Maintain & Build Strong relationship": 0.2846,
+            "Good Communication Skills": 0.2562,
+            "Problem Solving & Counseling": 0.1849,
+            "Positive thinking": 0.3522,
+            "Always active and full of energy": 0.2348,
+            "Hindi": 0.8521,
+            "English": 0.8101,
+            "Urdu": 0.77,
+            "Unmarried": 0.3911
+        },
+        "filename": "cv (2183)_annotated.json"
+    }
+}

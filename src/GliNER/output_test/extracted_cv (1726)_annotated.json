@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "resourceful",
+        "innovative",
+        "flexible",
+        "COMPUTER KNOWLEDGE & SKILLS",
+        "Auto Cad",
+        "Enterprise Resource Planning",
+        "Excel",
+        "Power point presentation",
+        "Single",
+        "English",
+        "Hindi",
+        "Marathi"
+    ],
+    "professional_info": {
+        "person name": [
+            "Rohan Sakharam Shigwan"
+        ],
+        "job title": [
+            "Trainee Engineer",
+            "Sr. Executive Engineer–Execution",
+            "SITE ENGINEER"
+        ],
+        "company": [
+            "Datta Meghe C.O.E.",
+            "H.S.C.",
+            "Maharashtra Board",
+            "Eden Garden College",
+            "S.S.C.",
+            "Lokmanya Vidya Mandir School",
+            "Marathon Realty",
+            "Marathon M-blem",
+            "Marathon Realty Pvt. Ltd.",
+            "In-house",
+            "R.C.C.",
+            "Neo iturka Constructions",
+            "JW Consultancy"
+        ],
+        "university": [
+            "Mumbai University"
+        ],
+        "degree": [
+            "B.E. Civil"
+        ],
+        "years of experience": [
+            "TOTAL WORK EXPERIENCE",
+            "3 Years"
+        ],
+        "address": [
+            "Room No. 3"
+        ],
+        "email": [
+            "E-mail",
+            "rohanshigwan29@gmail.com",
+            "+8425018292"
+        ],
+        "phone": [
+            "Contact No"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "resourceful": 0.2448,
+            "innovative": 0.1896,
+            "flexible": 0.1874,
+            "COMPUTER KNOWLEDGE & SKILLS": 0.3238,
+            "Auto Cad": 0.6391,
+            "Enterprise Resource Planning": 0.4787,
+            "Excel": 0.3821,
+            "Power point presentation": 0.3379,
+            "Single": 0.1826,
+            "English": 0.5971,
+            "Hindi": 0.6514,
+            "Marathi": 0.729
+        },
+        "filename": "cv (1726)_annotated.json"
+    }
+}

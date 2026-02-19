@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "Construction of  Residential & Commercial  buildings  Industry",
+        "Q A / Q C",
+        "plumbing & Fire Fighting",
+        "basic knowledge",
+        "HVAC",
+        "installation works",
+        "MARAFIQ (Saudi Arabia) standards",
+        "Infrastructure Irrigation & Planting Grass",
+        "Sprinkler",
+        "FM200 system",
+        "RFI",
+        "Proficient",
+        "AutoCAD",
+        "Pro E & Ms office",
+        "Excel",
+        "Word",
+        "Power point",
+        "Ability to control quality of work",
+        "Ability to provide technical assistance and resolution",
+        "Excellent communication and interpersonal skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dineshkumar Emayarajan"
+        ],
+        "job title": [
+            "Curriculum Vitae",
+            "MEP Engineer Coordinator",
+            "Desired Position",
+            "QA/QC Mechanical Engineer ( MEP )",
+            "MEP Co-Ordinator"
+        ],
+        "company": [
+            "Azmeel Contracting co",
+            "Kingdom of Saudi Arabia (Al – Khobar )",
+            "Client"
+        ],
+        "university": [
+            "Dammam University",
+            "Kingdom of Saudi Arabia"
+        ],
+        "degree": [
+            "Bachelors  of  Mechanical  Engineering"
+        ],
+        "years of experience": [
+            "5.2  years",
+            "5 Years"
+        ],
+        "address": [],
+        "email": [
+            "dineshkumaremayarajan@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "(+91) 99529 28543",
+            "+966 99621 60089"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Construction of  Residential & Commercial  buildings  Industry": 0.183,
+            "Q A / Q C": 0.2204,
+            "plumbing & Fire Fighting": 0.6091,
+            "basic knowledge": 0.2749,
+            "HVAC": 0.5075,
+            "installation works": 0.2037,
+            "MARAFIQ (Saudi Arabia) standards": 0.4146,
+            "Infrastructure Irrigation & Planting Grass": 0.2933,
+            "Sprinkler": 0.1713,
+            "FM200 system": 0.2868,
+            "RFI": 0.1598,
+            "Proficient": 0.1597,
+            "AutoCAD": 0.6217,
+            "Pro E & Ms office": 0.5379,
+            "Excel": 0.6036,
+            "Word": 0.5483,
+            "Power point": 0.6912,
+            "Ability to control quality of work": 0.2442,
+            "Ability to provide technical assistance and resolution": 0.2757,
+            "Excellent communication and interpersonal skills": 0.4644
+        },
+        "filename": "cv (3044)_annotated.json"
+    }
+}

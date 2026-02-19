@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "analytical skills",
+        "SAP application",
+        "EDI",
+        "SAP system",
+        "GMB"
+    ],
+    "professional_info": {
+        "person name": [
+            "NAVEEN KUMAR"
+        ],
+        "job title": [
+            "Finance Analyst",
+            "Process Lead",
+            "Process Associate",
+            "Process Analyst"
+        ],
+        "company": [
+            "ITC Infotech Pvt Ltd",
+            "Accenture Services Pvt. Ltd",
+            "Accounts Payable Team",
+            "Capgemini India Pvt. Ltd",
+            "CoreLogic"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2nd Cross",
+            "7th Main Road",
+            "BSK 3rd stage",
+            "Guru raja Layout",
+            "Bangalore-560085"
+        ],
+        "email": [
+            "Contact No-97434-10707",
+            "E-mail",
+            "naveenrash007@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "analytical skills": 0.2637,
+            "SAP application": 0.5349,
+            "EDI": 0.3838,
+            "SAP system": 0.4196,
+            "GMB": 0.1882
+        },
+        "filename": "cv (3855)_annotated.json"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "Project management",
+        "Training / Development",
+        "Critical thinking",
+        "Team building",
+        "Process improvement",
+        "Microsoft Office Suite",
+        "expert",
+        "process improvements",
+        "financial administrative",
+        "contract negotiation",
+        "policy/program development",
+        "HR/financial/accounting",
+        "inventory control",
+        "cross training instructor certification program",
+        "Operation Management",
+        "tracking system",
+        "Financial Management",
+        "accounting",
+        "forecasting"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "OPERATION MANAGER",
+            "Operation Management",
+            "Army composite program manager"
+        ],
+        "company": [
+            "Current Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "20+ years",
+            "strong relations"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Project management": 0.2478,
+            "Training / Development": 0.1636,
+            "Critical thinking": 0.2046,
+            "Team building": 0.1772,
+            "Process improvement": 0.2878,
+            "Microsoft Office Suite": 0.8658,
+            "expert": 0.1539,
+            "process improvements": 0.2352,
+            "financial administrative": 0.1901,
+            "contract negotiation": 0.194,
+            "policy/program development": 0.3304,
+            "HR/financial/accounting": 0.1792,
+            "inventory control": 0.2747,
+            "cross training instructor certification program": 0.8259,
+            "Operation Management": 0.3485,
+            "tracking system": 0.2136,
+            "Financial Management": 0.297,
+            "accounting": 0.2185,
+            "forecasting": 0.183
+        },
+        "filename": "cv (4505)_annotated.json"
+    }
+}

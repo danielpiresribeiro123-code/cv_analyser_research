@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "Mathematics",
+        "technical skills",
+        "Mathem atics",
+        "Mathema tics",
+        "ICCAMEET",
+        "NCMCA"
+    ],
+    "professional_info": {
+        "person name": [
+            "S.SINDHUJA",
+            "Seethalakshmi",
+            "Ramasamy",
+            "XII",
+            "Sri Ramakrishna"
+        ],
+        "job title": [],
+        "company": [
+            "APEX CO -OPERATIVE"
+        ],
+        "university": [
+            "Stella Maris",
+            "College.",
+            "University of",
+            "Ethiraj College",
+            "Bharathidasan",
+            "University",
+            "Vidhyasala",
+            "State Board",
+            "THE TAMILNADU STATE",
+            "Aarupadai Veedu",
+            "Institute of Technology",
+            "Women’s  Christian College",
+            "Loyola"
+        ],
+        "degree": [
+            "M.Sc .",
+            "M.Phil .",
+            "M.Phil.",
+            "M.Sc",
+            "B.Sc"
+        ],
+        "years of experience": [],
+        "address": [
+            "Adambakkam Branch",
+            "Chennai -88"
+        ],
+        "email": [
+            "Email",
+            "sinduselvam1994@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "9841486535"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Mathematics": 0.5727,
+            "technical skills": 0.1727,
+            "Mathem atics": 0.1839,
+            "Mathema tics": 0.3666,
+            "ICCAMEET": 0.1681,
+            "NCMCA": 0.1673
+        },
+        "filename": "cv (1498)_annotated.json"
+    }
+}

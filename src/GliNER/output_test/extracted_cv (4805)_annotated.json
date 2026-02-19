@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "Detail oriented",
+        "Windows",
+        "Mac",
+        "Active Directory",
+        "proficient",
+        "Leadership skills",
+        "Resource management",
+        "Linux/Unix",
+        "HP-UX",
+        "DOD IA standards",
+        "IAVA",
+        "antivirus",
+        "helpdesk",
+        "manage",
+        "trouble ticket system",
+        "Track IT!",
+        "Remedy",
+        "Organizational tools",
+        "electronic mail"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Responsible officer",
+            "Information assurance manager",
+            "IAM",
+            "MAGTF Planning Specialist"
+        ],
+        "company": [
+            "Microsoft",
+            "Company Name",
+            "Cisco",
+            "Alcatel",
+            "ADP",
+            "Organization"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "email"
+        ],
+        "phone": [
+            "phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Detail oriented": 0.1946,
+            "Windows": 0.9119,
+            "Mac": 0.5892,
+            "Active Directory": 0.3044,
+            "proficient": 0.1827,
+            "Leadership skills": 0.154,
+            "Resource management": 0.214,
+            "Linux/Unix": 0.8105,
+            "HP-UX": 0.5028,
+            "DOD IA standards": 0.5758,
+            "IAVA": 0.2948,
+            "antivirus": 0.2128,
+            "helpdesk": 0.1686,
+            "manage": 0.1582,
+            "trouble ticket system": 0.1827,
+            "Track IT!": 0.3381,
+            "Remedy": 0.3719,
+            "Organizational tools": 0.2281,
+            "electronic mail": 0.4951
+        },
+        "filename": "cv (4805)_annotated.json"
+    }
+}

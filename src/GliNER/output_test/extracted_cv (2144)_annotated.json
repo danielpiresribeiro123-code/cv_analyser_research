@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "ACADEMIC QUALIFICATION",
+        "Degree",
+        "Secondary",
+        "PERSONALITY TRAITS",
+        "Hard working",
+        "punctual and responsible",
+        "Strong motivational and leadership skills",
+        "Excellent communication skills",
+        "COMPUTER KNOWLEDGE",
+        "C",
+        "C++",
+        "MS Office",
+        "CERTIFICATION",
+        "AutoCAD 2012 Certified Professional",
+        "Gardening",
+        "EXPERIENCE",
+        "Fresher",
+        "Female"
+    ],
+    "professional_info": {
+        "person name": [
+            "ARDRA PRASAD",
+            "Vikas Puri",
+            "ARDRA",
+            "ardraprasad93",
+            "N.V Prasad",
+            "Sunita Prasad"
+        ],
+        "job title": [
+            "OBJECTIVES",
+            "entry level positions"
+        ],
+        "company": [
+            "growth oriented company"
+        ],
+        "university": [
+            "Sarabhai Institute of Science and",
+            "CUSAT",
+            "Kerala Public School",
+            "CBSE"
+        ],
+        "degree": [
+            "B.Tech in Civil",
+            "Certificate",
+            "HSC",
+            "SSC",
+            "AutoCAD 2D",
+            "STAAD Pro."
+        ],
+        "years of experience": [],
+        "address": [
+            "Kg-3,146",
+            "New D elhi-110018",
+            "New Delhi",
+            "India"
+        ],
+        "email": [
+            "E-mail",
+            "ardraprasad93@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "9891423551",
+            "9650459770"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "ACADEMIC QUALIFICATION": 0.23,
+            "Degree": 0.1928,
+            "Secondary": 0.1844,
+            "PERSONALITY TRAITS": 0.2897,
+            "Hard working": 0.5036,
+            "punctual and responsible": 0.4501,
+            "Strong motivational and leadership skills": 0.3604,
+            "Excellent communication skills": 0.5694,
+            "COMPUTER KNOWLEDGE": 0.4468,
+            "C": 0.5439,
+            "C++": 0.6294,
+            "MS Office": 0.6909,
+            "CERTIFICATION": 0.5298,
+            "AutoCAD 2012 Certified Professional": 0.8239,
+            "Gardening": 0.3217,
+            "EXPERIENCE": 0.1648,
+            "Fresher": 0.2316,
+            "Female": 0.1875
+        },
+        "filename": "cv (2144)_annotated.json"
+    }
+}

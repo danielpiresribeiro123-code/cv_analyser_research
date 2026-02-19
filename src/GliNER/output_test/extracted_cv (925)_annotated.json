@@ -1,0 +1,30 @@
+{
+    "skills": [],
+    "professional_info": {
+        "person name": [
+            "Angie Everhart",
+            "Angie Harmon",
+            "Caroline Kennedy",
+            "Courtney Love",
+            "Jennifer Love",
+            "Jennifer Hudson",
+            "Kelly Preston"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue",
+            "90034"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 0,
+        "confidence_scores": {},
+        "filename": "cv (925)_annotated.json"
+    }
+}

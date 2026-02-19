@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "MACHINE LEARNING",
+        "Text Analytics",
+        "Software Development",
+        "Object",
+        "Pandas",
+        "Numpy",
+        "Java",
+        "Python",
+        "SpringBoot",
+        "Laravel",
+        "predictive and decision models",
+        "algorithms",
+        "engineering and evaluation methods",
+        "OTHER ACTIVITIES",
+        "UI/UX developmentPROJECTS",
+        "HMI framework",
+        "Head Up Display"
+    ],
+    "professional_info": {
+        "person name": [
+            "KELSEY STENS"
+        ],
+        "job title": [
+            "SOFTWARE DEVELOPER",
+            "Software Engineer",
+            "Data Analyst"
+        ],
+        "company": [
+            "KLP Technology Solutions"
+        ],
+        "university": [
+            "Dr. Jagjiban Rao Engineering College"
+        ],
+        "degree": [
+            "B.Tech (ECE)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "MACHINE LEARNING": 0.8046,
+            "Text Analytics": 0.3208,
+            "Software Development": 0.3821,
+            "Object": 0.1983,
+            "Pandas": 0.5323,
+            "Numpy": 0.2147,
+            "Java": 0.9196,
+            "Python": 0.9492,
+            "SpringBoot": 0.5122,
+            "Laravel": 0.3326,
+            "predictive and decision models": 0.2649,
+            "algorithms": 0.2746,
+            "engineering and evaluation methods": 0.5331,
+            "OTHER ACTIVITIES": 0.1875,
+            "UI/UX developmentPROJECTS": 0.3103,
+            "HMI framework": 0.56,
+            "Head Up Display": 0.5217
+        },
+        "filename": "cv (5)_annotated.json"
+    }
+}

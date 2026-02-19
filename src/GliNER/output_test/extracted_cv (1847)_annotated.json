@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "Forward thinking",
+        "product design and development",
+        "project management",
+        "quality assurance",
+        "machining",
+        "adhesive bonding",
+        "welding",
+        "engineering mechanics",
+        "principles",
+        "materials",
+        "Product Development",
+        "Team Leadership",
+        "Expertise",
+        "supervising personnel",
+        "estimating labour",
+        "Proven track record",
+        "communication",
+        "presentation abilities",
+        "CTL",
+        "CR",
+        "HR Slitting",
+        "Pickling Line",
+        "4 HI",
+        "6 HI",
+        "Mechanical Engineering"
+    ],
+    "professional_info": {
+        "person name": [
+            "Aasif Khan"
+        ],
+        "job title": [
+            "Mechanical Engineer",
+            "Project Planning Engineer",
+            "Design Engineer",
+            "Service Engineer"
+        ],
+        "company": [
+            "V.J.TECHNOCRAFT PVT. LTD.",
+            "Magadh Precision Equipment Ltd.",
+            "IndoTech Industries Pvt. Ltd.",
+            "Education Qualification"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Good interpersonal and communication skills"
+        ],
+        "address": [
+            "Loni",
+            "Pali, Rajasthan"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "Forward thinking": 0.2124,
+            "product design and development": 0.1694,
+            "project management": 0.4531,
+            "quality assurance": 0.2159,
+            "machining": 0.3613,
+            "adhesive bonding": 0.2731,
+            "welding": 0.2143,
+            "engineering mechanics": 0.3954,
+            "principles": 0.3006,
+            "materials": 0.2669,
+            "Product Development": 0.2073,
+            "Team Leadership": 0.175,
+            "Expertise": 0.2879,
+            "supervising personnel": 0.1984,
+            "estimating labour": 0.2194,
+            "Proven track record": 0.1565,
+            "communication": 0.1596,
+            "presentation abilities": 0.1581,
+            "CTL": 0.2856,
+            "CR": 0.2484,
+            "HR Slitting": 0.2732,
+            "Pickling Line": 0.1962,
+            "4 HI": 0.289,
+            "6 HI": 0.2946,
+            "Mechanical Engineering": 0.3729
+        },
+        "filename": "cv (1847)_annotated.json"
+    }
+}

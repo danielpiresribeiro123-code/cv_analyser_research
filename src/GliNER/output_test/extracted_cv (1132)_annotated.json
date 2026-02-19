@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "Windows 10",
+        "SQL",
+        "EViews",
+        "IBM SPSS",
+        "English",
+        "Hindi",
+        "Arabic",
+        "Urdu",
+        "HOBBIES",
+        "Music",
+        "Reading",
+        "negotiation skills",
+        "talents",
+        "personal",
+        "communication skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "Abu Lubna Al Harthy - North Ghubra - Oman",
+            "Sobiya Saeed Ahmed",
+            "Bhatkar"
+        ],
+        "job title": [
+            "CAREER",
+            "Sales Assistant",
+            "Managed Accounts"
+        ],
+        "company": [
+            "Bandar Community KL"
+        ],
+        "university": [
+            "Mamun International Projects LLC– Sultanate of Oman",
+            "ASIA PACIFIC UNIVERSITY",
+            "Asia Pacific, University",
+            "Sydney Institute of",
+            "TAFE",
+            "WALJAT COLLEGE OF APPLIED SCIENCES",
+            "Birla Institute, Of Technology"
+        ],
+        "degree": [
+            "Master of Finance",
+            "Bachelors of Business AdministrationExperience",
+            "Bachelors of Business Administration"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "sobibhatkar@gmail.com"
+        ],
+        "phone": [
+            "+968-92657528"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Windows 10": 0.4163,
+            "SQL": 0.2789,
+            "EViews": 0.2261,
+            "IBM SPSS": 0.3362,
+            "English": 0.6934,
+            "Hindi": 0.8638,
+            "Arabic": 0.7947,
+            "Urdu": 0.8217,
+            "HOBBIES": 0.1934,
+            "Music": 0.1598,
+            "Reading": 0.2344,
+            "negotiation skills": 0.2043,
+            "talents": 0.1562,
+            "personal": 0.1613,
+            "communication skills": 0.2836
+        },
+        "filename": "cv (1132)_annotated.json"
+    }
+}

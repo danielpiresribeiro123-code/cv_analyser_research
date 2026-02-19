@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "M1625763",
+        "Male",
+        "Unmarried",
+        "10+2 Pass [Intermediate]",
+        "Technical Qualification",
+        "Apprentice act 1961"
+    ],
+    "professional_info": {
+        "person name": [
+            "Rajkumar verma",
+            "gnverma1974",
+            "Late Tarachandra   Verma"
+        ],
+        "job title": [
+            "Mechanical   technician",
+            "Fitter Trade",
+            "Apprentice",
+            "FITTER",
+            "Mechanical",
+            "Technician"
+        ],
+        "company": [
+            "Govt.  ITI",
+            "M/S DEKI ELECTRONICS LTD",
+            "M/S MOTHERSON SUMI SYSTEMS LTD"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Experience",
+            "5 YEARS"
+        ],
+        "address": [
+            "Village-Mahuawan",
+            "Post-Fazilnager"
+        ],
+        "email": [
+            "gmail.com",
+            "varmarajkumar47@gmail.com",
+            "+91 9838402059"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "M1625763": 0.3707,
+            "Male": 0.2334,
+            "Unmarried": 0.3408,
+            "10+2 Pass [Intermediate]": 0.3936,
+            "Technical Qualification": 0.3026,
+            "Apprentice act 1961": 0.1896
+        },
+        "filename": "cv (363)_annotated.json"
+    }
+}

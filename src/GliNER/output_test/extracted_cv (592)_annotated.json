@@ -1,0 +1,110 @@
+{
+    "skills": [
+        "Facilities Management",
+        "Logistics Management",
+        "Guest Relations",
+        "Corporate Hospitality",
+        "Human Resources",
+        "Guest Experience",
+        "Front Desk Management",
+        "Managing Housekeeping",
+        "Customer Service",
+        "Hotel Operations",
+        "office Management",
+        "Food & Beverages",
+        "Event management",
+        "Accounts",
+        "Automotive",
+        "Computer Knowledge",
+        "WINDOWS",
+        "MS-OFFICE Package",
+        "Software knowledge",
+        "Citrix clarify tool",
+        "focus software",
+        "KERRIDGE software",
+        "Car Pro",
+        "SAP",
+        "Security  vehicles",
+        "TAMM"
+    ],
+    "professional_info": {
+        "person name": [
+            "Nayazazam27"
+        ],
+        "job title": [
+            "Document Controller",
+            "Business developer",
+            "Workshop In charge",
+            "Incharge",
+            "service advisor",
+            "parts advisor",
+            "team leader",
+            "administrator",
+            "coordinator",
+            "technicians",
+            "drivers",
+            "cleaners"
+        ],
+        "company": [
+            "Jai Bag events Bangalore",
+            "Al Jazirah Ford Company",
+            "Al Jazirah Ford",
+            "Royal Commission Project",
+            "Royal  Commission  Project"
+        ],
+        "university": [
+            "Mamatha English School",
+            "PUC",
+            "Vidya Vahini College",
+            "Dr. C.V. Raman University"
+        ],
+        "degree": [
+            "M.B.A"
+        ],
+        "years of experience": [],
+        "address": [
+            "Kanaka nagar r.t nagar",
+            "Bangalore 560032"
+        ],
+        "email": [
+            "Nayazazam922@gmail.com",
+            "10th",
+            "B.COM"
+        ],
+        "phone": [
+            "+918618563960"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Facilities Management": 0.6055,
+            "Logistics Management": 0.4664,
+            "Guest Relations": 0.6079,
+            "Corporate Hospitality": 0.4983,
+            "Human Resources": 0.5634,
+            "Guest Experience": 0.5481,
+            "Front Desk Management": 0.5042,
+            "Managing Housekeeping": 0.2342,
+            "Customer Service": 0.378,
+            "Hotel Operations": 0.4677,
+            "office Management": 0.4419,
+            "Food & Beverages": 0.3585,
+            "Event management": 0.5455,
+            "Accounts": 0.349,
+            "Automotive": 0.2681,
+            "Computer Knowledge": 0.5862,
+            "WINDOWS": 0.5485,
+            "MS-OFFICE Package": 0.4243,
+            "Software knowledge": 0.4256,
+            "Citrix clarify tool": 0.5106,
+            "focus software": 0.6061,
+            "KERRIDGE software": 0.561,
+            "Car Pro": 0.6245,
+            "SAP": 0.1809,
+            "Security  vehicles": 0.2134,
+            "TAMM": 0.2324
+        },
+        "filename": "cv (592)_annotated.json"
+    }
+}

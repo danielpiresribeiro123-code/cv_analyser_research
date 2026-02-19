@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "Advanced financial accounting",
+        "Cost accounting",
+        "Skills",
+        "IT skills",
+        "Microso ft Office",
+        "excel",
+        "Access",
+        "powerpoint",
+        "wo rd",
+        "databases",
+        "Language skills",
+        "Arabic",
+        "English",
+        "Hindi",
+        "Communication  and interpersonal skills",
+        "Team player skills",
+        "Accounting information systems",
+        "Corporate finance",
+        "Accounting skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mazin Al Fadhal Abdullah Al Ansari",
+            "Dr. Marwa Al Kalbani",
+            "Mohammed Al Shaqsi"
+        ],
+        "job title": [
+            "accountant",
+            "assistant professor"
+        ],
+        "company": [
+            "Oman development bank"
+        ],
+        "university": [
+            "Scholastics",
+            "Sultan Qaboos Uneversity",
+            "Sultan Qaboos university"
+        ],
+        "degree": [
+            "B.Sc."
+        ],
+        "years of experience": [],
+        "address": [
+            "AlMusanaa",
+            "Alkhoud",
+            "Al Musanaa"
+        ],
+        "email": [
+            "Contact  no",
+            "Email",
+            "mzn.alansari@gmail.com"
+        ],
+        "phone": [
+            "+968 96422191"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Advanced financial accounting": 0.3122,
+            "Cost accounting": 0.3806,
+            "Skills": 0.2579,
+            "IT skills": 0.5143,
+            "Microso ft Office": 0.5763,
+            "excel": 0.3173,
+            "Access": 0.2425,
+            "powerpoint": 0.4014,
+            "wo rd": 0.3727,
+            "databases": 0.1612,
+            "Language skills": 0.3783,
+            "Arabic": 0.5699,
+            "English": 0.3465,
+            "Hindi": 0.5142,
+            "Communication  and interpersonal skills": 0.5349,
+            "Team player skills": 0.4554,
+            "Accounting information systems": 0.3899,
+            "Corporate finance": 0.3579,
+            "Accounting skills": 0.5214
+        },
+        "filename": "cv (1376)_annotated.json"
+    }
+}

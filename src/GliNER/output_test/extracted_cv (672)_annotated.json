@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "KEY SKILL",
+        "Highly motivated to work hard",
+        "KYT",
+        "HHT",
+        "ARC of PPES",
+        "Greentech",
+        "Golden peacock",
+        "International safety award",
+        "National Safety Council award",
+        "Kikan Yochi Training",
+        "Hiyan Hato Training",
+        "Quality",
+        "production",
+        "Japanese language",
+        "AOTS TOKYO",
+        "Kaizen"
+    ],
+    "professional_info": {
+        "person name": [
+            "PRAVEEN GUPTA"
+        ],
+        "job title": [
+            "DPM",
+            "GET",
+            "Asst. Engineer",
+            "Rear Axle Assy",
+            "Assy-1",
+            "executive"
+        ],
+        "company": [
+            "M/S Telco",
+            "Maruti Udyog Ltd.",
+            "SMC Iwato"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "praveeng1505@gmail.com"
+        ],
+        "phone": [
+            "Mobile no.",
+            "+91/ 09810210562"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "KEY SKILL": 0.3251,
+            "Highly motivated to work hard": 0.2147,
+            "KYT": 0.1646,
+            "HHT": 0.2406,
+            "ARC of PPES": 0.2458,
+            "Greentech": 0.2506,
+            "Golden peacock": 0.3487,
+            "International safety award": 0.6197,
+            "National Safety Council award": 0.6864,
+            "Kikan Yochi Training": 0.1559,
+            "Hiyan Hato Training": 0.151,
+            "Quality": 0.4751,
+            "production": 0.2623,
+            "Japanese language": 0.4855,
+            "AOTS TOKYO": 0.2209,
+            "Kaizen": 0.3739
+        },
+        "filename": "cv (672)_annotated.json"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "Designing & Packaging Planning",
+        "computer programs used for packaging and labeling design",
+        "Technology (Computer Science & Engineering)",
+        "Graduated",
+        "PROFESSIONAL QUALIFICATION & AFFILIATIONS SKILLS",
+        "Corel draw",
+        "Adobe Photoshop",
+        "Marg",
+        "online software",
+        "M.S. Office 2010",
+        "Window XP",
+        "Window 7",
+        "Window 8",
+        "HTML",
+        "Transit module",
+        "Business communication skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "SANDEEP KUMAR GUPTA"
+        ],
+        "job title": [
+            "GRAPHIC DESIGNER",
+            "Graphic designers"
+        ],
+        "company": [
+            "SunLife Sciences Roorkee",
+            "Ambrosia Drug Pvt. Ltd. Roorkee",
+            "Pharma Net",
+            "SAP",
+            "Micro Lab"
+        ],
+        "university": [
+            "Uttarakhand Technival University",
+            "Uttarakhand Board"
+        ],
+        "degree": [
+            "Bachelor"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-mail",
+            "sandeepdoc100@gmail.com",
+            "Intermediate (P.C.M.) 2008"
+        ],
+        "phone": [
+            "Mobile No.",
+            "+918077884591"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Designing & Packaging Planning": 0.5706,
+            "computer programs used for packaging and labeling design": 0.1963,
+            "Technology (Computer Science & Engineering)": 0.1959,
+            "Graduated": 0.2017,
+            "PROFESSIONAL QUALIFICATION & AFFILIATIONS SKILLS": 0.2092,
+            "Corel draw": 0.9436,
+            "Adobe Photoshop": 0.9467,
+            "Marg": 0.3153,
+            "online software": 0.1695,
+            "M.S. Office 2010": 0.5135,
+            "Window XP": 0.8669,
+            "Window 7": 0.8735,
+            "Window 8": 0.8845,
+            "HTML": 0.3394,
+            "Transit module": 0.1683,
+            "Business communication skills": 0.1619
+        },
+        "filename": "cv (2190)_annotated.json"
+    }
+}

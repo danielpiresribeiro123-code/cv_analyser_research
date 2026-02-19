@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "9810573361",
+        "Hardware Design Engineering",
+        "Product Development",
+        "Project Execution",
+        "Hardware  Design Engineering",
+        "Project Execution",
+        "Demonstrated abilities",
+        "software",
+        "effective communicator",
+        "interpersonal",
+        "people management skills",
+        "Good understanding of solar power system",
+        "basics knowledge",
+        "hardware design procedure",
+        "good basics knowledge",
+        "Analogy & digital circuit designs",
+        "Knowledge about backplanes & buses",
+        "PCL based design",
+        "component engineering",
+        "component selection",
+        "Layout"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHADAB ALI"
+        ],
+        "job title": [
+            "dynamic professional",
+            "budding  professional",
+            "Solar Designing Engineer",
+            "Executive",
+            "solar sales marketing engineer"
+        ],
+        "company": [
+            "Su-kam Power System Ltd."
+        ],
+        "university": [
+            "Bengal Institute of Technology & Management (West Bengal)"
+        ],
+        "degree": [
+            "B. Tech. (ECE)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-Mail"
+        ],
+        "phone": [
+            "+91-9716134586"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "9810573361": 0.1739,
+            "Hardware Design Engineering": 0.8162,
+            "Product Development": 0.481,
+            "Project Execution": 0.2229,
+            "Hardware  Design Engineering": 0.7866,
+            "Demonstrated abilities": 0.1964,
+            "software": 0.3228,
+            "effective communicator": 0.2559,
+            "interpersonal": 0.2506,
+            "people management skills": 0.28,
+            "Good understanding of solar power system": 0.192,
+            "basics knowledge": 0.2125,
+            "hardware design procedure": 0.3852,
+            "good basics knowledge": 0.2378,
+            "Analogy & digital circuit designs": 0.1978,
+            "Knowledge about backplanes & buses": 0.1596,
+            "PCL based design": 0.1899,
+            "component engineering": 0.1924,
+            "component selection": 0.2053,
+            "Layout": 0.2536
+        },
+        "filename": "cv (2988)_annotated.json"
+    }
+}

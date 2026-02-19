@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "skill",
+        "skill",
+        "Academic Qualification",
+        "Technical knowledge",
+        "Job Profile",
+        "DOL Starter",
+        "A-check",
+        "c-Check",
+        "HVAC",
+        "Soft Skill",
+        "Basic Knowledge",
+        "MS Office",
+        "Internet Surfing",
+        "Personal Profile",
+        "English",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "Basantyadav",
+            "Sh. Umakant Yadav"
+        ],
+        "job title": [
+            "Electrician",
+            "Electrical Supervisor",
+            "Indian"
+        ],
+        "company": [
+            "VMEngee. New Delhi",
+            "Unitech Gurgaon(H R)",
+            "Unitech"
+        ],
+        "university": [
+            "board patna",
+            "Hathua Bihar"
+        ],
+        "degree": [
+            "10th"
+        ],
+        "years of experience": [
+            "Working Experience",
+            "Married"
+        ],
+        "address": [
+            "Vill- Dumariya",
+            "Post-",
+            "Dubey Jigna",
+            "Distt-Gopalganj Pin-",
+            "841426(BIHAR)"
+        ],
+        "email": [
+            "Email",
+            "basantyadav903@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "skill": 0.4033,
+            "Academic Qualification": 0.2782,
+            "Technical knowledge": 0.5644,
+            "Job Profile": 0.1812,
+            "DOL Starter": 0.1715,
+            "A-check": 0.1681,
+            "c-Check": 0.1771,
+            "HVAC": 0.1866,
+            "Soft Skill": 0.4901,
+            "Basic Knowledge": 0.3444,
+            "MS Office": 0.6115,
+            "Internet Surfing": 0.2128,
+            "Personal Profile": 0.1997,
+            "English": 0.6629,
+            "Hindi": 0.693
+        },
+        "filename": "cv (1763)_annotated.json"
+    }
+}

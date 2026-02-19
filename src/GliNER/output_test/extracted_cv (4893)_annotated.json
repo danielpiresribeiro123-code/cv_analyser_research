@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "Culture shock analysis",
+        "strong cohesive skills",
+        "machine learning",
+        "end-to-end projects",
+        "Linear Regression",
+        "Ridge Regression",
+        "Lasso Regression",
+        "Tableau",
+        "Time Series Analysis",
+        "SKILLS",
+        "project",
+        "Understanding Data Analysis",
+        "Python"
+    ],
+    "professional_info": {
+        "person name": [
+            "Remiro Amio"
+        ],
+        "job title": [
+            "Intern",
+            "FRESHER",
+            "Data Scientist"
+        ],
+        "company": [],
+        "university": [
+            "DJR College and University"
+        ],
+        "degree": [
+            "B.Tech (IT)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Culture shock analysis": 0.1966,
+            "strong cohesive skills": 0.1644,
+            "machine learning": 0.9023,
+            "end-to-end projects": 0.3018,
+            "Linear Regression": 0.9023,
+            "Ridge Regression": 0.8769,
+            "Lasso Regression": 0.8885,
+            "Tableau": 0.3277,
+            "Time Series Analysis": 0.7907,
+            "SKILLS": 0.1687,
+            "project": 0.163,
+            "Understanding Data Analysis": 0.277,
+            "Python": 0.4917
+        },
+        "filename": "cv (4893)_annotated.json"
+    }
+}

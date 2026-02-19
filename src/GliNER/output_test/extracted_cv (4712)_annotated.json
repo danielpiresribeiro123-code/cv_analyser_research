@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "Airport Operations safety and training",
+        "FAR Part 139",
+        "accident investigation and analysis",
+        "Experienced in transportation management",
+        "gas station management",
+        "profound ability",
+        "plan",
+        "Immense ability",
+        "Uncommon ability",
+        "Sound ability",
+        "research",
+        "writing",
+        "case management",
+        "client relations",
+        "Collective bargaining techniques",
+        "Public policy background",
+        "Data collection and analysis",
+        "Exceptional organizational skills",
+        "Safety policy development",
+        "Analytical thinker",
+        "Project management",
+        "Creative problem solver",
+        "online training",
+        "Tug Numbering System",
+        "inventory"
+    ],
+    "professional_info": {
+        "person name": [
+            "ENTREPRENEUR GENERAL MANAGER",
+            "Company Name"
+        ],
+        "job title": [],
+        "company": [
+            "USAID"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Over 17 years' experience",
+            "communicate effectively",
+            "orally and in writing"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "Airport Operations safety and training": 0.2871,
+            "FAR Part 139": 0.4737,
+            "accident investigation and analysis": 0.6006,
+            "Experienced in transportation management": 0.257,
+            "gas station management": 0.1689,
+            "profound ability": 0.3647,
+            "plan": 0.1576,
+            "Immense ability": 0.3398,
+            "Uncommon ability": 0.2114,
+            "Sound ability": 0.2525,
+            "research": 0.2587,
+            "writing": 0.2207,
+            "case management": 0.3572,
+            "client relations": 0.2977,
+            "Collective bargaining techniques": 0.2296,
+            "Public policy background": 0.3826,
+            "Data collection and analysis": 0.4247,
+            "Exceptional organizational skills": 0.2743,
+            "Safety policy development": 0.1866,
+            "Analytical thinker": 0.3108,
+            "Project management": 0.2776,
+            "Creative problem solver": 0.2586,
+            "online training": 0.2446,
+            "Tug Numbering System": 0.4313,
+            "inventory": 0.1544
+        },
+        "filename": "cv (4712)_annotated.json"
+    }
+}

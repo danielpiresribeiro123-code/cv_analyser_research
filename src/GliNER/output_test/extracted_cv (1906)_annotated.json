@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "SKILL",
+        "Diploma in Computer with MS.Office",
+        "Hindi",
+        "English",
+        "Certificate"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ajay Kumar",
+            "Ram Ashrey Bind",
+            "ajaysahaniaditya18fb",
+            "Indian"
+        ],
+        "job title": [
+            "Tower Crane Operater"
+        ],
+        "company": [
+            "Becon Construction Company LLC.Dubai",
+            "Dubai government",
+            "Abudhabi government"
+        ],
+        "university": [
+            "Faizabad University"
+        ],
+        "degree": [
+            "BA"
+        ],
+        "years of experience": [
+            "EXPERIENCE"
+        ],
+        "address": [
+            "Vill.Rasool Pur",
+            "Post Mahul",
+            "Dist.Azamgarh"
+        ],
+        "email": [
+            "ajaysahaniaditya18fb@gmail.com",
+            "E_Mail",
+            "gmail"
+        ],
+        "phone": [
+            "+918418092530",
+            "Mobile Number",
+            "Phone number8418092530"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "SKILL": 0.2567,
+            "Diploma in Computer with MS.Office": 0.6617,
+            "Hindi": 0.7664,
+            "English": 0.7597,
+            "Certificate": 0.7982
+        },
+        "filename": "cv (1906)_annotated.json"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "skills",
+        "B.E",
+        "Auto CADD",
+        "Working knowledge",
+        "MS Office",
+        "English",
+        "Hindi",
+        "A",
+        "Production workshops",
+        "STRENGTH",
+        "Positive attitude",
+        "Vibrant",
+        "efficient",
+        "go- getter",
+        "Heat Transfer Analysis of Agitated Vessel Using Propeller Blade Impeller",
+        "Certified for training in Fabrication & Galvanisation Workshop",
+        "Dancing",
+        "Playing computer Games"
+    ],
+    "professional_info": {
+        "person name": [
+            "ABHISHEK KUMAR VERMA",
+            "Mr. Jang Bahadur Keshri"
+        ],
+        "job title": [],
+        "company": [
+            "unique Glazing Technology Pvt. Ltd."
+        ],
+        "university": [
+            "S/o Jang Bahadur Keshri",
+            "ANNAMALAI UNIVERSITY",
+            "CBSE",
+            "KENDRIYA VIDYALAYA BAILEYROAD"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "S-55 1",
+            "Gautam budha nagar",
+            "Noida -12"
+        ],
+        "email": [
+            "Email",
+            "abhisheksingh5756@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-8527295697"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "skills": 0.3614,
+            "B.E": 0.4595,
+            "Auto CADD": 0.5601,
+            "Working knowledge": 0.3386,
+            "MS Office": 0.6563,
+            "English": 0.5604,
+            "Hindi": 0.7679,
+            "A": 0.168,
+            "Production workshops": 0.3083,
+            "STRENGTH": 0.5313,
+            "Positive attitude": 0.4687,
+            "Vibrant": 0.4229,
+            "efficient": 0.3384,
+            "go- getter": 0.5099,
+            "Heat Transfer Analysis of Agitated Vessel Using Propeller Blade Impeller": 0.1624,
+            "Certified for training in Fabrication & Galvanisation Workshop": 0.3885,
+            "Dancing": 0.314,
+            "Playing computer Games": 0.2414
+        },
+        "filename": "cv (765)_annotated.json"
+    }
+}

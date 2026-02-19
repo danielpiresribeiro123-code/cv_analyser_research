@@ -1,0 +1,111 @@
+{
+    "skills": [
+        "professional skills",
+        "PROFESSIONAL STRENGTHS",
+        "Comprehensive knowledge",
+        "TECHNICAL SKILLS",
+        "CCNA",
+        "Windows XP",
+        "Software",
+        "Microsoft  Outlook",
+        "Microsoft office suite",
+        "Routing  protocols",
+        "OSI",
+        "TCP/IP model",
+        "Active Directory",
+        "IPV4",
+        "IPV6",
+        "sub netting",
+        "OSPF",
+        "EIGRP",
+        "Ethernet",
+        "LAN/WAN",
+        "Frame  Relay",
+        "IP  Routing",
+        "HDLC",
+        "ISDN",
+        "VoIP",
+        "RIP",
+        "VPN",
+        "VLAN",
+        "IP services",
+        "Telnet",
+        "DHCP",
+        "DNS",
+        "HTTPs",
+        "RESPONSIBILITY",
+        "Windows  OS  Xp",
+        "Vista",
+        "Windows7"
+    ],
+    "professional_info": {
+        "person name": [
+            "MANOJ SAINI",
+            "ManojsainiMJ"
+        ],
+        "job title": [
+            "Technical Support Networking"
+        ],
+        "company": [
+            "organization",
+            "CISCO",
+            "Network  Bulls"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "EMAIL",
+            "Outlook",
+            "SMTP"
+        ],
+        "phone": [
+            "MOBILE",
+            "+91-9999776771"
+        ]
+    },
+    "metadata": {
+        "total_skills": 37,
+        "confidence_scores": {
+            "professional skills": 0.3223,
+            "PROFESSIONAL STRENGTHS": 0.3085,
+            "Comprehensive knowledge": 0.1593,
+            "TECHNICAL SKILLS": 0.4014,
+            "CCNA": 0.747,
+            "Windows XP": 0.9404,
+            "Software": 0.1515,
+            "Microsoft  Outlook": 0.5129,
+            "Microsoft office suite": 0.8341,
+            "Routing  protocols": 0.3968,
+            "OSI": 0.6134,
+            "TCP/IP model": 0.3433,
+            "Active Directory": 0.3818,
+            "IPV4": 0.5942,
+            "IPV6": 0.6523,
+            "sub netting": 0.1558,
+            "OSPF": 0.7582,
+            "EIGRP": 0.6739,
+            "Ethernet": 0.6864,
+            "LAN/WAN": 0.2085,
+            "Frame  Relay": 0.6797,
+            "IP  Routing": 0.6487,
+            "HDLC": 0.5713,
+            "ISDN": 0.7274,
+            "VoIP": 0.7043,
+            "RIP": 0.6724,
+            "VPN": 0.7005,
+            "VLAN": 0.6198,
+            "IP services": 0.4689,
+            "Telnet": 0.6297,
+            "DHCP": 0.5783,
+            "DNS": 0.6195,
+            "HTTPs": 0.6632,
+            "RESPONSIBILITY": 0.3199,
+            "Windows  OS  Xp": 0.7679,
+            "Vista": 0.8277,
+            "Windows7": 0.7165
+        },
+        "filename": "cv (2099)_annotated.json"
+    }
+}

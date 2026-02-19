@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "ECE",
+        "technical acumen",
+        "Electronics&Communication Engineering",
+        "TechnologyWBUT 20157.57",
+        "SECONDARYScience +",
+        "Mathematics +",
+        "MADHYAMIK Science +",
+        "Languages +",
+        "Vocational Training Certificate"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUMIT KUMAR"
+        ],
+        "job title": [
+            "assembling engineer",
+            "Quality  control  &  testing  engineer",
+            "Electronics trainee Engineer"
+        ],
+        "company": [
+            "Ardent Computech Pvt  Ltd",
+            "variable Energy Cyclotron Centre",
+            "DS techworks solution pvt ltd",
+            "Balaji  it  solution",
+            "Siren Electronics."
+        ],
+        "university": [
+            "Swami Vivekananda Institute of science & Technology",
+            "EngineeringSwami Vivekananda",
+            "Institute of Science and",
+            "LanguagesNalanda college     Bihar",
+            "SharifBSEB PATNA",
+            "Sharif BSEB PATNA"
+        ],
+        "degree": [
+            "B.Tech",
+            "B.TECHElectronics&Com"
+        ],
+        "years of experience": [],
+        "address": [
+            "DIST-24PARGANA(SOUTH)",
+            "E.",
+            "KOLKATA-700144",
+            "H.no.-2008",
+            "Pillangi",
+            "Kotla Mubarakpur",
+            "New Delhi-110003"
+        ],
+        "email": [
+            "MAIL-sumitkumar9748@gmail.com",
+            "E",
+            "MAIL-sumitkumar9748"
+        ],
+        "phone": [
+            "PHONE NO",
+            "+91 -8013733435"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "ECE": 0.5528,
+            "technical acumen": 0.25,
+            "Electronics&Communication Engineering": 0.6022,
+            "TechnologyWBUT 20157.57": 0.3546,
+            "SECONDARYScience +": 0.3383,
+            "Mathematics +": 0.5099,
+            "MADHYAMIK Science +": 0.3415,
+            "Languages +": 0.3244,
+            "Vocational Training Certificate": 0.9249
+        },
+        "filename": "cv (2674)_annotated.json"
+    }
+}

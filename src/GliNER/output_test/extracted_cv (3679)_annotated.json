@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "Male",
+        "Married",
+        "Experience",
+        "TECHNICAL QUALIFICATION",
+        "NDT  level 2",
+        "ASNT-TC-1A edition 2011",
+        "UT",
+        "MT",
+        "PT",
+        "RTFI",
+        "weld scanning",
+        "Welding Inspector level  2",
+        "BS-EN",
+        "ISO-17637",
+        "API 570",
+        "Structural",
+        "Equipment drawings"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ayoob",
+            "sheharba",
+            "Indian",
+            "shanubayubac",
+            "trainee"
+        ],
+        "job title": [
+            "Mechanical engineer",
+            "Engineer trainee",
+            "Quality Controller",
+            "Piping Inspector"
+        ],
+        "company": [
+            "SHANUB AYUB AC",
+            "BLUE  STAR  ELECTRO-MECHANICAL  CONTRACTING",
+            "Jinthal Steel &Power Limited",
+            "Decibel NDE Inspection & Training Institute",
+            "Decibel certification limited",
+            "Decibel NDE Training",
+            "BQACS"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Anayamchirakkal (H)",
+            "Nannambra (P.O)",
+            "kundoor",
+            "malappuram",
+            "1605 lulu tower",
+            "Al Nahda",
+            "Sharjah",
+            "odissa site",
+            "Pattambi"
+        ],
+        "email": [
+            "Email ID",
+            "shanubayubac@gmail.com"
+        ],
+        "phone": [
+            "+971 56 909 6607",
+            "+91 9847881181",
+            "WhatsApp",
+            "Skype"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Male": 0.2566,
+            "Married": 0.2652,
+            "Experience": 0.2253,
+            "TECHNICAL QUALIFICATION": 0.2643,
+            "NDT  level 2": 0.3359,
+            "ASNT-TC-1A edition 2011": 0.6752,
+            "UT": 0.3103,
+            "MT": 0.1716,
+            "PT": 0.2096,
+            "RTFI": 0.2379,
+            "weld scanning": 0.171,
+            "Welding Inspector level  2": 0.3425,
+            "BS-EN": 0.3473,
+            "ISO-17637": 0.6707,
+            "API 570": 0.584,
+            "Structural": 0.2469,
+            "Equipment drawings": 0.2051
+        },
+        "filename": "cv (3679)_annotated.json"
+    }
+}

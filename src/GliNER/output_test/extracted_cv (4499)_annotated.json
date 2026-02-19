@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "problem solving ability",
+        "Intermediate/Expert level",
+        "MS applications",
+        "Management",
+        "Learning/Development",
+        "Consultative skills",
+        "organizational and task oriented problem solver",
+        "ability to rapidly adapt to new situations",
+        "Core Qualifications",
+        "Training and Development",
+        "Supervision and training",
+        "Policy/program development",
+        "Certified Train the Trainer (T3)",
+        "Management of remote employees",
+        "Curriculum Development",
+        "Talent development",
+        "Operations management",
+        "Cross-functional team management",
+        "Call center management",
+        "Customer service management expertise",
+        "Professional Experience",
+        "City",
+        "cost management",
+        "State"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "TRAINING MANAGER",
+            "Executive Summary",
+            "Experienced Leadership and Development Professional",
+            "Client",
+            "Military & Civilian Training",
+            "Master Black Belt Instructor",
+            "Training manual contributor",
+            "Owner/Partner"
+        ],
+        "company": [
+            "Company Name",
+            "Defense Contractor"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "problem solving ability": 0.2178,
+            "Intermediate/Expert level": 0.2734,
+            "MS applications": 0.5906,
+            "Management": 0.4579,
+            "Learning/Development": 0.3817,
+            "Consultative skills": 0.3107,
+            "organizational and task oriented problem solver": 0.34,
+            "ability to rapidly adapt to new situations": 0.1851,
+            "Core Qualifications": 0.1766,
+            "Training and Development": 0.3486,
+            "Supervision and training": 0.2007,
+            "Policy/program development": 0.458,
+            "Certified Train the Trainer (T3)": 0.9475,
+            "Management of remote employees": 0.4161,
+            "Curriculum Development": 0.4567,
+            "Talent development": 0.3616,
+            "Operations management": 0.629,
+            "Cross-functional team management": 0.6511,
+            "Call center management": 0.5375,
+            "Customer service management expertise": 0.5743,
+            "Professional Experience": 0.2775,
+            "City": 0.1892,
+            "cost management": 0.2603,
+            "State": 0.1832
+        },
+        "filename": "cv (4499)_annotated.json"
+    }
+}

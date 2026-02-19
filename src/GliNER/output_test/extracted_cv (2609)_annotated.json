@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "skills",
+        "Education",
+        "active participant",
+        "Male",
+        "Single",
+        "English",
+        "Hindi",
+        "J 0623931",
+        "Employment Visa",
+        "PROFESSIONAL SKILLS",
+        "Waters supply",
+        "Sanitary fitting"
+    ],
+    "professional_info": {
+        "person name": [
+            "DEEPAK KUMAR RAM",
+            "Vijay Ram",
+            "DEEPAK KUMAR"
+        ],
+        "job title": [
+            "Plumber"
+        ],
+        "company": [
+            "Electromech Technical, Associates Co Llc"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "EXPERIENCE",
+            "2  years"
+        ],
+        "address": [
+            "Dubai UAE"
+        ],
+        "email": [
+            "Email",
+            "deepakkumar166109@gmail.com",
+            "Matric Passed"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "skills": 0.2825,
+            "Education": 0.314,
+            "active participant": 0.1664,
+            "Male": 0.2137,
+            "Single": 0.3632,
+            "English": 0.7034,
+            "Hindi": 0.7365,
+            "J 0623931": 0.1557,
+            "Employment Visa": 0.4019,
+            "PROFESSIONAL SKILLS": 0.3923,
+            "Waters supply": 0.1648,
+            "Sanitary fitting": 0.204
+        },
+        "filename": "cv (2609)_annotated.json"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Machine Learning Methodologies",
+        "team player",
+        "Machine Learning",
+        "Data Transition",
+        "Natural Language Processing",
+        "Predictive Analytics",
+        "Data Cleaning",
+        "Data Visualization",
+        "Deep Learning",
+        "BeRT Modelling",
+        "Tensorflow",
+        "Python",
+        "SciKit Learn",
+        "Data computation libraries",
+        "EP analysis",
+        "NLP",
+        "IABAC"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "NLP analyst",
+            "JUNIOR NLP ENGINEER"
+        ],
+        "company": [],
+        "university": [
+            "B.Tech (Electrical)",
+            "PGG College Bangalore"
+        ],
+        "degree": [
+            "Graduate"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Machine Learning Methodologies": 0.5803,
+            "team player": 0.2573,
+            "Machine Learning": 0.4247,
+            "Data Transition": 0.6667,
+            "Natural Language Processing": 0.4768,
+            "Predictive Analytics": 0.7185,
+            "Data Cleaning": 0.7185,
+            "Data Visualization": 0.6404,
+            "Deep Learning": 0.4358,
+            "BeRT Modelling": 0.55,
+            "Tensorflow": 0.5274,
+            "Python": 0.9472,
+            "SciKit Learn": 0.5945,
+            "Data computation libraries": 0.5458,
+            "EP analysis": 0.4996,
+            "NLP": 0.1859,
+            "IABAC": 0.414
+        },
+        "filename": "cv (4908)_annotated.json"
+    }
+}

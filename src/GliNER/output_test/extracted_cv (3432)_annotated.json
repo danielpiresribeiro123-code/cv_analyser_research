@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "technical skills",
+        "Educational Qualification",
+        "Technical Proficiency",
+        "Window 07-10",
+        "Ubuntu 16.04",
+        "HTML",
+        "CSS",
+        "JS",
+        "Jquery",
+        "Angularjs",
+        "PHP",
+        "MYSQL",
+        "MongoDB",
+        "IndexedDB",
+        "Websql",
+        "Codeigniter",
+        "Laravel",
+        "Wordpress",
+        "Opencart",
+        "Web development",
+        "Application development"
+    ],
+    "professional_info": {
+        "person name": [
+            "Jitendra Purviya"
+        ],
+        "job title": [
+            "Senior Software Engineer",
+            "Senior Associate Developer"
+        ],
+        "company": [
+            "Gten Technologies Pvt Ltd.",
+            "Tecgenome Consulting Pvt Ltd.",
+            "Aksoft  Pvt Ltd."
+        ],
+        "university": [
+            "UniversitySchool/College Year of"
+        ],
+        "degree": [
+            "degree course",
+            "B.E- CSRGPV-Bhopal Sagar Institute Research Technology"
+        ],
+        "years of experience": [
+            "Experience",
+            "5 Years"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "jeetsirts19@gmail.com",
+            "12thMP",
+            "10thMP"
+        ],
+        "phone": [
+            "+91-9685243467"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "technical skills": 0.2652,
+            "Educational Qualification": 0.1814,
+            "Technical Proficiency": 0.3624,
+            "Window 07-10": 0.9387,
+            "Ubuntu 16.04": 0.8185,
+            "HTML": 0.8664,
+            "CSS": 0.8318,
+            "JS": 0.9139,
+            "Jquery": 0.894,
+            "Angularjs": 0.8808,
+            "PHP": 0.9618,
+            "MYSQL": 0.8884,
+            "MongoDB": 0.8964,
+            "IndexedDB": 0.8686,
+            "Websql": 0.8669,
+            "Codeigniter": 0.7967,
+            "Laravel": 0.7927,
+            "Wordpress": 0.6724,
+            "Opencart": 0.4821,
+            "Web development": 0.7254,
+            "Application development": 0.5025
+        },
+        "filename": "cv (3432)_annotated.json"
+    }
+}

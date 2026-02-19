@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "DN B (Orthopedics)",
+        "Orthopedics",
+        "Orthopaedics",
+        "Joint Replacement Surgery",
+        "Shoichi Kokubun Spine Fellowship",
+        "AO Long Term Fellowship",
+        "Spine Surgery",
+        "AO Trauma Fellowship",
+        "AO Course in Principles in Fracture management"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dr. ABHISHEK KAUSHIK",
+            "Dr Thomas Siebel"
+        ],
+        "job title": [
+            "Senior Resident",
+            "Junior Specialist",
+            "Specialist",
+            "Table Instructor"
+        ],
+        "company": [],
+        "university": [
+            "Post Graduate Institute of Medical Sciences",
+            "St Stephen’s Hospital",
+            "Tohoku School of Medicine",
+            "Royal Devon and Exeter Hospitals",
+            "Hackensack University Medical Center"
+        ],
+        "degree": [
+            "MBBS"
+        ],
+        "years of experience": [],
+        "address": [
+            "House No: 61",
+            "Sec-37",
+            "Faridabad"
+        ],
+        "email": [
+            "Email",
+            "abhiorthox@yahoo.com"
+        ],
+        "phone": [
+            "Tel",
+            "91-9868151233",
+            "91-11-2394556"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "DN B (Orthopedics)": 0.4581,
+            "Orthopedics": 0.6487,
+            "Orthopaedics": 0.1994,
+            "Joint Replacement Surgery": 0.3476,
+            "Shoichi Kokubun Spine Fellowship": 0.3103,
+            "AO Long Term Fellowship": 0.1826,
+            "Spine Surgery": 0.278,
+            "AO Trauma Fellowship": 0.3128,
+            "AO Course in Principles in Fracture management": 0.2055
+        },
+        "filename": "cv (802)_annotated.json"
+    }
+}

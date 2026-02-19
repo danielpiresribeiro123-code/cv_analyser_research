@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "analytical capabilities",
+        "Proficient",
+        "Skills",
+        "nonstarter management",
+        "Proven expertise",
+        "branch operations",
+        "effective management",
+        "analytical bent of mind",
+        "customer-orientation",
+        "Education    Certification",
+        "B.Sc.",
+        "Certificate Course in Computers"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMED JAVED KHAN"
+        ],
+        "job title": [
+            "Senior level professional",
+            "competent professional",
+            "Manager Marketing",
+            "Executive",
+            "Sales Manager",
+            "Deputy Vice President/Regional Collection Manager-Northern India"
+        ],
+        "company": [
+            "Sterling Lab",
+            "ICICI Bank",
+            "Hero-Motors",
+            "Tata Motor Finance"
+        ],
+        "university": [
+            "Department of Management Sciences",
+            "Dr. Babasaheb Ambedkar Marathwada University",
+            "College of Science Udaipur",
+            "M.L. Sukhadia University"
+        ],
+        "degree": [
+            "MBA (Marketing)"
+        ],
+        "years of experience": [
+            "21 years of experience",
+            "14 years’ experience"
+        ],
+        "address": [],
+        "email": [
+            "telcobhpc@yahoo.co.in",
+            "telcobhpc@yahoo.co.",
+            "7860701234"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "analytical capabilities": 0.3707,
+            "Proficient": 0.2699,
+            "Skills": 0.213,
+            "nonstarter management": 0.1581,
+            "Proven expertise": 0.2579,
+            "branch operations": 0.2409,
+            "effective management": 0.1627,
+            "analytical bent of mind": 0.4127,
+            "customer-orientation": 0.3187,
+            "Education    Certification": 0.2218,
+            "B.Sc.": 0.7258,
+            "Certificate Course in Computers": 0.6539
+        },
+        "filename": "cv (1144)_annotated.json"
+    }
+}

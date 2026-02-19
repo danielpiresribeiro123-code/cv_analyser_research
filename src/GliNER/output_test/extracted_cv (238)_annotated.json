@@ -1,0 +1,53 @@
+{
+    "skills": [],
+    "professional_info": {
+        "person name": [
+            "Davood Dastoor"
+        ],
+        "job title": [],
+        "company": [
+            "Defense Industry",
+            "Arash Company",
+            "Tehran Refinery",
+            "Zinc and Plumbum Zanjan",
+            "Berelian Company",
+            "Imam Khomeini Petrochemical",
+            "Fiorentini Company",
+            "Kazeroon Power Plant",
+            "Ferdowsi Power Plant",
+            "Ferdowsi Domestic Power Plant",
+            "LIA Company",
+            "AMVAAJ SAYAL SHARGH"
+        ],
+        "university": [
+            "Motahari High School"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "No18",
+            "6th Alley",
+            "Imam Khomeini Street",
+            "Enqelab Town",
+            "Pakdasht",
+            "Tehran",
+            "Mashhad – MAPNA"
+        ],
+        "email": [
+            "Email",
+            "davood dastoor@gmail.com",
+            "1983      Diploma"
+        ],
+        "phone": [
+            "Telephone",
+            "+98 21 360 80 518",
+            "Cellphone",
+            "+98 920 38 72 004"
+        ]
+    },
+    "metadata": {
+        "total_skills": 0,
+        "confidence_scores": {},
+        "filename": "cv (238)_annotated.json"
+    }
+}

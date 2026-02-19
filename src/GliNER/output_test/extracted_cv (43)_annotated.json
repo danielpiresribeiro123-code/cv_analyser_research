@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "Diploma Computer Application",
+        "Ms-Office",
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Mail",
+        "sap software",
+        "Operating and Working System Knowledge",
+        "working and knowledge",
+        "Working and Knowledge"
+    ],
+    "professional_info": {
+        "person name": [
+            "RIZWANUL HAQUE",
+            "rizwanulhaq"
+        ],
+        "job title": [
+            "ITI",
+            "Electrician"
+        ],
+        "company": [
+            "UPS JETAIR EXPRESS PVT. LTD.",
+            "OKHLA PHASE II",
+            "HI-TECH ENGINEERING CONSOLATION",
+            "BEST WESTERN SKYCITY HOTEL  Secter"
+        ],
+        "university": [
+            "Delhi University"
+        ],
+        "degree": [
+            "B.A IIIrd   Year"
+        ],
+        "years of experience": [
+            "One year",
+            "Working Experience"
+        ],
+        "address": [
+            "House No-5119",
+            "Street  No-3",
+            "Surya Colony Sehatpur",
+            "Pin - 121013",
+            "Internet",
+            "Delhi-110020",
+            "15 Jh0arsh Road"
+        ],
+        "email": [
+            "E-mail",
+            "gmail.com",
+            "rediffmail.com",
+            "CBSE BOARD -2010",
+            "CBSE BOARD -2012",
+            "outlook"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Diploma Computer Application": 0.5156,
+            "Ms-Office": 0.4367,
+            "Word": 0.317,
+            "Excel": 0.3054,
+            "PowerPoint": 0.4251,
+            "Mail": 0.3442,
+            "sap software": 0.3204,
+            "Operating and Working System Knowledge": 0.2557,
+            "working and knowledge": 0.1818,
+            "Working and Knowledge": 0.1537
+        },
+        "filename": "cv (43)_annotated.json"
+    }
+}

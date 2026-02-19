@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "project management skills",
+        "experience",
+        "marketing",
+        "financial performance reporting",
+        "Project Management",
+        "HR/Payroll Systems",
+        "Microsoft PowerPoint",
+        "Word",
+        "Excel",
+        "project management expertise",
+        "sales and severance tax fields"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "STAFF CONSULTANT",
+            "Experienced professional",
+            "Financial Analyst Intern"
+        ],
+        "company": [
+            "Company Name",
+            "logistics client",
+            "client",
+            "oil and gas industry client",
+            "distribution client",
+            "foreign oil and gas client"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "project management skills": 0.4483,
+            "experience": 0.3274,
+            "marketing": 0.3351,
+            "financial performance reporting": 0.2826,
+            "Project Management": 0.2993,
+            "HR/Payroll Systems": 0.2311,
+            "Microsoft PowerPoint": 0.5029,
+            "Word": 0.4598,
+            "Excel": 0.4213,
+            "project management expertise": 0.4316,
+            "sales and severance tax fields": 0.1536
+        },
+        "filename": "cv (4479)_annotated.json"
+    }
+}

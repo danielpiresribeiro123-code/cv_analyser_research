@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "Diploma Electrical",
+        "Microsoft Office",
+        "Word",
+        "Excel",
+        "Powerpoint",
+        "Internet Browsing",
+        "Confident and Determined",
+        "English",
+        "Urdu",
+        "Kashmiri",
+        "Internet Surfing"
+    ],
+    "professional_info": {
+        "person name": [
+            "Umair Nazir Wani",
+            "Nazir Ahmad Wani"
+        ],
+        "job title": [],
+        "company": [
+            "firm",
+            "SOFCON India",
+            "Pvt. Ltd."
+        ],
+        "university": [
+            "B.Tech (EEE)",
+            "Al-Falah School Of",
+            "JKSBOTE",
+            "JKBOSE",
+            "Al -falah School of Engineering and Technology"
+        ],
+        "degree": [
+            "Matric"
+        ],
+        "years of experience": [],
+        "address": [
+            "Permanent Address",
+            "Sheikh Mohalla Quilmuqam"
+        ],
+        "email": [
+            "Indian"
+        ],
+        "phone": [
+            "+91 - 9540588837 Email: umairwani12@gmail .com"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Diploma Electrical": 0.1855,
+            "Microsoft Office": 0.3689,
+            "Word": 0.2269,
+            "Excel": 0.3586,
+            "Powerpoint": 0.3892,
+            "Internet Browsing": 0.5222,
+            "Confident and Determined": 0.2546,
+            "English": 0.3601,
+            "Urdu": 0.4777,
+            "Kashmiri": 0.3375,
+            "Internet Surfing": 0.4627
+        },
+        "filename": "cv (2223)_annotated.json"
+    }
+}

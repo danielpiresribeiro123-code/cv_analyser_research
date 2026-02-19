@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "Single",
+        "Male",
+        "P5642827",
+        "TECHNICAL  ABILTIES",
+        "technical skills",
+        "welding",
+        "furniture work",
+        "SKILLS & ABILITIES",
+        "Self motivated",
+        "self disciplined",
+        "Good Communication",
+        "English",
+        "Hindi",
+        "HOBBIES AND INTERESTS",
+        "Listening mus ic",
+        "Playing Cricket",
+        "Driving"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAVI KUMAR",
+            "Sh. Shamsher Singh"
+        ],
+        "job title": [
+            "civil helper"
+        ],
+        "company": [
+            "HP",
+            "Hindu",
+            "Indian"
+        ],
+        "university": [],
+        "degree": [
+            "Matric"
+        ],
+        "years of experience": [
+            "WORK EXPERIENCE",
+            "One year work experience"
+        ],
+        "address": [
+            "Address",
+            "V. P.O. Lamlehri",
+            "Tehsil & Distt . Una",
+            "174303"
+        ],
+        "email": [
+            "Email",
+            "kmravi19980 6@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Single": 0.4814,
+            "Male": 0.2255,
+            "P5642827": 0.2752,
+            "TECHNICAL  ABILTIES": 0.5074,
+            "technical skills": 0.4437,
+            "welding": 0.416,
+            "furniture work": 0.2853,
+            "SKILLS & ABILITIES": 0.2783,
+            "Self motivated": 0.7377,
+            "self disciplined": 0.6717,
+            "Good Communication": 0.6618,
+            "English": 0.1596,
+            "Hindi": 0.3785,
+            "HOBBIES AND INTERESTS": 0.2734,
+            "Listening mus ic": 0.2166,
+            "Playing Cricket": 0.1984,
+            "Driving": 0.2422
+        },
+        "filename": "cv (4157)_annotated.json"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "problem-solving skills",
+        "CompTIA Security +",
+        "CE SY0-401",
+        "Refined system debugging and diagnostic skills",
+        "analytical",
+        "UNIX",
+        "Team player",
+        "self-starter",
+        "Working knowledge",
+        "J2EE",
+        "Oracle",
+        "Unix O/S",
+        "Linux",
+        "LDAP",
+        "Database",
+        "Service Oriented Architecture",
+        "Mainframe",
+        "Remedy",
+        "Virtual Machine",
+        "MS Office",
+        "Word",
+        "PowerPoint",
+        "Excel"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INFORMATION TECHNOLOGY SPECIALIST",
+            "Systems Administrator"
+        ],
+        "company": [
+            "industry-leading software company",
+            "Company Name",
+            "vendor"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "interpersonal",
+            "5 years of experience"
+        ],
+        "address": [],
+        "email": [
+            "Outlook"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "problem-solving skills": 0.166,
+            "CompTIA Security +": 0.7545,
+            "CE SY0-401": 0.6551,
+            "Refined system debugging and diagnostic skills": 0.229,
+            "analytical": 0.2227,
+            "UNIX": 0.7523,
+            "Team player": 0.3172,
+            "self-starter": 0.2809,
+            "Working knowledge": 0.2192,
+            "J2EE": 0.6081,
+            "Oracle": 0.5636,
+            "Unix O/S": 0.8729,
+            "Linux": 0.9226,
+            "LDAP": 0.408,
+            "Database": 0.4115,
+            "Service Oriented Architecture": 0.6607,
+            "Mainframe": 0.882,
+            "Remedy": 0.6306,
+            "Virtual Machine": 0.6835,
+            "MS Office": 0.688,
+            "Word": 0.3843,
+            "PowerPoint": 0.4322,
+            "Excel": 0.3871
+        },
+        "filename": "cv (4472)_annotated.json"
+    }
+}

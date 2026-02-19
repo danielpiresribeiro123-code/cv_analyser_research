@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "PUBLIC RELATIONS/SOCIAL MEDIA MANAGEMENT",
+        "strong communications",
+        "event planning",
+        "media relations",
+        "social media",
+        "project management skills",
+        "ability to execute projects effectively and efficiently",
+        "English/Spanish",
+        "Social Media Management",
+        "Public Relations and Social Media",
+        "Digital Social Media",
+        "lifestyle media relations",
+        "entertainment",
+        "B2B",
+        "Social Media Management",
+        "content development",
+        "influencer marketing",
+        "strategic partnerships",
+        "cause marketing",
+        "graphic design",
+        "web-design",
+        "production",
+        "philanthropy"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Public Relations Manager",
+            "brand representative",
+            "Public Relations and Social Media Manager"
+        ],
+        "company": [
+            "Company Name",
+            "VMU"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "PUBLIC RELATIONS/SOCIAL MEDIA MANAGEMENT": 0.2347,
+            "strong communications": 0.2123,
+            "event planning": 0.1613,
+            "media relations": 0.2329,
+            "social media": 0.1953,
+            "project management skills": 0.4419,
+            "ability to execute projects effectively and efficiently": 0.1693,
+            "English/Spanish": 0.2788,
+            "Social Media Management": 0.3016,
+            "Public Relations and Social Media": 0.3826,
+            "Digital Social Media": 0.1725,
+            "lifestyle media relations": 0.2652,
+            "entertainment": 0.1708,
+            "B2B": 0.2114,
+            "content development": 0.3688,
+            "influencer marketing": 0.2434,
+            "strategic partnerships": 0.1762,
+            "cause marketing": 0.3319,
+            "graphic design": 0.2763,
+            "web-design": 0.2594,
+            "production": 0.1722,
+            "philanthropy": 0.1797
+        },
+        "filename": "cv (4761)_annotated.json"
+    }
+}

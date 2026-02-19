@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "people person",
+        "PICCs",
+        "PICUs"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "technical advisor",
+            "Paramedic",
+            "Nurse",
+            "Travel Nurse",
+            "Manager",
+            "Educator",
+            "Consultant",
+            "Director",
+            "Regulator",
+            "Directors",
+            "ED nurse",
+            "Resource/ED Nurse",
+            "Resource Nurse",
+            "Supervisor",
+            "ED Registry",
+            "EMS/Education/Human Resources and National Affairs",
+            "EMT\\Paramedic",
+            "education"
+        ],
+        "company": [
+            "Readylink Healthcare",
+            "Sarah Bush Lincoln Healthcare",
+            "Agostini and Associates",
+            "Provena Covenant Medical Center",
+            "St. Margaret Mercy Hospital(s)",
+            "Daley's Ambulance\\Co*Med Transport"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Mattoon, Illinois",
+            "Merced, California"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "people person": 0.5902,
+            "PICCs": 0.2428,
+            "PICUs": 0.1568
+        },
+        "filename": "cv (4523)_annotated.json"
+    }
+}

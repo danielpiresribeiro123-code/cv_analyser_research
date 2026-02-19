@@ -1,0 +1,106 @@
+{
+    "skills": [
+        "English",
+        "Hindi",
+        "Urdu",
+        "Fresher",
+        "Mechanical  Engineering",
+        "10+2",
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "HVAC",
+        "Designing & Drafting",
+        "Duct Sizing",
+        "Duct Designing",
+        "Architectural & Civil Drawing Analysis",
+        "Calculations & Selection",
+        "Heat Load Calculation",
+        "Estimation & Costing",
+        "Chiller Plant selection",
+        "AHU & FCU selection",
+        "FFL",
+        "RCP",
+        "Metal of duct selection",
+        "AutoCAD 2015",
+        "Ravit MEP",
+        "Duct Sizer",
+        "Hourly Analysis Program(HAP)",
+        "PipeSizer",
+        "Cooling  system"
+    ],
+    "professional_info": {
+        "person name": [
+            "TAUSIF FAROOQUEE",
+            "MD FAROOQUE"
+        ],
+        "job title": [],
+        "company": [
+            "Humza Cyber Cafe",
+            "Bihar  School  Examination  Board",
+            "Bihar School Examination Board",
+            "Taiba Engineering Consultant ( TEC)",
+            "Central Coal Field Ltd. (CCL)"
+        ],
+        "university": [
+            "Jawahar  Lal  Nehru Technological University"
+        ],
+        "degree": [
+            "Bachelor  of  Technology"
+        ],
+        "years of experience": [
+            "Unmarried",
+            "Experience"
+        ],
+        "address": [
+            "Contact Address",
+            "H.NO. 112 A",
+            "2nd Floor",
+            "Pin: 110025",
+            "Permanent Address",
+            "ABUPF0207B"
+        ],
+        "email": [
+            "E- mail",
+            "tausif19894@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9717048042"
+        ]
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "English": 0.8473,
+            "Hindi": 0.7656,
+            "Urdu": 0.7367,
+            "Fresher": 0.2661,
+            "Mechanical  Engineering": 0.5478,
+            "10+2": 0.2124,
+            "Physics": 0.5004,
+            "Chemistry": 0.5358,
+            "Mathematics": 0.5575,
+            "HVAC": 0.2256,
+            "Designing & Drafting": 0.289,
+            "Duct Sizing": 0.3798,
+            "Duct Designing": 0.3271,
+            "Architectural & Civil Drawing Analysis": 0.2633,
+            "Calculations & Selection": 0.2334,
+            "Heat Load Calculation": 0.3363,
+            "Estimation & Costing": 0.3305,
+            "Chiller Plant selection": 0.2815,
+            "AHU & FCU selection": 0.1838,
+            "FFL": 0.2801,
+            "RCP": 0.2492,
+            "Metal of duct selection": 0.2891,
+            "AutoCAD 2015": 0.6733,
+            "Ravit MEP": 0.5714,
+            "Duct Sizer": 0.3361,
+            "Hourly Analysis Program(HAP)": 0.5471,
+            "PipeSizer": 0.3781,
+            "Cooling  system": 0.3183
+        },
+        "filename": "cv (1982)_annotated.json"
+    }
+}

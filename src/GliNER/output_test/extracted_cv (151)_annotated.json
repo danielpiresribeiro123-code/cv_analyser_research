@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "R E S U M E",
+        "A",
+        "Site work",
+        "Expertise",
+        "Reinforcement Checking",
+        "C"
+    ],
+    "professional_info": {
+        "person name": [
+            "P. CHIDAMBARAM",
+            "chidambaram0789"
+        ],
+        "job title": [
+            "Site Engineer",
+            "Production & Finishing",
+            "environmentally conscious architects and designers",
+            "Site In charge"
+        ],
+        "company": [
+            "STANELY HI TECH Construction Company (P) Limited",
+            "ORGANISATIONAL  FACETS",
+            "Green Tree Homes & Ventures",
+            "B+G+14",
+            "Green-201",
+            "Green Tree Homes",
+            "Chennai based real estate company",
+            "Niroopa Properties Pvt.Ltd",
+            "G+2"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "over 20 years of industry experience"
+        ],
+        "address": [],
+        "email": [
+            "E-MAIL",
+            "gmail.com",
+            "+919962490498"
+        ],
+        "phone": [
+            "MOBILE"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "R E S U M E": 0.2934,
+            "A": 0.178,
+            "Site work": 0.1711,
+            "Expertise": 0.1664,
+            "Reinforcement Checking": 0.2042,
+            "C": 0.179
+        },
+        "filename": "cv (151)_annotated.json"
+    }
+}

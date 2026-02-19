@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "capabilities",
+        "professional skills",
+        "Cont",
+        "COMPUTER SKILLS",
+        "Ms. Office",
+        "DIPLOMA, HSE OFFICER",
+        "Diploma in Safety Officer",
+        "OIL AND GAS SAFETY",
+        "CONSTRUCTION SAFETY",
+        "INTERNATIONAL GENERAL SAFETY",
+        "PROFESSIONAL CERTIFICATE PROGRAME",
+        "OSHA Officer Certification",
+        "Introduction to occupational Safety and Health",
+        "Personal Protective Equipment",
+        "Confined Space",
+        "Scaffold Safety",
+        "Safety Supervision and Leadership Skills",
+        "Electrical Safety",
+        "Effective incident investigations",
+        "Nebosh General Certificate 1&2",
+        "Nebosh IGC 3",
+        "HABC Level 2 Fire & Safety",
+        "UK Certificate",
+        "codes  of  practice",
+        "relevant standards"
+    ],
+    "professional_info": {
+        "person name": [
+            "URRICULUM",
+            "GULFAM HUSSAIN",
+            "Haji RehmatHussain",
+            "Pakistani"
+        ],
+        "job title": [
+            "CERTIFIED"
+        ],
+        "company": [
+            "ITAE",
+            "progressive organization",
+            "Pakistan Safety",
+            "Safety First International"
+        ],
+        "university": [
+            "Urdu University"
+        ],
+        "degree": [
+            "Matriculation",
+            "B.Com"
+        ],
+        "years of experience": [],
+        "address": [
+            "Internet"
+        ],
+        "email": [
+            "E.MAIL",
+            "hotmail.com",
+            "WHATSAPP"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "capabilities": 0.1573,
+            "professional skills": 0.4357,
+            "Cont": 0.194,
+            "COMPUTER SKILLS": 0.4715,
+            "Ms. Office": 0.2455,
+            "DIPLOMA, HSE OFFICER": 0.4534,
+            "Diploma in Safety Officer": 0.6763,
+            "OIL AND GAS SAFETY": 0.5663,
+            "CONSTRUCTION SAFETY": 0.7081,
+            "INTERNATIONAL GENERAL SAFETY": 0.1936,
+            "PROFESSIONAL CERTIFICATE PROGRAME": 0.526,
+            "OSHA Officer Certification": 0.8005,
+            "Introduction to occupational Safety and Health": 0.5642,
+            "Personal Protective Equipment": 0.6753,
+            "Confined Space": 0.6079,
+            "Scaffold Safety": 0.6963,
+            "Safety Supervision and Leadership Skills": 0.4637,
+            "Electrical Safety": 0.7289,
+            "Effective incident investigations": 0.2869,
+            "Nebosh General Certificate 1&2": 0.4002,
+            "Nebosh IGC 3": 0.1991,
+            "HABC Level 2 Fire & Safety": 0.2874,
+            "UK Certificate": 0.4768,
+            "codes  of  practice": 0.2631,
+            "relevant standards": 0.6755
+        },
+        "filename": "cv (3919)_annotated.json"
+    }
+}

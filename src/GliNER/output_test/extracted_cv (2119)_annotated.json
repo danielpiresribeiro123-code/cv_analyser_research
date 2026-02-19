@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "dedicated",
+        "worthful",
+        "energetic",
+        "UN MARRIED",
+        "HINDI",
+        "ENGLISH",
+        "URDU"
+    ],
+    "professional_info": {
+        "person name": [
+            "GENDER",
+            "INDIAN"
+        ],
+        "job title": [
+            "MS Gas Pipe line fitter",
+            "Coper Gas Pipe line fitter",
+            "1G, 2G, 3G, 4G ARC welder",
+            "Machine Tulls maintenance"
+        ],
+        "company": [
+            "AFTAB KHAN",
+            "S/O SAFIK KHAN",
+            "HASSANI GROUP OF ACCOMMODATION",
+            "futuristic gas system pvt ltd",
+            "Dempo Ship Bulilding &, engineering pvt ltd",
+            "Hassani Grup of Companies",
+            "S.S.C     ALLAHBAD GOVT SCHOOL  UP BORD"
+        ],
+        "university": [
+            "+12       JUNIOR COLLEGE         UP BORD"
+        ],
+        "degree": [],
+        "years of experience": [
+            "4 Years",
+            "2 Years",
+            "MALE"
+        ],
+        "address": [
+            "DUBAI INVESTMENT PARK-2",
+            "DUBAI",
+            "ZAMANIA RAILWAY STATION",
+            "BARUIN"
+        ],
+        "email": [
+            "00971568771158",
+            "E-MAIL",
+            "tusim9bd@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "dedicated": 0.2281,
+            "worthful": 0.238,
+            "energetic": 0.168,
+            "UN MARRIED": 0.2872,
+            "HINDI": 0.7425,
+            "ENGLISH": 0.8524,
+            "URDU": 0.72
+        },
+        "filename": "cv (2119)_annotated.json"
+    }
+}

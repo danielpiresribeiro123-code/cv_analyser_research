@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "Department of Psychology",
+        "Medidas de Fluxo de Informação com  Apicação em Neurociência"
+    ],
+    "professional_info": {
+        "person name": [
+            "Daniel Yasumasa Takahashi",
+            "Asif Ghazanfar",
+            "Antonio Galves",
+            "Koichi Sameshima",
+            "Luiz Antonio Baccalá",
+            "Paulo Domingos Cordaro",
+            "Takahashi DY",
+            "Fenley AR",
+            "Teramoto",
+            "Narayanan DZ",
+            "Borjon JI",
+            "Holmes P",
+            "Ghazanfar AA",
+            "Choi JY"
+        ],
+        "job title": [
+            "Postdoctoral Research Fellow"
+        ],
+        "company": [],
+        "university": [
+            "Neuroscience Institute",
+            "Princeton University",
+            "Universidade de São Paulo",
+            "USP"
+        ],
+        "degree": [
+            "PhD in Bioinformatics",
+            "Bachelor's in Computational and Applied Mathematics",
+            "Teorema do Núcleo de Schwartz",
+            "Medical degree"
+        ],
+        "years of experience": [],
+        "address": [
+            "Princeton, NJ",
+            "08540"
+        ],
+        "email": [
+            "e-mail",
+            "dtakahas@princeton.edu",
+            "takahashiyd@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "Department of Psychology": 0.3876,
+            "Medidas de Fluxo de Informação com  Apicação em Neurociência": 0.1574
+        },
+        "filename": "cv (1341)_annotated.json"
+    }
+}

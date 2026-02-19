@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "Management",
+        "dedication",
+        "Male",
+        "Capable of working as an individual",
+        "Dedicated and hardworking",
+        "Self-confidence",
+        "Ability to perform well under critical pressures",
+        "Computer Science",
+        "Ms.office",
+        "Adv. Excel",
+        "Tally Erp",
+        "Focus",
+        "Wings",
+        "Retail Pro",
+        "JD Edwards",
+        "English",
+        "Urdu",
+        "Arabic",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "SYED RAHMATH ULLAH",
+            "syedrahmath87",
+            "Syed Naimath ullah"
+        ],
+        "job title": [
+            "Accountant / Administrator",
+            "CHARTED ACCOUNTANT",
+            "Accountant",
+            "Accountant / Inventory Controller",
+            "Senior Branch"
+        ],
+        "company": [
+            "COLLEGE YEARUNIVERSITY",
+            "R.G. Kedia College of Commerce2009Osmania University",
+            "St.Joseph College",
+            "IQBAL & ASSOCIATES",
+            "CA firm",
+            "FERRUCCI",
+            "DANUBE FOOD & BEVERAGES"
+        ],
+        "university": [],
+        "degree": [
+            "Bachelor of Commerce (Computers)"
+        ],
+        "years of experience": [
+            "Married"
+        ],
+        "address": [],
+        "email": [
+            "email",
+            "Syedrahmath87@yahoo.com"
+        ],
+        "phone": [
+            "Mobile No",
+            "+ 91 9885990505",
+            "Skype"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Management": 0.2228,
+            "dedication": 0.3283,
+            "Male": 0.1561,
+            "Capable of working as an individual": 0.4656,
+            "Dedicated and hardworking": 0.5359,
+            "Self-confidence": 0.5926,
+            "Ability to perform well under critical pressures": 0.1744,
+            "Computer Science": 0.3132,
+            "Ms.office": 0.6722,
+            "Adv. Excel": 0.6534,
+            "Tally Erp": 0.5881,
+            "Focus": 0.4928,
+            "Wings": 0.5021,
+            "Retail Pro": 0.6969,
+            "JD Edwards": 0.4008,
+            "English": 0.6603,
+            "Urdu": 0.7606,
+            "Arabic": 0.1774,
+            "Hindi": 0.76
+        },
+        "filename": "cv (2431)_annotated.json"
+    }
+}

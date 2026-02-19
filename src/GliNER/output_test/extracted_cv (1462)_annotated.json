@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "Maintenance",
+        "Transport",
+        "WAREHOUSING",
+        "SUPPLY CHAIN MANAGEMENT",
+        "CUSTOMER RELATIONSHIP",
+        "TRANSPORTATION",
+        "Warehousing Inventory",
+        "Stock Control",
+        "Inventory checking",
+        "Inventory",
+        "Transport",
+        "Customer Care",
+        "KUWAIT License",
+        "UAE light License",
+        "Oman light license",
+        "Tamil",
+        "English",
+        "Hindi",
+        "Malayalam",
+        "Arabic"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sa.abdulkader",
+            "sa_abdulkader",
+            "SS.Ahamed Sha"
+        ],
+        "job title": [
+            "Logistics Person",
+            "Team Leader"
+        ],
+        "company": [
+            "Agility",
+            "PWC Logistics Global logistics LLC",
+            "Warehouseman – Kuwait",
+            "pwc",
+            "agility logistics",
+            "Kuwait National Petroleum Company"
+        ],
+        "university": [
+            "ITI"
+        ],
+        "degree": [
+            "SSLC Secondary school Leaving Certificate"
+        ],
+        "years of experience": [
+            "3 +8 years",
+            "EXPERIENCE",
+            "Married",
+            "Male"
+        ],
+        "address": [
+            "ECNR",
+            "Permanent Home address"
+        ],
+        "email": [
+            "E-mail",
+            "- abdul4461@yahoo.com",
+            "1994",
+            "Second Class"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Maintenance": 0.3832,
+            "Transport": 0.2058,
+            "WAREHOUSING": 0.3232,
+            "SUPPLY CHAIN MANAGEMENT": 0.1512,
+            "CUSTOMER RELATIONSHIP": 0.1501,
+            "TRANSPORTATION": 0.2404,
+            "Warehousing Inventory": 0.4019,
+            "Stock Control": 0.352,
+            "Inventory checking": 0.354,
+            "Inventory": 0.3562,
+            "Customer Care": 0.1503,
+            "KUWAIT License": 0.2833,
+            "UAE light License": 0.3943,
+            "Oman light license": 0.3813,
+            "Tamil": 0.2217,
+            "English": 0.5362,
+            "Hindi": 0.5595,
+            "Malayalam": 0.34,
+            "Arabic": 0.3022
+        },
+        "filename": "cv (1462)_annotated.json"
+    }
+}

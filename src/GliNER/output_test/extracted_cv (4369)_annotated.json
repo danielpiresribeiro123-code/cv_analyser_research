@@ -1,0 +1,45 @@
+{
+    "skills": [
+        "work ethics",
+        "great customer service skills",
+        "team player",
+        "Experience"
+    ],
+    "professional_info": {
+        "person name": [
+            "TEACHER",
+            "Current Company Name"
+        ],
+        "job title": [
+            "TRS innovative committee member",
+            "Senior Accountant",
+            "senior management"
+        ],
+        "company": [
+            "Texas Education Agency",
+            "TRS",
+            "Health Care vendor",
+            "third party vendor"
+        ],
+        "university": [
+            "management"
+        ],
+        "degree": [
+            "Bachelors degree program"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "work ethics": 0.4395,
+            "great customer service skills": 0.4912,
+            "team player": 0.3667,
+            "Experience": 0.2025
+        },
+        "filename": "cv (4369)_annotated.json"
+    }
+}

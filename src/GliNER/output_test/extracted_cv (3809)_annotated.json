@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "safety management",
+        "toolbox talks",
+        "housekeeping",
+        "ppe enforcement",
+        "Health and Safety at Work",
+        "Managing Safely",
+        "Health and Safety at work place",
+        "Fire Safety",
+        "Diploma in Construction Safety ( One Year )",
+        "Diploma in Industrial Safety (One Year )",
+        "Diploma in Software Engineering (One Year )",
+        "IOGSC-16162993"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Safety Officer",
+            "safety professional",
+            "ExperienceSafety Officer",
+            "Lead Auditor",
+            "Scaffolding Inspector",
+            "Fireman"
+        ],
+        "company": [
+            "NEBOSH",
+            "IOSH",
+            "IRCA",
+            "STI",
+            "HABC",
+            "BSS",
+            "BOC GASES (INDIA)",
+            "Institution of Occupational Safety and Health",
+            "Bharat Sevak Samaj",
+            "Industrial Training Institute",
+            "Associate Member Oil and Gas Safety Council Singapore"
+        ],
+        "university": [
+            "NIIT",
+            "UNIVERSITY OF CALCUTTA",
+            "ITI",
+            "NEBOSH",
+            "IOSH",
+            "IRCA"
+        ],
+        "degree": [
+            "Bachelor of Commerce"
+        ],
+        "years of experience": [
+            "9+ years",
+            "experience"
+        ],
+        "address": [
+            "P.S. Ariari  District Sheikhpura"
+        ],
+        "email": [
+            "safety_asadkhan1999@yahoo.com",
+            "+91 8521667292"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "safety management": 0.1676,
+            "toolbox talks": 0.1839,
+            "housekeeping": 0.2073,
+            "ppe enforcement": 0.2041,
+            "Health and Safety at Work": 0.2518,
+            "Managing Safely": 0.2836,
+            "Health and Safety at work place": 0.2052,
+            "Fire Safety": 0.2957,
+            "Diploma in Construction Safety ( One Year )": 0.5785,
+            "Diploma in Industrial Safety (One Year )": 0.5708,
+            "Diploma in Software Engineering (One Year )": 0.4577,
+            "IOGSC-16162993": 0.1963
+        },
+        "filename": "cv (3809)_annotated.json"
+    }
+}

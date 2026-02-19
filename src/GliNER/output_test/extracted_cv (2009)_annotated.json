@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "P.O- Sudna",
+        "integrity",
+        "honesty",
+        "commitment",
+        "team work",
+        "TECHNICAL SKILL",
+        "B.E(Civil Engg. )",
+        "Knowledg e",
+        "Auto c ad",
+        "COMPUTER  PROFICIENCY",
+        "Window s",
+        "XP",
+        "COMPETENCIES",
+        "Team Player",
+        "Good  Communication",
+        "Presentation",
+        "Analytical Skills",
+        "Smart Work",
+        "problem solving skills",
+        "Organized and well structured at work",
+        "Male",
+        "Single",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "AMIT KUMAR SINGH",
+            "Ram  pravesh singh",
+            "Rampravesh singh",
+            "Indian"
+        ],
+        "job title": [
+            "site engineer",
+            "s ite engineer"
+        ],
+        "company": [
+            "nkg infrastructure",
+            "buliding work",
+            "vijay consruction",
+            "shaktin agar sonbhdra UP",
+            "RGPV",
+            "cgpa",
+            "HSC  JAC",
+            "SSC JAC",
+            "public work department"
+        ],
+        "university": [
+            "University/Board"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Street No -6  Das garden                                                      Gayatri  Mandir Road"
+        ],
+        "email": [
+            "kumarsingh112@gmail.com"
+        ],
+        "phone": [
+            "Phone  No-: 8871469667",
+            "7840864777"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "P.O- Sudna": 0.1615,
+            "integrity": 0.3218,
+            "honesty": 0.2412,
+            "commitment": 0.2971,
+            "team work": 0.3054,
+            "TECHNICAL SKILL": 0.3416,
+            "B.E(Civil Engg. )": 0.3632,
+            "Knowledg e": 0.1561,
+            "Auto c ad": 0.2502,
+            "COMPUTER  PROFICIENCY": 0.6191,
+            "Window s": 0.5333,
+            "XP": 0.2952,
+            "COMPETENCIES": 0.1901,
+            "Team Player": 0.4417,
+            "Good  Communication": 0.2768,
+            "Presentation": 0.2575,
+            "Analytical Skills": 0.3528,
+            "Smart Work": 0.552,
+            "problem solving skills": 0.4655,
+            "Organized and well structured at work": 0.3485,
+            "Male": 0.4401,
+            "Single": 0.4468,
+            "English": 0.5266
+        },
+        "filename": "cv (2009)_annotated.json"
+    }
+}

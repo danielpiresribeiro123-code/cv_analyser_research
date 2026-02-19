@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "ELECTRICAL ENGINEERING",
+        "PTW"
+    ],
+    "professional_info": {
+        "person name": [
+            "SYED ALEEM RAZA"
+        ],
+        "job title": [
+            "Electrical Electrician",
+            "Electrical  Technician  Cum  Supervisor"
+        ],
+        "company": [
+            "CURRICULAM VITAE",
+            "ETA ENGINEERING  Pvt Ltd.",
+            "UB ENGINEERING",
+            "ETA-  EMCO (QATAR)",
+            "ITI",
+            "Industrial Training Institute Govt, of Delhi",
+            "Empirial Institute of Management Science & Research New Delhi"
+        ],
+        "university": [],
+        "degree": [
+            "DIPLOMA"
+        ],
+        "years of experience": [
+            "3 Years",
+            "2 Year",
+            "3 Year"
+        ],
+        "address": [
+            "181/5",
+            "CHHURIYA MOHALLA",
+            "TUGHLAKABAD",
+            "NEW DELHI",
+            "110044"
+        ],
+        "email": [
+            "E-mail",
+            "shobyraza@gmail.com",
+            "Class 1S.S.C UP BoardJune 2004",
+            "2H.S.C UP BoardJune 2007"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "ELECTRICAL ENGINEERING": 0.2766,
+            "PTW": 0.4826
+        },
+        "filename": "cv (4152)_annotated.json"
+    }
+}

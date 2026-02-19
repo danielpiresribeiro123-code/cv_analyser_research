@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "Civil engineering",
+        "Auto Cad",
+        "MS-Office Packages",
+        "MS-Excel",
+        "MS-Word",
+        "MS-Power point"
+    ],
+    "professional_info": {
+        "person name": [
+            "SOHIL AHMED NADAF",
+            "Graduate",
+            "PRESENT EMPLOYER"
+        ],
+        "job title": [
+            "Project engineer",
+            "EngineerFrom",
+            "Engineer-"
+        ],
+        "company": [
+            "well reputed company",
+            "VTU2010-2014First class",
+            "Synergy",
+            "Services Pvt, Ltd.",
+            "ArchitectM/s RSP",
+            "Innotech",
+            "KarnatakaStructural",
+            "KarnatakaAsst."
+        ],
+        "university": [
+            "University"
+        ],
+        "degree": [
+            "Asst."
+        ],
+        "years of experience": [
+            "64.00%"
+        ],
+        "address": [
+            "Communication Address",
+            "H.no-#254/1, 2nd cross",
+            "Narasaraj pet"
+        ],
+        "email": [
+            "Email",
+            "sohilahmed666 @gmail.com"
+        ],
+        "phone": [
+            "+91-7795212517"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Civil engineering": 0.2062,
+            "Auto Cad": 0.5746,
+            "MS-Office Packages": 0.4807,
+            "MS-Excel": 0.5001,
+            "MS-Word": 0.4886,
+            "MS-Power point": 0.5596
+        },
+        "filename": "cv (4139)_annotated.json"
+    }
+}

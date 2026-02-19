@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "personal Attributes",
+        "professional skills",
+        "Technical Skills",
+        "AutoCAD",
+        "diploma 2012",
+        "Certifications",
+        "diploma",
+        "Strengths",
+        "Diligent",
+        "Self-motivated",
+        "Determined to learn",
+        "English",
+        "Hindi",
+        "Punjabi"
+    ],
+    "professional_info": {
+        "person name": [
+            "Vikash Jangir",
+            "Navratan Jangir",
+            "Indian"
+        ],
+        "job title": [],
+        "company": [
+            "SIMPLEX",
+            "INFRASTRUCTURE LTD .",
+            "INFRASTRUCTURE  LTD."
+        ],
+        "university": [
+            "Rajasthan Technical U",
+            "niversity",
+            "Polytechnic  BTER",
+            "10th  RBSE"
+        ],
+        "degree": [
+            "B.Tech"
+        ],
+        "years of experience": [],
+        "address": [
+            "M.P chowk",
+            "sadu lpur",
+            "Dist. - churu",
+            "331023"
+        ],
+        "email": [
+            "vjangid.civil1@gmail.com",
+            "Contact No."
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "personal Attributes": 0.1654,
+            "professional skills": 0.2992,
+            "Technical Skills": 0.4445,
+            "AutoCAD": 0.1817,
+            "diploma 2012": 0.3199,
+            "Certifications": 0.2723,
+            "diploma": 0.1668,
+            "Strengths": 0.2959,
+            "Diligent": 0.4103,
+            "Self-motivated": 0.3714,
+            "Determined to learn": 0.1791,
+            "English": 0.6688,
+            "Hindi": 0.7768,
+            "Punjabi": 0.7943
+        },
+        "filename": "cv (1707)_annotated.json"
+    }
+}

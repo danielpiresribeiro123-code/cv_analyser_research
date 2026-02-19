@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "Instrumentation / Industrial Automation",
+        "Project Management",
+        "Professional Skills",
+        "Hardware Design Engineering",
+        "Segregation Philosophy",
+        "Controller",
+        "Locate DCS faults"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMAD DILSHAD ALAM"
+        ],
+        "job title": [
+            "Instrument Project Engineer",
+            "Project Engineer",
+            "Commissioning engineer"
+        ],
+        "company": [
+            "Rockwell Automation",
+            "Inve nsys process system",
+            "Honeywell Middle East",
+            "Yokogawa Middle East",
+            "Engineering Division",
+            "Yokogawa Engineering Bahrain",
+            "Yokogawa Middle East Bahrain",
+            "PCQ-2 Tank farm and Berth Project (SADARA)"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Thirteen years"
+        ],
+        "address": [
+            "Millat Colony",
+            "Bari Road"
+        ],
+        "email": [
+            "E-mail",
+            "dilshadalam08@gmail.com"
+        ],
+        "phone": [
+            "+91 8860804247",
+            "+91 9934616618"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Instrumentation / Industrial Automation": 0.2262,
+            "Project Management": 0.2394,
+            "Professional Skills": 0.3022,
+            "Hardware Design Engineering": 0.156,
+            "Segregation Philosophy": 0.1788,
+            "Controller": 0.1523,
+            "Locate DCS faults": 0.1687
+        },
+        "filename": "cv (1809)_annotated.json"
+    }
+}

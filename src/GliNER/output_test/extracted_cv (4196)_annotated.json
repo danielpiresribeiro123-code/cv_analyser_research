@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "Unmarried",
+        "English",
+        "Hindi",
+        "Career Objective",
+        "Professional Qualification",
+        "CGP A  6.71/10",
+        "Senior Secondary Examination",
+        "Matriculation Examination",
+        "AUTOCAD",
+        "Staad Prov8i"
+    ],
+    "professional_info": {
+        "person name": [
+            "Bhuvnesh Sharma",
+            "Shakti C hand  Sharma",
+            "Shakti  Chand",
+            "Sharma",
+            "Sushma  Devi",
+            "Male",
+            "Indian",
+            "Satish"
+        ],
+        "job title": [
+            "Student ID No.  A140680133"
+        ],
+        "company": [
+            "Rampur hydroelectric  Project 412",
+            "Silver city group of companies"
+        ],
+        "university": [
+            "Indus International University",
+            "D.A.V Sr.Sec.School",
+            "H.P.B.S .E.",
+            "D.A.V .Sr.Sec.School",
+            "H.P.B.S.E."
+        ],
+        "degree": [
+            "B.tech  in Civil Engineering"
+        ],
+        "years of experience": [
+            "One year six months experience"
+        ],
+        "address": [
+            "Contact Address",
+            "Vill, Tihra  P.O Mandli"
+        ],
+        "email": [
+            "E-Mail",
+            "bhuvneshsharma004 @gmail.com"
+        ],
+        "phone": [
+            "Phone No",
+            "+91-8091601008"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Unmarried": 0.3218,
+            "English": 0.7514,
+            "Hindi": 0.7991,
+            "Career Objective": 0.1874,
+            "Professional Qualification": 0.3616,
+            "CGP A  6.71/10": 0.4003,
+            "Senior Secondary Examination": 0.437,
+            "Matriculation Examination": 0.4267,
+            "AUTOCAD": 0.3109,
+            "Staad Prov8i": 0.1976
+        },
+        "filename": "cv (4196)_annotated.json"
+    }
+}

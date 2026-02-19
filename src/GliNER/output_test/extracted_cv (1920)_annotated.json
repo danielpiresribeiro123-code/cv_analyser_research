@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "Construction/ Project Manag ement",
+        "multi-tasking  lead er",
+        "Highway Engineering",
+        "Quality Control/Quality Assurance of Bridges and Structural  Works",
+        "Major and Minor Bridges",
+        "small T & P",
+        "testing equipment",
+        "Project  Management",
+        "Bud geting  & Forecasting",
+        "Quality Control Management"
+    ],
+    "professional_info": {
+        "person name": [
+            "MUTHU KUMAR"
+        ],
+        "job title": [
+            "Engineer",
+            "Engineer(Civil)"
+        ],
+        "company": [
+            "Ashoka Buildcon Ltd",
+            "BKRP Project"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "over two  years of qualitative experience"
+        ],
+        "address": [
+            "Badami (Karnataka)"
+        ],
+        "email": [],
+        "phone": [
+            "+91 -9597836329"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Construction/ Project Manag ement": 0.2816,
+            "multi-tasking  lead er": 0.1865,
+            "Highway Engineering": 0.2733,
+            "Quality Control/Quality Assurance of Bridges and Structural  Works": 0.1982,
+            "Major and Minor Bridges": 0.1785,
+            "small T & P": 0.1561,
+            "testing equipment": 0.2227,
+            "Project  Management": 0.5013,
+            "Bud geting  & Forecasting": 0.1594,
+            "Quality Control Management": 0.439
+        },
+        "filename": "cv (1920)_annotated.json"
+    }
+}

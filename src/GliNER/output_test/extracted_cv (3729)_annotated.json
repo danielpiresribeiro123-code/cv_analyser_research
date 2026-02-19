@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "Enthusiastic self -starter",
+        "Academic Qualification",
+        "Technical Education",
+        "Instrumentation & Process Control",
+        "Computer Skill",
+        "Command & knowledge",
+        "S7 PLC Simulator",
+        "Autocad",
+        "Proteus",
+        "Electronic Workbench",
+        "Orcad (PCB)",
+        "Multisim",
+        "C  Language",
+        "Assembly Language",
+        "Matlab",
+        "MS Word",
+        "MS Excel",
+        "MS PowerPoint",
+        "Net Browsing",
+        "Field Of Interest",
+        "Automation & Control",
+        "Designing",
+        "Telecommunication",
+        "Industrial Electronics"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [],
+        "company": [],
+        "university": [
+            "NED University",
+            "IQRA  Universi ty Karachi",
+            "Sindh Board of Technical Education Karachi"
+        ],
+        "degree": [
+            "M.E Industrial Electro nics",
+            "B.E (Electronic s)",
+            "DAE"
+        ],
+        "years of experience": [],
+        "address": [
+            "Karachi # 31"
+        ],
+        "email": [
+            "mailto",
+            "mueed_fu@hotmail.com",
+            "Ph"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Enthusiastic self -starter": 0.2421,
+            "Academic Qualification": 0.4293,
+            "Technical Education": 0.1639,
+            "Instrumentation & Process Control": 0.6004,
+            "Computer Skill": 0.3606,
+            "Command & knowledge": 0.2348,
+            "S7 PLC Simulator": 0.2493,
+            "Autocad": 0.3163,
+            "Proteus": 0.2147,
+            "Electronic Workbench": 0.3824,
+            "Orcad (PCB)": 0.2728,
+            "Multisim": 0.2108,
+            "C  Language": 0.7786,
+            "Assembly Language": 0.7358,
+            "Matlab": 0.3753,
+            "MS Word": 0.5227,
+            "MS Excel": 0.4273,
+            "MS PowerPoint": 0.4961,
+            "Net Browsing": 0.4532,
+            "Field Of Interest": 0.1913,
+            "Automation & Control": 0.5352,
+            "Designing": 0.4438,
+            "Telecommunication": 0.3862,
+            "Industrial Electronics": 0.3678
+        },
+        "filename": "cv (3729)_annotated.json"
+    }
+}

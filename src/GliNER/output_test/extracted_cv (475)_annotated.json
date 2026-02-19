@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "Hindi",
+        "English",
+        "Indian",
+        "UP  Board",
+        "UP Board",
+        "PGDCA",
+        "Public Library",
+        "LIBRARY SKILL",
+        "Cataloguing and classification",
+        "KEY SKILL",
+        "Good interpersonal skill",
+        "My convincing power",
+        "Hard Working and sincere",
+        "Quick Learning ability",
+        "Listening to music",
+        "Reading books"
+    ],
+    "professional_info": {
+        "person name": [
+            "Santosh Kumar  Bhatt",
+            "Purshottam Bhatt"
+        ],
+        "job title": [
+            "Major.S.B Dutt",
+            "Librarian",
+            "Assistant Librarian",
+            "staff"
+        ],
+        "company": [],
+        "university": [
+            "H.N.B Garhwal University",
+            "Uttaranchal  Open University",
+            "Hiltron",
+            "IGNOU",
+            "Algappa University",
+            "Graphic Era Deemed, University"
+        ],
+        "degree": [
+            "Ph.No.9410576161",
+            "B.A",
+            "Intermediate",
+            "M.Sc in (I.T)",
+            "B.Lib.sc",
+            "M.Lib.sc"
+        ],
+        "years of experience": [
+            "Married",
+            "Two Year Experience",
+            "Ten Year Experience"
+        ],
+        "address": [
+            "Guru Dwara colony",
+            "Clement Town"
+        ],
+        "email": [
+            "EMAIL ID",
+            "Beliwal.santosh3@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Hindi": 0.9449,
+            "English": 0.9338,
+            "Indian": 0.232,
+            "UP  Board": 0.2869,
+            "UP Board": 0.1943,
+            "PGDCA": 0.8973,
+            "Public Library": 0.4947,
+            "LIBRARY SKILL": 0.2737,
+            "Cataloguing and classification": 0.2134,
+            "KEY SKILL": 0.3517,
+            "Good interpersonal skill": 0.4147,
+            "My convincing power": 0.366,
+            "Hard Working and sincere": 0.1792,
+            "Quick Learning ability": 0.406,
+            "Listening to music": 0.219,
+            "Reading books": 0.1997
+        },
+        "filename": "cv (475)_annotated.json"
+    }
+}

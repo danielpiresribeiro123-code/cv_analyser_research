@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "Process driven",
+        "goal oriented",
+        "self-motivated",
+        "Immediate Value Offered",
+        "Technical Acumen",
+        "STRATEGIC PLANNING & ENABLEMENT",
+        "DNS",
+        "TCP/IP",
+        "Rapid7 Vulnerability Assessment Platform",
+        "Firewall",
+        "IDS/IPS",
+        "Web Filter/Proxy",
+        "Accomplishments",
+        "Outstanding",
+        "Mentoring skills",
+        "PROJECT SCOPE AND SCHEDULING",
+        "Security INFRASTRUCTURE",
+        "IT ANALYTICS",
+        "ORIENTATION",
+        "experience",
+        "Management",
+        "Experience",
+        "CROSS FUNCTIONAL COLLABORATION",
+        "acumen",
+        "RESOURCES UTILIZATION",
+        "DEVELOPMENT",
+        "CHANGE MANAGEMENT"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INFORMATION TECHNOLOGY PROVISIONING TECHNICIAN",
+            "Information Security Leader",
+            "Governance manager",
+            "Influential change agent"
+        ],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Microsoft Exchange",
+            "Mail"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "Process driven": 0.2996,
+            "goal oriented": 0.2297,
+            "self-motivated": 0.298,
+            "Immediate Value Offered": 0.2247,
+            "Technical Acumen": 0.6006,
+            "STRATEGIC PLANNING & ENABLEMENT": 0.2056,
+            "DNS": 0.3685,
+            "TCP/IP": 0.4553,
+            "Rapid7 Vulnerability Assessment Platform": 0.1866,
+            "Firewall": 0.5015,
+            "IDS/IPS": 0.4722,
+            "Web Filter/Proxy": 0.4062,
+            "Accomplishments": 0.2164,
+            "Outstanding": 0.2832,
+            "Mentoring skills": 0.3225,
+            "PROJECT SCOPE AND SCHEDULING": 0.1953,
+            "Security INFRASTRUCTURE": 0.2104,
+            "IT ANALYTICS": 0.2062,
+            "ORIENTATION": 0.223,
+            "experience": 0.173,
+            "Management": 0.4121,
+            "Experience": 0.2057,
+            "CROSS FUNCTIONAL COLLABORATION": 0.2676,
+            "acumen": 0.2976,
+            "RESOURCES UTILIZATION": 0.2774,
+            "DEVELOPMENT": 0.2393,
+            "CHANGE MANAGEMENT": 0.3834
+        },
+        "filename": "cv (4721)_annotated.json"
+    }
+}

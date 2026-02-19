@@ -1,0 +1,101 @@
+{
+    "skills": [
+        "INSTRUMENTATION & CONTROL",
+        "Instrumentation",
+        "Automation",
+        "Calibration",
+        "Maintenance",
+        "SSC",
+        "STRENGTHS",
+        "Self-Confident",
+        "Good team member",
+        "Sincere",
+        "hardworking",
+        "Problem",
+        "Solving",
+        "Ability  to work under pressure",
+        "Adjustable nature",
+        "Punctual",
+        "PLC and SCADA",
+        "B.E. – PROJECT",
+        "Microcontroller based digital tachometer",
+        "PERSONAL SKILLS",
+        "Innovative & creative",
+        "Good Communication skills",
+        "Management skills",
+        "Quick learner",
+        "Basic Knowledge of Hardware & software",
+        "MS Word",
+        "MS PowerPoint",
+        "MS Excel"
+    ],
+    "professional_info": {
+        "person name": [
+            "JETHVA SUMIT MANSUKHBHAI",
+            "maharshi ved vigayan vishva",
+            "vidhyapith"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "University",
+            "Technological",
+            "Krishna science",
+            "GHSEB",
+            "GSEB",
+            "royal education development foundation trust"
+        ],
+        "degree": [
+            "BACHELOR  OF ENGINEERING",
+            "B. E.",
+            "HSC",
+            "G.S.E.C.L"
+        ],
+        "years of experience": [],
+        "address": [
+            "Vaishnav nagar",
+            "Mangrol road"
+        ],
+        "email": [
+            "E-mail",
+            "sumitjethva93@gmail.com"
+        ],
+        "phone": [
+            "+91 -9737866676"
+        ]
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "INSTRUMENTATION & CONTROL": 0.4715,
+            "Instrumentation": 0.3842,
+            "Automation": 0.3697,
+            "Calibration": 0.1866,
+            "Maintenance": 0.1901,
+            "SSC": 0.4044,
+            "STRENGTHS": 0.2079,
+            "Self-Confident": 0.5509,
+            "Good team member": 0.5411,
+            "Sincere": 0.4942,
+            "hardworking": 0.577,
+            "Problem": 0.3766,
+            "Solving": 0.3195,
+            "Ability  to work under pressure": 0.4224,
+            "Adjustable nature": 0.3977,
+            "Punctual": 0.3983,
+            "PLC and SCADA": 0.1872,
+            "B.E. – PROJECT": 0.4795,
+            "Microcontroller based digital tachometer": 0.3641,
+            "PERSONAL SKILLS": 0.3284,
+            "Innovative & creative": 0.2819,
+            "Good Communication skills": 0.2644,
+            "Management skills": 0.2954,
+            "Quick learner": 0.6793,
+            "Basic Knowledge of Hardware & software": 0.2569,
+            "MS Word": 0.5179,
+            "MS PowerPoint": 0.6028,
+            "MS Excel": 0.5578
+        },
+        "filename": "cv (2846)_annotated.json"
+    }
+}

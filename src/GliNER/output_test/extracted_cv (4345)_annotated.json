@@ -1,0 +1,48 @@
+{
+    "skills": [
+        "Rangoli Artistic Merit Award",
+        "basic science",
+        "people skills",
+        "Bollywood",
+        "Bharathanatyam"
+    ],
+    "professional_info": {
+        "person name": [
+            "TEACHER"
+        ],
+        "job title": [
+            "Lead/Post-Graduate Company Dancer",
+            "senior dancer",
+            "Vice President of Youth Committee and Volunteer",
+            "committee member",
+            "Vice President of Volunteer Group"
+        ],
+        "company": [
+            "RANGOLI DANCE COMPANY",
+            "DisneyÂ®",
+            "KARNATAKA CULTURAL ASSOCIATION OF SOUTHERN CALIFORNIA",
+            "LAKEVIEW SENIOR CENTER",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Los Angeles, CA",
+            "Long Beach, CA"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Rangoli Artistic Merit Award": 0.2892,
+            "basic science": 0.2837,
+            "people skills": 0.338,
+            "Bollywood": 0.1754,
+            "Bharathanatyam": 0.17
+        },
+        "filename": "cv (4345)_annotated.json"
+    }
+}

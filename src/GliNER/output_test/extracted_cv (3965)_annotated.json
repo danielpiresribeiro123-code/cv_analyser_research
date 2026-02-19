@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "technical skills",
+        "PLC – SCADA",
+        "Highly motivated",
+        "inter personal skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mr. SHADMAN ISMAIL"
+        ],
+        "job title": [
+            "HSE Officer",
+            "business developin g Executive",
+            "Site Management"
+        ],
+        "company": [
+            "SOMA Enterprises",
+            "Koch i Metro Rail Project",
+            "BlueApple Labs Pvt Ltd",
+            "SSLC",
+            "SOMA Enterprises Ltd"
+        ],
+        "university": [
+            "B-TECH ( Electronics and Communication)",
+            "College of engineering",
+            "CUSAT",
+            "HSC MTHSS Kaloor"
+        ],
+        "degree": [],
+        "years of experience": [
+            "2 years of experience",
+            "Excellent communication"
+        ],
+        "address": [
+            "Cherthala"
+        ],
+        "email": [
+            "E-mail",
+            "Shadu.ismail63@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+971529875549",
+            "+918089167046"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "technical skills": 0.291,
+            "PLC – SCADA": 0.8021,
+            "Highly motivated": 0.43,
+            "inter personal skills": 0.2743
+        },
+        "filename": "cv (3965)_annotated.json"
+    }
+}

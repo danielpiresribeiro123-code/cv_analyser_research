@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "Professional  Qualification",
+        "Standard School/Board",
+        "Quality",
+        "Dual cab",
+        "Excellent knowledge and experience",
+        "Raw Material Inspection",
+        "Welding Inspection",
+        "Excellent interpersonal and communication skills",
+        "Electronic Document Management System",
+        "MS-Excel",
+        "MS Word",
+        "Technical Competencies",
+        "ASNT LEVEL-II course",
+        "Ultrasonic Testing",
+        "Magnetic particle Testing",
+        "Liquid Penetration Testing",
+        "Radiographic Testing"
+    ],
+    "professional_info": {
+        "person name": [
+            "ATUL KUMAR PRAJAPATI"
+        ],
+        "job title": [
+            "Designation",
+            "Quality Engineer",
+            "QC Inspectors"
+        ],
+        "company": [
+            "Omax Autos Limited.",
+            "Railway division",
+            "Omax Autos Ltd.",
+            "Indian railways"
+        ],
+        "university": [
+            "B.Tech.Mechanical EngineeringIndus Institute of Technology and Management",
+            "10thS. I. College",
+            "12thM. A. Inter College"
+        ],
+        "degree": [],
+        "years of experience": [
+            "2011",
+            "Duration"
+        ],
+        "address": [],
+        "email": [
+            "E-mail",
+            "ak70546@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+918874398659"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Professional  Qualification": 0.2065,
+            "Standard School/Board": 0.2953,
+            "Quality": 0.2812,
+            "Dual cab": 0.1582,
+            "Excellent knowledge and experience": 0.2046,
+            "Raw Material Inspection": 0.2332,
+            "Welding Inspection": 0.3183,
+            "Excellent interpersonal and communication skills": 0.5642,
+            "Electronic Document Management System": 0.248,
+            "MS-Excel": 0.3728,
+            "MS Word": 0.4936,
+            "Technical Competencies": 0.3012,
+            "ASNT LEVEL-II course": 0.3488,
+            "Ultrasonic Testing": 0.3245,
+            "Magnetic particle Testing": 0.1982,
+            "Liquid Penetration Testing": 0.2066,
+            "Radiographic Testing": 0.1839
+        },
+        "filename": "cv (3231)_annotated.json"
+    }
+}

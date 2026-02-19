@@ -1,0 +1,104 @@
+{
+    "skills": [
+        "R0978240",
+        "professional skills",
+        "MECHANICAL",
+        "ENGINEERING",
+        "Lower Link of the Mountain Bike (Bicycle)",
+        "Design and Fabrication",
+        "Crank and Slotted Quick Return Mechanism",
+        "Certificate Course",
+        "TYPE WRITING",
+        "JUNIOR ENGLISH",
+        "Computer Skills",
+        "Technical Proficiency",
+        "MS Office",
+        "Basic of ANSYS",
+        "Basic of Auto CAD",
+        "Fabrication and Assembling",
+        "Production",
+        "Automobile and Powerplant",
+        "Manufacturing and Quality Control",
+        "Dedication and Hardwork",
+        "Effective Leadership",
+        "Creativity",
+        "Quick Adaptability to New Environment",
+        "Photography",
+        "Male",
+        "Single",
+        "Tamil",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "P.M. ABDUL WADHOOTH",
+            "P.S. Monna Mohamed",
+            "Indian"
+        ],
+        "job title": [
+            "Graduate Trainee",
+            "HV AC Technician",
+            "Machines Operator",
+            "Mechanical Assistance and Helper",
+            "Mechanical Technician and Foreman"
+        ],
+        "company": [
+            "firm"
+        ],
+        "university": [
+            "National College Of",
+            "TirunelveliAnna University"
+        ],
+        "degree": [
+            "B.E",
+            "HSCThe Golden Jubilee",
+            "Matric. Hr. Sec. School",
+            "SSLCRahmania Matriculation"
+        ],
+        "years of experience": [],
+        "address": [
+            "22",
+            "Kalungu Chinna Mohideen Street",
+            "Tirunelneli-627005"
+        ],
+        "email": [
+            "Email",
+            "pmaabdul1996@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "R0978240": 0.1695,
+            "professional skills": 0.1904,
+            "MECHANICAL": 0.2059,
+            "ENGINEERING": 0.1956,
+            "Lower Link of the Mountain Bike (Bicycle)": 0.2438,
+            "Design and Fabrication": 0.1578,
+            "Crank and Slotted Quick Return Mechanism": 0.2871,
+            "Certificate Course": 0.3412,
+            "TYPE WRITING": 0.2146,
+            "JUNIOR ENGLISH": 0.3024,
+            "Computer Skills": 0.3067,
+            "Technical Proficiency": 0.2065,
+            "MS Office": 0.5723,
+            "Basic of ANSYS": 0.2534,
+            "Basic of Auto CAD": 0.2853,
+            "Fabrication and Assembling": 0.2322,
+            "Production": 0.3054,
+            "Automobile and Powerplant": 0.1733,
+            "Manufacturing and Quality Control": 0.1953,
+            "Dedication and Hardwork": 0.1954,
+            "Effective Leadership": 0.4751,
+            "Creativity": 0.2501,
+            "Quick Adaptability to New Environment": 0.2647,
+            "Photography": 0.1629,
+            "Male": 0.2995,
+            "Single": 0.3306,
+            "Tamil": 0.3276,
+            "English": 0.3795
+        },
+        "filename": "cv (466)_annotated.json"
+    }
+}

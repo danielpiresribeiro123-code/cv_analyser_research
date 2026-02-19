@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "imaginative teacher",
+        "behavioral studies",
+        "psychology",
+        "Certification",
+        "Kind and empathetic",
+        "APA Graduate",
+        "Certificate in Women's Studies",
+        "Human Participants Approved",
+        "current methods",
+        "Excellent with developing positive rapport with students",
+        "common core skills",
+        "Common Core strands",
+        "innovative instruction methods",
+        "MS Office / Technology",
+        "Experience"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "ENGLISH TEACHER",
+            "TESOL teacher"
+        ],
+        "company": [
+            "National Institute of Health/ For",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [
+            "Ph.D."
+        ],
+        "years of experience": [],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "imaginative teacher": 0.279,
+            "behavioral studies": 0.2258,
+            "psychology": 0.6919,
+            "Certification": 0.4484,
+            "Kind and empathetic": 0.5497,
+            "APA Graduate": 0.2446,
+            "Certificate in Women's Studies": 0.6932,
+            "Human Participants Approved": 0.4092,
+            "current methods": 0.6141,
+            "Excellent with developing positive rapport with students": 0.4081,
+            "common core skills": 0.2433,
+            "Common Core strands": 0.3764,
+            "innovative instruction methods": 0.5487,
+            "MS Office / Technology": 0.5741,
+            "Experience": 0.2799
+        },
+        "filename": "cv (4732)_annotated.json"
+    }
+}

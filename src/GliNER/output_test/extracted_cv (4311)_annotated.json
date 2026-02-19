@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Core Qualifications",
+        "Adobe Photoshop",
+        "Illustrator",
+        "Creative",
+        "complex problem solving",
+        "Proficient",
+        "Microsoft Office Suite",
+        "SCALA",
+        "Teamsite",
+        "Word Press",
+        "AP style guidelines",
+        "Experience",
+        "Facebook",
+        "Superb writer and editor",
+        "Media relations",
+        "Financial communication",
+        "Deadline-driven",
+        "Strategic planning",
+        "SharePoint",
+        "WordPress"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INTERNAL AUDIT ASSISTANT",
+            "Professional Summary",
+            "Communications professional",
+            "Teammate",
+            "PUBLIC RELATIONS COORDINATOR",
+            "PUBLICATIONS SPECIALIST"
+        ],
+        "company": [
+            "Company Name",
+            "Bank"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Core Qualifications": 0.1779,
+            "Adobe Photoshop": 0.338,
+            "Illustrator": 0.3448,
+            "Creative": 0.2759,
+            "complex problem solving": 0.2807,
+            "Proficient": 0.2831,
+            "Microsoft Office Suite": 0.8751,
+            "SCALA": 0.3814,
+            "Teamsite": 0.3085,
+            "Word Press": 0.4997,
+            "AP style guidelines": 0.3088,
+            "Experience": 0.1537,
+            "Facebook": 0.2818,
+            "Superb writer and editor": 0.1575,
+            "Media relations": 0.3391,
+            "Financial communication": 0.273,
+            "Deadline-driven": 0.2992,
+            "Strategic planning": 0.387,
+            "SharePoint": 0.5761,
+            "WordPress": 0.1939
+        },
+        "filename": "cv (4311)_annotated.json"
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "skills": [
+        "software",
+        "excel",
+        "Software Quality Tester",
+        "Digital Marketing Expert",
+        "SEO",
+        "SMO",
+        "Software",
+        "Database Operator",
+        "SQL 2005",
+        "MS Consultant  (Software)",
+        "Data Uploading",
+        "Project Managing",
+        "Project Planning",
+        "Time management",
+        "IT Administration",
+        "Testing",
+        "SEM",
+        "Digital Marketing",
+        "Quality Center",
+        "Load Runner",
+        "QTP",
+        "Expert knowledge",
+        "Website",
+        "CRM",
+        "ERP",
+        "Management Portal",
+        "Web Application",
+        "Quality Testing",
+        "Google Adword Certified",
+        "Certification",
+        "SQT",
+        "Software Quality Testing",
+        "Manual"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohd. Mujeeb"
+        ],
+        "job title": [
+            "IT Head",
+            "Sr. Program Manager",
+            "CCE (Technical Support)",
+            "Team Leader",
+            "Specialist",
+            "IT Head / Sr. Program Manager",
+            "IT / Program  Head"
+        ],
+        "company": [
+            "Proviso Intech Pvt. Ltd.",
+            "LKO",
+            "Deep Infotech",
+            "AGISE -BPO",
+            "Expertise  Marketing Pvt. Ltd.",
+            "Commercial Tax Office"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "E-5212 Sec -11 Raja Ji Puram"
+        ],
+        "email": [
+            "Email",
+            "md.mujeeb98@hotmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 33,
+        "confidence_scores": {
+            "software": 0.2587,
+            "excel": 0.2552,
+            "Software Quality Tester": 0.303,
+            "Digital Marketing Expert": 0.3583,
+            "SEO": 0.5577,
+            "SMO": 0.3809,
+            "Software": 0.2631,
+            "Database Operator": 0.3015,
+            "SQL 2005": 0.3615,
+            "MS Consultant  (Software)": 0.3896,
+            "Data Uploading": 0.3219,
+            "Project Managing": 0.2489,
+            "Project Planning": 0.315,
+            "Time management": 0.2692,
+            "IT Administration": 0.2294,
+            "Testing": 0.3108,
+            "SEM": 0.5387,
+            "Digital Marketing": 0.4367,
+            "Quality Center": 0.3795,
+            "Load Runner": 0.5211,
+            "QTP": 0.4588,
+            "Expert knowledge": 0.2823,
+            "Website": 0.3334,
+            "CRM": 0.4779,
+            "ERP": 0.2713,
+            "Management Portal": 0.2685,
+            "Web Application": 0.4997,
+            "Quality Testing": 0.2446,
+            "Google Adword Certified": 0.8604,
+            "Certification": 0.1798,
+            "SQT": 0.5703,
+            "Software Quality Testing": 0.1734,
+            "Manual": 0.2264
+        },
+        "filename": "cv (4008)_annotated.json"
+    }
+}

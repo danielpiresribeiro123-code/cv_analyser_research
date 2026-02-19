@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "English",
+        "Kiswahili",
+        "customer details database",
+        "database",
+        "can-do” attitude",
+        "flexibility",
+        "high-quality work",
+        "Established strong relationships",
+        "PowerPoint presentation"
+    ],
+    "professional_info": {
+        "person name": [
+            "Felix W. Masolo"
+        ],
+        "job title": [
+            "ICT Intern",
+            "Office Assistant",
+            "ICT assistant",
+            "ICT administrator",
+            "trusted assistant"
+        ],
+        "company": [],
+        "university": [
+            "Murang’a University"
+        ],
+        "degree": [
+            "Institution                            Degree",
+            "Bachelor of Business"
+        ],
+        "years of experience": [
+            "May-August 2016"
+        ],
+        "address": [
+            "P.O BOX 1508-50200"
+        ],
+        "email": [
+            "felixmasolo20@gmail.com"
+        ],
+        "phone": [
+            "+254724508755",
+            "April 2018"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "English": 0.6138,
+            "Kiswahili": 0.4996,
+            "customer details database": 0.6781,
+            "database": 0.216,
+            "can-do” attitude": 0.2043,
+            "flexibility": 0.3268,
+            "high-quality work": 0.2372,
+            "Established strong relationships": 0.1594,
+            "PowerPoint presentation": 0.2299
+        },
+        "filename": "cv (886)_annotated.json"
+    }
+}

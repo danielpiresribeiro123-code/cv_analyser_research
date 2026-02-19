@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "PR strategy",
+        "ROI",
+        "social media marketing strategy",
+        "creative marketing initiatives",
+        "SEM",
+        "design",
+        "content",
+        "copywriting",
+        "Business Foundations Certificate in Marketing and Management",
+        "Google Analytics",
+        "Kissmetrics",
+        "ROI",
+        "CTRs"
+    ],
+    "professional_info": {
+        "person name": [
+            "Student"
+        ],
+        "job title": [
+            "VP",
+            "Current Digital Marketing and Social Media Manager",
+            "CEO"
+        ],
+        "company": [
+            "The Stan Richards School of Advertising and Public Relations",
+            "The McCombs School of Business",
+            "La Femme New York",
+            "HATCH CollectionÂ"
+        ],
+        "university": [
+            "The University of Texas at Austin",
+            "UT Austin"
+        ],
+        "degree": [
+            "Bachelor of Science : Public Relations"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "PR strategy": 0.2021,
+            "ROI": 0.1913,
+            "social media marketing strategy": 0.2759,
+            "creative marketing initiatives": 0.2802,
+            "SEM": 0.5008,
+            "design": 0.525,
+            "content": 0.2853,
+            "copywriting": 0.2914,
+            "Business Foundations Certificate in Marketing and Management": 0.8395,
+            "Google Analytics": 0.54,
+            "Kissmetrics": 0.4311,
+            "CTRs": 0.1604
+        },
+        "filename": "cv (4331)_annotated.json"
+    }
+}

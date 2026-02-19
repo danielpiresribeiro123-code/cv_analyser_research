@@ -1,0 +1,53 @@
+{
+    "skills": [
+        "standard procedures",
+        "accepted industry standards"
+    ],
+    "professional_info": {
+        "person name": [
+            "Muzahid Husain Ansari"
+        ],
+        "job title": [
+            "SERVICE TECHNICIAN",
+            "Automotive Service Technician",
+            "Senior Service Technician"
+        ],
+        "company": [
+            "TOYOTA  LAKOZY",
+            "Toyota",
+            "MANNAI MOTORS",
+            "ANGEL AUTO CHEVROLET"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "07 YEARS OF EXPERIENCE"
+        ],
+        "address": [
+            "B/01",
+            "Dhanlaxmi nagar",
+            "90ft.Road",
+            "navjeevan school",
+            "Nallasopara(east)",
+            "401209",
+            "India",
+            "MUMBAI"
+        ],
+        "email": [
+            "E mail",
+            "muzahidansari2@gmail.com"
+        ],
+        "phone": [
+            "Mobile no.",
+            "+919975938290"
+        ]
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "standard procedures": 0.271,
+            "accepted industry standards": 0.37
+        },
+        "filename": "cv (554)_annotated.json"
+    }
+}

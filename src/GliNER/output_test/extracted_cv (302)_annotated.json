@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "youthful",
+        "field of chemistry",
+        "TECHNICAL SKILLS",
+        "computer Skills",
+        "Operating System",
+        "MS-Word",
+        "Management System"
+    ],
+    "professional_info": {
+        "person name": [
+            "F.RIYAS RAHMAN",
+            "f.Riyas Rahaman"
+        ],
+        "job title": [
+            "Analyst",
+            "manager"
+        ],
+        "company": [
+            "Voorhees Hr, Sec",
+            "TUV SUD SOUTH",
+            "ASIA PVT LTD"
+        ],
+        "university": [
+            "C. Abdul Hakeem college",
+            "S.S.LC",
+            "Govt. High school"
+        ],
+        "degree": [
+            "2013         B.Sc.",
+            "Bachelor of Chemistry",
+            "2009         H. Sc."
+        ],
+        "years of experience": [
+            "WORKING EXPERIENCE",
+            "EXPERIENCE"
+        ],
+        "address": [
+            "Kathib abdul kadar street",
+            "R.N.Palayam",
+            "Vellore-632001",
+            "Vellore -1",
+            "kaspa",
+            "Vellore-1"
+        ],
+        "email": [
+            "Email",
+            "riyasrocken@gmail.com"
+        ],
+        "phone": [
+            "Mobile No: 7845526878"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "youthful": 0.1877,
+            "field of chemistry": 0.2418,
+            "TECHNICAL SKILLS": 0.3008,
+            "computer Skills": 0.317,
+            "Operating System": 0.8876,
+            "MS-Word": 0.2808,
+            "Management System": 0.303
+        },
+        "filename": "cv (302)_annotated.json"
+    }
+}

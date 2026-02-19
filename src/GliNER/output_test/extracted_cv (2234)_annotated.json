@@ -1,0 +1,100 @@
+{
+    "skills": [
+        "Sector -23",
+        "Single",
+        "Listening To Music",
+        "Meditation",
+        "Gardening",
+        "Strengths",
+        "Self believe",
+        "Positive Attitude",
+        "Sincerity and Dedication",
+        "efficient human resource",
+        "talent",
+        "Professional  Qualification",
+        "Ability To hard work",
+        "Knowledge  of PLC  & SCADA",
+        "Team Spirit",
+        "Computer  Skills",
+        "Windows 98",
+        "Windows 2000",
+        "2003",
+        "XP",
+        "vista",
+        "Windows 7",
+        "Windows MS Office"
+    ],
+    "professional_info": {
+        "person name": [
+            "VAIBHAV  TEWETIA",
+            "Mr.  Naresh  Kumar",
+            "Sanjay  Naga r",
+            "vaibhavteweti",
+            "Indian",
+            "Kamla  Nehru  Naga r"
+        ],
+        "job title": [
+            "responsible position"
+        ],
+        "company": [
+            "C.B.S.E.  Board"
+        ],
+        "university": [
+            "Hi-Tech Institute of Engg. & Technology",
+            "Uttar  Pradesh Technical University",
+            "UPT U",
+            "U.P.  Technical  University  Lucknow",
+            "C.B.S.E.  Board",
+            "KP Group Industries"
+        ],
+        "degree": [
+            "B.TEC H.",
+            "Applied Electronics & Instrumentation Engineering",
+            "B.Tech"
+        ],
+        "years of experience": [
+            "Experience"
+        ],
+        "address": [
+            "M-225A",
+            "Pin- 201002"
+        ],
+        "email": [
+            "E-mail",
+            "gmail.com"
+        ],
+        "phone": [
+            "Mobile  No",
+            "+919953390183"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "Sector -23": 0.1711,
+            "Single": 0.1967,
+            "Listening To Music": 0.2297,
+            "Meditation": 0.2223,
+            "Gardening": 0.2527,
+            "Strengths": 0.1523,
+            "Self believe": 0.402,
+            "Positive Attitude": 0.3932,
+            "Sincerity and Dedication": 0.407,
+            "efficient human resource": 0.2298,
+            "talent": 0.1559,
+            "Professional  Qualification": 0.215,
+            "Ability To hard work": 0.2917,
+            "Knowledge  of PLC  & SCADA": 0.445,
+            "Team Spirit": 0.3775,
+            "Computer  Skills": 0.2665,
+            "Windows 98": 0.8791,
+            "Windows 2000": 0.9496,
+            "2003": 0.5648,
+            "XP": 0.8036,
+            "vista": 0.8622,
+            "Windows 7": 0.8657,
+            "Windows MS Office": 0.5108
+        },
+        "filename": "cv (2234)_annotated.json"
+    }
+}

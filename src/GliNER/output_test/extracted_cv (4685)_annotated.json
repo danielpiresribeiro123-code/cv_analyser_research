@@ -1,0 +1,99 @@
+{
+    "skills": [
+        "Macintosh",
+        "back-end programming",
+        "relational databases",
+        "Mac Integration",
+        "Alvarion",
+        "VOIP",
+        "Mobile Device Management",
+        "XSAN",
+        "Open Directory",
+        "TCP/IP",
+        "DHCP",
+        "DNS",
+        "VPN",
+        "AFP",
+        "SMB",
+        "FTP",
+        "NFS",
+        "SAN",
+        "HTML",
+        "PHP",
+        "Filemaker Pro",
+        "Filemaker",
+        "MS Office Suite",
+        "Adobe Suite",
+        "Final Cut Pro",
+        "Maya",
+        "database administrator",
+        "Windows",
+        "file sharing",
+        "accounting solutions",
+        "custom database solutions",
+        "disk based and tape libraries",
+        "IT director"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Consultant",
+            "IT Director"
+        ],
+        "company": [
+            "Apple",
+            "Ubiquiti",
+            "Company Name",
+            "Organic farm"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "20 years"
+        ],
+        "address": [],
+        "email": [
+            "email"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 33,
+        "confidence_scores": {
+            "Macintosh": 0.8336,
+            "back-end programming": 0.3467,
+            "relational databases": 0.4218,
+            "Mac Integration": 0.189,
+            "Alvarion": 0.2544,
+            "VOIP": 0.2476,
+            "Mobile Device Management": 0.2538,
+            "XSAN": 0.3569,
+            "Open Directory": 0.4892,
+            "TCP/IP": 0.6835,
+            "DHCP": 0.6091,
+            "DNS": 0.6905,
+            "VPN": 0.7336,
+            "AFP": 0.395,
+            "SMB": 0.4548,
+            "FTP": 0.6409,
+            "NFS": 0.3617,
+            "SAN": 0.2488,
+            "HTML": 0.6763,
+            "PHP": 0.6233,
+            "Filemaker Pro": 0.2961,
+            "Filemaker": 0.2633,
+            "MS Office Suite": 0.8269,
+            "Adobe Suite": 0.5263,
+            "Final Cut Pro": 0.5359,
+            "Maya": 0.4791,
+            "database administrator": 0.3342,
+            "Windows": 0.7841,
+            "file sharing": 0.2025,
+            "accounting solutions": 0.1521,
+            "custom database solutions": 0.1619,
+            "disk based and tape libraries": 0.4417,
+            "IT director": 0.7661
+        },
+        "filename": "cv (4685)_annotated.json"
+    }
+}

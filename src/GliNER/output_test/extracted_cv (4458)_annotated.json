@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "accounting",
+        "ordering",
+        "payroll",
+        "computer systems",
+        "scheduling",
+        "Meticulous attention to detail",
+        "Professional communication",
+        "Conflict resolution techniques",
+        "Strong problem solver",
+        "Account Reconciliations",
+        "Cost accounting",
+        "Flexible and adaptive",
+        "Intimate knowledge of school system",
+        "respect",
+        "personal responsibility",
+        "understanding of others",
+        "accountability",
+        "social responsibility",
+        "reading skills",
+        "story time",
+        "linguistic"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "KINDERGARTEN TEACHER",
+            "elementary educator",
+            "Team leader",
+            "collab partner",
+            "special education specialist",
+            "Head Start/Federal Preschool Programs Teacher",
+            "teacher assistants",
+            "parents",
+            "school administrators",
+            "First Grade Teacher"
+        ],
+        "company": [
+            "Henrico County Public Schools",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "16 years",
+            "three years"
+        ],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "accounting": 0.2893,
+            "ordering": 0.2312,
+            "payroll": 0.3667,
+            "computer systems": 0.5531,
+            "scheduling": 0.285,
+            "Meticulous attention to detail": 0.4181,
+            "Professional communication": 0.3332,
+            "Conflict resolution techniques": 0.3211,
+            "Strong problem solver": 0.7593,
+            "Account Reconciliations": 0.4522,
+            "Cost accounting": 0.4208,
+            "Flexible and adaptive": 0.4447,
+            "Intimate knowledge of school system": 0.3094,
+            "respect": 0.154,
+            "personal responsibility": 0.3478,
+            "understanding of others": 0.1511,
+            "accountability": 0.3091,
+            "social responsibility": 0.3112,
+            "reading skills": 0.3072,
+            "story time": 0.1572,
+            "linguistic": 0.1743
+        },
+        "filename": "cv (4458)_annotated.json"
+    }
+}

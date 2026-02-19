@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "Materials Engineering",
+        "Metallurgy",
+        "Mechanical Engineering",
+        "CONACYT",
+        "FIME-CONACYT",
+        "FIME-HYLSA",
+        "Method for production of carbon nanotubes with microwaves"
+    ],
+    "professional_info": {
+        "person name": [
+            "Juan Antonio Aguilar-Garib",
+            "juan",
+            "Oxana Kharissova Vasilievna",
+            "Ubaldo Ortiz Méndez",
+            "Moisés Hinojosa Rivera",
+            "Juan  Antonio  Aguilar  Garib",
+            "Juan  Antonio Aguilar Garib",
+            "Ana Maria Arato Tovar"
+        ],
+        "job title": [
+            "Graduate",
+            "Editor in Chief of the Journal of Microwave Power and Electromagnetic Energy",
+            "Chair of Mexican Studies",
+            "Professor of desirable level",
+            "Member of the Mexican Academy of Sciences"
+        ],
+        "company": [
+            "Université  Paul  Sabatier  -  MARION TECHNOLOGIES"
+        ],
+        "university": [
+            "Universidad Autónoma de Nuevo León",
+            "Instituto Tecnológico de Saltillo",
+            "UANL",
+            "KEMET",
+            "Université de Toulouse Le Mirail",
+            "Mexican  Institute  of  the  Industrial  Property"
+        ],
+        "degree": [
+            "Doctorate",
+            "Master"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Materials Engineering": 0.7466,
+            "Metallurgy": 0.7388,
+            "Mechanical Engineering": 0.7641,
+            "CONACYT": 0.19,
+            "FIME-CONACYT": 0.5632,
+            "FIME-HYLSA": 0.5051,
+            "Method for production of carbon nanotubes with microwaves": 0.181
+        },
+        "filename": "cv (967)_annotated.json"
+    }
+}

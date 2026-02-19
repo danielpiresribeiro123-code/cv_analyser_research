@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "experience",
+        "Experience working with students of all abilities",
+        "effective and efficient methods of teaching",
+        "Excellent classroom management",
+        "Data-driven curriculum",
+        "Effectively works with parentsÂ",
+        "Differentiates instruction",
+        "Collaborates with ColleaguesÂ",
+        "CPR/First-aid certified",
+        "SEI EndorsedÂ",
+        "Special Edu. CertifiedÂ",
+        "Dual CertifiedÂ",
+        "SMARTboard technology",
+        "progressive teaching principles",
+        "Social Studies",
+        "Math",
+        "creativity"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "ASSISTANT TEACHER",
+            "organized professional",
+            "Elected member of School Site CouncilÂ",
+            "parents",
+            "Teacher Assistant",
+            "Severe Special Education teacher",
+            "Severe Special Education Paraprofessional",
+            "job coach"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "experience": 0.2662,
+            "Experience working with students of all abilities": 0.1763,
+            "effective and efficient methods of teaching": 0.186,
+            "Excellent classroom management": 0.1526,
+            "Data-driven curriculum": 0.4536,
+            "Effectively works with parentsÂ": 0.2117,
+            "Differentiates instruction": 0.3333,
+            "Collaborates with ColleaguesÂ": 0.1557,
+            "CPR/First-aid certified": 0.8087,
+            "SEI EndorsedÂ": 0.8377,
+            "Special Edu. CertifiedÂ": 0.9055,
+            "Dual CertifiedÂ": 0.8885,
+            "SMARTboard technology": 0.672,
+            "progressive teaching principles": 0.3421,
+            "Social Studies": 0.4655,
+            "Math": 0.3183,
+            "creativity": 0.2546
+        },
+        "filename": "cv (4386)_annotated.json"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "skills": [
+        "Sex",
+        "male",
+        "Marital Status",
+        "Unmarried",
+        "English",
+        "Hindi",
+        "Pahadi",
+        "reading",
+        "Social work",
+        "Preferences",
+        "ACCOUNTANCY & BOOKKEEPING",
+        "Objective",
+        "technical expertise",
+        "Professional  Qualification",
+        "DCA",
+        "Computer Fundamental & PC Software Add -on-",
+        "Tally ERP   9",
+        "Experience",
+        "Knowledge",
+        "Tally ERP .9"
+    ],
+    "professional_info": {
+        "person name": [
+            "ASHISH SHARMA",
+            "ashishsharma1994pk",
+            "Indian"
+        ],
+        "job title": [
+            "Challenging Growth oriented position",
+            "Accounting executive",
+            "Acco unting Executive"
+        ],
+        "company": [
+            "HP",
+            "company",
+            "H.P. Govt.",
+            "Tures Steels Pvt Ltd.",
+            "Dera Bassi",
+            "DLF Hyde Park Resident Welfare So ciety"
+        ],
+        "university": [
+            "il.com",
+            "Himtech Education and Welfare Society",
+            "H.P.U.",
+            "Alma Institute Salouni",
+            "H.P.B.S.E."
+        ],
+        "degree": [
+            "M.C om.",
+            "B.Com."
+        ],
+        "years of experience": [
+            "Two Year Experience"
+        ],
+        "address": [
+            "Vill Galoh P.O. Karer",
+            "Teh. Barsar Distt."
+        ],
+        "email": [
+            "Email"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9857635935",
+            "+91-8219112728"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Sex": 0.2503,
+            "male": 0.2003,
+            "Marital Status": 0.2491,
+            "Unmarried": 0.3343,
+            "English": 0.7018,
+            "Hindi": 0.6807,
+            "Pahadi": 0.3319,
+            "reading": 0.1517,
+            "Social work": 0.1809,
+            "Preferences": 0.2461,
+            "ACCOUNTANCY & BOOKKEEPING": 0.4588,
+            "Objective": 0.1818,
+            "technical expertise": 0.5079,
+            "Professional  Qualification": 0.2676,
+            "DCA": 0.3137,
+            "Computer Fundamental & PC Software Add -on-": 0.2198,
+            "Tally ERP   9": 0.4637,
+            "Experience": 0.3185,
+            "Knowledge": 0.2417,
+            "Tally ERP .9": 0.4357
+        },
+        "filename": "cv (1961)_annotated.json"
+    }
+}

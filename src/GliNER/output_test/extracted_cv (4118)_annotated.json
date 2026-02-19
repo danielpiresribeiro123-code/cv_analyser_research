@@ -1,0 +1,112 @@
+{
+    "skills": [
+        "Project Management",
+        "Certificate",
+        "Certification",
+        "PROJECT  MANAGEMENT",
+        "OPERATIONS",
+        "MAINTENANCE",
+        "Electrical  Domain",
+        "Energetic  and  highly  empowered  professional",
+        "specialized skills",
+        "Project Management",
+        "Site  Management",
+        "Utility  Operations",
+        "Human  Resource  Management",
+        "Troubleshooting",
+        "Safety",
+        "Team  Management",
+        "Strategic Planning",
+        "Demonstrated  ability",
+        "planning",
+        "Expertise",
+        "explorative aptitude",
+        "communication",
+        "good leadership and motivating capabilities",
+        "Cost Management",
+        "Quality Management",
+        "Risk Management",
+        "Electrical Functions",
+        "Maintenance Operations",
+        "Resource Management/ Optimization",
+        "Training",
+        "Techno-commercial  Operations",
+        "Safety  &  Operations",
+        "Technology"
+    ],
+    "professional_info": {
+        "person name": [
+            "ANIRUDDH TRIPATHI",
+            "Mr. Chetan P. Tripathi"
+        ],
+        "job title": [],
+        "company": [
+            "PMI North India Chapter",
+            "MSME Technology Development Centre Agra",
+            "highly reputed business establishment"
+        ],
+        "university": [
+            "IIT Delhi",
+            "Nagpur University"
+        ],
+        "degree": [
+            "B.E. (Electrical)"
+        ],
+        "years of experience": [
+            "16+  Years  of  accomplished  experience"
+        ],
+        "address": [
+            "H. No. 1175/2",
+            "Hanuman Nagar",
+            "Foy Sagar Road",
+            "Ajmer - 305001"
+        ],
+        "email": [
+            "Email",
+            "aniruddhtripathi@yahoo.co."
+        ],
+        "phone": [
+            "Contact",
+            "+918955981144",
+            "2013"
+        ]
+    },
+    "metadata": {
+        "total_skills": 33,
+        "confidence_scores": {
+            "Project Management": 0.7288,
+            "Certificate": 0.2063,
+            "Certification": 0.1774,
+            "PROJECT  MANAGEMENT": 0.606,
+            "OPERATIONS": 0.1678,
+            "MAINTENANCE": 0.2616,
+            "Electrical  Domain": 0.2685,
+            "Energetic  and  highly  empowered  professional": 0.4049,
+            "specialized skills": 0.2681,
+            "Site  Management": 0.6463,
+            "Utility  Operations": 0.6172,
+            "Human  Resource  Management": 0.7389,
+            "Troubleshooting": 0.4468,
+            "Safety": 0.4945,
+            "Team  Management": 0.6025,
+            "Strategic Planning": 0.5511,
+            "Demonstrated  ability": 0.2792,
+            "planning": 0.1611,
+            "Expertise": 0.2282,
+            "explorative aptitude": 0.2702,
+            "communication": 0.1621,
+            "good leadership and motivating capabilities": 0.3484,
+            "Cost Management": 0.4538,
+            "Quality Management": 0.5389,
+            "Risk Management": 0.5129,
+            "Electrical Functions": 0.3984,
+            "Maintenance Operations": 0.5926,
+            "Resource Management/ Optimization": 0.3293,
+            "Training": 0.2848,
+            "Techno-commercial  Operations": 0.5121,
+            "Safety  &  Operations": 0.5377,
+            "Technology": 0.153
+        },
+        "filename": "cv (4118)_annotated.json"
+    }
+}

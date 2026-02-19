@@ -1,0 +1,91 @@
+{
+    "skills": [
+        "Well skilled",
+        "educated",
+        "Key Skills",
+        "Excellent communication skill",
+        "spoken English",
+        "Excellent command over comprehension",
+        "Strong knowledge",
+        "modern teaching aids",
+        "Ability to handle children of different age groups",
+        "Expertise",
+        "new teaching methodology",
+        "Strengths",
+        "Enthusiastic and hardworking",
+        "Positive attitude",
+        "Responsible towards work",
+        "Self-motivated and directed",
+        "Technical Proficiency",
+        "Typewriting English"
+    ],
+    "professional_info": {
+        "person name": [
+            "B. KIRUTHIKA",
+            "B.Kiruthika",
+            "R.Balu"
+        ],
+        "job title": [
+            "Teacher",
+            "Married"
+        ],
+        "company": [],
+        "university": [
+            "Vasavi College of Education",
+            "Pondicherry University",
+            "Bharathiyar University",
+            "Arignar Anna Arts & Science College.",
+            "Thiruvalluvar University",
+            "Govt. Girls. Higher Secondary School  - Villuppuram",
+            "CBSE"
+        ],
+        "degree": [
+            "B.Ed. (Physical Science)",
+            "M.Sc (General Chemistry)",
+            "B.Sc (Chemistry )",
+            "HSC",
+            "D.O.B"
+        ],
+        "years of experience": [
+            "1 Year Teaching Experience"
+        ],
+        "address": [
+            "Thirumullaivayol",
+            "No.11",
+            "Union Carbide Colony"
+        ],
+        "email": [
+            "Email",
+            "kiruthikabalu4@gmail.com",
+            "Indian"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9791941614"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Well skilled": 0.2159,
+            "educated": 0.2558,
+            "Key Skills": 0.1516,
+            "Excellent communication skill": 0.575,
+            "spoken English": 0.4955,
+            "Excellent command over comprehension": 0.5893,
+            "Strong knowledge": 0.2223,
+            "modern teaching aids": 0.2883,
+            "Ability to handle children of different age groups": 0.3312,
+            "Expertise": 0.1579,
+            "new teaching methodology": 0.7225,
+            "Strengths": 0.2043,
+            "Enthusiastic and hardworking": 0.5571,
+            "Positive attitude": 0.4264,
+            "Responsible towards work": 0.4334,
+            "Self-motivated and directed": 0.5081,
+            "Technical Proficiency": 0.2951,
+            "Typewriting English": 0.1582
+        },
+        "filename": "cv (1590)_annotated.json"
+    }
+}

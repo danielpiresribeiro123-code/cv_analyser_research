@@ -1,0 +1,98 @@
+{
+    "skills": [
+        "LibraryThing",
+        "strong research",
+        "analytical",
+        "creative",
+        "humanist approaches",
+        "strategic business and project planning",
+        "critical assessment of trends",
+        "information architectures and business processes",
+        "expert communications skills",
+        "IFLA",
+        "NISO",
+        "UNESCO",
+        "libraries",
+        "museums",
+        "archives",
+        "Drupal-based web services",
+        "social media",
+        "online consultations",
+        "public speaker and communicator",
+        "information architecture practice",
+        "stakeholder survey design",
+        "observational task analysis",
+        "UX testing",
+        "DIGLIB",
+        "UX and design research",
+        "commitment to open access to information and open software",
+        "standards & tools",
+        "interoperability & metadata standards",
+        "classification",
+        "thesauri",
+        "vocabulary",
+        "social and web metrics & performance indicators",
+        "information policy"
+    ],
+    "professional_info": {
+        "person name": [
+            "Terry Kuny",
+            "terry.kuny",
+            "I"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "25 years"
+        ],
+        "address": [
+            "240 Fairmont Ave",
+            "K1Y 1X9 819.319.2665"
+        ],
+        "email": [
+            "gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 33,
+        "confidence_scores": {
+            "LibraryThing": 0.832,
+            "strong research": 0.185,
+            "analytical": 0.2552,
+            "creative": 0.2188,
+            "humanist approaches": 0.1832,
+            "strategic business and project planning": 0.1854,
+            "critical assessment of trends": 0.1926,
+            "information architectures and business processes": 0.2284,
+            "expert communications skills": 0.2559,
+            "IFLA": 0.7175,
+            "NISO": 0.5246,
+            "UNESCO": 0.4059,
+            "libraries": 0.7093,
+            "museums": 0.6298,
+            "archives": 0.7298,
+            "Drupal-based web services": 0.5567,
+            "social media": 0.4816,
+            "online consultations": 0.1716,
+            "public speaker and communicator": 0.155,
+            "information architecture practice": 0.8273,
+            "stakeholder survey design": 0.2111,
+            "observational task analysis": 0.4291,
+            "UX testing": 0.4532,
+            "DIGLIB": 0.7564,
+            "UX and design research": 0.2368,
+            "commitment to open access to information and open software": 0.189,
+            "standards & tools": 0.2737,
+            "interoperability & metadata standards": 0.4871,
+            "classification": 0.2892,
+            "thesauri": 0.2365,
+            "vocabulary": 0.3713,
+            "social and web metrics & performance indicators": 0.2625,
+            "information policy": 0.3674
+        },
+        "filename": "cv (1095)_annotated.json"
+    }
+}

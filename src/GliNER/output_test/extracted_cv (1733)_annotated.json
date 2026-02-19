@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "fabrication & erection of pipe spools",
+        "PTU",
+        "Electrical pump",
+        "Heat exxhanger",
+        "HCU",
+        "EDP",
+        "accumulator",
+        "Non destructive testing",
+        "bright personal carrier",
+        "field work",
+        "site planning",
+        "health safety and environment standards",
+        "high quality standards",
+        "HSE  (10+2 )",
+        "science",
+        "Computer Skill",
+        "M. S. Office",
+        "Autocad",
+        "Internet",
+        "Unmarried",
+        "Hindi",
+        "English",
+        "M9085628",
+        "Experience"
+    ],
+    "professional_info": {
+        "person name": [
+            "CURRICULAM  VITAE",
+            "KUBER KUMAR",
+            "Dudhnath prasad"
+        ],
+        "job title": [
+            "Mechanical Engineer/Supervisor",
+            "Engineer",
+            "MECHANICAL  ENGG",
+            "Mechanical Supervisor"
+        ],
+        "company": [
+            "BSEB",
+            "PATNA",
+            "Offshore Infrastructure  Ltd"
+        ],
+        "university": [
+            "UPTU LUCKNOW"
+        ],
+        "degree": [
+            "B.TECH"
+        ],
+        "years of experience": [],
+        "address": [
+            "post-hussainganj dist-siwan(bihar)",
+            "pincode-841237",
+            "mob no-7053327813"
+        ],
+        "email": [
+            "Email",
+            "id-kuberkumar03@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "fabrication & erection of pipe spools": 0.1803,
+            "PTU": 0.2253,
+            "Electrical pump": 0.2179,
+            "Heat exxhanger": 0.2583,
+            "HCU": 0.2912,
+            "EDP": 0.3257,
+            "accumulator": 0.1559,
+            "Non destructive testing": 0.3892,
+            "bright personal carrier": 0.1715,
+            "field work": 0.1655,
+            "site planning": 0.2974,
+            "health safety and environment standards": 0.7396,
+            "high quality standards": 0.4056,
+            "HSE  (10+2 )": 0.3275,
+            "science": 0.302,
+            "Computer Skill": 0.199,
+            "M. S. Office": 0.5696,
+            "Autocad": 0.4279,
+            "Internet": 0.3418,
+            "Unmarried": 0.321,
+            "Hindi": 0.7944,
+            "English": 0.7083,
+            "M9085628": 0.1581,
+            "Experience": 0.1555
+        },
+        "filename": "cv (1733)_annotated.json"
+    }
+}

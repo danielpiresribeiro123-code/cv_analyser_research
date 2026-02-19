@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "technical/ analytical skills",
+        "professional ideas",
+        "Level 1 Infrared Thermography",
+        "J0693722",
+        "RMU",
+        "DRY TYPE Transformer",
+        "ECBS",
+        "MDB",
+        "GDB",
+        "DYNAMIC UPS",
+        "ATS Panel",
+        "APF Panel",
+        "MCC",
+        "Motors and Pumps",
+        "HVAC System",
+        "CAV",
+        "VAV",
+        "Package Unit",
+        "Asset analysis",
+        "international standards and regulations"
+    ],
+    "professional_info": {
+        "person name": [
+            "VAIRAMUTHU.T",
+            "vairavan1989"
+        ],
+        "job title": [
+            "Automation Engineer",
+            "JUNIOR ELECTRICAL ENGINEER",
+            "technician",
+            "reliability superintendent"
+        ],
+        "company": [
+            "KNX System",
+            "Siemens L.L.C",
+            "Berkeley Services L.L.C",
+            "Viralishanmuga Engineering and Project Pvt. Ltd"
+        ],
+        "university": [
+            "Anna University"
+        ],
+        "degree": [
+            "B.E - Electrical and Electronics Engineering (EEE)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Chennai"
+        ],
+        "email": [
+            "Email"
+        ],
+        "phone": [
+            "Mobile",
+            "+971529986343",
+            "+971523177523"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "technical/ analytical skills": 0.2931,
+            "professional ideas": 0.2662,
+            "Level 1 Infrared Thermography": 0.6468,
+            "J0693722": 0.345,
+            "RMU": 0.1569,
+            "DRY TYPE Transformer": 0.1541,
+            "ECBS": 0.2035,
+            "MDB": 0.1945,
+            "GDB": 0.1613,
+            "DYNAMIC UPS": 0.2358,
+            "ATS Panel": 0.2349,
+            "APF Panel": 0.2319,
+            "MCC": 0.1947,
+            "Motors and Pumps": 0.1658,
+            "HVAC System": 0.1511,
+            "CAV": 0.1946,
+            "VAV": 0.2565,
+            "Package Unit": 0.1679,
+            "Asset analysis": 0.2961,
+            "international standards and regulations": 0.6525
+        },
+        "filename": "cv (244)_annotated.json"
+    }
+}

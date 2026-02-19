@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "IT Infrastructure Operations",
+        "IT Infrastructure Service Delivery",
+        "Transition Management",
+        "Windows Server 2008",
+        "EMC Legato Networker8.0",
+        "MCA",
+        "Excellent IT operation & service delivery managerial skills",
+        "Good listening and consultative skills",
+        "Comfortable working effectively in a rapidly changing environment",
+        "IT operations",
+        "Operations",
+        "back office environment",
+        "End-User computing",
+        "ITIL framework",
+        "Win 2008/2003",
+        "Exchange Server 2010",
+        "Active Directory",
+        "DNS",
+        "DHCP",
+        "McAfee Antivirus Server",
+        "Server  Administration",
+        "IT infrastructure planning and management for streamlining IT related operations",
+        "technical skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohd Niyaz",
+            "2-Associate"
+        ],
+        "job title": [
+            "technocrat",
+            "1-Sr. Associate",
+            "3-Technical Support Engineer",
+            "Technical Support Engineer",
+            "keen  planner  &  implementer"
+        ],
+        "company": [
+            "HCL InfoTech Pvt. Ltd.",
+            "Chaque Jour HR Services Pvt. Ltd.",
+            "Wipro Info Tech (Apex Services)",
+            "Unique Identification Authority of India",
+            "Ministry of Communications & IT",
+            "Govt. of India"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "6 years of core IT experience",
+            "6 years of experience",
+            "confident decision making"
+        ],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "gmail.com",
+            "Professional Training & Certification"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-7388238777"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "IT Infrastructure Operations": 0.2026,
+            "IT Infrastructure Service Delivery": 0.2866,
+            "Transition Management": 0.3395,
+            "Windows Server 2008": 0.4721,
+            "EMC Legato Networker8.0": 0.3912,
+            "MCA": 0.8927,
+            "Excellent IT operation & service delivery managerial skills": 0.3573,
+            "Good listening and consultative skills": 0.3127,
+            "Comfortable working effectively in a rapidly changing environment": 0.1613,
+            "IT operations": 0.3086,
+            "Operations": 0.2566,
+            "back office environment": 0.368,
+            "End-User computing": 0.5052,
+            "ITIL framework": 0.8712,
+            "Win 2008/2003": 0.4276,
+            "Exchange Server 2010": 0.3629,
+            "Active Directory": 0.5491,
+            "DNS": 0.4172,
+            "DHCP": 0.4359,
+            "McAfee Antivirus Server": 0.5046,
+            "Server  Administration": 0.3967,
+            "IT infrastructure planning and management for streamlining IT related operations": 0.2116,
+            "technical skills": 0.3117
+        },
+        "filename": "cv (4073)_annotated.json"
+    }
+}

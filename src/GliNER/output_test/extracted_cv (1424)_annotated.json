@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Career Objective",
+        "implement the fullest of my knowledge",
+        "Educational Qualification",
+        "Computer Skills",
+        "Basic Knowledge of Computer",
+        "Internet Suring",
+        "Languages Known",
+        "Self Confidence",
+        "Punctual",
+        "DedicationPersonal Profile",
+        "Marital Status",
+        "Unmarried"
+    ],
+    "professional_info": {
+        "person name": [
+            "PRATIK KUMAR PATRA",
+            "Patit  Paban Patra",
+            "PRATIK KUMAR"
+        ],
+        "job title": [
+            "A.C. Technician",
+            "Hindu"
+        ],
+        "company": [
+            "M/s. NCR COOLING CARE",
+            "Indian"
+        ],
+        "university": [
+            "H.B.S.E Board"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Working Experience"
+        ],
+        "address": [
+            "H.NO. 43",
+            "Gali  no.2",
+            "Nawada Colony",
+            "Faridabad",
+            "Haryana-121004",
+            "Delhi"
+        ],
+        "email": [
+            "Email",
+            "pratikpatra69@gmail.com",
+            "10th"
+        ],
+        "phone": [
+            "Cell- +91-8527465591"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Career Objective": 0.2503,
+            "implement the fullest of my knowledge": 0.2126,
+            "Educational Qualification": 0.415,
+            "Computer Skills": 0.487,
+            "Basic Knowledge of Computer": 0.3989,
+            "Internet Suring": 0.2884,
+            "Languages Known": 0.5,
+            "Self Confidence": 0.6848,
+            "Punctual": 0.5645,
+            "DedicationPersonal Profile": 0.4256,
+            "Marital Status": 0.2127,
+            "Unmarried": 0.609
+        },
+        "filename": "cv (1424)_annotated.json"
+    }
+}

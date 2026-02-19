@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "CAREER OBJECTIVE",
+        "opportunities for personal and organizational growth",
+        "Reading Books",
+        "Male",
+        "Married",
+        "Language known",
+        "English",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "Parul Chauhan",
+            "Sh.Yash Pal Singh",
+            "Smt.Rajni Devi"
+        ],
+        "job title": [
+            "Computer & CCTV operator"
+        ],
+        "company": [
+            "Haryana Board",
+            "Hero MotoCorp Ltd.",
+            "Indian"
+        ],
+        "university": [
+            "National Open School",
+            "M.S.U. Tamilnaidu"
+        ],
+        "degree": [
+            "BBA"
+        ],
+        "years of experience": [
+            "3 years work experience"
+        ],
+        "address": [
+            "House No.3148",
+            "New housing Board",
+            "Sec.13",
+            "Distt. Bhiwani",
+            "Haryana - 127021"
+        ],
+        "email": [
+            "E-Mail",
+            "id-parulch92@gmail.com"
+        ],
+        "phone": [
+            "Contact No.- 9896091934"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "CAREER OBJECTIVE": 0.153,
+            "opportunities for personal and organizational growth": 0.1744,
+            "Reading Books": 0.1513,
+            "Male": 0.2192,
+            "Married": 0.2227,
+            "Language known": 0.169,
+            "English": 0.851,
+            "Hindi": 0.8808
+        },
+        "filename": "cv (3438)_annotated.json"
+    }
+}

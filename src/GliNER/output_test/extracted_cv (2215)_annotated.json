@@ -1,0 +1,47 @@
+{
+    "skills": [
+        "management",
+        "DTMF decoder",
+        "PIC controller",
+        "GSM number",
+        "MATLAB SOFTWARE",
+        "MATLAB",
+        "computer vision"
+    ],
+    "professional_info": {
+        "person name": [
+            "Shravan Maheshwaran"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "Bharath University",
+            "Tamilnadu State Board",
+            "CBSE"
+        ],
+        "degree": [
+            "B.Tech Mechatronics"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "shravanx28@gmail.com"
+        ],
+        "phone": [
+            "mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "management": 0.2252,
+            "DTMF decoder": 0.4203,
+            "PIC controller": 0.2365,
+            "GSM number": 0.1921,
+            "MATLAB SOFTWARE": 0.3264,
+            "MATLAB": 0.2917,
+            "computer vision": 0.1823
+        },
+        "filename": "cv (2215)_annotated.json"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "SKILLS",
+        "Dataset Management",
+        "Requirements Gathering",
+        "Predictive Modeling",
+        "Data Mining",
+        "Data Insights",
+        "Artificial Intelligence",
+        "Programming Language",
+        "Process Improvement",
+        "Python",
+        "Ontology",
+        "NLP",
+        "Defect detection and classification",
+        "ACTIVITIES",
+        "R",
+        "Deep Learning",
+        "Neural networksPROJECTS",
+        "Prediction of material properties",
+        "descriptor formulation"
+    ],
+    "professional_info": {
+        "person name": [
+            "LEHNA PATRICK"
+        ],
+        "job title": [
+            "PROFILE",
+            "EXPERIENCE",
+            "Research Analyst",
+            "RESEARCH ASSISTANT"
+        ],
+        "company": [
+            "TTR Innovation labs"
+        ],
+        "university": [
+            "NIT Warangal",
+            "IIT Kanpur"
+        ],
+        "degree": [
+            "B.Tech (Metallurgy)",
+            "M.Tech"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "SKILLS": 0.2331,
+            "Dataset Management": 0.2488,
+            "Requirements Gathering": 0.2214,
+            "Predictive Modeling": 0.5692,
+            "Data Mining": 0.555,
+            "Data Insights": 0.3896,
+            "Artificial Intelligence": 0.6222,
+            "Programming Language": 0.556,
+            "Process Improvement": 0.3041,
+            "Python": 0.9059,
+            "Ontology": 0.2254,
+            "NLP": 0.3441,
+            "Defect detection and classification": 0.2107,
+            "ACTIVITIES": 0.193,
+            "R": 0.6299,
+            "Deep Learning": 0.6142,
+            "Neural networksPROJECTS": 0.3392,
+            "Prediction of material properties": 0.457,
+            "descriptor formulation": 0.5058
+        },
+        "filename": "cv (9)_annotated.json"
+    }
+}

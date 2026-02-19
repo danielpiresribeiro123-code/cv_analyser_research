@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "MS - ortho",
+        "DNB – ortho",
+        "MNAMS  – Ortho",
+        "FELLOW ASTHROSCOPY AND ARTHROPLASTY",
+        "motivated",
+        "hardworking",
+        "dynamic capabilities",
+        "Orthopeadics",
+        "arthroscopy",
+        "arthroplasty",
+        "Spine & Trauma",
+        "D – Anest. DNB",
+        "D- Ortho",
+        "MNAMS",
+        "MEDICAL LICENSURES  Unrestricted (G.P.)",
+        "DMC/R/3624",
+        "APMC/FMR/78952"
+    ],
+    "professional_info": {
+        "person name": [
+            "DR. Vishisht Singh",
+            "Dr. Ritu Rani Singh"
+        ],
+        "job title": [
+            "Orthopeadic surgeon",
+            "Consul tant",
+            "Visiting consultant"
+        ],
+        "company": [
+            "Ishwar orthopaedic hospital",
+            "Fortis Hospital",
+            "Fortis",
+            "Delhi Medical council",
+            "Uttaranchal Medical Council",
+            "UP Medical Council",
+            "Andhra Pradesh Medical Council"
+        ],
+        "university": [
+            "Kathmandu University",
+            "HIHT University",
+            "Medical council of India"
+        ],
+        "degree": [
+            "MBBS",
+            "D - ortho",
+            "MS Orthopeadics"
+        ],
+        "years of experience": [
+            "Nine-year experience"
+        ],
+        "address": [
+            "1191/23 DLF Colony"
+        ],
+        "email": [
+            "E-MAIL",
+            "vishisht_s@hotmail.com"
+        ],
+        "phone": [
+            "MOBILE",
+            "+91-9034641776"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "MS - ortho": 0.4201,
+            "DNB – ortho": 0.6938,
+            "MNAMS  – Ortho": 0.5825,
+            "FELLOW ASTHROSCOPY AND ARTHROPLASTY": 0.2474,
+            "motivated": 0.1792,
+            "hardworking": 0.1869,
+            "dynamic capabilities": 0.2192,
+            "Orthopeadics": 0.2332,
+            "arthroscopy": 0.2495,
+            "arthroplasty": 0.2244,
+            "Spine & Trauma": 0.4443,
+            "D – Anest. DNB": 0.2161,
+            "D- Ortho": 0.31,
+            "MNAMS": 0.2308,
+            "MEDICAL LICENSURES  Unrestricted (G.P.)": 0.2151,
+            "DMC/R/3624": 0.2072,
+            "APMC/FMR/78952": 0.2654
+        },
+        "filename": "cv (987)_annotated.json"
+    }
+}

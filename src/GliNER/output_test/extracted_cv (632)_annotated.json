@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "interactual skill",
+        "Male",
+        "Guajarati",
+        "Hindi",
+        "English",
+        "Sr.Exam",
+        "Business",
+        "Professional Strengths",
+        "Hard working",
+        "Can work well other in team",
+        "Excel",
+        "PowerPoint",
+        "Word",
+        "To Do Practical Work",
+        "Declaration"
+    ],
+    "professional_info": {
+        "person name": [
+            "PATIDAR SUNIT GOPAL BHAI"
+        ],
+        "job title": [
+            "AdministrationVNSGU 5.37  till  5th",
+            "leader",
+            "Leadership Quality"
+        ],
+        "company": [
+            "HSCA.V.  Patel  high",
+            "SSCL.P. savani high",
+            "GUJARAT GUARDIAN PVT LTD.",
+            "Edlewise pvt. Ltd."
+        ],
+        "university": [
+            "DegreeSchool/College Board",
+            "UniversitySGPA",
+            "BRCM  College"
+        ],
+        "degree": [
+            "BBA(finance)"
+        ],
+        "years of experience": [
+            "Experience"
+        ],
+        "address": [
+            "163",
+            "Road karanj"
+        ],
+        "email": [
+            "patidarsunit159@yahoo"
+        ],
+        "phone": [
+            "Contact no.",
+            "9924963486",
+            "Email-Id"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "interactual skill": 0.192,
+            "Male": 0.1968,
+            "Guajarati": 0.4954,
+            "Hindi": 0.7792,
+            "English": 0.7924,
+            "Sr.Exam": 0.5637,
+            "Business": 0.1566,
+            "Professional Strengths": 0.2897,
+            "Hard working": 0.2457,
+            "Can work well other in team": 0.2058,
+            "Excel": 0.1915,
+            "PowerPoint": 0.291,
+            "Word": 0.2525,
+            "To Do Practical Work": 0.1681,
+            "Declaration": 0.2074
+        },
+        "filename": "cv (632)_annotated.json"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "fiscal management",
+        "team leadership",
+        "Expertise in financial statement preparation and analysis",
+        "operational management",
+        "forecasting",
+        "cost control",
+        "Navision",
+        "MAS 200",
+        "Platinum",
+        "Team",
+        "MS Office Suite",
+        "Peachtree Accounting",
+        "Turbo Tax",
+        "ATB General Ledger",
+        "QuickBooks Pro",
+        "FASB Depreciation for Windows",
+        "monthly consolidated financial statements",
+        "industry best practices",
+        "effective risk management",
+        "internal controls",
+        "payroll processing"
+    ],
+    "professional_info": {
+        "person name": [
+            "Carlo De Pinto"
+        ],
+        "job title": [
+            "Controller",
+            "CFO"
+        ],
+        "company": [
+            "Oracle",
+            "NetSuite",
+            "Company Name",
+            "subsidiary company",
+            "control company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "fiscal management": 0.2548,
+            "team leadership": 0.4333,
+            "Expertise in financial statement preparation and analysis": 0.2272,
+            "operational management": 0.2664,
+            "forecasting": 0.2412,
+            "cost control": 0.3323,
+            "Navision": 0.2839,
+            "MAS 200": 0.4612,
+            "Platinum": 0.2946,
+            "Team": 0.3386,
+            "MS Office Suite": 0.9148,
+            "Peachtree Accounting": 0.5376,
+            "Turbo Tax": 0.5822,
+            "ATB General Ledger": 0.7011,
+            "QuickBooks Pro": 0.5395,
+            "FASB Depreciation for Windows": 0.2709,
+            "monthly consolidated financial statements": 0.2057,
+            "industry best practices": 0.1574,
+            "effective risk management": 0.1556,
+            "internal controls": 0.1895,
+            "payroll processing": 0.1687
+        },
+        "filename": "cv (4779)_annotated.json"
+    }
+}

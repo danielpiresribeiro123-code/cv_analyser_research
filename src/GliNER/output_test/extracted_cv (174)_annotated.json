@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "High learning Curve",
+        "Good Communication Skills",
+        "Hard Working",
+        "Adaptability",
+        "Technical Expertise",
+        "Autocad",
+        "M.S Office",
+        "Unmarried",
+        "English",
+        "Hindi",
+        "urdu",
+        "Telugu"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohammed Taufeeq Ahmed",
+            "Mohammed Maqbool Ahmed",
+            "Indian"
+        ],
+        "job title": [
+            "Educational Qualification"
+        ],
+        "company": [
+            "company",
+            "Inter",
+            "S.S.C",
+            "Autocad"
+        ],
+        "university": [
+            "Nava Chaithanya Junior College",
+            "Care Model High  School"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Experience",
+            "2years"
+        ],
+        "address": [
+            "2-4-655/9",
+            "Sundernagar",
+            "Kachiguda   Mobile",
+            "9700501076",
+            "Hyderabad-27"
+        ],
+        "email": [
+            "Email",
+            "ataufeeq786@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "High learning Curve": 0.5563,
+            "Good Communication Skills": 0.587,
+            "Hard Working": 0.5841,
+            "Adaptability": 0.5954,
+            "Technical Expertise": 0.4567,
+            "Autocad": 0.4066,
+            "M.S Office": 0.2157,
+            "Unmarried": 0.1919,
+            "English": 0.7837,
+            "Hindi": 0.7916,
+            "urdu": 0.7242,
+            "Telugu": 0.6179
+        },
+        "filename": "cv (174)_annotated.json"
+    }
+}

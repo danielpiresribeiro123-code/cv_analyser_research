@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "Experienced",
+        "excellent communication",
+        "Familiar with culturally responsive teachingÂ",
+        "Exceptional organization and time management skills",
+        "Ability to multi task and remain flexible",
+        "Trained in business leadership and management",
+        "Excellent presentation and communication skills",
+        "verbal",
+        "written",
+        "interpersonal",
+        "Microsoft Office SuiteÂ",
+        "Trained in diversity and inclusion strategies",
+        "Experience with work based learning opportunities",
+        "Certified in conflict and dispute resolution",
+        "Knowledge of educational trends",
+        "expectations",
+        "climate",
+        "Deep understanding ELA",
+        "Denver Plan",
+        "Experience",
+        "DPS practices",
+        "framework",
+        "mission",
+        "Data driven instruction and curriculum design"
+    ],
+    "professional_info": {
+        "person name": [
+            "TEACHER"
+        ],
+        "job title": [
+            "Program Manager",
+            "Experience in higher educationÂ",
+            "Community Outreach Specialist",
+            "Service Learning Coordinator",
+            "English Teacher"
+        ],
+        "company": [
+            "Denver Metro Chamber of Commerce",
+            "Company Name",
+            "Denver Public School",
+            "Japanese government"
+        ],
+        "university": [],
+        "degree": [
+            "Masters degree in education"
+        ],
+        "years of experience": [
+            "9 years of professional experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Experienced": 0.267,
+            "excellent communication": 0.2604,
+            "Familiar with culturally responsive teachingÂ": 0.208,
+            "Exceptional organization and time management skills": 0.1699,
+            "Ability to multi task and remain flexible": 0.2806,
+            "Trained in business leadership and management": 0.2938,
+            "Excellent presentation and communication skills": 0.347,
+            "verbal": 0.4018,
+            "written": 0.3439,
+            "interpersonal": 0.6535,
+            "Microsoft Office SuiteÂ": 0.916,
+            "Trained in diversity and inclusion strategies": 0.3271,
+            "Experience with work based learning opportunities": 0.1709,
+            "Certified in conflict and dispute resolution": 0.8056,
+            "Knowledge of educational trends": 0.2244,
+            "expectations": 0.2071,
+            "climate": 0.2264,
+            "Deep understanding ELA": 0.1843,
+            "Denver Plan": 0.1964,
+            "Experience": 0.2863,
+            "DPS practices": 0.244,
+            "framework": 0.4344,
+            "mission": 0.2349,
+            "Data driven instruction and curriculum design": 0.3406
+        },
+        "filename": "cv (4315)_annotated.json"
+    }
+}

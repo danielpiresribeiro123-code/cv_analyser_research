@@ -1,0 +1,98 @@
+{
+    "skills": [
+        "personally",
+        "ITI",
+        "Knowledge",
+        "DG Sets  upto 1500 kva",
+        "Compressors",
+        "Water pumps",
+        "Circuit Breaker",
+        "MCCB",
+        "RCCB",
+        "VCB",
+        "ACB",
+        "Capacitor Banks",
+        "Star delta",
+        "Dol startor",
+        "UPS Inverte r",
+        "Knowledge of Motors and Servo drives",
+        "PLC trouble shooting",
+        "Knowledge of Special Purpose Machines",
+        "Operation and maintenance",
+        "Jockey",
+        "10th",
+        "TECHNICAL  QUALIFICATION",
+        "COMPUTER  AWARENESS",
+        "PGDCA",
+        "PERSONAL"
+    ],
+    "professional_info": {
+        "person name": [
+            "JAGANNATH  GAHAN"
+        ],
+        "job title": [
+            "Electrician",
+            "MST",
+            "UTILITY  Maintenance"
+        ],
+        "company": [
+            "LE  Group Facilities Management",
+            "Vatika Group  Facilities  Management",
+            "IREO",
+            "Vatika  Group Facilities  Management",
+            "IREO PRIVATE LIMITED"
+        ],
+        "university": [
+            "Odisha board",
+            "Radharaman Industrial  Training Institute (Odisha )",
+            "Smart Computer Education  Odisha"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Sector -55",
+            "House No  – 59 Gurgaon ( Hr)",
+            "122001",
+            "sec -58 Gurgaon"
+        ],
+        "email": [
+            "Mob",
+            "Email",
+            "jagannathgahan60 @gmail.com"
+        ],
+        "phone": [
+            "09718557730"
+        ]
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "personally": 0.3141,
+            "ITI": 0.3385,
+            "Knowledge": 0.2375,
+            "DG Sets  upto 1500 kva": 0.28,
+            "Compressors": 0.2228,
+            "Water pumps": 0.2346,
+            "Circuit Breaker": 0.2141,
+            "MCCB": 0.2247,
+            "RCCB": 0.2023,
+            "VCB": 0.2191,
+            "ACB": 0.3297,
+            "Capacitor Banks": 0.1515,
+            "Star delta": 0.3883,
+            "Dol startor": 0.3542,
+            "UPS Inverte r": 0.3284,
+            "Knowledge of Motors and Servo drives": 0.3722,
+            "PLC trouble shooting": 0.4135,
+            "Knowledge of Special Purpose Machines": 0.5121,
+            "Operation and maintenance": 0.1611,
+            "Jockey": 0.2044,
+            "10th": 0.4983,
+            "TECHNICAL  QUALIFICATION": 0.2331,
+            "COMPUTER  AWARENESS": 0.3108,
+            "PGDCA": 0.8197,
+            "PERSONAL": 0.3324
+        },
+        "filename": "cv (3675)_annotated.json"
+    }
+}

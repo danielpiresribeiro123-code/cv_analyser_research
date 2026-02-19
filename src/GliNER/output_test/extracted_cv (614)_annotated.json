@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "technical skills",
+        "customer complaints",
+        "FMEA",
+        "Control plan",
+        "Inspection reports",
+        "Failure analysis competency",
+        "Customer quality data management",
+        "Production",
+        "MRB",
+        "RMA",
+        "CAR",
+        "Capital Asset identification",
+        "New product development",
+        "Assembly and rework process development",
+        "Analyzing Customer Complaints",
+        "7QC tools"
+    ],
+    "professional_info": {
+        "person name": [
+            "VIJAY"
+        ],
+        "job title": [
+            "Assistant Engineer",
+            "quality control Trainee",
+            "customer support",
+            "Supplier",
+            "project associate",
+            "Quality Control"
+        ],
+        "company": [
+            "Royce Aluminum & Alloys Private Ltd",
+            "SL lumax Ltd",
+            "Hyundai",
+            "Hyundai Motor India",
+            "Ford",
+            "General Motors India",
+            "Shri Hari Electricals"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-mail",
+            "kvijay57@yahoo.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "technical skills": 0.237,
+            "customer complaints": 0.2155,
+            "FMEA": 0.5112,
+            "Control plan": 0.3038,
+            "Inspection reports": 0.2269,
+            "Failure analysis competency": 0.7818,
+            "Customer quality data management": 0.2804,
+            "Production": 0.1538,
+            "MRB": 0.436,
+            "RMA": 0.4078,
+            "CAR": 0.3559,
+            "Capital Asset identification": 0.1606,
+            "New product development": 0.4725,
+            "Assembly and rework process development": 0.3347,
+            "Analyzing Customer Complaints": 0.1628,
+            "7QC tools": 0.6935
+        },
+        "filename": "cv (614)_annotated.json"
+    }
+}

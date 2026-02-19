@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "FIME - HYLSA",
+        "FIME-HYLSA",
+        "FIME- HYLSA",
+        "ASHRAE"
+    ],
+    "professional_info": {
+        "person name": [
+            "Juan Antonio AGUILAR GARIB",
+            "Oxana  Kharissova  Vasilievna",
+            "Ubaldo  Ortiz Méndez",
+            "Moisés Hinojosa Rivera",
+            "Zarel Valdez",
+            "Román Nava"
+        ],
+        "job title": [],
+        "company": [
+            "UANL-CONACYT-KEMET-UPS-MARION TECHNOLOGIES",
+            "PCP",
+            "UANL- CONACYT",
+            "ECOS- ANUIES",
+            "UANL-UPS",
+            "International Microwave Power Institute",
+            "Cátedra  de  Estudios  Mexicanos",
+            "IMPI"
+        ],
+        "university": [
+            "Universidad Autónoma de Nuevo León",
+            "Instituto Tecnológico de Saltillo",
+            "UANL",
+            "Universidad de Kunming",
+            "Université  de  Toulouse  Le  Mirail-Paul  Sabatier",
+            "Université Paul Sabatier"
+        ],
+        "degree": [
+            "Doctorado: Ingeniería de Materiales",
+            "Maestría en Ciencias: Metalurgia",
+            "Ingeniería Mecánica"
+        ],
+        "years of experience": [],
+        "address": [
+            "gama.fime.uanl.mx"
+        ],
+        "email": [
+            "juan.aguilargb@uanl.edu.mx"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "FIME - HYLSA": 0.24,
+            "FIME-HYLSA": 0.1681,
+            "FIME- HYLSA": 0.2251,
+            "ASHRAE": 0.41
+        },
+        "filename": "cv (1296)_annotated.json"
+    }
+}

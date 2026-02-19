@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "honesty and dedication",
+        "Personal Skills",
+        "Comprehensive problem solving abilities",
+        "Ability to deal with people diplomatically",
+        "Willingness to learn",
+        "Technical experience",
+        "Trouble Shooting",
+        "Installation of Air conditioners - Split and Window",
+        "ability to handle critical requirements",
+        "independently and effectively",
+        "Central Chiller",
+        "Plant System",
+        "Identify research",
+        "Able to learn and understand new theory/concept",
+        "Self-discipline analytical approach",
+        "team worker",
+        "efficient time management",
+        "high degree of commitment",
+        "Installation of Window and Split Air Conditioners",
+        "Troubleshooting"
+    ],
+    "professional_info": {
+        "person name": [
+            "Rehan Ahmad",
+            "I"
+        ],
+        "job title": [
+            "HVAC TECHNICIAN",
+            "Technician-Installation & Troubleshooting",
+            "Technician-Installation &"
+        ],
+        "company": [
+            "EMCOR Facilities Services",
+            "AHU",
+            "FCU",
+            "Spectrum Air Condition Pvt. Ltd",
+            "Hitachi"
+        ],
+        "university": [
+            "Academic"
+        ],
+        "degree": [],
+        "years of experience": [
+            "6 years"
+        ],
+        "address": [
+            "P O Box – 262702",
+            "Abu, Dhabi Mall"
+        ],
+        "email": [
+            "E mail",
+            "rehanahmad.ahmad66@gmail.com",
+            "Educational Qualification"
+        ],
+        "phone": [
+            "Mobile no: 8795498673"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "honesty and dedication": 0.2794,
+            "Personal Skills": 0.157,
+            "Comprehensive problem solving abilities": 0.3677,
+            "Ability to deal with people diplomatically": 0.2921,
+            "Willingness to learn": 0.1802,
+            "Technical experience": 0.2116,
+            "Trouble Shooting": 0.3103,
+            "Installation of Air conditioners - Split and Window": 0.162,
+            "ability to handle critical requirements": 0.3832,
+            "independently and effectively": 0.2247,
+            "Central Chiller": 0.1867,
+            "Plant System": 0.2813,
+            "Identify research": 0.2103,
+            "Able to learn and understand new theory/concept": 0.2571,
+            "Self-discipline analytical approach": 0.3165,
+            "team worker": 0.2135,
+            "efficient time management": 0.4107,
+            "high degree of commitment": 0.4355,
+            "Installation of Window and Split Air Conditioners": 0.1908,
+            "Troubleshooting": 0.2592
+        },
+        "filename": "cv (2137)_annotated.json"
+    }
+}

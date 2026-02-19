@@ -1,0 +1,49 @@
+{
+    "skills": [
+        "production scheduling",
+        "quality control standards",
+        "value stream mapping",
+        "Dedication to product quality",
+        "production schedules",
+        "product quality",
+        "standard engineering test procedures",
+        "performance test",
+        "oil carryover",
+        "standard operational methods"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "PRODUCTION SUPERVISOR / VALUE STREAM LEADER",
+            "ENGINEERING LAB MANAGER",
+            "engineering staff",
+            "PROCESS TECHNICIAN"
+        ],
+        "company": [
+            "company",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "production scheduling": 0.2332,
+            "quality control standards": 0.4746,
+            "value stream mapping": 0.5626,
+            "Dedication to product quality": 0.1721,
+            "production schedules": 0.2507,
+            "product quality": 0.183,
+            "standard engineering test procedures": 0.1988,
+            "performance test": 0.1866,
+            "oil carryover": 0.2205,
+            "standard operational methods": 0.5722
+        },
+        "filename": "cv (4609)_annotated.json"
+    }
+}

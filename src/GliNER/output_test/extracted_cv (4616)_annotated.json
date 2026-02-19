@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Computer Proficiency",
+        "Microsoft word Excel",
+        "Power point",
+        "Lesson planning expertise",
+        "Tutoring experience",
+        "Standardized testing",
+        "IEP familiarity",
+        "CCSS",
+        "differentiated instruction",
+        "Smart board elements",
+        "PowerPoint presentations",
+        "IEP goals",
+        "Education",
+        "Education & Special Education",
+        "Early Childhood Education"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "SCIENCE TEACHER",
+            "Dedicated Teacher",
+            "Substitute Teacher K-6",
+            "Teacher Assistant",
+            "Special Education Teacher",
+            "head teacher"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [
+            "Touro College",
+            "City College"
+        ],
+        "degree": [
+            "Masters of Science",
+            "Masters of Science in Education & Special Education",
+            "Bachelor of Science",
+            "Bachelor of Science in Early Childhood Education"
+        ],
+        "years of experience": [],
+        "address": [
+            "Bayshore",
+            "US"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Computer Proficiency": 0.5851,
+            "Microsoft word Excel": 0.487,
+            "Power point": 0.4229,
+            "Lesson planning expertise": 0.7641,
+            "Tutoring experience": 0.4496,
+            "Standardized testing": 0.6278,
+            "IEP familiarity": 0.4352,
+            "CCSS": 0.83,
+            "differentiated instruction": 0.5325,
+            "Smart board elements": 0.3809,
+            "PowerPoint presentations": 0.4526,
+            "IEP goals": 0.2144,
+            "Education": 0.272,
+            "Education & Special Education": 0.4569,
+            "Early Childhood Education": 0.7247
+        },
+        "filename": "cv (4616)_annotated.json"
+    }
+}

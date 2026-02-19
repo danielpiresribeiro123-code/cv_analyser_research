@@ -1,0 +1,40 @@
+{
+    "skills": [
+        "Allure",
+        "Elle",
+        "Marie Claire",
+        "New Yorker",
+        "Tatler Teen Vogue",
+        "Vanity Fair",
+        "Vogue",
+        "W Magazine"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue",
+            "90034"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Allure": 0.1893,
+            "Elle": 0.154,
+            "Marie Claire": 0.1697,
+            "New Yorker": 0.1793,
+            "Tatler Teen Vogue": 0.1713,
+            "Vanity Fair": 0.1882,
+            "Vogue": 0.223,
+            "W Magazine": 0.2758
+        },
+        "filename": "cv (1003)_annotated.json"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "Proven problem solver",
+        "Innovative thinker",
+        "Detailed knowledge of traded financial instruments",
+        "Challenge taker",
+        "goal oriented",
+        "highly motivated",
+        "competent self-starter",
+        "eager to contribute",
+        "Trade Life Cycle processing",
+        "FASB",
+        "IFRS",
+        "Trading STP solution",
+        "Commodities",
+        "Financial Accounting Standard Board",
+        "International Financial Reporting Standards"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Financial/Business Analyst",
+            "Subject Matter Expert",
+            "Principal Consultant",
+            "Senior Consultant",
+            "traders"
+        ],
+        "company": [
+            "Company Name",
+            "Capital Markets",
+            "Front Arena",
+            "Private Banking"
+        ],
+        "university": [],
+        "degree": [
+            "MBA"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Proven problem solver": 0.5566,
+            "Innovative thinker": 0.5176,
+            "Detailed knowledge of traded financial instruments": 0.3129,
+            "Challenge taker": 0.4313,
+            "goal oriented": 0.3978,
+            "highly motivated": 0.4899,
+            "competent self-starter": 0.5289,
+            "eager to contribute": 0.1809,
+            "Trade Life Cycle processing": 0.2042,
+            "FASB": 0.5063,
+            "IFRS": 0.6571,
+            "Trading STP solution": 0.2055,
+            "Commodities": 0.1717,
+            "Financial Accounting Standard Board": 0.1896,
+            "International Financial Reporting Standards": 0.5696
+        },
+        "filename": "cv (4347)_annotated.json"
+    }
+}

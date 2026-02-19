@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "English  Language",
+        "Diploma of Higher Secondary",
+        "English as a Second Language",
+        "Business Process Integration",
+        "SAP Business Objects Web Intelligence 4.0",
+        "Crystal Report 2011",
+        "Bachelor  Certificate",
+        "ITS Skills",
+        "Microsoft office",
+        "word",
+        "PowerPoint",
+        "Excel",
+        "Access",
+        "HTML",
+        "C++",
+        "Fast typing",
+        "Good networking skills",
+        "Arabic",
+        "English",
+        "Soft skills",
+        "Organizing and Working as a team",
+        "Excellent communication skills",
+        "Technical Communication skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mouza Ali Al-Hadi"
+        ],
+        "job title": [],
+        "company": [
+            "SAP",
+            "SAP Global",
+            "Al Madina Logistics Services"
+        ],
+        "university": [
+            "Cultural  Institute  for  Scientific  Development",
+            "Al-Naba Secondary School",
+            "Modern College of Business and Science",
+            "Modern  College  of  Business  and Science",
+            "Modern  College  of Business  and  Science"
+        ],
+        "degree": [
+            "Bachelor  of  Science  Business Administration (Finance)",
+            "Bachelor  of  Science  Business  Administration  (Finance)"
+        ],
+        "years of experience": [
+            "experience in academic years"
+        ],
+        "address": [],
+        "email": [
+            "E-mail",
+            "yes2009@outlook.sa",
+            "(+968) 96583224"
+        ],
+        "phone": [
+            "Tel"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "English  Language": 0.403,
+            "Diploma of Higher Secondary": 0.3668,
+            "English as a Second Language": 0.4592,
+            "Business Process Integration": 0.214,
+            "SAP Business Objects Web Intelligence 4.0": 0.3455,
+            "Crystal Report 2011": 0.2348,
+            "Bachelor  Certificate": 0.4007,
+            "ITS Skills": 0.4658,
+            "Microsoft office": 0.408,
+            "word": 0.3508,
+            "PowerPoint": 0.3205,
+            "Excel": 0.2967,
+            "Access": 0.4642,
+            "HTML": 0.5105,
+            "C++": 0.5659,
+            "Fast typing": 0.3642,
+            "Good networking skills": 0.2937,
+            "Arabic": 0.6667,
+            "English": 0.5462,
+            "Soft skills": 0.2968,
+            "Organizing and Working as a team": 0.1958,
+            "Excellent communication skills": 0.3995,
+            "Technical Communication skills": 0.2802
+        },
+        "filename": "cv (1301)_annotated.json"
+    }
+}

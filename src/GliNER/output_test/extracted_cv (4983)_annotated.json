@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "Industrious and collaborative individual",
+        "Machine Learning",
+        "Deep Learning",
+        "roles",
+        "ML Algorithms",
+        "CNN architectures",
+        "Time series data",
+        "Image captioning",
+        "NLP",
+        "Python",
+        "MySQL",
+        "Tensorflow",
+        "Keras",
+        "ASM Management",
+        "Image scaling models"
+    ],
+    "professional_info": {
+        "person name": [
+            "HARRY MILES"
+        ],
+        "job title": [
+            "PROFILE",
+            "EXPERIENCE",
+            "Intern"
+        ],
+        "company": [],
+        "university": [],
+        "degree": [
+            "B.Tech(Chemical) PPC University"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Industrious and collaborative individual": 0.4146,
+            "Machine Learning": 0.5951,
+            "Deep Learning": 0.7288,
+            "roles": 0.1618,
+            "ML Algorithms": 0.5862,
+            "CNN architectures": 0.4908,
+            "Time series data": 0.3034,
+            "Image captioning": 0.3683,
+            "NLP": 0.2875,
+            "Python": 0.9664,
+            "MySQL": 0.8602,
+            "Tensorflow": 0.2883,
+            "Keras": 0.4266,
+            "ASM Management": 0.7517,
+            "Image scaling models": 0.3576
+        },
+        "filename": "cv (4983)_annotated.json"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "Pin 209306",
+        "CO NTACT",
+        "Ami",
+        "U.P Board",
+        "Science",
+        "B.A GENRAL",
+        "Basic of Computer",
+        "EXPERIENCE",
+        "Marketing",
+        "Date of birth",
+        "Marital Status",
+        "Languages Known",
+        "Leisure Time ActivityRam Bilas Tripathi",
+        "English",
+        "Hindi",
+        "Surfing",
+        "Making Friends"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHUBHAM TRIPATHI"
+        ],
+        "job title": [
+            "computer operator"
+        ],
+        "company": [
+            "Gupta Technology",
+            "Glaze Trading India pvt. Ltd.",
+            "Indian"
+        ],
+        "university": [
+            "Kanpur University"
+        ],
+        "degree": [
+            "Group AJ"
+        ],
+        "years of experience": [
+            "one year experience",
+            "Six mo4lhs experience",
+            "Unmarried"
+        ],
+        "address": [
+            "Village Dattpur Post Mahera"
+        ],
+        "email": [
+            "E-mail",
+            "shubhamtripathiB 1 3 @gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Pin 209306": 0.2202,
+            "CO NTACT": 0.2554,
+            "Ami": 0.1877,
+            "U.P Board": 0.2744,
+            "Science": 0.2712,
+            "B.A GENRAL": 0.1901,
+            "Basic of Computer": 0.2474,
+            "EXPERIENCE": 0.1794,
+            "Marketing": 0.3288,
+            "Date of birth": 0.1827,
+            "Marital Status": 0.3927,
+            "Languages Known": 0.209,
+            "Leisure Time ActivityRam Bilas Tripathi": 0.2119,
+            "English": 0.3726,
+            "Hindi": 0.6753,
+            "Surfing": 0.4966,
+            "Making Friends": 0.5474
+        },
+        "filename": "cv (720)_annotated.json"
+    }
+}

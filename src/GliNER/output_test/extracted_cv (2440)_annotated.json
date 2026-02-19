@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "expertise",
+        "innovative outlook",
+        "hvac",
+        "DIPLOMA",
+        "Listening to music",
+        "Pencil Drawing",
+        "Gardening",
+        "Chatting with friends",
+        "English",
+        "Hindi",
+        "STRENGTHS",
+        "Patience",
+        "Team work",
+        "Disciplined",
+        "Sincere",
+        "Hardworking",
+        "Male"
+    ],
+    "professional_info": {
+        "person name": [
+            "Jitender kumar",
+            "Sharvan kumar",
+            "Suniti devi",
+            "Yours truly",
+            "Jitender"
+        ],
+        "job title": [
+            "assistant",
+            "Single"
+        ],
+        "company": [],
+        "university": [
+            "nBoard",
+            "UniversityInstitution",
+            "PTUsukhinder",
+            "polytechnic",
+            "college",
+            "dunera",
+            "public school 52.8"
+        ],
+        "degree": [],
+        "years of experience": [
+            "6 month",
+            "June 2016",
+            "March 2010",
+            "30-07-1993"
+        ],
+        "address": [
+            "Vill",
+            "balmui",
+            "hadser",
+            "chamba",
+            "Himachal pardesh"
+        ],
+        "email": [
+            "pbkuldip@gmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "expertise": 0.3739,
+            "innovative outlook": 0.3237,
+            "hvac": 0.159,
+            "DIPLOMA": 0.4491,
+            "Listening to music": 0.2152,
+            "Pencil Drawing": 0.2507,
+            "Gardening": 0.2546,
+            "Chatting with friends": 0.1606,
+            "English": 0.7774,
+            "Hindi": 0.8548,
+            "STRENGTHS": 0.2458,
+            "Patience": 0.2321,
+            "Team work": 0.204,
+            "Disciplined": 0.3535,
+            "Sincere": 0.2519,
+            "Hardworking": 0.2217,
+            "Male": 0.2189
+        },
+        "filename": "cv (2440)_annotated.json"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "Male",
+        "Single",
+        "Tamil",
+        "English",
+        "MalayalamOBJECTIVE",
+        "committed & dedicated people",
+        "Willing to",
+        "challenging & creative environment",
+        "STRENGTHS",
+        "Positive thinking",
+        "quick learning",
+        "Smart work",
+        "willing to work in any condition",
+        "Good Communication skills",
+        "Honest",
+        "punctuality",
+        "Self-Motivated",
+        "MY GOAL",
+        "successful person",
+        "Playing Football"
+    ],
+    "professional_info": {
+        "person name": [
+            "G. JENIT ANTONY",
+            "Mr. K. George",
+            "Indian"
+        ],
+        "job title": [
+            "D.O.B",
+            "key player"
+        ],
+        "company": [
+            "leading corporate of hi-tech",
+            "Deepa Firm",
+            "Inputs Private Limited"
+        ],
+        "university": [
+            "CSI INSTITUTE OF, TECHNOLOGY",
+            "COMMERCEANNAI VEILANKANNI, COLLEGE",
+            "2007HSC.ST.MARRYS HIGHER, SECONDARY SCHOOL"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Holy family Street"
+        ],
+        "email": [
+            "E-mail",
+            "jenitantony321@gmail.com",
+            "2012MBA"
+        ],
+        "phone": [
+            "Mobile No.",
+            "+917200274341"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Male": 0.1864,
+            "Single": 0.2661,
+            "Tamil": 0.6416,
+            "English": 0.5058,
+            "MalayalamOBJECTIVE": 0.4018,
+            "committed & dedicated people": 0.2639,
+            "Willing to": 0.2055,
+            "challenging & creative environment": 0.1974,
+            "STRENGTHS": 0.3633,
+            "Positive thinking": 0.3966,
+            "quick learning": 0.3558,
+            "Smart work": 0.2758,
+            "willing to work in any condition": 0.353,
+            "Good Communication skills": 0.3927,
+            "Honest": 0.2218,
+            "punctuality": 0.28,
+            "Self-Motivated": 0.456,
+            "MY GOAL": 0.2636,
+            "successful person": 0.2343,
+            "Playing Football": 0.1627
+        },
+        "filename": "cv (2540)_annotated.json"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "operational management",
+        "case management",
+        "grant writing",
+        "program development/ management",
+        "fundraising",
+        "community outreach",
+        "direct client services",
+        "Microsoft Word",
+        "Power-point",
+        "Excel",
+        "Office Project Evaluation",
+        "Grant Certification",
+        "Project Coordination",
+        "ESL",
+        "English as a second language",
+        "citizenship exam",
+        "marketing and outreach",
+        "transportation problems"
+    ],
+    "professional_info": {
+        "person name": [
+            "CONSULTANT",
+            "Mr. Scott Tetreault"
+        ],
+        "job title": [
+            "VP of Digital/Marketing",
+            "Lead Employment Specialist",
+            "Interim Director/ Program Manager",
+            "Grant Writer"
+        ],
+        "company": [
+            "Golden Boy Promotions",
+            "GBP",
+            "Company Name",
+            "Department of Rehabilitation (DOR)",
+            "work source centers",
+            "America's Job Exchange",
+            "AIC"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E: Scott@goldenboypromotions"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "operational management": 0.4622,
+            "case management": 0.3341,
+            "grant writing": 0.3826,
+            "program development/ management": 0.388,
+            "fundraising": 0.4994,
+            "community outreach": 0.3834,
+            "direct client services": 0.263,
+            "Microsoft Word": 0.6003,
+            "Power-point": 0.5063,
+            "Excel": 0.3853,
+            "Office Project Evaluation": 0.4344,
+            "Grant Certification": 0.7045,
+            "Project Coordination": 0.2116,
+            "ESL": 0.5469,
+            "English as a second language": 0.2454,
+            "citizenship exam": 0.3226,
+            "marketing and outreach": 0.1815,
+            "transportation problems": 0.1772
+        },
+        "filename": "cv (4474)_annotated.json"
+    }
+}

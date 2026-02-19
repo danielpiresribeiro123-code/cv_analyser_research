@@ -1,0 +1,98 @@
+{
+    "skills": [
+        "NLP",
+        "Databases",
+        "learning models",
+        "ML",
+        "Python",
+        "Frameworks",
+        "DL",
+        "Other Activities",
+        "Certificate program",
+        "programming",
+        "Projects",
+        "Machine Learning",
+        "Natural",
+        "Language Processing",
+        "Text Mining",
+        "Data",
+        "Deep Learning",
+        "MongoDB",
+        "SQL",
+        "Flask",
+        "Data Analytics",
+        "Big",
+        "Work Experience",
+        "personal details",
+        "user experience",
+        "Diploma",
+        "Big Data Analytics",
+        "Software Development"
+    ],
+    "professional_info": {
+        "person name": [
+            "Drew Hall"
+        ],
+        "job title": [
+            "ASSOCIATE",
+            "MACHINE LEARNING ENGINEER",
+            "Executive Profile",
+            "Chatbot",
+            "machine",
+            "Learning Engineer",
+            "Devnagari Character recognitionSkills",
+            "Scientist",
+            "Data Analyst",
+            "Bristlecone",
+            "Solve Bot"
+        ],
+        "company": [
+            "SAP"
+        ],
+        "university": [
+            "Thakur Shiv Kumar Singh Memorial Engineering College",
+            "Institute for Advanced Computing and"
+        ],
+        "degree": [
+            "B.Tech"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "NLP": 0.5468,
+            "Databases": 0.6413,
+            "learning models": 0.2348,
+            "ML": 0.8192,
+            "Python": 0.9896,
+            "Frameworks": 0.3216,
+            "DL": 0.2452,
+            "Other Activities": 0.2286,
+            "Certificate program": 0.4685,
+            "programming": 0.1585,
+            "Projects": 0.2271,
+            "Machine Learning": 0.796,
+            "Natural": 0.6382,
+            "Language Processing": 0.4596,
+            "Text Mining": 0.5059,
+            "Data": 0.3155,
+            "Deep Learning": 0.8052,
+            "MongoDB": 0.8861,
+            "SQL": 0.3648,
+            "Flask": 0.3007,
+            "Data Analytics": 0.496,
+            "Big": 0.1666,
+            "Work Experience": 0.2081,
+            "personal details": 0.226,
+            "user experience": 0.2913,
+            "Diploma": 0.5222,
+            "Big Data Analytics": 0.2391,
+            "Software Development": 0.3406
+        },
+        "filename": "cv (5031)_annotated.json"
+    }
+}

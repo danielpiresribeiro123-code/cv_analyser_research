@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "B.E.( Civil )",
+        "Project management",
+        "Masonry",
+        "best  construction  practices",
+        "construction methodology",
+        "alternative methods"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHAIKH MEHZAN MOHAMMED"
+        ],
+        "job title": [
+            "CIVIL ENGINEER",
+            "Junior  Engineer",
+            "Project Coordinators",
+            "Architects"
+        ],
+        "company": [
+            "Construction/Infrastructure/Oil and Gas firm",
+            "H.S.S.C. Goa Board",
+            "Frischmann  Prabhu  India  Pvt.  Ltd",
+            "RCC Consultants"
+        ],
+        "university": [
+            "Don Bosco College of Engineering",
+            "Goa University",
+            "S.S.C. Goa Board"
+        ],
+        "degree": [
+            "Bachelor of  Civil  Engineering"
+        ],
+        "years of experience": [
+            "PROFESSIONAL EXPERIENCE",
+            "1 year 10 months"
+        ],
+        "address": [
+            "A/203",
+            "1st floor",
+            "Prime Hermitage",
+            "Merces-Vaddem",
+            "Vasco-da-Gama",
+            "Fatorda"
+        ],
+        "email": [
+            "E-mail",
+            "mehzans@gmail.com"
+        ],
+        "phone": [
+            "Contact",
+            "+919673868476 / +918208472987"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "B.E.( Civil )": 0.1874,
+            "Project management": 0.1821,
+            "Masonry": 0.1558,
+            "best  construction  practices": 0.1703,
+            "construction methodology": 0.8156,
+            "alternative methods": 0.7909
+        },
+        "filename": "cv (4175)_annotated.json"
+    }
+}

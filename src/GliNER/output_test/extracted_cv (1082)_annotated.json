@@ -1,0 +1,22 @@
+{
+    "skills": [],
+    "professional_info": {
+        "person name": [],
+        "job title": [],
+        "company": [],
+        "university": [
+            "Kirk Borne",
+            "GMU"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 0,
+        "confidence_scores": {},
+        "filename": "cv (1082)_annotated.json"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "Tamil",
+        "English",
+        "Hindi",
+        "Malayalam",
+        "Single",
+        "Male",
+        "CERTIFICATION"
+    ],
+    "professional_info": {
+        "person name": [
+            "S. SYED ABBAS",
+            "S. SYED MOHAMMED",
+            "Muslim",
+            "Indian",
+            "SYED ABBAS"
+        ],
+        "job title": [
+            "DUCTMAN",
+            "AC  Mechanic",
+            "Ac Mechanic"
+        ],
+        "company": [
+            "S.S.L.C.",
+            "N.C.V.T.",
+            "A.R.A.S P V & Co",
+            "ETA",
+            "HRD",
+            "CCAD",
+            "Cleveland Clinic Abudhabi",
+            "AUTOCAD"
+        ],
+        "university": [],
+        "degree": [
+            "Educational Qualification"
+        ],
+        "years of experience": [
+            "2 years experience"
+        ],
+        "address": [
+            "Vannara Pettai",
+            "13, Mohamed ali street"
+        ],
+        "email": [
+            "abbasrafi2012@gmail.com",
+            "Mohamedrafi.abbas2011@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Tamil": 0.504,
+            "English": 0.7009,
+            "Hindi": 0.7361,
+            "Malayalam": 0.6623,
+            "Single": 0.3001,
+            "Male": 0.2053,
+            "CERTIFICATION": 0.4638
+        },
+        "filename": "cv (3689)_annotated.json"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "ITIL",
+        "Project Management",
+        "Operations",
+        "SAP BI Data warehousing",
+        "SAP HANA",
+        "Oracle Technologies",
+        "coordination and support Services",
+        "leadership role",
+        "Project Development",
+        "Planning & Management",
+        "IT operation",
+        "HANA",
+        "Coordination and Support services",
+        "process oriented experience",
+        "Managerial Capabilities",
+        "project  initiation",
+        "Information Management",
+        "Client Weekly reports",
+        "Risk and Issue management",
+        "Resource management",
+        "Business development initiatives",
+        "Process transitions",
+        "Technical Capabilities"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sandeep K Keloth"
+        ],
+        "job title": [
+            "Management & Technical Consultant",
+            "effective leader",
+            "coordinator"
+        ],
+        "company": [
+            "fast-growing reputed company",
+            "E&Y",
+            "Accenture",
+            "IBM",
+            "WIPRO",
+            "ADEA technologies",
+            "Optimal Solutions",
+            "Unilever"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "+91 - 9535501525",
+            "15 years",
+            "15  years"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "ITIL": 0.6134,
+            "Project Management": 0.5367,
+            "Operations": 0.3648,
+            "SAP BI Data warehousing": 0.5193,
+            "SAP HANA": 0.4378,
+            "Oracle Technologies": 0.4715,
+            "coordination and support Services": 0.3103,
+            "leadership role": 0.2165,
+            "Project Development": 0.3648,
+            "Planning & Management": 0.2484,
+            "IT operation": 0.334,
+            "HANA": 0.3767,
+            "Coordination and Support services": 0.3454,
+            "process oriented experience": 0.1986,
+            "Managerial Capabilities": 0.3736,
+            "project  initiation": 0.1767,
+            "Information Management": 0.2564,
+            "Client Weekly reports": 0.2394,
+            "Risk and Issue management": 0.3896,
+            "Resource management": 0.379,
+            "Business development initiatives": 0.2552,
+            "Process transitions": 0.212,
+            "Technical Capabilities": 0.3673
+        },
+        "filename": "cv (675)_annotated.json"
+    }
+}

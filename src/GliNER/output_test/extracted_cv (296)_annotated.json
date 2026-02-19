@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "knowledge",
+        "skills",
+        "attitude",
+        "analytical abilities",
+        "professional competence",
+        "previous experience",
+        "dedicated and organization oriented professional",
+        "KEY SKILLS",
+        "Maintaining effective client’s coordination",
+        "Good communication skills",
+        "Team Handling",
+        "multitasking",
+        "Being Organized",
+        "Excellent problem- solving",
+        "analytical skills",
+        "COMPUTER KNOWLEDGE",
+        "MS Office",
+        "MS Word",
+        "MS Excel",
+        "Power Point",
+        "PERSONALITY TRAITS",
+        "Excellent presentation and interpersonal skills",
+        "Strong motivational and leadership skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "Siddique Mohd. Abdus Samad",
+            "Mohd. Abdus Samad"
+        ],
+        "job title": [
+            "Sales  Executive",
+            "Sales Executive",
+            "Business Development Executive"
+        ],
+        "company": [
+            "Inway- Mas Enterprises",
+            "Car Polishing products",
+            "T.S. Traders",
+            "Supplier of Construction Materials",
+            "Vippro Enterprises",
+            "Contractor of Civil ,Electrical and Supplier of Electrical Products"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "aatifsaamad@gmail.com"
+        ],
+        "phone": [
+            "+919137164414"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "knowledge": 0.3019,
+            "skills": 0.4129,
+            "attitude": 0.2505,
+            "analytical abilities": 0.5647,
+            "professional competence": 0.5466,
+            "previous experience": 0.2176,
+            "dedicated and organization oriented professional": 0.1524,
+            "KEY SKILLS": 0.2656,
+            "Maintaining effective client’s coordination": 0.1793,
+            "Good communication skills": 0.3804,
+            "Team Handling": 0.4919,
+            "multitasking": 0.3613,
+            "Being Organized": 0.3706,
+            "Excellent problem- solving": 0.3813,
+            "analytical skills": 0.5,
+            "COMPUTER KNOWLEDGE": 0.4948,
+            "MS Office": 0.6984,
+            "MS Word": 0.5026,
+            "MS Excel": 0.476,
+            "Power Point": 0.52,
+            "PERSONALITY TRAITS": 0.4802,
+            "Excellent presentation and interpersonal skills": 0.4255,
+            "Strong motivational and leadership skills": 0.5905
+        },
+        "filename": "cv (296)_annotated.json"
+    }
+}

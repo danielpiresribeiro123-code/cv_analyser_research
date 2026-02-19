@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "operations management",
+        "organizational efficiency",
+        "Experienced CAD Drafter",
+        "solid knowledge of the practical application of engineering science and technology",
+        "excellent technical",
+        "analytical and communication skills",
+        "Skills",
+        "Training program implementation",
+        "Project management",
+        "Scheduling tools",
+        "Process piping",
+        "Semi-conductor machine design",
+        "Structural red-line revisions",
+        "drafting",
+        "Research and Development",
+        "Innovative Design",
+        "Drafting",
+        "standards",
+        "Organizational Design",
+        "Project Coordination",
+        "GTCP85-180-L-C",
+        "GTC85-56-70A-71-72",
+        "T-62T-40-1",
+        "repair scheme design",
+        "test cell",
+        "manual interpretation",
+        "tooling"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "AVIATION ENGINEER",
+            "Profile",
+            "Innovative Electrical Engineer",
+            "Team-oriented Electrical Engineer",
+            "Electrical Engineer",
+            "Dedicated [job title]",
+            "City"
+        ],
+        "company": [
+            "company",
+            "Company Name",
+            "Current",
+            "Auxiliary Power Unit overhaul facility"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "[number] years of experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "operations management": 0.4671,
+            "organizational efficiency": 0.1765,
+            "Experienced CAD Drafter": 0.2299,
+            "solid knowledge of the practical application of engineering science and technology": 0.2024,
+            "excellent technical": 0.1503,
+            "analytical and communication skills": 0.2259,
+            "Skills": 0.1735,
+            "Training program implementation": 0.2604,
+            "Project management": 0.662,
+            "Scheduling tools": 0.6648,
+            "Process piping": 0.2573,
+            "Semi-conductor machine design": 0.3322,
+            "Structural red-line revisions": 0.1953,
+            "drafting": 0.2602,
+            "Research and Development": 0.3618,
+            "Innovative Design": 0.2211,
+            "Drafting": 0.2048,
+            "standards": 0.2025,
+            "Organizational Design": 0.3024,
+            "Project Coordination": 0.4696,
+            "GTCP85-180-L-C": 0.2506,
+            "GTC85-56-70A-71-72": 0.2813,
+            "T-62T-40-1": 0.223,
+            "repair scheme design": 0.1847,
+            "test cell": 0.1821,
+            "manual interpretation": 0.2283,
+            "tooling": 0.2574
+        },
+        "filename": "cv (4753)_annotated.json"
+    }
+}

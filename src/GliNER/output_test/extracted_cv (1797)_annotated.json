@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "English",
+        "Hindi",
+        "TamilCareer",
+        "technical  skills",
+        "Academic Qualification",
+        "Master in Business Administration (Project Management)",
+        "Key Skills",
+        "Sound knowledge",
+        "Sound knowledge",
+        "Organized with positive attitude",
+        "Excellent Communication skills",
+        "multitask",
+        "manage time effectively",
+        "systematicmethods"
+    ],
+    "professional_info": {
+        "person name": [
+            "M.NAZURUDEEN",
+            "A.MOHAMED SHRIFF"
+        ],
+        "job title": [
+            "Electrical  Engineer"
+        ],
+        "company": [
+            "ATS – Advanced Telecom System",
+            "ETA Star Engg. & Contracting",
+            "W.L.L.",
+            "ATS  –  Advanced  Telecom  System  for Construction",
+            "ETA  Star  Engineering  &  Contracting W.L.L.",
+            "DDE",
+            "Jamal Mohamed College",
+            "Nokia Phase 1 &Modine Air condition"
+        ],
+        "university": [
+            "Alagappa University"
+        ],
+        "degree": [
+            "Bachelor of Science (Electrical Technology)",
+            "Bachelor of Science (Mathematics)"
+        ],
+        "years of experience": [
+            "7 years’ Experience"
+        ],
+        "address": [
+            "7416 Riyadh 12476",
+            "P.B. No. 23773",
+            "21B19",
+            "K. R. S Nagar"
+        ],
+        "email": [
+            "Email",
+            "mdnazurudeen@yahoo.co.",
+            "mdnazurudeen@gmail.com",
+            "MARRIED"
+        ],
+        "phone": [
+            "Mobile",
+            "+91- 9514419193"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "English": 0.5974,
+            "Hindi": 0.6513,
+            "TamilCareer": 0.3092,
+            "technical  skills": 0.3188,
+            "Academic Qualification": 0.2109,
+            "Master in Business Administration (Project Management)": 0.2905,
+            "Key Skills": 0.2359,
+            "Sound knowledge": 0.235,
+            "Organized with positive attitude": 0.3376,
+            "Excellent Communication skills": 0.3052,
+            "multitask": 0.2016,
+            "manage time effectively": 0.1904,
+            "systematicmethods": 0.2708
+        },
+        "filename": "cv (1797)_annotated.json"
+    }
+}

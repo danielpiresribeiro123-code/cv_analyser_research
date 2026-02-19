@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Data Analysis",
+        "EDA",
+        "secondary data",
+        "RShiny",
+        "unstructured text data",
+        "text classifier",
+        "Machine Learning",
+        "data preprocessing",
+        "pipeline building",
+        "Data Analytics",
+        "Time Series Analysis",
+        "Business Analytics",
+        "Predictive Modeling",
+        "Regression Analysis",
+        "Image Processing",
+        "Data Visualization",
+        "Linear Regression",
+        "Statistical Analysis",
+        "Requirement Analysis",
+        "SQL",
+        "Tableau",
+        "Python"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Data Analyst"
+        ],
+        "company": [],
+        "university": [
+            "Sanrachna SGT University",
+            "Sikkim Manipal university"
+        ],
+        "degree": [
+            "BSc"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Data Analysis": 0.4959,
+            "EDA": 0.3112,
+            "secondary data": 0.157,
+            "RShiny": 0.4465,
+            "unstructured text data": 0.1823,
+            "text classifier": 0.4274,
+            "Machine Learning": 0.7325,
+            "data preprocessing": 0.3739,
+            "pipeline building": 0.4329,
+            "Data Analytics": 0.4905,
+            "Time Series Analysis": 0.7079,
+            "Business Analytics": 0.5092,
+            "Predictive Modeling": 0.7821,
+            "Regression Analysis": 0.6914,
+            "Image Processing": 0.5094,
+            "Data Visualization": 0.6027,
+            "Linear Regression": 0.7057,
+            "Statistical Analysis": 0.7269,
+            "Requirement Analysis": 0.6233,
+            "SQL": 0.4004,
+            "Tableau": 0.5689,
+            "Python": 0.9442
+        },
+        "filename": "cv (5002)_annotated.json"
+    }
+}

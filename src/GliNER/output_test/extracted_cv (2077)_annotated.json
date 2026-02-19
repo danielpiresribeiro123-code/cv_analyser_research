@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "FORKLIFT OPERATOR EXPERIENCE",
+        "Driving Experience",
+        "Knowledge",
+        "Fork lift Operation Experience",
+        "Ms office",
+        "Excel",
+        "Highly Professional and positive attitude",
+        "Tractor trailer driver training certificate",
+        "Safe Transportation-hazardous  certificate",
+        "Fork lift Operator certificate",
+        "construction"
+    ],
+    "professional_info": {
+        "person name": [
+            "PERUMAL",
+            "Mr. Thandavam"
+        ],
+        "job title": [
+            "HEAVY DUTY DRIVER",
+            "Trailer truck driver",
+            "Dump Trailer Truck driver",
+            "Tanker Truck driver"
+        ],
+        "company": [
+            "Ashok Leyland",
+            "T VS & SONS",
+            "ASWAN TRADING & CONTRACTING CO.",
+            "AL MEGALIP CONCRETE READY MIX GROUPS"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "7 YEARS",
+            "5 YEARS",
+            "Fluent  English",
+            "basic  spoken knowledge"
+        ],
+        "address": [
+            "Arabic",
+            "TIRUNELVELI-DIST",
+            "TN",
+            "DOHA",
+            "TAMIL NADU – STATE"
+        ],
+        "email": [
+            "E MAIL",
+            "pe.june8@gamil.com"
+        ],
+        "phone": [
+            "PHONE",
+            "00  91  7708488002",
+            "+97466778086"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "FORKLIFT OPERATOR EXPERIENCE": 0.182,
+            "Driving Experience": 0.2039,
+            "Knowledge": 0.211,
+            "Fork lift Operation Experience": 0.2724,
+            "Ms office": 0.2025,
+            "Excel": 0.4558,
+            "Highly Professional and positive attitude": 0.2529,
+            "Tractor trailer driver training certificate": 0.7333,
+            "Safe Transportation-hazardous  certificate": 0.8745,
+            "Fork lift Operator certificate": 0.8371,
+            "construction": 0.1529
+        },
+        "filename": "cv (2077)_annotated.json"
+    }
+}

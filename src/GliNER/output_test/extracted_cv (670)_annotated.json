@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "Single",
+        "English",
+        "Hindi",
+        "Gujarati",
+        "Gender",
+        "Male",
+        "READING",
+        "CERTIFICATED  FOR  AUTOCAD  2013",
+        "PROFESSIONAL  ONLINE",
+        "OFFICIALLY AUTODESK CERTIFIED COURSE OF AUTOCAD 2D & 3D"
+    ],
+    "professional_info": {
+        "person name": [
+            "Keval N. Patel",
+            "PATEL KEVAL NAVINCHANDRA",
+            "PATEL KEVAL N."
+        ],
+        "job title": [
+            "RESPECTABLE POSITION"
+        ],
+        "company": [
+            "Shree satya sai seva medical",
+            "JAI METALS",
+            "BATLIBOI PVT. LTD."
+        ],
+        "university": [
+            "GSEB"
+        ],
+        "degree": [
+            "Diploma",
+            "B.E.",
+            "MECHANICAL ENGINEERING"
+        ],
+        "years of experience": [],
+        "address": [
+            "A1/202",
+            "SAI HOME",
+            "Bharthana-Vesu Road",
+            "Hindu"
+        ],
+        "email": [
+            "EMAIL ID",
+            "kkevalpatel9@gmail.com"
+        ],
+        "phone": [
+            "MOBILE NO",
+            "9033744534"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Single": 0.3376,
+            "English": 0.6724,
+            "Hindi": 0.7334,
+            "Gujarati": 0.7122,
+            "Gender": 0.163,
+            "Male": 0.286,
+            "READING": 0.2095,
+            "CERTIFICATED  FOR  AUTOCAD  2013": 0.5837,
+            "PROFESSIONAL  ONLINE": 0.2368,
+            "OFFICIALLY AUTODESK CERTIFIED COURSE OF AUTOCAD 2D & 3D": 0.3671
+        },
+        "filename": "cv (670)_annotated.json"
+    }
+}

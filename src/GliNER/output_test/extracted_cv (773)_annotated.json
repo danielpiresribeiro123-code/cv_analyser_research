@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "Flaunt"
+    ],
+    "professional_info": {
+        "person name": [
+            "Su Han",
+            "suhan",
+            "Andrew Allen",
+            "Anita Briem",
+            "Ashley Greene",
+            "Barbara Hershey",
+            "Ben Vereen",
+            "Bill Engvall",
+            "Daniel Pino",
+            "Debbie Allen",
+            "Efran Ramirez",
+            "Eric Dane",
+            "Fantasia Barrino Frankie J",
+            "Jim Goldstein",
+            "Johnny Hallyday",
+            "Julianne Hough",
+            "Kelly Osborne",
+            "Kirk Hammett",
+            "Nadine Velasquez",
+            "Rebecca Gayheart",
+            "Roland Emerich",
+            "Wendy Malick",
+            "My Name is Earl"
+        ],
+        "job title": [],
+        "company": [
+            "American Apparel",
+            "Sony State Farm",
+            "Tory Burch",
+            "Estylo"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue",
+            "90034"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "Flaunt": 0.1501
+        },
+        "filename": "cv (773)_annotated.json"
+    }
+}

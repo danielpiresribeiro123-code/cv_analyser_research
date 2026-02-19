@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "creativity",
+        "customer handling skills",
+        "Technical",
+        "Department: Service",
+        "Plating Shop — Quality Control",
+        "Transmission — Quality Control",
+        "careful listener",
+        "Proficient in routine auto maintenance work estimate and troubleshooting",
+        "service skills",
+        "Proficient in routine auto maintenance work estimate and troubleshooting",
+        "Well versed with the mechanism of a car",
+        "automated Plating line Process Parameters",
+        "chemical addition",
+        "Quality Testing"
+    ],
+    "professional_info": {
+        "person name": [
+            "SALEEM BASHA  A",
+            "asaleem2k10"
+        ],
+        "job title": [
+            "Designation",
+            "Service Adviser",
+            "Quality In-charge",
+            "Diploma Apprentice"
+        ],
+        "company": [
+            "Gopuram motors",
+            "TATA MOTORS",
+            "Royal Enfield Chennai",
+            "Hyundai Motor India Ltd Chennai",
+            "Royal Enfield"
+        ],
+        "university": [
+            "DMEPaavendher Polytechnic Collage",
+            "manivilunthan - AtturDepartment of",
+            "HSCBharathi Mat.Hr.Sec School",
+            "KachirayapalayamState Board2010",
+            "S.S.L.CGovt.Hr.Sec School",
+            "Thottiyam State Board2008"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-mail",
+            "gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+919786450142"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "creativity": 0.2431,
+            "customer handling skills": 0.4815,
+            "Technical": 0.2806,
+            "Department: Service": 0.1514,
+            "Plating Shop — Quality Control": 0.3975,
+            "Transmission — Quality Control": 0.3281,
+            "careful listener": 0.2082,
+            "Proficient in routine auto maintenance work estimate and troubleshooting": 0.1801,
+            "service skills": 0.2548,
+            "Well versed with the mechanism of a car": 0.1665,
+            "automated Plating line Process Parameters": 0.1518,
+            "chemical addition": 0.1798,
+            "Quality Testing": 0.1876
+        },
+        "filename": "cv (19)_annotated.json"
+    }
+}

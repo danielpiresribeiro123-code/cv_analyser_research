@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "WINNER",
+        "Professional Skills",
+        "positive attitude",
+        "positive thinking",
+        "able to team work",
+        "positive results",
+        "Able to work in any shifts",
+        "Fundamental",
+        "Ms-Windows",
+        "Ms-Office",
+        "sql",
+        "ASP.NeT",
+        "PHP",
+        "Hardware  knowledge",
+        "windows",
+        "networking",
+        "Internet"
+    ],
+    "professional_info": {
+        "person name": [
+            "MANOJ KUMAR SINGH"
+        ],
+        "job title": [
+            "WINNER",
+            "Computer Operator",
+            "Post Of Cashier",
+            "security guard",
+            "Security  Supervisor"
+        ],
+        "company": [
+            "Sun-Plant  Agro  Ltd.",
+            "Samruddha Jeevan Foods India Ltd.",
+            "NSS security pvt ltd",
+            "lucknow",
+            "SIS  security  Mumbai  Kalyan",
+            "Samruddha jeevan ltd"
+        ],
+        "university": [
+            "EXAMINATION BOARD",
+            "UNIVERSITY"
+        ],
+        "degree": [
+            "Diploma in Computer Application (DCA)"
+        ],
+        "years of experience": [
+            "EXPERIENCE",
+            "2  years"
+        ],
+        "address": [
+            "At+Po-Karember",
+            "Ps-Khejuri"
+        ],
+        "email": [
+            "E-Mail",
+            "manusingh020@gmail.com",
+            "Mailing"
+        ],
+        "phone": [
+            "Chatting"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "WINNER": 0.3017,
+            "Professional Skills": 0.4028,
+            "positive attitude": 0.4493,
+            "positive thinking": 0.454,
+            "able to team work": 0.4054,
+            "positive results": 0.1586,
+            "Able to work in any shifts": 0.2221,
+            "Fundamental": 0.2076,
+            "Ms-Windows": 0.2743,
+            "Ms-Office": 0.4182,
+            "sql": 0.2065,
+            "ASP.NeT": 0.2729,
+            "PHP": 0.3004,
+            "Hardware  knowledge": 0.351,
+            "windows": 0.598,
+            "networking": 0.1867,
+            "Internet": 0.1656
+        },
+        "filename": "cv (1972)_annotated.json"
+    }
+}

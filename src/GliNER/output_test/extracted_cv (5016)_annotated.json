@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Machine Learning",
+        "Data Mining",
+        "Artificial Intelligence",
+        "Natural",
+        "Language Processing",
+        "Predictive",
+        "Modeling",
+        "Financial Analysis",
+        "Python",
+        "SQL",
+        "Pandas",
+        "Time Series Analysis",
+        "PERSONAL PROFILE",
+        "Data Science",
+        "Data Science",
+        "Predictive Analytics",
+        "Deep Learning",
+        "AI",
+        "Google Cloud Platform"
+    ],
+    "professional_info": {
+        "person name": [
+            "IRIS GAIDON"
+        ],
+        "job title": [
+            "DATA ANALYST",
+            "analyst"
+        ],
+        "company": [
+            "KT banks and holdings"
+        ],
+        "university": [
+            "NK College of Commerce",
+            "AlS School of Data Science Mumbai"
+        ],
+        "degree": [
+            "B.Com (Commerce)",
+            "MSc (Data Science)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Machine Learning": 0.8813,
+            "Data Mining": 0.573,
+            "Artificial Intelligence": 0.7478,
+            "Natural": 0.4621,
+            "Language Processing": 0.4705,
+            "Predictive": 0.3016,
+            "Modeling": 0.379,
+            "Financial Analysis": 0.4638,
+            "Python": 0.7559,
+            "SQL": 0.2309,
+            "Pandas": 0.7475,
+            "Time Series Analysis": 0.4315,
+            "PERSONAL PROFILE": 0.2725,
+            "Data Science": 0.4221,
+            "Predictive Analytics": 0.4033,
+            "Deep Learning": 0.8159,
+            "AI": 0.2331,
+            "Google Cloud Platform": 0.9748
+        },
+        "filename": "cv (5016)_annotated.json"
+    }
+}

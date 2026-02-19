@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "Machine Learning",
+        "EMD algorithm",
+        "time series forecasting",
+        "Empirical Mode Decomposition",
+        "Long Short Term Memory Neural Networks",
+        "understand and work with a variety of people",
+        "Deep learning",
+        "Logistic Regression",
+        "k-means clustering",
+        "LSTM",
+        "Emperical Modelling"
+    ],
+    "professional_info": {
+        "person name": [
+            "Shang Huan",
+            "FRESHER",
+            "I"
+        ],
+        "job title": [],
+        "company": [
+            "Absolutdata"
+        ],
+        "university": [
+            "Inderprastha Engineering College Ghaziabad"
+        ],
+        "degree": [
+            "B.Tech(Computers)",
+            "recent graduate"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Machine Learning": 0.7126,
+            "EMD algorithm": 0.7222,
+            "time series forecasting": 0.1979,
+            "Empirical Mode Decomposition": 0.696,
+            "Long Short Term Memory Neural Networks": 0.6461,
+            "understand and work with a variety of people": 0.1551,
+            "Deep learning": 0.8355,
+            "Logistic Regression": 0.7531,
+            "k-means clustering": 0.5742,
+            "LSTM": 0.8766,
+            "Emperical Modelling": 0.6194
+        },
+        "filename": "cv (4947)_annotated.json"
+    }
+}

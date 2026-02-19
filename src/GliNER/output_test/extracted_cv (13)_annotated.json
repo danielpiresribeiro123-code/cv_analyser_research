@@ -1,0 +1,100 @@
+{
+    "skills": [
+        "outlook.com",
+        "Linked in",
+        "Production",
+        "Quality",
+        "Trim line 2",
+        "Lean Manufacturing Process",
+        "Spaghetti diagram",
+        "CORE STRENGTH",
+        "Hard working and quick learner",
+        "Sincerity and self confidence",
+        "Good team player",
+        "Leadership quality",
+        "Positive attitude",
+        "Good sense of Humour",
+        "Friendly and engaging personality",
+        "Active listening",
+        "Lean manufacturing",
+        "Advanced theory of IC Engines",
+        "Manufacturing and Production Technologies",
+        "Solid  works modelling and drawing",
+        "Advanced Technologies in Automobile",
+        "Fundamentals of Aerodynamics",
+        "Microsoft office",
+        "C language",
+        "Applicat ions",
+        "Magnetic refrigeration",
+        "Hindi",
+        "English",
+        "German",
+        "overdrive"
+    ],
+    "professional_info": {
+        "person name": [
+            "DIVYANK SINGH",
+            "divyank_singh"
+        ],
+        "job title": [],
+        "company": [
+            "Engine Research centre",
+            "NAME OF INSTITUTION  UNIVERSITY",
+            "Kendriya Vidyalaya Mau",
+            "Jaipur Nation al University"
+        ],
+        "university": [
+            "TATA Motors Ltd Lucknow",
+            "Jaipur National University"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Address",
+            "86-Nizamuddin Pura Mau – U.P"
+        ],
+        "email": [
+            "Email"
+        ],
+        "phone": [
+            "Phone",
+            "(M)  +91 9450973110"
+        ]
+    },
+    "metadata": {
+        "total_skills": 30,
+        "confidence_scores": {
+            "outlook.com": 0.1648,
+            "Linked in": 0.1503,
+            "Production": 0.1892,
+            "Quality": 0.3039,
+            "Trim line 2": 0.1583,
+            "Lean Manufacturing Process": 0.5358,
+            "Spaghetti diagram": 0.372,
+            "CORE STRENGTH": 0.3144,
+            "Hard working and quick learner": 0.7447,
+            "Sincerity and self confidence": 0.5801,
+            "Good team player": 0.6708,
+            "Leadership quality": 0.5404,
+            "Positive attitude": 0.7046,
+            "Good sense of Humour": 0.7727,
+            "Friendly and engaging personality": 0.7893,
+            "Active listening": 0.5111,
+            "Lean manufacturing": 0.6519,
+            "Advanced theory of IC Engines": 0.4102,
+            "Manufacturing and Production Technologies": 0.4598,
+            "Solid  works modelling and drawing": 0.4441,
+            "Advanced Technologies in Automobile": 0.331,
+            "Fundamentals of Aerodynamics": 0.334,
+            "Microsoft office": 0.7423,
+            "C language": 0.4261,
+            "Applicat ions": 0.1716,
+            "Magnetic refrigeration": 0.3899,
+            "Hindi": 0.5429,
+            "English": 0.3992,
+            "German": 0.4181,
+            "overdrive": 0.2181
+        },
+        "filename": "cv (13)_annotated.json"
+    }
+}

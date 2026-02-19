@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "Weekly",
+        "Naag",
+        "ADVERTISING",
+        "PHOTOGRAPHERS"
+    ],
+    "professional_info": {
+        "person name": [
+            "Tammy Eckenswiller",
+            "Ashlee Simpson",
+            "Cindy Crawford",
+            "Diane Kruger",
+            "Fefe Dobson",
+            "Heidi Klum",
+            "Hilary Duff",
+            "Katie Holmes",
+            "Keri Hilson",
+            "Lindsay Lohan",
+            "Mary Kate Olsen",
+            "Michelle Trachtenberg",
+            "Mischa Barton",
+            "Nelly Furtado",
+            "Nicole Richie",
+            "Rihanna",
+            "Rose Byrne",
+            "Jeremy Laing",
+            "Bruce LaBruce",
+            "David Ferrua",
+            "Derek Kettela",
+            "Jeff Lipsky",
+            "Jeffrey Graetsch",
+            "Kent Baker",
+            "Lorenzo Bringheli",
+            "Mark Liddell",
+            "Matthew Rolston",
+            "Russell James",
+            "Seiji Fujimori",
+            "Anthony Mandler",
+            "Alan Ferguson",
+            "Chris Robinson",
+            "Nas",
+            "TAJ"
+        ],
+        "job title": [
+            "Wardrobe Stylist"
+        ],
+        "company": [
+            "BlackBook",
+            "Vogue -Mexico",
+            "Sam Edelman",
+            "Mercedes  Belk",
+            "Neiman Marcus",
+            "Holt Renfrew",
+            "The Bay",
+            "Levis",
+            "Nikon Line",
+            "Pantene Jones",
+            "New York and Co.",
+            "Twenty Cluny & Avenue"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue",
+            "90034"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Weekly": 0.1512,
+            "Naag": 0.2229,
+            "ADVERTISING": 0.2143,
+            "PHOTOGRAPHERS": 0.2027
+        },
+        "filename": "cv (782)_annotated.json"
+    }
+}

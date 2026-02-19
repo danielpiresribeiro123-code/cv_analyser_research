@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Chemical Engineering",
+        "BOARD66.4 %",
+        "power point",
+        "excel",
+        "research"
+    ],
+    "professional_info": {
+        "person name": [
+            "MAHIPAL SINGH",
+            "P.O.-RATIR KETI"
+        ],
+        "job title": [],
+        "company": [
+            "Vill-RATIR KETI",
+            "POLYESTER PVT. LTD. KHATIMA",
+            "GUJRAT AMBUJA PVT. LTD.SITARGANJ",
+            "S.R.F. LTD KASHIPUR"
+        ],
+        "university": [
+            "Sant Longowal Institute of",
+            "Engg. & Tech. Longowal",
+            "Punjab(deemed university)",
+            "S.L.I.E.T.",
+            "Govt. Polytechnic",
+            "ShaktifarmU.B.T.E",
+            "H.K.H.S. School"
+        ],
+        "degree": [
+            "Bachelor of Engg.",
+            "Diploma in Chemical Tech.",
+            "Matriculation"
+        ],
+        "years of experience": [],
+        "address": [
+            "Correspondence Address",
+            "Permanent Address",
+            "ROOM NO-207",
+            "HOSTEL NO.-04",
+            "PIN-263633"
+        ],
+        "email": [
+            "E-mail",
+            "mahipalsinghmehta @gmail.com"
+        ],
+        "phone": [
+            "+91-9417153885",
+            "+91-8126352316"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Chemical Engineering": 0.6268,
+            "BOARD66.4 %": 0.2361,
+            "power point": 0.2418,
+            "excel": 0.272,
+            "research": 0.1705
+        },
+        "filename": "cv (3300)_annotated.json"
+    }
+}

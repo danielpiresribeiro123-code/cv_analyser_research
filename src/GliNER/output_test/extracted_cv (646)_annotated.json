@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "CommunicationEngg.GTU 2016",
+        "English",
+        "Hindi",
+        "GujaratiandMarathi"
+    ],
+    "professional_info": {
+        "person name": [
+            "RahulMore"
+        ],
+        "job title": [
+            "RAHULMORE",
+            "AsaAutomobileInsuranceSurveyorfromJan2015toMay2015",
+            "Sr."
+        ],
+        "company": [
+            "MASTERMINDTRAINING&CONSULTANCYSERVICESPVT.LTD.",
+            "AsaHATS(HUMANASSETTRAININGSOLUTION)",
+            "TRANSITGEOSYSTEMINTEGRATORSPVTLTD.",
+            "AsaProjectCoordinatorinProjectDept.",
+            "PARIKHASSOCIATE",
+            "Karelibaugh",
+            "HEXXAGEOSYSTEMINTEGRATORSPVTLTD.",
+            "AsaServiceCoordinatorinServiceDept.",
+            "INDIAN"
+        ],
+        "university": [
+            "University/BoardYearofPassing"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "723/Mahadevnagar-1",
+            "Navagamjakatnaka",
+            "Udhna",
+            "SosyoCircle",
+            "BamroliRd",
+            "UdhanaMagadallaRoad",
+            "EXTERNALCERTIFICATES",
+            "NovelReading"
+        ],
+        "email": [
+            "Email",
+            "rahoul.more16@gmail.com",
+            "1DiplomainElectronics&"
+        ],
+        "phone": [
+            "Mobile",
+            "+919558886301",
+            "Handlingtollfreenumberofservicecallsonservicedeskbymailortelephone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "CommunicationEngg.GTU 2016": 0.3951,
+            "English": 0.6273,
+            "Hindi": 0.6009,
+            "GujaratiandMarathi": 0.4439
+        },
+        "filename": "cv (646)_annotated.json"
+    }
+}

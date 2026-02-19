@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "development",
+        "marketing techniques",
+        "Data Analytics",
+        "Machine Learning",
+        "Linear Regression",
+        "Clustering",
+        "MongoDB",
+        "Flask",
+        "AWS",
+        "Git",
+        "Python",
+        "Neural Networks",
+        "PyTorch",
+        "C++",
+        "CNN",
+        "Image",
+        "Processing",
+        "EDUCATION"
+    ],
+    "professional_info": {
+        "person name": [
+            "CAPITUM INDIA",
+            "NASIK"
+        ],
+        "job title": [
+            "Junior Machine Learning developer",
+            "JUNIOR MACHINE LEARNING ENGINEER",
+            "Data Analyst",
+            "MACHINE LEARNING ENGINEER"
+        ],
+        "company": [
+            "company",
+            "TECHNOLOGY"
+        ],
+        "university": [
+            "JCP COLLEGE OF ENGINEERING"
+        ],
+        "degree": [
+            "B.TECH(ELECTRICAL)"
+        ],
+        "years of experience": [
+            "EXPERIENCE"
+        ],
+        "address": [
+            "MUMBAI"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "development": 0.3022,
+            "marketing techniques": 0.2879,
+            "Data Analytics": 0.4971,
+            "Machine Learning": 0.1937,
+            "Linear Regression": 0.4829,
+            "Clustering": 0.3546,
+            "MongoDB": 0.938,
+            "Flask": 0.2365,
+            "AWS": 0.9605,
+            "Git": 0.7521,
+            "Python": 0.843,
+            "Neural Networks": 0.7994,
+            "PyTorch": 0.291,
+            "C++": 0.3456,
+            "CNN": 0.8246,
+            "Image": 0.2771,
+            "Processing": 0.1862,
+            "EDUCATION": 0.3681
+        },
+        "filename": "cv (4916)_annotated.json"
+    }
+}

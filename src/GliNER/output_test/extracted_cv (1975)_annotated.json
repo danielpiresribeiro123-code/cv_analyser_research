@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "ACCOUNTS & AUDIT",
+        "Objective",
+        "Management information system MIS",
+        "Management Information  system",
+        "C.I.A(Certified Industrial Accountants)"
+    ],
+    "professional_info": {
+        "person name": [
+            "ADITYA NATH TRIPATHI"
+        ],
+        "job title": [
+            "people",
+            "Accountant",
+            "Admin",
+            "Data entry operator",
+            "Accounts executive"
+        ],
+        "company": [
+            "1-Primas Career Management Consultants LLP",
+            "2-  Krishna Telecom",
+            "Rajsquare Manpower Pvt Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Total 3 years 4 month experience"
+        ],
+        "address": [
+            "Adress",
+            "Dubai,UAE"
+        ],
+        "email": [
+            "E-Mail",
+            "adityatripathi9519@gmail.com"
+        ],
+        "phone": [
+            "Contact",
+            "+91 9088462004"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "ACCOUNTS & AUDIT": 0.663,
+            "Objective": 0.193,
+            "Management information system MIS": 0.3346,
+            "Management Information  system": 0.5017,
+            "C.I.A(Certified Industrial Accountants)": 0.8404
+        },
+        "filename": "cv (1975)_annotated.json"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "skills": [
+        "Manufacturing",
+        "Colony",
+        "City-Indore",
+        "English",
+        "Hindi",
+        "Urdu",
+        "Strengths",
+        "Eager to develop knowledge",
+        "Highly  motivated",
+        "cooperative",
+        "fast  learner",
+        "Willing to work beyond",
+        "above the call of duty",
+        "Certification",
+        "AutoCAD Designing 2D",
+        "IT/Computer Proficiency",
+        "Operating  System",
+        "Windows Applications",
+        "Office",
+        "ERP",
+        "knowledge",
+        "management  skills",
+        "leadership  qualities",
+        "team-building  skills",
+        "motivating  people",
+        "Key Skill",
+        "MIG",
+        "GMAW",
+        "SAW",
+        "SMAW",
+        "MAG  &SPOT",
+        "Welding",
+        "5S",
+        "kaizen",
+        "poka-yoke",
+        "MOM",
+        "MSA",
+        "Perreto",
+        "Analysis",
+        "spot  welding",
+        "carbon test"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohammad Ramiz",
+            "Makrani"
+        ],
+        "job title": [
+            "Mechanical  Engineer",
+            "Supervising engineering and technical staff"
+        ],
+        "company": [
+            "MS",
+            "BHOPAL",
+            "organization",
+            "growth  oriented",
+            "company"
+        ],
+        "university": [],
+        "degree": [
+            "Diploma of Engineering in Mechanical"
+        ],
+        "years of experience": [
+            "over  5  years  experience"
+        ],
+        "address": [
+            "613",
+            "New  Aazad  Nagar"
+        ],
+        "email": [
+            "E-mail",
+            "mdramiz12  9  @gmail.com",
+            "+91-8225054445",
+            "+91-7014064004",
+            "Passport no       M0446391"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 41,
+        "confidence_scores": {
+            "Manufacturing": 0.2038,
+            "Colony": 0.3076,
+            "City-Indore": 0.213,
+            "English": 0.7011,
+            "Hindi": 0.7129,
+            "Urdu": 0.6963,
+            "Strengths": 0.2533,
+            "Eager to develop knowledge": 0.3107,
+            "Highly  motivated": 0.5834,
+            "cooperative": 0.4804,
+            "fast  learner": 0.4756,
+            "Willing to work beyond": 0.2422,
+            "above the call of duty": 0.2026,
+            "Certification": 0.4312,
+            "AutoCAD Designing 2D": 0.477,
+            "IT/Computer Proficiency": 0.2303,
+            "Operating  System": 0.3214,
+            "Windows Applications": 0.259,
+            "Office": 0.7277,
+            "ERP": 0.436,
+            "knowledge": 0.2671,
+            "management  skills": 0.4518,
+            "leadership  qualities": 0.2129,
+            "team-building  skills": 0.5843,
+            "motivating  people": 0.3058,
+            "Key Skill": 0.3162,
+            "MIG": 0.2054,
+            "GMAW": 0.2759,
+            "SAW": 0.2468,
+            "SMAW": 0.2627,
+            "MAG  &SPOT": 0.2047,
+            "Welding": 0.2585,
+            "5S": 0.2923,
+            "kaizen": 0.3189,
+            "poka-yoke": 0.2427,
+            "MOM": 0.3258,
+            "MSA": 0.2904,
+            "Perreto": 0.2607,
+            "Analysis": 0.3927,
+            "spot  welding": 0.1866,
+            "carbon test": 0.1832
+        },
+        "filename": "cv (645)_annotated.json"
+    }
+}

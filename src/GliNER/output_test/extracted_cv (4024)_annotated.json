@@ -1,0 +1,91 @@
+{
+    "skills": [
+        "talent",
+        "skills",
+        "honesty",
+        "hard work",
+        "PERSONAL ATTRIBUTES",
+        "Quick learner",
+        "willing to learn new technologies",
+        "F lexible",
+        "Hardworking",
+        "Positive Attitude",
+        "I believe in",
+        "learn to work",
+        "Diploma in Mech. Engineering",
+        "Windows",
+        "Mechanical Software Autocad",
+        "Software Tools",
+        "MS Office",
+        "Internet",
+        "WORK EXPERIENCE",
+        "B.O.M.",
+        "A.M.R.",
+        "ISO 9001-2000"
+    ],
+    "professional_info": {
+        "person name": [
+            "KOMAL SAINI",
+            "Komal9911881599",
+            "boxshadowdwn"
+        ],
+        "job title": [
+            "Mech. Draughtsman",
+            "Jr. Draughtsman"
+        ],
+        "company": [
+            "G.B PANT INSTITUTE OF TECHNOLOGY",
+            "I.T.I.",
+            "ISGEC Heavy Engg. Ltd",
+            "Foster Wheeler",
+            "ISGEC",
+            "ISGEC  HEAVY, ENGG. LTD."
+        ],
+        "university": [
+            "CBSE board Delhi"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Extensive Experience"
+        ],
+        "address": [
+            "Arab Ki Sarai"
+        ],
+        "email": [
+            "E-Mail",
+            "gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "+91) 9911881599"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "talent": 0.3935,
+            "skills": 0.3515,
+            "honesty": 0.3832,
+            "hard work": 0.3311,
+            "PERSONAL ATTRIBUTES": 0.2478,
+            "Quick learner": 0.779,
+            "willing to learn new technologies": 0.2982,
+            "F lexible": 0.623,
+            "Hardworking": 0.7141,
+            "Positive Attitude": 0.6925,
+            "I believe in": 0.2334,
+            "learn to work": 0.1517,
+            "Diploma in Mech. Engineering": 0.397,
+            "Windows": 0.9065,
+            "Mechanical Software Autocad": 0.4684,
+            "Software Tools": 0.2471,
+            "MS Office": 0.7718,
+            "Internet": 0.7141,
+            "WORK EXPERIENCE": 0.2852,
+            "B.O.M.": 0.3468,
+            "A.M.R.": 0.3004,
+            "ISO 9001-2000": 0.8426
+        },
+        "filename": "cv (4024)_annotated.json"
+    }
+}

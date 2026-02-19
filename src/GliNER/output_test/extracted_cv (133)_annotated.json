@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "industrial work",
+        "skill",
+        "International General Certificate in Occupational Health &, Safety(NEBOSH)",
+        "Safety Management",
+        "HABC  level-1",
+        "Diploma in Fire and Safety engineering",
+        "MEDIC First Aid USA",
+        "Certificate in basic security guard training",
+        "Plus Two",
+        "S.S.L.C.",
+        "COMPUTER KNOWLEDGE",
+        "Ms Office",
+        "Data processing",
+        "LANGUAGES KNOWN",
+        "English",
+        "Arabic",
+        "Hindi",
+        "Malayalam",
+        "SKILLS",
+        "Communication skill",
+        "Quick learning curve",
+        "ability to work hard",
+        "Effective leadership qualities",
+        "pleasant personality"
+    ],
+    "professional_info": {
+        "person name": [
+            "SOUJAL NK",
+            "NADUVILE KUNHITHAYYIL"
+        ],
+        "job title": [
+            "Health and safety professional",
+            "expert",
+            "security guard",
+            "Safety Supervisor"
+        ],
+        "company": [
+            "Highfield U K",
+            "NSI ABU DHABI",
+            "United Security Group Abu Dhabi",
+            "Al ain Hospital",
+            "Al-waha General Construction",
+            "Company"
+        ],
+        "university": [
+            "CURRICULUM VITAE"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "KATALUR PO"
+        ],
+        "email": [
+            "Contact No",
+            "00919061315148",
+            "E-Mail",
+            "soujal@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "industrial work": 0.2054,
+            "skill": 0.2573,
+            "International General Certificate in Occupational Health &, Safety(NEBOSH)": 0.434,
+            "Safety Management": 0.3753,
+            "HABC  level-1": 0.196,
+            "Diploma in Fire and Safety engineering": 0.569,
+            "MEDIC First Aid USA": 0.3999,
+            "Certificate in basic security guard training": 0.467,
+            "Plus Two": 0.4748,
+            "S.S.L.C.": 0.4279,
+            "COMPUTER KNOWLEDGE": 0.4133,
+            "Ms Office": 0.1738,
+            "Data processing": 0.3932,
+            "LANGUAGES KNOWN": 0.199,
+            "English": 0.7172,
+            "Arabic": 0.7002,
+            "Hindi": 0.4705,
+            "Malayalam": 0.728,
+            "SKILLS": 0.3775,
+            "Communication skill": 0.5017,
+            "Quick learning curve": 0.2146,
+            "ability to work hard": 0.3083,
+            "Effective leadership qualities": 0.4515,
+            "pleasant personality": 0.4758
+        },
+        "filename": "cv (133)_annotated.json"
+    }
+}

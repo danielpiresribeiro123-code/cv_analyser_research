@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "team-oriented",
+        "development experience",
+        "problem-solving skills",
+        "communication skills",
+        "TECHNICAL PROFICIENCY",
+        "Microprocessor",
+        "VHDL",
+        "Computer Hardware and Networking",
+        "MS Excel",
+        "MS Access",
+        "MS word",
+        "MS paint",
+        "C",
+        "Dos",
+        "Windows 98 – XP – Millennium",
+        "LINUX",
+        "Tiny Encryption Algorithm",
+        "RS232 UART",
+        "Zigbee module",
+        "Keypad",
+        "Power supply",
+        "Crystal",
+        "cryptanalysis",
+        "codebreaking",
+        "Internet",
+        "Pretty Good Privacy",
+        "symmetric key cryptography"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sharanya P.V."
+        ],
+        "job title": [],
+        "company": [
+            "SSLC"
+        ],
+        "university": [
+            "Canara Engineering College Benjanapadav",
+            "Vishwesvaraya Technological University",
+            "St. Victor’s Girls High School Puttur",
+            "PUC",
+            "St. Philomena College Puttur Karnataka",
+            "KVG P Sullia"
+        ],
+        "degree": [
+            "Bachelor of Engineering",
+            "Diploma"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "team-oriented": 0.1796,
+            "development experience": 0.4343,
+            "problem-solving skills": 0.468,
+            "communication skills": 0.318,
+            "TECHNICAL PROFICIENCY": 0.3539,
+            "Microprocessor": 0.2003,
+            "VHDL": 0.424,
+            "Computer Hardware and Networking": 0.3035,
+            "MS Excel": 0.5328,
+            "MS Access": 0.4673,
+            "MS word": 0.5019,
+            "MS paint": 0.535,
+            "C": 0.9184,
+            "Dos": 0.7554,
+            "Windows 98 – XP – Millennium": 0.8639,
+            "LINUX": 0.7873,
+            "Tiny Encryption Algorithm": 0.6429,
+            "RS232 UART": 0.3072,
+            "Zigbee module": 0.1901,
+            "Keypad": 0.1579,
+            "Power supply": 0.1548,
+            "Crystal": 0.2647,
+            "cryptanalysis": 0.2653,
+            "codebreaking": 0.2031,
+            "Internet": 0.6701,
+            "Pretty Good Privacy": 0.2019,
+            "symmetric key cryptography": 0.2039
+        },
+        "filename": "cv (2584)_annotated.json"
+    }
+}

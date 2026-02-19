@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "Highly motivated",
+        "effective communicator",
+        "problem solver",
+        "Certified Nurse Assistant",
+        "Strong verbal communication skills",
+        "Strong written skills",
+        "Green belt",
+        "Lean Sigma",
+        "CPR certified",
+        "Microsoft Office Suite",
+        "Strong attention to detail",
+        "Sailor of the year",
+        "quantity of equipment",
+        "skill of personnel",
+        "time and production records",
+        "inventory data",
+        "repair or maintenance statistics",
+        "test results",
+        "operational procedures",
+        "tools and equipment",
+        "tools",
+        "equipment",
+        "replacement parts",
+        "computer information management systems"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "PLANNER/SCHEDULER",
+            "Effective time manager",
+            "Maintenance Planner",
+            "Experience Planner/Scheduler",
+            "management",
+            "Maintenance Head operator"
+        ],
+        "company": [
+            "NAS Oceana",
+            "Chevron Coalinga",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Highly motivated": 0.3611,
+            "effective communicator": 0.4723,
+            "problem solver": 0.3495,
+            "Certified Nurse Assistant": 0.489,
+            "Strong verbal communication skills": 0.1827,
+            "Strong written skills": 0.2337,
+            "Green belt": 0.5498,
+            "Lean Sigma": 0.2045,
+            "CPR certified": 0.452,
+            "Microsoft Office Suite": 0.8728,
+            "Strong attention to detail": 0.3085,
+            "Sailor of the year": 0.2237,
+            "quantity of equipment": 0.1511,
+            "skill of personnel": 0.27,
+            "time and production records": 0.2554,
+            "inventory data": 0.2697,
+            "repair or maintenance statistics": 0.2027,
+            "test results": 0.2122,
+            "operational procedures": 0.1833,
+            "tools and equipment": 0.2905,
+            "tools": 0.2546,
+            "equipment": 0.2435,
+            "replacement parts": 0.3176,
+            "computer information management systems": 0.2035
+        },
+        "filename": "cv (4675)_annotated.json"
+    }
+}

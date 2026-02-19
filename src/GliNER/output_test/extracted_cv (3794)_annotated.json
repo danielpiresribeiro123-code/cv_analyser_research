@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "PROFESSIONAL QUALIFICATIONS",
+        "SENSE OF RESPONSIBILITY",
+        "PROFESSIONALISM",
+        "VALUE OF TIME AND DEADLINES",
+        "INTERIOR DESIGNING AND ARCHITECTURE"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohammed Abdul Nayeem",
+            "zeesh.nayeem",
+            "MR. MAJID MANIYAR",
+            "ASADULLAH KHAN",
+            "R.T NAGAR",
+            "MR.T.GNANAVEL",
+            "MR.SUREN"
+        ],
+        "job title": [
+            "TRAINEE",
+            "SENIOR ARCHITECT",
+            "TECHNICALARCHITECT"
+        ],
+        "company": [
+            "BACHELOR’S  OF  ARCHITECTURE",
+            "COLLEGE OF ENGINEERING",
+            "SHERRIEFF CONSULTANTS",
+            "INTEGRATED DESIGN TEAM",
+            "SPAN PRIDE ARCHITECTURE",
+            "MID-ARABIA CONTRACTING COMPANY"
+        ],
+        "university": [
+            "UNIVERSITY  VISVESVARAYA",
+            "BANGALORE UNIVERSITY"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "BANGALORE",
+            "RIYADH"
+        ],
+        "email": [
+            "Email",
+            "nayeemzeeshan@gmail.com"
+        ],
+        "phone": [
+            "+919945590508"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "PROFESSIONAL QUALIFICATIONS": 0.2826,
+            "SENSE OF RESPONSIBILITY": 0.1808,
+            "PROFESSIONALISM": 0.2984,
+            "VALUE OF TIME AND DEADLINES": 0.2006,
+            "INTERIOR DESIGNING AND ARCHITECTURE": 0.1834
+        },
+        "filename": "cv (3794)_annotated.json"
+    }
+}

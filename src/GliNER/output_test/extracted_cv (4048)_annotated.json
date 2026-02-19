@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "Electrical field",
+        "Fire Alarm system",
+        "Central emergency battery system",
+        "Door control system",
+        "Telephone date system",
+        "CCTVsystem",
+        "Building management system",
+        "Excellent  verbal  and  written  communication  skills",
+        "ability  to  deal  with  people diplomatically",
+        "willingness to learn",
+        "team facilitator",
+        "comprehensive problem solving abilities",
+        "committed to target and grasp new technologies in any domain",
+        "Dubai Tram Project",
+        "Pre-action system",
+        "FM 200 system",
+        "Foam system",
+        "Business Bay Tower",
+        "central battery system",
+        "AX443A",
+        "TD 55, DT196"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMED MUSTHAFA",
+            "Lv"
+        ],
+        "job title": [
+            "Sr site Supervisor",
+            "Elv Engineer",
+            "Sr SUPERVISOR",
+            "Site Supervisor"
+        ],
+        "company": [
+            "EMIRATES TRADING AGENCIES",
+            "District Cooling Plant Empower"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "00971-55-9791369",
+            "00971-52-3601204",
+            "0091-8015903776"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Electrical field": 0.3163,
+            "Fire Alarm system": 0.2097,
+            "Central emergency battery system": 0.2272,
+            "Door control system": 0.188,
+            "Telephone date system": 0.229,
+            "CCTVsystem": 0.1839,
+            "Building management system": 0.2832,
+            "Excellent  verbal  and  written  communication  skills": 0.3909,
+            "ability  to  deal  with  people diplomatically": 0.5984,
+            "willingness to learn": 0.5765,
+            "team facilitator": 0.6198,
+            "comprehensive problem solving abilities": 0.6135,
+            "committed to target and grasp new technologies in any domain": 0.2392,
+            "Dubai Tram Project": 0.1552,
+            "Pre-action system": 0.2671,
+            "FM 200 system": 0.2092,
+            "Foam system": 0.1548,
+            "Business Bay Tower": 0.2796,
+            "central battery system": 0.1555,
+            "AX443A": 0.1694,
+            "TD 55, DT196": 0.187
+        },
+        "filename": "cv (4048)_annotated.json"
+    }
+}

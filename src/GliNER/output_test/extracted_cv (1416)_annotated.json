@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "Male",
+        "Single",
+        "English",
+        "Swahili",
+        "qualifications",
+        "skills",
+        "experience",
+        "talent",
+        "inherent abilities",
+        "ACADEMIC BACKGROUND",
+        "Second Class Honors (Upper Division)",
+        "Kenya Certificate of Secondary Education",
+        "Registered member",
+        "Planning",
+        "Integrated Strategic Development Plan ( ISDP) - Githunguri Sub-county",
+        "Urban and Physical Planning"
+    ],
+    "professional_info": {
+        "person name": [
+            "MICHAEL MAJOR WAMALWA",
+            "Chwele",
+            "Kenyan",
+            "Christian"
+        ],
+        "job title": [
+            "MARITAL STATUS",
+            "Graduate Member"
+        ],
+        "company": [],
+        "university": [
+            "University of Nairobi"
+        ],
+        "degree": [
+            "Bachelor of Arts Degree"
+        ],
+        "years of experience": [],
+        "address": [
+            "P.O BOX",
+            "102-50202"
+        ],
+        "email": [
+            "E-MAIL",
+            "macsimeons@gmail.com"
+        ],
+        "phone": [
+            "+254710404192"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Male": 0.2927,
+            "Single": 0.3183,
+            "English": 0.4316,
+            "Swahili": 0.6073,
+            "qualifications": 0.2178,
+            "skills": 0.3443,
+            "experience": 0.2295,
+            "talent": 0.3925,
+            "inherent abilities": 0.2268,
+            "ACADEMIC BACKGROUND": 0.1615,
+            "Second Class Honors (Upper Division)": 0.2091,
+            "Kenya Certificate of Secondary Education": 0.1714,
+            "Registered member": 0.1612,
+            "Planning": 0.1674,
+            "Integrated Strategic Development Plan ( ISDP) - Githunguri Sub-county": 0.2777,
+            "Urban and Physical Planning": 0.1857
+        },
+        "filename": "cv (1416)_annotated.json"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "Data Analysis",
+        "Business Analysis",
+        "Machine Learning",
+        "Tableau",
+        "Seaborn",
+        "Python",
+        "R",
+        "AWS",
+        "VIEW",
+        "NodeJS",
+        "PERSONAL PROFILE",
+        "data engineering",
+        "Tableau Visualization Certification",
+        "Large Dataset"
+    ],
+    "professional_info": {
+        "person name": [
+            "TAYLOR BENLEY"
+        ],
+        "job title": [
+            "JUNIOR ANALYST",
+            "SKILLS",
+            "Business Analyst",
+            "Fresher",
+            "Part-Time Analyst"
+        ],
+        "company": [
+            "Biswa Pvt Ltd"
+        ],
+        "university": [
+            "JJR College"
+        ],
+        "degree": [
+            "BBA"
+        ],
+        "years of experience": [],
+        "address": [
+            "Uttaranchal"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Data Analysis": 0.7274,
+            "Business Analysis": 0.7553,
+            "Machine Learning": 0.906,
+            "Tableau": 0.6496,
+            "Seaborn": 0.4031,
+            "Python": 0.7912,
+            "R": 0.6472,
+            "AWS": 0.926,
+            "VIEW": 0.5768,
+            "NodeJS": 0.3057,
+            "PERSONAL PROFILE": 0.2173,
+            "data engineering": 0.5615,
+            "Tableau Visualization Certification": 0.7194,
+            "Large Dataset": 0.4941
+        },
+        "filename": "cv (5009)_annotated.json"
+    }
+}

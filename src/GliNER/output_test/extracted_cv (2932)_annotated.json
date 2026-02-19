@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "Civil Engineering",
+        "CIVIL ENGINEERING SOFTWARES",
+        "On Screen Take Off",
+        "Armacad",
+        "theoretical knowledge",
+        "TECHNICAL SKILLS",
+        "Good understanding of  Building construction materials",
+        "Multi Story Framed Structure"
+    ],
+    "professional_info": {
+        "person name": [
+            "Md Ekram Khan",
+            "ekram8431"
+        ],
+        "job title": [
+            "Job Title",
+            "Structural Engineer",
+            "Lumber & Wall panel Designer",
+            "Frame and Roof Truss Designer",
+            "Draughtsman civil",
+            "CIVIL ENGINEER",
+            "OBJECTIVE",
+            "Trainee Engineer"
+        ],
+        "company": [
+            "TEKLA",
+            "S.S.C",
+            "Auto-CAD",
+            "MiTek",
+            "Prayada",
+            "Acropetal Technology",
+            "CURRICULUM VITAE"
+        ],
+        "university": [
+            "University",
+            "Board Of Secondary Education, Odisha",
+            "Maulana Azad National Urdu University",
+            "Uttar Pradesh Technical University"
+        ],
+        "degree": [
+            "DIPLOMA (CIVIL ENGINEERING)",
+            "B.Tech (CIVIL ENGINEERING)"
+        ],
+        "years of experience": [
+            "EXPERIENCE"
+        ],
+        "address": [
+            "C-58",
+            "Shaheen Bagh",
+            "Jamia Nagar",
+            "Okhla",
+            "New Delhi-110025",
+            "#74/75",
+            "3rd Cross",
+            "1st Main",
+            "N S Palya",
+            "Bannerghatta Road",
+            "Stage 2",
+            "BTM Layout",
+            "Bengaluru",
+            "560076"
+        ],
+        "email": [
+            "E-mail",
+            "8431ekram@gmail.com",
+            "Skype"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Civil Engineering": 0.3822,
+            "CIVIL ENGINEERING SOFTWARES": 0.2326,
+            "On Screen Take Off": 0.2059,
+            "Armacad": 0.2296,
+            "theoretical knowledge": 0.1738,
+            "TECHNICAL SKILLS": 0.4843,
+            "Good understanding of  Building construction materials": 0.3341,
+            "Multi Story Framed Structure": 0.1782
+        },
+        "filename": "cv (2932)_annotated.json"
+    }
+}

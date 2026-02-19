@@ -1,0 +1,113 @@
+{
+    "skills": [
+        "Software Testing Life Cycle",
+        "development of automation",
+        "Selenium",
+        "Gender",
+        "Female",
+        "Marital Status",
+        "Permanent",
+        "English",
+        "Tamil",
+        "Information Technology",
+        "Quality",
+        "Proficient",
+        "TestNG",
+        "Eclipse",
+        "automation test framework",
+        "Notepad",
+        "Excel",
+        "IE",
+        "MS word",
+        "JAVA",
+        "functional testing",
+        "unit testing",
+        "integration testing",
+        "regression te",
+        "sting",
+        "GUI testing",
+        "back-end testing",
+        "developing and maintaining  test scripts",
+        "analyzing bugs",
+        "interacting with team"
+    ],
+    "professional_info": {
+        "person name": [
+            "R. ISHWARYA",
+            "Srikar Nivas",
+            "Indian",
+            "Husband",
+            "R. Badrinarayanan"
+        ],
+        "job title": [
+            "Test Engineer"
+        ],
+        "company": [
+            "recognized company",
+            "HP"
+        ],
+        "university": [
+            "JNTU"
+        ],
+        "degree": [
+            "Software engineering"
+        ],
+        "years of experience": [
+            "Married",
+            "Almost 4 years of experience"
+        ],
+        "address": [
+            "No. 201",
+            "No. 2A",
+            "Rajalaxmi",
+            "Door No. 201",
+            "No. 75",
+            "SQL"
+        ],
+        "email": [
+            "Email",
+            "ishwarya92@gmail.com",
+            "degree"
+        ],
+        "phone": [
+            "Phone",
+            "+91-9840042071 /, 9566715562"
+        ]
+    },
+    "metadata": {
+        "total_skills": 30,
+        "confidence_scores": {
+            "Software Testing Life Cycle": 0.3476,
+            "development of automation": 0.1567,
+            "Selenium": 0.5489,
+            "Gender": 0.2045,
+            "Female": 0.172,
+            "Marital Status": 0.1957,
+            "Permanent": 0.1548,
+            "English": 0.7011,
+            "Tamil": 0.7924,
+            "Information Technology": 0.247,
+            "Quality": 0.1905,
+            "Proficient": 0.1558,
+            "TestNG": 0.4382,
+            "Eclipse": 0.382,
+            "automation test framework": 0.2016,
+            "Notepad": 0.44,
+            "Excel": 0.4032,
+            "IE": 0.3737,
+            "MS word": 0.5713,
+            "JAVA": 0.2999,
+            "functional testing": 0.3259,
+            "unit testing": 0.4085,
+            "integration testing": 0.3544,
+            "regression te": 0.2271,
+            "sting": 0.2049,
+            "GUI testing": 0.3937,
+            "back-end testing": 0.31,
+            "developing and maintaining  test scripts": 0.1632,
+            "analyzing bugs": 0.2114,
+            "interacting with team": 0.2157
+        },
+        "filename": "cv (1505)_annotated.json"
+    }
+}

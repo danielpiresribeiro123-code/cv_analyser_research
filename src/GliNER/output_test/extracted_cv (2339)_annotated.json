@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "skills",
+        "strengths",
+        "construction standards",
+        "AutoCAD",
+        "Revit",
+        "workmanship standards",
+        "design specifications",
+        "Architecture",
+        "Good problem-solving capacity",
+        "Able to accept challenges",
+        "Quick learner",
+        "Good communication skills",
+        "MS Office"
+    ],
+    "professional_info": {
+        "person name": [
+            "AHAMED KAMIL SULTHAN",
+            "KAJAMOHAIDEEN"
+        ],
+        "job title": [
+            "Site Engineer",
+            "Trainee Engineer",
+            "designer"
+        ],
+        "company": [
+            "MNK Constructions",
+            "ECCI - Chennai",
+            "CADD Centre"
+        ],
+        "university": [
+            "Annamalai University"
+        ],
+        "degree": [
+            "Bachelor of Engineering (Civil)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Madurai"
+        ],
+        "email": [
+            "gmail.com"
+        ],
+        "phone": [
+            "+971 56 70 11 754"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "skills": 0.2808,
+            "strengths": 0.1584,
+            "construction standards": 0.7619,
+            "AutoCAD": 0.4324,
+            "Revit": 0.5159,
+            "workmanship standards": 0.6847,
+            "design specifications": 0.2382,
+            "Architecture": 0.2047,
+            "Good problem-solving capacity": 0.4474,
+            "Able to accept challenges": 0.2546,
+            "Quick learner": 0.1783,
+            "Good communication skills": 0.1987,
+            "MS Office": 0.4457
+        },
+        "filename": "cv (2339)_annotated.json"
+    }
+}

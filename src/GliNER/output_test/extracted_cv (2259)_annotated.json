@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "Process Design Engineering (PG)",
+        "DCS & PLC monitoring",
+        "MOC",
+        "high quality standards",
+        "Statistical Process Control Parameter"
+    ],
+    "professional_info": {
+        "person name": [
+            "Harshal Maruti Sondkar",
+            "I"
+        ],
+        "job title": [
+            "Designation",
+            "Production Supervisor",
+            "Graduate Trainee Engineer",
+            "Manager",
+            "manufacturing system manager",
+            "Process Plant Operator"
+        ],
+        "company": [
+            "L. Patil Polytechnic",
+            "NOCIL LTD",
+            "O1",
+            "NOCIL"
+        ],
+        "university": [
+            "B.E.",
+            "Altitude Institute"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "harshalsondkar08@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+917972191964",
+            "+91 7028330646",
+            "2016First",
+            "2013First",
+            "JULY 2016"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Process Design Engineering (PG)": 0.2406,
+            "DCS & PLC monitoring": 0.1688,
+            "MOC": 0.3677,
+            "high quality standards": 0.2187,
+            "Statistical Process Control Parameter": 0.171
+        },
+        "filename": "cv (2259)_annotated.json"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "oriented",
+        "efficient",
+        "organized",
+        "profe",
+        "Erection",
+        "Testing",
+        "Intermediate (H.S.C)",
+        "I.T.I in Mechanical",
+        "D.C.A"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ansari Mohammad Naseem",
+            "ansarimn096"
+        ],
+        "job title": [
+            "piping",
+            "foreman",
+            "mechanical foreman",
+            "fitter trade"
+        ],
+        "company": [],
+        "university": [
+            "B.S.E.B",
+            "B.I.E.C",
+            "DOEECC Chandigarh"
+        ],
+        "degree": [
+            "Matriculation",
+            "S.S.C"
+        ],
+        "years of experience": [
+            "WORK EXPERIENCE",
+            "08 years"
+        ],
+        "address": [],
+        "email": [
+            "mail",
+            "@gmail.com"
+        ],
+        "phone": [
+            "+919708736061",
+            "+917779877170"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "oriented": 0.5192,
+            "efficient": 0.4046,
+            "organized": 0.5226,
+            "profe": 0.3277,
+            "Erection": 0.4501,
+            "Testing": 0.181,
+            "Intermediate (H.S.C)": 0.4948,
+            "I.T.I in Mechanical": 0.3988,
+            "D.C.A": 0.4727
+        },
+        "filename": "cv (3267)_annotated.json"
+    }
+}

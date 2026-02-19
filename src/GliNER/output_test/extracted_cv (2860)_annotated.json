@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "Contact no      9698564849",
+        "8903505849",
+        "Technical Qualification",
+        "English",
+        "Hindhi",
+        "Tamil",
+        "Malayalam",
+        "Control Operation and maintenance of Electrical power system",
+        "Megger",
+        "Phase Sequence",
+        "Meter",
+        "Multimeter BDV Test kit",
+        "Current Injection kit",
+        "ONAF",
+        "BMS"
+    ],
+    "professional_info": {
+        "person name": [
+            "S.RAMESH",
+            "subraramesh_72",
+            "Subramanian"
+        ],
+        "job title": [
+            "Electrical Tecnician",
+            "Electrical Engineering Follow",
+            "J4327834"
+        ],
+        "company": [
+            "ITI  ELECTRICAL",
+            "NCVT"
+        ],
+        "university": [
+            "SSLC"
+        ],
+        "degree": [
+            "Diplamo in"
+        ],
+        "years of experience": [
+            "Experience",
+            "12Years",
+            "6years",
+            "Professional  experience"
+        ],
+        "address": [],
+        "email": [
+            "yahoo.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Contact no      9698564849": 0.1802,
+            "8903505849": 0.1853,
+            "Technical Qualification": 0.2719,
+            "English": 0.7735,
+            "Hindhi": 0.779,
+            "Tamil": 0.834,
+            "Malayalam": 0.8647,
+            "Control Operation and maintenance of Electrical power system": 0.2568,
+            "Megger": 0.211,
+            "Phase Sequence": 0.2577,
+            "Meter": 0.1991,
+            "Multimeter BDV Test kit": 0.2343,
+            "Current Injection kit": 0.3846,
+            "ONAF": 0.1637,
+            "BMS": 0.1821
+        },
+        "filename": "cv (2860)_annotated.json"
+    }
+}

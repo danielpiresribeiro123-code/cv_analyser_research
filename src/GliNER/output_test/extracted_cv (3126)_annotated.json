@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "Hindi",
+        "English",
+        "H3463269",
+        "Engineering",
+        "procurement",
+        "Building project",
+        "MAB 2"
+    ],
+    "professional_info": {
+        "person name": [
+            "AVADHESH KUMAR PANDEY"
+        ],
+        "job title": [
+            "Site Civil SSupervior",
+            "Contractor",
+            "Site Civil Supervior",
+            "sub-contractor offic"
+        ],
+        "company": [
+            "Nasser S. Al-Hajri Partners Co.",
+            "Client",
+            "Kuwait National Petroleum Company",
+            "FDH JV",
+            "FLUOR | DAEWOO E&C |HYUNDAI"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Male",
+            "Unmarried",
+            "5+ years of extensive experience"
+        ],
+        "address": [
+            "Permanent Address",
+            "1/16",
+            "Pin Code. 224001"
+        ],
+        "email": [
+            "Email",
+            "ADHPandey@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Hindi": 0.4922,
+            "English": 0.4271,
+            "H3463269": 0.1619,
+            "Engineering": 0.3505,
+            "procurement": 0.23,
+            "Building project": 0.2057,
+            "MAB 2": 0.1939
+        },
+        "filename": "cv (3126)_annotated.json"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "hardworking",
+        "enthusiastic",
+        "professional",
+        "ability to work well as a part of a team and alone",
+        "In process",
+        "Computer graphics",
+        "web page design",
+        "html5",
+        "css",
+        "adobe flash",
+        "adobe Photoshop",
+        "Corporate Banking",
+        "Asset Management",
+        "Finance Department",
+        "Treasury Back Office",
+        "Nationality",
+        "Marital status",
+        "Single",
+        "friends"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sana Junaid",
+            "I",
+            "Pakistani"
+        ],
+        "job title": [
+            "Human Resource Department",
+            "BS8795402"
+        ],
+        "company": [
+            "Ahli Bank Oman"
+        ],
+        "university": [
+            "Karachi University",
+            "Habib Girls Higher Secondary School",
+            "Aga Khan School – Karachi Pakistan",
+            "Polyglot Institute of Oman"
+        ],
+        "degree": [
+            "B.com",
+            "Bachelors of Commerce",
+            "Matriculation"
+        ],
+        "years of experience": [],
+        "address": [
+            "Villa no 6727",
+            "Way no 7632",
+            "Al Ansab Muscat"
+        ],
+        "email": [],
+        "phone": [
+            "Mobile Number",
+            "0096891280503"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "hardworking": 0.3108,
+            "enthusiastic": 0.1966,
+            "professional": 0.2504,
+            "ability to work well as a part of a team and alone": 0.3058,
+            "In process": 0.1734,
+            "Computer graphics": 0.3249,
+            "web page design": 0.5144,
+            "html5": 0.3756,
+            "css": 0.3046,
+            "adobe flash": 0.4953,
+            "adobe Photoshop": 0.5861,
+            "Corporate Banking": 0.173,
+            "Asset Management": 0.2281,
+            "Finance Department": 0.1557,
+            "Treasury Back Office": 0.1889,
+            "Nationality": 0.2171,
+            "Marital status": 0.2424,
+            "Single": 0.5438,
+            "friends": 0.4954
+        },
+        "filename": "cv (1068)_annotated.json"
+    }
+}

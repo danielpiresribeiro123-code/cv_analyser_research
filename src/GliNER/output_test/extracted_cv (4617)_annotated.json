@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "GIS system",
+        "CIS",
+        "CMMS",
+        "AMR",
+        "SharePoint",
+        "Meter Reading software",
+        "Crystal Reports",
+        "SQL Server",
+        "AMI Fixed Network"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT",
+            "Experience",
+            "Utility Solutions Consultant",
+            "CEO/Consultant"
+        ],
+        "company": [
+            "Company Name",
+            "City",
+            "Infor",
+            "Cityworks",
+            "City of Cleveland",
+            "City of Atlanta"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "GIS system": 0.1789,
+            "CIS": 0.4157,
+            "CMMS": 0.5666,
+            "AMR": 0.4954,
+            "SharePoint": 0.31,
+            "Meter Reading software": 0.4195,
+            "Crystal Reports": 0.3709,
+            "SQL Server": 0.6928,
+            "AMI Fixed Network": 0.1585
+        },
+        "filename": "cv (4617)_annotated.json"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "skills": [
+        "Male",
+        "Ph.",
+        "01907-251181",
+        "Hindi",
+        "English",
+        "Instrumentation Engg.",
+        "Sr.",
+        "Mechanic",
+        "CNC",
+        "e4yearsTECHNICIANJULY2011JUNE2015",
+        "Plc programming",
+        "Making oprations",
+        "Proto type hydro genration station",
+        "Microcontroller based automatic room temp controller",
+        "Embedded system hardware&software",
+        "A grade",
+        "Platform",
+        "Transducers",
+        "Telemetry System",
+        "Bio Medical Instruments",
+        "Optical Instruments",
+        "Strength",
+        "Positive nature",
+        "Self Confident",
+        "Supportive"
+    ],
+    "professional_info": {
+        "person name": [
+            "DIGVIJAY",
+            "Sh. NIHAL SINGH",
+            "digvijay33288"
+        ],
+        "job title": [
+            "operatorAUG2008JUNE2009"
+        ],
+        "company": [
+            "Company",
+            "Hero Honda",
+            "Platform; at P&G"
+        ],
+        "university": [
+            "Govt. Polytechnic Kangra",
+            "H.P.Tech. Board"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Sr.",
+            "2Diploma",
+            "Working Experience"
+        ],
+        "address": [
+            "V.P.O. kot",
+            "Tehsil chachyot"
+        ],
+        "email": [
+            "Email",
+            "gmail",
+            "9817033288"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "Male": 0.2416,
+            "Ph.": 0.2416,
+            "01907-251181": 0.1769,
+            "Hindi": 0.8242,
+            "English": 0.7816,
+            "Instrumentation Engg.": 0.3214,
+            "Sr.": 0.2168,
+            "Mechanic": 0.1786,
+            "CNC": 0.2256,
+            "e4yearsTECHNICIANJULY2011JUNE2015": 0.1552,
+            "Plc programming": 0.223,
+            "Making oprations": 0.2037,
+            "Proto type hydro genration station": 0.3954,
+            "Microcontroller based automatic room temp controller": 0.2955,
+            "Embedded system hardware&software": 0.304,
+            "A grade": 0.1569,
+            "Platform": 0.2036,
+            "Transducers": 0.3092,
+            "Telemetry System": 0.2402,
+            "Bio Medical Instruments": 0.1587,
+            "Optical Instruments": 0.255,
+            "Strength": 0.2886,
+            "Positive nature": 0.1969,
+            "Self Confident": 0.338,
+            "Supportive": 0.2107
+        },
+        "filename": "cv (1032)_annotated.json"
+    }
+}

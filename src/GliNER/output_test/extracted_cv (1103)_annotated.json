@@ -1,0 +1,96 @@
+{
+    "skills": [
+        "Accounting Management",
+        "Finalization of Accounts",
+        "Taxation",
+        "Accounting nuances",
+        "Highly astute",
+        "energetic",
+        "team spirited",
+        "strong work ethic",
+        "accounting management roles",
+        "Accurate",
+        "precise",
+        "highly ethical",
+        "basic accounts",
+        "excellent written & verbal communication skills",
+        "interpersonal",
+        "time  management  skills",
+        "Quickly  learn and master  new domain",
+        "banks  statements",
+        "individual  property  current accounts",
+        "taxes",
+        "Manage assets and resources related accounts",
+        "Booking & collecting invoices",
+        "Purchase Journals & filing",
+        "Spare Parts booking",
+        "Monthly  IHR  (Internal  Hire  Rate) certification",
+        "certification"
+    ],
+    "professional_info": {
+        "person name": [
+            "ALI NASSRULLAH",
+            "ALI ALOOSH",
+            "Mohsin Haider  Darwish"
+        ],
+        "job title": [
+            "SENIOR ACCOUNTING",
+            "Accounting Professional",
+            "Executive- Internal Audit",
+            "Accountant",
+            "Internal Auditor"
+        ],
+        "company": [
+            "MHD",
+            "W J Towell & Co LLC (Property Division)",
+            "Al Hassan Engineering Company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Mar 2008",
+            "Aug 2006",
+            "Jul 2012"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "alialoosh012@gmail.com"
+        ],
+        "phone": [
+            "Monthly telephone & fax bills"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Accounting Management": 0.4427,
+            "Finalization of Accounts": 0.2582,
+            "Taxation": 0.2017,
+            "Accounting nuances": 0.2054,
+            "Highly astute": 0.2787,
+            "energetic": 0.1675,
+            "team spirited": 0.3032,
+            "strong work ethic": 0.4129,
+            "accounting management roles": 0.15,
+            "Accurate": 0.2361,
+            "precise": 0.1786,
+            "highly ethical": 0.2516,
+            "basic accounts": 0.2045,
+            "excellent written & verbal communication skills": 0.161,
+            "interpersonal": 0.5043,
+            "time  management  skills": 0.4199,
+            "Quickly  learn and master  new domain": 0.1617,
+            "banks  statements": 0.1508,
+            "individual  property  current accounts": 0.259,
+            "taxes": 0.1915,
+            "Manage assets and resources related accounts": 0.1599,
+            "Booking & collecting invoices": 0.1554,
+            "Purchase Journals & filing": 0.2284,
+            "Spare Parts booking": 0.1587,
+            "Monthly  IHR  (Internal  Hire  Rate) certification": 0.5027,
+            "certification": 0.3715
+        },
+        "filename": "cv (1103)_annotated.json"
+    }
+}

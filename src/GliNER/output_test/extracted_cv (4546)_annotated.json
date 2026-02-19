@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "Strategic planning",
+        "implementation and operation of programs",
+        "volunteer management",
+        "ability",
+        "Strong analytical and problem solving ability",
+        "team work",
+        "Core Competencies",
+        "Personable professional",
+        "quick learning",
+        "skills",
+        "Ability to effectively work independently",
+        "Excellent Communication Skills",
+        "Oral",
+        "Highly organized and dedicated person",
+        "positive attitude",
+        "Highly motivated self-starter",
+        "Flexible team player",
+        "Strong logical & analytical thinker",
+        "demonstrated talent for problem solving",
+        "Thrive on challenging tasks",
+        "office environment",
+        "Confident",
+        "hard-working individual",
+        "Plan and manage program implementation",
+        "website",
+        "database"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CLIENT SERVICE SPECIALIST",
+            "Professional Summary",
+            "Results oriented business professional",
+            "implementation & account managers",
+            "Public Relations & Event Planning Intern"
+        ],
+        "company": [
+            "Company Name",
+            "company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Strategic planning": 0.6087,
+            "implementation and operation of programs": 0.2453,
+            "volunteer management": 0.4194,
+            "ability": 0.162,
+            "Strong analytical and problem solving ability": 0.5099,
+            "team work": 0.2956,
+            "Core Competencies": 0.4572,
+            "Personable professional": 0.4377,
+            "quick learning": 0.2667,
+            "skills": 0.1909,
+            "Ability to effectively work independently": 0.3564,
+            "Excellent Communication Skills": 0.2211,
+            "Oral": 0.4519,
+            "Highly organized and dedicated person": 0.5984,
+            "positive attitude": 0.4862,
+            "Highly motivated self-starter": 0.5312,
+            "Flexible team player": 0.5978,
+            "Strong logical & analytical thinker": 0.4861,
+            "demonstrated talent for problem solving": 0.3172,
+            "Thrive on challenging tasks": 0.2086,
+            "office environment": 0.3597,
+            "Confident": 0.4942,
+            "hard-working individual": 0.4383,
+            "Plan and manage program implementation": 0.3129,
+            "website": 0.1845,
+            "database": 0.3402
+        },
+        "filename": "cv (4546)_annotated.json"
+    }
+}

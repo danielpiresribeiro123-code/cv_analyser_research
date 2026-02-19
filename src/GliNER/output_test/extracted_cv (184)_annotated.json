@@ -1,0 +1,97 @@
+{
+    "skills": [
+        "professional skills",
+        "Design General Specification (DGS)",
+        "Method Statement",
+        "safety standards",
+        "Surveillance",
+        "CCTV",
+        "ACS",
+        "PAGA",
+        "Fiber optic splicing&Testing",
+        "Radio programming and assembling",
+        "IP phones",
+        "Voice recording systems",
+        "Analog & digital phones",
+        "Working knowledge",
+        "Main Distribution Frame MDF",
+        "Private Automatic Branch Exchange PABX",
+        "Antenna and Repeater installation",
+        "Handling knowledge",
+        "Knowledge in fiber cables and copper cables",
+        "Basic knowledge",
+        "PLC  CENTUM VP DCS",
+        "DELTA V DCS",
+        "ESD: PRO SAFE-RS (YOKOGAWA) EMERGENCY SHUT DOWN SYSTEM",
+        "Fire & Gas systems",
+        "PFS&PEFS (P&ID)",
+        "Instruments Tag list",
+        "PLC Specification",
+        "Understanding the IFC Drawing"
+    ],
+    "professional_info": {
+        "person name": [
+            "VIGNESH",
+            "vigneshsekaran"
+        ],
+        "job title": [
+            "Senior Telecom Technician"
+        ],
+        "company": [],
+        "university": [
+            "Anna University Guindy"
+        ],
+        "degree": [
+            "Bachelor of Engineering in Electronics & Communication Engineering"
+        ],
+        "years of experience": [
+            "7  years of experience"
+        ],
+        "address": [
+            "Mobile",
+            "adnoc.ae"
+        ],
+        "email": [
+            "+971-526710593",
+            "+971-505367026",
+            "E-Mail",
+            "gmail.com",
+            "Year of Passing-April 2012"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "professional skills": 0.1904,
+            "Design General Specification (DGS)": 0.2368,
+            "Method Statement": 0.2927,
+            "safety standards": 0.4578,
+            "Surveillance": 0.2388,
+            "CCTV": 0.3851,
+            "ACS": 0.3999,
+            "PAGA": 0.4238,
+            "Fiber optic splicing&Testing": 0.1847,
+            "Radio programming and assembling": 0.1722,
+            "IP phones": 0.3964,
+            "Voice recording systems": 0.342,
+            "Analog & digital phones": 0.3481,
+            "Working knowledge": 0.3118,
+            "Main Distribution Frame MDF": 0.3827,
+            "Private Automatic Branch Exchange PABX": 0.4398,
+            "Antenna and Repeater installation": 0.1688,
+            "Handling knowledge": 0.2614,
+            "Knowledge in fiber cables and copper cables": 0.4069,
+            "Basic knowledge": 0.32,
+            "PLC  CENTUM VP DCS": 0.2679,
+            "DELTA V DCS": 0.333,
+            "ESD: PRO SAFE-RS (YOKOGAWA) EMERGENCY SHUT DOWN SYSTEM": 0.2159,
+            "Fire & Gas systems": 0.4103,
+            "PFS&PEFS (P&ID)": 0.1634,
+            "Instruments Tag list": 0.1713,
+            "PLC Specification": 0.186,
+            "Understanding the IFC Drawing": 0.175
+        },
+        "filename": "cv (184)_annotated.json"
+    }
+}

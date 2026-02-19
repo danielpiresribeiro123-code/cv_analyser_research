@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "data science",
+        "business problem solving",
+        "skills",
+        "Customer analytics",
+        "Data",
+        "Visualization",
+        "Natural language Processing",
+        "SQL",
+        "Python",
+        "R",
+        "Tableau",
+        "Alteryx",
+        "Process Improvement",
+        "Natural",
+        "language processing",
+        "sentiment analysis",
+        "IBM Analytics Certification",
+        "automation"
+    ],
+    "professional_info": {
+        "person name": [
+            "BILL CLIFFORD"
+        ],
+        "job title": [
+            "PROFILE",
+            "experienced analytics specialist",
+            "Data Managerial Intern",
+            "MANAGER AND ANALYST"
+        ],
+        "company": [
+            "Orchidia Tours and Travels"
+        ],
+        "university": [
+            "Maulana Malviya College"
+        ],
+        "degree": [
+            "B.Tech",
+            "ECE"
+        ],
+        "years of experience": [
+            "EXPERIENCE"
+        ],
+        "address": [
+            "Ahmedabad"
+        ],
+        "email": [
+            "Email"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "data science": 0.6305,
+            "business problem solving": 0.1987,
+            "skills": 0.1732,
+            "Customer analytics": 0.4693,
+            "Data": 0.3423,
+            "Visualization": 0.4443,
+            "Natural language Processing": 0.7065,
+            "SQL": 0.4609,
+            "Python": 0.6751,
+            "R": 0.705,
+            "Tableau": 0.2639,
+            "Alteryx": 0.41,
+            "Process Improvement": 0.2183,
+            "Natural": 0.1603,
+            "language processing": 0.3412,
+            "sentiment analysis": 0.3879,
+            "IBM Analytics Certification": 0.925,
+            "automation": 0.1719
+        },
+        "filename": "cv (5008)_annotated.json"
+    }
+}

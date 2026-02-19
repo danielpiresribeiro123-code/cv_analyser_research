@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "10th",
+        "TECHNICAL  QUALIFICATION",
+        "COMPUTER  AWARENESS",
+        "PGDCA",
+        "PERSONAL  SKILLS",
+        "Time Management",
+        "Good Communication skills",
+        "Positive Attitude",
+        "Hard & Smart Worker",
+        "Kabad di",
+        "Cricket",
+        "Unmarried",
+        "Hindi",
+        "English",
+        "Odiya"
+    ],
+    "professional_info": {
+        "person name": [
+            "JAGANNATH  GAHAN",
+            "Rama Chandra Gahan"
+        ],
+        "job title": [
+            "Electrician",
+            "maintenance  team",
+            "maintenance team"
+        ],
+        "company": [
+            "CURRICULUM VITAE",
+            "LE Group",
+            "DLF  CLUB VITA",
+            "Vatika Group",
+            "Ireo Grand Arch",
+            "Odisha board",
+            "Radharaman Industrial  Training Institute",
+            "Smart Computer Education Odisha"
+        ],
+        "university": [],
+        "degree": [
+            "ITI"
+        ],
+        "years of experience": [],
+        "address": [
+            "Ghata Gaon",
+            "Sector -55",
+            "House No  – 59",
+            "Gurgaon ( Hr)-122001",
+            "Sector -58",
+            "At-Adhadeunria",
+            "Post-Sansarphal",
+            "P/S-Pattamundai",
+            "Dist-Kendrapara",
+            "State-Odisha",
+            "Pin-754217",
+            "India"
+        ],
+        "email": [
+            "Email",
+            "jagannathgahan60 @gmail.com"
+        ],
+        "phone": [
+            "Mob",
+            "09718557730"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "10th": 0.2417,
+            "TECHNICAL  QUALIFICATION": 0.2858,
+            "COMPUTER  AWARENESS": 0.5228,
+            "PGDCA": 0.7662,
+            "PERSONAL  SKILLS": 0.1751,
+            "Time Management": 0.3429,
+            "Good Communication skills": 0.5239,
+            "Positive Attitude": 0.7101,
+            "Hard & Smart Worker": 0.516,
+            "Kabad di": 0.1685,
+            "Cricket": 0.1763,
+            "Unmarried": 0.3293,
+            "Hindi": 0.6233,
+            "English": 0.5669,
+            "Odiya": 0.4115
+        },
+        "filename": "cv (2671)_annotated.json"
+    }
+}

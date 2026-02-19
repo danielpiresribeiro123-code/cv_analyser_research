@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "academic skills",
+        "SECO certified splicing card up to 33kv",
+        "DG sets"
+    ],
+    "professional_info": {
+        "person name": [
+            "KIRAN SHIVAPOOJI"
+        ],
+        "job title": [
+            "WORKEXPERIENCE",
+            "Electrical foreman",
+            "Engineer",
+            "technician"
+        ],
+        "company": [
+            "ACADEMICDETAILS",
+            "N.R.A.M.polytechnic",
+            "nitte",
+            "ITI",
+            "SOUDI ELECTRICITY COMPANY",
+            "AL-MASHARIQ",
+            "ERICSSON INDIA PVT LTDfrom",
+            "TOYOTA KIRLOSKAR MOTORS PVT LTD"
+        ],
+        "university": [],
+        "degree": [
+            "Diploma in electrical and electronics engineering"
+        ],
+        "years of experience": [
+            "experience"
+        ],
+        "address": [
+            "At",
+            "Bachanal",
+            "Rajanal",
+            "TQ: Kamalapur",
+            "DIST: GULBARGA-585313"
+        ],
+        "email": [
+            "kiranshivapooji@gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "8277456219"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "academic skills": 0.3872,
+            "SECO certified splicing card up to 33kv": 0.7278,
+            "DG sets": 0.1934
+        },
+        "filename": "cv (3182)_annotated.json"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "PASSINGGRADE",
+        "Bipolar Nanoporous membrane",
+        "Basic knowledge",
+        "PERSONAL STRENGTH",
+        "Good leadership quality",
+        "Excellent in team work",
+        "Positive attitude",
+        "strong believer"
+    ],
+    "professional_info": {
+        "person name": [
+            "VENKATESH. K",
+            "VENKATESH  K"
+        ],
+        "job title": [
+            "Junior Research Assistant"
+        ],
+        "company": [],
+        "university": [
+            "National Institute of, Technology",
+            "Jamal Mohammed College",
+            "Govt College of Arts &, Science",
+            "Sri Vijay Vidayalaya",
+            "College of Education",
+            "Sri Ramakrishna Mission",
+            "SSLC Seventh Day Matriculation",
+            "Environmental & Water Technology Centre",
+            "Ngee Ann Polytechnic",
+            "National Research Foundation"
+        ],
+        "degree": [
+            "Ph.D Physics",
+            "M.Phil Physics",
+            "M.Sc Physics",
+            "B.Ed Physical Science",
+            "B.Sc Physics"
+        ],
+        "years of experience": [
+            "Oct 2016"
+        ],
+        "address": [
+            "New Colony",
+            "Nallampalli",
+            "Dharamapuri (Dt)",
+            "Pin code-636807",
+            "Trichy",
+            "covai"
+        ],
+        "email": [
+            "E-mail",
+            "kvenkatesh9585@gmail.com"
+        ],
+        "phone": [
+            "Mobile no: 9626069585"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "PASSINGGRADE": 0.1786,
+            "Bipolar Nanoporous membrane": 0.2167,
+            "Basic knowledge": 0.268,
+            "PERSONAL STRENGTH": 0.5465,
+            "Good leadership quality": 0.2745,
+            "Excellent in team work": 0.1826,
+            "Positive attitude": 0.3721,
+            "strong believer": 0.2792
+        },
+        "filename": "cv (1579)_annotated.json"
+    }
+}

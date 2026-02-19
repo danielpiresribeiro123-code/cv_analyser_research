@@ -1,0 +1,91 @@
+{
+    "skills": [
+        "academic skills",
+        "Mechanical",
+        "manufacturing methods",
+        "Tensile Strength",
+        "Stainless Steel",
+        "Microstructure Analysis",
+        "Mechanical Static and Rotating Equipment",
+        "HVAC",
+        "MEP",
+        "Quality Control",
+        "QMS",
+        "QC Tools",
+        "Six Sigma",
+        "ISO",
+        "Agile Manufacturing",
+        "Microsoft Office",
+        "Excel",
+        "Powerpoint",
+        "Maintenance Strategies",
+        "RCA",
+        "RCM",
+        "CMMS",
+        "SAP"
+    ],
+    "professional_info": {
+        "person name": [
+            "JUBAIRREHAMAN",
+            "Degree"
+        ],
+        "job title": [
+            "Organization Designation",
+            "Role",
+            "Team Lead"
+        ],
+        "company": [
+            "Tagore Higher Secondary School",
+            "Stuser Tools Pvt Ltd",
+            "Oil and Gas"
+        ],
+        "university": [
+            "Mahendra College of Engineering",
+            "Maruthi Polytechnic College"
+        ],
+        "degree": [
+            "Graduate"
+        ],
+        "years of experience": [
+            "Duration",
+            "Six Months"
+        ],
+        "address": [],
+        "email": [
+            "jubairrehman@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+919025321582"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "academic skills": 0.3608,
+            "Mechanical": 0.4958,
+            "manufacturing methods": 0.2072,
+            "Tensile Strength": 0.2115,
+            "Stainless Steel": 0.2232,
+            "Microstructure Analysis": 0.2107,
+            "Mechanical Static and Rotating Equipment": 0.1984,
+            "HVAC": 0.3596,
+            "MEP": 0.3325,
+            "Quality Control": 0.1514,
+            "QMS": 0.5646,
+            "QC Tools": 0.6021,
+            "Six Sigma": 0.5572,
+            "ISO": 0.6521,
+            "Agile Manufacturing": 0.4364,
+            "Microsoft Office": 0.3571,
+            "Excel": 0.2462,
+            "Powerpoint": 0.3331,
+            "Maintenance Strategies": 0.4655,
+            "RCA": 0.5135,
+            "RCM": 0.5528,
+            "CMMS": 0.6272,
+            "SAP": 0.4947
+        },
+        "filename": "cv (3534)_annotated.json"
+    }
+}

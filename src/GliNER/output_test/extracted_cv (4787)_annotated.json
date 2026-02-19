@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "SQL",
+        "SPSS",
+        "Tableau",
+        "MS Excel",
+        "Power Point",
+        "Evert McCabe Fellowship",
+        "Rick and Marilyn Wong Scholarship",
+        "Web Services",
+        "Windows",
+        "iOS",
+        "Android",
+        "vCloud Air",
+        "Palo Alto",
+        "IaaS",
+        "AWS",
+        "Microsoft Azure"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT",
+            "Product Marketing Manager Intern"
+        ],
+        "company": [
+            "VMware Inc.",
+            "VMware",
+            "Rackspace",
+            "Google"
+        ],
+        "university": [],
+        "degree": [
+            "MBA"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "SQL": 0.1884,
+            "SPSS": 0.3058,
+            "Tableau": 0.2405,
+            "MS Excel": 0.4387,
+            "Power Point": 0.5476,
+            "Evert McCabe Fellowship": 0.4163,
+            "Rick and Marilyn Wong Scholarship": 0.3826,
+            "Web Services": 0.4997,
+            "Windows": 0.9065,
+            "iOS": 0.8018,
+            "Android": 0.6881,
+            "vCloud Air": 0.9209,
+            "Palo Alto": 0.5135,
+            "IaaS": 0.1759,
+            "AWS": 0.7773,
+            "Microsoft Azure": 0.7193
+        },
+        "filename": "cv (4787)_annotated.json"
+    }
+}

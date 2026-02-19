@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "real ambition",
+        "Sales development",
+        "Business Relations",
+        "Effectively communicating with customers in a professional and friendly manner"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHD ABID",
+            "AHMAD SIDDIQUI"
+        ],
+        "job title": [
+            "Manager-Business Relations",
+            "Manager- Business Relations",
+            "SALES COORDINATOR"
+        ],
+        "company": [
+            "B4S SOLUTIONS PVT. LTD.",
+            "BSNL",
+            "A Govt. of India Enterprise",
+            "GULF STEEL COATING INDUS. CO. LTD",
+            "KINGDOM OF SAUDI ARABIA"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "S-40",
+            "Harsha Compound",
+            "Loni Road Industrial Area",
+            "Mohan Nagar",
+            "Ghaziabad",
+            "Postal Code-101007",
+            "EXT. 293"
+        ],
+        "email": [
+            "E-mail",
+            "siddiqui.tts@gmail.com",
+            "abid@b4ssolutions.com"
+        ],
+        "phone": [
+            "T: 0120-4188300",
+            "M: 0091-7065067880"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "real ambition": 0.1799,
+            "Sales development": 0.2841,
+            "Business Relations": 0.2252,
+            "Effectively communicating with customers in a professional and friendly manner": 0.2013
+        },
+        "filename": "cv (2408)_annotated.json"
+    }
+}

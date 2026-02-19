@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "Engineering Field",
+        "Diploma engineering",
+        "electrical systems",
+        "HVAC electrical interfacing system",
+        "PPM & Corrective maintenance of HVAC System",
+        "cooling towers",
+        "Indoor & outdoor AC units",
+        "Overall site management",
+        "Labor management",
+        "Supervision",
+        "Manpower allocation & utilization"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Experienced",
+            "Site Supervisor -MEP",
+            "Elect Engineer-MEP",
+            "Electrical Engineer -MEP",
+            "Site Engineer & Incharge"
+        ],
+        "company": [
+            "selva  raja",
+            "MINISTRY OF YOUTH & SPORTS – QATAR",
+            "QOC-QATAR OLYMBIC COMMITTEE",
+            "EMCO –QATAR",
+            "TR CONSTRUCTION",
+            "MUNDRA INTERNATIONAL CONTAINER TERMINAL",
+            "UBC ENGINEERS PVT LTD",
+            "NHAVASHEVA INTERNATIONAL CONTAINER TERMINAL-MUMBAI"
+        ],
+        "university": [],
+        "degree": [
+            "B.E/B.Tech Degree"
+        ],
+        "years of experience": [
+            "Total years of Experience",
+            "11 years",
+            "3 Years",
+            "Experienced",
+            "8 Years",
+            "EXPERIENCE"
+        ],
+        "address": [
+            "OMR",
+            "Chennai"
+        ],
+        "email": [
+            "E-MAIL",
+            "xelvaraj@gmail.com"
+        ],
+        "phone": [
+            "CELL",
+            "+91) 9962000158"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Engineering Field": 0.3708,
+            "Diploma engineering": 0.3899,
+            "electrical systems": 0.2338,
+            "HVAC electrical interfacing system": 0.2969,
+            "PPM & Corrective maintenance of HVAC System": 0.1609,
+            "cooling towers": 0.1629,
+            "Indoor & outdoor AC units": 0.2421,
+            "Overall site management": 0.1641,
+            "Labor management": 0.2977,
+            "Supervision": 0.2586,
+            "Manpower allocation & utilization": 0.1531
+        },
+        "filename": "cv (1876)_annotated.json"
+    }
+}

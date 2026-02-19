@@ -1,0 +1,41 @@
+{
+    "skills": [
+        "customer service aptitude",
+        "company-wide knowledge",
+        "professional image",
+        "Company Standards"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "LEASING CONSULTANT",
+            "Resident Manager",
+            "Corporate Office",
+            "Assistant Manager",
+            "Leasing Specialist"
+        ],
+        "company": [
+            "client and team oriented business",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City , State",
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "customer service aptitude": 0.5203,
+            "company-wide knowledge": 0.2983,
+            "professional image": 0.1818,
+            "Company Standards": 0.7299
+        },
+        "filename": "cv (4599)_annotated.json"
+    }
+}

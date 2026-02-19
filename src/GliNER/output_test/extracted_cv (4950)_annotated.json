@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "NLP",
+        "text",
+        "SUMMARY",
+        "Recently graduated fresher",
+        "Machine Learning",
+        "Natural Language Processing",
+        "PERSONAL",
+        "Python",
+        "Natural language",
+        "Processing",
+        "Numpy",
+        "NLTK",
+        "Analysis",
+        "Transformers",
+        "Series",
+        "Conversational AI",
+        "Movie Recommendation System",
+        "Loan Approval System",
+        "Big Data Analytics"
+    ],
+    "professional_info": {
+        "person name": [
+            "SOPHIA FLORES"
+        ],
+        "job title": [
+            "MACHINE LEARNING DEVELOPER",
+            "eLevaTe LtD"
+        ],
+        "company": [],
+        "university": [
+            "KCCE University"
+        ],
+        "degree": [
+            "ACADEMIC PROFILE",
+            "B.Tech(Computers)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "NLP": 0.5678,
+            "text": 0.2201,
+            "SUMMARY": 0.2217,
+            "Recently graduated fresher": 0.5819,
+            "Machine Learning": 0.6186,
+            "Natural Language Processing": 0.6538,
+            "PERSONAL": 0.4963,
+            "Python": 0.7149,
+            "Natural language": 0.2789,
+            "Processing": 0.1881,
+            "Numpy": 0.3835,
+            "NLTK": 0.4595,
+            "Analysis": 0.3528,
+            "Transformers": 0.3918,
+            "Series": 0.2869,
+            "Conversational AI": 0.3941,
+            "Movie Recommendation System": 0.1876,
+            "Loan Approval System": 0.2633,
+            "Big Data Analytics": 0.431
+        },
+        "filename": "cv (4950)_annotated.json"
+    }
+}

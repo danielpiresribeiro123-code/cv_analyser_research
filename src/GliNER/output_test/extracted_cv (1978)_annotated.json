@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "ambitious and career conscious individual",
+        "Course  Institution  Board /University  Year of Passing",
+        "DIPLOMA  PANDALAM N.S,S",
+        "ENGLISH",
+        "NDT Level  II Quality Control Engineering",
+        "Sex",
+        "Male",
+        "Marital Status",
+        "Single",
+        "Mother Tongue",
+        "Malayalam",
+        "Hindi",
+        "DRIVING LINCENCE DE TAILS"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUDHEESH S",
+            "SUDHARSANAM"
+        ],
+        "job title": [],
+        "company": [
+            "result oriented organization",
+            "PLUS TWO  NSS GIGHER",
+            "SECONDARY SCHOOL",
+            "MEDIUM SCHOOL",
+            "POWERSTAIR"
+        ],
+        "university": [
+            "POLYTECHNIC IN THE",
+            "YEAR 2017           Board  2017",
+            "ADOOR  State Board of Kerala  2014",
+            "ADOOR  State Board of Kerala  2012"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "ADOOR",
+            "PATHANAMTHITTA – 6915 26",
+            "KERALA"
+        ],
+        "email": [
+            "Mobil",
+            "Mail ID",
+            "sasidharan1117@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "ambitious and career conscious individual": 0.4431,
+            "Course  Institution  Board /University  Year of Passing": 0.1555,
+            "DIPLOMA  PANDALAM N.S,S": 0.3614,
+            "ENGLISH": 0.8023,
+            "NDT Level  II Quality Control Engineering": 0.8018,
+            "Sex": 0.1814,
+            "Male": 0.5401,
+            "Marital Status": 0.2328,
+            "Single": 0.5369,
+            "Mother Tongue": 0.1698,
+            "Malayalam": 0.9667,
+            "Hindi": 0.9136,
+            "DRIVING LINCENCE DE TAILS": 0.2285
+        },
+        "filename": "cv (1978)_annotated.json"
+    }
+}

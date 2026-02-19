@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "sales",
+        "customer relationship management",
+        "back office operations",
+        "effective communicator",
+        "excellent relationship building & interpersonal skills",
+        "strong analytical",
+        "problem solving",
+        "organizational abilities",
+        "Comprehensive understanding of export and import documentation"
+    ],
+    "professional_info": {
+        "person name": [
+            "PARVEEN KUMAR",
+            "professional"
+        ],
+        "job title": [
+            "Management",
+            "Operations Executive"
+        ],
+        "company": [
+            "Self Employed",
+            "Serai Shipping Services"
+        ],
+        "university": [
+            "G. B. Technical University"
+        ],
+        "degree": [
+            "MBA (Marketing & HR)"
+        ],
+        "years of experience": [
+            "5 years of experience"
+        ],
+        "address": [
+            "H-110/15",
+            "Vill-Chaura Sec-22",
+            "Noida"
+        ],
+        "email": [
+            "EMAIL ID",
+            "parveenkumar232@gmail.com"
+        ],
+        "phone": [
+            "+91 9818799101"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "sales": 0.336,
+            "customer relationship management": 0.7966,
+            "back office operations": 0.6311,
+            "effective communicator": 0.4462,
+            "excellent relationship building & interpersonal skills": 0.3508,
+            "strong analytical": 0.3487,
+            "problem solving": 0.4213,
+            "organizational abilities": 0.3947,
+            "Comprehensive understanding of export and import documentation": 0.171
+        },
+        "filename": "cv (3666)_annotated.json"
+    }
+}

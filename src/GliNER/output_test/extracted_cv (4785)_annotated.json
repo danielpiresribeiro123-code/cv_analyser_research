@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "Adaptable and ambitious administrative professional",
+        "accounting and finance",
+        "real estate",
+        "customer service",
+        "friendly greetings",
+        "Microsoft proficency",
+        "meticulous attention to detail",
+        "strong",
+        "problem solving",
+        "customer service",
+        "E-filing",
+        "account analysis",
+        "balance sheet",
+        "reconciliations",
+        "office supplies"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "COLOR CONSULTANT",
+            "Office Manager",
+            "Receptionist"
+        ],
+        "company": [
+            "Company Name",
+            "Sephora",
+            "McHugh CPA Group",
+            "RE/MAX"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "5+ years experience"
+        ],
+        "address": [
+            "City",
+            "Atlanta",
+            "GA"
+        ],
+        "email": [],
+        "phone": [
+            "phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Adaptable and ambitious administrative professional": 0.3177,
+            "accounting and finance": 0.2249,
+            "real estate": 0.31,
+            "customer service": 0.5051,
+            "friendly greetings": 0.17,
+            "Microsoft proficency": 0.2319,
+            "meticulous attention to detail": 0.4174,
+            "strong": 0.4684,
+            "problem solving": 0.4917,
+            "E-filing": 0.2488,
+            "account analysis": 0.1795,
+            "balance sheet": 0.2002,
+            "reconciliations": 0.1614,
+            "office supplies": 0.2253
+        },
+        "filename": "cv (4785)_annotated.json"
+    }
+}

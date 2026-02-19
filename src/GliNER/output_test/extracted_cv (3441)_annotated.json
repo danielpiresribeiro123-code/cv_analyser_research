@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "competencies",
+        "capabilities",
+        "skills",
+        "experience",
+        "keen sense of responsibility",
+        "Strong work ethic",
+        "flexible schedule",
+        "In depth knowledge of Ventilation and air conditioning",
+        "Preventive maintenance",
+        "Operation Expert",
+        "Leak checks",
+        "Excellent problem solver",
+        "Adaptable",
+        "Analytical thinker",
+        "engineering standards and practices",
+        "ITI in Refrigerant and air conditioning",
+        "technic-Tamilnadu"
+    ],
+    "professional_info": {
+        "person name": [
+            "JAGADEESAN"
+        ],
+        "job title": [
+            "AC Technician",
+            "HVAC and refrigeration Technician",
+            "HVAC Technician",
+            "HVAC Technical Assistant"
+        ],
+        "company": [
+            "National project and maintenance company",
+            "National project and maintenance company, LLC- UAE",
+            "Voltas A/c Dealers Coimbatore-India",
+            "Fortel hotel Chennai-India 4star"
+        ],
+        "university": [
+            "Thiruvarur Aroran poly"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Abu Dhabi"
+        ],
+        "email": [
+            "education",
+            "jagadeesanbalu47@gmail.com",
+            "Secondary school certificate Board of Tamil Nadu- 2009"
+        ],
+        "phone": [
+            "Mobile",
+            "+ 971 525477678",
+            "0557258894Email"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "competencies": 0.1838,
+            "capabilities": 0.2575,
+            "skills": 0.3074,
+            "experience": 0.3839,
+            "keen sense of responsibility": 0.2303,
+            "Strong work ethic": 0.3897,
+            "flexible schedule": 0.1683,
+            "In depth knowledge of Ventilation and air conditioning": 0.3375,
+            "Preventive maintenance": 0.2768,
+            "Operation Expert": 0.5081,
+            "Leak checks": 0.353,
+            "Excellent problem solver": 0.4467,
+            "Adaptable": 0.4349,
+            "Analytical thinker": 0.6267,
+            "engineering standards and practices": 0.4212,
+            "ITI in Refrigerant and air conditioning": 0.4637,
+            "technic-Tamilnadu": 0.2581
+        },
+        "filename": "cv (3441)_annotated.json"
+    }
+}

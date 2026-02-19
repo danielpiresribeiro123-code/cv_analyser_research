@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "incisive & result oriented professional",
+        "Project Transition",
+        "Performance Improvement",
+        "Service Delivery",
+        "excellent relationship management and communication skills",
+        "ability to handle subordinates effectively",
+        "Excellent communication & interpersonal skills",
+        "strong commitment to the profession",
+        "internal system/tools",
+        "Customer Transition Projects",
+        "Steady State Projects",
+        "Customer Satisfaction"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUNITA CHOUDHARY"
+        ],
+        "job title": [
+            "PMO",
+            "Deputy Manager",
+            "Deputy/Project Manager",
+            "Project Management Office",
+            "Transition Project Manager",
+            "Project Manager"
+        ],
+        "company": [
+            "HCL Technologies Ltd.",
+            "HCL Technologies LTD",
+            "HCL Tech",
+            "Global Technology and IT Enterprise",
+            "HCL Technologies",
+            "BJ’s Wholesale Club",
+            "GE-RFIH",
+            "Synchrony Financials",
+            "Nortek Inc.",
+            "INFOR",
+            "HCSC",
+            "Capsugel Inc.",
+            "Chemtura Inc.",
+            "PSP",
+            "Platform Speciality Products"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Noida"
+        ],
+        "email": [],
+        "phone": [
+            "+91-971-191-9988"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "incisive & result oriented professional": 0.1785,
+            "Project Transition": 0.2285,
+            "Performance Improvement": 0.3314,
+            "Service Delivery": 0.2235,
+            "excellent relationship management and communication skills": 0.2993,
+            "ability to handle subordinates effectively": 0.375,
+            "Excellent communication & interpersonal skills": 0.5611,
+            "strong commitment to the profession": 0.4622,
+            "internal system/tools": 0.3393,
+            "Customer Transition Projects": 0.1548,
+            "Steady State Projects": 0.2286,
+            "Customer Satisfaction": 0.1616
+        },
+        "filename": "cv (3047)_annotated.json"
+    }
+}

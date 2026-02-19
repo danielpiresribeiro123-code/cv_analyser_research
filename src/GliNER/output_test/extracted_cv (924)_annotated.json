@@ -1,0 +1,103 @@
+{
+    "skills": [
+        "MOB",
+        "Certificate course",
+        "Professional Software Testing",
+        "Automation",
+        "Analytical",
+        "problem solving",
+        "interpersonal",
+        "relationship",
+        "Fast Learner",
+        "adaptive nature",
+        "Positive Thinker",
+        "DEFENCE SECURWARE",
+        "ASP.Net",
+        "SQL SERVER",
+        "2008",
+        "PLACEMENT AUTOMATION",
+        "PHP",
+        "BACK END",
+        "MySQL",
+        "ONLINE COLLEGE MANAGEMENT SYSTEM",
+        "TECHNICAL SKILLS",
+        "C",
+        "C++",
+        "Java",
+        "ASP.NET MVC",
+        "Manual Testing",
+        "Automation Tools"
+    ],
+    "professional_info": {
+        "person name": [
+            "LEKSHMI .P",
+            "SREELEKSHMI",
+            "KUNNAMTHANAM P.O.",
+            "THIRUVALLA",
+            "lekshmisree777",
+            "job seekers",
+            "employees",
+            "employed",
+            "students",
+            "parents"
+        ],
+        "job title": [],
+        "company": [
+            "Spyro sys Software Testing Solutions",
+            "MCASchool of Technology and, Applied Sciences",
+            "Bsc.Computer, ScienceB C M College"
+        ],
+        "university": [
+            "MG University",
+            "University"
+        ],
+        "degree": [
+            "MCA"
+        ],
+        "years of experience": [],
+        "address": [
+            "Kaloor",
+            "KottayamM G",
+            "Kottayam201575%",
+            "Kottayam201275%"
+        ],
+        "email": [
+            "E-MAIL",
+            "gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "MOB": 0.1809,
+            "Certificate course": 0.2891,
+            "Professional Software Testing": 0.2722,
+            "Automation": 0.1933,
+            "Analytical": 0.3309,
+            "problem solving": 0.2396,
+            "interpersonal": 0.3972,
+            "relationship": 0.2922,
+            "Fast Learner": 0.3363,
+            "adaptive nature": 0.2819,
+            "Positive Thinker": 0.2733,
+            "DEFENCE SECURWARE": 0.2512,
+            "ASP.Net": 0.4587,
+            "SQL SERVER": 0.909,
+            "2008": 0.3855,
+            "PLACEMENT AUTOMATION": 0.4692,
+            "PHP": 0.9657,
+            "BACK END": 0.2314,
+            "MySQL": 0.8995,
+            "ONLINE COLLEGE MANAGEMENT SYSTEM": 0.3533,
+            "TECHNICAL SKILLS": 0.1892,
+            "C": 0.9079,
+            "C++": 0.9109,
+            "Java": 0.9488,
+            "ASP.NET MVC": 0.5568,
+            "Manual Testing": 0.1705,
+            "Automation Tools": 0.336
+        },
+        "filename": "cv (924)_annotated.json"
+    }
+}

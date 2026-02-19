@@ -1,0 +1,47 @@
+{
+    "skills": [
+        "Linux",
+        "PC Analysis Applications",
+        "technical expert",
+        "team-internal process standards",
+        "UNIX"
+    ],
+    "professional_info": {
+        "person name": [
+            "Eric Hameleers"
+        ],
+        "job title": [
+            "Occupation or position held",
+            "Technical Application Manager",
+            "Electrical Engineering Department",
+            "Manager global helpdesk",
+            "Manager Global IT Helpdesk services",
+            "Teamlead 3rd line support desk",
+            "Teamleader of 3rd line support desk"
+        ],
+        "company": [
+            "ASML",
+            "IBM Netherlands",
+            "customer"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Name and address"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Linux": 0.9286,
+            "PC Analysis Applications": 0.449,
+            "technical expert": 0.2635,
+            "team-internal process standards": 0.2318,
+            "UNIX": 0.3352
+        },
+        "filename": "cv (1334)_annotated.json"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Experience",
+        "ARCHITECTURAL CAD",
+        "Residential",
+        "Infrastructural",
+        "Civil",
+        "team oriented",
+        "enthusiasm",
+        "creativity",
+        "strategic and tactical leadership",
+        "KEY SKILL",
+        "Preparing As Built Drawing",
+        "Auto cad",
+        "Very good knowledge",
+        "photo Shop",
+        "rendering",
+        "Very good knowledge",
+        "computer",
+        "Computer packages"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMAD NAUSHAD ALAM",
+            "candidate"
+        ],
+        "job title": [
+            "Draughtsman"
+        ],
+        "company": [
+            "your organization"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-mail",
+            "alamnaushad7654321@gmail.com",
+            "Skype",
+            "naso786"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9128160932/7021878748",
+            "+91-7856818618"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Experience": 0.2914,
+            "ARCHITECTURAL CAD": 0.4279,
+            "Residential": 0.3856,
+            "Infrastructural": 0.597,
+            "Civil": 0.2671,
+            "team oriented": 0.2774,
+            "enthusiasm": 0.2469,
+            "creativity": 0.434,
+            "strategic and tactical leadership": 0.5435,
+            "KEY SKILL": 0.204,
+            "Preparing As Built Drawing": 0.1853,
+            "Auto cad": 0.2986,
+            "Very good knowledge": 0.2414,
+            "photo Shop": 0.2443,
+            "rendering": 0.2268,
+            "computer": 0.1505,
+            "Computer packages": 0.1768
+        },
+        "filename": "cv (576)_annotated.json"
+    }
+}

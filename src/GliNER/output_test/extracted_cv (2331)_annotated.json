@@ -1,0 +1,52 @@
+{
+    "skills": [
+        "innovation",
+        "imagination"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohd. ShahidMohd",
+            "Mohd.Shahid225SKYPE",
+            "Mohd.Shahid225"
+        ],
+        "job title": [
+            "Engineer",
+            "Designation",
+            "Manager (Plant Maintenance)",
+            "Electrical Engineer (Operation & Maintenance)"
+        ],
+        "company": [
+            "MM POLY VINYL PVT LTD",
+            "JACKSON",
+            "Raynold",
+            "ALPHA/Thermotech",
+            "Schneider",
+            "Delta & Allen bradely",
+            "AL MANSOOR INTERNATIONAL CO LLC"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Total Experience",
+            "17+  Years"
+        ],
+        "address": [],
+        "email": [
+            "shahid1641@rediffmail.com",
+            "shahid1641@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 9971237179",
+            "+91 7599044604"
+        ]
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "innovation": 0.2499,
+            "imagination": 0.219
+        },
+        "filename": "cv (2331)_annotated.json"
+    }
+}

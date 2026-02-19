@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "Supremely organized",
+        "recognition and anticipation",
+        "ability to diagnose",
+        "skill to execute",
+        "Confident negotiator",
+        "leverage",
+        "Strength Finders",
+        "Analytical",
+        "Futuristic",
+        "Relator",
+        "Strategic thinker",
+        "Team building",
+        "Advanced problem solving skills",
+        "Operations analysis",
+        "Process development and execution",
+        "Project management",
+        "processes",
+        "management practices",
+        "objective business practices",
+        "objective management driven by data",
+        "Streamlined accounting system",
+        "management tool",
+        "line item approach"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "PROCESS CONSULTANT",
+            "Experienced operations manager",
+            "entrepreneur",
+            "Visionary professional",
+            "Director of Operations"
+        ],
+        "company": [
+            "company",
+            "Company Name",
+            "small and medium sized business"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "Supremely organized": 0.3098,
+            "recognition and anticipation": 0.2134,
+            "ability to diagnose": 0.2968,
+            "skill to execute": 0.4339,
+            "Confident negotiator": 0.4032,
+            "leverage": 0.2158,
+            "Strength Finders": 0.2564,
+            "Analytical": 0.2067,
+            "Futuristic": 0.1747,
+            "Relator": 0.1745,
+            "Strategic thinker": 0.329,
+            "Team building": 0.2154,
+            "Advanced problem solving skills": 0.2768,
+            "Operations analysis": 0.5432,
+            "Process development and execution": 0.1752,
+            "Project management": 0.274,
+            "processes": 0.1513,
+            "management practices": 0.2187,
+            "objective business practices": 0.2516,
+            "objective management driven by data": 0.1627,
+            "Streamlined accounting system": 0.3827,
+            "management tool": 0.2733,
+            "line item approach": 0.4217
+        },
+        "filename": "cv (4264)_annotated.json"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "OBJECTIVE",
+        "trustworthy",
+        "honest person",
+        "SKILL SET",
+        "HVAC Project Execution",
+        "HVAC Designing and Drafting",
+        "Auto CAD",
+        "Duct sizing",
+        "Heat Load",
+        "Calculation",
+        "AHU’s",
+        "Air Balancing",
+        "Split and Window A/C’s",
+        "AREA OF INTEREST",
+        "INDUSTRIAL EXPERIENCE",
+        "CNC Programming & Operation",
+        "PERSONAL VITAE"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "HVAC Engineer",
+            "HVAC Technician"
+        ],
+        "company": [
+            "K-Star Air Conditioners",
+            "DYKS Engineering",
+            "Bluestar",
+            "RMZ Business Park - Perungudi",
+            "DYKS",
+            "A.K.T Academy Metric Higher Secondary school Kallakurichi",
+            "A.K.T Memorial High School Kallakurichi",
+            "SSLC",
+            "Bharat Heavy Electricals Limited",
+            "Boiler Auxiliaries Plant Ranipet",
+            "Ucal Fuel Systems Limited Pondicherry",
+            "Dhanush Engineering Services",
+            "NSIC-Chennai"
+        ],
+        "university": [
+            "Alagappa Chettiar College of Engineering and Technology Karaikudi"
+        ],
+        "degree": [
+            "DIWAHAR.M",
+            "Bachelor of Engineering in Mechanical Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "2/3",
+            "Pillaiyar koil street",
+            "Udaiyanachi",
+            "Villupuram(D.T)"
+        ],
+        "email": [
+            "diwaharms@gmail.com"
+        ],
+        "phone": [
+            "+91-9489215302"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "OBJECTIVE": 0.2503,
+            "trustworthy": 0.2337,
+            "honest person": 0.1877,
+            "SKILL SET": 0.3969,
+            "HVAC Project Execution": 0.3511,
+            "HVAC Designing and Drafting": 0.5848,
+            "Auto CAD": 0.5308,
+            "Duct sizing": 0.3724,
+            "Heat Load": 0.3534,
+            "Calculation": 0.2613,
+            "AHU’s": 0.377,
+            "Air Balancing": 0.4134,
+            "Split and Window A/C’s": 0.2584,
+            "AREA OF INTEREST": 0.4513,
+            "INDUSTRIAL EXPERIENCE": 0.2458,
+            "CNC Programming & Operation": 0.2406,
+            "PERSONAL VITAE": 0.2665
+        },
+        "filename": "cv (437)_annotated.json"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "client interface",
+        "sales",
+        "account management",
+        "Strong organizational skills",
+        "Active listening skills",
+        "conflict resolution",
+        "Courteous demeanor",
+        "Store maintenance",
+        "Inventory control",
+        "Invoice processing",
+        "Adaptive team player",
+        "Customer Assistance",
+        "Live Support",
+        "Computed Data Reports",
+        "Customer Service",
+        "skilled sales techniques",
+        "Market Research",
+        "Customer Interface",
+        "Database Maintenance",
+        "company database",
+        "CPR",
+        "Georgia regulated certifications"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "customer service professional",
+            "customer service/telesales representative",
+            "Results-driven Office Manger",
+            "Customer Service Representative",
+            "Sharp problem solver",
+            "expert",
+            "Customer service expert"
+        ],
+        "company": [
+            "Current Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "15 years"
+        ],
+        "address": [],
+        "email": [],
+        "phone": [
+            "Telecommunication",
+            "Telephone",
+            "phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "client interface": 0.3427,
+            "sales": 0.3664,
+            "account management": 0.2967,
+            "Strong organizational skills": 0.2226,
+            "Active listening skills": 0.2754,
+            "conflict resolution": 0.1536,
+            "Courteous demeanor": 0.4153,
+            "Store maintenance": 0.2136,
+            "Inventory control": 0.2204,
+            "Invoice processing": 0.3574,
+            "Adaptive team player": 0.1516,
+            "Customer Assistance": 0.2842,
+            "Live Support": 0.4697,
+            "Computed Data Reports": 0.243,
+            "Customer Service": 0.2703,
+            "skilled sales techniques": 0.1997,
+            "Market Research": 0.3865,
+            "Customer Interface": 0.4378,
+            "Database Maintenance": 0.3919,
+            "company database": 0.8421,
+            "CPR": 0.5986,
+            "Georgia regulated certifications": 0.2857
+        },
+        "filename": "cv (4651)_annotated.json"
+    }
+}

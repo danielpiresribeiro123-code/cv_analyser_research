@@ -1,0 +1,95 @@
+{
+    "skills": [
+        "prioritizing",
+        "Public Relations",
+        "Spanish",
+        "Media studies",
+        "Marketing",
+        "Communications and Advertising",
+        "Philosophy",
+        "Academic Achievement Award",
+        "MS Office Suite",
+        "Excel spreadsheets",
+        "Adobe Creative Suites",
+        "InDesign",
+        "Illustrator",
+        "Photoshop",
+        "Adobe Acrobat XI Pro",
+        "Meeting planning",
+        "Report writing",
+        "Schedule management",
+        "Deadline-oriented",
+        "Report analysis",
+        "Problem resolution",
+        "Meticulous attention to detail",
+        "web",
+        "databases"
+    ],
+    "professional_info": {
+        "person name": [
+            "State"
+        ],
+        "job title": [
+            "ADMINISTRATIVE ASSISTANT",
+            "Summary",
+            "administrative professional",
+            "Results-oriented team-player",
+            "Student government representative",
+            "Highlights",
+            "professional representative",
+            "CEO",
+            "Public Relations Specialist"
+        ],
+        "company": [
+            "company",
+            "Company Name"
+        ],
+        "university": [
+            "Full Sail University",
+            "Mercer University",
+            "Georgia Perimeter College"
+        ],
+        "degree": [
+            "Master",
+            "Bachelors of Arts",
+            "Bachelor of Arts",
+            "Associate of Arts"
+        ],
+        "years of experience": [
+            "Experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "prioritizing": 0.1779,
+            "Public Relations": 0.6173,
+            "Spanish": 0.5031,
+            "Media studies": 0.2755,
+            "Marketing": 0.3172,
+            "Communications and Advertising": 0.2225,
+            "Philosophy": 0.1777,
+            "Academic Achievement Award": 0.8722,
+            "MS Office Suite": 0.4721,
+            "Excel spreadsheets": 0.4677,
+            "Adobe Creative Suites": 0.5628,
+            "InDesign": 0.567,
+            "Illustrator": 0.6103,
+            "Photoshop": 0.5824,
+            "Adobe Acrobat XI Pro": 0.5617,
+            "Meeting planning": 0.3197,
+            "Report writing": 0.3567,
+            "Schedule management": 0.4921,
+            "Deadline-oriented": 0.3433,
+            "Report analysis": 0.3311,
+            "Problem resolution": 0.2986,
+            "Meticulous attention to detail": 0.3168,
+            "web": 0.1747,
+            "databases": 0.1806
+        },
+        "filename": "cv (4445)_annotated.json"
+    }
+}

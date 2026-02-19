@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "Dixie Chicks"
+    ],
+    "professional_info": {
+        "person name": [
+            "Adam Beach",
+            "Amanda Beard",
+            "Billy Crystal",
+            "Chris Cooper",
+            "Cindy Crawford",
+            "Clay Aiken",
+            "Clea Duval",
+            "Don Henley",
+            "Dule Hill",
+            "Dylan McDermott",
+            "Ed Burns",
+            "Eric McCormack",
+            "Etta James",
+            "Felicity Huffman",
+            "Jennifer Connolly",
+            "Jerry Seinfeld",
+            "Jessica Capshaw",
+            "Josh Lucas",
+            "Kobe Bryant",
+            "Marley Shelton",
+            "Phil Collins",
+            "Richard Branson",
+            "Richard Schiff",
+            "Rod Stewart",
+            "Roger Federer"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "Dixie Chicks": 0.1722
+        },
+        "filename": "cv (780)_annotated.json"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "Kind",
+        "compassionate",
+        "highly motivated",
+        "Expertise",
+        "Education",
+        "Minor in",
+        "Psychology",
+        "Liberal Arts",
+        "Experience",
+        "Differentiated instruction",
+        "ability",
+        "skill level",
+        "running records",
+        "rubrics",
+        "student portfolios",
+        "teacher-made exams",
+        "problem solving",
+        "accountable talk",
+        "Balanced Literacy"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "TEACHER",
+            "Current",
+            "school administrators",
+            "Dentist Office Manager"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [
+            "Brooklyn College",
+            "Nassau Community College"
+        ],
+        "degree": [
+            "Bachelor of Arts",
+            "Associate of Arts"
+        ],
+        "years of experience": [],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Kind": 0.3065,
+            "compassionate": 0.1845,
+            "highly motivated": 0.1832,
+            "Expertise": 0.2992,
+            "Education": 0.3617,
+            "Minor in": 0.1913,
+            "Psychology": 0.7515,
+            "Liberal Arts": 0.4662,
+            "Experience": 0.2884,
+            "Differentiated instruction": 0.2906,
+            "ability": 0.2379,
+            "skill level": 0.2044,
+            "running records": 0.3125,
+            "rubrics": 0.3574,
+            "student portfolios": 0.2795,
+            "teacher-made exams": 0.3075,
+            "problem solving": 0.1617,
+            "accountable talk": 0.2615,
+            "Balanced Literacy": 0.1854
+        },
+        "filename": "cv (4657)_annotated.json"
+    }
+}

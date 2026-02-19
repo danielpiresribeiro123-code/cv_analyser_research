@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "07708955455",
+        "growth",
+        "creativity",
+        "analytical thinking",
+        "knowledge",
+        "skills",
+        "Skills",
+        "Project management",
+        "Leadership/Communication skills",
+        "Problem -solving and analysis skills",
+        "Technical Skills",
+        "RS485",
+        "Zigbee",
+        "Z igbee",
+        "RS 485"
+    ],
+    "professional_info": {
+        "person name": [
+            "Vanmikinathan"
+        ],
+        "job title": [
+            "Project Manager",
+            "Team Leader",
+            "Project Engineer"
+        ],
+        "company": [
+            "Hensel Electric India Private Limited",
+            "Solar Integration System India Private Ltd"
+        ],
+        "university": [
+            "Indian Institute of Technology",
+            "Indian  Institute of Technology"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Thiruvalluvar road",
+            "Molasur Sunguvachatram",
+            "Kanchipuram - 602106",
+            "Chennai",
+            "Hyderabad"
+        ],
+        "email": [
+            "Cell",
+            "India.  valmikinathan.k@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "07708955455": 0.243,
+            "growth": 0.1802,
+            "creativity": 0.2939,
+            "analytical thinking": 0.4004,
+            "knowledge": 0.1983,
+            "skills": 0.2394,
+            "Skills": 0.2823,
+            "Project management": 0.1544,
+            "Leadership/Communication skills": 0.4371,
+            "Problem -solving and analysis skills": 0.3857,
+            "Technical Skills": 0.3204,
+            "RS485": 0.6893,
+            "Zigbee": 0.3933,
+            "Z igbee": 0.3352,
+            "RS 485": 0.7607
+        },
+        "filename": "cv (3507)_annotated.json"
+    }
+}

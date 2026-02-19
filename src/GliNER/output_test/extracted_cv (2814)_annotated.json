@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "communication skills",
+        "ABILITIES",
+        "Strong Customer Service Focus",
+        "Excellent Communication Skills",
+        "Extensive experience",
+        "Engineering and Project Management",
+        "Electrical and Electronics",
+        "Ready-mix plant operations and Maintenance",
+        "Self motivated professional",
+        "capable of working independently or as part of a Team",
+        "PROFESSIONAL EXPERIENCE",
+        "RMC Plant operations & Maintenance",
+        "Plant operations & Maintenance",
+        "Customer satisfaction index"
+    ],
+    "professional_info": {
+        "person name": [
+            "R.MUTHUKRISHNAN"
+        ],
+        "job title": [
+            "D.E.E.E.",
+            "Manager P&M",
+            "Operations Manager",
+            "RMC Manager",
+            "Electrical coordinator",
+            "WMS Officer",
+            "Assistant Manager - Customer Relations"
+        ],
+        "company": [
+            "SOUT H EAST CONSTRUCTIONS COMPANY PVT LTD",
+            "SPL INFRASTRUCTURE PVT LTD",
+            "ACC CONCRETE LTD"
+        ],
+        "university": [],
+        "degree": [
+            "B.Tech."
+        ],
+        "years of experience": [
+            "17+Years"
+        ],
+        "address": [
+            "No: 4/307",
+            "Baba Nagar 3rd Main Road",
+            "Villivakkam Chennai-600049"
+        ],
+        "email": [
+            "Email",
+            "muthucpt@yahoo.com",
+            "srmmuthukrishna@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "9941650107"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "communication skills": 0.2042,
+            "ABILITIES": 0.1528,
+            "Strong Customer Service Focus": 0.3293,
+            "Excellent Communication Skills": 0.3514,
+            "Extensive experience": 0.2349,
+            "Engineering and Project Management": 0.2553,
+            "Electrical and Electronics": 0.2983,
+            "Ready-mix plant operations and Maintenance": 0.2946,
+            "Self motivated professional": 0.2897,
+            "capable of working independently or as part of a Team": 0.1892,
+            "PROFESSIONAL EXPERIENCE": 0.2186,
+            "RMC Plant operations & Maintenance": 0.2557,
+            "Plant operations & Maintenance": 0.2848,
+            "Customer satisfaction index": 0.1522
+        },
+        "filename": "cv (2814)_annotated.json"
+    }
+}

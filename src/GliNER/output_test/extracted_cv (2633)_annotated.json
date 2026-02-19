@@ -1,0 +1,46 @@
+{
+    "skills": [
+        "purchasing records"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMAD YUSUF",
+            "I"
+        ],
+        "job title": [
+            "Purchase Executive",
+            "Purchase Officer"
+        ],
+        "company": [
+            "Company",
+            "Geepas International Pvt Ltd",
+            "Nesto Hypermarket",
+            "Mashhor General Cont Sdn Bhd Brunei Darussalam",
+            "LRMC Project"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Total Experience-4.6 Years",
+            "1.5 years"
+        ],
+        "address": [
+            "A-192",
+            "Kopar Khairane Midc",
+            "Navi Mumbai-400710"
+        ],
+        "email": [
+            "email",
+            "mohdyusuf2145@gmail.com",
+            "+918454992036"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "purchasing records": 0.262
+        },
+        "filename": "cv (2633)_annotated.json"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "Highly  stimulated  and  enthusiastic  individual",
+        "team-player",
+        "Academic Qualification",
+        "Certified course",
+        "Basic Diploma in Computer Typing",
+        "M.S. Office",
+        "Microsoft Excel",
+        "word",
+        "Power Point- Presentations",
+        "Basic knowledge",
+        "Adobe photo shop",
+        "Corel draw",
+        "Photo Designing/Editing Software",
+        "Catering / Food Beverage",
+        "Electronics/IT/Maintenance",
+        "Health, Safety and Environmental standards",
+        "SOPs",
+        "Standard Operating Procedure"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sateesh Kesarwani",
+            "Akil kaushambi",
+            "Jan shikshan Sansthan Kaushambi"
+        ],
+        "job title": [
+            "Designation",
+            "Store Keeper",
+            "cost supervisor"
+        ],
+        "company": [
+            "Commerce Institute/University- Uttar Pradesh Board",
+            "Alfa Institute Varanasi",
+            "Tamimi Global Co.",
+            "Tamimi Contracting Aramco R & I P.",
+            "Passion Cargo Pvt Ltd."
+        ],
+        "university": [
+            "Chatrapatti Shiva ji University"
+        ],
+        "degree": [
+            "Graduation"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "sateeshkesarwani8@gmail.com",
+            "sateeshkesarwani6@gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "+966571391664",
+            "+918957013248"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Highly  stimulated  and  enthusiastic  individual": 0.3392,
+            "team-player": 0.418,
+            "Academic Qualification": 0.2604,
+            "Certified course": 0.1792,
+            "Basic Diploma in Computer Typing": 0.4781,
+            "M.S. Office": 0.5211,
+            "Microsoft Excel": 0.5201,
+            "word": 0.3863,
+            "Power Point- Presentations": 0.5265,
+            "Basic knowledge": 0.4322,
+            "Adobe photo shop": 0.5799,
+            "Corel draw": 0.6015,
+            "Photo Designing/Editing Software": 0.3637,
+            "Catering / Food Beverage": 0.1642,
+            "Electronics/IT/Maintenance": 0.2431,
+            "Health, Safety and Environmental standards": 0.7733,
+            "SOPs": 0.1659,
+            "Standard Operating Procedure": 0.1726
+        },
+        "filename": "cv (66)_annotated.json"
+    }
+}

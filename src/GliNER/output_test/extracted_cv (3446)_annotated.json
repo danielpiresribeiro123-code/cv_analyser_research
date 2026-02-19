@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "knowledge",
+        "Extensive knowledge",
+        "CCTV",
+        "VDP",
+        "ADP",
+        "ALARM SYSTEM",
+        "EPBAX",
+        "alarm systems",
+        "access control",
+        "IP CCTV",
+        "intercoms",
+        "DTU",
+        "Routers",
+        "Relevant Skills",
+        "Electronic  Data / installations",
+        "Knowledge",
+        "Microsoft Offi ce Program",
+        "Current cabling license",
+        "Manual drivers' license",
+        "working knowledge",
+        "MS Word",
+        "PowerPoin t presentations",
+        "Extra ordinary skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAHUL SHARMA"
+        ],
+        "job title": [
+            "CCTV Installer",
+            "CCTV Technician",
+            "CCTV Technician/operator",
+            "supervisor",
+            "Security Installer or Service technician"
+        ],
+        "company": [
+            "Ivaid Surveillance  Pvt. Ltd.",
+            "Mishu Solutions"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "5 Years  of Professional Experience",
+            "Excellent presentation skills"
+        ],
+        "address": [
+            "Pin-110059"
+        ],
+        "email": [
+            "mishucctv @gmail.com"
+        ],
+        "phone": [
+            "Contact No.",
+            "+91-9716868613",
+            "Email  address"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "knowledge": 0.1735,
+            "Extensive knowledge": 0.2529,
+            "CCTV": 0.2556,
+            "VDP": 0.344,
+            "ADP": 0.2518,
+            "ALARM SYSTEM": 0.2378,
+            "EPBAX": 0.4296,
+            "alarm systems": 0.1953,
+            "access control": 0.4048,
+            "IP CCTV": 0.5283,
+            "intercoms": 0.367,
+            "DTU": 0.2555,
+            "Routers": 0.2087,
+            "Relevant Skills": 0.2054,
+            "Electronic  Data / installations": 0.2014,
+            "Knowledge": 0.2993,
+            "Microsoft Offi ce Program": 0.6269,
+            "Current cabling license": 0.1745,
+            "Manual drivers' license": 0.1879,
+            "working knowledge": 0.1782,
+            "MS Word": 0.4308,
+            "PowerPoin t presentations": 0.2886,
+            "Extra ordinary skills": 0.1966
+        },
+        "filename": "cv (3446)_annotated.json"
+    }
+}

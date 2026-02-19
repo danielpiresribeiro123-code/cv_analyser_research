@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "Business Management",
+        "Statistical",
+        "Analysis",
+        "PROFICIENT SKILLS",
+        "Data Analysis",
+        "Statistical Analysis",
+        "Regression Analysis",
+        "Natural Language Processing",
+        "Machine",
+        "Learning",
+        "Numerical Analysis",
+        "NLP",
+        "ML",
+        "BSc Statistics 2018",
+        "Tableau CA Certification - 2020",
+        "Natural Learning Processing",
+        "P R O J E C T S",
+        "Understanding emotion from text"
+    ],
+    "professional_info": {
+        "person name": [
+            "NICOLE BREWER"
+        ],
+        "job title": [
+            "POST GRADUATE",
+            "BUSINESS",
+            "ANALYST",
+            "PROFESSIONAL PROFILE",
+            "Post Graduate Analyst",
+            "Statistical Analyst",
+            "CURRICULARS"
+        ],
+        "company": [
+            "Amazon"
+        ],
+        "university": [
+            "IISc",
+            "IIIT"
+        ],
+        "degree": [
+            "MSc",
+            "BangaloreACHIEVEMENTS AND EXTRA"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Business Management": 0.3367,
+            "Statistical": 0.2146,
+            "Analysis": 0.2882,
+            "PROFICIENT SKILLS": 0.2853,
+            "Data Analysis": 0.5328,
+            "Statistical Analysis": 0.7189,
+            "Regression Analysis": 0.6888,
+            "Natural Language Processing": 0.8261,
+            "Machine": 0.4,
+            "Learning": 0.3177,
+            "Numerical Analysis": 0.6663,
+            "NLP": 0.4664,
+            "ML": 0.6684,
+            "BSc Statistics 2018": 0.6331,
+            "Tableau CA Certification - 2020": 0.8007,
+            "Natural Learning Processing": 0.7632,
+            "P R O J E C T S": 0.2121,
+            "Understanding emotion from text": 0.3145
+        },
+        "filename": "cv (4938)_annotated.json"
+    }
+}

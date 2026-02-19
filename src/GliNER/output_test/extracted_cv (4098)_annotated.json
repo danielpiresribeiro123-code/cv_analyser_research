@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "skills",
+        "Marketing",
+        "Secondary sales",
+        "Primary sales",
+        "company standard",
+        "Product feedback",
+        "Inventory Management",
+        "inventory reports"
+    ],
+    "professional_info": {
+        "person name": [
+            "SANDEEP KUMAR"
+        ],
+        "job title": [
+            "ASM",
+            "franchisee",
+            "Vice-President/Associate Vice-President"
+        ],
+        "company": [
+            "COTTON COUNTY RETAIL LTD.",
+            "Nahar Industrial Enterprises Ltd.",
+            "KAXIAA RETAIL INDIA",
+            "GOC FASHION Ltd.",
+            "GRASIM",
+            "ADITYA BIRLA GROUP"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "6.4 years experience",
+            "One Year Exp."
+        ],
+        "address": [
+            "NEW DELHI",
+            "Gurgaon"
+        ],
+        "email": [
+            "Email",
+            "Sandeep.spehia@gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "094638-52748",
+            "096435-76395"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "skills": 0.1521,
+            "Marketing": 0.2003,
+            "Secondary sales": 0.1637,
+            "Primary sales": 0.2334,
+            "company standard": 0.2106,
+            "Product feedback": 0.231,
+            "Inventory Management": 0.2746,
+            "inventory reports": 0.1913
+        },
+        "filename": "cv (4098)_annotated.json"
+    }
+}

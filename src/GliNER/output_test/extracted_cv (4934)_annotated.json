@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Async Functions",
+        "Applications and databases",
+        "machine learning",
+        "machine learning",
+        "Knowledge",
+        "Software Development processes",
+        "Object-oriented programming",
+        "python",
+        "scikit",
+        "learn",
+        "keras",
+        "Scikit Learn",
+        "Tensorflow",
+        "Object Oriented Programming",
+        "Software Engineering",
+        "Application Development",
+        "Pair Extraction",
+        "Understanding Neural Networks"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Software Developer and Analyst Trainee",
+            "GRADUATE MACHINE LEARNING DEVELOPER",
+            "Experienced software professional"
+        ],
+        "company": [
+            "University"
+        ],
+        "university": [
+            "CISCO",
+            "Jodhpur University",
+            "IIIT Delhi"
+        ],
+        "degree": [
+            "B.Tech(Instrumentation)",
+            "M.tech (Machine Learning)",
+            "Masters"
+        ],
+        "years of experience": [],
+        "address": [
+            "Jodhpur"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Async Functions": 0.1945,
+            "Applications and databases": 0.4866,
+            "machine learning": 0.2702,
+            "Knowledge": 0.2254,
+            "Software Development processes": 0.6434,
+            "Object-oriented programming": 0.3129,
+            "python": 0.9659,
+            "scikit": 0.3576,
+            "learn": 0.314,
+            "keras": 0.273,
+            "Scikit Learn": 0.4814,
+            "Tensorflow": 0.5068,
+            "Object Oriented Programming": 0.4974,
+            "Software Engineering": 0.3389,
+            "Application Development": 0.5229,
+            "Pair Extraction": 0.2886,
+            "Understanding Neural Networks": 0.2466
+        },
+        "filename": "cv (4934)_annotated.json"
+    }
+}

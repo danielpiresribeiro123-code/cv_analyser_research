@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "Contact No 9650627386",
+        "7677080421",
+        "Teaching skill",
+        "Subject",
+        "10th",
+        "12th",
+        "Computer DCA",
+        "Tally Jharkhand",
+        "Marital status",
+        "Unmarried",
+        "English",
+        "Hindi",
+        "Male"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ravindra Kumar",
+            "Shivnarayan Yadav"
+        ],
+        "job title": [],
+        "company": [
+            "npu medaninagar Jharkhand",
+            "Sbi csp",
+            "TGH company"
+        ],
+        "university": [
+            "C.B.S.E Board Jharkhand",
+            "B.com"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Work Experience"
+        ],
+        "address": [
+            "Post                               Gulabjhari",
+            "Present address",
+            "Nathupur"
+        ],
+        "email": [
+            "Email-Id",
+            "gmail.com",
+            "Indian"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Contact No 9650627386": 0.1792,
+            "7677080421": 0.1688,
+            "Teaching skill": 0.151,
+            "Subject": 0.1514,
+            "10th": 0.189,
+            "12th": 0.2166,
+            "Computer DCA": 0.3533,
+            "Tally Jharkhand": 0.197,
+            "Marital status": 0.191,
+            "Unmarried": 0.2825,
+            "English": 0.7642,
+            "Hindi": 0.7537,
+            "Male": 0.2508
+        },
+        "filename": "cv (1613)_annotated.json"
+    }
+}

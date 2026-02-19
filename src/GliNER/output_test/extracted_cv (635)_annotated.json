@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "Strength",
+        "Sincerity",
+        "integrity",
+        "hard",
+        "Basic Professional knowledge",
+        "self-motivation",
+        "Ready to accept any challenge",
+        "Dedicted  and devotional to duty",
+        "Technical Qualification",
+        "Linguist abilities",
+        "English",
+        "Hindi",
+        "Read",
+        "Speak",
+        "10+2",
+        "Male",
+        "Single",
+        "Motor  cycle  Ridding",
+        "Car Driving"
+    ],
+    "professional_info": {
+        "person name": [
+            "Shambhu Nath",
+            "Himanshu",
+            "Mr.Shambhu Nath",
+            "Mrs.  Saraswati Devi",
+            "Indian"
+        ],
+        "job title": [
+            "Mechanical",
+            "Engineer",
+            "HIMANSHU"
+        ],
+        "company": [
+            "Uttarakhand Transport Corporation",
+            "Utt arakhand",
+            "CBSE Board",
+            "CBSE"
+        ],
+        "university": [
+            "B.T.K.I.T."
+        ],
+        "degree": [
+            "B.Tech.",
+            "D.O.B."
+        ],
+        "years of experience": [],
+        "address": [
+            "PIN-263160"
+        ],
+        "email": [
+            "E-Mail",
+            "Mauryagreat14@gmail.com",
+            "Anshu885909@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+918057026410"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Strength": 0.2513,
+            "Sincerity": 0.407,
+            "integrity": 0.3871,
+            "hard": 0.1579,
+            "Basic Professional knowledge": 0.3284,
+            "self-motivation": 0.4916,
+            "Ready to accept any challenge": 0.1932,
+            "Dedicted  and devotional to duty": 0.1769,
+            "Technical Qualification": 0.1914,
+            "Linguist abilities": 0.3262,
+            "English": 0.7941,
+            "Hindi": 0.921,
+            "Read": 0.1601,
+            "Speak": 0.2066,
+            "10+2": 0.1719,
+            "Male": 0.3198,
+            "Single": 0.3643,
+            "Motor  cycle  Ridding": 0.2877,
+            "Car Driving": 0.2789
+        },
+        "filename": "cv (635)_annotated.json"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "Enthusiastic",
+        "effective at providing high quality instruction",
+        "Superb leadership",
+        "organization",
+        "communication",
+        "Mature and professionalÂ",
+        "postgraduate professional license",
+        "Critical thinker",
+        "Calm under pressure",
+        "Decisive",
+        "Mediation and advocacy talent",
+        "Curriculum development and long term planning",
+        "highly organized",
+        "excellent work ethic",
+        "Experience",
+        "parents",
+        "school-wide curriculum standards",
+        "knowledge of first aid procedures"
+    ],
+    "professional_info": {
+        "person name": [
+            "TEACHER",
+            "teachers"
+        ],
+        "job title": [
+            "school administrators",
+            "Assistant Teacher",
+            "Senior Support Representative",
+            "on-line support technicians",
+            "Customer Service / Administrator",
+            "Customer Service"
+        ],
+        "company": [
+            "Company Name",
+            "E-classified ad service",
+            "online classifieds company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Enthusiastic": 0.5949,
+            "effective at providing high quality instruction": 0.1708,
+            "Superb leadership": 0.4448,
+            "organization": 0.339,
+            "communication": 0.3595,
+            "Mature and professionalÂ": 0.5704,
+            "postgraduate professional license": 0.8006,
+            "Critical thinker": 0.5461,
+            "Calm under pressure": 0.5636,
+            "Decisive": 0.6202,
+            "Mediation and advocacy talent": 0.5384,
+            "Curriculum development and long term planning": 0.3083,
+            "highly organized": 0.5342,
+            "excellent work ethic": 0.5898,
+            "Experience": 0.2584,
+            "parents": 0.1595,
+            "school-wide curriculum standards": 0.6604,
+            "knowledge of first aid procedures": 0.1589
+        },
+        "filename": "cv (4426)_annotated.json"
+    }
+}

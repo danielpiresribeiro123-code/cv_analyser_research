@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "skills",
+        "strengths",
+        "Auto Cadd",
+        "STAAD.pro",
+        "staad. pro v8i software",
+        "Technical Skills",
+        "Staad  Pro.",
+        "Structure  modeling  and analysis",
+        "AutoCAD",
+        "Ability to work hard",
+        "constant motivation",
+        "Good learner",
+        "Good team leader",
+        "Good organizer"
+    ],
+    "professional_info": {
+        "person name": [
+            "HIMANSHU"
+        ],
+        "job title": [
+            "job",
+            "coordinator"
+        ],
+        "company": [
+            "B-Tech",
+            "aawas evam vikas parisad",
+            "l&T Company",
+            "proactive -info soft",
+            "IEC college"
+        ],
+        "university": [
+            "Noida Institu te Of  Engineering &Technology",
+            "UPTU  67",
+            "NSIC",
+            "IIT Guwahati",
+            "SRM University",
+            "IIMT College",
+            "JRE Group of institution"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "G-117B GAMMA II"
+        ],
+        "email": [
+            "himanshu.trip93@gmail.com"
+        ],
+        "phone": [
+            "+919717061114"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "skills": 0.1587,
+            "strengths": 0.3846,
+            "Auto Cadd": 0.4939,
+            "STAAD.pro": 0.5492,
+            "staad. pro v8i software": 0.218,
+            "Technical Skills": 0.3325,
+            "Staad  Pro.": 0.4432,
+            "Structure  modeling  and analysis": 0.2679,
+            "AutoCAD": 0.3191,
+            "Ability to work hard": 0.2804,
+            "constant motivation": 0.236,
+            "Good learner": 0.4566,
+            "Good team leader": 0.3668,
+            "Good organizer": 0.2894
+        },
+        "filename": "cv (3284)_annotated.json"
+    }
+}

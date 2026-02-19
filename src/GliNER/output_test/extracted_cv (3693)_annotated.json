@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "Bengali",
+        "Hindi",
+        "English",
+        "EDUCATIONAL"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mr. GOPAL ADAK",
+            "Late Balai Adak",
+            "Indian",
+            "6G Stick",
+            "GOPAL ADAK"
+        ],
+        "job title": [
+            "Welder",
+            "engineering",
+            "supervisor"
+        ],
+        "company": [
+            "IOCL India",
+            "VB",
+            "Bridge & Roof (India)",
+            "Ltd",
+            "Petrofac International Ltd",
+            "Kharafri National",
+            "HPCL Vizag"
+        ],
+        "university": [],
+        "degree": [
+            "8Th Passed"
+        ],
+        "years of experience": [
+            "Married",
+            "12 years"
+        ],
+        "address": [
+            "Hinduism",
+            "Post",
+            "Sutahata",
+            "Pin",
+            "DO",
+            "Loyed"
+        ],
+        "email": [
+            "CONTACT NUMBER",
+            "8609089031",
+            "9476114142",
+            "J8730946"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Bengali": 0.9028,
+            "Hindi": 0.901,
+            "English": 0.8867,
+            "EDUCATIONAL": 0.3516
+        },
+        "filename": "cv (3693)_annotated.json"
+    }
+}

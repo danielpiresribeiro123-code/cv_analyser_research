@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "Full commitment",
+        "loyalty",
+        "sincerity",
+        "hard Work",
+        "EXPERIENCE",
+        "Residential building",
+        "Bill Checking",
+        "B.E-CIVIL Engineering",
+        "M.E-Construction engineering and management",
+        "Male",
+        "Un Married",
+        "Tamil",
+        "English",
+        "EXTRA KNOWLEDGE",
+        "Auto cad 2010 Version (Civil)",
+        "Billing Prepare"
+    ],
+    "professional_info": {
+        "person name": [
+            "THIRULOGACHANDRAN.P",
+            "PERUMAL",
+            "MANGALAMPET",
+            "PERUMAL.A",
+            "Indian"
+        ],
+        "job title": [
+            "CIVIL SITE ENGINEER",
+            "project coordinator",
+            "PROJECT  MANAGING DIRECTOR"
+        ],
+        "company": [
+            "PdotG construction pvt Ltd",
+            "SAASTHA CONSTRUCTIONS",
+            "VDM",
+            "SRI SAI CONSTRUCTION",
+            "mathur",
+            "Chidamparam"
+        ],
+        "university": [
+            "Govt. Hr Sec School",
+            "govt high school"
+        ],
+        "degree": [
+            "HSC",
+            "SSLC"
+        ],
+        "years of experience": [
+            "5 Years"
+        ],
+        "address": [
+            "D/No. 3/137,WEST STREET",
+            "MATHUR& POST",
+            "VRIDHACHALAM  TK",
+            "CUDDALORE DT",
+            "Chennai"
+        ],
+        "email": [
+            "E-mail",
+            "thirubarathissc@gmail.com",
+            "7395853073"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Full commitment": 0.3137,
+            "loyalty": 0.3199,
+            "sincerity": 0.3812,
+            "hard Work": 0.2264,
+            "EXPERIENCE": 0.2213,
+            "Residential building": 0.161,
+            "Bill Checking": 0.2169,
+            "B.E-CIVIL Engineering": 0.4404,
+            "M.E-Construction engineering and management": 0.5542,
+            "Male": 0.304,
+            "Un Married": 0.3269,
+            "Tamil": 0.6087,
+            "English": 0.6184,
+            "EXTRA KNOWLEDGE": 0.3283,
+            "Auto cad 2010 Version (Civil)": 0.324,
+            "Billing Prepare": 0.2201
+        },
+        "filename": "cv (3545)_annotated.json"
+    }
+}

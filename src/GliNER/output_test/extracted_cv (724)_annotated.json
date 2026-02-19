@@ -1,0 +1,91 @@
+{
+    "skills": [
+        "expertise",
+        "Inter-personal skills",
+        "Convincing ability",
+        "Willingness to learn",
+        "Good listener and observer",
+        "Strong communication skills",
+        "Team player",
+        "presentation skills",
+        "Strong analytical and problem solving skills",
+        "Management skills",
+        "Hard working",
+        "Positive attitude",
+        "Confidential",
+        "Related Modern Industrial technology",
+        "Practical Ability",
+        "Flexible attitude",
+        "Power Transmission",
+        "Robotics & Sensors",
+        "MS Office",
+        "Windows 7",
+        "Windows XP",
+        "Using Internet for Research",
+        "Corel Draw",
+        "Auto CAD (Mechanical)"
+    ],
+    "professional_info": {
+        "person name": [
+            "MEHUL H. PAREKH"
+        ],
+        "job title": [
+            "HSE INSPECTOR & INSPECTION ENGINEER",
+            "Senior Position"
+        ],
+        "company": [
+            "Diploma In Mechanical EngineeringN.G.Patel Polytechnic",
+            "T.E.B.",
+            "Gujarat Gas Ltd.",
+            "Randstad India Ltd.",
+            "Hertz Inspection Services Pvt. Ltd.",
+            "VCS Quality services Pvt. Ltd."
+        ],
+        "university": [
+            "Bachelors Technology in Mechanical EngineeringKarnataka State Open University71"
+        ],
+        "degree": [],
+        "years of experience": [
+            "6 years of experience",
+            "October 2010"
+        ],
+        "address": [],
+        "email": [
+            "E-mail ID: parekhmhl@yahoo.com"
+        ],
+        "phone": [
+            "+91 – 9924309396",
+            "2002"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "expertise": 0.2382,
+            "Inter-personal skills": 0.4288,
+            "Convincing ability": 0.4466,
+            "Willingness to learn": 0.4426,
+            "Good listener and observer": 0.5624,
+            "Strong communication skills": 0.4886,
+            "Team player": 0.4739,
+            "presentation skills": 0.3341,
+            "Strong analytical and problem solving skills": 0.5652,
+            "Management skills": 0.2797,
+            "Hard working": 0.4329,
+            "Positive attitude": 0.5329,
+            "Confidential": 0.3957,
+            "Related Modern Industrial technology": 0.2195,
+            "Practical Ability": 0.3667,
+            "Flexible attitude": 0.435,
+            "Power Transmission": 0.1828,
+            "Robotics & Sensors": 0.4394,
+            "MS Office": 0.7462,
+            "Windows 7": 0.8469,
+            "Windows XP": 0.8694,
+            "Using Internet for Research": 0.3343,
+            "Corel Draw": 0.579,
+            "Auto CAD (Mechanical)": 0.449
+        },
+        "filename": "cv (724)_annotated.json"
+    }
+}

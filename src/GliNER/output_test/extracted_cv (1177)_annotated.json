@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Finance",
+        "Certificate of Special Studies in Management and Administration",
+        "Marketing",
+        "Corporate Finance"
+    ],
+    "professional_info": {
+        "person name": [
+            "MARIO D. LEWIS"
+        ],
+        "job title": [
+            "President Student Government Association",
+            "VP",
+            "Associate",
+            "Vice-President",
+            "Senior Corporate Auditor",
+            "CFO",
+            "Graduate",
+            "Bid and Proposal Cost Analyst",
+            "Business Administrator",
+            "Project Analyst",
+            "Budget Analyst"
+        ],
+        "company": [
+            "Raytheon Appliance division",
+            "Hughes Electronics",
+            "Texas Instruments defense operations",
+            "Defense Electronics"
+        ],
+        "university": [
+            "mit"
+        ],
+        "degree": [
+            "Master of Business Administration",
+            "Bachelor of Science Degree in Finance"
+        ],
+        "years of experience": [],
+        "address": [
+            "466 Cambridge Street",
+            "Cambridge, MA",
+            "02141",
+            "BOSTON, MA"
+        ],
+        "email": [
+            "E-mail"
+        ],
+        "phone": [
+            "Telephone",
+            "(617) 491-4194"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Finance": 0.1733,
+            "Certificate of Special Studies in Management and Administration": 0.4011,
+            "Marketing": 0.1816,
+            "Corporate Finance": 0.1765
+        },
+        "filename": "cv (1177)_annotated.json"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "professional and personal skills",
+        "Butchery Section",
+        "standards",
+        "Indian hospitality",
+        "sustainable practices"
+    ],
+    "professional_info": {
+        "person name": [
+            "mohammad-afzal"
+        ],
+        "job title": [
+            "chefafzal.raynee",
+            "Chef",
+            "Kitchen Manger",
+            "Commis 1st Chef",
+            "Commis 2nd Chef"
+        ],
+        "company": [
+            "Tandoor",
+            "Tawabel Al-Reef Restaurant",
+            "Noor Us Sabah Palace",
+            "Silver Salt Indian Cuisine",
+            "Lukshmi Villas Palace"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Sector Al-Farooq",
+            "Royal Commission Area",
+            "Jubail Industrial City",
+            "V. I. P. Road",
+            "Koh-E-Fiza",
+            "Sufi Chamber",
+            "Banjara Hills",
+            "Road No- 1",
+            "J. N. Marg"
+        ],
+        "email": [
+            "Email"
+        ],
+        "phone": [
+            "+919453870434",
+            "Skype"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "professional and personal skills": 0.1714,
+            "Butchery Section": 0.1829,
+            "standards": 0.1759,
+            "Indian hospitality": 0.2161,
+            "sustainable practices": 0.2404
+        },
+        "filename": "cv (2278)_annotated.json"
+    }
+}

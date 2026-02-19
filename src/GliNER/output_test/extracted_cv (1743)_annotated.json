@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "SCM",
+        "HR",
+        "Expertise",
+        "Basic knowledge",
+        "ERP",
+        "Sync SCM-2",
+        "Male",
+        "Key Skills",
+        "Purchase"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ram kumar. M",
+            "8939809764",
+            "Mathan",
+            "singh",
+            "D.O.B"
+        ],
+        "job title": [
+            "Purchase",
+            "Executive",
+            "Engineer  -Raw  materials",
+            "Junior Engineer",
+            "Quality technian",
+            "Supervisor CUM"
+        ],
+        "company": [
+            "Hanchang India Pvt Ltd",
+            "SURE MANUFACTURING ENT (P) LTD",
+            "BONFIGLIOLI TRANSMISSIONS (P) LTD",
+            "MILLTECK INDUSTRIES"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "7 Years"
+        ],
+        "address": [
+            "No.5/6",
+            "lalbhagathur sastri street",
+            "Chennai- 600 119"
+        ],
+        "email": [
+            "Kumar1987229@gmail.co",
+            "m"
+        ],
+        "phone": [
+            "Contact Number",
+            "89 39 809 764",
+            "Mail Address"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "SCM": 0.207,
+            "HR": 0.1863,
+            "Expertise": 0.2237,
+            "Basic knowledge": 0.2377,
+            "ERP": 0.263,
+            "Sync SCM-2": 0.2139,
+            "Male": 0.2686,
+            "Key Skills": 0.1752,
+            "Purchase": 0.3045
+        },
+        "filename": "cv (1743)_annotated.json"
+    }
+}

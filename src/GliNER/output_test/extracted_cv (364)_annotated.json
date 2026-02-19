@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "experience",
+        "education",
+        "dynamic personality",
+        "personality",
+        "jolly nature"
+    ],
+    "professional_info": {
+        "person name": [
+            "Randhir Singh"
+        ],
+        "job title": [
+            "Computer  Clerk",
+            "Computer Clerk",
+            "Data Entry Operator"
+        ],
+        "company": [
+            "S.I   LOGISTIC LTD",
+            "Jay Pee cement",
+            "SAP Cement Dispatch",
+            "HDB Financial Service Pvt Ltd",
+            "S.I  LOGISTIC Pvt LTD",
+            "Ultra-Tech Cement Ltd",
+            "SAP/Cuff",
+            "P.G.D.C.A  Kurukshehra HR"
+        ],
+        "university": [
+            "Daoda  Polytechnic College",
+            "I I T T College of Engg"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Tehsil Garhshankar",
+            "Punjab-144523"
+        ],
+        "email": [
+            "E-Mail",
+            "srandhir77@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "8437429284"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "experience": 0.2361,
+            "education": 0.1727,
+            "dynamic personality": 0.7157,
+            "personality": 0.5485,
+            "jolly nature": 0.6753
+        },
+        "filename": "cv (364)_annotated.json"
+    }
+}

@@ -1,111 +1,141 @@
-import os
 import json
+import re
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import re
 from pathlib import Path
 
 # ==========================================
-# CONFIGURAÇÃO
+# CONFIGURAÇÃO DE CAMINHOS
 # ==========================================
-NAME = "Avaliacao_GliNER_Final_Capstone"
-PASTA_ORIGINAL = Path("data/raw/GliNER_test")
+# Usamos agora a pasta que criaste com os ficheiros filtrados
+PASTA_PROCESSED = Path("data/processed/raw_clean")
 PASTA_GLINER = Path("src/GliNER/output_test")
 PASTA_RELATORIO = Path("data/comparar_NER/GliNER")
 
-# Blacklist baseada nos teus logs de erro
-LIXO_GT = {
-    "com", "gmail", "work", "information", "technical", "technologies", 
-    "instructions", "salary", "material", "location", "use", "ensure", 
-    "can", "stream", "requirements", "activities", "success", "profile", 
-    "page", "date", "cv", "curriculum", "gender", "male", "female", 
-    "single", "married", "nationality", "academic", "training", "knowledge", 
-    "handling", "senior", "ltd", "parts", "experience", "m", "c", "scientist",
-    "engineer", "analyst", "science", "engineering", "technology", "object"
-}
-
 def clean_text(text):
     if not text: return ""
-    text = re.sub(r'\W+', '', str(text)).lower()
-    return text if len(text) > 1 or text in ["r", "c"] else ""
+    # Normalização para garantir que "Python" e "python" coincidam
+    return re.sub(r'\W+', '', str(text)).lower()
 
-def filtrar_redundancias_e_curtas(lista_skills):
-    """
-    Remove skills redundantes (Data dentro de Data Science) 
-    e palavras soltas que não fazem sentido sozinhas (Scientist, Engineer).
-    """
-    skills = sorted(list(set(lista_skills)), key=len, reverse=True)
-    filtradas = []
-    
-    for skill in skills:
-        s_lower = skill.lower().strip()
-        # Ignora palavras que sabemos serem lixo ou demasiado curtas/genéricas
-        if s_lower in LIXO_GT or len(s_lower) < 3:
-            if s_lower not in ["r", "c", "sql", "aws"]: # Whitelist de exceções
-                continue
-                
-        if not any(s_lower in f.lower() for f in filtradas):
-            filtradas.append(skill)
-            
-    return set(filtradas)
-
-def calcular_metricas_capstone(true_set, pred_set):
-    # 1. Filtramos o Ground Truth para manter apenas conceitos longos/reais
-    true_clean_raw = filtrar_redundancias_e_curtas(true_set)
-    true_clean = {clean_text(s) for s in true_clean_raw if clean_text(s)}
-    
-    # 2. Limpamos as previsões do GliNER
-    pred_clean = {clean_text(s) for s in pred_set if clean_text(s) and clean_text(s) not in LIXO_GT}
+def calcular_metricas(true_skills, pred_skills):
+    true_clean = {clean_text(s) for s in true_skills if clean_text(s)}
+    pred_clean = {clean_text(s) for s in pred_skills if clean_text(s)}
     
     if not true_clean:
-        return None, None, None, set(), set()
+        return None
 
-    tp = len(true_clean.intersection(pred_clean))
-    fp = len(pred_clean - true_clean)
-    fn = len(true_clean - pred_clean)
+    tp_set = true_clean.intersection(pred_clean)
+    fp_set = pred_clean - true_clean
+    fn_set = true_clean - pred_clean
+    
+    tp = len(tp_set)
+    fp = len(fp_set)
+    fn = len(fn_set)
     
     precision = tp / (tp + fp) if (tp + fp) > 0 else 0
     recall = tp / (tp + fn) if (tp + fn) > 0 else 0
     f1 = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
     
-    return precision, recall, f1, true_clean, pred_clean
+    return {
+        "precision": precision,
+        "recall": recall,
+        "f1": f1,
+        "tp_list": sorted(list(tp_set)),
+        "fp_list": sorted(list(fp_set)),
+        "fn_list": sorted(list(fn_set))
+    }
 
-def consolidar_avaliacao():
+def executar_estatisticas():
     PASTA_RELATORIO.mkdir(parents=True, exist_ok=True)
     resultados = []
     
-    for f_gliner in PASTA_GLINER.glob("*.json"):
-        nome_original = f_gliner.name.replace("extracted_", "")
-        caminho_original = PASTA_ORIGINAL / nome_original
+    print(f"🚀 Iniciando Comparação: {PASTA_PROCESSED.name} vs GliNER")
+
+    # Listar ficheiros na pasta processada
+    ficheiros_limpos = list(PASTA_PROCESSED.glob("*.json"))
+    
+    for f_gt in ficheiros_limpos:
+        # Procurar o correspondente no GliNER (que tem o prefixo extracted_)
+        f_pred = PASTA_GLINER / f"extracted_{f_gt.name}"
         
-        if not caminho_original.exists(): continue
-            
+        if not f_pred.exists():
+            continue
+
         try:
-            with open(caminho_original, 'r', encoding='utf-8') as f:
-                data_true = json.load(f)
-                text = data_true.get("text", "")
-                true_skills = {text[ann[0]:ann[1]].strip() for ann in data_true.get("annotations", []) if "SKILL" in str(ann[2]).upper()}
+            # 1. Carregar Real (Ground Truth filtrado)
+            with open(f_gt, 'r', encoding='utf-8') as f:
+                data_gt = json.load(f)
+                # Extraímos as skills diretamente das anotações
+                # Como usaste coordenadas, o texto no JSON já reflete a remoção
+                true_skills = []
+                for ann in data_gt.get("annotations", []):
+                    if "SKILL" in str(ann[2]).upper():
+                        # O texto da skill costuma estar no terceiro elemento da anotação
+                        # ou extraído via coordenadas do campo 'text'
+                        skill_val = data_gt["text"][ann[0]:ann[1]].strip()
+                        true_skills.append(skill_val)
 
-            with open(f_gliner, 'r', encoding='utf-8') as f:
+            # 2. Carregar Predição (GliNER)
+            with open(f_pred, 'r', encoding='utf-8') as f:
                 data_pred = json.load(f)
-                pred_skills = set(data_pred.get("skills", []))
+                pred_skills = data_pred.get("skills", [])
 
-            p, r, f1, t_clean, p_clean = calcular_metricas_capstone(true_skills, pred_skills)
+            # 3. Calcular
+            m = calcular_metricas(true_skills, pred_skills)
             
-            if p is not None:
-                resultados.append({"file": nome_original, "precision": p, "recall": r, "f1": f1})
+            if m:
+                # Debug visual para os casos com F1 baixo
+                if m["f1"] < 0.4:
+                    print("\n" + "─"*50)
+                    print(f"📄 FICHEIRO: {f_gt.name}")
+                    print(f"🎯 F1-SCORE: {m['f1']:.2%}")
+                    print(f"✅ [REAL (Annotations)]: {true_skills[:5]}...")
+                    print(f"🤖 [PRED (GliNER IA)]:   {pred_skills[:5]}...")
+                    if m['fn_list']: print(f"❌ Faltou (FN): {m['fn_list'][:3]}")
+                    if m['fp_list']: print(f"➕ Extra (FP):  {m['fp_list'][:3]}")
+                
+                resultados.append({
+                    "ficheiro": f_gt.name,
+                    "precision": m["precision"],
+                    "recall": m["recall"],
+                    "f1": m["f1"]
+                })
+
         except Exception as e:
-            print(f"❌ Erro em {nome_original}: {e}")
+            print(f"❌ Erro ao processar {f_gt.name}: {e}")
 
+    # 4. Consolidar e Gerar Gráficos
     df = pd.DataFrame(resultados)
-    if df.empty: return
+    if df.empty:
+        print("❌ Nenhum dado comparável encontrado.")
+        return
 
-    # Relatório final
-    print(f"\n✅ AVALIAÇÃO CAPSTONE FINALIZADA")
-    print(f"📍 Precision: {df['precision'].mean():.2%}")
-    print(f"📍 Recall:    {df['recall'].mean():.2%}")
-    print(f"📍 F1 Médio:  {df['f1'].mean():.2%}")
+    resumo = pd.DataFrame({
+        "Métrica": ["Precision", "Recall", "F1-Score"],
+        "Valor Médio": [df['precision'].mean(), df['recall'].mean(), df['f1'].mean()]
+    })
+
+    print("\n" + "="*40)
+    print(f"✅ SUCESSO: {len(df)} ficheiros analisados")
+    print(f"📍 Precision Média: {df['precision'].mean():.2%}")
+    print(f"📍 Recall Médio:    {df['recall'].mean():.2%}")
+    print(f"📍 F1-Score Médio:  {df['f1'].mean():.2%}")
+    print("="*40)
+
+    # Exportar resultados
+    df.to_csv(PASTA_RELATORIO / "metricas_finais_limpas.csv", index=False)
+    
+    # Gráfico Final
+    plt.figure(figsize=(8, 6))
+    sns.set_theme(style="whitegrid")
+    ax = sns.barplot(x="Métrica", y="Valor Médio", data=resumo, hue="Métrica", palette="magma", legend=False)
+    plt.ylim(0, 1.1)
+    for p in ax.patches:
+        ax.annotate(f'{p.get_height():.2f}', (p.get_x() + p.get_width() / 2., p.get_height()),
+                   ha='center', va='center', xytext=(0, 9), textcoords='offset points')
+    plt.title("Performance GliNER vs Ground Truth (Versão Limpa)")
+    plt.savefig(PASTA_RELATORIO / "grafico_final_limpo.png")
 
 if __name__ == "__main__":
-    consolidar_avaliacao()
+    executar_estatisticas()

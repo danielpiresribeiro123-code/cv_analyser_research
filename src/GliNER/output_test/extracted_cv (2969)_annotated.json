@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "standard efficiency",
+        "Chemical Engineering",
+        "Simulation Packages",
+        "ASPEN HYSIS",
+        "HTRI",
+        "PDMS",
+        "Programming Languages",
+        "Basics of C",
+        "MS Office Word",
+        "Excel",
+        "PowerPointAcademic",
+        "Senior Secondary School Examination",
+        "Secondary School Examination",
+        "Certificate Courses",
+        "Process Design Engineering",
+        "PFD & P&ID"
+    ],
+    "professional_info": {
+        "person name": [
+            "ASHFAK AHMAD"
+        ],
+        "job title": [
+            "Production Engineer",
+            "plant manager"
+        ],
+        "company": [
+            "OREN HYDROCARBON PRIVATE LIMITED",
+            "Polly Anionic Cellulose (Technical & Purified Grade)",
+            "Lucknow Christian Inter College  Affiliated to Uttar Pradesh Board",
+            "Lalilta Inter College Chaukhara Affiliated to Uttar Pradesh Board",
+            "EDPTI"
+        ],
+        "university": [
+            "Annamalai University"
+        ],
+        "degree": [
+            "Bachelors of Engineering in Chemical Engineering"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-mail",
+            "contact2ashfak@gmail.com"
+        ],
+        "phone": [
+            "+91-8008162312",
+            "+91-7800128170"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "standard efficiency": 0.185,
+            "Chemical Engineering": 0.3569,
+            "Simulation Packages": 0.2844,
+            "ASPEN HYSIS": 0.608,
+            "HTRI": 0.4774,
+            "PDMS": 0.5542,
+            "Programming Languages": 0.2481,
+            "Basics of C": 0.7056,
+            "MS Office Word": 0.4589,
+            "Excel": 0.3634,
+            "PowerPointAcademic": 0.32,
+            "Senior Secondary School Examination": 0.6513,
+            "Secondary School Examination": 0.3493,
+            "Certificate Courses": 0.255,
+            "Process Design Engineering": 0.5972,
+            "PFD & P&ID": 0.3085
+        },
+        "filename": "cv (2969)_annotated.json"
+    }
+}

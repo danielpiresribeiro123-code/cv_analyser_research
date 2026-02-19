@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "C/o M. Sudalaiyandi",
+        "Maths and General Science",
+        "IGCSE British Curriculam",
+        "Careful lesson planner",
+        "Maths lab",
+        "Smart board",
+        "Strong interpersonal abilities",
+        "Well organized",
+        "Computer Skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mrs. M. Mutharam",
+            "mutharamkannan"
+        ],
+        "job title": [
+            "School Office Secretary",
+            "Excellent classroom manager",
+            "newly qualified teachers",
+            "Principal",
+            "Maths Supervisor"
+        ],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Experience",
+            "Seven years",
+            "Two years and Seven Months  Experience"
+        ],
+        "address": [
+            "S-13",
+            "Phase II",
+            "Ruby Valley Apartment",
+            "Vignesh Nagar Extn."
+        ],
+        "email": [
+            "00917358598668"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "C/o M. Sudalaiyandi": 0.259,
+            "Maths and General Science": 0.3779,
+            "IGCSE British Curriculam": 0.2597,
+            "Careful lesson planner": 0.2389,
+            "Maths lab": 0.2373,
+            "Smart board": 0.5111,
+            "Strong interpersonal abilities": 0.7071,
+            "Well organized": 0.1952,
+            "Computer Skills": 0.1554
+        },
+        "filename": "cv (1557)_annotated.json"
+    }
+}

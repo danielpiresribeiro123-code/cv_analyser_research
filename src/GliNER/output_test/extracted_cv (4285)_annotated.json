@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Skilled",
+        "successful",
+        "teaching",
+        "behavior modification",
+        "classroom management",
+        "skills",
+        "Skills",
+        "Microsoft office",
+        "modern classroom technology",
+        "Conflict Resolution Training",
+        "IEP familiarity",
+        "Organization/Planning",
+        "Positive learning environment",
+        "Student-centered learning",
+        "Lesson planning",
+        "Grading procedures",
+        "Technology integration",
+        "Punctual",
+        "Inquiry-based learning",
+        "Test proctoring",
+        "Work History",
+        "classroom managementÂ"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CLASSROOM TEACHER",
+            "Classroom Assistant"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "many years of classroom, experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Skilled": 0.1561,
+            "successful": 0.1514,
+            "teaching": 0.2611,
+            "behavior modification": 0.3232,
+            "classroom management": 0.7087,
+            "skills": 0.4309,
+            "Skills": 0.3679,
+            "Microsoft office": 0.7383,
+            "modern classroom technology": 0.3295,
+            "Conflict Resolution Training": 0.1686,
+            "IEP familiarity": 0.4803,
+            "Organization/Planning": 0.5378,
+            "Positive learning environment": 0.4042,
+            "Student-centered learning": 0.7051,
+            "Lesson planning": 0.6382,
+            "Grading procedures": 0.3675,
+            "Technology integration": 0.6201,
+            "Punctual": 0.3312,
+            "Inquiry-based learning": 0.6986,
+            "Test proctoring": 0.3514,
+            "Work History": 0.2352,
+            "classroom managementÂ": 0.5908
+        },
+        "filename": "cv (4285)_annotated.json"
+    }
+}

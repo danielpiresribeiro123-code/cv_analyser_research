@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "Server  Administration",
+        "IT experience",
+        "Active Directory",
+        "Server Administration",
+        "Windows 2000",
+        "2003Active Directory",
+        "Linux",
+        "windows",
+        "macintosh",
+        "logmein",
+        "team viewer",
+        "Ammyy",
+        "Event Viewer",
+        "Good Problem solving skills",
+        "Microsoft Certified Professional(XP )",
+        "Microsoft Professional",
+        "Microsoft Windows"
+    ],
+    "professional_info": {
+        "person name": [
+            "Vijay Jawre"
+        ],
+        "job title": [
+            "Desktop Admin",
+            "Remote Support Engineer",
+            "HR consultant",
+            "Technical Support engineer"
+        ],
+        "company": [
+            "Shriram Value Service pvt ltd.",
+            "Shriram value service",
+            "SVS",
+            "shriram finance group",
+            "shiram housing finance",
+            "shriram city",
+            "Shriram Housing Finance Ltd Mumbai"
+        ],
+        "university": [
+            "Guru tech Bahdur College"
+        ],
+        "degree": [
+            "Graduation"
+        ],
+        "years of experience": [
+            "4 years"
+        ],
+        "address": [
+            "Certification"
+        ],
+        "email": [
+            "Email",
+            "Gmail.com",
+            "B.Sc.( Eletronic)"
+        ],
+        "phone": [
+            "+91-9560949193/7828645532"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Server  Administration": 0.315,
+            "IT experience": 0.1835,
+            "Active Directory": 0.7405,
+            "Server Administration": 0.3122,
+            "Windows 2000": 0.7406,
+            "2003Active Directory": 0.2375,
+            "Linux": 0.9014,
+            "windows": 0.5815,
+            "macintosh": 0.8276,
+            "logmein": 0.588,
+            "team viewer": 0.6566,
+            "Ammyy": 0.611,
+            "Event Viewer": 0.1569,
+            "Good Problem solving skills": 0.1657,
+            "Microsoft Certified Professional(XP )": 0.8534,
+            "Microsoft Professional": 0.8441,
+            "Microsoft Windows": 0.511
+        },
+        "filename": "cv (3286)_annotated.json"
+    }
+}

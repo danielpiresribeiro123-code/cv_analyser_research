@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "IBMS",
+        "Integrated Building Management System",
+        "Building Automation System",
+        "Refrigeration Cycle",
+        "Psychrometric",
+        "HVAC",
+        "AHU",
+        "Chillers",
+        "Cooling",
+        "TFA",
+        "FCU",
+        "QUALIFICATION BOARD/UNIVERSITY PASSING YEAR DIVISION",
+        "DIPLOMA  (ME) PTU 2012",
+        "TECHNICAL SKILLS",
+        "Knowledge of  Upgradation of PC",
+        "MS Office",
+        "Metasys",
+        "English",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "ROHIT KUMAR PRASAD",
+            "Mr. HARICHARAN PRASAD"
+        ],
+        "job title": [
+            "OBJECTIVE"
+        ],
+        "company": [
+            "SOFCON INDIA PVT LTD",
+            "Sofcon, India Pvt. Ltd.",
+            "Zata Aircom"
+        ],
+        "university": [
+            "High school Bihar Board 2005"
+        ],
+        "degree": [
+            "Intermediate U.P. Board 2007"
+        ],
+        "years of experience": [
+            "EXPERIENCE",
+            "3 Year Experience"
+        ],
+        "address": [
+            "Address-Village-Mahuwari",
+            "Post-Mahuwari",
+            "Distric-Siwan",
+            "Noida"
+        ],
+        "email": [
+            "Email",
+            "rohitkumarprasad1988@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9939644677",
+            "7531985042"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "IBMS": 0.1972,
+            "Integrated Building Management System": 0.3109,
+            "Building Automation System": 0.1652,
+            "Refrigeration Cycle": 0.406,
+            "Psychrometric": 0.3809,
+            "HVAC": 0.3853,
+            "AHU": 0.169,
+            "Chillers": 0.2143,
+            "Cooling": 0.1827,
+            "TFA": 0.283,
+            "FCU": 0.2432,
+            "QUALIFICATION BOARD/UNIVERSITY PASSING YEAR DIVISION": 0.4304,
+            "DIPLOMA  (ME) PTU 2012": 0.7524,
+            "TECHNICAL SKILLS": 0.4104,
+            "Knowledge of  Upgradation of PC": 0.2182,
+            "MS Office": 0.6906,
+            "Metasys": 0.3452,
+            "English": 0.6134,
+            "Hindi": 0.707
+        },
+        "filename": "cv (1667)_annotated.json"
+    }
+}

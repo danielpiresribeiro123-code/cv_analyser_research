@@ -1,0 +1,107 @@
+{
+    "skills": [
+        "HTTPS",
+        "ENGLISH",
+        "ARABIC",
+        "HINDI",
+        "Project management",
+        "Site",
+        "Engineering",
+        "Construction",
+        "Layout & design",
+        "Relationship Management",
+        "Management",
+        "Labor",
+        "KEY SKILLS",
+        "Civil",
+        "Oil and Gas Facilities Maintenance",
+        "Process",
+        "PPM",
+        "Critical equipment",
+        "Electrical",
+        "HVAC",
+        "Civil and Landscaping",
+        "Computerized Facilities management System",
+        "CAFM",
+        "ISO 9001:2008",
+        "OHSAS 14001",
+        "PTW",
+        "LOTO",
+        "Confined Space entry",
+        "Structural and Interior of main",
+        "Screening clinic",
+        "underground shelter"
+    ],
+    "professional_info": {
+        "person name": [
+            "MUSTAFA AHMAD"
+        ],
+        "job title": [
+            "Trained internal auditor",
+            "CONSTRUCTION MANAGER",
+            "Construction M  anager",
+            "Site Manager",
+            "TRADE ENGINEER",
+            "PROJECT CO-COORDINATOR"
+        ],
+        "company": [
+            "RASGAS Company",
+            "Ras Laffan Industrial City Doha- Qatar",
+            "Qatar foundation",
+            "Shell GTL",
+            "FAWAZ REFRIGERATION KUWAIT",
+            "Keifan",
+            "Hawally",
+            "Adaliya & Jabriya Medical"
+        ],
+        "university": [
+            "Kuwait University"
+        ],
+        "degree": [],
+        "years of experience": [
+            "experience"
+        ],
+        "address": [],
+        "email": [
+            "mustafaemco@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 31,
+        "confidence_scores": {
+            "HTTPS": 0.2023,
+            "ENGLISH": 0.6797,
+            "ARABIC": 0.786,
+            "HINDI": 0.7483,
+            "Project management": 0.2129,
+            "Site": 0.405,
+            "Engineering": 0.5856,
+            "Construction": 0.6131,
+            "Layout & design": 0.3148,
+            "Relationship Management": 0.1502,
+            "Management": 0.3124,
+            "Labor": 0.3497,
+            "KEY SKILLS": 0.2387,
+            "Civil": 0.691,
+            "Oil and Gas Facilities Maintenance": 0.169,
+            "Process": 0.3387,
+            "PPM": 0.2255,
+            "Critical equipment": 0.1958,
+            "Electrical": 0.7067,
+            "HVAC": 0.6333,
+            "Civil and Landscaping": 0.5679,
+            "Computerized Facilities management System": 0.4468,
+            "CAFM": 0.3327,
+            "ISO 9001:2008": 0.9405,
+            "OHSAS 14001": 0.8109,
+            "PTW": 0.7176,
+            "LOTO": 0.808,
+            "Confined Space entry": 0.343,
+            "Structural and Interior of main": 0.2289,
+            "Screening clinic": 0.1965,
+            "underground shelter": 0.2704
+        },
+        "filename": "cv (2871)_annotated.json"
+    }
+}

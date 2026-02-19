@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "playful",
+        "Positive and cheerful",
+        "Active listener",
+        "Head Start program knowledge",
+        "Certified in Early Childhood Education",
+        "Infant, toddler and preschool curricula",
+        "Reliable",
+        "Approachable",
+        "Highly organized",
+        "standards",
+        "family style",
+        "Early Childhood Education",
+        "Early Childhood Professional Certificate",
+        "National Child Development Associate",
+        "infant",
+        "Early Childhood Professional Certification"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "ASSISTANT TEACHER",
+            "Childcare professional",
+            "Student Teacher",
+            "Assist teacher"
+        ],
+        "company": [
+            "Company Name",
+            "VPK",
+            "Fort Myers Institute of Technology",
+            "Special Olympics"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Experience"
+        ],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "playful": 0.1589,
+            "Positive and cheerful": 0.7154,
+            "Active listener": 0.7559,
+            "Head Start program knowledge": 0.299,
+            "Certified in Early Childhood Education": 0.2223,
+            "Infant, toddler and preschool curricula": 0.1648,
+            "Reliable": 0.7446,
+            "Approachable": 0.7718,
+            "Highly organized": 0.7528,
+            "standards": 0.2647,
+            "family style": 0.347,
+            "Early Childhood Education": 0.2036,
+            "Early Childhood Professional Certificate": 0.9243,
+            "National Child Development Associate": 0.6026,
+            "infant": 0.1893,
+            "Early Childhood Professional Certification": 0.9074
+        },
+        "filename": "cv (4465)_annotated.json"
+    }
+}

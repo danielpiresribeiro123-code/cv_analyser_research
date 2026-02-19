@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "Electrical Engineerin g",
+        "Electrical Engineering",
+        "CATIA V5",
+        "3D modeling"
+    ],
+    "professional_info": {
+        "person name": [
+            "Jennifer So"
+        ],
+        "job title": [
+            "Manufacturing Line Manager",
+            "Student Engineer Intern",
+            "Engineer  Assistant"
+        ],
+        "company": [
+            "EE 400D Robot Company",
+            "The Boei ng Company",
+            "LKK Manufacturing",
+            "The Boeing Company"
+        ],
+        "university": [
+            "California State University, Long Beach",
+            "University of California , Los Angeles"
+        ],
+        "degree": [
+            "Bachelor of Science",
+            "Bachelor of Arts in Psychology"
+        ],
+        "years of experience": [],
+        "address": [
+            "Address",
+            "1250 Bellflower Blvd.",
+            "Long Beach"
+        ],
+        "email": [
+            "Email",
+            "President"
+        ],
+        "phone": [
+            "Phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Electrical Engineerin g": 0.2502,
+            "Electrical Engineering": 0.7052,
+            "CATIA V5": 0.6946,
+            "3D modeling": 0.1619
+        },
+        "filename": "cv (1259)_annotated.json"
+    }
+}

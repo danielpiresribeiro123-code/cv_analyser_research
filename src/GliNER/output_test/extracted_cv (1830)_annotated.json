@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "Windows operating systems",
+        "Functional Skill Areas",
+        "Windows",
+        "Active Directory Administration",
+        "Windows OS",
+        "MS Office",
+        "Lotus Notes",
+        "Customer service oriented",
+        "Good communication skills",
+        "Efficient problem solving",
+        "Acronis Software",
+        "Microsoft  Office",
+        "Open",
+        "Office"
+    ],
+    "professional_info": {
+        "person name": [
+            "M.SEENI RAJA",
+            "MOHAMED"
+        ],
+        "job title": [
+            "Highly  skilled  professional",
+            "genuine team member",
+            "Desktop Engineer",
+            "VIP",
+            "System Administrator"
+        ],
+        "company": [
+            "Consolidated Gulf Company",
+            "Global Computers – Ramanathapuram"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "nine  years  of  experience"
+        ],
+        "address": [
+            "Bhagawath Singh Road"
+        ],
+        "email": [
+            "Email",
+            "outlook.com"
+        ],
+        "phone": [
+            "1/575-15",
+            "+91-9940837202",
+            "phone",
+            "Avaya  phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Windows operating systems": 0.4905,
+            "Functional Skill Areas": 0.2149,
+            "Windows": 0.2166,
+            "Active Directory Administration": 0.1918,
+            "Windows OS": 0.9061,
+            "MS Office": 0.7812,
+            "Lotus Notes": 0.8754,
+            "Customer service oriented": 0.2449,
+            "Good communication skills": 0.2381,
+            "Efficient problem solving": 0.1992,
+            "Acronis Software": 0.3206,
+            "Microsoft  Office": 0.8507,
+            "Open": 0.4024,
+            "Office": 0.2867
+        },
+        "filename": "cv (1830)_annotated.json"
+    }
+}

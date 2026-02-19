@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "proactive learner",
+        "MAT lab",
+        "PDMS",
+        "MEP",
+        "passionate involvement",
+        "leadership",
+        "communication skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHEIK MOHAMMED",
+            "Shiek  mohammed"
+        ],
+        "job title": [
+            "Testing and Commissioing Engineerin electrical engineer",
+            "graduate",
+            "Electrical And Electronics Engineer"
+        ],
+        "company": [],
+        "university": [
+            "Coimbatore Institute Of Engineering And Technology"
+        ],
+        "degree": [
+            "B.E(EEE) Degree"
+        ],
+        "years of experience": [],
+        "address": [
+            "Jinnah Nagar 5th St"
+        ],
+        "email": [
+            "E -mail",
+            "sheik.mohammed94@gmail.com"
+        ],
+        "phone": [
+            "Contact No",
+            "+971-522451026"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "proactive learner": 0.2696,
+            "MAT lab": 0.7139,
+            "PDMS": 0.603,
+            "MEP": 0.5528,
+            "passionate involvement": 0.2277,
+            "leadership": 0.5145,
+            "communication skills": 0.2079
+        },
+        "filename": "cv (2015)_annotated.json"
+    }
+}

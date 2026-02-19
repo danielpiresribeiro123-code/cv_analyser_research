@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "Male",
+        "Unmarried",
+        "Professional Qualification",
+        "AUTO CAD",
+        "MS Office",
+        "Academic Qualification",
+        "Matriculation (10th)",
+        "Personal Qualities",
+        "Positive approach",
+        "Confident and hard working",
+        "Effective supervision & Co-ordination",
+        "Good inter-personnel relation",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "SOHAIL AKHTAR",
+            "sohail1234535",
+            "Iss Mohammad",
+            "S/o  - ISS MOHAMMAD"
+        ],
+        "job title": [
+            "HVAC  FOREMAN",
+            "HVAC Foreman"
+        ],
+        "company": [
+            "CRIPS",
+            "RGPV",
+            "CLIMATE AIRCON ENGINEERS PVT LTD."
+        ],
+        "university": [
+            "B.S.E Board Bihar"
+        ],
+        "degree": [
+            "Bachelor  Of  Engineering  (MECHANICAL)",
+            "Intermediate (10+2)"
+        ],
+        "years of experience": [
+            "Total experience"
+        ],
+        "address": [
+            "Skype",
+            "Internet",
+            "Bhopal",
+            "E-67",
+            "4TH FLOOR",
+            "Kalandi Apartments",
+            "Abu Fazal Enclave",
+            "1Permanent Address"
+        ],
+        "email": [
+            "Email",
+            "s.akhtar854@gmail.com"
+        ],
+        "phone": [
+            "Mobile No",
+            "+91-8809354906",
+            "+91-8602986164"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Male": 0.2153,
+            "Unmarried": 0.3438,
+            "Professional Qualification": 0.2107,
+            "AUTO CAD": 0.3819,
+            "MS Office": 0.3234,
+            "Academic Qualification": 0.2487,
+            "Matriculation (10th)": 0.4329,
+            "Personal Qualities": 0.377,
+            "Positive approach": 0.4286,
+            "Confident and hard working": 0.399,
+            "Effective supervision & Co-ordination": 0.1949,
+            "Good inter-personnel relation": 0.3865,
+            "English": 0.56
+        },
+        "filename": "cv (2298)_annotated.json"
+    }
+}

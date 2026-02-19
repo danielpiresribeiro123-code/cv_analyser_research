@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "Zakir Nagar Okhla",
+        "technically focused",
+        "customer oriented",
+        "Design",
+        "Designing",
+        "international electrical standard",
+        "Designing of APFC",
+        "IEC",
+        "NEC",
+        "New Delhi"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHAYAQUE  SAFI",
+            "ShayaqueSafi"
+        ],
+        "job title": [
+            "Electrical engineer",
+            "Electrical  Engineer",
+            "Sr. Electrical  Engineer"
+        ],
+        "company": [
+            "Seashore Electromechanical W.L.L",
+            "Roshan Real Estate Pvt. Ltd",
+            "NBC"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "127/14",
+            "New Delhi"
+        ],
+        "email": [
+            "Email",
+            "Gmail.Com"
+        ],
+        "phone": [
+            "+91 9821922743"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Zakir Nagar Okhla": 0.281,
+            "technically focused": 0.2219,
+            "customer oriented": 0.1744,
+            "Design": 0.1604,
+            "Designing": 0.1537,
+            "international electrical standard": 0.6299,
+            "Designing of APFC": 0.1592,
+            "IEC": 0.8326,
+            "NEC": 0.6825,
+            "New Delhi": 0.2018
+        },
+        "filename": "cv (523)_annotated.json"
+    }
+}

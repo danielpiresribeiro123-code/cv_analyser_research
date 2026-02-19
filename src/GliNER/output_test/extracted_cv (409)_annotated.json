@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Knowledge",
+        "Solar systems",
+        "PV panels",
+        "solar charge controller",
+        "solar inverters",
+        "Elbow cold forming M/C",
+        "Automatic Band saw M/C",
+        "APFC",
+        "MCC",
+        "PCC",
+        "relay panels",
+        "Electrical and Electronics Engineering",
+        "knowledge"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mukesh Kumar Mahaur"
+        ],
+        "job title": [
+            "Designation",
+            "Project Coordinator",
+            "Electrical Engineer"
+        ],
+        "company": [
+            "Alvin Group of Companies",
+            "Seam Industries Limited",
+            "Shri Ramswaroop Memorial College",
+            "S. K. D. Academy Inter College",
+            "BHARAT HEAVY ELECTRICALS LIMITED"
+        ],
+        "university": [
+            "St. Ann’s Day Inter College"
+        ],
+        "degree": [
+            "Bachelor of Engineering"
+        ],
+        "years of experience": [
+            "Total Experience",
+            "2 year s11 Months"
+        ],
+        "address": [
+            "216, Ram Vihar Colony",
+            "Para Road",
+            "Rajaji Puram"
+        ],
+        "email": [
+            "+91-7376079941 E-mail Id :mukeshkumar1788@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Knowledge": 0.2583,
+            "Solar systems": 0.2319,
+            "PV panels": 0.3025,
+            "solar charge controller": 0.2131,
+            "solar inverters": 0.2475,
+            "Elbow cold forming M/C": 0.2057,
+            "Automatic Band saw M/C": 0.2503,
+            "APFC": 0.2182,
+            "MCC": 0.2681,
+            "PCC": 0.2424,
+            "relay panels": 0.1628,
+            "Electrical and Electronics Engineering": 0.2131,
+            "knowledge": 0.202
+        },
+        "filename": "cv (409)_annotated.json"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "professional ability",
+        "excellent analytical",
+        "organizational and communicational skills",
+        "COMPUTER SKILLS",
+        "WINDOW XP",
+        "WINDOW-8",
+        "MS Office",
+        "Computer Operating",
+        "SPECIALISATION",
+        "standard",
+        "STRENGTHS",
+        "Driving",
+        "male",
+        "MARITAL STATUS",
+        "single",
+        "english",
+        "hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAHIL GULATI",
+            "darshan lal gulati",
+            "INDIAN"
+        ],
+        "job title": [
+            "CAREER OBJECTIVE"
+        ],
+        "company": [
+            "organization"
+        ],
+        "university": [
+            "doon valley institute",
+            "karnal",
+            "s.a.jain.sr.sec. school"
+        ],
+        "degree": [
+            "B.Tech",
+            "Matriculation"
+        ],
+        "years of experience": [
+            "AGE",
+            "27 years"
+        ],
+        "address": [
+            "134003"
+        ],
+        "email": [
+            "Email",
+            "sahil.mechamb@gmail.com"
+        ],
+        "phone": [
+            "mobile     no.-09466451951"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "professional ability": 0.1716,
+            "excellent analytical": 0.2259,
+            "organizational and communicational skills": 0.1807,
+            "COMPUTER SKILLS": 0.3652,
+            "WINDOW XP": 0.6324,
+            "WINDOW-8": 0.4553,
+            "MS Office": 0.8102,
+            "Computer Operating": 0.3497,
+            "SPECIALISATION": 0.1683,
+            "standard": 0.1605,
+            "STRENGTHS": 0.1689,
+            "Driving": 0.1752,
+            "male": 0.2998,
+            "MARITAL STATUS": 0.1923,
+            "single": 0.3131,
+            "english": 0.5333,
+            "hindi": 0.6407
+        },
+        "filename": "cv (3335)_annotated.json"
+    }
+}

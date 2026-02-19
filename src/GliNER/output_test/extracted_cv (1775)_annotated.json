@@ -1,0 +1,52 @@
+{
+    "skills": [
+        "Civil Engineering",
+        "Personal  success",
+        "Site management",
+        "method of statements"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAFDAR HASHMI"
+        ],
+        "job title": [
+            "CIVIL FOREMAN",
+            "Design and Building Contractor"
+        ],
+        "company": [
+            "lnterarc Qatar W.L.L",
+            "LUSAIL DEVELOPMENT",
+            "DOHA METRO RED LINE NORTH",
+            "LUSAIL TRANSIT SYSTEM",
+            "QDVC",
+            "Qatar RAILWAYS COMPANY",
+            "ARAB ENGINEERING BIERUE"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "2 YEARS 2 months"
+        ],
+        "address": [
+            "New Delhi",
+            "Lusail city Pearl Metro station",
+            "Doha Qatar"
+        ],
+        "email": [
+            "safdarhashmi121@gmail.com",
+            "+918468083495",
+            "+918586041889"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Civil Engineering": 0.4433,
+            "Personal  success": 0.1823,
+            "Site management": 0.2689,
+            "method of statements": 0.4005
+        },
+        "filename": "cv (1775)_annotated.json"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "Mahindra Aura New",
+        "Building + Floor",
+        "Engineering Management",
+        "Facility Management",
+        "CAM",
+        "Manpower",
+        "Snagging",
+        "Joint inspection",
+        "Security",
+        "Soft services",
+        "Horticulture"
+    ],
+    "professional_info": {
+        "person name": [
+            "PARVEEN VASHISTH"
+        ],
+        "job title": [
+            "Sr.",
+            "Engineer",
+            "FE Tech.",
+            "Asstt. Engineer",
+            "Sr. Sec.",
+            "MDU ROHTAK",
+            "M/S",
+            "Shift Engineer"
+        ],
+        "company": [
+            "CUSHMAN & WAKEFIELD",
+            "ALIGN FACILITY",
+            "INTELENET",
+            "GLOBAL SERVICES",
+            "Ansal Plaza"
+        ],
+        "university": [
+            "Education Board/Univ.",
+            "HBSE",
+            "CBSE"
+        ],
+        "degree": [],
+        "years of experience": [
+            "5 years"
+        ],
+        "address": [
+            "Durga Bhawan",
+            "Near Plot no.- 125",
+            "Udyog Vihar",
+            "Phase-1",
+            "Palam Vihar",
+            "110 A New Palam Vihar"
+        ],
+        "email": [
+            "Email",
+            "pvashisth2538@gmail.com",
+            "B.TECH(Elect, rical Engg.)"
+        ],
+        "phone": [
+            "+91 –9821763949"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Mahindra Aura New": 0.1877,
+            "Building + Floor": 0.191,
+            "Engineering Management": 0.3375,
+            "Facility Management": 0.3277,
+            "CAM": 0.3605,
+            "Manpower": 0.332,
+            "Snagging": 0.2349,
+            "Joint inspection": 0.1815,
+            "Security": 0.2904,
+            "Soft services": 0.3561,
+            "Horticulture": 0.2628
+        },
+        "filename": "cv (4102)_annotated.json"
+    }
+}

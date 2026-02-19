@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "APPLIED ELECTRONICS & INSTRUMENTATION",
+        "ENGINEERING",
+        "Committed",
+        "dedicated people",
+        "key player",
+        "team member",
+        "Ideal candidate",
+        "drive",
+        "initiative",
+        "responsibility",
+        "challenge",
+        "MALE",
+        "UNMARRIED",
+        "ENGLISH",
+        "BENGALI",
+        "HINDI",
+        "APPLIED ELECTRONICS &",
+        "EngineeringApplied Electronics, And Instrumentation",
+        "Technical Skills",
+        "Sensors & Transducers"
+    ],
+    "professional_info": {
+        "person name": [
+            "KRISHANU SEN",
+            "INDIAN"
+        ],
+        "job title": [
+            "Electrical Engineer",
+            "Electrical & Instrumentation Engineer"
+        ],
+        "company": [
+            "Samay Construction Pvt. Ltd."
+        ],
+        "university": [
+            "UNIVERSITY INSTITUTE OF TECHNOLOGY",
+            "U.I.T",
+            "BURDWAN UNIVERSITY"
+        ],
+        "degree": [
+            "B.E",
+            "BACHELOR OF ENGINEERING",
+            "Bachelor Of"
+        ],
+        "years of experience": [
+            "6 Years"
+        ],
+        "address": [
+            "BAJEPRATAPPUR",
+            "PIN – 713101",
+            "WEST BENGAL"
+        ],
+        "email": [
+            "Email",
+            "Krishanusen.krishanu@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91- 9474553123/+91-9647496690"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "APPLIED ELECTRONICS & INSTRUMENTATION": 0.4062,
+            "ENGINEERING": 0.4,
+            "Committed": 0.3515,
+            "dedicated people": 0.4673,
+            "key player": 0.2631,
+            "team member": 0.4224,
+            "Ideal candidate": 0.3601,
+            "drive": 0.3153,
+            "initiative": 0.307,
+            "responsibility": 0.2983,
+            "challenge": 0.2344,
+            "MALE": 0.3502,
+            "UNMARRIED": 0.2973,
+            "ENGLISH": 0.5037,
+            "BENGALI": 0.649,
+            "HINDI": 0.7059,
+            "APPLIED ELECTRONICS &": 0.2631,
+            "EngineeringApplied Electronics, And Instrumentation": 0.2796,
+            "Technical Skills": 0.2293,
+            "Sensors & Transducers": 0.25
+        },
+        "filename": "cv (2023)_annotated.json"
+    }
+}

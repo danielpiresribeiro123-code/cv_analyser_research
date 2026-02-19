@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "C.P.T.",
+        "Diploma In Office Automation & Publishing",
+        "LANGUAGES",
+        "English",
+        "Normal  reading",
+        "writing and speaking",
+        "Hindi",
+        "Excellent reading",
+        "COMPUTER  SKILLS",
+        "WinXp",
+        "Win7",
+        "Win8",
+        "Win10",
+        "Microsoft Office",
+        "Word",
+        "Excel",
+        "Tally",
+        "Operating System",
+        "STRENGTHS",
+        "Management"
+    ],
+    "professional_info": {
+        "person name": [
+            "AMAR CHAND SONI"
+        ],
+        "job title": [
+            "Sales  Assistant",
+            "Computer Operator",
+            "Selling"
+        ],
+        "company": [
+            "Mahadev Motors",
+            "Harsor",
+            "Hero Motocorp"
+        ],
+        "university": [
+            "Rajasthan Board",
+            "The Institute of Chartered Accountants of India"
+        ],
+        "degree": [
+            "D.O.B.",
+            "Matric",
+            "Intermediate"
+        ],
+        "years of experience": [
+            "1 year"
+        ],
+        "address": [
+            "Ajmer",
+            "New Delhi"
+        ],
+        "email": [
+            "Email",
+            "amarchandsoni01 @gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 9610700901"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "C.P.T.": 0.5474,
+            "Diploma In Office Automation & Publishing": 0.6112,
+            "LANGUAGES": 0.1602,
+            "English": 0.6319,
+            "Normal  reading": 0.2912,
+            "writing and speaking": 0.245,
+            "Hindi": 0.8257,
+            "Excellent reading": 0.2481,
+            "COMPUTER  SKILLS": 0.2503,
+            "WinXp": 0.9464,
+            "Win7": 0.9196,
+            "Win8": 0.9011,
+            "Win10": 0.9161,
+            "Microsoft Office": 0.5205,
+            "Word": 0.2803,
+            "Excel": 0.2005,
+            "Tally": 0.4291,
+            "Operating System": 0.3858,
+            "STRENGTHS": 0.2013,
+            "Management": 0.2372
+        },
+        "filename": "cv (521)_annotated.json"
+    }
+}

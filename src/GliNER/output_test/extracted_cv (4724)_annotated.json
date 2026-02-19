@@ -1,0 +1,100 @@
+{
+    "skills": [
+        "human resources",
+        "conflict resolution",
+        "international relations",
+        "HR policy and organizational design",
+        "job analysis",
+        "employee management",
+        "recruitment/selection process",
+        "benefits/compensation",
+        "contract negotiations",
+        "performance management",
+        "training/development",
+        "strategic planning",
+        "labor relations",
+        "occupational health & safety",
+        "pay equity",
+        "human resources management",
+        "Functional Expertise",
+        "Learning & development",
+        "Performance reviews",
+        "Employee welfare",
+        "Talent management",
+        "Organization leadership",
+        "Risk management",
+        "Microsoft Office",
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Data Track Time and Attendance Software",
+        "Electronic Data Interchange (EDI) Software",
+        "employee benefit plans",
+        "career development programs"
+    ],
+    "professional_info": {
+        "person name": [
+            "I"
+        ],
+        "job title": [
+            "HUMAN RESOURCES SUPERVISOR",
+            "human resources & business administrator",
+            "supervisors",
+            "management",
+            "managers",
+            "Assistant Manager"
+        ],
+        "company": [
+            "Company Name",
+            "company"
+        ],
+        "university": [],
+        "degree": [
+            "post-graduate background"
+        ],
+        "years of experience": [
+            "10 years",
+            "progressive experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 31,
+        "confidence_scores": {
+            "human resources": 0.1857,
+            "conflict resolution": 0.368,
+            "international relations": 0.428,
+            "HR policy and organizational design": 0.1956,
+            "job analysis": 0.3236,
+            "employee management": 0.5276,
+            "recruitment/selection process": 0.2558,
+            "benefits/compensation": 0.2878,
+            "contract negotiations": 0.1799,
+            "performance management": 0.353,
+            "training/development": 0.5374,
+            "strategic planning": 0.6742,
+            "labor relations": 0.4101,
+            "occupational health & safety": 0.3598,
+            "pay equity": 0.3262,
+            "human resources management": 0.1661,
+            "Functional Expertise": 0.277,
+            "Learning & development": 0.4961,
+            "Performance reviews": 0.2611,
+            "Employee welfare": 0.327,
+            "Talent management": 0.4216,
+            "Organization leadership": 0.3906,
+            "Risk management": 0.2941,
+            "Microsoft Office": 0.5598,
+            "Word": 0.3661,
+            "Excel": 0.2585,
+            "PowerPoint": 0.4427,
+            "Data Track Time and Attendance Software": 0.4676,
+            "Electronic Data Interchange (EDI) Software": 0.3312,
+            "employee benefit plans": 0.2047,
+            "career development programs": 0.1937
+        },
+        "filename": "cv (4724)_annotated.json"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "Payroll",
+        "Management information system",
+        "Ms Office",
+        "Ms Access",
+        "Excel",
+        "Word",
+        "PowerPoint",
+        "Accounting package",
+        "Tally9"
+    ],
+    "professional_info": {
+        "person name": [
+            "ATHAVUL JAWAD"
+        ],
+        "job title": [
+            "Senior Accountant"
+        ],
+        "company": [
+            "Info-Drive Software LLC",
+            "Openwave Computing (M) Sdn Bhd"
+        ],
+        "university": [
+            "University of Madras"
+        ],
+        "degree": [
+            "Bachelor Of Commerce",
+            "Master of Business Administration (Finance)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Dubai"
+        ],
+        "email": [
+            "Email",
+            "athavul@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+971 52 678 8286"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Payroll": 0.2016,
+            "Management information system": 0.3371,
+            "Ms Office": 0.5872,
+            "Ms Access": 0.5074,
+            "Excel": 0.3685,
+            "Word": 0.5232,
+            "PowerPoint": 0.543,
+            "Accounting package": 0.158,
+            "Tally9": 0.4338
+        },
+        "filename": "cv (1736)_annotated.json"
+    }
+}

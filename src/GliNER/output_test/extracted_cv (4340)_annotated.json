@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "Accomplished communicator",
+        "mediates effectively",
+        "Proficient",
+        "management",
+        "training",
+        "project management",
+        "strong relationships",
+        "high-quality leadership",
+        "Spreadsheet management",
+        "POS systems",
+        "Microsoft Office",
+        "proficiencyÂ",
+        "MS Office Suite",
+        "Microsoft Excel certified",
+        "QuickBooks",
+        "employee training",
+        "Invoice processing",
+        "Advanced clerical knowledge",
+        "Microsoft excel",
+        "Marsha systemFosse system",
+        "Experience"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INSURANCE SPECIALIST",
+            "Medical Billing",
+            "Administrative support specialist",
+            "Expert",
+            "agency management",
+            "Front desk agent"
+        ],
+        "company": [
+            "Company Name",
+            "agency"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [
+            "mail",
+            "e-mail"
+        ],
+        "phone": [
+            "telephone",
+            "fax"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Accomplished communicator": 0.3572,
+            "mediates effectively": 0.2317,
+            "Proficient": 0.2372,
+            "management": 0.2914,
+            "training": 0.1993,
+            "project management": 0.5539,
+            "strong relationships": 0.247,
+            "high-quality leadership": 0.3123,
+            "Spreadsheet management": 0.3026,
+            "POS systems": 0.4605,
+            "Microsoft Office": 0.2241,
+            "proficiencyÂ": 0.201,
+            "MS Office Suite": 0.69,
+            "Microsoft Excel certified": 0.676,
+            "QuickBooks": 0.4336,
+            "employee training": 0.1771,
+            "Invoice processing": 0.4512,
+            "Advanced clerical knowledge": 0.5436,
+            "Microsoft excel": 0.3333,
+            "Marsha systemFosse system": 0.1897,
+            "Experience": 0.175
+        },
+        "filename": "cv (4340)_annotated.json"
+    }
+}

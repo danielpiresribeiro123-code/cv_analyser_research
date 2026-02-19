@@ -1,0 +1,108 @@
+{
+    "skills": [
+        "Business Management",
+        "healthcare",
+        "professional Skill",
+        "Skills",
+        "Chinese",
+        "English",
+        "Japanese",
+        "Professional Skills",
+        "Microsoft Office",
+        "Excel",
+        "Power Point",
+        "Word",
+        "SQL",
+        "Adobe Suit",
+        "Flash",
+        "Photoshop",
+        "Illustrator",
+        "3D MaxÂ",
+        "PHP",
+        "Java",
+        "C#",
+        "Visual Basic",
+        "HTML",
+        "Cording",
+        "Programming",
+        "Customer relationship management (CRM) ERP System",
+        "RFID",
+        "E-",
+        "Commerce",
+        "Electronic Product Code (EPC)",
+        "Human Resources",
+        "International Trade",
+        "SEM",
+        "analysis",
+        "QMS Statistics",
+        "ER",
+        "Facebook"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "business analyst",
+            "Chief Executive Officer"
+        ],
+        "company": [
+            "Company Name",
+            "State",
+            "Tourism Bureau"
+        ],
+        "university": [],
+        "degree": [
+            "MBA graduate"
+        ],
+        "years of experience": [
+            "Experience"
+        ],
+        "address": [],
+        "email": [
+            "Outlook"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 37,
+        "confidence_scores": {
+            "Business Management": 0.2417,
+            "healthcare": 0.2604,
+            "professional Skill": 0.2207,
+            "Skills": 0.1582,
+            "Chinese": 0.8087,
+            "English": 0.8273,
+            "Japanese": 0.7283,
+            "Professional Skills": 0.187,
+            "Microsoft Office": 0.5684,
+            "Excel": 0.3219,
+            "Power Point": 0.3844,
+            "Word": 0.3517,
+            "SQL": 0.307,
+            "Adobe Suit": 0.6546,
+            "Flash": 0.4266,
+            "Photoshop": 0.5448,
+            "Illustrator": 0.5331,
+            "3D MaxÂ": 0.5731,
+            "PHP": 0.6478,
+            "Java": 0.8228,
+            "C#": 0.7356,
+            "Visual Basic": 0.7242,
+            "HTML": 0.4588,
+            "Cording": 0.2537,
+            "Programming": 0.4209,
+            "Customer relationship management (CRM) ERP System": 0.6942,
+            "RFID": 0.378,
+            "E-": 0.1745,
+            "Commerce": 0.2219,
+            "Electronic Product Code (EPC)": 0.2087,
+            "Human Resources": 0.1513,
+            "International Trade": 0.173,
+            "SEM": 0.1586,
+            "analysis": 0.2191,
+            "QMS Statistics": 0.2347,
+            "ER": 0.2145,
+            "Facebook": 0.1709
+        },
+        "filename": "cv (4430)_annotated.json"
+    }
+}

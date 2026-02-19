@@ -1,0 +1,42 @@
+{
+    "skills": [
+        "Hospitality Management",
+        "Skills",
+        "company standards"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT TO OWNER",
+            "PRESIDENT",
+            "BANQUET & CATERING DIRECTOR",
+            "GENERAL MANAGER",
+            "supervisors",
+            "VENDOR & PURCHASING SUPERVISOR"
+        ],
+        "company": [
+            "City",
+            "Company Name",
+            "State Hotel, Restaurant & Marina"
+        ],
+        "university": [
+            "Florida International University"
+        ],
+        "degree": [
+            "Bachelors Degree"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "Hospitality Management": 0.2941,
+            "Skills": 0.1918,
+            "company standards": 0.3937
+        },
+        "filename": "cv (4281)_annotated.json"
+    }
+}

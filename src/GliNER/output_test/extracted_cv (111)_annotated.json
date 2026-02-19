@@ -1,0 +1,50 @@
+{
+    "skills": [],
+    "professional_info": {
+        "person name": [
+            "AFTAB AHMAD",
+            "Mr.Sarfaraz Ahmad"
+        ],
+        "job title": [
+            "HVAC site supervisor",
+            "site &design supervisor",
+            "Quality Assurance Engineer"
+        ],
+        "company": [
+            "Skyline Infra Enviro Pvt Ltd",
+            "NTPC",
+            "Intermarc Interior Pvt Ltd",
+            "M/s Neumann Components Pvt Ltd",
+            "HVAC Projects,Operation &Maintenance company",
+            "Intermarc interiors pvt ltd",
+            "M/S  Neumann Components  Pvt  Ltd",
+            "L.G Electronics Ltd"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Six month experience"
+        ],
+        "address": [
+            "N-714",
+            "Moh-Qazizaadgaan",
+            "Chandpur",
+            "Distt -Bijnor(UP)",
+            "Odisa"
+        ],
+        "email": [
+            "Email",
+            "aftab.haadi@gmail.com"
+        ],
+        "phone": [
+            "Mob No.",
+            "+91 9927258898",
+            "7752068571"
+        ]
+    },
+    "metadata": {
+        "total_skills": 0,
+        "confidence_scores": {},
+        "filename": "cv (111)_annotated.json"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "conscience",
+        "H.S.C  Science Math’s stream",
+        "S.S.C  All subject",
+        "AREA OF INTEREST",
+        "Designing  software",
+        "vacuum  paddle refrigerator",
+        "STRENGTH S",
+        "Self Motivated",
+        "Quick Learner",
+        "Flexi ble and hard worker",
+        "Leadership",
+        "HOBBIES"
+    ],
+    "professional_info": {
+        "person name": [
+            "NIKHIL KUMAR"
+        ],
+        "job title": [
+            "Project Representative"
+        ],
+        "company": [
+            "SM INT COLL M",
+            "BOSCH training centre",
+            "Rail coach  factory  Kapurthala",
+            "Rail coach manufacturer"
+        ],
+        "university": [
+            "JNU JAIPUR",
+            "Jaipur  UNIVERSITY"
+        ],
+        "degree": [
+            "B. Tech  Mechanical Engineering"
+        ],
+        "years of experience": [
+            "30 Days"
+        ],
+        "address": [
+            "Kotana road",
+            "Street No. 1"
+        ],
+        "email": [
+            "Email",
+            "nikhil14feb1994 @gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 7062324930",
+            "Pin Code – 250611"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "conscience": 0.3549,
+            "H.S.C  Science Math’s stream": 0.4018,
+            "S.S.C  All subject": 0.2562,
+            "AREA OF INTEREST": 0.2105,
+            "Designing  software": 0.1755,
+            "vacuum  paddle refrigerator": 0.2647,
+            "STRENGTH S": 0.3292,
+            "Self Motivated": 0.3517,
+            "Quick Learner": 0.3572,
+            "Flexi ble and hard worker": 0.2656,
+            "Leadership": 0.2754,
+            "HOBBIES": 0.1638
+        },
+        "filename": "cv (1816)_annotated.json"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "Computer engineering",
+        "new Skills",
+        "Diploma in Computer certificate application",
+        "Diploma in Electrical & Communication",
+        "SAFETY AND QUALITY RESPONSIBILITIES",
+        "Company standards of Quality",
+        "System requirements",
+        "Fire Alarm System & P.A. System",
+        "Access Control System",
+        "EBI",
+        "CCTV Camera DVM System",
+        "DVR System",
+        "VESDA system",
+        "Microsoft office",
+        "MS Words",
+        "MS Excel",
+        "MS Power point"
+    ],
+    "professional_info": {
+        "person name": [
+            "Farman Ali"
+        ],
+        "job title": [
+            "BMS Operator",
+            "Department /Project",
+            "FM Operations",
+            "Electrical Engineer",
+            "Facility Manager"
+        ],
+        "company": [
+            "ST Microelectronic",
+            "Honeywell",
+            "CBRE",
+            "Strabag",
+            "MetLife"
+        ],
+        "university": [
+            "UP Board",
+            "Kanpur University"
+        ],
+        "degree": [
+            "Graduate"
+        ],
+        "years of experience": [
+            "One year"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "farmanalimetlife@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Computer engineering": 0.2775,
+            "new Skills": 0.2107,
+            "Diploma in Computer certificate application": 0.6576,
+            "Diploma in Electrical & Communication": 0.7679,
+            "SAFETY AND QUALITY RESPONSIBILITIES": 0.1943,
+            "Company standards of Quality": 0.4609,
+            "System requirements": 0.2076,
+            "Fire Alarm System & P.A. System": 0.1613,
+            "Access Control System": 0.1688,
+            "EBI": 0.1542,
+            "CCTV Camera DVM System": 0.2177,
+            "DVR System": 0.1625,
+            "VESDA system": 0.1579,
+            "Microsoft office": 0.5925,
+            "MS Words": 0.5781,
+            "MS Excel": 0.4445,
+            "MS Power point": 0.3662
+        },
+        "filename": "cv (14)_annotated.json"
+    }
+}

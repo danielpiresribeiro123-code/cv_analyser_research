@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "Machine Learning",
+        "Data Science",
+        "Analytics",
+        "data",
+        "SKILLS",
+        "Python",
+        "SQL",
+        "Artificial Intelligence",
+        "Business",
+        "Data Extraction",
+        "Analysis",
+        "Haskell",
+        "Flutter",
+        "Android",
+        "EDUCATION",
+        "Landscape Classification",
+        "MobileNetV2"
+    ],
+    "professional_info": {
+        "person name": [
+            "EDUARDO GOMEZ"
+        ],
+        "job title": [
+            "junior developer",
+            "Engineer",
+            "team player",
+            "MACHINE LEARNING DEVELOPER",
+            "DEVELOPER"
+        ],
+        "company": [
+            "ADSENSE MEDIA"
+        ],
+        "university": [
+            "D&D UNIVERSITY",
+            "DAMAN AND DIU",
+            "JOHN HOPKINS UNIVERSITYPROJECTS"
+        ],
+        "degree": [
+            "B.TECH"
+        ],
+        "years of experience": [
+            "EXPERIENCE"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Machine Learning": 0.6188,
+            "Data Science": 0.5749,
+            "Analytics": 0.5554,
+            "data": 0.3018,
+            "SKILLS": 0.2043,
+            "Python": 0.9842,
+            "SQL": 0.4694,
+            "Artificial Intelligence": 0.5228,
+            "Business": 0.2547,
+            "Data Extraction": 0.3923,
+            "Analysis": 0.3334,
+            "Haskell": 0.9349,
+            "Flutter": 0.505,
+            "Android": 0.8197,
+            "EDUCATION": 0.1688,
+            "Landscape Classification": 0.3241,
+            "MobileNetV2": 0.5058
+        },
+        "filename": "cv (4971)_annotated.json"
+    }
+}

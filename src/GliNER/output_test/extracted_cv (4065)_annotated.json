@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "Course on computer concepts (CCC)",
+        "MS Office",
+        "Basic knowledge of Computer",
+        "Gender",
+        "Marital Status",
+        "Unmarried",
+        "Hindi",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAVINDAR SINGH RATHAUR",
+            "Sh. Shiv Kumar Rathaur",
+            "Indian"
+        ],
+        "job title": [
+            "O.E.T.",
+            "Service Engineer",
+            "Male"
+        ],
+        "company": [
+            "High School UP Board Allahabad",
+            "Intermediate UP Board Allahabad",
+            "Diploma in Mechanical, Engg. (Automobile)Uttar Pradesh Board",
+            "Munjal Showa Ltd. Gurgaon",
+            "Svam Power plant Ltd Gurgaon"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "WORK EXPERIENCE",
+            "1 year Experience"
+        ],
+        "address": [
+            "Vill & Post- Simhara Kasimpur",
+            "Distt- Jalaun (U.P)- 285130DECLARATION"
+        ],
+        "email": [
+            "Email ID",
+            "ravindarsinghrathaur@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Course on computer concepts (CCC)": 0.3755,
+            "MS Office": 0.8165,
+            "Basic knowledge of Computer": 0.3531,
+            "Gender": 0.1557,
+            "Marital Status": 0.2473,
+            "Unmarried": 0.3273,
+            "Hindi": 0.7283,
+            "English": 0.7476
+        },
+        "filename": "cv (4065)_annotated.json"
+    }
+}

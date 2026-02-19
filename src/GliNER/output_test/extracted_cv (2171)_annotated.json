@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "leadership  qualities",
+        "Intermediate",
+        "ITI (Welder Trade) One Year Certificate",
+        "Sex",
+        "Male",
+        "Marital Status",
+        "Unmarried",
+        "Language Known",
+        "Hindi",
+        "Hobbies",
+        "Listening to Music"
+    ],
+    "professional_info": {
+        "person name": [
+            "Iqbal Ahmad",
+            "Muslim",
+            "Indian"
+        ],
+        "job title": [
+            "responsible  position"
+        ],
+        "company": [],
+        "university": [
+            "CURRICULUM-VITAE",
+            "U.P. Board Allahabad"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "98A",
+            "Chandra Nagar",
+            "Lal Bangla",
+            "Mob."
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "leadership  qualities": 0.2988,
+            "Intermediate": 0.6838,
+            "ITI (Welder Trade) One Year Certificate": 0.8556,
+            "Sex": 0.3033,
+            "Male": 0.4183,
+            "Marital Status": 0.3377,
+            "Unmarried": 0.3967,
+            "Language Known": 0.2116,
+            "Hindi": 0.8597,
+            "Hobbies": 0.2423,
+            "Listening to Music": 0.3153
+        },
+        "filename": "cv (2171)_annotated.json"
+    }
+}

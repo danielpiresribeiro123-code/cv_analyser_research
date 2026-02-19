@@ -1,0 +1,100 @@
+{
+    "skills": [
+        "professional skills",
+        "effective/creative manner",
+        "Marketing",
+        "Higher Secondary Certificate (HSC)",
+        "Business Studies",
+        "Secondary School Certificate (SSC)",
+        "IELTS",
+        "Ability to work independently on multiple tasks",
+        "time sensitiveness",
+        "self-motivated",
+        "enthusiastic team player",
+        "personal drive",
+        "initiative",
+        "Ability to interact with all levels of employees",
+        "courteous",
+        "helpful",
+        "Working knowledge",
+        "Microsoft Office applications",
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Internet browsing",
+        "Interpersonal Skills",
+        "confidentiality",
+        "Listens",
+        "Ethics",
+        "Treats people with respect",
+        "inspires the trust of others",
+        "Organizational Support"
+    ],
+    "professional_info": {
+        "person name": [
+            "Md. MijanurRahman"
+        ],
+        "job title": [
+            "responsible job",
+            "senior executives"
+        ],
+        "company": [
+            "company",
+            "Comilla"
+        ],
+        "university": [
+            "DarulIhsan University",
+            "Dalal Bazar Degree College",
+            "Kaman KholaOliUllah Muslim Polytechnic Academy",
+            "Cambridge University"
+        ],
+        "degree": [
+            "Bachelor of Business Administration",
+            "BBA"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Mobile",
+            "008801779427505",
+            "E-Mail",
+            "masum00@yahoo.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 29,
+        "confidence_scores": {
+            "professional skills": 0.2606,
+            "effective/creative manner": 0.1508,
+            "Marketing": 0.7292,
+            "Higher Secondary Certificate (HSC)": 0.3392,
+            "Business Studies": 0.6976,
+            "Secondary School Certificate (SSC)": 0.6012,
+            "IELTS": 0.7618,
+            "Ability to work independently on multiple tasks": 0.2618,
+            "time sensitiveness": 0.2389,
+            "self-motivated": 0.3412,
+            "enthusiastic team player": 0.3369,
+            "personal drive": 0.3005,
+            "initiative": 0.2197,
+            "Ability to interact with all levels of employees": 0.2169,
+            "courteous": 0.2849,
+            "helpful": 0.1795,
+            "Working knowledge": 0.2327,
+            "Microsoft Office applications": 0.5152,
+            "Word": 0.6177,
+            "Excel": 0.6288,
+            "PowerPoint": 0.5819,
+            "Internet browsing": 0.2838,
+            "Interpersonal Skills": 0.5371,
+            "confidentiality": 0.2692,
+            "Listens": 0.3519,
+            "Ethics": 0.3849,
+            "Treats people with respect": 0.189,
+            "inspires the trust of others": 0.303,
+            "Organizational Support": 0.1599
+        },
+        "filename": "cv (1104)_annotated.json"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "Versatile experience",
+        "Machine Learning",
+        "Python",
+        "SQL",
+        "Computer Vision",
+        "Knowledge of Statistics and Mathematics",
+        "Knowledge",
+        "unsupervised",
+        "learning methods",
+        "anomaly",
+        "detection",
+        "clustering",
+        "PROFICIENT SKILLS",
+        "Method Development",
+        "Artificial Intelligence",
+        "Data Modeling",
+        "Data Visualization",
+        "Data Validation",
+        "Deep",
+        "Learning",
+        "MySQL",
+        "MongoDB",
+        "Plotly",
+        "Seaborn",
+        "Matplotlib",
+        "AWS",
+        "EC2 Certification"
+    ],
+    "professional_info": {
+        "person name": [
+            "ERIC MILROY"
+        ],
+        "job title": [
+            "SYSTEM ENGINEER AND ANALYST",
+            "Associate Software Engineer and Analyst"
+        ],
+        "company": [],
+        "university": [
+            "CDAC",
+            "ACTS"
+        ],
+        "degree": [
+            "B.Tech (Electronics and Telecommunication)",
+            "2020"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "Versatile experience": 0.2851,
+            "Machine Learning": 0.8497,
+            "Python": 0.9929,
+            "SQL": 0.3568,
+            "Computer Vision": 0.435,
+            "Knowledge of Statistics and Mathematics": 0.4345,
+            "Knowledge": 0.1678,
+            "unsupervised": 0.3209,
+            "learning methods": 0.3742,
+            "anomaly": 0.4557,
+            "detection": 0.221,
+            "clustering": 0.4401,
+            "PROFICIENT SKILLS": 0.374,
+            "Method Development": 0.4872,
+            "Artificial Intelligence": 0.6395,
+            "Data Modeling": 0.625,
+            "Data Visualization": 0.4463,
+            "Data Validation": 0.4253,
+            "Deep": 0.472,
+            "Learning": 0.2356,
+            "MySQL": 0.8686,
+            "MongoDB": 0.8797,
+            "Plotly": 0.4424,
+            "Seaborn": 0.3244,
+            "Matplotlib": 0.539,
+            "AWS": 0.8871,
+            "EC2 Certification": 0.7769
+        },
+        "filename": "cv (4993)_annotated.json"
+    }
+}

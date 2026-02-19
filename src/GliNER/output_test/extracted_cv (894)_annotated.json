@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "Senior residency",
+        "IOA Inland Fellowship",
+        "Orthopaedic Oncology",
+        "Joint Replacement Surgery",
+        "INDO UK SENIOR Arthroplasty Fellowship",
+        "Orthopaedics and Joint Replacements",
+        "trauma and spine surgery",
+        "Reconstruc tion surgery of Joints",
+        "adult joint reconstruction",
+        "joint replacement and revision surgery"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dr. C.S. Ranawat",
+            "Dr. Anoop Jhurani",
+            "Dr. V. K. Pande"
+        ],
+        "job title": [
+            "dranoopj@yahoo.co.in",
+            "Director",
+            "Senior  Consultant  Joint Replacement Surgeon"
+        ],
+        "company": [
+            "Hospital of Specia l Surgery New York"
+        ],
+        "university": [
+            "SMS Medical College",
+            "Santokba Durlabji Memorial hospital",
+            "Tata Memorial Hospital",
+            "Fortis Escorts Hospital",
+            "S.M.S Medical College"
+        ],
+        "degree": [
+            "MBBS",
+            "MS Orthopaedics"
+        ],
+        "years of experience": [
+            "1993",
+            "1996",
+            "Sept 2015",
+            "July 2007 to 2015"
+        ],
+        "address": [
+            "Address",
+            "7-JHA-12",
+            "Jawahar Nagar",
+            "Residence"
+        ],
+        "email": [
+            "anoopjhurani@gmail.com"
+        ],
+        "phone": [
+            "Telephone Office",
+            "9829019985",
+            "0141 -2650550",
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Senior residency": 0.1738,
+            "IOA Inland Fellowship": 0.3307,
+            "Orthopaedic Oncology": 0.1687,
+            "Joint Replacement Surgery": 0.332,
+            "INDO UK SENIOR Arthroplasty Fellowship": 0.4402,
+            "Orthopaedics and Joint Replacements": 0.1823,
+            "trauma and spine surgery": 0.2288,
+            "Reconstruc tion surgery of Joints": 0.3406,
+            "adult joint reconstruction": 0.2034,
+            "joint replacement and revision surgery": 0.1899
+        },
+        "filename": "cv (894)_annotated.json"
+    }
+}

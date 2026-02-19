@@ -1,0 +1,45 @@
+{
+    "skills": [
+        "Quality Assurance"
+    ],
+    "professional_info": {
+        "person name": [
+            "BHASKAR Rao Kadimi"
+        ],
+        "job title": [
+            "Fire fighter",
+            "Mechanic",
+            "Mechanical fitter",
+            "Mechanical Engineering"
+        ],
+        "company": [
+            "Naffco",
+            "Brandix Apparel India",
+            "Quntam clothing india",
+            "Sri Venkateswara ITI",
+            "CEC group"
+        ],
+        "university": [
+            "National Junior College  - Visakhapatnam"
+        ],
+        "degree": [
+            "Intermediate in Arts"
+        ],
+        "years of experience": [
+            "3 years",
+            "2 years"
+        ],
+        "address": [],
+        "email": [
+            "bunnybhaska87@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "Quality Assurance": 0.5043
+        },
+        "filename": "cv (1967)_annotated.json"
+    }
+}

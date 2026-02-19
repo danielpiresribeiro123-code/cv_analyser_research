@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "inter-personal skills",
+        "potential performances",
+        "competent professional",
+        "Technical Support",
+        "Maintenance",
+        "Operations  Management",
+        "General  administrative",
+        "management",
+        "Vendor Management",
+        "Small Project",
+        "Resourceful",
+        "Skillful",
+        "Electrical & BMS operational performance",
+        "customer satisfaction",
+        "process control",
+        "Electrical  &  BMS",
+        "HT",
+        "LT  Panel",
+        "Transformer",
+        "DG sets"
+    ],
+    "professional_info": {
+        "person name": [
+            "Hare Ram Kumar"
+        ],
+        "job title": [
+            "Site Lead",
+            "oEFS Facility Management",
+            "supervisor",
+            "technical supervisor"
+        ],
+        "company": [
+            "Tata Communications Data Centers, Pvt. Ltd",
+            "ST Telemedia global Data Centre",
+            "oXecute HR Solution Pvt. Ltd",
+            "Notational Informatic Data Center",
+            "NIC",
+            "M/s Sysnet Global Technologies, Pvt. Ltd.",
+            "Tata Consultancy Services",
+            "M/s Sodexo Facility, Management Pvt. Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Seven years’ experience"
+        ],
+        "address": [
+            "H.N-96",
+            "D-II Park",
+            "Madangiri New Delhi",
+            "110062"
+        ],
+        "email": [
+            "email",
+            "hareramsharma3@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "inter-personal skills": 0.3987,
+            "potential performances": 0.1507,
+            "competent professional": 0.1756,
+            "Technical Support": 0.4882,
+            "Maintenance": 0.4006,
+            "Operations  Management": 0.4755,
+            "General  administrative": 0.4616,
+            "management": 0.3651,
+            "Vendor Management": 0.528,
+            "Small Project": 0.4443,
+            "Resourceful": 0.3955,
+            "Skillful": 0.3942,
+            "Electrical & BMS operational performance": 0.1885,
+            "customer satisfaction": 0.1577,
+            "process control": 0.1603,
+            "Electrical  &  BMS": 0.2164,
+            "HT": 0.1689,
+            "LT  Panel": 0.2763,
+            "Transformer": 0.2696,
+            "DG sets": 0.3668
+        },
+        "filename": "cv (566)_annotated.json"
+    }
+}

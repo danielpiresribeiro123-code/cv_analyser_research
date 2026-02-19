@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "highly  competent",
+        "proactive",
+        "project management",
+        "Power Sector",
+        "Saudi Engineering Council",
+        "Paras Tiera",
+        "M.S. Word",
+        "Excel",
+        "PowerPoint",
+        "Web Designing",
+        "Photoshop",
+        "Macromedia Flash",
+        "CorelDraw"
+    ],
+    "professional_info": {
+        "person name": [
+            "RASHID ALI"
+        ],
+        "job title": [
+            "Electrical  Engineering  professional"
+        ],
+        "company": [
+            "M/s  Saudi AL Terais Co. Ltd",
+            "The Times Of India",
+            "DMRC Client",
+            "Midad Chemicals",
+            "Kingdom of Saudi Arabia"
+        ],
+        "university": [
+            "Vira College of Engineering",
+            "Uttar Pradesh Technical University"
+        ],
+        "degree": [
+            "B. Tech (Electrical)"
+        ],
+        "years of experience": [
+            "10(Approx) years"
+        ],
+        "address": [
+            "H-251",
+            "Block-H",
+            "Jaitpur Extn.-II",
+            "New Delhi-110044",
+            "New Delhi",
+            "Sec-137",
+            "Windows",
+            "HTML"
+        ],
+        "email": [
+            "E-mail",
+            "rashidrke@gmail.com"
+        ],
+        "phone": [
+            "Mob +919971615204"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "highly  competent": 0.2326,
+            "proactive": 0.1648,
+            "project management": 0.2177,
+            "Power Sector": 0.1797,
+            "Saudi Engineering Council": 0.1963,
+            "Paras Tiera": 0.2257,
+            "M.S. Word": 0.3164,
+            "Excel": 0.419,
+            "PowerPoint": 0.3982,
+            "Web Designing": 0.5788,
+            "Photoshop": 0.5559,
+            "Macromedia Flash": 0.6269,
+            "CorelDraw": 0.3086
+        },
+        "filename": "cv (429)_annotated.json"
+    }
+}

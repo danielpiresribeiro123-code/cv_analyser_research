@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "828401",
+        "Arabic",
+        "Persian",
+        "English",
+        "Urdu",
+        "Hindi",
+        "electrical engineering",
+        "MDB",
+        "power generation",
+        "Education Qualification",
+        "H.s.c",
+        "S.s.c",
+        "Patna Technical Qualification",
+        "Graduate Diploma in Electrical Engineering",
+        "MDB MCCB"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohammad Fahimuddin"
+        ],
+        "job title": [
+            "Electrical maintenance engineer",
+            "Electrical Engineer"
+        ],
+        "company": [
+            "Said abv company",
+            "Doha al jabor company",
+            "Larsen & Turbo Ltd.",
+            "Saudi Aramco",
+            "Jharkhand academic council",
+            "Bihar education board",
+            "N.T.I."
+        ],
+        "university": [
+            "Institute of Management and Engineering"
+        ],
+        "degree": [
+            "Bachelor in electrical engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "Muslim",
+            "vill. Bhuiya chitro",
+            "po. Gomoh",
+            "ps. Topchanchi"
+        ],
+        "email": [
+            "gmail",
+            "E-Mail",
+            "fahimgomoh92@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "828401": 0.2514,
+            "Arabic": 0.2929,
+            "Persian": 0.3569,
+            "English": 0.4516,
+            "Urdu": 0.4018,
+            "Hindi": 0.499,
+            "electrical engineering": 0.2466,
+            "MDB": 0.1832,
+            "power generation": 0.2059,
+            "Education Qualification": 0.174,
+            "H.s.c": 0.4158,
+            "S.s.c": 0.2546,
+            "Patna Technical Qualification": 0.2107,
+            "Graduate Diploma in Electrical Engineering": 0.5449,
+            "MDB MCCB": 0.192
+        },
+        "filename": "cv (1897)_annotated.json"
+    }
+}

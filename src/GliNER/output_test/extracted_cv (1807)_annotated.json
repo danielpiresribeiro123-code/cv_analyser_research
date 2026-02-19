@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "abilities",
+        "interpersonal skills",
+        "personality",
+        "IT infrastructure",
+        "desktop/Laptop Operating system",
+        "citrix",
+        "Web",
+        "lotus notes",
+        "VPN Software",
+        "Aventail",
+        "Rova",
+        "CAMS",
+        "Centralized  Asset  Management System"
+    ],
+    "professional_info": {
+        "person name": [
+            "Uttam Kumar Pandey"
+        ],
+        "job title": [
+            "Technical  Support  and  Network  Support  Engineer",
+            "Customer Support Engineer"
+        ],
+        "company": [
+            "American Express",
+            "AMEX",
+            "PC Solution Pvt Ltd.",
+            "HCl Info system Pvt. Ltd.",
+            "State Bank of India"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "House No.26 Vikas Nagar",
+            "Gali No2",
+            "Pin-110059"
+        ],
+        "email": [
+            "upndey@gmail.com",
+            "Microsoft Outlook"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "abilities": 0.2012,
+            "interpersonal skills": 0.1912,
+            "personality": 0.1899,
+            "IT infrastructure": 0.1996,
+            "desktop/Laptop Operating system": 0.5175,
+            "citrix": 0.1576,
+            "Web": 0.2778,
+            "lotus notes": 0.2493,
+            "VPN Software": 0.2968,
+            "Aventail": 0.3256,
+            "Rova": 0.3486,
+            "CAMS": 0.3128,
+            "Centralized  Asset  Management System": 0.2464
+        },
+        "filename": "cv (1807)_annotated.json"
+    }
+}

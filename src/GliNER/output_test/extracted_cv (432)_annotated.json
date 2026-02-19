@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "Electrical and Electronics",
+        "Electrician Trade",
+        "young",
+        "energetic",
+        "talented",
+        "talent",
+        "Electrical Engineering",
+        "ambitions",
+        "workaholic",
+        "Engineering and",
+        "Electrical"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAJESH R",
+            "Respected Sir",
+            "CCUURRRRIICCUULLUUMM  VVIITTAAEE",
+            "RAJESH.R",
+            "OObbjjeeccttiivvee",
+            "Women"
+        ],
+        "job title": [
+            "Mysore  Junior",
+            "Maintenance",
+            "Engineer",
+            "Mysore  Junior  Engineer"
+        ],
+        "company": [
+            "ITI",
+            "GSSS Institute of",
+            "VANRAJ Power, Associates"
+        ],
+        "university": [],
+        "degree": [
+            "Diploma",
+            "Engg"
+        ],
+        "years of experience": [
+            "5.8 Years"
+        ],
+        "address": [
+            "#13/A",
+            "GOWRISHANKARA NAGAR",
+            "OOTY ROAD",
+            "MYSORE -570025",
+            "GOWRISHANKARA NAGARA"
+        ],
+        "email": [
+            "EMAIL",
+            "rajeshee2014@gmail.com"
+        ],
+        "phone": [
+            "PHONE",
+            "+91 9916549697 / +91 7353595989"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Electrical and Electronics": 0.4977,
+            "Electrician Trade": 0.3347,
+            "young": 0.2541,
+            "energetic": 0.2607,
+            "talented": 0.3005,
+            "talent": 0.2205,
+            "Electrical Engineering": 0.3265,
+            "ambitions": 0.1833,
+            "workaholic": 0.5291,
+            "Engineering and": 0.1629,
+            "Electrical": 0.3361
+        },
+        "filename": "cv (432)_annotated.json"
+    }
+}

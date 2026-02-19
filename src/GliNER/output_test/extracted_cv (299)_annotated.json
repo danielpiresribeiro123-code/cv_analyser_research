@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "expertise",
+        "strengths",
+        "PT",
+        "CT",
+        "Switchyard",
+        "Boiler attachment welding",
+        "LP",
+        "piping",
+        "Oil piping",
+        "LP Oil station",
+        "Electrical",
+        "English",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dhiraj Yadav",
+            "Swami",
+            "Prahlad Yadav"
+        ],
+        "job title": [
+            "Mr.",
+            "engineer",
+            "Male"
+        ],
+        "company": [
+            "POWER MECH PROJECTS  LTD.",
+            "TSPL",
+            "PUNJAB",
+            "PUNJAB electricity",
+            "SILICON  ENERGY",
+            "Subharti Institute of Technology"
+        ],
+        "university": [
+            "Swami VivekanandSubhartiUniversity",
+            "Kashi Inter College"
+        ],
+        "degree": [
+            "Bachelor of Technology",
+            "Bachelor in Technology",
+            "Intermediate (+2)"
+        ],
+        "years of experience": [
+            "experience",
+            "24 months work experience",
+            "Percentage",
+            "Making friends"
+        ],
+        "address": [
+            "H.no. S- 3/622 Sector – H",
+            "+91-9532052103",
+            "vill-",
+            "Po-",
+            "Pin-276138"
+        ],
+        "email": [
+            "E-Mail",
+            "robindhiraj21@gmail.coObjective"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "expertise": 0.3543,
+            "strengths": 0.1638,
+            "PT": 0.1747,
+            "CT": 0.1559,
+            "Switchyard": 0.2095,
+            "Boiler attachment welding": 0.26,
+            "LP": 0.2061,
+            "piping": 0.1537,
+            "Oil piping": 0.245,
+            "LP Oil station": 0.1889,
+            "Electrical": 0.1556,
+            "English": 0.6142,
+            "Hindi": 0.7516
+        },
+        "filename": "cv (299)_annotated.json"
+    }
+}

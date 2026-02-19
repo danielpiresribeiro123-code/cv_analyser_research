@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "Building Services",
+        "Drafting",
+        "IndiaExperience Details",
+        "Commercial",
+        "Industrial",
+        "DB Details",
+        "CCTV",
+        "Door Access",
+        "Shopping Mall"
+    ],
+    "professional_info": {
+        "person name": [
+            "Vimpal Kumar",
+            "vimpalkumar",
+            "SaritaVihar"
+        ],
+        "job title": [
+            "ELECTRICAL DRAUGHTSMAN",
+            "Gulf Experience Details"
+        ],
+        "company": [
+            "AJ CAPSTONE Solutions Pvt,Ltd.",
+            "ETA STAR Engineering & Contracting W.L.L",
+            "Escon Engineering Services Consultants",
+            "Electech Solution"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "4years 7month Total Experience",
+            "1 Years 7Months"
+        ],
+        "address": [
+            "Present Address",
+            "Al Kharamaa Center"
+        ],
+        "email": [
+            "E-mail",
+            "vickykam2013@gmail.com",
+            "Skype"
+        ],
+        "phone": [
+            "Mobile",
+            "+971-523062097",
+            "+91-7027245546"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Building Services": 0.2295,
+            "Drafting": 0.2775,
+            "IndiaExperience Details": 0.1899,
+            "Commercial": 0.1641,
+            "Industrial": 0.2257,
+            "DB Details": 0.2274,
+            "CCTV": 0.1859,
+            "Door Access": 0.1674,
+            "Shopping Mall": 0.1578
+        },
+        "filename": "cv (163)_annotated.json"
+    }
+}

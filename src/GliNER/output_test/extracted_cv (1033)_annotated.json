@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "Male",
+        "Single",
+        "first class",
+        "P & ID",
+        "PFD",
+        "Project Management",
+        "production planning"
+    ],
+    "professional_info": {
+        "person name": [
+            "Yuvraj Balu Dagade",
+            "Lote"
+        ],
+        "job title": [
+            "Chemical Engineer(Production)",
+            "Tal-Khed"
+        ],
+        "company": [
+            "Avh Chemicals Pvt.Ltd.",
+            "Avh Chemicals Pvt.Ltd",
+            "AVH pvt Limited",
+            "Indian Oxalate Ltd.",
+            "MIDC"
+        ],
+        "university": [
+            "Shivaji  University"
+        ],
+        "degree": [
+            "Negotiable Education B.E (Chemical)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Plot No-32",
+            "Ganesh Colony",
+            "At-Manermal",
+            "Post-Uchagaon",
+            "Tal-Karveer",
+            "Chandgad",
+            "Kolhapur"
+        ],
+        "email": [
+            "dagadeyuvraj19@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Male": 0.2047,
+            "Single": 0.2047,
+            "first class": 0.2412,
+            "P & ID": 0.1873,
+            "PFD": 0.3837,
+            "Project Management": 0.214,
+            "production planning": 0.1799
+        },
+        "filename": "cv (1033)_annotated.json"
+    }
+}

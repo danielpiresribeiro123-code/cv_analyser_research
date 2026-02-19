@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "HVAC & CIVIL",
+        "Civil",
+        "HVAC",
+        "Duct  design",
+        "SMACNA",
+        "ASHRAE standards",
+        "AutoCAD",
+        "HVAC & Electro Mechanics"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMED HALEEM"
+        ],
+        "job title": [
+            "AutoCad Draftsman",
+            "HVAC Professional",
+            "Executive Secretary",
+            "Senior AutoCAD Draftsman (HVAC) & Designing"
+        ],
+        "company": [
+            "Al-Asriya Contracting Est.",
+            "Modern Contracting Co."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "15 + years",
+            "15+ YEARS"
+        ],
+        "address": [],
+        "email": [
+            "Email ID",
+            "mohdhaleem77@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+ 91 8179375399",
+            "WhatsApp",
+            "+ 966 502666806"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "HVAC & CIVIL": 0.4356,
+            "Civil": 0.4025,
+            "HVAC": 0.484,
+            "Duct  design": 0.2932,
+            "SMACNA": 0.5549,
+            "ASHRAE standards": 0.6152,
+            "AutoCAD": 0.5587,
+            "HVAC & Electro Mechanics": 0.162
+        },
+        "filename": "cv (289)_annotated.json"
+    }
+}

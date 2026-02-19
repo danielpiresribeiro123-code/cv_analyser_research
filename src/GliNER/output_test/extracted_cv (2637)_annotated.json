@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "innovative application of the knowledge",
+        "Educational Qualification",
+        "Mechanical Engineering",
+        "+2",
+        "Science",
+        "BELT CONVEYORS",
+        "Shore cranes LHM 550",
+        "STACKER CUM  RECLAIMER"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUVENDU KUMAR SETH"
+        ],
+        "job title": [
+            "MECHANICAL ASSISTANT ENGINEER",
+            "Assistant Engineer"
+        ],
+        "company": [
+            "M/S Bothra Shipping Services Private Limited",
+            "BOTHRA SHIPPING SERVICES PVT LTD",
+            "BOTHRA  GROUP"
+        ],
+        "university": [
+            "Synergy Institute Of  Engineering & Technology",
+            "Koustav School Of Engineering",
+            "Govt. JR college",
+            "S.A.I.E.C."
+        ],
+        "degree": [
+            "B.Tech",
+            "Diploma",
+            "H.S.C (10th)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Dhenkanal  Dist",
+            "Bhubaneswar",
+            "Angul"
+        ],
+        "email": [
+            "Email",
+            "ss.sethsuvendu@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "innovative application of the knowledge": 0.2126,
+            "Educational Qualification": 0.1516,
+            "Mechanical Engineering": 0.4875,
+            "+2": 0.2249,
+            "Science": 0.4477,
+            "BELT CONVEYORS": 0.1585,
+            "Shore cranes LHM 550": 0.1647,
+            "STACKER CUM  RECLAIMER": 0.1903
+        },
+        "filename": "cv (2637)_annotated.json"
+    }
+}

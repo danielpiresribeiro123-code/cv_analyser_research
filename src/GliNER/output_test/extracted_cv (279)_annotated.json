@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "Communication Engineering and Signal processing",
+        "Electronics and Communications Engineering",
+        "M.P.C.",
+        "S.S.C.",
+        "X - Standard",
+        "Cloud Computing",
+        "Zeal",
+        "Ability to quickly grasp technical aspects",
+        "Technical Skills",
+        "MATLAB",
+        "Image processing",
+        "signal processing",
+        "communication",
+        "Windows XP",
+        "MS-Office",
+        "Internet",
+        "Brain Tumour Segmentation",
+        "Windows 7",
+        "Digital Image P rocessing",
+        "Brain tumour segmentation",
+        "k -means clustering",
+        "confusion matrix",
+        "ground truth"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohammed Hameedullah Sharief"
+        ],
+        "job title": [
+            "challenging job"
+        ],
+        "company": [
+            "NBA",
+            "Technozion",
+            "Facebook",
+            "I nnobuzz"
+        ],
+        "university": [
+            "V.R.S.E.C",
+            "K.H.I.T. Chowdavaram",
+            "NIOS",
+            "Viswasanthi  E.M High School",
+            "NIT Warangal",
+            "K.L. University",
+            "JIGNASA"
+        ],
+        "degree": [
+            "Masters degree",
+            "Bachelors degree"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Mobile",
+            "Email",
+            "mdhsharief123 @gmail.com"
+        ],
+        "phone": [
+            "+91-9700402170"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "Communication Engineering and Signal processing": 0.6173,
+            "Electronics and Communications Engineering": 0.4524,
+            "M.P.C.": 0.2973,
+            "S.S.C.": 0.527,
+            "X - Standard": 0.1742,
+            "Cloud Computing": 0.7474,
+            "Zeal": 0.16,
+            "Ability to quickly grasp technical aspects": 0.1535,
+            "Technical Skills": 0.298,
+            "MATLAB": 0.952,
+            "Image processing": 0.4727,
+            "signal processing": 0.4786,
+            "communication": 0.1615,
+            "Windows XP": 0.9405,
+            "MS-Office": 0.7268,
+            "Internet": 0.574,
+            "Brain Tumour Segmentation": 0.2145,
+            "Windows 7": 0.9314,
+            "Digital Image P rocessing": 0.1791,
+            "Brain tumour segmentation": 0.2758,
+            "k -means clustering": 0.2947,
+            "confusion matrix": 0.4784,
+            "ground truth": 0.3949
+        },
+        "filename": "cv (279)_annotated.json"
+    }
+}

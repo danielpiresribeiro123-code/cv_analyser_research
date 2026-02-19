@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "experience",
+        "strong compliance management",
+        "Extensive Executive Skills",
+        "Strong Analytical Skills",
+        "Focus on Ethics Management",
+        "Prioritize Audits",
+        "Interact with Auditees",
+        "Manage all Types of Audits",
+        "Pride in Service",
+        "Core Qualifications",
+        "Microsoft Office Suite",
+        "MS Word",
+        "MS Excel",
+        "MS PowerPoint",
+        "Navision",
+        "creative service"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT",
+            "Professional Summary",
+            "AUDIT DIRECTOR",
+            "Designer of Audit Programs",
+            "Director of Internal Audit",
+            "Senior Vice President"
+        ],
+        "company": [
+            "SAP",
+            "IBM",
+            "HP",
+            "Dell",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "MS Outlook"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "experience": 0.3221,
+            "strong compliance management": 0.3171,
+            "Extensive Executive Skills": 0.3218,
+            "Strong Analytical Skills": 0.3837,
+            "Focus on Ethics Management": 0.3689,
+            "Prioritize Audits": 0.2716,
+            "Interact with Auditees": 0.3054,
+            "Manage all Types of Audits": 0.2269,
+            "Pride in Service": 0.4223,
+            "Core Qualifications": 0.3663,
+            "Microsoft Office Suite": 0.8723,
+            "MS Word": 0.5157,
+            "MS Excel": 0.3781,
+            "MS PowerPoint": 0.5738,
+            "Navision": 0.5115,
+            "creative service": 0.1756
+        },
+        "filename": "cv (4687)_annotated.json"
+    }
+}

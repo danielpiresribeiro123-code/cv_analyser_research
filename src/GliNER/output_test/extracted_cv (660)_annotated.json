@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "Electrical Engineering",
+        "Electrical Operation",
+        "Plant Maintenance",
+        "Design of Single line diagrams",
+        "LT - HT Panel Maintenance",
+        "enthusiasm",
+        "dedication",
+        "ability to mange task effectively",
+        "Sr. No.Examination",
+        "BMS 2457133",
+        "ARKPP1227F",
+        "Indian Passport No S3787376",
+        "English",
+        "Hindi",
+        "Gujarati",
+        "Indian Driving License No GJ 19/018435/04",
+        "66KV Switch Yard",
+        "Utility & Plant Maintenance",
+        "500 KVA to 10 MVA transformers servicing and maintenance",
+        "H.T and L.T Panel servicing and maintenance",
+        "PCC",
+        "MCC"
+    ],
+    "professional_info": {
+        "person name": [
+            "Divyesh  Patel"
+        ],
+        "job title": [
+            "Manager"
+        ],
+        "company": [
+            "University",
+            "GARDEN SILK MILLS  LTD"
+        ],
+        "university": [
+            "V.N.S.G.U"
+        ],
+        "degree": [
+            "Diploma in Electrical EngineeringTEB",
+            "B.E in Electrical Engineering"
+        ],
+        "years of experience": [
+            "Job Experience",
+            "11 Years"
+        ],
+        "address": [
+            "B/H Swami Narayan Temple",
+            "Grid Road",
+            "Navsari",
+            "Pin Code - 396445",
+            "Gandhinagar",
+            "Surat"
+        ],
+        "email": [
+            "Email",
+            "dspatel_er@yahoo.com"
+        ],
+        "phone": [
+            "+91(0)7874761776"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Electrical Engineering": 0.667,
+            "Electrical Operation": 0.4258,
+            "Plant Maintenance": 0.591,
+            "Design of Single line diagrams": 0.4323,
+            "LT - HT Panel Maintenance": 0.4567,
+            "enthusiasm": 0.3746,
+            "dedication": 0.3509,
+            "ability to mange task effectively": 0.3755,
+            "Sr. No.Examination": 0.4556,
+            "BMS 2457133": 0.1989,
+            "ARKPP1227F": 0.1664,
+            "Indian Passport No S3787376": 0.1571,
+            "English": 0.4955,
+            "Hindi": 0.7065,
+            "Gujarati": 0.7504,
+            "Indian Driving License No GJ 19/018435/04": 0.1838,
+            "66KV Switch Yard": 0.2578,
+            "Utility & Plant Maintenance": 0.361,
+            "500 KVA to 10 MVA transformers servicing and maintenance": 0.1973,
+            "H.T and L.T Panel servicing and maintenance": 0.2223,
+            "PCC": 0.1842,
+            "MCC": 0.2802
+        },
+        "filename": "cv (660)_annotated.json"
+    }
+}

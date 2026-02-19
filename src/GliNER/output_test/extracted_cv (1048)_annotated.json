@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "commitment line s facility",
+        "structured finance",
+        "trade credits securitization"
+    ],
+    "professional_info": {
+        "person name": [
+            "Yukihiro WADA"
+        ],
+        "job title": [
+            "Relationship Manager",
+            "leader of the Relation Management Group",
+            "General Manager of Corporate Banking Division"
+        ],
+        "company": [
+            "THE DAI-ICHI KANGYO BANK , LTD.",
+            "DKB",
+            "CORPORATE BANKING DIVISION",
+            "Itochu Corporation",
+            "ITC",
+            "Sky PerfecTV",
+            "JSAT",
+            "IDC",
+            "Dai-Ichi Kangyo Group"
+        ],
+        "university": [
+            "mit",
+            "THE UNIVERSITY OF TOKYO"
+        ],
+        "degree": [
+            "Master of Business Administration",
+            "Bachelor of Laws"
+        ],
+        "years of experience": [],
+        "address": [
+            "69 Holland St.",
+            "Apt. #A",
+            "Somerville",
+            "HEAD OFFICE"
+        ],
+        "email": [
+            "E-mail"
+        ],
+        "phone": [
+            "Tel & Fax",
+            "(617) 776-7123",
+            "English & Japanese"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "commitment line s facility": 0.1517,
+            "structured finance": 0.2543,
+            "trade credits securitization": 0.2526
+        },
+        "filename": "cv (1048)_annotated.json"
+    }
+}

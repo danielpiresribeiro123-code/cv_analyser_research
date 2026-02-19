@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "innovative",
+        "flexible",
+        "Ability to  work  independently",
+        "good  team worker",
+        "Electric Work",
+        "Microsoft OfficeProgram",
+        "MS Word",
+        "Excellent skills",
+        "PowerPoint presentations",
+        "Basic skills",
+        "Excel Spreadsheets",
+        "Diploma in Electrical Enginering",
+        "Lan  gu  a  ges",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sunil Kumar"
+        ],
+        "job title": [
+            "Electrical And Solar Technician",
+            "Electrical technician",
+            "service engineer"
+        ],
+        "company": [
+            "Dhiman Electrical Nalagarh",
+            "Exide Industries Ltd.",
+            "Micromax Energy Ltd.",
+            "Al Reyami Group UAE",
+            "Exide batteries services center",
+            "Al Reyami",
+            "Punjab state technical Board",
+            "H P Board of School Education"
+        ],
+        "university": [
+            "university"
+        ],
+        "degree": [
+            "Secondary Education Passed 12th"
+        ],
+        "years of experience": [
+            "Two Years Experience",
+            "Three years experience",
+            "Fluent"
+        ],
+        "address": [],
+        "email": [
+            "gmail.comEDUCATIONAL"
+        ],
+        "phone": [
+            "Contact No",
+            "+91 70180 49349",
+            "88942 54304",
+            "Email address"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "innovative": 0.1731,
+            "flexible": 0.1551,
+            "Ability to  work  independently": 0.1852,
+            "good  team worker": 0.2399,
+            "Electric Work": 0.2065,
+            "Microsoft OfficeProgram": 0.5848,
+            "MS Word": 0.7625,
+            "Excellent skills": 0.2336,
+            "PowerPoint presentations": 0.4466,
+            "Basic skills": 0.2397,
+            "Excel Spreadsheets": 0.5492,
+            "Diploma in Electrical Enginering": 0.3112,
+            "Lan  gu  a  ges": 0.3483,
+            "English": 0.6411
+        },
+        "filename": "cv (3594)_annotated.json"
+    }
+}

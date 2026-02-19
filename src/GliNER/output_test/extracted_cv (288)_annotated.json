@@ -1,0 +1,100 @@
+{
+    "skills": [
+        "computer skill",
+        "team management",
+        "EXPERIENCE HISTORY",
+        "COMPUTER SKILL",
+        "Basic",
+        "Ms Word",
+        "Ms Excel",
+        "Ms PowerPoint",
+        "Ms Access",
+        "Internet",
+        "Ms Dos",
+        "Tally",
+        "Typing",
+        "HTML",
+        "WAPDESIGNER",
+        "Unmarried",
+        "Hindi",
+        "English",
+        "Bengali",
+        "MY HOBBIES",
+        "cricket",
+        "batmintal",
+        "STRENGTHS",
+        "Punctuality",
+        "Honesty",
+        "Caring",
+        "Hardworking"
+    ],
+    "professional_info": {
+        "person name": [
+            "JAVED ANSARI",
+            "Male"
+        ],
+        "job title": [
+            "CCE",
+            "Customer Care Executive"
+        ],
+        "company": [
+            "Aegis Customer support services pvt Ltd",
+            "Aegis Customer Support Service Private Limited",
+            "Acsspl"
+        ],
+        "university": [
+            "kolhan university",
+            "chaibasa"
+        ],
+        "degree": [
+            "B.Com"
+        ],
+        "years of experience": [],
+        "address": [
+            "Ghatsila Jamshedpur"
+        ],
+        "email": [
+            "Email",
+            "Javed.gts786@gmail.com",
+            "Intermediate Ranchi university 2013"
+        ],
+        "phone": [
+            "Phone",
+            "- 8757372295",
+            "2016"
+        ]
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "computer skill": 0.5251,
+            "team management": 0.387,
+            "EXPERIENCE HISTORY": 0.1586,
+            "COMPUTER SKILL": 0.4793,
+            "Basic": 0.3109,
+            "Ms Word": 0.4074,
+            "Ms Excel": 0.3534,
+            "Ms PowerPoint": 0.4606,
+            "Ms Access": 0.4834,
+            "Internet": 0.5887,
+            "Ms Dos": 0.4967,
+            "Tally": 0.2494,
+            "Typing": 0.5898,
+            "HTML": 0.2735,
+            "WAPDESIGNER": 0.3656,
+            "Unmarried": 0.2864,
+            "Hindi": 0.6066,
+            "English": 0.6716,
+            "Bengali": 0.6641,
+            "MY HOBBIES": 0.2952,
+            "cricket": 0.2082,
+            "batmintal": 0.1623,
+            "STRENGTHS": 0.2352,
+            "Punctuality": 0.3127,
+            "Honesty": 0.4352,
+            "Caring": 0.4692,
+            "Hardworking": 0.3488
+        },
+        "filename": "cv (288)_annotated.json"
+    }
+}

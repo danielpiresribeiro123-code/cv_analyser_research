@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "Customer Relationship Management",
+        "Networking and Communication skills",
+        "Client Relationship Management",
+        "Expectation Management",
+        "People Management",
+        "integrity and passion",
+        "project management",
+        "Big Machines Configuration",
+        "Siebel Tools 8.1.1.10",
+        "Siebel",
+        "eScript",
+        "VBScript",
+        "Java Script",
+        "VB",
+        "SQL",
+        "MS Excel",
+        "Word",
+        "Power Point",
+        "Access",
+        "Oracle CPQ Cloud",
+        "Fit Gap analysis",
+        "Oracle CPQ",
+        "Financial Management",
+        "Data Warehouse"
+    ],
+    "professional_info": {
+        "person name": [
+            "Vidya"
+        ],
+        "job title": [
+            "Solution Architect",
+            "Functional Analyst",
+            "Process and Implementation Consultant",
+            "CRM Consultant"
+        ],
+        "company": [
+            "Adapt One Technologies",
+            "Deloitte Consulting LLP",
+            "Client-Healthcare Company"
+        ],
+        "university": [],
+        "degree": [
+            "Graduate",
+            "Computer Science"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Customer Relationship Management": 0.6762,
+            "Networking and Communication skills": 0.21,
+            "Client Relationship Management": 0.6025,
+            "Expectation Management": 0.6392,
+            "People Management": 0.5693,
+            "integrity and passion": 0.2428,
+            "project management": 0.1959,
+            "Big Machines Configuration": 0.3941,
+            "Siebel Tools 8.1.1.10": 0.3464,
+            "Siebel": 0.4149,
+            "eScript": 0.657,
+            "VBScript": 0.8563,
+            "Java Script": 0.7766,
+            "VB": 0.4062,
+            "SQL": 0.2715,
+            "MS Excel": 0.4829,
+            "Word": 0.2797,
+            "Power Point": 0.4177,
+            "Access": 0.3598,
+            "Oracle CPQ Cloud": 0.2801,
+            "Fit Gap analysis": 0.1767,
+            "Oracle CPQ": 0.3234,
+            "Financial Management": 0.2249,
+            "Data Warehouse": 0.3555
+        },
+        "filename": "cv (4720)_annotated.json"
+    }
+}

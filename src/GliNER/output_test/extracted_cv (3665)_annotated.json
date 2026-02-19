@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "Mechanical",
+        "Operation & Maintenance",
+        "system development",
+        "Maintenance",
+        "ISO 9001:2008",
+        "Dubai Central Laboratory Product Approval",
+        "EXOVA Certificate",
+        "BM Trada Certificate",
+        "auxiliary product business",
+        "Risk Register"
+    ],
+    "professional_info": {
+        "person name": [
+            "Chidambaram Lakshmanan"
+        ],
+        "job title": [
+            "Team leader",
+            "team developer",
+            "Factory Manager",
+            "Maintenance in-charge"
+        ],
+        "company": [
+            "M/s Jehan Green Wall Fze",
+            "EVG",
+            "ESMA (Emirates Authority for Standardization & Metrology)",
+            "M/s EVG",
+            "Construction division"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Sharjah"
+        ],
+        "email": [
+            "lchidambaram76@gmail.com"
+        ],
+        "phone": [
+            "+971 56 6358628"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Mechanical": 0.182,
+            "Operation & Maintenance": 0.2015,
+            "system development": 0.1819,
+            "Maintenance": 0.1649,
+            "ISO 9001:2008": 0.8079,
+            "Dubai Central Laboratory Product Approval": 0.5484,
+            "EXOVA Certificate": 0.9453,
+            "BM Trada Certificate": 0.9598,
+            "auxiliary product business": 0.1505,
+            "Risk Register": 0.2503
+        },
+        "filename": "cv (3665)_annotated.json"
+    }
+}

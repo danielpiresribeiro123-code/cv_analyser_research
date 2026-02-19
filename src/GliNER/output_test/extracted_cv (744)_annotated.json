@@ -1,0 +1,111 @@
+{
+    "skills": [
+        "competence",
+        "TECHNICAL SKILLS",
+        "ACADEMICS",
+        "CGPA",
+        "B.E",
+        "Electronics and",
+        "Diploma in",
+        "Programming",
+        "LanguagesC",
+        "VHDL",
+        "Windows",
+        "XP",
+        "Vista",
+        "MS-DOS",
+        "Assembly Languages 8085",
+        "8086",
+        "Microcontroller 8051",
+        "Circuit design tools",
+        "Circuit Maker",
+        "Orcad",
+        "Quartus",
+        "Eagle",
+        "Simulation toolMatlab 7",
+        "CADENCE (virtuoso)",
+        "B.E (EC)",
+        "GSM BASED HOME SECURITY  SYSTEM",
+        "M.Tech Final YearIMPLEMENTATION AND ANALYSIS FOR",
+        "LOW POWER ADIABATIC LOGIC",
+        "Male",
+        "English",
+        "Hindi",
+        "Gujarati"
+    ],
+    "professional_info": {
+        "person name": [
+            "NIKUNJ R. PATEL",
+            "nikunjpatel245",
+            "Mr. Ramesh bhai C Patel",
+            "NIKUNJ PATEL"
+        ],
+        "job title": [],
+        "company": [
+            "world class company",
+            "Changa University",
+            "PATELTechnical"
+        ],
+        "university": [
+            "Gujarat university"
+        ],
+        "degree": [
+            "M.Tech in",
+            "Diploma(EC)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Pin code 396580",
+            "Present Address8/B Teen murti",
+            "Pin code 380015"
+        ],
+        "email": [
+            "EMAIL",
+            "gmail.com",
+            "MOBILE",
+            "9427153195 / 7878467574",
+            "9427153195/7878467574",
+            "E-mail",
+            "nikunjpatel245@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 32,
+        "confidence_scores": {
+            "competence": 0.2062,
+            "TECHNICAL SKILLS": 0.1553,
+            "ACADEMICS": 0.3792,
+            "CGPA": 0.5181,
+            "B.E": 0.686,
+            "Electronics and": 0.3223,
+            "Diploma in": 0.6794,
+            "Programming": 0.2404,
+            "LanguagesC": 0.2062,
+            "VHDL": 0.8827,
+            "Windows": 0.7482,
+            "XP": 0.2825,
+            "Vista": 0.5069,
+            "MS-DOS": 0.9274,
+            "Assembly Languages 8085": 0.6687,
+            "8086": 0.6089,
+            "Microcontroller 8051": 0.5465,
+            "Circuit design tools": 0.1697,
+            "Circuit Maker": 0.6598,
+            "Orcad": 0.6259,
+            "Quartus": 0.5756,
+            "Eagle": 0.6526,
+            "Simulation toolMatlab 7": 0.2194,
+            "CADENCE (virtuoso)": 0.6152,
+            "B.E (EC)": 0.6058,
+            "GSM BASED HOME SECURITY  SYSTEM": 0.2848,
+            "M.Tech Final YearIMPLEMENTATION AND ANALYSIS FOR": 0.2987,
+            "LOW POWER ADIABATIC LOGIC": 0.3808,
+            "Male": 0.201,
+            "English": 0.4132,
+            "Hindi": 0.5747,
+            "Gujarati": 0.6339
+        },
+        "filename": "cv (744)_annotated.json"
+    }
+}

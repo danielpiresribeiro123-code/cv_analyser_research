@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "ISO 9001-2000",
+        "Preventive Maintenance",
+        "manpower utilization",
+        "root cause failure analysis",
+        "PROFESSIONAL SKILLS",
+        "Strong Analytical ability",
+        "management problems",
+        "Effective communication skills",
+        "Strong Teamwork and Leadership qualities",
+        "Goal oriented strategy",
+        "Mechanical"
+    ],
+    "professional_info": {
+        "person name": [
+            "Niwar",
+            "NAMAN NAYAK"
+        ],
+        "job title": [
+            "Maintenance Trainee Engineer",
+            "worker level job structure",
+            "H. S. C"
+        ],
+        "company": [
+            "A.B.S. Refractories Pvt Ltd",
+            "A.B.S. Refractories  Pvt. Ltd.",
+            "Diamond School Madhavnagar",
+            "S. S. C",
+            "Nalanda School Civil Line"
+        ],
+        "university": [
+            "Global Nature Care Sanghthan Group Of Institution  Jabalpur"
+        ],
+        "degree": [
+            "Bachelor of Engineering",
+            "BE"
+        ],
+        "years of experience": [],
+        "address": [
+            "M ob",
+            "Katni district"
+        ],
+        "email": [
+            "Email",
+            "namannayak3865@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "ISO 9001-2000": 0.8414,
+            "Preventive Maintenance": 0.1808,
+            "manpower utilization": 0.3181,
+            "root cause failure analysis": 0.4891,
+            "PROFESSIONAL SKILLS": 0.3355,
+            "Strong Analytical ability": 0.3062,
+            "management problems": 0.1658,
+            "Effective communication skills": 0.2897,
+            "Strong Teamwork and Leadership qualities": 0.2134,
+            "Goal oriented strategy": 0.1616,
+            "Mechanical": 0.1814
+        },
+        "filename": "cv (1584)_annotated.json"
+    }
+}

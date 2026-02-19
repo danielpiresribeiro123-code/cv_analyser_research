@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "Data Science",
+        "PROFICIENT SKILLS",
+        "Data Analysis",
+        "EDA",
+        "Python",
+        "Machine",
+        "Learning",
+        "SQL",
+        "NLP",
+        "MATLAB",
+        "C#",
+        "Node.Js",
+        "Statistics",
+        "Business Analytics",
+        "Predictive",
+        "Modeling",
+        "Data Modeling",
+        "Chaco Plotting Library & Traits UI",
+        "Library",
+        "Battery SOH forecasting application",
+        "MS(Artificial intelligence and Machine Learning)",
+        "EV Battery Issue Tracking Software",
+        "conversational chatbot",
+        "RASA"
+    ],
+    "professional_info": {
+        "person name": [
+            "TANNER WILLIAMS"
+        ],
+        "job title": [
+            "SOLUTIONS ENGINEER",
+            "Development Engineer"
+        ],
+        "company": [],
+        "university": [
+            "ACP College Of Engineering",
+            "John Moore's University"
+        ],
+        "degree": [
+            "Master",
+            "B.Tech(Electrical)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Data Science": 0.4996,
+            "PROFICIENT SKILLS": 0.2941,
+            "Data Analysis": 0.4465,
+            "EDA": 0.5056,
+            "Python": 0.9924,
+            "Machine": 0.2562,
+            "Learning": 0.3756,
+            "SQL": 0.6036,
+            "NLP": 0.4682,
+            "MATLAB": 0.9478,
+            "C#": 0.9408,
+            "Node.Js": 0.491,
+            "Statistics": 0.598,
+            "Business Analytics": 0.6016,
+            "Predictive": 0.2847,
+            "Modeling": 0.5094,
+            "Data Modeling": 0.5788,
+            "Chaco Plotting Library & Traits UI": 0.6637,
+            "Library": 0.277,
+            "Battery SOH forecasting application": 0.1924,
+            "MS(Artificial intelligence and Machine Learning)": 0.5907,
+            "EV Battery Issue Tracking Software": 0.182,
+            "conversational chatbot": 0.2645,
+            "RASA": 0.2515
+        },
+        "filename": "cv (5000)_annotated.json"
+    }
+}

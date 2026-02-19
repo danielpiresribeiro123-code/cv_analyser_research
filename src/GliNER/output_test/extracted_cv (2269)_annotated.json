@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "DNS",
+        "DHCP Services",
+        "WinXP",
+        "Vista",
+        "win7",
+        "Win8",
+        "Win 8.1",
+        "Win 10",
+        "Linux",
+        "MS Outlook",
+        "Firefox thunderbird",
+        "Live mail",
+        "Microsoft certified I T professional",
+        "MCITP 2008",
+        "TECHNICAL EXPERTISE",
+        "HARDWARE SKILLS",
+        "Excellent troubleshooting skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "PREM KUMAR MAURYA"
+        ],
+        "job title": [
+            "Computer Hardware & Networking Technician",
+            "Desktop Support",
+            "desktop engineer",
+            "Computer Service Technician"
+        ],
+        "company": [
+            "aashirwad group",
+            "Z3infotech"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "gmail.com",
+            "Diploma",
+            "BSC.IT Sikkim Manipal university 2017"
+        ],
+        "phone": [
+            "10th U.P Board 2006",
+            "12Th U.P Board 2008"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "DNS": 0.2832,
+            "DHCP Services": 0.3649,
+            "WinXP": 0.9736,
+            "Vista": 0.8099,
+            "win7": 0.939,
+            "Win8": 0.8698,
+            "Win 8.1": 0.8729,
+            "Win 10": 0.9138,
+            "Linux": 0.966,
+            "MS Outlook": 0.4616,
+            "Firefox thunderbird": 0.3546,
+            "Live mail": 0.4408,
+            "Microsoft certified I T professional": 0.7454,
+            "MCITP 2008": 0.7687,
+            "TECHNICAL EXPERTISE": 0.3724,
+            "HARDWARE SKILLS": 0.5735,
+            "Excellent troubleshooting skills": 0.4834
+        },
+        "filename": "cv (2269)_annotated.json"
+    }
+}

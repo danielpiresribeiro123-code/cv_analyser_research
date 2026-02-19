@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "Employee Engagement",
+        "Compensation & Benefits",
+        "Competency mapping",
+        "Manpower retention",
+        "Employee relations",
+        "Statutory",
+        "Payroll process",
+        "creative organization",
+        "professional and technical knowledge"
+    ],
+    "professional_info": {
+        "person name": [
+            "J.KRISHNAMOORTHY"
+        ],
+        "job title": [
+            "highly accomplished professional",
+            "Senior HR Officer",
+            "managers"
+        ],
+        "company": [
+            "Engineering Construction"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "25 years of extensive experience"
+        ],
+        "address": [
+            "INDIA",
+            "DUBAI"
+        ],
+        "email": [
+            "E- MAIL",
+            "GMAIL.COM"
+        ],
+        "phone": [
+            "+971 507987347"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Employee Engagement": 0.2268,
+            "Compensation & Benefits": 0.256,
+            "Competency mapping": 0.3693,
+            "Manpower retention": 0.1803,
+            "Employee relations": 0.2462,
+            "Statutory": 0.1766,
+            "Payroll process": 0.2174,
+            "creative organization": 0.5749,
+            "professional and technical knowledge": 0.2274
+        },
+        "filename": "cv (3362)_annotated.json"
+    }
+}

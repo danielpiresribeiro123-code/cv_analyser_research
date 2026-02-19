@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "OBJECTIVE",
+        "mid career level",
+        "technical and analytical skills",
+        "CERTIFICATEBOARD/COLLEGE YEAR OF PASSING",
+        "Flexible",
+        "Quick Learner",
+        "Capable of Handling Critical Conditions",
+        "invaluable asset",
+        "EXPERIENCE",
+        "English",
+        "Hindi",
+        "Arabic",
+        "Single"
+    ],
+    "professional_info": {
+        "person name": [
+            "MUBASHEER AHMED KHAN",
+            "Basheer Ahmed Khan",
+            "Male"
+        ],
+        "job title": [
+            "VALUE ADDITION",
+            "salesman cum cashier",
+            "Associate",
+            "customer Care Executive",
+            "Customer Care Associate",
+            "office IN charge"
+        ],
+        "company": [
+            "CURRICULUM VITAE",
+            "DEGREE",
+            "INTERMEDIATEALIYA JUNIOR",
+            "S.S.C.PRIYADARSHINI",
+            "alhokair fashion retail",
+            "Vertex Solutions",
+            "Shopper Stop Begumpet",
+            "Cool Berg Enterprises",
+            "Indian"
+        ],
+        "university": [
+            "B.comANWAR-ULOOM",
+            "DEGREE COLLEGE2013",
+            "COLLEGE2011",
+            "HIGH SCHOOL2006"
+        ],
+        "degree": [],
+        "years of experience": [
+            "August 2014",
+            "April 2015"
+        ],
+        "address": [
+            "10-5-385/1/1/D2A",
+            "Syed Nagar",
+            "First Lancer",
+            "Hyderabad – 500028"
+        ],
+        "email": [
+            "Email",
+            "mubasheerkhan@gmail.com"
+        ],
+        "phone": [
+            "Contact Number",
+            "+919182834870"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "OBJECTIVE": 0.2651,
+            "mid career level": 0.1849,
+            "technical and analytical skills": 0.2265,
+            "CERTIFICATEBOARD/COLLEGE YEAR OF PASSING": 0.2954,
+            "Flexible": 0.1936,
+            "Quick Learner": 0.341,
+            "Capable of Handling Critical Conditions": 0.355,
+            "invaluable asset": 0.164,
+            "EXPERIENCE": 0.2186,
+            "English": 0.7988,
+            "Hindi": 0.7727,
+            "Arabic": 0.5829,
+            "Single": 0.2818
+        },
+        "filename": "cv (149)_annotated.json"
+    }
+}

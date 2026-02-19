@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "technical skills",
+        "COMPUTER SKILLS",
+        "Working knowledge",
+        "windows XP",
+        "2007",
+        "2008",
+        "Internet",
+        "Good knowledge",
+        "MS Word 2007",
+        "MS Excel 2007",
+        "MS PowerPoint",
+        "2007",
+        "Coral draw",
+        "Tally",
+        "Hindi",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "Aayush Kumar Prajapati",
+            "aa",
+            "Khedaru Prajapati"
+        ],
+        "job title": [],
+        "company": [
+            "Egg.SUSPC",
+            "TangoriP.S.B.T.E & IT",
+            "COLLEGEB.S.E.B Patna",
+            "OPERATIVE",
+            "SCHOOLB.S.E.B Patna"
+        ],
+        "university": [
+            "University"
+        ],
+        "degree": [
+            "Diploma in Mechanical Engineering"
+        ],
+        "years of experience": [
+            "DOB: 18-02-1994",
+            "Age",
+            "20"
+        ],
+        "address": [
+            "Chandigarh2015",
+            "210+2B P S"
+        ],
+        "email": [
+            "Email",
+            "aayushbhore@gmail.com",
+            "+91 7696920385",
+            "7739032801"
+        ],
+        "phone": [
+            "Contact No"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "technical skills": 0.3208,
+            "COMPUTER SKILLS": 0.3458,
+            "Working knowledge": 0.5177,
+            "windows XP": 0.8722,
+            "2007": 0.1585,
+            "2008": 0.523,
+            "Internet": 0.57,
+            "Good knowledge": 0.2762,
+            "MS Word 2007": 0.6656,
+            "MS Excel 2007": 0.5695,
+            "MS PowerPoint": 0.5626,
+            "Coral draw": 0.5877,
+            "Tally": 0.4094,
+            "Hindi": 0.7407,
+            "English": 0.7005
+        },
+        "filename": "cv (234)_annotated.json"
+    }
+}

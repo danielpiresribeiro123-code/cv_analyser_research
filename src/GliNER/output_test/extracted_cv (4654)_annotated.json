@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Problem Solving",
+        "SEO",
+        "Analytics",
+        "Microsoft Office",
+        "Reliable",
+        "organized",
+        "personable",
+        "Client-focused",
+        "Innovative",
+        "Customer service-oriented",
+        "58 WPM typing speed",
+        "Results-oriented",
+        "Quick learner",
+        "Computer proficient",
+        "File/records maintenance",
+        "Team-player",
+        "Accurate and detailed",
+        "positive reinforcement method",
+        "Communicated effectively with educators from various grade levels"
+    ],
+    "professional_info": {
+        "person name": [
+            "TEACHER"
+        ],
+        "job title": [
+            "Paraprofessional",
+            "Substitute Teacher",
+            "Customer Solution Specialist"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": [
+            "phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Problem Solving": 0.5129,
+            "SEO": 0.4731,
+            "Analytics": 0.5793,
+            "Microsoft Office": 0.8907,
+            "Reliable": 0.5369,
+            "organized": 0.4582,
+            "personable": 0.4425,
+            "Client-focused": 0.3835,
+            "Innovative": 0.439,
+            "Customer service-oriented": 0.4565,
+            "58 WPM typing speed": 0.3649,
+            "Results-oriented": 0.4081,
+            "Quick learner": 0.4911,
+            "Computer proficient": 0.5178,
+            "File/records maintenance": 0.5458,
+            "Team-player": 0.4031,
+            "Accurate and detailed": 0.3728,
+            "positive reinforcement method": 0.7726,
+            "Communicated effectively with educators from various grade levels": 0.1604
+        },
+        "filename": "cv (4654)_annotated.json"
+    }
+}

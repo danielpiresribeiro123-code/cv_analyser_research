@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "knowledge",
+        "Lab ware",
+        "Watson",
+        "Proficiency",
+        "Oracle",
+        "SQL",
+        "Test Report Certificat e",
+        "Crystal Reports",
+        "computer validation methodologies",
+        "Windows",
+        "Exchange",
+        "Citrix",
+        "software database skills",
+        "clouding",
+        "one drive",
+        "Multi-talented",
+        "technical skills",
+        "personal drive",
+        "positive",
+        "well organized and structured work ethic",
+        "p roblem solving skills",
+        "Network & Firewall",
+        "Check Point Firewall Next Generation"
+    ],
+    "professional_info": {
+        "person name": [
+            "amarcholker",
+            "AMAR CHOLKER"
+        ],
+        "job title": [
+            "GLIMS Administrator",
+            "IT LIMS Administrator",
+            "IT Administrator"
+        ],
+        "company": [
+            "Board of Intermediate",
+            "SSC Board                   Division 2",
+            "company"
+        ],
+        "university": [
+            "Osmania University",
+            "khairatabad Degree College"
+        ],
+        "degree": [
+            "MBA",
+            "Master of Business Administration",
+            "Bachelor",
+            "Bachelor of Commerce"
+        ],
+        "years of experience": [
+            "AGE 25"
+        ],
+        "address": [],
+        "email": [
+            "gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "knowledge": 0.2112,
+            "Lab ware": 0.3171,
+            "Watson": 0.2619,
+            "Proficiency": 0.171,
+            "Oracle": 0.2566,
+            "SQL": 0.2045,
+            "Test Report Certificat e": 0.5936,
+            "Crystal Reports": 0.5179,
+            "computer validation methodologies": 0.6299,
+            "Windows": 0.9177,
+            "Exchange": 0.357,
+            "Citrix": 0.2535,
+            "software database skills": 0.1687,
+            "clouding": 0.3811,
+            "one drive": 0.3861,
+            "Multi-talented": 0.2233,
+            "technical skills": 0.2845,
+            "personal drive": 0.4278,
+            "positive": 0.156,
+            "well organized and structured work ethic": 0.1728,
+            "p roblem solving skills": 0.2173,
+            "Network & Firewall": 0.2342,
+            "Check Point Firewall Next Generation": 0.2641
+        },
+        "filename": "cv (541)_annotated.json"
+    }
+}

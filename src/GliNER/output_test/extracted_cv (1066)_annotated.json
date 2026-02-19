@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "interpersonal",
+        "technical skills",
+        "Retail marketing",
+        "Windows XP",
+        "Vista",
+        "07",
+        "MS-Office",
+        "INTERPERSONAL SKILLS",
+        "Self confident",
+        "Good listening skills",
+        "Good communication skills",
+        "Quick learner",
+        "Hard worker"
+    ],
+    "professional_info": {
+        "person name": [
+            "KARTHIK THIRUMALASETTY",
+            "T kotaiah",
+            "T.Anasuya"
+        ],
+        "job title": [
+            "Role"
+        ],
+        "company": [
+            "IntermediateSai co-operative jr",
+            "Nbuzz business solutions Pvt.Ltd.",
+            "ST Martin’s Institute of Business Management"
+        ],
+        "university": [
+            "CMR College Of",
+            "JNTU Hyderabad             2014",
+            "kavaliS.V university               2007",
+            "kavaliBoard Of",
+            "SSCHoly family (EM)",
+            "BitraguntaBoard Of",
+            "Mallareddy Women’s College"
+        ],
+        "degree": [
+            "MBA(Marketing)",
+            "Bsc comp M S R degree"
+        ],
+        "years of experience": [],
+        "address": [
+            "Hs.no",
+            "12-5-3 green house",
+            "maruthinagar",
+            "Moosapet"
+        ],
+        "email": [
+            "Email id",
+            "carteeq.mba@gmail.com"
+        ],
+        "phone": [
+            "Phone no",
+            "+917702427356"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "interpersonal": 0.3487,
+            "technical skills": 0.3691,
+            "Retail marketing": 0.2593,
+            "Windows XP": 0.9107,
+            "Vista": 0.5877,
+            "07": 0.391,
+            "MS-Office": 0.7202,
+            "INTERPERSONAL SKILLS": 0.2656,
+            "Self confident": 0.5611,
+            "Good listening skills": 0.5199,
+            "Good communication skills": 0.5115,
+            "Quick learner": 0.5712,
+            "Hard worker": 0.4859
+        },
+        "filename": "cv (1066)_annotated.json"
+    }
+}

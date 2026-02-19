@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "Web",
+        "TAC",
+        "NBC",
+        "NFPA",
+        "IS",
+        "IS",
+        "standards",
+        "Auto Cad LT",
+        "Hydrant System",
+        "Sprinkler System",
+        "Firefighting Pump Room",
+        "Water Spray System",
+        "Gaseous fire suppression system",
+        "FM200",
+        "CO2 Flooding",
+        "Foam fire Extinguishing System",
+        "Fire Detection & Alarm System",
+        "Conventional",
+        "Addressable & Aspiration",
+        "VESDA system",
+        "aspire software"
+    ],
+    "professional_info": {
+        "person name": [
+            "ABDUL SALAM"
+        ],
+        "job title": [
+            "fire protection engineer",
+            "Design & Estimation Engineer",
+            "Procurement Engineer",
+            "Design , Estimation & Control Engineer"
+        ],
+        "company": [
+            "Metec Design & Construction Engineers India Pvt. Ltd .",
+            "NFA Life Secure Pvt. Ltd.",
+            "JKR ENTERPRISERS Limited"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "2.6   YEARS EXPERIENCE",
+            "2.6  years  of  experience"
+        ],
+        "address": [],
+        "email": [
+            "E-mail Id",
+            "hotmail.com"
+        ],
+        "phone": [
+            "+91 -8943439444",
+            "http://www.nfaindia.com"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Web": 0.5953,
+            "TAC": 0.3085,
+            "NBC": 0.2121,
+            "NFPA": 0.3272,
+            "IS": 0.3461,
+            "standards": 0.2393,
+            "Auto Cad LT": 0.5409,
+            "Hydrant System": 0.2608,
+            "Sprinkler System": 0.3125,
+            "Firefighting Pump Room": 0.2031,
+            "Water Spray System": 0.2044,
+            "Gaseous fire suppression system": 0.3712,
+            "FM200": 0.2789,
+            "CO2 Flooding": 0.252,
+            "Foam fire Extinguishing System": 0.3592,
+            "Fire Detection & Alarm System": 0.226,
+            "Conventional": 0.2378,
+            "Addressable & Aspiration": 0.1776,
+            "VESDA system": 0.4801,
+            "aspire software": 0.4057
+        },
+        "filename": "cv (3613)_annotated.json"
+    }
+}

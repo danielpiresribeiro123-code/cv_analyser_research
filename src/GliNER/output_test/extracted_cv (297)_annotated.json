@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "Sex",
+        "Male",
+        "Marital Status",
+        "Language Known",
+        "English & Malayalam",
+        "Educational Qualiﬁcation"
+    ],
+    "professional_info": {
+        "person name": [
+            "Binu V S",
+            "Viswanathan Pillai",
+            "Indian"
+        ],
+        "job title": [
+            "Electrician"
+        ],
+        "company": [
+            "Binu Bhavanam",
+            "S.S.L.C",
+            "Quilon Consulting Engineering"
+        ],
+        "university": [],
+        "degree": [
+            "Plus Two",
+            "ITI"
+        ],
+        "years of experience": [
+            "Unmarried",
+            "Experience",
+            "5 year"
+        ],
+        "address": [
+            "Panappetty",
+            "Poruvazhy P.O",
+            "Kollam",
+            "690520",
+            "Trivandrum"
+        ],
+        "email": [],
+        "phone": [
+            "Contact No",
+            "+91 9744510176",
+            "+91 9497542635",
+            "P3404919"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Sex": 0.1906,
+            "Male": 0.3219,
+            "Marital Status": 0.2817,
+            "Language Known": 0.1673,
+            "English & Malayalam": 0.6966,
+            "Educational Qualiﬁcation": 0.2016
+        },
+        "filename": "cv (297)_annotated.json"
+    }
+}

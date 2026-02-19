@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "CAREER OBJECTIVE",
+        "using my computer  Knowledge",
+        "responsible and pleasing",
+        "personality",
+        "Data entry work",
+        "Motivating Children"
+    ],
+    "professional_info": {
+        "person name": [
+            "Shivani",
+            "shivanisodey"
+        ],
+        "job title": [
+            "Job title",
+            "Executive Business Support Group",
+            "Job Role",
+            "Peer Educator"
+        ],
+        "company": [
+            "Pro cleaning Co. Pvt. Ltd.",
+            "Global Excellence Group",
+            "Project Concern International/India"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "House no . T/31 Tis Hazari Delhi1100054",
+            "Mobile No",
+            "internet"
+        ],
+        "email": [
+            "gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "CAREER OBJECTIVE": 0.1525,
+            "using my computer  Knowledge": 0.1681,
+            "responsible and pleasing": 0.5825,
+            "personality": 0.5701,
+            "Data entry work": 0.1796,
+            "Motivating Children": 0.2087
+        },
+        "filename": "cv (1420)_annotated.json"
+    }
+}

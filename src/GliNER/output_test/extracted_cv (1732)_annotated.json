@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "TV. MALAI201150%",
+        "COMPUTER PROFICIENCY",
+        "Basic Operating",
+        "Typing",
+        "Package  A/c units Maintenance",
+        "PAC And PAHU A/c Units Service",
+        "Male",
+        "Single",
+        "Language Known",
+        "Tamil & English"
+    ],
+    "professional_info": {
+        "person name": [
+            "MUTHAZHAGAN.P",
+            "PARAMASIVAM.A",
+            "Indian & Hindu",
+            "MUTHAZHAGAN P"
+        ],
+        "job title": [],
+        "company": [
+            "HSLCSen.josep high sec schoolSTATE",
+            "VOLTASLIMITED-  SOURCE  HOV  INDIA  PVT.LTD",
+            "VRF",
+            "EMERSON–UNITETDAIRCON"
+        ],
+        "university": [
+            "BEAnnamalai university"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "No.3/83-sangar street",
+            "vettuvankenyInjam pakkam P.O",
+            "Kanjipuram D.T",
+            "Pin code -600 015"
+        ],
+        "email": [
+            "muthazhaganRackRam518@g mail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "9176255835"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "TV. MALAI201150%": 0.18,
+            "COMPUTER PROFICIENCY": 0.4365,
+            "Basic Operating": 0.2651,
+            "Typing": 0.4952,
+            "Package  A/c units Maintenance": 0.4918,
+            "PAC And PAHU A/c Units Service": 0.4146,
+            "Male": 0.2232,
+            "Single": 0.369,
+            "Language Known": 0.1532,
+            "Tamil & English": 0.475
+        },
+        "filename": "cv (1732)_annotated.json"
+    }
+}

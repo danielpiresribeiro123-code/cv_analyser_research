@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "PROFILE",
+        "enthusiastic and professional",
+        "quick to grasp new ideas and concepts",
+        "Able to work well",
+        "OBJECTIVE",
+        "Electrical Engineering",
+        "Ordinary Diploma in Telecommunications Engineering",
+        "Certificate of a Radio and Television Electronics and Technology                                       2005 -2006",
+        "PRT 1 & 2",
+        "Certificate in Computer Hardware",
+        "Uganda Advanced certificate of education",
+        "Demonstrable  competence",
+        "details",
+        "protocol",
+        "engineering ethics",
+        "Span of control above 100 staff",
+        "in depth analysis",
+        "Good skills in fault diagnosing on machines",
+        "environmental concepts",
+        "fire  fighting skills",
+        "Computer literate",
+        "Administrative skills",
+        "Good communication skill"
+    ],
+    "professional_info": {
+        "person name": [
+            "SIMON PETER CLIFF",
+            "I"
+        ],
+        "job title": [
+            "Maintenance Supervisor"
+        ],
+        "company": [
+            "Uganda Institute of Communication and Technology Nakawa",
+            "Nakawa Vocational Training Institute",
+            "Uganda Martyrs’ High School Lubaga",
+            "Uganda certificate of education  (U.C.E)",
+            "Sadolin Paints Uganda limited"
+        ],
+        "university": [
+            "Makerere Un iversity"
+        ],
+        "degree": [
+            "Bachelor’s degree"
+        ],
+        "years of experience": [],
+        "address": [
+            "Address",
+            "4878 k’la"
+        ],
+        "email": [
+            "E Mail",
+            "theglobeug@hotmail.com",
+            "0r clif_val@yahoomail.com"
+        ],
+        "phone": [
+            "Mob",
+            "+25678 5 892 100",
+            "+25670 2 019 945"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "PROFILE": 0.2051,
+            "enthusiastic and professional": 0.232,
+            "quick to grasp new ideas and concepts": 0.2542,
+            "Able to work well": 0.2146,
+            "OBJECTIVE": 0.3352,
+            "Electrical Engineering": 0.5024,
+            "Ordinary Diploma in Telecommunications Engineering": 0.2681,
+            "Certificate of a Radio and Television Electronics and Technology                                       2005 -2006": 0.3529,
+            "PRT 1 & 2": 0.3524,
+            "Certificate in Computer Hardware": 0.5129,
+            "Uganda Advanced certificate of education": 0.1657,
+            "Demonstrable  competence": 0.2188,
+            "details": 0.1575,
+            "protocol": 0.4485,
+            "engineering ethics": 0.2344,
+            "Span of control above 100 staff": 0.2337,
+            "in depth analysis": 0.1781,
+            "Good skills in fault diagnosing on machines": 0.3,
+            "environmental concepts": 0.2299,
+            "fire  fighting skills": 0.3068,
+            "Computer literate": 0.4627,
+            "Administrative skills": 0.4119,
+            "Good communication skill": 0.2217
+        },
+        "filename": "cv (1821)_annotated.json"
+    }
+}

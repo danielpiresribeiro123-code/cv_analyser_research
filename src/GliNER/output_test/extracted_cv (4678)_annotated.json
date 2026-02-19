@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "SKILLS",
+        "Skills",
+        "Excel",
+        "Microsoft Office",
+        "Read",
+        "Experience",
+        "Assembler",
+        "Personal Information",
+        "Non Smoker or Drinker",
+        "I am",
+        "punctual",
+        "honest",
+        "good work ethic",
+        "Skills",
+        "Office",
+        "Read",
+        "good work ethic"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT",
+            "Supervisors",
+            "Manager",
+            "Asst. Bldg. Superintendent",
+            "Manager of the Demurage and",
+            "Switching Billing",
+            "Asst. To",
+            "Clerical Director",
+            "Manager Crew",
+            "Retired",
+            "Assembler"
+        ],
+        "company": [
+            "Company Name",
+            "Chrysler Automotive",
+            "McDonald Aircraft Co.",
+            "DC 8 Aircraft",
+            "General Telephone Co.",
+            "General Telephone"
+        ],
+        "university": [
+            "Tuloso-Midway High School",
+            "San Jacinto College"
+        ],
+        "degree": [
+            "Diploma"
+        ],
+        "years of experience": [],
+        "address": [
+            "Pasadena Texas"
+        ],
+        "email": [],
+        "phone": [
+            "Telephone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "SKILLS": 0.3892,
+            "Skills": 0.4792,
+            "Excel": 0.4645,
+            "Microsoft Office": 0.7895,
+            "Read": 0.2442,
+            "Experience": 0.183,
+            "Assembler": 0.189,
+            "Personal Information": 0.465,
+            "Non Smoker or Drinker": 0.7872,
+            "I am": 0.2934,
+            "punctual": 0.4388,
+            "honest": 0.3291,
+            "good work ethic": 0.1824,
+            "Office": 0.2515
+        },
+        "filename": "cv (4678)_annotated.json"
+    }
+}

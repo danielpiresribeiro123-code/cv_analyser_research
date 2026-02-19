@@ -1,0 +1,45 @@
+{
+    "skills": [
+        "educational expertise",
+        "innovative ideas",
+        "ACCOUNTABILITIES & ATTAINMENTS"
+    ],
+    "professional_info": {
+        "person name": [
+            "FAIZAN AHMAD"
+        ],
+        "job title": [
+            "DOCUMENT CONTROLLER",
+            "Computer operator cum accounting",
+            "Computer operator cum clerical"
+        ],
+        "company": [
+            "progressive company",
+            "KONIKA INDUSTRIES",
+            "IDBI Bank Ltd"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "H. No B-11",
+            "Madina Nagar",
+            "Ashiyana Nagar M.G Road"
+        ],
+        "email": [
+            "faizan_a_shaikh@yahoo.com",
+            "0091-9033719580",
+            "0091-9377452261"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "educational expertise": 0.316,
+            "innovative ideas": 0.2544,
+            "ACCOUNTABILITIES & ATTAINMENTS": 0.2817
+        },
+        "filename": "cv (3075)_annotated.json"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "skills": [
+        "intelligent",
+        "enthusiastic",
+        "Experience",
+        "Motivated",
+        "organized",
+        "Attention to Detail",
+        "Administrative Support",
+        "Understanding of healthcare policy",
+        "Patient Scheduling and Billing",
+        "HIPPA Laws",
+        "Records Keeping",
+        "Highly proficient",
+        "Microsoft Programs",
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Effective verbal",
+        "listening and written communication skills",
+        "problem solving skills",
+        "passionate",
+        "experience",
+        "Team oriented",
+        "passion",
+        "superior communication skills",
+        "reliable",
+        "dependable",
+        "trustworthy"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "SUBSTITUTE TEACHER",
+            "HEALTH ADMINISTRATION HOSPITAL OPERATIONS PUBLIC SERVICE major",
+            "Principle",
+            "Veterinary Technician and Receptionist"
+        ],
+        "company": [
+            "Company Name",
+            "School district",
+            "Extensive Veterinary Hospital"
+        ],
+        "university": [],
+        "degree": [
+            "collegiate athlete"
+        ],
+        "years of experience": [],
+        "address": [
+            "City",
+            "Fort Lauderdale"
+        ],
+        "email": [
+            "Outlook"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "intelligent": 0.4229,
+            "enthusiastic": 0.2306,
+            "Experience": 0.2265,
+            "Motivated": 0.4541,
+            "organized": 0.294,
+            "Attention to Detail": 0.5821,
+            "Administrative Support": 0.4141,
+            "Understanding of healthcare policy": 0.2994,
+            "Patient Scheduling and Billing": 0.4166,
+            "HIPPA Laws": 0.2737,
+            "Records Keeping": 0.3613,
+            "Highly proficient": 0.2041,
+            "Microsoft Programs": 0.4765,
+            "Word": 0.5823,
+            "Excel": 0.4881,
+            "PowerPoint": 0.5558,
+            "Effective verbal": 0.2646,
+            "listening and written communication skills": 0.2077,
+            "problem solving skills": 0.5294,
+            "passionate": 0.2942,
+            "experience": 0.1911,
+            "Team oriented": 0.2532,
+            "passion": 0.214,
+            "superior communication skills": 0.2306,
+            "reliable": 0.3945,
+            "dependable": 0.2956,
+            "trustworthy": 0.1894
+        },
+        "filename": "cv (4649)_annotated.json"
+    }
+}

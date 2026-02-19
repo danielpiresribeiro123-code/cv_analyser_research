@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "Tableau",
+        "SQL",
+        "power",
+        "inference",
+        "analysis",
+        "machine",
+        "learning",
+        "PERSONAL",
+        "Data Analytics",
+        "Business Intelligence",
+        "Machine",
+        "Learning",
+        "Python",
+        "SQL",
+        "PowerBi",
+        "Jupyter",
+        "SSMS",
+        "Data",
+        "Dax",
+        "ETL",
+        "Dataset",
+        "Data Dashboarding"
+    ],
+    "professional_info": {
+        "person name": [
+            "BEULA SMITHSON"
+        ],
+        "job title": [
+            "DATA ANALYST",
+            "WORK EXPERIENCE",
+            "BI Engineer",
+            "EXECUTIVE",
+            "SUMMARY",
+            "Experience analyst"
+        ],
+        "company": [
+            "Graphene health tech Pvt Ltd"
+        ],
+        "university": [
+            "A.G. PATIL INSTITUTE OF, TECHNOLOGY",
+            "Walchand institute"
+        ],
+        "degree": [
+            "ACADEMIC PROFILE",
+            "B.Tech(Computers)",
+            "M.E(COMPUTER SCIENCE)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Tableau": 0.5525,
+            "SQL": 0.1638,
+            "power": 0.2168,
+            "inference": 0.1589,
+            "analysis": 0.4726,
+            "machine": 0.5875,
+            "learning": 0.432,
+            "PERSONAL": 0.3862,
+            "Data Analytics": 0.3886,
+            "Business Intelligence": 0.3895,
+            "Machine": 0.4039,
+            "Learning": 0.2983,
+            "Python": 0.575,
+            "PowerBi": 0.4159,
+            "Jupyter": 0.4937,
+            "SSMS": 0.4204,
+            "Data": 0.3242,
+            "Dax": 0.2955,
+            "ETL": 0.1886,
+            "Dataset": 0.2754,
+            "Data Dashboarding": 0.1634
+        },
+        "filename": "cv (5026)_annotated.json"
+    }
+}

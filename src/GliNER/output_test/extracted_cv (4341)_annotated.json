@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "leadership",
+        "communication",
+        "project planning",
+        "budgeting",
+        "design",
+        "Service Now",
+        "ITIL Active Directory",
+        "Office 365",
+        "PMI /PMP",
+        "PACS",
+        "Pyxis",
+        "Enterprise Architecture"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "DIRECTOR OF INFORMATION TECHNOLOGY",
+            "Senior Project Management Position",
+            "Senior Project Manager",
+            "project managers",
+            "Business Analyst"
+        ],
+        "company": [
+            "Company Name",
+            "Cerner",
+            "Public Health",
+            "Fire Department"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "25 years"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "leadership": 0.4944,
+            "communication": 0.4123,
+            "project planning": 0.2257,
+            "budgeting": 0.2346,
+            "design": 0.1807,
+            "Service Now": 0.454,
+            "ITIL Active Directory": 0.4976,
+            "Office 365": 0.6105,
+            "PMI /PMP": 0.75,
+            "PACS": 0.2853,
+            "Pyxis": 0.2615,
+            "Enterprise Architecture": 0.4532
+        },
+        "filename": "cv (4341)_annotated.json"
+    }
+}

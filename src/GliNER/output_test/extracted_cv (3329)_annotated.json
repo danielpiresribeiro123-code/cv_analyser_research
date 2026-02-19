@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Electrical Engineering",
+        "professional ability",
+        "technical and analytical skills",
+        "knowledge",
+        "Solar Plant Designing",
+        "Analytical",
+        "problem solving",
+        "interpersonal relationship",
+        "H.T & L.T connections",
+        "switchgears",
+        "distribution of power",
+        "ACADEMICS",
+        "12 th"
+    ],
+    "professional_info": {
+        "person name": [
+            "SATISH KUMAR CHAUDHARY"
+        ],
+        "job title": [
+            "Technical Executive",
+            "Engineer In- Charge",
+            "10th"
+        ],
+        "company": [
+            "Primus Energy Solutions Pvt. Ltd."
+        ],
+        "university": [
+            "Rajasthan Technical University",
+            "Jesus & Mary Academy Darbhanga( CBSE)",
+            "Kota Super Thermal Power Station"
+        ],
+        "degree": [
+            "B.Tech (Electrical  Engineering)"
+        ],
+        "years of experience": [
+            "4 weeks"
+        ],
+        "address": [
+            "209/5, Ganga Nath Marg",
+            "Munirka Delhi"
+        ],
+        "email": [
+            "Email",
+            "sat.gunjan@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+919540791125"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Electrical Engineering": 0.4097,
+            "professional ability": 0.2689,
+            "technical and analytical skills": 0.3471,
+            "knowledge": 0.1634,
+            "Solar Plant Designing": 0.1672,
+            "Analytical": 0.4409,
+            "problem solving": 0.2653,
+            "interpersonal relationship": 0.4169,
+            "H.T & L.T connections": 0.2358,
+            "switchgears": 0.1502,
+            "distribution of power": 0.2056,
+            "ACADEMICS": 0.2483,
+            "12 th": 0.3076
+        },
+        "filename": "cv (3329)_annotated.json"
+    }
+}

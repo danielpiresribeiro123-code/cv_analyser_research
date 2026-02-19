@@ -1,0 +1,95 @@
+{
+    "skills": [
+        "python",
+        "OpenCV",
+        "dlib",
+        "model",
+        "data regression",
+        "modeling",
+        "data mining",
+        "algorithms",
+        "Classification",
+        "Algorithms and Regression",
+        "Natural Language",
+        "PERSONAL",
+        "Data Science",
+        "Data Analysis",
+        "Machine Learning",
+        "Deep Learning",
+        "Statistical Analysis",
+        "Computer Vision",
+        "Algorithm",
+        "Development",
+        "Linear Regression",
+        "Market Basket Analysis",
+        "R",
+        "SQL",
+        "NoSQL",
+        "PROJECTS",
+        "OCR Model From Scratch",
+        "EXTRA-CURRICULARS",
+        "Data Analyst Certification"
+    ],
+    "professional_info": {
+        "person name": [
+            "ANDORA MCCONNEL"
+        ],
+        "job title": [
+            "DATA SCIENTIST",
+            "Lead Data Scientist",
+            "prophet",
+            "EXECUTIVE"
+        ],
+        "company": [
+            "HP",
+            "Adnet Global"
+        ],
+        "university": [
+            "Delhi College of Art",
+            "Aegis School of Business & Data Science"
+        ],
+        "degree": [
+            "B.Com (Commerce)",
+            "PG Diploma (Data Science and Business Analytics)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 29,
+        "confidence_scores": {
+            "python": 0.9926,
+            "OpenCV": 0.4614,
+            "dlib": 0.7874,
+            "model": 0.1615,
+            "data regression": 0.5151,
+            "modeling": 0.359,
+            "data mining": 0.7881,
+            "algorithms": 0.5443,
+            "Classification": 0.2535,
+            "Algorithms and Regression": 0.4169,
+            "Natural Language": 0.2741,
+            "PERSONAL": 0.3787,
+            "Data Science": 0.3321,
+            "Data Analysis": 0.5874,
+            "Machine Learning": 0.6952,
+            "Deep Learning": 0.6582,
+            "Statistical Analysis": 0.6892,
+            "Computer Vision": 0.418,
+            "Algorithm": 0.2642,
+            "Development": 0.3082,
+            "Linear Regression": 0.7584,
+            "Market Basket Analysis": 0.5619,
+            "R": 0.938,
+            "SQL": 0.5522,
+            "NoSQL": 0.7627,
+            "PROJECTS": 0.2129,
+            "OCR Model From Scratch": 0.3644,
+            "EXTRA-CURRICULARS": 0.6548,
+            "Data Analyst Certification": 0.8897
+        },
+        "filename": "cv (5005)_annotated.json"
+    }
+}

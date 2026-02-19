@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "Strategic Planning",
+        "SDLC",
+        "Data Analysis",
+        "Oracle SQL",
+        "MS Access",
+        "Progress RDB",
+        "Power Point",
+        "HP Quality Center",
+        "MS Test Rational software",
+        "QA",
+        "MS Word",
+        "MS Project Visio",
+        "Planning and Strategy",
+        "Project managed Communication",
+        "Quality",
+        "Project Management Life Cycles",
+        "leadership agility",
+        "enhanced ability to read organizations",
+        "honed skills in strategy execution",
+        "Project managed design",
+        "Resource Capacity Management tool",
+        "project and communication plans",
+        "development",
+        "Portfolio Management Database application",
+        "project implementation",
+        "Project Management Lifecycles"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Business Analyst",
+            "Developers",
+            "stakeholders"
+        ],
+        "company": [
+            "Company Name",
+            "AIT",
+            "Annuities"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Strategic Planning": 0.3033,
+            "SDLC": 0.4057,
+            "Data Analysis": 0.2469,
+            "Oracle SQL": 0.2759,
+            "MS Access": 0.2543,
+            "Progress RDB": 0.2353,
+            "Power Point": 0.2267,
+            "HP Quality Center": 0.1791,
+            "MS Test Rational software": 0.3213,
+            "QA": 0.1788,
+            "MS Word": 0.3117,
+            "MS Project Visio": 0.3397,
+            "Planning and Strategy": 0.247,
+            "Project managed Communication": 0.1887,
+            "Quality": 0.1653,
+            "Project Management Life Cycles": 0.2926,
+            "leadership agility": 0.6659,
+            "enhanced ability to read organizations": 0.4858,
+            "honed skills in strategy execution": 0.3132,
+            "Project managed design": 0.1996,
+            "Resource Capacity Management tool": 0.5177,
+            "project and communication plans": 0.1533,
+            "development": 0.1657,
+            "Portfolio Management Database application": 0.3799,
+            "project implementation": 0.2293,
+            "Project Management Lifecycles": 0.2717
+        },
+        "filename": "cv (4598)_annotated.json"
+    }
+}

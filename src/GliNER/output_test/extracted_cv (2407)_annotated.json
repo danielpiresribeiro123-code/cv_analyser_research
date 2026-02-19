@@ -1,0 +1,106 @@
+{
+    "skills": [
+        "Good analytical skills",
+        "result oriented",
+        "excellent interpersonal",
+        "Optimistic",
+        "Hardworking",
+        "Trustworthy",
+        "Quick and eager learn",
+        "Single",
+        "Malayalam",
+        "Hindi",
+        "English",
+        "Tamil",
+        "TECHNICAL & SPECIAL AND EXPERTISE",
+        "ERP",
+        "Excel",
+        "Word",
+        "M S office",
+        "Excellent interpersonal skills",
+        "Very quick and eager learner",
+        "positive mental attitude",
+        "Very organized and detail oriented",
+        "Can work independently and diligently",
+        "Ability to work with deadline",
+        "trust worthy"
+    ],
+    "professional_info": {
+        "person name": [
+            "SARATH.K",
+            "sarathkuniyil999",
+            "Male",
+            "Prasanthan"
+        ],
+        "job title": [
+            "Weighbridge  operator",
+            "Store  keeper",
+            "Data  Entry",
+            "operations",
+            "M 8556175"
+        ],
+        "company": [
+            "company",
+            "Weighbrid"
+        ],
+        "university": [
+            "UniversityMarks",
+            "College KoyilandyCalicut",
+            "University56",
+            "Chelannur Board of Higher",
+            "Hindu",
+            "Indian"
+        ],
+        "degree": [],
+        "years of experience": [
+            "WORK EXPERIENCE"
+        ],
+        "address": [
+            "Kuniyil House",
+            "Ulliiyeri Post",
+            "Kozhikode Dist"
+        ],
+        "email": [
+            "Mob",
+            "Email",
+            "gmail.com",
+            "Good Leadership",
+            "E - Mail",
+            ".com"
+        ],
+        "phone": [
+            "+91 7902873797",
+            "+91, 7902873797"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Good analytical skills": 0.3324,
+            "result oriented": 0.2226,
+            "excellent interpersonal": 0.4931,
+            "Optimistic": 0.4036,
+            "Hardworking": 0.2853,
+            "Trustworthy": 0.2249,
+            "Quick and eager learn": 0.3501,
+            "Single": 0.1538,
+            "Malayalam": 0.9332,
+            "Hindi": 0.8983,
+            "English": 0.8958,
+            "Tamil": 0.886,
+            "TECHNICAL & SPECIAL AND EXPERTISE": 0.2946,
+            "ERP": 0.4492,
+            "Excel": 0.2807,
+            "Word": 0.2685,
+            "M S office": 0.3501,
+            "Excellent interpersonal skills": 0.5872,
+            "Very quick and eager learner": 0.3478,
+            "positive mental attitude": 0.2835,
+            "Very organized and detail oriented": 0.3249,
+            "Can work independently and diligently": 0.2972,
+            "Ability to work with deadline": 0.2993,
+            "trust worthy": 0.197
+        },
+        "filename": "cv (2407)_annotated.json"
+    }
+}

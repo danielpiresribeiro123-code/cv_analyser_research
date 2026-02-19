@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "Male",
+        "Marital Status",
+        "Single",
+        "Hindi",
+        "Urdu",
+        "English",
+        "ACADEMIC QUALIFICATION",
+        "Mech.",
+        "Refrigeration and",
+        "Air-ConditioningSCVT",
+        "Diploma in",
+        "Computer, Science &, Technology",
+        "SEM-3 76",
+        "SEM-484.22",
+        "StudyDCA",
+        "Diploma in computer, application",
+        "DTP"
+    ],
+    "professional_info": {
+        "person name": [
+            "Raunaque Ali",
+            "Late. Khurshid Hussain"
+        ],
+        "job title": [
+            "TECH SUPPORT EXECUTIVE",
+            "A/C Technician",
+            "Maker"
+        ],
+        "company": [
+            "Octane info solution pvt ltd."
+        ],
+        "university": [
+            "CBSEPatna Muslim Higher",
+            "Secondary School62010",
+            "ITI",
+            "M.M.R.M",
+            "Technical Institute",
+            "Budge Budge",
+            "Institute of, Technology"
+        ],
+        "degree": [
+            "W.B.S.C.T.E",
+            "Ailya Computer"
+        ],
+        "years of experience": [
+            "Six month"
+        ],
+        "address": [
+            "7B/H/3/1Tiljala Lane",
+            "Kol-700019"
+        ],
+        "email": [
+            "Email",
+            "raunaque.98@gmail.com"
+        ],
+        "phone": [
+            "Phone Number :           8013713611"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Male": 0.2395,
+            "Marital Status": 0.1703,
+            "Single": 0.3644,
+            "Hindi": 0.6935,
+            "Urdu": 0.6671,
+            "English": 0.6311,
+            "ACADEMIC QUALIFICATION": 0.1515,
+            "Mech.": 0.2817,
+            "Refrigeration and": 0.3349,
+            "Air-ConditioningSCVT": 0.3495,
+            "Diploma in": 0.5375,
+            "Computer, Science &, Technology": 0.3076,
+            "SEM-3 76": 0.1795,
+            "SEM-484.22": 0.1545,
+            "StudyDCA": 0.5445,
+            "Diploma in computer, application": 0.3443,
+            "DTP": 0.2047
+        },
+        "filename": "cv (2470)_annotated.json"
+    }
+}

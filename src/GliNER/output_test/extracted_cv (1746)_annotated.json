@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "P&ID",
+        "Process flow diagrams",
+        "JB Schedule",
+        "Cable schedule",
+        "Manpower planning",
+        "Pre paring Protocols for Erection and commissioning",
+        "KEY EXPERTISE",
+        "Erection & Commissioning",
+        "Maintenance of field instruments",
+        "Risk analysis",
+        "Control strategies and Control logics"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUNIL KRISHNA"
+        ],
+        "job title": [
+            "C &I  Erection & Commissioning Engineer"
+        ],
+        "company": [
+            "TSI",
+            "Aditya Birla  (cpp) Energy Ltd.",
+            "M/s",
+            "Autotrical",
+            "BHEL"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Lapanga"
+        ],
+        "email": [
+            "Email",
+            "suneelkrishna.m@gmail.com",
+            "Contact no",
+            "08342886651",
+            "Employee Relations"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "P&ID": 0.2482,
+            "Process flow diagrams": 0.3598,
+            "JB Schedule": 0.4446,
+            "Cable schedule": 0.3112,
+            "Manpower planning": 0.3674,
+            "Pre paring Protocols for Erection and commissioning": 0.1952,
+            "KEY EXPERTISE": 0.4726,
+            "Erection & Commissioning": 0.1701,
+            "Maintenance of field instruments": 0.2056,
+            "Risk analysis": 0.1684,
+            "Control strategies and Control logics": 0.1889
+        },
+        "filename": "cv (1746)_annotated.json"
+    }
+}

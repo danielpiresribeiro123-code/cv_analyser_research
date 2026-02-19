@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "excellent communication skills",
+        "Organized and driven",
+        "innate ability to stay on task",
+        "Lesson planning expertise",
+        "Academic performance evaluation",
+        "Common core knowledge",
+        "Strong communication & analytical skills",
+        "Student motivation",
+        "Use of aids",
+        "Math lab",
+        "smart board",
+        "X Std ICSE Board examination - paper evaluation",
+        "First Class",
+        "English",
+        "Tamil",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAJESWARI"
+        ],
+        "job title": [
+            "Math Teacher",
+            "Math Curricula m Team Member",
+            "Cue Math Teacher",
+            "Par tner",
+            "X Std ICSE Board Exam  Invigilator"
+        ],
+        "company": [
+            "Chrysalis High  Chain of Schools  (CBSE)",
+            "Oxford press",
+            "Madhuban publications"
+        ],
+        "university": [
+            "Azim Premji University",
+            "Manon mania m Sundaranar University",
+            "University of Madras",
+            "Bhartidasan University"
+        ],
+        "degree": [
+            "Masters in Math",
+            "Bachelor of Math",
+            "Bachelor of Education"
+        ],
+        "years of experience": [
+            "Six years"
+        ],
+        "address": [
+            "Dynamic Flats",
+            "No.3 , 3rd Main Road",
+            "Nanga nallur",
+            "Chennai 600 061"
+        ],
+        "email": [
+            "E-mail id",
+            "rajiswamy77@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "excellent communication skills": 0.3167,
+            "Organized and driven": 0.548,
+            "innate ability to stay on task": 0.3541,
+            "Lesson planning expertise": 0.4319,
+            "Academic performance evaluation": 0.4317,
+            "Common core knowledge": 0.4455,
+            "Strong communication & analytical skills": 0.4053,
+            "Student motivation": 0.4702,
+            "Use of aids": 0.1903,
+            "Math lab": 0.3762,
+            "smart board": 0.2954,
+            "X Std ICSE Board examination - paper evaluation": 0.1614,
+            "First Class": 0.3233,
+            "English": 0.8523,
+            "Tamil": 0.822,
+            "Hindi": 0.869
+        },
+        "filename": "cv (1592)_annotated.json"
+    }
+}

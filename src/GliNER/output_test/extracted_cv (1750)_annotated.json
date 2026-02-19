@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "electrical",
+        "electronics",
+        "instrumentation",
+        "automation",
+        "maintenance/ project engineering",
+        "Industrial Electronics Engineering",
+        "Crank shaft",
+        "valve body",
+        "6-axis robots",
+        "2500 MT trim press",
+        "4000MT press",
+        "Ring Rolling mill",
+        "Box type regenerative Heating furnaces",
+        "Rotary Hearth Furnaces",
+        "Reduce roll system",
+        "magnaflux m/c",
+        "MCC.\\PCC. DG set",
+        "AB RS View32",
+        "Elips",
+        "ACS 800/500 series"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ranjitsingh D. Parmar"
+        ],
+        "job title": [
+            "maintenance engineering professional",
+            "electrical maintenance Head"
+        ],
+        "company": [
+            "BHARAT FORGE LTD.",
+            "Bharat forge",
+            "Muller Weingarten Germany",
+            "GLAMA Germany",
+            "Manyo Japan",
+            "Atlas copco",
+            "Siemens",
+            "AB",
+            "Mitsubishi",
+            "GE",
+            "ABB",
+            "Thyssen - Krupp Electrical  Steels India P . Ltd ."
+        ],
+        "university": [
+            "Pravara Rural Engg College"
+        ],
+        "degree": [
+            "Bachelor Degree"
+        ],
+        "years of experience": [],
+        "address": [
+            "Sameer Plaza Sai Nagar",
+            "Sankutik Bhavan Bhigwan Road",
+            "Baramati",
+            "Loni Dist. Ahmednagar"
+        ],
+        "email": [
+            "E-mail",
+            "ranjitsinghparmar141971@gmail.com"
+        ],
+        "phone": [
+            "Mobile No.9922990612 /9881723107"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "electrical": 0.166,
+            "electronics": 0.2831,
+            "instrumentation": 0.3069,
+            "automation": 0.2696,
+            "maintenance/ project engineering": 0.1699,
+            "Industrial Electronics Engineering": 0.3703,
+            "Crank shaft": 0.1533,
+            "valve body": 0.178,
+            "6-axis robots": 0.1867,
+            "2500 MT trim press": 0.2574,
+            "4000MT press": 0.1689,
+            "Ring Rolling mill": 0.1695,
+            "Box type regenerative Heating furnaces": 0.3464,
+            "Rotary Hearth Furnaces": 0.2723,
+            "Reduce roll system": 0.1875,
+            "magnaflux m/c": 0.3378,
+            "MCC.\\PCC. DG set": 0.2385,
+            "AB RS View32": 0.2019,
+            "Elips": 0.1839,
+            "ACS 800/500 series": 0.2141
+        },
+        "filename": "cv (1750)_annotated.json"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "Civil engineering",
+        "Structural Engineering",
+        "English",
+        "French",
+        "AutoCad",
+        "MathCad",
+        "SteelExpress",
+        "Tekla",
+        "VB Express",
+        "Axis VM",
+        "Ansys",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "PowerPoint",
+        "professional practice",
+        "Married"
+    ],
+    "professional_info": {
+        "person name": [
+            "Izabella Gazdusné Wusinczky",
+            "Joó",
+            "Attila László",
+            "Dunai, László",
+            "Gheorghiu-Dej"
+        ],
+        "job title": [
+            "Civil Engineer",
+            "CEOS",
+            "MSc diploma civil engineer",
+            "2009-Civil Engineer"
+        ],
+        "company": [
+            "Civil Engineering Optimal Solutions",
+            "2007-Adeptus Plc."
+        ],
+        "university": [],
+        "degree": [
+            "MSC in Civil Engineering",
+            "BME"
+        ],
+        "years of experience": [],
+        "address": [
+            "H-1054 Budapest",
+            "Vértanúk tere 1.",
+            "H-1135 Budapest"
+        ],
+        "email": [
+            "Email",
+            "iwgazdus@ce-os.eu",
+            "E-mail"
+        ],
+        "phone": [
+            "Tel.",
+            "+36/30/863-04-29",
+            "Phone number"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Civil engineering": 0.3521,
+            "Structural Engineering": 0.5629,
+            "English": 0.6715,
+            "French": 0.7435,
+            "AutoCad": 0.4322,
+            "MathCad": 0.4936,
+            "SteelExpress": 0.5354,
+            "Tekla": 0.5184,
+            "VB Express": 0.6994,
+            "Axis VM": 0.6372,
+            "Ansys": 0.3921,
+            "Microsoft Word": 0.716,
+            "Microsoft Excel": 0.6771,
+            "PowerPoint": 0.5431,
+            "professional practice": 0.2898,
+            "Married": 0.161
+        },
+        "filename": "cv (1249)_annotated.json"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "art & craft",
+        "Teacher Certification",
+        "Shilpkar clay",
+        "Glass painting",
+        "Mixed media",
+        "Art and Craft",
+        "knowledge",
+        "Expertise in conducting art and craft classes",
+        "independently",
+        "Knowledge",
+        "Best out of waste",
+        "Paper Craft",
+        "Convas painting",
+        "Fabric Painting",
+        "Relif Art"
+    ],
+    "professional_info": {
+        "person name": [
+            "Anitha B",
+            "Anitha"
+        ],
+        "job title": [
+            "Art and Craft Teacher",
+            "Kumudam Snegithi",
+            "Trainee Teacher",
+            "Specialist",
+            "Yours Faithfully"
+        ],
+        "company": [
+            "MCC School and Quaid-e-Millath College",
+            "Montessori Teacher",
+            "Training Institute",
+            "Fevicryl",
+            "School and colleges"
+        ],
+        "university": [],
+        "degree": [
+            "B.Sc (Computer Science)"
+        ],
+        "years of experience": [],
+        "address": [
+            "3/15, EVR Street",
+            "Santhosapuram",
+            "Chennai – 73"
+        ],
+        "email": [
+            "bala14_cse@yahoo.co."
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "art & craft": 0.2949,
+            "Teacher Certification": 0.575,
+            "Shilpkar clay": 0.6757,
+            "Glass painting": 0.6893,
+            "Mixed media": 0.6088,
+            "Art and Craft": 0.4341,
+            "knowledge": 0.1868,
+            "Expertise in conducting art and craft classes": 0.2916,
+            "independently": 0.1877,
+            "Knowledge": 0.2308,
+            "Best out of waste": 0.5562,
+            "Paper Craft": 0.5477,
+            "Convas painting": 0.5262,
+            "Fabric Painting": 0.5164,
+            "Relif Art": 0.6001
+        },
+        "filename": "cv (1595)_annotated.json"
+    }
+}

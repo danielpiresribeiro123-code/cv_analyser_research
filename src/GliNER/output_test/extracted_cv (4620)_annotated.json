@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "Business Applications",
+        "SAP Web Intelligence",
+        "Informatica Data Explorer",
+        "MS Visio",
+        "MS Project",
+        "Rational Rose",
+        "Business Objects",
+        "SQL",
+        "UML",
+        "C",
+        "C++",
+        "Java",
+        "Perl",
+        "Web Development",
+        "HTML",
+        "XML",
+        "PHP",
+        "Windows XP",
+        "Vista/7",
+        "Linux",
+        "Netezza",
+        "SQL Server 2005",
+        "Oracle 9i/10g",
+        "Business Intelligence",
+        "global marketing databases",
+        "Customer Data Integration",
+        "warranty based CRM marketing solution"
+    ],
+    "professional_info": {
+        "person name": [
+            "Jusitn"
+        ],
+        "job title": [
+            "subject matter expert"
+        ],
+        "company": [
+            "Merkle"
+        ],
+        "university": [
+            "Mumbai University",
+            "University of Maryland"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "Business Applications": 0.2275,
+            "SAP Web Intelligence": 0.4086,
+            "Informatica Data Explorer": 0.3924,
+            "MS Visio": 0.4584,
+            "MS Project": 0.5511,
+            "Rational Rose": 0.5132,
+            "Business Objects": 0.6186,
+            "SQL": 0.16,
+            "UML": 0.2547,
+            "C": 0.8144,
+            "C++": 0.7005,
+            "Java": 0.4679,
+            "Perl": 0.8663,
+            "Web Development": 0.2686,
+            "HTML": 0.7947,
+            "XML": 0.7464,
+            "PHP": 0.8613,
+            "Windows XP": 0.9131,
+            "Vista/7": 0.3918,
+            "Linux": 0.956,
+            "Netezza": 0.3065,
+            "SQL Server 2005": 0.5456,
+            "Oracle 9i/10g": 0.5163,
+            "Business Intelligence": 0.3388,
+            "global marketing databases": 0.1645,
+            "Customer Data Integration": 0.1835,
+            "warranty based CRM marketing solution": 0.2339
+        },
+        "filename": "cv (4620)_annotated.json"
+    }
+}

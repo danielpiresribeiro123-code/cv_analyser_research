@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "Electrical Diploma",
+        "personal",
+        "technical and managerial skills",
+        "PROFESSIONAN STRENGTH",
+        "Ability to handle clerical tasks efficiently and effectively",
+        "excellent verbal and written communication skills",
+        "Singhala",
+        "Tamil",
+        "English",
+        "Hindi",
+        "Malayalam",
+        "basic operating systems",
+        "Microsoft Word",
+        "Excel",
+        "PowerPoint",
+        "Outlook",
+        "Internet",
+        "Good-motivation",
+        "leadership skills",
+        "Goal-oriented",
+        "ability to complete tasks within deadlines",
+        "excellent relationships",
+        "Able to do work as a group member",
+        "In-depth knowledge of client service management",
+        "knowledge",
+        "experience"
+    ],
+    "professional_info": {
+        "person name": [
+            "NAME",
+            "RICHARD EASTER"
+        ],
+        "job title": [
+            "Office Admin",
+            "Document Controller",
+            "Office Admin/CAFM Operator",
+            "Store Keeper",
+            "Help Desk",
+            "Office Admin / CAFM Operator"
+        ],
+        "company": [
+            "EFS Facilities Services QATAR WLL",
+            "Farnek Services LLC",
+            "Emcor Facilities Service  WLL"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "DUBAI"
+        ],
+        "email": [
+            "MAIL ID",
+            "maxrichard01@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Electrical Diploma": 0.304,
+            "personal": 0.1636,
+            "technical and managerial skills": 0.1749,
+            "PROFESSIONAN STRENGTH": 0.3304,
+            "Ability to handle clerical tasks efficiently and effectively": 0.2602,
+            "excellent verbal and written communication skills": 0.1994,
+            "Singhala": 0.796,
+            "Tamil": 0.7906,
+            "English": 0.7634,
+            "Hindi": 0.7861,
+            "Malayalam": 0.7724,
+            "basic operating systems": 0.2199,
+            "Microsoft Word": 0.6011,
+            "Excel": 0.3592,
+            "PowerPoint": 0.3975,
+            "Outlook": 0.3965,
+            "Internet": 0.3516,
+            "Good-motivation": 0.3329,
+            "leadership skills": 0.3791,
+            "Goal-oriented": 0.2317,
+            "ability to complete tasks within deadlines": 0.2426,
+            "excellent relationships": 0.2146,
+            "Able to do work as a group member": 0.2633,
+            "In-depth knowledge of client service management": 0.2841,
+            "knowledge": 0.1534,
+            "experience": 0.1939
+        },
+        "filename": "cv (2158)_annotated.json"
+    }
+}

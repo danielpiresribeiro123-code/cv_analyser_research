@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "professional skill",
+        "DIPLOMA IN ELECTRICAL ENGINERING",
+        "Conduiting",
+        "Installation",
+        "MCC generator",
+        "cable laying",
+        "jointing",
+        "Megger",
+        "under voltage relay",
+        "Certifications",
+        "Electrical Wiring and Winding",
+        "DIPLOMA IN ELECTRICAL ENGINEERING",
+        "Plant Vocational Training"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAIF AHMAD"
+        ],
+        "job title": [
+            "ELECTRICAL SUPERVISOR",
+            "ELECTRICL SUPERVISOR",
+            "ELECTRICAL-SUPERVISOR",
+            "Electrician Suprvisor"
+        ],
+        "company": [
+            "Era Infra Engineering Limited"
+        ],
+        "university": [
+            "CBSE Board"
+        ],
+        "degree": [
+            "Matriculation(10th)"
+        ],
+        "years of experience": [
+            "3 YEARS OF EXPERIENCE"
+        ],
+        "address": [
+            "New Delhi"
+        ],
+        "email": [
+            "Email-saifahmd.rps786@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "professional skill": 0.1882,
+            "DIPLOMA IN ELECTRICAL ENGINERING": 0.4074,
+            "Conduiting": 0.3286,
+            "Installation": 0.2419,
+            "MCC generator": 0.1652,
+            "cable laying": 0.2122,
+            "jointing": 0.2245,
+            "Megger": 0.1824,
+            "under voltage relay": 0.2565,
+            "Certifications": 0.3352,
+            "Electrical Wiring and Winding": 0.4194,
+            "DIPLOMA IN ELECTRICAL ENGINEERING": 0.4652,
+            "Plant Vocational Training": 0.2953
+        },
+        "filename": "cv (89)_annotated.json"
+    }
+}

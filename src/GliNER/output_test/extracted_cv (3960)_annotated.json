@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "Building  construction  field",
+        "MS Office",
+        "AutoCAD",
+        "Gender",
+        "English",
+        "Hindi",
+        "Urdu",
+        "Marital status",
+        "Auto-Cad"
+    ],
+    "professional_info": {
+        "person name": [
+            "Zubair Ali"
+        ],
+        "job title": [
+            "QUANTITY SURVEYOR / CIVIL ENGINEER",
+            "Quantity  Surveyo r",
+            "Quantity Surveyor"
+        ],
+        "company": [
+            "Currie & Brown (India) Pvt. Ltd.",
+            "Raj Tech Construction Pvt. Ltd",
+            "Broad Dimension Associates",
+            "Mentor Graphic",
+            "C & B India Contractor",
+            "C & B India",
+            "Merto Hospital"
+        ],
+        "university": [
+            "TMU Moradabad",
+            "IN 2014"
+        ],
+        "degree": [
+            "B.Tech in Civil Engineering"
+        ],
+        "years of experience": [
+            "Experience",
+            "Male",
+            "Unmarried",
+            "KEY EXPERIENCE"
+        ],
+        "address": [
+            "Permanent Address",
+            "S/O Adel Ahmad",
+            "Choudhary Sarai Sambhal"
+        ],
+        "email": [
+            "E-mail",
+            "zubairalifine@gmail.com"
+        ],
+        "phone": [
+            "Pin- 244302",
+            "Phone No",
+            "0091-9990522955"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Building  construction  field": 0.2221,
+            "MS Office": 0.773,
+            "AutoCAD": 0.2785,
+            "Gender": 0.2146,
+            "English": 0.517,
+            "Hindi": 0.5674,
+            "Urdu": 0.5899,
+            "Marital status": 0.2073,
+            "Auto-Cad": 0.1562
+        },
+        "filename": "cv (3960)_annotated.json"
+    }
+}

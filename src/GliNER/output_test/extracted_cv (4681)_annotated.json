@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "ISO 27001 2005",
+        "Information Security",
+        "Network Administration",
+        "expertise",
+        "Infrastructure Management",
+        "IT Security",
+        "Technical Support",
+        "System Administration",
+        "ISO 27001:2005",
+        "Adept",
+        "communication protocols",
+        "IT communication",
+        "WAN protocols",
+        "Networking devices",
+        "network security appliances",
+        "Load balancers",
+        "Enterprise Servers",
+        "Operating Systems",
+        "Clusters",
+        "File Systems",
+        "Databases",
+        "Applications",
+        "software",
+        "database",
+        "Barracuda Spam Firewall",
+        "SSL VPN"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "IT Manager",
+            "IT Head",
+            "Consultant",
+            "blended project management team"
+        ],
+        "company": [
+            "major Telecom organizations",
+            "Jaiprakash Associates Limited",
+            "Jaypee Group"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "10 years",
+            "rich experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "ISO 27001 2005": 0.7366,
+            "Information Security": 0.3649,
+            "Network Administration": 0.3009,
+            "expertise": 0.2363,
+            "Infrastructure Management": 0.244,
+            "IT Security": 0.5192,
+            "Technical Support": 0.4386,
+            "System Administration": 0.3044,
+            "ISO 27001:2005": 0.8173,
+            "Adept": 0.1802,
+            "communication protocols": 0.6756,
+            "IT communication": 0.2187,
+            "WAN protocols": 0.6532,
+            "Networking devices": 0.182,
+            "network security appliances": 0.2145,
+            "Load balancers": 0.3706,
+            "Enterprise Servers": 0.2129,
+            "Operating Systems": 0.7848,
+            "Clusters": 0.4459,
+            "File Systems": 0.3172,
+            "Databases": 0.5037,
+            "Applications": 0.3883,
+            "software": 0.2189,
+            "database": 0.2773,
+            "Barracuda Spam Firewall": 0.2842,
+            "SSL VPN": 0.3598
+        },
+        "filename": "cv (4681)_annotated.json"
+    }
+}

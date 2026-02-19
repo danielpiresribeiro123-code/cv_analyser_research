@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "experience",
+        "MIP",
+        "Skill Highlights",
+        "Personal and professional integrity",
+        "Extensive knowledge",
+        "experience",
+        "concentrates",
+        "Operations management experience",
+        "equipment Compliance",
+        "licensing knowledge",
+        "Marketing skills",
+        "Quickbooks",
+        "Excel",
+        "Core Accomplishments",
+        "Territory",
+        "Professional Experience"
+    ],
+    "professional_info": {
+        "person name": [
+            "CONSULTANT",
+            "Pam Michon",
+            "Dave Charnick",
+            "Tyrone Krantz"
+        ],
+        "job title": [
+            "Executive Profile",
+            "M03625",
+            "Bookkeeper/ CFO",
+            "Professional Industry Consultant",
+            "Manager",
+            "Consultant",
+            "General Manager"
+        ],
+        "company": [
+            "METRC",
+            "MJFreeway",
+            "Options Medical Center",
+            "Boulder Organic Food Group",
+            "Hemp Temp.",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "experience": 0.1609,
+            "MIP": 0.1616,
+            "Skill Highlights": 0.2049,
+            "Personal and professional integrity": 0.5667,
+            "Extensive knowledge": 0.159,
+            "concentrates": 0.1559,
+            "Operations management experience": 0.3876,
+            "equipment Compliance": 0.1689,
+            "licensing knowledge": 0.2853,
+            "Marketing skills": 0.2043,
+            "Quickbooks": 0.4952,
+            "Excel": 0.3818,
+            "Core Accomplishments": 0.1673,
+            "Territory": 0.1997,
+            "Professional Experience": 0.3745
+        },
+        "filename": "cv (4295)_annotated.json"
+    }
+}

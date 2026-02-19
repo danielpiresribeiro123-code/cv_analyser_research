@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "Constructional Engineering",
+        "Personal Strengths",
+        "Good communication skills",
+        "Responsible and hardworking",
+        "Active learner",
+        "patience",
+        "Punctual & good team skills",
+        "Realistic Positive Thinking",
+        "Civil Engineering",
+        "AutoCAD(2D)",
+        "StaadPRO",
+        "Windows",
+        "Android",
+        "Windows Phone",
+        "MS Word",
+        "MS Excel",
+        "MS Power Point",
+        "MS Front Page"
+    ],
+    "professional_info": {
+        "person name": [
+            "VIBHOR SHUKLA"
+        ],
+        "job title": [],
+        "company": [
+            "Railway Design & Standard Organization"
+        ],
+        "university": [
+            "Integral University",
+            "Modern Academy Inter college",
+            "Integral Institute of"
+        ],
+        "degree": [
+            "B.Tech. Civil Engineering",
+            "B. Tech in Civil engineering"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "career.vibhor@gmail.com"
+        ],
+        "phone": [
+            "Phone no. -8960513095"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Constructional Engineering": 0.2071,
+            "Personal Strengths": 0.1882,
+            "Good communication skills": 0.5291,
+            "Responsible and hardworking": 0.5825,
+            "Active learner": 0.6816,
+            "patience": 0.2695,
+            "Punctual & good team skills": 0.3288,
+            "Realistic Positive Thinking": 0.4085,
+            "Civil Engineering": 0.2473,
+            "AutoCAD(2D)": 0.4229,
+            "StaadPRO": 0.211,
+            "Windows": 0.9378,
+            "Android": 0.8221,
+            "Windows Phone": 0.8824,
+            "MS Word": 0.6813,
+            "MS Excel": 0.554,
+            "MS Power Point": 0.5702,
+            "MS Front Page": 0.5869
+        },
+        "filename": "cv (698)_annotated.json"
+    }
+}

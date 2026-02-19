@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "DHARMSHALA75.5%",
+        "DHARMSHALA66%",
+        "Domastic Electrician",
+        "COMPUTER SKILLS",
+        "One year diploma",
+        "computer hardware and networking",
+        "PERSONAL STRENGTH",
+        "Positive  Attitude",
+        "Hard  Working",
+        "Honesty",
+        "Punctual",
+        "Discipline and Decision",
+        "Male",
+        "Unmarried",
+        "English",
+        "Hindi",
+        "Punjabi"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ajay Kumar",
+            "SH. Jagdish chand",
+            "VILL. Paplog",
+            "P.O. Sadhot",
+            "TEH. Sarkaghat",
+            "G.S.S.S. Paplog",
+            "Ajay",
+            "kumar"
+        ],
+        "job title": [
+            "Instructor"
+        ],
+        "company": [
+            "BOARDAGGREGATE"
+        ],
+        "university": [
+            "NINSTITUTION UNIVERSITY",
+            "HPSEB",
+            "G.S.S.S Hawani HPSEB"
+        ],
+        "degree": [],
+        "years of experience": [
+            "2017Craft"
+        ],
+        "address": [
+            "HIMACHAL PRADESH",
+            "Pin-175037"
+        ],
+        "email": [
+            "Email",
+            "ajaybhardwaj1234567@gmail.com",
+            "2011Matriculation"
+        ],
+        "phone": [
+            "Contact No",
+            "9857226653",
+            "9817597332"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "DHARMSHALA75.5%": 0.2574,
+            "DHARMSHALA66%": 0.1891,
+            "Domastic Electrician": 0.2392,
+            "COMPUTER SKILLS": 0.3754,
+            "One year diploma": 0.6144,
+            "computer hardware and networking": 0.3657,
+            "PERSONAL STRENGTH": 0.6124,
+            "Positive  Attitude": 0.8018,
+            "Hard  Working": 0.7144,
+            "Honesty": 0.7779,
+            "Punctual": 0.6667,
+            "Discipline and Decision": 0.3328,
+            "Male": 0.2733,
+            "Unmarried": 0.503,
+            "English": 0.7552,
+            "Hindi": 0.7981,
+            "Punjabi": 0.792
+        },
+        "filename": "cv (694)_annotated.json"
+    }
+}

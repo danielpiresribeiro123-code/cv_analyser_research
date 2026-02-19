@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "Embedded c",
+        "GSM",
+        "GPS",
+        "SOFTWARE SKILLS",
+        "SAP",
+        "Matlab",
+        "PCB designing",
+        "SKILL SET",
+        "Adaptability",
+        "AREA OF INTEREST",
+        "Electrical machines",
+        "Power plant engineering"
+    ],
+    "professional_info": {
+        "person name": [
+            "SURESH R",
+            "S/O.M.RAVISANKAR",
+            "GRADUATE ENGINEERING APPRENTICE"
+        ],
+        "job title": [
+            "Engineer",
+            "Planning Engineerin"
+        ],
+        "company": [
+            "AVALAON TECHNOLOGIES (PVTLTD)",
+            "Electrical and Electronics Engineering",
+            "technology",
+            "govt.higher secondary school",
+            "SSLC"
+        ],
+        "university": [
+            "unnamalai institute of"
+        ],
+        "degree": [
+            "Bachelor of Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "MEENATCHIPURAM"
+        ],
+        "email": [
+            "sureshsaransrt10@gmail.com",
+            "AVALNATHAM(P.O)",
+            "SATTUR(T.K)",
+            "VIRUDHUNAGAR(Dt)-628502",
+            "Leadership"
+        ],
+        "phone": [
+            "3/15",
+            "cell",
+            "+91-, 7418804278"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Embedded c": 0.7642,
+            "GSM": 0.4702,
+            "GPS": 0.4778,
+            "SOFTWARE SKILLS": 0.2026,
+            "SAP": 0.3254,
+            "Matlab": 0.4194,
+            "PCB designing": 0.5168,
+            "SKILL SET": 0.2551,
+            "Adaptability": 0.281,
+            "AREA OF INTEREST": 0.1918,
+            "Electrical machines": 0.2513,
+            "Power plant engineering": 0.2661
+        },
+        "filename": "cv (1867)_annotated.json"
+    }
+}

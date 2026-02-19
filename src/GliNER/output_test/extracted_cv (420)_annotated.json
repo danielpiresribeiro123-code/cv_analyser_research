@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "expertise",
+        "Technical Skills",
+        "Working knowledge",
+        "construction sequencing",
+        "safety  regulations",
+        "Auto CAD",
+        "Auto Cad Land Development",
+        "E Tab",
+        "MX Road",
+        "Google Earth",
+        "E-survey Solutions",
+        "GPS Track maker",
+        "Open Office program",
+        "Microsoft Excel",
+        "Specialization"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sachin K"
+        ],
+        "job title": [
+            "Site Engineer",
+            "Design Engineer"
+        ],
+        "company": [
+            "BEARDSELL PVT.LTD.",
+            "PIXEL SOFTEK PVT. LTD.",
+            "S.S.L.C KSEEB"
+        ],
+        "university": [
+            "Course University",
+            "B.E Jain University",
+            "II PUC Department of Pre -University"
+        ],
+        "degree": [],
+        "years of experience": [
+            "June 2014"
+        ],
+        "address": [
+            "Patel Siddappa house",
+            "Basaweshwara Street",
+            "Gadikoppa"
+        ],
+        "email": [
+            "E-mail",
+            "sachin1gowda@gmail.com",
+            "Academic Qualification",
+            "Graduation"
+        ],
+        "phone": [
+            "Mobile",
+            "+917848951805"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "expertise": 0.2443,
+            "Technical Skills": 0.1985,
+            "Working knowledge": 0.4376,
+            "construction sequencing": 0.3875,
+            "safety  regulations": 0.2114,
+            "Auto CAD": 0.8103,
+            "Auto Cad Land Development": 0.8246,
+            "E Tab": 0.7554,
+            "MX Road": 0.7419,
+            "Google Earth": 0.7942,
+            "E-survey Solutions": 0.8039,
+            "GPS Track maker": 0.8625,
+            "Open Office program": 0.6351,
+            "Microsoft Excel": 0.8089,
+            "Specialization": 0.2141
+        },
+        "filename": "cv (420)_annotated.json"
+    }
+}

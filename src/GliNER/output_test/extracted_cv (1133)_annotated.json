@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "Risk Management , SPECIAL  ASSETS",
+        "scenario modelling",
+        "Central Bank guidelines",
+        "stress tests",
+        "PRIVATE  BANKING",
+        "Private Banking & Real Estate portfolios",
+        "key servicing standards"
+    ],
+    "professional_info": {
+        "person name": [
+            "NAJMAL  MUSTAFA"
+        ],
+        "job title": [
+            "Senior  Risk Officer",
+            "SVP/ EVP",
+            "Global Head of Credit",
+            "Credit Officer",
+            "BUSINESS  DEVELOPMENT  MANAGER"
+        ],
+        "company": [
+            "ADIB Academy",
+            "Wavetec IQ Systems"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "e-mail"
+        ],
+        "phone": [
+            "Call",
+            "+96 87 93 93 888"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Risk Management , SPECIAL  ASSETS": 0.3169,
+            "scenario modelling": 0.5631,
+            "Central Bank guidelines": 0.4145,
+            "stress tests": 0.3982,
+            "PRIVATE  BANKING": 0.1937,
+            "Private Banking & Real Estate portfolios": 0.2518,
+            "key servicing standards": 0.3385
+        },
+        "filename": "cv (1133)_annotated.json"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "Committed",
+        "dedicated people",
+        "Willing to work as a key player",
+        "challenging & creative environment",
+        "team member",
+        "Ideal candidate",
+        "drive",
+        "initiative",
+        "responsibility",
+        "challenge",
+        "SEX",
+        "MALE",
+        "MARITAL STATUS",
+        "UNMARRIED",
+        "ENGLISH",
+        "BENGALI",
+        "HINDI",
+        "Technical Skills",
+        "electrical engineering",
+        "Design & directs",
+        "electrical energy generation",
+        "transmission"
+    ],
+    "professional_info": {
+        "person name": [
+            "KRISHANU SEN"
+        ],
+        "job title": [
+            "Electrical Engineer",
+            "Electrical & Instrumentation Engineer",
+            "Electrical Project Engineering"
+        ],
+        "company": [
+            "INDIAN",
+            "High Rise Building and Bridge projects",
+            "Samay Construction Pvt. Ltd.",
+            "Dattatreya Constructions Pvt., Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "8 year experience",
+            "1.6 Years",
+            "2.2 Years"
+        ],
+        "address": [
+            "BAJEPRATAPPUR",
+            "P.O. & DIST. – BURDWAN",
+            "PIN – 713101  WEST BENGAL"
+        ],
+        "email": [
+            "Email",
+            "Krishanusen.krishanu@gmail.com"
+        ],
+        "phone": [
+            "+91-9647496690",
+            "+91-7908800107"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Committed": 0.3061,
+            "dedicated people": 0.3873,
+            "Willing to work as a key player": 0.2675,
+            "challenging & creative environment": 0.2013,
+            "team member": 0.4088,
+            "Ideal candidate": 0.3083,
+            "drive": 0.3549,
+            "initiative": 0.3257,
+            "responsibility": 0.318,
+            "challenge": 0.2118,
+            "SEX": 0.1586,
+            "MALE": 0.3995,
+            "MARITAL STATUS": 0.153,
+            "UNMARRIED": 0.3075,
+            "ENGLISH": 0.5549,
+            "BENGALI": 0.5295,
+            "HINDI": 0.6091,
+            "Technical Skills": 0.4135,
+            "electrical engineering": 0.2315,
+            "Design & directs": 0.2377,
+            "electrical energy generation": 0.3238,
+            "transmission": 0.2424
+        },
+        "filename": "cv (1724)_annotated.json"
+    }
+}

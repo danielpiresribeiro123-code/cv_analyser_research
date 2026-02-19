@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "Iproven",
+        "HighSchoolPassed",
+        "3YearsRegularDiplomaIncivilengineering",
+        "English",
+        "Hindi",
+        "SPECIALIZEDSKILLS",
+        "Excellentinterpersonalandcommunicationskills",
+        "Multi-taskingabilitieswithproficiencyinorganizingandmanagingdifferenttasks",
+        "Proficientinassigningdutiesandschedulingshifts",
+        "Msword",
+        "Mspowerpoint",
+        "MsExcel",
+        "Urdu",
+        "Drivinglicense"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHDBILAL",
+            "Mr.shakeelAhmad",
+            "Er.MohdBilal"
+        ],
+        "job title": [
+            "CivilEngineerwithIndiaExperience",
+            "PROFESSIONALPROFILE",
+            "Rampur244901India",
+            "IharebyDeclarethatalltheParticularsMentionedAboveareTruethe"
+        ],
+        "company": [
+            "Indian",
+            "M/sJainaConstructionpvt.Ltd",
+            "DeepjiConstructionCompanypvt.Ltd",
+            "IL&FSEngineering&ConstructionCompanyLtd",
+            "T.M.UMoradabad244001"
+        ],
+        "university": [
+            "MahaveerUniversityMoradabadIndia244001"
+        ],
+        "degree": [
+            "D.O.B."
+        ],
+        "years of experience": [
+            "Excellentreading",
+            "writingandspeaking",
+            "ExcellentknowledgeMsoffice"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            ".mohdbilal1572@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+919997201572/+918433046100"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Iproven": 0.1791,
+            "HighSchoolPassed": 0.1528,
+            "3YearsRegularDiplomaIncivilengineering": 0.1614,
+            "English": 0.8161,
+            "Hindi": 0.9067,
+            "SPECIALIZEDSKILLS": 0.268,
+            "Excellentinterpersonalandcommunicationskills": 0.5827,
+            "Multi-taskingabilitieswithproficiencyinorganizingandmanagingdifferenttasks": 0.2794,
+            "Proficientinassigningdutiesandschedulingshifts": 0.2172,
+            "Msword": 0.3101,
+            "Mspowerpoint": 0.3184,
+            "MsExcel": 0.3441,
+            "Urdu": 0.6882,
+            "Drivinglicense": 0.2099
+        },
+        "filename": "cv (2411)_annotated.json"
+    }
+}

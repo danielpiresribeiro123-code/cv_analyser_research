@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "Subject(s) of interest",
+        "Control System",
+        "Network Theory",
+        "Digital Electronic Circuit",
+        "Technical skills",
+        "Knowledge of power plant",
+        "Crafted Projects",
+        "LED Control Using GSM",
+        "Hobbies",
+        "Strength",
+        "Self motivated",
+        "Gender",
+        "Male",
+        "Hindi",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUMAN  KUMAR",
+            "Hari Shankar Prasad Singh",
+            "Indian"
+        ],
+        "job title": [],
+        "company": [
+            "SCHOOLBSEB 2009 74.6",
+            "PATRATU THERMAL POWER PLANT",
+            "INDUSDTRIAL AUTOMATION",
+            "CTTC"
+        ],
+        "university": [
+            "DRIEMS",
+            "COURSECOLLEGE UNIVERSITY",
+            "12thA.N. COLLEGE",
+            "PATNABSEB",
+            "10thM.S.A.R.HIGH"
+        ],
+        "degree": [
+            "B. Tech. in Electrical Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "Vill +P.O. -Rewasi",
+            "321, Chauhan Muhalla",
+            "Madanpur Khadar",
+            "Delhi - 110076"
+        ],
+        "email": [
+            "sumankmr451@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+91-8287030131"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Subject(s) of interest": 0.3285,
+            "Control System": 0.4871,
+            "Network Theory": 0.2843,
+            "Digital Electronic Circuit": 0.5285,
+            "Technical skills": 0.5384,
+            "Knowledge of power plant": 0.2579,
+            "Crafted Projects": 0.1859,
+            "LED Control Using GSM": 0.2027,
+            "Hobbies": 0.2853,
+            "Strength": 0.2849,
+            "Self motivated": 0.3244,
+            "Gender": 0.2079,
+            "Male": 0.3238,
+            "Hindi": 0.7523,
+            "English": 0.6533
+        },
+        "filename": "cv (1625)_annotated.json"
+    }
+}

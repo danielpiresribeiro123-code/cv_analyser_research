@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Tamil",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "M.SATHISH",
+            "electrician",
+            "V.Muthu",
+            "GENDER",
+            "Indian"
+        ],
+        "job title": [
+            "Technician",
+            "Male",
+            "Single"
+        ],
+        "company": [
+            "CURRICULAM VITAE",
+            "S.S.L.CGovt.High.School",
+            "AyyaneriState board",
+            "ITISri Krishna ITI",
+            "1MRF Limited",
+            "2Hablis Hotels",
+            "Couriyard by Marriott"
+        ],
+        "university": [
+            "UNIVERSITYYERR OF"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "No.42",
+            "koil street",
+            "Vengupattu (Post)",
+            "Arakkonam Tk",
+            "Vellore Dist",
+            "631102",
+            "ArakkonamDote",
+            "Thirutani Road",
+            "Ichiputhur  Arakkonam",
+            "631003",
+            "19 GST Road",
+            "Gundy Chennai",
+            "504",
+            "Ranipet",
+            "Vellore-dist"
+        ],
+        "email": [
+            "Mob",
+            "E.Mail Id",
+            "msathish439@gmail.com",
+            "914466764000Shift Incharge",
+            "914172245480shift incharge"
+        ],
+        "phone": [
+            "8940461407",
+            "Tel",
+            "044-2788549Electrician"
+        ]
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "Tamil": 0.5849,
+            "English": 0.6115
+        },
+        "filename": "cv (3898)_annotated.json"
+    }
+}

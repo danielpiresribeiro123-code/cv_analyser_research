@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "331023",
+        "Quality control",
+        "Piping",
+        "NDT",
+        "experience",
+        "Advanced Certificate",
+        "international standards",
+        "American & International standards",
+        "ASNT - SNT-TC",
+        "ISO 9001",
+        "competent",
+        "skills",
+        "Advanced",
+        "Advanced",
+        "QCP",
+        "ISO",
+        "ASNT"
+    ],
+    "professional_info": {
+        "person name": [
+            "ABDUL KAYUM",
+            "Er.Abdulkayum72",
+            "Adilpathan72"
+        ],
+        "job title": [
+            "QA/QC Engineering",
+            "QC ENGINEER",
+            "Lead Auditor",
+            "QA/QC  ENGINEER"
+        ],
+        "company": [
+            "small to midsized growing firm"
+        ],
+        "university": [],
+        "degree": [
+            "B.Tech Mechanica l Engineering",
+            "Mechanical  Engineering Graduation"
+        ],
+        "years of experience": [
+            "4 years"
+        ],
+        "address": [
+            "Word -13 house no 13/102"
+        ],
+        "email": [
+            "Adilpthan2011@gmail.com",
+            "e -mail",
+            "Er.abdulkayum72@gmail.com"
+        ],
+        "phone": [
+            "telephone number",
+            "+91) 8005710673",
+            "+91) 9024613407"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "331023": 0.1554,
+            "Quality control": 0.488,
+            "Piping": 0.6459,
+            "NDT": 0.4716,
+            "experience": 0.3251,
+            "Advanced Certificate": 0.8262,
+            "international standards": 0.3285,
+            "American & International standards": 0.4096,
+            "ASNT - SNT-TC": 0.2247,
+            "ISO 9001": 0.5357,
+            "competent": 0.2269,
+            "skills": 0.2693,
+            "Advanced": 0.3188,
+            "QCP": 0.2254,
+            "ISO": 0.3565,
+            "ASNT": 0.2937
+        },
+        "filename": "cv (478)_annotated.json"
+    }
+}

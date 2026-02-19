@@ -1,0 +1,91 @@
+{
+    "skills": [
+        "enthusiastic and highly motivated",
+        "talented",
+        "professional and dedicated",
+        "technical",
+        "personal effectiveness",
+        "leadership skills",
+        "effective working relationships",
+        "Examinati",
+        "Passi",
+        "ng %",
+        "Matriculati",
+        "onMatriculatio",
+        "Computer Skills",
+        "Computer Programming Skill",
+        "AUTO CAD 2D & 3D 2016",
+        "Internet",
+        "Chatting",
+        "Building Construction",
+        "Core competencies",
+        "Designing skills",
+        "Creative and innovative mind"
+    ],
+    "professional_info": {
+        "person name": [
+            "ASJAD ALI"
+        ],
+        "job title": [
+            "CIVIL ENGINEER",
+            "civil",
+            "engineer"
+        ],
+        "company": [
+            "ambitious company",
+            "Council(Patna)",
+            "VIFT RANCHI",
+            "Pratham Group Vegas Mall"
+        ],
+        "university": [
+            "UniversityYear",
+            "CIVILAdesh Institute",
+            "Of Engineering &, Technology",
+            "FaridkotPunjab Technical",
+            "University201575",
+            "Intermediat",
+            "eScience"
+        ],
+        "degree": [
+            "B.TECH"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "mdasjadali@ymail.com",
+            "7765070865",
+            "Mailing"
+        ],
+        "phone": [
+            "Pin",
+            "Mob No+91-7858090264"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "enthusiastic and highly motivated": 0.348,
+            "talented": 0.3193,
+            "professional and dedicated": 0.3331,
+            "technical": 0.1779,
+            "personal effectiveness": 0.392,
+            "leadership skills": 0.3321,
+            "effective working relationships": 0.246,
+            "Examinati": 0.5575,
+            "Passi": 0.3079,
+            "ng %": 0.1957,
+            "Matriculati": 0.5527,
+            "onMatriculatio": 0.2055,
+            "Computer Skills": 0.5349,
+            "Computer Programming Skill": 0.5659,
+            "AUTO CAD 2D & 3D 2016": 0.2231,
+            "Internet": 0.1549,
+            "Chatting": 0.1817,
+            "Building Construction": 0.242,
+            "Core competencies": 0.3823,
+            "Designing skills": 0.5948,
+            "Creative and innovative mind": 0.3029
+        },
+        "filename": "cv (2383)_annotated.json"
+    }
+}

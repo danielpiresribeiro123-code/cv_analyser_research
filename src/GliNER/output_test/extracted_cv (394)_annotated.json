@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "Accounts & Finance",
+        "Reconciliation",
+        "MIS",
+        "Taxation",
+        "Statutory Compliance",
+        "Accounts and Finance",
+        "Adept at analyzing and improving systems and procedures",
+        "Core Competencies",
+        "Competencies",
+        "Receivables / Payables",
+        "General Accounting",
+        "ERP",
+        "Exposure",
+        "accounts receivables and payables",
+        "general ledger accounts",
+        "Profit and loss account",
+        "AR",
+        "AP",
+        "GL",
+        "CST",
+        "Sales Tax",
+        "Cash-Book",
+        "Cash Register"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sunil Sharma",
+            "sunil1sharma2"
+        ],
+        "job title": [
+            "Result oriented professional",
+            "Account Officer"
+        ],
+        "company": [
+            "SAP",
+            "UNICORN ARABIA LTD",
+            "DTDC EXPRESS LTD"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "11 years of experience"
+        ],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "sunilsharma1980@gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "+91-9868013585",
+            "Skype"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "Accounts & Finance": 0.5242,
+            "Reconciliation": 0.2216,
+            "MIS": 0.3264,
+            "Taxation": 0.2815,
+            "Statutory Compliance": 0.1752,
+            "Accounts and Finance": 0.4733,
+            "Adept at analyzing and improving systems and procedures": 0.2564,
+            "Core Competencies": 0.3192,
+            "Competencies": 0.1566,
+            "Receivables / Payables": 0.1985,
+            "General Accounting": 0.373,
+            "ERP": 0.1503,
+            "Exposure": 0.202,
+            "accounts receivables and payables": 0.2148,
+            "general ledger accounts": 0.2258,
+            "Profit and loss account": 0.1687,
+            "AR": 0.3622,
+            "AP": 0.2728,
+            "GL": 0.3926,
+            "CST": 0.2725,
+            "Sales Tax": 0.1765,
+            "Cash-Book": 0.2097,
+            "Cash Register": 0.2638
+        },
+        "filename": "cv (394)_annotated.json"
+    }
+}

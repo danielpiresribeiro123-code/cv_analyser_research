@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "interpersonal skills",
+        "Engineering sector",
+        "product database",
+        "KNOWLEDGE",
+        "SKILLS  AND   ABILITIESKNOWLEDGE",
+        "SKILLS  AND   ABILITIES",
+        "COMPUTER SKILLSCOMPUTER SKILLS",
+        "CAD",
+        "MS OFFICE"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mr.A.RAMESH",
+            "s/o. V. Ananda Raju",
+            "Ramesh42836"
+        ],
+        "job title": [
+            "POSITION",
+            "Machine operator",
+            "Quality checking and maintenance"
+        ],
+        "company": [
+            "COMPANY",
+            "R.B.C Engineering",
+            "Govt. Hr. Secondary School",
+            "Hr.Sc School",
+            "Vethathiri Maharishi institute of technology"
+        ],
+        "university": [],
+        "degree": [
+            "DIPLOMA IN MECHANICAL ENGINEERINGDIPLOMA IN MECHANICAL ENGINEERING"
+        ],
+        "years of experience": [],
+        "address": [
+            "No: 151",
+            "big street",
+            "Koramangalam"
+        ],
+        "email": [
+            "E-mail",
+            "Rameshanand.vram@gmail.co",
+            "Skype"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "interpersonal skills": 0.1991,
+            "Engineering sector": 0.236,
+            "product database": 0.3547,
+            "KNOWLEDGE": 0.2227,
+            "SKILLS  AND   ABILITIESKNOWLEDGE": 0.408,
+            "SKILLS  AND   ABILITIES": 0.429,
+            "COMPUTER SKILLSCOMPUTER SKILLS": 0.2572,
+            "CAD": 0.303,
+            "MS OFFICE": 0.5837
+        },
+        "filename": "cv (1660)_annotated.json"
+    }
+}

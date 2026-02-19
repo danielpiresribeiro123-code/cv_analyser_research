@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "talent",
+        "Exceptional multi task",
+        "Labor Agreement",
+        "Maintain confidentiality",
+        "Excellent communication skill",
+        "English",
+        "Arabic",
+        "Hindi",
+        "Urdu",
+        "standard exit process",
+        "work agreement",
+        "Excellent communication",
+        "E-Wakala",
+        "Offer letter"
+    ],
+    "professional_info": {
+        "person name": [
+            "GULAM ROSHAN ZAMEER"
+        ],
+        "job title": [
+            "Executive HR/Admin",
+            "Recruitment Manager",
+            "Executive Secretary",
+            "Doc. Contr.",
+            "Human Resource coordinator"
+        ],
+        "company": [
+            "Skyline Placements",
+            "Manpower Recruitment Consultancy"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Internet"
+        ],
+        "email": [
+            "Email",
+            "szameer860@gmail.com",
+            "Ms-office"
+        ],
+        "phone": [
+            "Cell no.",
+            "+91-9990290663",
+            "Fax",
+            "Calls"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "talent": 0.3593,
+            "Exceptional multi task": 0.2824,
+            "Labor Agreement": 0.2683,
+            "Maintain confidentiality": 0.2277,
+            "Excellent communication skill": 0.361,
+            "English": 0.6539,
+            "Arabic": 0.5944,
+            "Hindi": 0.5699,
+            "Urdu": 0.4095,
+            "standard exit process": 0.1547,
+            "work agreement": 0.1717,
+            "Excellent communication": 0.197,
+            "E-Wakala": 0.3109,
+            "Offer letter": 0.191
+        },
+        "filename": "cv (1992)_annotated.json"
+    }
+}

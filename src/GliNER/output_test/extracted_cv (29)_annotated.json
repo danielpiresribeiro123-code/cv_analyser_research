@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "Diploma in Electrical and Electronics Engineering",
+        "Trainings / Certificates",
+        "KOC - PTW Course",
+        "SEA SURVIVAL Training",
+        "basic offshore safety training",
+        "Knowledge in PTW system",
+        "SMP system",
+        "Plant Safety awareness"
+    ],
+    "professional_info": {
+        "person name": [
+            "SRINIVASAN",
+            "srinivasan8497"
+        ],
+        "job title": [
+            "Electrical Technician",
+            "Supervise the subcontractors",
+            "Senior Maintenance Supervisor"
+        ],
+        "company": [
+            "Oil & Gas",
+            "Industrial Training Institute",
+            "Cairn Energy India",
+            "KOC",
+            "Oil and Gas",
+            "Siemens"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "13.6 years"
+        ],
+        "address": [
+            "P 74/1"
+        ],
+        "email": [],
+        "phone": [
+            "Mobile No. +965 67613118",
+            "+91 9489632091 sriniva_85@yahoo.co  .",
+            "Skype"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Diploma in Electrical and Electronics Engineering": 0.8857,
+            "Trainings / Certificates": 0.1821,
+            "KOC - PTW Course": 0.6762,
+            "SEA SURVIVAL Training": 0.4853,
+            "basic offshore safety training": 0.28,
+            "Knowledge in PTW system": 0.1881,
+            "SMP system": 0.2462,
+            "Plant Safety awareness": 0.2403
+        },
+        "filename": "cv (29)_annotated.json"
+    }
+}

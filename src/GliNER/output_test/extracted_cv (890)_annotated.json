@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "PERSONAL TRAITS",
+        "efficient",
+        "highly motivated professional",
+        "ERP",
+        "ACCA",
+        "accounting and finance",
+        "keen attitude",
+        "Willingness  to  travel",
+        "Accounts Payable/Receivable",
+        "Payroll Accounting",
+        "MIS Reporting",
+        "Purchasing and making payments",
+        "General Ledger Transactions"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohammad Nawab Alam"
+        ],
+        "job title": [
+            "managing account and finance department",
+            "experienced Individual",
+            "Designation",
+            "Financial Accountant",
+            "Finance Manager",
+            "HR",
+            "Accountant"
+        ],
+        "company": [
+            "Jumbo Electronics Co. Ltd",
+            "International Golden Furniture Co. Oman"
+        ],
+        "university": [],
+        "degree": [
+            "Master of Finance"
+        ],
+        "years of experience": [
+            "9 years of global experience"
+        ],
+        "address": [
+            "PO BOX",
+            "PC:112"
+        ],
+        "email": [
+            "nawab.mfc@gmail.com",
+            "Professionally qualified",
+            "Four paper"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "PERSONAL TRAITS": 0.2302,
+            "efficient": 0.21,
+            "highly motivated professional": 0.2902,
+            "ERP": 0.2532,
+            "ACCA": 0.9068,
+            "accounting and finance": 0.1952,
+            "keen attitude": 0.3782,
+            "Willingness  to  travel": 0.3155,
+            "Accounts Payable/Receivable": 0.5618,
+            "Payroll Accounting": 0.5523,
+            "MIS Reporting": 0.3775,
+            "Purchasing and making payments": 0.1547,
+            "General Ledger Transactions": 0.1702
+        },
+        "filename": "cv (890)_annotated.json"
+    }
+}

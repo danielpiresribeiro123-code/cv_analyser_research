@@ -1,0 +1,100 @@
+{
+    "skills": [
+        "TECHNICAL SKILL",
+        "UNIX",
+        "Linux",
+        "Windows 7",
+        "XP",
+        "SQL",
+        "PL/SQL",
+        "Oracle 11g",
+        "SQL * Plus",
+        "PL/SQL Developer",
+        "Toad",
+        "ETL Tools",
+        "Informatica Power Center 9.1",
+        "Informatica 8.6",
+        "O racle 10g",
+        "Oracle 11.6",
+        "Informatica 9.1",
+        "Oracle",
+        "Source Analyzer",
+        "Warehouse Designer",
+        "Mapping Designer",
+        "Mapplet Designer",
+        "Tra nsformation Developer",
+        "Lookup",
+        "Sequence Generator",
+        "Router",
+        "Filter"
+    ],
+    "professional_info": {
+        "person name": [
+            "CHANDRASEKAR M"
+        ],
+        "job title": [
+            "IT professional",
+            "Associate",
+            "ETL Developer"
+        ],
+        "company": [
+            "VBA Technology Solutions Limited",
+            "Telelookz"
+        ],
+        "university": [
+            "Info Institute of Engineering",
+            "Anna University of Technology"
+        ],
+        "degree": [
+            "expochandru@gmail.com",
+            "B.E Computer Science and Engineering"
+        ],
+        "years of experience": [
+            "2 years"
+        ],
+        "address": [
+            "Pambalamman Kovil Street",
+            "Muthugapatti"
+        ],
+        "email": [
+            "Mobile",
+            "Mail  Id"
+        ],
+        "phone": [
+            "+91 -9003323249                         1-56"
+        ]
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "TECHNICAL SKILL": 0.2055,
+            "UNIX": 0.9818,
+            "Linux": 0.9622,
+            "Windows 7": 0.9591,
+            "XP": 0.8467,
+            "SQL": 0.7739,
+            "PL/SQL": 0.8623,
+            "Oracle 11g": 0.8304,
+            "SQL * Plus": 0.3807,
+            "PL/SQL Developer": 0.7019,
+            "Toad": 0.335,
+            "ETL Tools": 0.2211,
+            "Informatica Power Center 9.1": 0.2571,
+            "Informatica 8.6": 0.2362,
+            "O racle 10g": 0.2761,
+            "Oracle 11.6": 0.7241,
+            "Informatica 9.1": 0.163,
+            "Oracle": 0.3098,
+            "Source Analyzer": 0.4409,
+            "Warehouse Designer": 0.5467,
+            "Mapping Designer": 0.5465,
+            "Mapplet Designer": 0.531,
+            "Tra nsformation Developer": 0.3905,
+            "Lookup": 0.1695,
+            "Sequence Generator": 0.2141,
+            "Router": 0.1705,
+            "Filter": 0.236
+        },
+        "filename": "cv (2766)_annotated.json"
+    }
+}

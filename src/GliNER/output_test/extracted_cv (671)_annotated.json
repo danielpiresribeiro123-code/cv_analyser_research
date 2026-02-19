@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "AIEEE Exam",
+        "AIESEC",
+        "Computer Application Course  Certificate"
+    ],
+    "professional_info": {
+        "person name": [
+            "Umesh Prajapati"
+        ],
+        "job title": [],
+        "company": [
+            "B.E. Mechanical EngineeringNoble Group of Institutions",
+            "H.S.C. Sardar Vinay Mandir",
+            "Gujarat Higher Secondary Education Board",
+            "S.S.C.Sardar Vinay Mandir",
+            "Noble Group of Institutions",
+            "Jankalayan Computer Saksharta Mission",
+            "Philoden Industries Pvt Ltd",
+            "DCM Shriram Alkali & Chemicals Ltd",
+            "Maintenance EngineerPhiloden Industries Pvt Ltd",
+            "Maintenance EngineerDCM Shriram Alkali & Chemicals Ltd"
+        ],
+        "university": [
+            "Junagadh Gujarat Technological University20157"
+        ],
+        "degree": [
+            "B.E. Mechanical"
+        ],
+        "years of experience": [
+            "Professional Experience"
+        ],
+        "address": [
+            "B-13 Payal Park Society",
+            "v.i.p. Road"
+        ],
+        "email": [
+            "E-Mail",
+            "iamums13@gmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "AIEEE Exam": 0.6912,
+            "AIESEC": 0.2942,
+            "Computer Application Course  Certificate": 0.7933
+        },
+        "filename": "cv (671)_annotated.json"
+    }
+}

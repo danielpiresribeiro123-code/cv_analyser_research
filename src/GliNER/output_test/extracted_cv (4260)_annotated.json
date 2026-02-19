@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "Excellent verbal and written communication skills",
+        "Ability to successfully complete multiple tasks concurrently",
+        "Superior organization skills",
+        "Exemplary interpersonal skills",
+        "Punctual and reliable",
+        "Exceptional Computer Proficiency",
+        "Microsoft Office",
+        "Internet Research",
+        "Social Media",
+        "CisionPoint",
+        "Experience",
+        "online systems",
+        "Fattail",
+        "IMS",
+        "excel",
+        "City"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "ACCOUNT MANAGER",
+            "Media Coordinator",
+            "company liaison with advertisers",
+            "Supervising Production Coordinator"
+        ],
+        "company": [
+            "Company Name",
+            "Salesforce"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Excellent verbal and written communication skills": 0.5602,
+            "Ability to successfully complete multiple tasks concurrently": 0.416,
+            "Superior organization skills": 0.3963,
+            "Exemplary interpersonal skills": 0.5558,
+            "Punctual and reliable": 0.518,
+            "Exceptional Computer Proficiency": 0.5856,
+            "Microsoft Office": 0.7149,
+            "Internet Research": 0.4677,
+            "Social Media": 0.4301,
+            "CisionPoint": 0.3148,
+            "Experience": 0.1565,
+            "online systems": 0.1621,
+            "Fattail": 0.5755,
+            "IMS": 0.8763,
+            "excel": 0.2499,
+            "City": 0.152
+        },
+        "filename": "cv (4260)_annotated.json"
+    }
+}

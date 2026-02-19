@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "ITI",
+        "Computer Application"
+    ],
+    "professional_info": {
+        "person name": [
+            "JANESH KHAN"
+        ],
+        "job title": [
+            "HVAC Technician",
+            "HVAC",
+            "Technician"
+        ],
+        "company": [
+            "NCVT",
+            "Nice Computer",
+            "Ranbaxy Ltd.",
+            "Daiichi Sankyo India Pharma Pvt. Ltd.",
+            "Sun Pharma Pvt. Ltd."
+        ],
+        "university": [
+            "C.B.S.E. DelhiPROFESSIONAL"
+        ],
+        "degree": [
+            "10th Passed"
+        ],
+        "years of experience": [
+            "EXPERIENCE",
+            "One Year",
+            "Two Years"
+        ],
+        "address": [
+            "P-169 Pillanji Village",
+            "Sarojini Nagar",
+            "New Delhi-110023",
+            "Ranchi",
+            "New Delhi",
+            "Sec-18"
+        ],
+        "email": [
+            "e-mail",
+            "janishkhan576@gmail.com"
+        ],
+        "phone": [
+            "Contact No.",
+            "+91  8826667246"
+        ]
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "ITI": 0.2912,
+            "Computer Application": 0.331
+        },
+        "filename": "cv (3234)_annotated.json"
+    }
+}

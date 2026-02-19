@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "technology areas",
+        "Mechanical",
+        "Operation",
+        "E.S.P & Rotary parts",
+        "FD Fan",
+        "ID Fan",
+        "PA Fan",
+        "A.P.H& Mills",
+        "NDT procedure",
+        "DPT",
+        "UT",
+        "RT",
+        "Power Plant welding methods",
+        "IBR",
+        "Steam Boiling procedure"
+    ],
+    "professional_info": {
+        "person name": [
+            "CHETAN  SINHA",
+            "I"
+        ],
+        "job title": [
+            "Assistant Manager  - Mechanical",
+            "Erection Engineer",
+            "Site-in-charge"
+        ],
+        "company": [
+            "Korba West Power Company Limited",
+            "Avantha Power and Infra. Limited",
+            "Korba west power company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "6.5  + years"
+        ],
+        "address": [
+            "Field Hostel Complex",
+            "Village – Chhote Bhandar",
+            "P.O – Bade Bhandar",
+            "Tehsil – Pussore",
+            "Pin - 496100  LalBagh Aamaguda",
+            "Lalbhadur Sastri Ward No. – 8",
+            "Pin - 494001",
+            "9993329197",
+            "7583888353"
+        ],
+        "email": [
+            "Email",
+            "chetansinha12@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "technology areas": 0.1691,
+            "Mechanical": 0.2072,
+            "Operation": 0.315,
+            "E.S.P & Rotary parts": 0.1813,
+            "FD Fan": 0.3278,
+            "ID Fan": 0.3457,
+            "PA Fan": 0.3381,
+            "A.P.H& Mills": 0.2458,
+            "NDT procedure": 0.2181,
+            "DPT": 0.4035,
+            "UT": 0.326,
+            "RT": 0.3415,
+            "Power Plant welding methods": 0.2568,
+            "IBR": 0.2926,
+            "Steam Boiling procedure": 0.2247
+        },
+        "filename": "cv (3927)_annotated.json"
+    }
+}

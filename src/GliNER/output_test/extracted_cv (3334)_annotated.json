@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "Technical Proficiency",
+        "D.C.A. computer diploma",
+        "MS Word",
+        "MS",
+        "Excel",
+        "tally ERP 9 Operations",
+        "Internet",
+        "Good communication Skill",
+        "Analytical Skill",
+        "Patience",
+        "Operating System",
+        "Personal Profile",
+        "English",
+        "Hindi",
+        "Unmarried"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ankit Sharma",
+            "Fresher",
+            "Chandrakesh Sharma",
+            "Gyanti Sharma",
+            "Ankit"
+        ],
+        "job title": [
+            "Educational Qualification"
+        ],
+        "company": [
+            "Curriculum-Vitae",
+            "company",
+            "Hindu",
+            "Indian"
+        ],
+        "university": [
+            "V.B.S. Purvanchal University Jaunpur",
+            "up board Allahabad"
+        ],
+        "degree": [
+            "B.COM"
+        ],
+        "years of experience": [
+            "Experience"
+        ],
+        "address": [
+            "Delhi-110037",
+            "Mo-Harbanshapur  Dist."
+        ],
+        "email": [
+            "Email",
+            "sharmaankit801@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Technical Proficiency": 0.3764,
+            "D.C.A. computer diploma": 0.3296,
+            "MS Word": 0.3233,
+            "MS": 0.224,
+            "Excel": 0.1948,
+            "tally ERP 9 Operations": 0.4948,
+            "Internet": 0.2706,
+            "Good communication Skill": 0.3842,
+            "Analytical Skill": 0.5017,
+            "Patience": 0.1905,
+            "Operating System": 0.25,
+            "Personal Profile": 0.1796,
+            "English": 0.5164,
+            "Hindi": 0.544,
+            "Unmarried": 0.223
+        },
+        "filename": "cv (3334)_annotated.json"
+    }
+}

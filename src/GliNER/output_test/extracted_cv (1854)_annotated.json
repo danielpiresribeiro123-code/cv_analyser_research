@@ -1,0 +1,106 @@
+{
+    "skills": [
+        "Gender",
+        "Male",
+        "Marital Status",
+        "Single",
+        "Hindi",
+        "English",
+        "Listening music",
+        "Cooking",
+        "cricket",
+        "Field of Interest",
+        "better person",
+        "PROFESSIONAL",
+        "Diploma in Tool and Die Making",
+        "Press Tool",
+        "Photo Frame Hanging Clip",
+        "Mold Design",
+        "Knife Mold",
+        "Software Skills",
+        "Auto CAD 2012",
+        "2D & 3D Modeling",
+        "Drafting",
+        "Simulation Software of CNC",
+        "Fanuc control",
+        "CATIA V5R19",
+        "3D Mod eling",
+        "Microsoft Office",
+        "Excel",
+        "PowerPoint",
+        "Word",
+        "Pillar Drilling m/c",
+        "N.C. Surface Grinding",
+        "CNC Milling"
+    ],
+    "professional_info": {
+        "person name": [
+            "Indian",
+            "NAME",
+            "SURENDRA  KUMAR  MAHTO"
+        ],
+        "job title": [],
+        "company": [
+            "MSME Tool Room and Training",
+            "MSME",
+            "Automotive Axle Limited"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "At-Khalari",
+            "Po-Sandi",
+            "Ps-Sikidiri",
+            "Block-",
+            "Ormanjhi",
+            "Ranchi–835219"
+        ],
+        "email": [
+            "E-Mail",
+            "sk667734@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+918292701309"
+        ]
+    },
+    "metadata": {
+        "total_skills": 32,
+        "confidence_scores": {
+            "Gender": 0.2457,
+            "Male": 0.3061,
+            "Marital Status": 0.1646,
+            "Single": 0.461,
+            "Hindi": 0.846,
+            "English": 0.7767,
+            "Listening music": 0.2459,
+            "Cooking": 0.2472,
+            "cricket": 0.1587,
+            "Field of Interest": 0.1807,
+            "better person": 0.1722,
+            "PROFESSIONAL": 0.3501,
+            "Diploma in Tool and Die Making": 0.4718,
+            "Press Tool": 0.1703,
+            "Photo Frame Hanging Clip": 0.2864,
+            "Mold Design": 0.2257,
+            "Knife Mold": 0.2329,
+            "Software Skills": 0.2048,
+            "Auto CAD 2012": 0.5842,
+            "2D & 3D Modeling": 0.1993,
+            "Drafting": 0.2643,
+            "Simulation Software of CNC": 0.2903,
+            "Fanuc control": 0.5598,
+            "CATIA V5R19": 0.5283,
+            "3D Mod eling": 0.2453,
+            "Microsoft Office": 0.5148,
+            "Excel": 0.4544,
+            "PowerPoint": 0.4561,
+            "Word": 0.4173,
+            "Pillar Drilling m/c": 0.1689,
+            "N.C. Surface Grinding": 0.2088,
+            "CNC Milling": 0.2512
+        },
+        "filename": "cv (1854)_annotated.json"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "Strong verbal and personal communication skills",
+        "Decision making",
+        "critical thinking",
+        "Self-motivated",
+        "initiative",
+        "high level of energy",
+        "Accuracy",
+        "Attention to details",
+        "Tolerant and flexible",
+        "Organization and prioritization skills",
+        "Problem analysis",
+        "use of judgment",
+        "ability to solve problems efficiently",
+        "Hard working and flexible",
+        "professional and personal status",
+        "management",
+        "operations",
+        "MS-Excel",
+        "Passport no. M2576122"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHASHI KUMAR MISHRA"
+        ],
+        "job title": [
+            "TEAM LEADER"
+        ],
+        "company": [
+            "Mass Call Net India Pvt. Ltd.",
+            "Nextra ISP Process",
+            "Mass Call net   India, Pvt. Ltd."
+        ],
+        "university": [
+            "PERIYAR, UNIVERSITY"
+        ],
+        "degree": [
+            "BBA"
+        ],
+        "years of experience": [],
+        "address": [
+            "Present Address",
+            "B 43",
+            "Raju Park",
+            "Permanent Address",
+            "HNo. 84/A",
+            "Gopalpur Tola Katingpara"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Strong verbal and personal communication skills": 0.3799,
+            "Decision making": 0.4864,
+            "critical thinking": 0.4889,
+            "Self-motivated": 0.4095,
+            "initiative": 0.425,
+            "high level of energy": 0.163,
+            "Accuracy": 0.1928,
+            "Attention to details": 0.3721,
+            "Tolerant and flexible": 0.4854,
+            "Organization and prioritization skills": 0.3166,
+            "Problem analysis": 0.3254,
+            "use of judgment": 0.2882,
+            "ability to solve problems efficiently": 0.3495,
+            "Hard working and flexible": 0.3515,
+            "professional and personal status": 0.1665,
+            "management": 0.1608,
+            "operations": 0.2311,
+            "MS-Excel": 0.3926,
+            "Passport no. M2576122": 0.2551
+        },
+        "filename": "cv (1861)_annotated.json"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "strong and disciplined individual",
+        "strong leadership",
+        "qualities and responsibilities",
+        "PROFICIENT SKILLS",
+        "Software Development",
+        "Data Science",
+        "Data Analysis",
+        "Data Structure",
+        "Business",
+        "Analytics",
+        "Artificial Intelligence",
+        "Software Engineering",
+        "Java",
+        "Powerbi",
+        "Tableau",
+        "SQL",
+        "DBMS",
+        "Deep",
+        "learning",
+        "Machine Learning",
+        "ACHIEVEMENTS AND EXTRA",
+        "Python",
+        "Air Quality Prediction Based On",
+        "supervised Machine Learning",
+        "Classification models"
+    ],
+    "professional_info": {
+        "person name": [
+            "AMBER GREEN"
+        ],
+        "job title": [
+            "F R E S H E R",
+            "PROFESSIONAL PROFILE",
+            "fresher",
+            "Intern",
+            "CURRICULAR",
+            "Data Analyst"
+        ],
+        "company": [],
+        "university": [
+            "college",
+            "B.Tech HEM College"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Indore"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "strong and disciplined individual": 0.2515,
+            "strong leadership": 0.346,
+            "qualities and responsibilities": 0.2139,
+            "PROFICIENT SKILLS": 0.2032,
+            "Software Development": 0.2838,
+            "Data Science": 0.4623,
+            "Data Analysis": 0.4729,
+            "Data Structure": 0.3681,
+            "Business": 0.2565,
+            "Analytics": 0.3654,
+            "Artificial Intelligence": 0.5018,
+            "Software Engineering": 0.2329,
+            "Java": 0.7824,
+            "Powerbi": 0.2204,
+            "Tableau": 0.3908,
+            "SQL": 0.4934,
+            "DBMS": 0.8669,
+            "Deep": 0.457,
+            "learning": 0.4218,
+            "Machine Learning": 0.4937,
+            "ACHIEVEMENTS AND EXTRA": 0.1524,
+            "Python": 0.8266,
+            "Air Quality Prediction Based On": 0.2826,
+            "supervised Machine Learning": 0.6238,
+            "Classification models": 0.6575
+        },
+        "filename": "cv (5007)_annotated.json"
+    }
+}

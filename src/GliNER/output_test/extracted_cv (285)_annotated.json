@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "skills",
+        "knowledge"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHAIKH SARIN ALI",
+            "skyp-sarin121452"
+        ],
+        "job title": [
+            "INSULATOR",
+            "TINSMITH",
+            "SHEETMETAL FITTER",
+            "SM FITTER"
+        ],
+        "company": [
+            "GULF RETURN",
+            "TAMLUK YOUTH COMPUTER TRAINING CENTER",
+            "Austin Energy",
+            "M/S LLOYD INSULATION INDIA LTD .",
+            "BECHTEL",
+            "Kaefer",
+            "MEISEI INTERNATIONAL PTE. LTD",
+            "LARSEN & TOUBRO LTD.",
+            "M/S LLOYD INSULATION INDIA LTD.",
+            "THERMAL SYSTEM PVT. LTD"
+        ],
+        "university": [
+            "WEST BENGAL BOARD OF SECONDARY EDUCATION",
+            "WEST BENGAL COUNCIL OF HIGHER SECONDARY EDUCATION"
+        ],
+        "degree": [],
+        "years of experience": [
+            "EXPERIENCE",
+            "05 YEARS"
+        ],
+        "address": [
+            "At - Anantapur",
+            "P.O. - Chanserpur",
+            "PS - Tamluk Dist - Purba Mednipur"
+        ],
+        "email": [
+            "E-mail",
+            "sarinali786@gmail.com",
+            "shaikhsarin121452@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+91 9800822845",
+            "+91 9933790947",
+            "Matriculation",
+            "12th"
+        ]
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "skills": 0.1577,
+            "knowledge": 0.1918
+        },
+        "filename": "cv (285)_annotated.json"
+    }
+}

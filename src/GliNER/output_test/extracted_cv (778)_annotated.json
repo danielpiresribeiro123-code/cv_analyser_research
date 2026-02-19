@@ -1,0 +1,96 @@
+{
+    "skills": [
+        "Single",
+        "English",
+        "Malayalam",
+        "Hindi",
+        "AB+",
+        "Objective",
+        "Quality",
+        "Commitment",
+        "Dedication",
+        "motivation",
+        "Technical Skills",
+        "Tally",
+        "Peachtree",
+        "book keeping",
+        "Business",
+        "manag ement",
+        "Windows",
+        "Key Areas & Strengths",
+        "Willingness to learn",
+        "comprehensive problem solving abilities",
+        "Ability to deal with people diplomatically",
+        "Proactive",
+        "excellent interpersonal skills",
+        "Leadership & co -ordination",
+        "quality",
+        "Experience"
+    ],
+    "professional_info": {
+        "person name": [
+            "SYAM PRASAD.AP"
+        ],
+        "job title": [
+            "SR",
+            "executive",
+            "SR Executive",
+            "C60588",
+            "Sales executive",
+            "Home Loan Councilor",
+            "Business Dev elopment Executive"
+        ],
+        "company": [
+            "ICICI Bank Ltd",
+            "HDFC Home loans",
+            "DHFL Sales and",
+            "services limited"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Areekattuparambil  House",
+            "Ramapuram  P.O",
+            "Operating System"
+        ],
+        "email": [
+            "Email",
+            "shyamprasadap@gmail.com",
+            "00968 96162265"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Single": 0.1706,
+            "English": 0.7639,
+            "Malayalam": 0.8739,
+            "Hindi": 0.8325,
+            "AB+": 0.2907,
+            "Objective": 0.2171,
+            "Quality": 0.2531,
+            "Commitment": 0.2903,
+            "Dedication": 0.3741,
+            "motivation": 0.2832,
+            "Technical Skills": 0.3616,
+            "Tally": 0.3097,
+            "Peachtree": 0.2958,
+            "book keeping": 0.2744,
+            "Business": 0.3341,
+            "manag ement": 0.2437,
+            "Windows": 0.9298,
+            "Key Areas & Strengths": 0.309,
+            "Willingness to learn": 0.4821,
+            "comprehensive problem solving abilities": 0.3814,
+            "Ability to deal with people diplomatically": 0.5939,
+            "Proactive": 0.3913,
+            "excellent interpersonal skills": 0.6499,
+            "Leadership & co -ordination": 0.1986,
+            "quality": 0.2817,
+            "Experience": 0.3222
+        },
+        "filename": "cv (778)_annotated.json"
+    }
+}

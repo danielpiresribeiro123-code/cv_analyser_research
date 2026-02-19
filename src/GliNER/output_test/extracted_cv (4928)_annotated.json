@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "Executive Profile",
+        "data science",
+        "data analytics",
+        "skills",
+        "knowledge",
+        "Python",
+        "Machine Learning",
+        "Projects",
+        "Prediction model",
+        "Skills",
+        "MySQL",
+        "Tensorflow",
+        "Keras",
+        "Machine Learning",
+        "Deep Learning",
+        "Education"
+    ],
+    "professional_info": {
+        "person name": [
+            "Eli Scott"
+        ],
+        "job title": [
+            "F R E S H E R",
+            "Intern"
+        ],
+        "company": [
+            "JP Chand and Co"
+        ],
+        "university": [
+            "CIT"
+        ],
+        "degree": [
+            "B.Tech(Metallurgy)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Calicut"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Executive Profile": 0.4477,
+            "data science": 0.3208,
+            "data analytics": 0.3008,
+            "skills": 0.3878,
+            "knowledge": 0.2378,
+            "Python": 0.9905,
+            "Machine Learning": 0.3981,
+            "Projects": 0.2277,
+            "Prediction model": 0.2068,
+            "Skills": 0.2114,
+            "MySQL": 0.8296,
+            "Tensorflow": 0.6057,
+            "Keras": 0.6214,
+            "Deep Learning": 0.3849,
+            "Education": 0.205
+        },
+        "filename": "cv (4928)_annotated.json"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "skills": [
+        "Sex",
+        "Female",
+        "Marital Status",
+        "Single",
+        "goal oriented",
+        "business",
+        "finance",
+        "related strategies",
+        "innovation",
+        "teamwork",
+        "attention to detail",
+        "Ability to work with little or no supervision",
+        "accurate compilation of data",
+        "Ready to learn and take instructions",
+        "Excellent endurance",
+        "Strong ambitions for success",
+        "stamina",
+        "Computer packages",
+        "Digital Opportunity Trust Reach-Up",
+        "Management of payment vouchers",
+        "Imprest management",
+        "Creating payment  vouchers",
+        "Petty cash analysis",
+        "reconciling",
+        "Preparing financial statement",
+        "Filing of financial documents",
+        "Cheque management"
+    ],
+    "professional_info": {
+        "person name": [
+            "ESTHER NEKESA KISONGOCHI",
+            "Kenyan"
+        ],
+        "job title": [
+            "ID No.  30286397",
+            "finance intern",
+            "Registration clerk",
+            "polling/ counting clerk",
+            "attachee"
+        ],
+        "company": [
+            "NATIONAL COHESION AND INTEGRATION COMMISSION",
+            "INDEPENDENT ELECTORAL AND BOUNDARIES COMMISSION"
+        ],
+        "university": [
+            "MOI PRIMARY SCHOOL",
+            "Kabarak University",
+            "DOMINION TRAINING COLLEGE",
+            "MOI D.E.B PRIMARY SCHOOL",
+            "KENYA INDUSTRIAL RESEARCH AND DEVELOPMENT INSTITUTE (KIRDI)"
+        ],
+        "degree": [
+            "Bachelor  of Commerce"
+        ],
+        "years of experience": [],
+        "address": [
+            "P.O BOX 688",
+            "BUNGOMA"
+        ],
+        "email": [
+            "nekesaestherlei@gmail.com"
+        ],
+        "phone": [
+            "PHONE",
+            "0716744577"
+        ]
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "Sex": 0.323,
+            "Female": 0.4459,
+            "Marital Status": 0.1903,
+            "Single": 0.5295,
+            "goal oriented": 0.2382,
+            "business": 0.4962,
+            "finance": 0.6655,
+            "related strategies": 0.1635,
+            "innovation": 0.1788,
+            "teamwork": 0.2109,
+            "attention to detail": 0.3618,
+            "Ability to work with little or no supervision": 0.2185,
+            "accurate compilation of data": 0.2877,
+            "Ready to learn and take instructions": 0.2476,
+            "Excellent endurance": 0.2727,
+            "Strong ambitions for success": 0.3097,
+            "stamina": 0.1668,
+            "Computer packages": 0.3667,
+            "Digital Opportunity Trust Reach-Up": 0.1814,
+            "Management of payment vouchers": 0.2443,
+            "Imprest management": 0.2545,
+            "Creating payment  vouchers": 0.2475,
+            "Petty cash analysis": 0.3735,
+            "reconciling": 0.1514,
+            "Preparing financial statement": 0.2323,
+            "Filing of financial documents": 0.1782,
+            "Cheque management": 0.2512
+        },
+        "filename": "cv (1321)_annotated.json"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "CIVIL ENGINEERING",
+        "technical skills",
+        "innovative ideas",
+        "skills",
+        "creativity",
+        "CONSTRUCTION",
+        "MANAGEMENT"
+    ],
+    "professional_info": {
+        "person name": [
+            "ASHISH CHAUHAN"
+        ],
+        "job title": [
+            "Senior Engineer",
+            "site engineer"
+        ],
+        "company": [
+            "K.S.O.U",
+            "M.V.M school200970",
+            "M.V.M school200772",
+            "MRU S.R Construction Pvt. Ltd.",
+            "MMR GROUP",
+            "KASHUK BUILDERS PVT. LTD.",
+            "Client Ircon International Limited",
+            "M/S MMR CONSTRUCTION PVT. LTD."
+        ],
+        "university": [
+            "Gautam Buddh Technical University"
+        ],
+        "degree": [
+            "B.TECH",
+            "M.B.A.",
+            "Intermediate C.B.S.E",
+            "High School C.B.S.E"
+        ],
+        "years of experience": [
+            "EXPERIENCE",
+            "6 month working experience"
+        ],
+        "address": [
+            "Village & P.O-Barola",
+            "Sec-49",
+            "Noida",
+            "Pin-201301",
+            "Sec-48"
+        ],
+        "email": [
+            "+91-9711500739",
+            "E-mail",
+            "chauhanashish9248@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "CIVIL ENGINEERING": 0.5845,
+            "technical skills": 0.4314,
+            "innovative ideas": 0.2818,
+            "skills": 0.2587,
+            "creativity": 0.1711,
+            "CONSTRUCTION": 0.219,
+            "MANAGEMENT": 0.1524
+        },
+        "filename": "cv (3436)_annotated.json"
+    }
+}

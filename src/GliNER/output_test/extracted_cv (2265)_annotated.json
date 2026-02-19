@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "BIO-DATA",
+        "MOB.NO.7564895972",
+        "Marital status",
+        "married",
+        "Sex",
+        "male",
+        "Qualification",
+        "Hindi Urdu",
+        "English",
+        "Arabic",
+        "SAFETY AWARD",
+        "PASSPORT No. P7158177"
+    ],
+    "professional_info": {
+        "person name": [
+            "IRSHAD AHMAD",
+            "VILL",
+            "SHAHPUR BAGHAUNI",
+            "SAMASTIPUR",
+            "Fakhrul Hasan",
+            "Indian"
+        ],
+        "job title": [
+            "PLUMBER"
+        ],
+        "company": [
+            "PETRON  engineering",
+            "ETA ASCON",
+            "GROUP LLC",
+            "BUTEC QATAR WLL"
+        ],
+        "university": [],
+        "degree": [
+            "matric"
+        ],
+        "years of experience": [],
+        "address": [
+            "Post"
+        ],
+        "email": [
+            "a_Irshad38@Yahoo. Com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "BIO-DATA": 0.1677,
+            "MOB.NO.7564895972": 0.3915,
+            "Marital status": 0.1916,
+            "married": 0.4934,
+            "Sex": 0.2782,
+            "male": 0.4709,
+            "Qualification": 0.3147,
+            "Hindi Urdu": 0.3192,
+            "English": 0.1867,
+            "Arabic": 0.3242,
+            "SAFETY AWARD": 0.5152,
+            "PASSPORT No. P7158177": 0.2173
+        },
+        "filename": "cv (2265)_annotated.json"
+    }
+}

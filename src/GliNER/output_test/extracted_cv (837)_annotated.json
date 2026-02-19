@@ -1,0 +1,97 @@
+{
+    "skills": [
+        "parallel and distributed computer architectures",
+        "cluster computing",
+        "interconnection networks",
+        "on-chip interconnects",
+        "multi-core/SoC architectures",
+        "mobile computing",
+        "Internet QoS",
+        "performance evaluation",
+        "fault- tolerant computing",
+        "Architecture",
+        "IEEE Transactions on Computers (TC)",
+        "IEEE Tr ans. on Parallel and Distributed Systems",
+        "TPDS",
+        "Journal of Parallel and Distributed Computing (JPDC)",
+        "ISCA",
+        "HPCA",
+        "SIGMETRICS",
+        "MICRO",
+        "ICDCS",
+        "IPDPS",
+        "SPAA",
+        "FTCS/DSN",
+        "TC",
+        "HPCA",
+        "HPCA-2006",
+        "Distributed Systems"
+    ],
+    "professional_info": {
+        "person name": [
+            "I"
+        ],
+        "job title": [
+            "Program Director",
+            "E20070091A-Rotator",
+            "IPA",
+            "Professor",
+            "Program Chair"
+        ],
+        "company": [],
+        "university": [
+            "College of Engineering",
+            "An Equal Opportunity University",
+            "The Pennsylvania State University",
+            "National Science Foundation",
+            "Penn sylvania State University"
+        ],
+        "degree": [],
+        "years of experience": [
+            "21 years"
+        ],
+        "address": [
+            "111 Information Sciences and Technology Building",
+            "University Park",
+            "4201 Wilson Blvd.",
+            "Arlington"
+        ],
+        "email": [],
+        "phone": [
+            "814-865-9505",
+            "Fax",
+            "814-865-3176"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "parallel and distributed computer architectures": 0.6166,
+            "cluster computing": 0.7934,
+            "interconnection networks": 0.7171,
+            "on-chip interconnects": 0.7198,
+            "multi-core/SoC architectures": 0.6677,
+            "mobile computing": 0.7376,
+            "Internet QoS": 0.6425,
+            "performance evaluation": 0.5887,
+            "fault- tolerant computing": 0.6123,
+            "Architecture": 0.3958,
+            "IEEE Transactions on Computers (TC)": 0.2464,
+            "IEEE Tr ans. on Parallel and Distributed Systems": 0.1569,
+            "TPDS": 0.1862,
+            "Journal of Parallel and Distributed Computing (JPDC)": 0.1823,
+            "ISCA": 0.2554,
+            "HPCA": 0.1957,
+            "SIGMETRICS": 0.2464,
+            "MICRO": 0.1863,
+            "ICDCS": 0.3089,
+            "IPDPS": 0.3325,
+            "SPAA": 0.3085,
+            "FTCS/DSN": 0.2704,
+            "TC": 0.1796,
+            "HPCA-2006": 0.3206,
+            "Distributed Systems": 0.4176
+        },
+        "filename": "cv (837)_annotated.json"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "forward thinking",
+        "MEP field",
+        "Electrical internal & External Electrification",
+        "Firefighting system",
+        "Fire alarm system",
+        "PA system",
+        "Indore",
+        "Outdoor CCTV",
+        "RMU",
+        "LT kiosk",
+        "FFS",
+        "FAS",
+        "CCTV",
+        "Lighting",
+        "HVAC",
+        "Fire Fighting System",
+        "Outdoor PTZ camera"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Designation",
+            "Assistant Engineer- Electrical",
+            "Client Electrical in charge"
+        ],
+        "company": [
+            "KMV Projects Ltd",
+            "Karnataka Health System Development & reform Project (KHSDRP",
+            "Traffic & Transit management centre",
+            "KSRTC"
+        ],
+        "university": [
+            "Koppal Institute of Medical Sciences"
+        ],
+        "degree": [
+            "M.Tech (Electrical Power System)"
+        ],
+        "years of experience": [
+            "Driven to achieve",
+            "TOTAL EXPERIENCE",
+            "4.9 Years",
+            "Duration"
+        ],
+        "address": [
+            "Hassan dist"
+        ],
+        "email": [
+            "Email ID",
+            "siva.badri1@gmail.com"
+        ],
+        "phone": [
+            "+91 7989938585",
+            "9030142396"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "forward thinking": 0.1692,
+            "MEP field": 0.2982,
+            "Electrical internal & External Electrification": 0.1758,
+            "Firefighting system": 0.2321,
+            "Fire alarm system": 0.2252,
+            "PA system": 0.382,
+            "Indore": 0.161,
+            "Outdoor CCTV": 0.3995,
+            "RMU": 0.1666,
+            "LT kiosk": 0.2059,
+            "FFS": 0.2377,
+            "FAS": 0.3075,
+            "CCTV": 0.264,
+            "Lighting": 0.1523,
+            "HVAC": 0.2709,
+            "Fire Fighting System": 0.3345,
+            "Outdoor PTZ camera": 0.3273
+        },
+        "filename": "cv (692)_annotated.json"
+    }
+}

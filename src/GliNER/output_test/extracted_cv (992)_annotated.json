@@ -1,0 +1,47 @@
+{
+    "skills": [
+        "Marie Claire",
+        "New Yorker",
+        "Rolling Stone",
+        "Vanity Fair",
+        "W Magazine"
+    ],
+    "professional_info": {
+        "person name": [
+            "Christa B. Allen",
+            "Matt Leblanc",
+            "Vince Camuto",
+            "Alex Cayley",
+            "Alexei Hay",
+            "Alexi Lubomirski",
+            "Amanda de Cadenet",
+            "Amanda"
+        ],
+        "job title": [],
+        "company": [
+            "Amway",
+            "Sephora",
+            "Target"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue",
+            "90034"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Marie Claire": 0.1991,
+            "New Yorker": 0.2012,
+            "Rolling Stone": 0.2055,
+            "Vanity Fair": 0.1847,
+            "W Magazine": 0.2067
+        },
+        "filename": "cv (992)_annotated.json"
+    }
+}

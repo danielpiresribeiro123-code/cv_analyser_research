@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "EEE",
+        "TECHNICAL SKILLS",
+        "NEBOSH (IGC)",
+        "Auto Cad",
+        "Corel Draw",
+        "MS-office",
+        "Electronics Engineering",
+        "STRENGTHS",
+        "Positive attitude",
+        "INTELLIGENT POWER SHARING OF TRANSFORMER"
+    ],
+    "professional_info": {
+        "person name": [
+            "Kaviyarajan Kannan"
+        ],
+        "job title": [
+            "kaviyarajan@live.com.",
+            "Production Supervisor"
+        ],
+        "company": [
+            "Anna",
+            "Diploma DOTE Mohamed Sathak Polytechnic",
+            "S.S.L.C State",
+            "BoardSyed Ammal Hr.Sec School",
+            "Kalaivani College of Technology",
+            "ACCEL IT ACADEMY",
+            "NITT",
+            "Lakshmi Electrical Control System"
+        ],
+        "university": [
+            "UniversityRanganathan Engineering College"
+        ],
+        "degree": [
+            "B.E."
+        ],
+        "years of experience": [
+            "EXPERIENCE"
+        ],
+        "address": [
+            "13/3009-3",
+            "Muniyasamy Nagar",
+            "Ramanathapuram-623503",
+            "Coimbatore",
+            "Arasur",
+            "Coimbatore -641 407"
+        ],
+        "email": [
+            "Pattanamkathan"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 9894743868"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "EEE": 0.2009,
+            "TECHNICAL SKILLS": 0.4015,
+            "NEBOSH (IGC)": 0.2039,
+            "Auto Cad": 0.5066,
+            "Corel Draw": 0.3111,
+            "MS-office": 0.375,
+            "Electronics Engineering": 0.2108,
+            "STRENGTHS": 0.2315,
+            "Positive attitude": 0.2583,
+            "INTELLIGENT POWER SHARING OF TRANSFORMER": 0.1628
+        },
+        "filename": "cv (1866)_annotated.json"
+    }
+}

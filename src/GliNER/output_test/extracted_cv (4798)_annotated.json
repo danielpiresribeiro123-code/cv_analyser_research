@@ -1,0 +1,53 @@
+{
+    "skills": [
+        "experience",
+        "Strategic Planning",
+        "Lean Manufacturing Practices",
+        "Site Safety",
+        "Operational ManagementÂ",
+        "Regulatory Compliance",
+        "Training and Development",
+        "Procurement and Inventory Control",
+        "Budgeting and Cost Reduction",
+        "master",
+        "capabilities",
+        "lean manufacturing processes"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "PLANT FULFILLMENT LEADER",
+            "Dedicated leader",
+            "specialists",
+            "Production Specialist: Large Combustors & Rotating Parts"
+        ],
+        "company": [
+            "Company Name",
+            "GE"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "experience": 0.2062,
+            "Strategic Planning": 0.314,
+            "Lean Manufacturing Practices": 0.8094,
+            "Site Safety": 0.3413,
+            "Operational ManagementÂ": 0.2441,
+            "Regulatory Compliance": 0.4574,
+            "Training and Development": 0.2708,
+            "Procurement and Inventory Control": 0.3294,
+            "Budgeting and Cost Reduction": 0.1923,
+            "master": 0.2438,
+            "capabilities": 0.1989,
+            "lean manufacturing processes": 0.4977
+        },
+        "filename": "cv (4798)_annotated.json"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "Hard working in competitive environment",
+        "working individual",
+        "positive spirit",
+        "Intermediate",
+        "Post Graduation",
+        "6 Monts Diploma",
+        "computer Application",
+        "Hindi",
+        "ITI Diploma",
+        "PERSONAL SKILL",
+        "Communication Skills",
+        "Effective Personality",
+        "Positive Attitude",
+        "Easy Handling in critical situation",
+        "Unmarried"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHD. RAFAT SHAMIM",
+            "Mohd Shamim",
+            "Indian",
+            "MOHD RAFAT SHAMIM"
+        ],
+        "job title": [
+            "Computer Operator",
+            "cashier",
+            "accountant"
+        ],
+        "company": [
+            "mobile Shop",
+            "Counter Seling",
+            "Karvy Pvt Ltd.",
+            "Hydric farm Input Ltd"
+        ],
+        "university": [
+            "UP Board",
+            "Lucknow University",
+            "Dr R M L A University"
+        ],
+        "degree": [
+            "Graduation"
+        ],
+        "years of experience": [],
+        "address": [
+            "Faizabad",
+            "U.P.225402"
+        ],
+        "email": [
+            "E-Mail",
+            "mohdrafat2121@gmail.com"
+        ],
+        "phone": [
+            "Mob No- +91-9621786446"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Hard working in competitive environment": 0.1975,
+            "working individual": 0.1821,
+            "positive spirit": 0.4291,
+            "Intermediate": 0.3808,
+            "Post Graduation": 0.3712,
+            "6 Monts Diploma": 0.6868,
+            "computer Application": 0.2297,
+            "Hindi": 0.2497,
+            "ITI Diploma": 0.6412,
+            "PERSONAL SKILL": 0.2215,
+            "Communication Skills": 0.2558,
+            "Effective Personality": 0.6742,
+            "Positive Attitude": 0.6461,
+            "Easy Handling in critical situation": 0.1865,
+            "Unmarried": 0.4011
+        },
+        "filename": "cv (1323)_annotated.json"
+    }
+}

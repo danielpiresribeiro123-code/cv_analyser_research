@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "energetic",
+        "team member",
+        "administration",
+        "Communication skill",
+        "hard work",
+        "intelligence",
+        "honesty",
+        "Strength",
+        "communication  skill",
+        "diligent  worker",
+        "very",
+        "hardworking person",
+        "ambitious",
+        "Computer Knowledge",
+        "Single",
+        "Traveling and Playing",
+        "Marwari",
+        "Hindi",
+        "English",
+        "Gujrati",
+        "District Durgapur (Raj.)",
+        "Dungarpur (Raj.)"
+    ],
+    "professional_info": {
+        "person name": [
+            "GOURAV JOSHI",
+            "Indian",
+            "Jayantilal Joshi"
+        ],
+        "job title": [
+            "team leader",
+            "C.T",
+            "Assembly shop production worker"
+        ],
+        "company": [
+            "SUZUKI MOTOR GUJRAT PVT. LTD."
+        ],
+        "university": [
+            "ITI  (Turner)            Jodhpur"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Work Experience"
+        ],
+        "address": [
+            "Mukam Post Vassi",
+            "Pin Code - 314036"
+        ],
+        "email": [
+            "E-mail",
+            "gorujoshi1995@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "7568985481 / 7990705722",
+            "University Passing"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "energetic": 0.3432,
+            "team member": 0.4096,
+            "administration": 0.2162,
+            "Communication skill": 0.331,
+            "hard work": 0.1823,
+            "intelligence": 0.3794,
+            "honesty": 0.3324,
+            "Strength": 0.2157,
+            "communication  skill": 0.4443,
+            "diligent  worker": 0.4465,
+            "very": 0.1636,
+            "hardworking person": 0.4045,
+            "ambitious": 0.4917,
+            "Computer Knowledge": 0.4821,
+            "Single": 0.3611,
+            "Traveling and Playing": 0.1866,
+            "Marwari": 0.7541,
+            "Hindi": 0.8017,
+            "English": 0.8236,
+            "Gujrati": 0.7619,
+            "District Durgapur (Raj.)": 0.3503,
+            "Dungarpur (Raj.)": 0.1607
+        },
+        "filename": "cv (2218)_annotated.json"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "team spirit",
+        "High School",
+        "Intermediate",
+        "COMPUTER SKILLS",
+        "Cosmo Hardware Computer Diploma",
+        "Computer Typing",
+        "WORK EXPERIENCE",
+        "PROFESSIONAL SKILLS",
+        "Positive Attitude",
+        "Good Team work",
+        "Respect all Seniors",
+        "Marital Status",
+        "Unmarried",
+        "Hindi",
+        "English",
+        "Arabic"
+    ],
+    "professional_info": {
+        "person name": [
+            "KASIF AHMAD",
+            "Mr.  Ahrar Ahmad",
+            "Male"
+        ],
+        "job title": [
+            "Molding Machine Helper"
+        ],
+        "company": [
+            "Steel Fixed",
+            "Surya Construction",
+            "Alfal Automatic",
+            "Indian"
+        ],
+        "university": [
+            "U.P. Board",
+            "URDU Board"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Two years experience",
+            "Two years four months"
+        ],
+        "address": [
+            "Rajajipuram",
+            "Lucknow-226017",
+            "Riyhad"
+        ],
+        "email": [
+            "Contact No. 8009434440",
+            "ka0253437@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "team spirit": 0.2649,
+            "High School": 0.2189,
+            "Intermediate": 0.643,
+            "COMPUTER SKILLS": 0.4335,
+            "Cosmo Hardware Computer Diploma": 0.6857,
+            "Computer Typing": 0.4137,
+            "WORK EXPERIENCE": 0.2075,
+            "PROFESSIONAL SKILLS": 0.29,
+            "Positive Attitude": 0.414,
+            "Good Team work": 0.171,
+            "Respect all Seniors": 0.3178,
+            "Marital Status": 0.2322,
+            "Unmarried": 0.3527,
+            "Hindi": 0.8566,
+            "English": 0.8188,
+            "Arabic": 0.7629
+        },
+        "filename": "cv (550)_annotated.json"
+    }
+}

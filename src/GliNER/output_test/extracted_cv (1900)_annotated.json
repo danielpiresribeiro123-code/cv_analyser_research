@@ -1,0 +1,91 @@
+{
+    "skills": [
+        "MANAGEMENT",
+        "SUPERVISION",
+        "Technical Skills",
+        "Solar Monitoring Boxes",
+        "AJB",
+        "SCMB",
+        "Electrical Distribution  Panels",
+        "ACDB",
+        "DCDB",
+        "Lightning protection system",
+        "MS-Word",
+        "Excel",
+        "PowerPoint",
+        "Internet Surfing",
+        "New method of supply  Coagulation",
+        "Intelligent Energy saving",
+        "Metal detector Robot",
+        "Vehicle  EMF",
+        "Wireless",
+        "LOS communication",
+        "VCCS",
+        "DVTR",
+        "DATIS",
+        "VHF Transmitter and Receiver",
+        "AMSS"
+    ],
+    "professional_info": {
+        "person name": [
+            "GUNJAN KUMAR"
+        ],
+        "job title": [
+            "7039130922",
+            "Profes sional",
+            "Quality/Maintenance /Project  engineer",
+            "Academics"
+        ],
+        "company": [
+            "organization",
+            "ECE  Poornima Inst. Of Engg. &"
+        ],
+        "university": [
+            "Technology  Rajasthan Technical",
+            "S.N. SINHA COLLEGE"
+        ],
+        "degree": [
+            "I.  B.TECH",
+            "B.S.E.B"
+        ],
+        "years of experience": [],
+        "address": [
+            "Office  AAROHAN"
+        ],
+        "email": [
+            "g.jan 029@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "MANAGEMENT": 0.416,
+            "SUPERVISION": 0.2336,
+            "Technical Skills": 0.4889,
+            "Solar Monitoring Boxes": 0.2433,
+            "AJB": 0.1806,
+            "SCMB": 0.2822,
+            "Electrical Distribution  Panels": 0.2349,
+            "ACDB": 0.3097,
+            "DCDB": 0.3842,
+            "Lightning protection system": 0.2032,
+            "MS-Word": 0.5674,
+            "Excel": 0.554,
+            "PowerPoint": 0.5273,
+            "Internet Surfing": 0.3702,
+            "New method of supply  Coagulation": 0.1993,
+            "Intelligent Energy saving": 0.1998,
+            "Metal detector Robot": 0.2587,
+            "Vehicle  EMF": 0.2028,
+            "Wireless": 0.213,
+            "LOS communication": 0.4243,
+            "VCCS": 0.3013,
+            "DVTR": 0.2872,
+            "DATIS": 0.3383,
+            "VHF Transmitter and Receiver": 0.4303,
+            "AMSS": 0.385
+        },
+        "filename": "cv (1900)_annotated.json"
+    }
+}

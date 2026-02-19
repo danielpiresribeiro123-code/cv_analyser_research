@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "expertise",
+        "I.I.T.I (NCVT) FITTER-2006",
+        "II.S.S.C- GSEB-2004",
+        "English",
+        "Hindi",
+        "Gujarati",
+        "L S & CS Seam Setup",
+        "Workshop crane",
+        "fabricating machines",
+        "brakes",
+        "rolls",
+        "shears",
+        "cutters",
+        "drill presses",
+        "Hammer"
+    ],
+    "professional_info": {
+        "person name": [
+            "BHARGAV MOHABATBHAI MER",
+            "BHARGAV MER"
+        ],
+        "job title": [
+            "FABRICATOR",
+            "D.O.B.",
+            "FITTER",
+            "JR TECHNICIAN"
+        ],
+        "company": [
+            "I.D.M.C LIMITED",
+            "V.U"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "8 years of experience"
+        ],
+        "address": [
+            "Bhavnagar",
+            "Gujarat"
+        ],
+        "email": [
+            "Email",
+            "bhargav.mer@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 9824060867-9722935445"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "expertise": 0.1938,
+            "I.I.T.I (NCVT) FITTER-2006": 0.2764,
+            "II.S.S.C- GSEB-2004": 0.3451,
+            "English": 0.6118,
+            "Hindi": 0.8076,
+            "Gujarati": 0.7572,
+            "L S & CS Seam Setup": 0.1554,
+            "Workshop crane": 0.1508,
+            "fabricating machines": 0.1513,
+            "brakes": 0.308,
+            "rolls": 0.2327,
+            "shears": 0.2371,
+            "cutters": 0.3256,
+            "drill presses": 0.4815,
+            "Hammer": 0.176
+        },
+        "filename": "cv (2834)_annotated.json"
+    }
+}

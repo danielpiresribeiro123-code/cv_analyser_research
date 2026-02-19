@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "Machine Learning",
+        "C++",
+        "Technical Documentation",
+        "Natural Language Processing",
+        "SQL",
+        "Tableau",
+        "Python",
+        "AWS",
+        "Azure",
+        "OracleDB",
+        "Heroku"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Software Developer",
+            "SOFTWARE ENGINEER"
+        ],
+        "company": [
+            "VoyaGenius Labs",
+            "SAP"
+        ],
+        "university": [
+            "KLE College of",
+            "Engineering"
+        ],
+        "degree": [
+            "B.Tech(Telecommunication)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Indian addresses"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Machine Learning": 0.4573,
+            "C++": 0.9175,
+            "Technical Documentation": 0.2187,
+            "Natural Language Processing": 0.7082,
+            "SQL": 0.2059,
+            "Tableau": 0.203,
+            "Python": 0.9374,
+            "AWS": 0.9386,
+            "Azure": 0.9218,
+            "OracleDB": 0.3418,
+            "Heroku": 0.804
+        },
+        "filename": "cv (4996)_annotated.json"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "encouragement",
+        "evidence based practice",
+        "Purposeful lesson planning",
+        "Fast learner",
+        "Creative problem solving",
+        "managing difficult behaviors",
+        "managing a team of adults",
+        "setting goals",
+        "data tracking",
+        "Writing measurable goals",
+        "Arizona Teaching Certificate",
+        "Special Education endorsement",
+        "protocols",
+        "Created lesson plans"
+    ],
+    "professional_info": {
+        "person name": [
+            "TEACHER",
+            "I"
+        ],
+        "job title": [
+            "managers",
+            "Work History Teacher",
+            "specialists",
+            "OT's",
+            "PT's",
+            "SLPs",
+            "teachers and staff",
+            "team of three paraeducators",
+            "teachers",
+            "TABS Teacher"
+        ],
+        "company": [
+            "Current Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Scottsdale"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "encouragement": 0.2016,
+            "evidence based practice": 0.6231,
+            "Purposeful lesson planning": 0.2919,
+            "Fast learner": 0.1505,
+            "Creative problem solving": 0.3349,
+            "managing difficult behaviors": 0.1814,
+            "managing a team of adults": 0.2059,
+            "setting goals": 0.2421,
+            "data tracking": 0.1827,
+            "Writing measurable goals": 0.2655,
+            "Arizona Teaching Certificate": 0.7664,
+            "Special Education endorsement": 0.3777,
+            "protocols": 0.2686,
+            "Created lesson plans": 0.21
+        },
+        "filename": "cv (4362)_annotated.json"
+    }
+}

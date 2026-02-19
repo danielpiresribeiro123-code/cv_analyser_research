@@ -1,0 +1,97 @@
+{
+    "skills": [
+        "Hindi",
+        "Mathematics",
+        "Science",
+        "Social Sc.",
+        "Art",
+        "Intermedia",
+        "Chemistry",
+        "English",
+        "TECHNICAL   PURVIEW",
+        "Windows XP",
+        "Vista",
+        "CPackages",
+        "MS Office2003/07/10",
+        "Designing",
+        "Autocad",
+        "Construction And Working Of Turbo Generator",
+        "Net Surfing",
+        "Reading Books & Innovative works",
+        "Presentation",
+        "organizing",
+        "Management",
+        "Strength",
+        "adaptive",
+        "c reative",
+        "will to learn",
+        "ability"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAGAR YADAV"
+        ],
+        "job title": [],
+        "company": [
+            "BHARAT HEAVY ELECTRICALS LIMITED"
+        ],
+        "university": [
+            "SCHOLASTICS",
+            "Radha Govind Engineering",
+            "College",
+            "UPTU 65.45",
+            "UPTU                       70",
+            "UPTU                       69",
+            "UPTU                       70.5",
+            "UP200960English",
+            "teS.S.K. Inter College"
+        ],
+        "degree": [
+            "B.Tech.",
+            "Mechanical Engineering",
+            "Gagalheri(SRE)UP201172Physics"
+        ],
+        "years of experience": [],
+        "address": [
+            "Meerut(UP)"
+        ],
+        "email": [
+            "sagaryadav.sre@gmail.com"
+        ],
+        "phone": [
+            "+91-9675093565"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "Hindi": 0.8809,
+            "Mathematics": 0.2902,
+            "Science": 0.2898,
+            "Social Sc.": 0.2714,
+            "Art": 0.3094,
+            "Intermedia": 0.303,
+            "Chemistry": 0.3097,
+            "English": 0.8256,
+            "TECHNICAL   PURVIEW": 0.1674,
+            "Windows XP": 0.8235,
+            "Vista": 0.2378,
+            "CPackages": 0.3814,
+            "MS Office2003/07/10": 0.546,
+            "Designing": 0.1796,
+            "Autocad": 0.2706,
+            "Construction And Working Of Turbo Generator": 0.2926,
+            "Net Surfing": 0.2463,
+            "Reading Books & Innovative works": 0.1545,
+            "Presentation": 0.3028,
+            "organizing": 0.1772,
+            "Management": 0.2201,
+            "Strength": 0.3725,
+            "adaptive": 0.3972,
+            "c reative": 0.2937,
+            "will to learn": 0.226,
+            "ability": 0.1672
+        },
+        "filename": "cv (602)_annotated.json"
+    }
+}

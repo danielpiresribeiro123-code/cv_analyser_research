@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "innovative skills",
+        "graduate",
+        "Maths",
+        "NellikuppamTNTEU 2014",
+        "Matriculation",
+        "MATHEMATICS",
+        "LANGUAGE",
+        "English",
+        "Tamil",
+        "Married"
+    ],
+    "professional_info": {
+        "person name": [
+            "S.KAVITHA",
+            "C.Kandasamy",
+            "R. Sadagoban",
+            "S.Vijayalakshmi",
+            "Female",
+            "Thangaraj S",
+            "Husband",
+            "Indian",
+            "yours truly"
+        ],
+        "job title": [
+            "Network Engineer"
+        ],
+        "company": [
+            "firm"
+        ],
+        "university": [
+            "St.Joseph’s College",
+            "University2016",
+            "Arcot Luthrern",
+            "Church",
+            "University2013",
+            "CuddaloreState Board",
+            "SSLCSt.Paul’s",
+            "Modern Senior Secondary School. Nanganallur",
+            "IIT"
+        ],
+        "degree": [
+            "M.Sc.",
+            "B.Ed.",
+            "B.Sc."
+        ],
+        "years of experience": [
+            "24-01-1993",
+            "Experience",
+            "2 Years"
+        ],
+        "address": [
+            "NellikuppamMatriculation 2008",
+            "17/32 Lakshmipuram 3rd cross street",
+            "Gandhi  road",
+            "No 2, Singarapettai St",
+            "Nandhakumar Nagar",
+            "Melpattampakkam-607104"
+        ],
+        "email": [
+            "skavitha548@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "innovative skills": 0.2405,
+            "graduate": 0.1862,
+            "Maths": 0.4343,
+            "NellikuppamTNTEU 2014": 0.1568,
+            "Matriculation": 0.1951,
+            "MATHEMATICS": 0.6692,
+            "LANGUAGE": 0.4364,
+            "English": 0.6267,
+            "Tamil": 0.7693,
+            "Married": 0.3619
+        },
+        "filename": "cv (1553)_annotated.json"
+    }
+}

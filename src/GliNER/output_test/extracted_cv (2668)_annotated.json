@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "Skilled in a wide range of desktop applications",
+        "Diploma",
+        "Computer Science & Engineering",
+        "Certified",
+        "Local Area Network",
+        "Windows",
+        "Microsoft outlook",
+        "BMC Remedy",
+        "anti-virus software",
+        "Citrix",
+        "Cisco VPN",
+        "Bajaj Portal",
+        "Active directory"
+    ],
+    "professional_info": {
+        "person name": [
+            "YASIR HASAN KHAN"
+        ],
+        "job title": [
+            "detail-oriented professional",
+            "Expert interpersonal communicator",
+            "FMS Engineer",
+            "Technical Support Executive",
+            "IT Trainee"
+        ],
+        "company": [
+            "VDA Info Solutions Pvt. Ltd.",
+            "JUPSOFT TECHNOLOGIES PVT. LTD",
+            "TITAN COMPANY LTD.",
+            "Dr. K. N. Shukla"
+        ],
+        "university": [
+            "Govt. Polytechnic Kaladhungi (Nainital) University",
+            "Uttarakhand Board of Technical Education",
+            "Krishna Inter College Rudrapur (U.S. Nagar)",
+            "Central Computing Facility College of Technology"
+        ],
+        "degree": [
+            "HSC"
+        ],
+        "years of experience": [],
+        "address": [
+            "Pin-263153"
+        ],
+        "email": [
+            "Email",
+            "Yasirhasankhan78@gmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Skilled in a wide range of desktop applications": 0.2549,
+            "Diploma": 0.7198,
+            "Computer Science & Engineering": 0.2721,
+            "Certified": 0.2313,
+            "Local Area Network": 0.417,
+            "Windows": 0.5854,
+            "Microsoft outlook": 0.3793,
+            "BMC Remedy": 0.1923,
+            "anti-virus software": 0.208,
+            "Citrix": 0.2739,
+            "Cisco VPN": 0.3564,
+            "Bajaj Portal": 0.3527,
+            "Active directory": 0.232
+        },
+        "filename": "cv (2668)_annotated.json"
+    }
+}

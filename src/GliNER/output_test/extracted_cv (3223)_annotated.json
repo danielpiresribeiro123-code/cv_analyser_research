@@ -1,0 +1,106 @@
+{
+    "skills": [
+        "Expertise",
+        "Efficient",
+        "set-up standards",
+        "general  electric work",
+        "Hard  worker",
+        "decision-maker",
+        "proven  skills",
+        "project development",
+        "Education & Credentials",
+        "Tropical Basic Offshore Safety Induction & Emergency Training",
+        "TBOSIET-OPITO Approved",
+        "Basic  H2S Training",
+        "OPITO Approved",
+        "Project Management",
+        "Integrated Management System",
+        "Safety Management",
+        "Cross-functional Coordination",
+        "Communicator",
+        "Innovator",
+        "MS Office",
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "MS Windows",
+        "98",
+        "XP",
+        "7",
+        "10",
+        "vista",
+        "Mac",
+        "Internet Applications",
+        "ELECTRICAL ENGINEERING",
+        "Engineering",
+        "Construction"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUKHVINDER SINGH"
+        ],
+        "job title": [
+            "Diploma  in  Electrical  Engineering",
+            "Electrical EngineerNL",
+            "Site Engineer",
+            "Electrical Equipment Electrician"
+        ],
+        "company": [
+            "Govt. Polytechnics",
+            "Emirates Technical & Safety Development Center",
+            "Gulf  Technical  &  Safety  Training",
+            "Bauer Geotechnical Specialized Foundation LLC",
+            "RKM Housing Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "2005 to 2010"
+        ],
+        "address": [],
+        "email": [],
+        "phone": [
+            "Skype"
+        ]
+    },
+    "metadata": {
+        "total_skills": 34,
+        "confidence_scores": {
+            "Expertise": 0.305,
+            "Efficient": 0.1659,
+            "set-up standards": 0.3207,
+            "general  electric work": 0.2015,
+            "Hard  worker": 0.2013,
+            "decision-maker": 0.1981,
+            "proven  skills": 0.1728,
+            "project development": 0.2087,
+            "Education & Credentials": 0.2031,
+            "Tropical Basic Offshore Safety Induction & Emergency Training": 0.2808,
+            "TBOSIET-OPITO Approved": 0.3685,
+            "Basic  H2S Training": 0.168,
+            "OPITO Approved": 0.2796,
+            "Project Management": 0.4466,
+            "Integrated Management System": 0.2621,
+            "Safety Management": 0.3389,
+            "Cross-functional Coordination": 0.2351,
+            "Communicator": 0.2133,
+            "Innovator": 0.1783,
+            "MS Office": 0.7976,
+            "Word": 0.4106,
+            "Excel": 0.3803,
+            "PowerPoint": 0.397,
+            "MS Windows": 0.585,
+            "98": 0.3619,
+            "XP": 0.7011,
+            "7": 0.1536,
+            "10": 0.2096,
+            "vista": 0.7956,
+            "Mac": 0.3948,
+            "Internet Applications": 0.43,
+            "ELECTRICAL ENGINEERING": 0.3532,
+            "Engineering": 0.306,
+            "Construction": 0.1896
+        },
+        "filename": "cv (3223)_annotated.json"
+    }
+}

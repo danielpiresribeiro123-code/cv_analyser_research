@@ -1,0 +1,113 @@
+{
+    "skills": [
+        "Gender",
+        "Female",
+        "MDM",
+        "Proficiency",
+        "Virtual Private Network",
+        "Office 365",
+        "Outlook",
+        "Employee of the month",
+        "Information and  Communication Technology",
+        "Computer Engineering",
+        "Technology Proficiency",
+        "Process Flow and Call tracking tools",
+        "Software",
+        "MS Office",
+        "Oracle",
+        "Browser",
+        "Chrome",
+        "Internet Explorer",
+        "Firefox",
+        "Safari",
+        "Networking",
+        "Operating System",
+        "Windows",
+        "UNIX",
+        "Programming Languages",
+        "Java",
+        "JavaScript",
+        "C++",
+        "html",
+        "Database Language",
+        "SQL",
+        "English",
+        "Good",
+        "Hindi",
+        "Gujarati"
+    ],
+    "professional_info": {
+        "person name": [
+            "Palak Parekh"
+        ],
+        "job title": [
+            "Foreigner",
+            "IT Helpd esk Analyst",
+            "Job Function  Help Desk & IT Support"
+        ],
+        "company": [
+            "NCR corporation",
+            "Dell",
+            "Canon"
+        ],
+        "university": [
+            "Shayog college of management studies",
+            "Mumbai university   2014"
+        ],
+        "degree": [
+            "Masters",
+            "Degree"
+        ],
+        "years of experience": [
+            "2 year(s)"
+        ],
+        "address": [],
+        "email": [
+            "gmail.com",
+            "(91) 8097889425",
+            "Education Level"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 35,
+        "confidence_scores": {
+            "Gender": 0.1826,
+            "Female": 0.1661,
+            "MDM": 0.2516,
+            "Proficiency": 0.2305,
+            "Virtual Private Network": 0.2617,
+            "Office 365": 0.3141,
+            "Outlook": 0.3517,
+            "Employee of the month": 0.1862,
+            "Information and  Communication Technology": 0.255,
+            "Computer Engineering": 0.4608,
+            "Technology Proficiency": 0.4181,
+            "Process Flow and Call tracking tools": 0.3099,
+            "Software": 0.1636,
+            "MS Office": 0.6868,
+            "Oracle": 0.5076,
+            "Browser": 0.2175,
+            "Chrome": 0.2936,
+            "Internet Explorer": 0.4961,
+            "Firefox": 0.3766,
+            "Safari": 0.3397,
+            "Networking": 0.174,
+            "Operating System": 0.2125,
+            "Windows": 0.9614,
+            "UNIX": 0.9473,
+            "Programming Languages": 0.21,
+            "Java": 0.8522,
+            "JavaScript": 0.8502,
+            "C++": 0.845,
+            "html": 0.2389,
+            "Database Language": 0.3856,
+            "SQL": 0.1857,
+            "English": 0.8264,
+            "Good": 0.2386,
+            "Hindi": 0.8383,
+            "Gujarati": 0.5579
+        },
+        "filename": "cv (4064)_annotated.json"
+    }
+}

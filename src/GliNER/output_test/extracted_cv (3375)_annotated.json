@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "capabilities",
+        "optimistic person",
+        "rational approach towards life",
+        "Able to co-ordinate various activities",
+        "Technical Proficiency"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAJEEV KUMAR MISHRA",
+            "person",
+            "I"
+        ],
+        "job title": [
+            "Coordination"
+        ],
+        "company": [
+            "Medhaj Techno Concept Pvt Ltd"
+        ],
+        "university": [
+            "MPMKVVCL"
+        ],
+        "degree": [
+            "B.Tech-   Electrical & Electronics Engineering",
+            "B.Tech –Electrical & Electronics Engineering",
+            "B.Tech – Electrical & Electronics Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "Modern jail campus",
+            "Gosaiganj",
+            "Pin code-227305"
+        ],
+        "email": [
+            "MAIL",
+            "rajeevmtcpl@gmail.com"
+        ],
+        "phone": [
+            "Contact No.",
+            "+918756118015",
+            "+919118831057"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "capabilities": 0.2776,
+            "optimistic person": 0.4339,
+            "rational approach towards life": 0.2794,
+            "Able to co-ordinate various activities": 0.1727,
+            "Technical Proficiency": 0.2955
+        },
+        "filename": "cv (3375)_annotated.json"
+    }
+}

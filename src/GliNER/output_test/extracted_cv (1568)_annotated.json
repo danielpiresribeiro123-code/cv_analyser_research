@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "Tamil",
+        "Female",
+        "English",
+        "Hindi",
+        "Sanskrit",
+        "Write",
+        "Speak",
+        "Typing",
+        "Microsoft Office 2013",
+        "MATLAB",
+        "Sanskrit-11th"
+    ],
+    "professional_info": {
+        "person name": [
+            "REVATHI",
+            "Viswanathan S"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "Annamalai University",
+            "ChidambaramState Board",
+            "Annamalai"
+        ],
+        "degree": [
+            "B.lit",
+            "M.A",
+            "M.Phil",
+            "B.litBhavani"
+        ],
+        "years of experience": [],
+        "address": [
+            "No.4",
+            "G.C.R.Nagar",
+            "4th street",
+            "Microsoft Windows XP / 7 / 8"
+        ],
+        "email": [
+            "E-mail",
+            "revathyananthi2404@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "8508727021"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Tamil": 0.9161,
+            "Female": 0.3077,
+            "English": 0.8496,
+            "Hindi": 0.8486,
+            "Sanskrit": 0.8454,
+            "Write": 0.1776,
+            "Speak": 0.2795,
+            "Typing": 0.3067,
+            "Microsoft Office 2013": 0.6996,
+            "MATLAB": 0.3766,
+            "Sanskrit-11th": 0.3797
+        },
+        "filename": "cv (1568)_annotated.json"
+    }
+}

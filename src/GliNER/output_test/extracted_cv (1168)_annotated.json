@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "Management",
+        "responsible skill",
+        "business development",
+        "Accounts",
+        "Auditing",
+        "Drafting",
+        "Auditing",
+        "Commerce"
+    ],
+    "professional_info": {
+        "person name": [
+            "MUHAMMAD IQBAL HOSSAIN"
+        ],
+        "job title": [
+            "0096894864966",
+            "Managing Director"
+        ],
+        "company": [
+            "Rupali Life Insurance Company",
+            "Grameen Bybosha Bik ash",
+            "Nobel Laurite Grameen Bank",
+            "electronics trading company"
+        ],
+        "university": [
+            "National University Bangladesh",
+            "Daffodil International  University Bangladesh",
+            "HomeMakers",
+            "Jagannath University",
+            "National University",
+            "Govt.Bangla College",
+            "Adamjee Cantonment College",
+            "Daffodil International University"
+        ],
+        "degree": [
+            "B.Com (Hon ’s)",
+            "M.Com (Management)",
+            "MBA",
+            "Masters of Business Administration (finance)",
+            "MBA (Finance )"
+        ],
+        "years of experience": [
+            "ten years",
+            "One year",
+            "Three Years",
+            "Two years"
+        ],
+        "address": [],
+        "email": [
+            "Mobile",
+            "e-mail",
+            "sunrisetoiqbal@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Management": 0.462,
+            "responsible skill": 0.1638,
+            "business development": 0.4594,
+            "Accounts": 0.516,
+            "Auditing": 0.296,
+            "Drafting": 0.5893,
+            "Commerce": 0.2165
+        },
+        "filename": "cv (1168)_annotated.json"
+    }
+}

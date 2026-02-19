@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "Dynamic college student",
+        "enthusiastic",
+        "self- motivating",
+        "resourceful",
+        "professional",
+        "OSHA 29 CFR 1910.120",
+        "Hazardous",
+        "Quick learner",
+        "Adept multi-tasker",
+        "Category 3 mixed waste worker training",
+        "Life Harness Qualified",
+        "Article 108",
+        "Qualification",
+        "Self- disciplined",
+        "Team Player",
+        "Respirator Qualified",
+        "Microsoft Word",
+        "Excel",
+        "PowerPointÂ",
+        "Experience",
+        "radiological standards",
+        "DOE L ClearenceÂ",
+        "Article 701 of NAVSEA 389-0288",
+        "ALARA principles",
+        "proficiency",
+        "confidential clearance",
+        "Professionally and thoroughly trained"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "RADIOLOGICAL CONTROL TECHNICIAN",
+            "Professional Summary"
+        ],
+        "company": [
+            "Company Name",
+            "Aviation Ordnancemen"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "Dynamic college student": 0.294,
+            "enthusiastic": 0.491,
+            "self- motivating": 0.4945,
+            "resourceful": 0.2981,
+            "professional": 0.1645,
+            "OSHA 29 CFR 1910.120": 0.1842,
+            "Hazardous": 0.1719,
+            "Quick learner": 0.6487,
+            "Adept multi-tasker": 0.6558,
+            "Category 3 mixed waste worker training": 0.1992,
+            "Life Harness Qualified": 0.2904,
+            "Article 108": 0.3813,
+            "Qualification": 0.285,
+            "Self- disciplined": 0.4062,
+            "Team Player": 0.7068,
+            "Respirator Qualified": 0.3566,
+            "Microsoft Word": 0.5398,
+            "Excel": 0.5031,
+            "PowerPointÂ": 0.6117,
+            "Experience": 0.2331,
+            "radiological standards": 0.5465,
+            "DOE L ClearenceÂ": 0.3331,
+            "Article 701 of NAVSEA 389-0288": 0.4039,
+            "ALARA principles": 0.3922,
+            "proficiency": 0.1825,
+            "confidential clearance": 0.1787,
+            "Professionally and thoroughly trained": 0.1838
+        },
+        "filename": "cv (4600)_annotated.json"
+    }
+}

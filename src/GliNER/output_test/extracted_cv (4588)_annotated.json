@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "Visionary",
+        "Innovative",
+        "enterprise resource planning",
+        "data and voice networking",
+        "software development",
+        "performance analysis",
+        "Innovative Leadership",
+        "Change Management",
+        "Technology Development",
+        "Windows 7",
+        "Office 2010",
+        "software applications",
+        "ERP system"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "DIRECTOR OF INFORMATION TECHNOLOGY",
+            "Project Manager",
+            "Business Analyst",
+            "Technical Support Analyst",
+            "Information Technology executive",
+            "IT Manager",
+            "Network Administrator",
+            "Programmer",
+            "IT Trainer",
+            "Helpdesk Analysts"
+        ],
+        "company": [
+            "Current Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "20+ years"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Visionary": 0.1782,
+            "Innovative": 0.223,
+            "enterprise resource planning": 0.299,
+            "data and voice networking": 0.1838,
+            "software development": 0.609,
+            "performance analysis": 0.3021,
+            "Innovative Leadership": 0.3041,
+            "Change Management": 0.1669,
+            "Technology Development": 0.4826,
+            "Windows 7": 0.7826,
+            "Office 2010": 0.7373,
+            "software applications": 0.1808,
+            "ERP system": 0.1564
+        },
+        "filename": "cv (4588)_annotated.json"
+    }
+}

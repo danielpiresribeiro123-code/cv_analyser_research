@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "Both practical as well as theoretical knowledge of Different Electrical instruments",
+        "Safety process oriented",
+        "proven technical and training skills",
+        "Safety and quality auditing",
+        "Replacement of faulty Equipment",
+        "Main receiving circuit breaker",
+        "Substation",
+        "Test oil circuit breaker",
+        "vacuum circuit breaker",
+        "Air circuit breaker"
+    ],
+    "professional_info": {
+        "person name": [
+            "Kalaimani"
+        ],
+        "job title": [
+            "Designation",
+            "Electrical Engineer  (Switchgear)",
+            "Electrical manager",
+            "Electrical Engineer Trainee (Switchgear)"
+        ],
+        "company": [
+            "Wind care India PVT.LTD."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "kudimangalan"
+        ],
+        "email": [
+            "joyatmani@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Both practical as well as theoretical knowledge of Different Electrical instruments": 0.172,
+            "Safety process oriented": 0.312,
+            "proven technical and training skills": 0.3996,
+            "Safety and quality auditing": 0.2085,
+            "Replacement of faulty Equipment": 0.2031,
+            "Main receiving circuit breaker": 0.1746,
+            "Substation": 0.1914,
+            "Test oil circuit breaker": 0.1584,
+            "vacuum circuit breaker": 0.1653,
+            "Air circuit breaker": 0.1877
+        },
+        "filename": "cv (3654)_annotated.json"
+    }
+}

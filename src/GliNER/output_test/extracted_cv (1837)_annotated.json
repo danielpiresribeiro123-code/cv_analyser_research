@@ -1,0 +1,97 @@
+{
+    "skills": [
+        "ability",
+        "technical skills",
+        "hard work",
+        "creativity",
+        "Diploma in Mechanical",
+        "Engineering2018",
+        "Science ( Non - Medical",
+        "Management",
+        "Skills",
+        "Communication skills",
+        "Ability to learn",
+        "Time management",
+        "Attention to details",
+        "Strengths",
+        "Hard working",
+        "result oriented",
+        "Leadership",
+        "Quick learner",
+        "Hobbies",
+        "Learning in Mechanical",
+        "Male",
+        "Single",
+        "English",
+        "Urdu",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "Saif Ali",
+            "Mr. Jakir Hussain"
+        ],
+        "job title": [
+            "Mechanical engineer",
+            "Team Member"
+        ],
+        "company": [
+            "construction compan y",
+            "Goodyear pvt. Ltd.",
+            "Jeevan Jyoti Sr. Sec. School",
+            "Palwal ( India )10th",
+            "Nilokheri",
+            "Indian"
+        ],
+        "university": [
+            "Government Polytechnic",
+            "Haryana Open School",
+            "India12th"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Address",
+            "Delhi"
+        ],
+        "email": [
+            "Email",
+            "alsaifali54@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 99919 52626"
+        ]
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "ability": 0.3169,
+            "technical skills": 0.3998,
+            "hard work": 0.472,
+            "creativity": 0.4756,
+            "Diploma in Mechanical": 0.3791,
+            "Engineering2018": 0.2665,
+            "Science ( Non - Medical": 0.3153,
+            "Management": 0.2074,
+            "Skills": 0.2152,
+            "Communication skills": 0.4969,
+            "Ability to learn": 0.6525,
+            "Time management": 0.5093,
+            "Attention to details": 0.6856,
+            "Strengths": 0.4012,
+            "Hard working": 0.504,
+            "result oriented": 0.3926,
+            "Leadership": 0.5011,
+            "Quick learner": 0.4459,
+            "Hobbies": 0.5609,
+            "Learning in Mechanical": 0.2396,
+            "Male": 0.2601,
+            "Single": 0.2272,
+            "English": 0.6126,
+            "Urdu": 0.6987,
+            "Hindi": 0.798
+        },
+        "filename": "cv (1837)_annotated.json"
+    }
+}

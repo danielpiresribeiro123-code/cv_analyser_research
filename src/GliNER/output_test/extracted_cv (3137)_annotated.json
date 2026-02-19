@@ -1,0 +1,95 @@
+{
+    "skills": [
+        "Sales",
+        "Business Development",
+        "Strategic Planning",
+        "Channel Management",
+        "Key Account Management",
+        "Marketing",
+        "Channel",
+        "Key  Account  Management",
+        "Team  Management",
+        "Sales & Marketing",
+        "proactive  planner",
+        "abilities",
+        "devising  effective  strategies",
+        "business excellence",
+        "Demonstrated excellence",
+        "excellent track record",
+        "strong analytical",
+        "problem solving",
+        "organisational abilities",
+        "strong  commercial  acumen",
+        "sound  knowledge",
+        "practical  experience",
+        "Strategic Planning",
+        "product lines",
+        "corporate image",
+        "Strategic Planning",
+        "Managing frontline sales team",
+        "competitor analysis",
+        "Analysing business potential"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHAH FAISAL",
+            "Personnel"
+        ],
+        "job title": [
+            "Manager",
+            "Proven performer",
+            "enterprising leader"
+        ],
+        "company": [
+            "Earthempire Realcon Pvt. Ltd ."
+        ],
+        "university": [],
+        "degree": [
+            "MBA  (Marketing)"
+        ],
+        "years of experience": [
+            "5  years of experience"
+        ],
+        "address": [],
+        "email": [
+            "E-Mail"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-7503562451"
+        ]
+    },
+    "metadata": {
+        "total_skills": 29,
+        "confidence_scores": {
+            "Sales": 0.3634,
+            "Business Development": 0.7822,
+            "Strategic Planning": 0.2977,
+            "Channel Management": 0.5194,
+            "Key Account Management": 0.4212,
+            "Marketing": 0.6929,
+            "Channel": 0.2432,
+            "Key  Account  Management": 0.4344,
+            "Team  Management": 0.3677,
+            "Sales & Marketing": 0.678,
+            "proactive  planner": 0.4211,
+            "abilities": 0.1913,
+            "devising  effective  strategies": 0.1564,
+            "business excellence": 0.1693,
+            "Demonstrated excellence": 0.3005,
+            "excellent track record": 0.2191,
+            "strong analytical": 0.1566,
+            "problem solving": 0.3346,
+            "organisational abilities": 0.2815,
+            "strong  commercial  acumen": 0.3689,
+            "sound  knowledge": 0.3911,
+            "practical  experience": 0.22,
+            "product lines": 0.1502,
+            "corporate image": 0.3405,
+            "Managing frontline sales team": 0.1872,
+            "competitor analysis": 0.1881,
+            "Analysing business potential": 0.2231
+        },
+        "filename": "cv (3137)_annotated.json"
+    }
+}

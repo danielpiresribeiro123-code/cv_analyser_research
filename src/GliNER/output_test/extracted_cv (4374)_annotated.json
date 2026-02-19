@@ -1,0 +1,45 @@
+{
+    "skills": [
+        "The Marshall Award",
+        "The Barbara Hume Memorial Award",
+        "YouTube"
+    ],
+    "professional_info": {
+        "person name": [
+            "ASSOCIATE TEACHER",
+            "Hunter Forward",
+            "Kristen Markoe"
+        ],
+        "job title": [
+            "Coach",
+            "Coached",
+            "Head Coach",
+            "coaches",
+            "athletic liaison"
+        ],
+        "company": [
+            "CUNYAC",
+            "Company Name"
+        ],
+        "university": [
+            "Holderness School",
+            "Facebook"
+        ],
+        "degree": [
+            "Bachelor of Science in Management and Business"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "The Marshall Award": 0.2575,
+            "The Barbara Hume Memorial Award": 0.2375,
+            "YouTube": 0.1764
+        },
+        "filename": "cv (4374)_annotated.json"
+    }
+}

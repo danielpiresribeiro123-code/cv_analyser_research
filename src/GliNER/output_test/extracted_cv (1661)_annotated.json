@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "ELECTRONICS FIELD",
+        "technical skill",
+        "effective communicator",
+        "excellent relationship building",
+        "interpersonal skills",
+        "Strong",
+        "analytical",
+        "problem solving",
+        "organizational abilities",
+        "flexible",
+        "detail oriented",
+        "FIRE ALARM SYSTEM",
+        "Window – 2003",
+        "XP",
+        "7, 8.1",
+        "MS- Office",
+        "MS-Excel",
+        "MS-Word"
+    ],
+    "professional_info": {
+        "person name": [
+            "MD   RAJU"
+        ],
+        "job title": [
+            "SERVICE ENGINEER",
+            "Junior Engineer",
+            "field Supervisor"
+        ],
+        "company": [
+            "VIDEOCON COMPANY",
+            "OLD AND PRESTIGIOUS AND VERY, REPUTED COMPANY",
+            "OKHLA",
+            "HAIER APPLIANCES INDIA PVT LTD"
+        ],
+        "university": [],
+        "degree": [
+            "Diploma in Electronics Engineering"
+        ],
+        "years of experience": [
+            "10 YEARS EXPERIENCE"
+        ],
+        "address": [],
+        "email": [
+            "E-MAIL",
+            "gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "ELECTRONICS FIELD": 0.318,
+            "technical skill": 0.2887,
+            "effective communicator": 0.6301,
+            "excellent relationship building": 0.373,
+            "interpersonal skills": 0.2727,
+            "Strong": 0.2583,
+            "analytical": 0.5341,
+            "problem solving": 0.4238,
+            "organizational abilities": 0.1679,
+            "flexible": 0.1613,
+            "detail oriented": 0.264,
+            "FIRE ALARM SYSTEM": 0.1621,
+            "Window – 2003": 0.9256,
+            "XP": 0.8184,
+            "7, 8.1": 0.2478,
+            "MS- Office": 0.8285,
+            "MS-Excel": 0.6704,
+            "MS-Word": 0.6553
+        },
+        "filename": "cv (1661)_annotated.json"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "team leading professional",
+        "Electrical",
+        "Design Engineering",
+        "Design engineering",
+        "Projects"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUMAN CHATTERJEE"
+        ],
+        "job title": [
+            "Projects Engineer",
+            "Assistant Manager - Electrical",
+            "Senior Engineer – Electrical",
+            "Electrical Engineer"
+        ],
+        "company": [
+            "Tareg Al-Jaafari Contracting Establishment",
+            "Saudi Electricity Company",
+            "National Grid Saudi Arabia",
+            "Alfa Infraprop Pvt Ltd",
+            "Sun Pharma Group",
+            "Gillanders Arbuthnot & Co Ltd",
+            "MICCO Div",
+            "Bengal Energy Limited",
+            "Power Plant Div"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "180/2 Goswami Para Road Bally"
+        ],
+        "email": [
+            "Email",
+            "sumanchatterjee07111985@live.com",
+            "CREDO"
+        ],
+        "phone": [
+            "Phone No.",
+            "+91-8420369822"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "team leading professional": 0.2284,
+            "Electrical": 0.3417,
+            "Design Engineering": 0.3252,
+            "Design engineering": 0.2393,
+            "Projects": 0.1923
+        },
+        "filename": "cv (1677)_annotated.json"
+    }
+}

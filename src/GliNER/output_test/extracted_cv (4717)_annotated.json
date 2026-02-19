@@ -1,0 +1,46 @@
+{
+    "skills": [
+        "hospitality",
+        "family",
+        "biotech"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Proven marketing and public relations executive",
+            "Owner/Consultant",
+            "Associate Executive Director"
+        ],
+        "company": [
+            "Company Name",
+            "Spinal Elements",
+            "American Express",
+            "Ogilvy Public Relations (NY)",
+            "Walt Disney Records",
+            "The Los Angeles College of Music",
+            "Keep California Beautiful",
+            "The Associated Press",
+            "Fast Company",
+            "USA Today",
+            "The New York Daily News",
+            "The Los Angeles Times",
+            "AMC",
+            "NAMM Foundation"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "hospitality": 0.1781,
+            "family": 0.1583,
+            "biotech": 0.1676
+        },
+        "filename": "cv (4717)_annotated.json"
+    }
+}

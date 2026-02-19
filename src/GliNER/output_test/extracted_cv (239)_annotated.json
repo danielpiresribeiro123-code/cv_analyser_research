@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "Male",
+        "Single",
+        "English",
+        "Hindi",
+        "E-C.T.C",
+        "valuable asset",
+        "Highly motivated to work as a team",
+        "Adjustable to any environment",
+        "Effective Communication skill and leadership",
+        "Qualities",
+        "ISO-9001-2000"
+    ],
+    "professional_info": {
+        "person name": [
+            "neeraj.patel077",
+            "Mr.Hari",
+            "kishan Patel",
+            "Indian"
+        ],
+        "job title": [
+            "NEERAJPATEL",
+            "Designation",
+            "Asst. Manager"
+        ],
+        "company": [
+            "Electrical & Electronics  Egg",
+            "Shreem Electric Ltd.",
+            "Shreem Electric Ltd  Jaysingpur",
+            "Electrical Project Egg",
+            "MADHYA PRADESH, POWER, TRANSMISSION   COMPANY   LTD ."
+        ],
+        "university": [
+            "Lakshmi Narain College of Technology",
+            "RAJIV GANDHI TECHNICAL UNIVERSITY"
+        ],
+        "degree": [
+            "B.E"
+        ],
+        "years of experience": [
+            "Professional  Work Experience",
+            "Total 4.3 Years"
+        ],
+        "address": [
+            "Permanent Address",
+            "Khamtra"
+        ],
+        "email": [
+            "Email",
+            "gmail.com"
+        ],
+        "phone": [
+            "Mobile No-7089283107"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Male": 0.1948,
+            "Single": 0.3215,
+            "English": 0.8429,
+            "Hindi": 0.8498,
+            "E-C.T.C": 0.1865,
+            "valuable asset": 0.1907,
+            "Highly motivated to work as a team": 0.2893,
+            "Adjustable to any environment": 0.2816,
+            "Effective Communication skill and leadership": 0.4643,
+            "Qualities": 0.4123,
+            "ISO-9001-2000": 0.5389
+        },
+        "filename": "cv (239)_annotated.json"
+    }
+}

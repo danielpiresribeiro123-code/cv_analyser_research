@@ -1,0 +1,48 @@
+{
+    "skills": [
+        "positive",
+        "attitude",
+        "Personal Attributes",
+        "Professional Skills",
+        "Smart worker",
+        "Quick study",
+        "YearDegree / Certificate",
+        "2015B-Tech (Mechanical, engineering)",
+        "Co-curricular Activities"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [],
+        "company": [
+            "govt. sugar mills puranpur pilibhit",
+            "CAS Inter college Faridpur",
+            "SDMHSS Bhuta"
+        ],
+        "university": [
+            "CGPAInstitute (University)",
+            "Invertis University"
+        ],
+        "degree": [],
+        "years of experience": [
+            "61%"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "positive": 0.2489,
+            "attitude": 0.4234,
+            "Personal Attributes": 0.4348,
+            "Professional Skills": 0.3255,
+            "Smart worker": 0.4333,
+            "Quick study": 0.1599,
+            "YearDegree / Certificate": 0.2971,
+            "2015B-Tech (Mechanical, engineering)": 0.4671,
+            "Co-curricular Activities": 0.1512
+        },
+        "filename": "cv (503)_annotated.json"
+    }
+}

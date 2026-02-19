@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "FRESHER",
+        "SKILLS",
+        "C",
+        "Python",
+        "Prediction Modelling",
+        "Machine",
+        "Machine Learning",
+        "data processing",
+        "prediction model"
+    ],
+    "professional_info": {
+        "person name": [
+            "ETHAN GARCIA"
+        ],
+        "job title": [
+            "DEVELOPER ENGINEER",
+            "Software Developer",
+            "Fresher"
+        ],
+        "company": [],
+        "university": [
+            "National Institute of Technology",
+            "NIT",
+            "SRD Insitute"
+        ],
+        "degree": [
+            "B.Tech (Computers)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "FRESHER": 0.2521,
+            "SKILLS": 0.1514,
+            "C": 0.9139,
+            "Python": 0.9844,
+            "Prediction Modelling": 0.8216,
+            "Machine": 0.2246,
+            "Machine Learning": 0.6383,
+            "data processing": 0.1766,
+            "prediction model": 0.4588
+        },
+        "filename": "cv (4939)_annotated.json"
+    }
+}

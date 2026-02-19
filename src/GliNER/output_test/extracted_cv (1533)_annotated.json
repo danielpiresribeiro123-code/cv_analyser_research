@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "cricket",
+        "book reading"
+    ],
+    "professional_info": {
+        "person name": [
+            "MANIMEGALAI.G",
+            "Govindaraj.T",
+            "Indian"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "B.B.A  bharathiar university",
+            "SSLC  govt.higher sec.school"
+        ],
+        "degree": [
+            "Covai                    2011-14"
+        ],
+        "years of experience": [],
+        "address": [
+            "2/190 k.k street",
+            "veeramangudi",
+            "613204",
+            "Papanasam (T.k)  thanjavur(D.T)",
+            "veeramangudi    2009-11",
+            "Veeramangudi    2008-09",
+            "English",
+            "tamil",
+            "Papanasam(T.k)",
+            "Thanjavur(D.T)",
+            "K.Rajivgandhi",
+            "2-A",
+            "1st street",
+            "Burma tamilar colony",
+            "Nanganallur",
+            "Chennai-114",
+            "2"
+        ],
+        "email": [
+            "Email",
+            "Www.manimegalai2404@gmail.com"
+        ],
+        "phone": [
+            "8526809575",
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "cricket": 0.1618,
+            "book reading": 0.1635
+        },
+        "filename": "cv (1533)_annotated.json"
+    }
+}

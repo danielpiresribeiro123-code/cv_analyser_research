@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "Technical Skills",
+        "Basic Knowledge Of Computer",
+        "Auto CAD",
+        "Staad  Pro.",
+        "MS EXCEL",
+        "Reading Architecture Drawing",
+        "Reinforcement details",
+        "Shuttring work",
+        "Layout",
+        "Brick work",
+        "CURRICULUM  VITAEArea Of Interest",
+        "Strength",
+        "Good Team Worker"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMAD.ADIL",
+            "Radha Govind",
+            "Ali Ganj"
+        ],
+        "job title": [
+            "maths teacher",
+            "site engineer",
+            "site, Engineer"
+        ],
+        "company": [
+            "Engineering College",
+            "Faiz-e-am inter",
+            "Inter College",
+            "Harshita buildcon",
+            "government contractor",
+            "Super Tech Pvt Ltd",
+            "Solution Pvt Ltd."
+        ],
+        "university": [
+            "CourseUniversity/",
+            "BoardInstitute",
+            "EngineeringDr. AKTU",
+            "12thUP Board",
+            "10thUP Board",
+            "CPWD"
+        ],
+        "degree": [
+            "B.Tech- civil"
+        ],
+        "years of experience": [
+            "One year experience",
+            "One year  experience",
+            "Punctuality"
+        ],
+        "address": [
+            "no-654/3 jaitpur ext part 2",
+            "Badarpur",
+            "Pincode- 110044",
+            "Meerut201768",
+            "Meerut201160"
+        ],
+        "email": [
+            "Email",
+            "adilraajpoot@gmail.com"
+        ],
+        "phone": [
+            "Contact No",
+            "+918532035199",
+            "Leadership Quality"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Technical Skills": 0.3311,
+            "Basic Knowledge Of Computer": 0.3807,
+            "Auto CAD": 0.6362,
+            "Staad  Pro.": 0.4975,
+            "MS EXCEL": 0.6616,
+            "Reading Architecture Drawing": 0.2054,
+            "Reinforcement details": 0.2604,
+            "Shuttring work": 0.1647,
+            "Layout": 0.1774,
+            "Brick work": 0.2974,
+            "CURRICULUM  VITAEArea Of Interest": 0.1971,
+            "Strength": 0.2056,
+            "Good Team Worker": 0.331
+        },
+        "filename": "cv (2222)_annotated.json"
+    }
+}

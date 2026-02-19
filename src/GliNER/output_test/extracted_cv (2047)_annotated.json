@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "CIVIL  ENGINEERING",
+        "C",
+        "C++",
+        "DATABASE MANAGEMENT",
+        "Awarde",
+        "Computer Skills",
+        "DBMS",
+        "Windows 7",
+        "Windows 8",
+        "MS Office",
+        "STAAD Pro",
+        "Key skills",
+        "Good Communication skills",
+        "Self motivator",
+        "Single",
+        "English",
+        "Assamese",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "NEERAJ PRATIM HAZARIKA",
+            "Mr. Dhaneswar Hazarika",
+            "Indian"
+        ],
+        "job title": [
+            "challenging position"
+        ],
+        "company": [
+            "ULTRATECH CEMENT",
+            "ULTRATECH CEMENTProject",
+            "Akash Hyundai"
+        ],
+        "university": [
+            "Institute of  Advanced",
+            "Computer & Research",
+            "Biju Patnaik University of",
+            "ODISHA",
+            "BPUTInstitute Of Advanced",
+            "AHSEC Ramanujan Junior"
+        ],
+        "degree": [
+            "B.TECH",
+            "PassingDegree",
+            "2015B.TECH"
+        ],
+        "years of experience": [],
+        "address": [
+            "Pub Senchowa, A.T Road",
+            "P .O-Senchowa"
+        ],
+        "email": [
+            "hazarika_neeraj@yahoo.com"
+        ],
+        "phone": [
+            "Mobile no",
+            "+91-8399934008"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "CIVIL  ENGINEERING": 0.1884,
+            "C": 0.9832,
+            "C++": 0.9399,
+            "DATABASE MANAGEMENT": 0.73,
+            "Awarde": 0.2691,
+            "Computer Skills": 0.3912,
+            "DBMS": 0.5974,
+            "Windows 7": 0.9777,
+            "Windows 8": 0.971,
+            "MS Office": 0.8566,
+            "STAAD Pro": 0.6079,
+            "Key skills": 0.5065,
+            "Good Communication skills": 0.1643,
+            "Self motivator": 0.4431,
+            "Single": 0.3559,
+            "English": 0.2411,
+            "Assamese": 0.213,
+            "Hindi": 0.2371
+        },
+        "filename": "cv (2047)_annotated.json"
+    }
+}

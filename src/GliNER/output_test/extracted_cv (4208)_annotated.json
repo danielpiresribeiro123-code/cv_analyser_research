@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "Electrical",
+        "Engineering",
+        "zeal to learn",
+        "new concepts",
+        "Self-motivated",
+        "passion  to  succeed",
+        "Educational Qualification",
+        "Electrical Engineering",
+        "Electrical Transmission Line of HT and LT",
+        "Role and Responsibility",
+        "Manpower management and shift management",
+        "Earth testing",
+        "Computer Proficiency",
+        "M.S. Word",
+        "M.S. Excel",
+        "M.S. PowerPoint",
+        "Proficient"
+    ],
+    "professional_info": {
+        "person name": [
+            "MR. ATUL MADHUKAR  RANE"
+        ],
+        "job title": [
+            "B.E. ELECTRICAL ENGG",
+            "Budding  Electrical  Engineer",
+            "O&M  Engineer",
+            "Operation And Maintenance Engineer"
+        ],
+        "company": [
+            "A.V.Electricals",
+            "Tata Communication Ltd. Pune",
+            "H.S.CNasik Board",
+            "S.S.CNasik Board",
+            "A.V. Electricals",
+            "Tata Communication Ltd Pune"
+        ],
+        "university": [
+            "Pune University"
+        ],
+        "degree": [
+            "graduate  degree",
+            "B.E (Electrical)"
+        ],
+        "years of experience": [
+            "201664.6%",
+            "Total Experience",
+            "1years"
+        ],
+        "address": [],
+        "email": [
+            "E-mail",
+            "atul.rane5@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Electrical": 0.255,
+            "Engineering": 0.1684,
+            "zeal to learn": 0.3484,
+            "new concepts": 0.1812,
+            "Self-motivated": 0.5323,
+            "passion  to  succeed": 0.2341,
+            "Educational Qualification": 0.1955,
+            "Electrical Engineering": 0.593,
+            "Electrical Transmission Line of HT and LT": 0.151,
+            "Role and Responsibility": 0.1514,
+            "Manpower management and shift management": 0.2917,
+            "Earth testing": 0.2045,
+            "Computer Proficiency": 0.2632,
+            "M.S. Word": 0.5786,
+            "M.S. Excel": 0.5214,
+            "M.S. PowerPoint": 0.5775,
+            "Proficient": 0.3286
+        },
+        "filename": "cv (4208)_annotated.json"
+    }
+}

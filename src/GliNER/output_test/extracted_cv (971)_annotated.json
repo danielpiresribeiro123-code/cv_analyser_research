@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "MALE",
+        "SINGLE",
+        "ENGLISH",
+        "SWAHILI",
+        "LUHYA",
+        "PERSONAL OBJECTIVE",
+        "self-motivated",
+        "hardworking",
+        "reliable",
+        "responsible",
+        "KEY STRENGTH/ATTRIBUTES",
+        "Focused",
+        "Team player",
+        "Integrity",
+        "Bachelor in Business management",
+        "supply and procurement",
+        "Diploma in business management",
+        "Computer Training Course",
+        "Kenya certificate of secondary education",
+        "Kenya Certificate of Primary Education",
+        "Drama /choir",
+        "Helping the needy"
+    ],
+    "professional_info": {
+        "person name": [
+            "CHEBUSIRI WEKESA CONTRINE",
+            "Dr Alexis",
+            "David Mabonga"
+        ],
+        "job title": [
+            "Working As a Businessman",
+            "Entrepreneur",
+            "Dean of School of Business and Economics",
+            "Sir Job Rescue Steps",
+            "Principal"
+        ],
+        "company": [
+            "future  oriented  organization  or  company",
+            "Kamusinga Primary School",
+            "NHIF",
+            "Computer Training Center"
+        ],
+        "university": [
+            "Mount Kenya University",
+            "St Peters Boys High School"
+        ],
+        "degree": [],
+        "years of experience": [
+            "WORKING EXPERIENCE"
+        ],
+        "address": [
+            "P.O BOX 141"
+        ],
+        "email": [],
+        "phone": [
+            "MOBILE NO   : 0718334024",
+            "Cell Phone",
+            "0721654622",
+            "0726576411c",
+            "0706682407"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "MALE": 0.2785,
+            "SINGLE": 0.3243,
+            "ENGLISH": 0.5408,
+            "SWAHILI": 0.3342,
+            "LUHYA": 0.2479,
+            "PERSONAL OBJECTIVE": 0.303,
+            "self-motivated": 0.6732,
+            "hardworking": 0.6161,
+            "reliable": 0.4801,
+            "responsible": 0.2221,
+            "KEY STRENGTH/ATTRIBUTES": 0.2482,
+            "Focused": 0.6088,
+            "Team player": 0.6273,
+            "Integrity": 0.5391,
+            "Bachelor in Business management": 0.748,
+            "supply and procurement": 0.2694,
+            "Diploma in business management": 0.7173,
+            "Computer Training Course": 0.3091,
+            "Kenya certificate of secondary education": 0.6023,
+            "Kenya Certificate of Primary Education": 0.6843,
+            "Drama /choir": 0.2096,
+            "Helping the needy": 0.2774
+        },
+        "filename": "cv (971)_annotated.json"
+    }
+}

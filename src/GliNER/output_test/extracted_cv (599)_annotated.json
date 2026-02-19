@@ -1,0 +1,49 @@
+{
+    "skills": [
+        "Man-power management",
+        "Pump"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Station Manager",
+            "Sr. Engineer",
+            "HVAC Engineer",
+            "Engineer"
+        ],
+        "company": [
+            "Isolux Corsan Ingenieria.S.A.",
+            "DMRC",
+            "Moserbaer Engineering & Construction Ltd .",
+            "APC Air Systems Pvt. Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "5+ Years of Experience"
+        ],
+        "address": [
+            "ASIF AHMAD                                          E-10",
+            "Abul Fazal Enclave Part 2",
+            "Shaheen Bagh",
+            "Okhla New Delhi-25",
+            "Dashrathpuri CE10 & 11 Lot-4"
+        ],
+        "email": [
+            "E Mail",
+            "asif_ahmad34@yahoo. com"
+        ],
+        "phone": [
+            "+91-9971456738",
+            "+91-9015164303"
+        ]
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "Man-power management": 0.1506,
+            "Pump": 0.178
+        },
+        "filename": "cv (599)_annotated.json"
+    }
+}

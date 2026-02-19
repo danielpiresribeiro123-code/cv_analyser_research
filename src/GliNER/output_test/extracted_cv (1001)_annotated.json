@@ -1,0 +1,133 @@
+{
+    "skills": [
+        "excellent professional",
+        "Software Testing",
+        "Technical Proficiency",
+        "C",
+        "C++",
+        "JAVA",
+        "ASP.NET",
+        "PHP",
+        "Manual TestingProficiency",
+        "SDLC",
+        "STLC",
+        "Defect Life Cycle",
+        "Knowledge",
+        "Test Plan",
+        "Tracebility Matrix",
+        "Functional",
+        "Integration",
+        "System Testing",
+        "Smoke",
+        "Regression",
+        "Compatibility",
+        "AutomationTestingProficiency",
+        "Tools",
+        "QTP",
+        "Selenium",
+        "Load Runner",
+        "Programming",
+        "Project",
+        "MYSQL",
+        "back-end",
+        "Executable UML",
+        "Strengths",
+        "Active learning and critical thinking",
+        "System and Operational Analysis",
+        "Flexibility and Adaptability",
+        "Sex",
+        "Female",
+        "12-OCT-1990",
+        "Reading",
+        "Marital Status",
+        "Single",
+        "English",
+        "Tamil",
+        "Declaration"
+    ],
+    "professional_info": {
+        "person name": [
+            "ATHULIA GOPI",
+            "KottalilThoppil",
+            "Chumathra P",
+            "Gopi P"
+        ],
+        "job title": [],
+        "company": [
+            "Spyrosys Software  Testing, Solutions"
+        ],
+        "university": [
+            "School of Technology And Applied Sciences",
+            "MG University2012-2015",
+            "College of Technology And Applied, Sciences",
+            "Mallappally",
+            "MG University2009-2012"
+        ],
+        "degree": [
+            "MCA",
+            "Bsc.Computer Science"
+        ],
+        "years of experience": [],
+        "address": [
+            "Thiruvalla"
+        ],
+        "email": [
+            "gmail.com",
+            "Ph No"
+        ],
+        "phone": [
+            "+91 9539198718",
+            "Pin-689103"
+        ]
+    },
+    "metadata": {
+        "total_skills": 44,
+        "confidence_scores": {
+            "excellent professional": 0.2161,
+            "Software Testing": 0.4117,
+            "Technical Proficiency": 0.5515,
+            "C": 0.9416,
+            "C++": 0.9428,
+            "JAVA": 0.9808,
+            "ASP.NET": 0.7665,
+            "PHP": 0.9889,
+            "Manual TestingProficiency": 0.5463,
+            "SDLC": 0.3706,
+            "STLC": 0.3694,
+            "Defect Life Cycle": 0.499,
+            "Knowledge": 0.2358,
+            "Test Plan": 0.3089,
+            "Tracebility Matrix": 0.4034,
+            "Functional": 0.1616,
+            "Integration": 0.3252,
+            "System Testing": 0.3567,
+            "Smoke": 0.2087,
+            "Regression": 0.2922,
+            "Compatibility": 0.2001,
+            "AutomationTestingProficiency": 0.3789,
+            "Tools": 0.3437,
+            "QTP": 0.5212,
+            "Selenium": 0.3774,
+            "Load Runner": 0.4372,
+            "Programming": 0.1942,
+            "Project": 0.1591,
+            "MYSQL": 0.7141,
+            "back-end": 0.1949,
+            "Executable UML": 0.1547,
+            "Strengths": 0.1729,
+            "Active learning and critical thinking": 0.1995,
+            "System and Operational Analysis": 0.4694,
+            "Flexibility and Adaptability": 0.3084,
+            "Sex": 0.3008,
+            "Female": 0.4388,
+            "12-OCT-1990": 0.1783,
+            "Reading": 0.1773,
+            "Marital Status": 0.2272,
+            "Single": 0.4656,
+            "English": 0.2569,
+            "Tamil": 0.3977,
+            "Declaration": 0.2547
+        },
+        "filename": "cv (1001)_annotated.json"
+    }
+}

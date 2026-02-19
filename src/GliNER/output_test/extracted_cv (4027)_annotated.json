@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "Basic knowlege",
+        "Ms office",
+        "Ms",
+        "word",
+        "Ms excel",
+        "Ms powerpoint",
+        "mechanical department",
+        "TECHNICAL SKILLS",
+        "MECHNICAL SKILLS"
+    ],
+    "professional_info": {
+        "person name": [
+            "JITENDRA SINGH",
+            "Jitu",
+            "jitu143986",
+            "Devi"
+        ],
+        "job title": [
+            "High school",
+            "instructor",
+            "Faculty",
+            "Temporary Operator",
+            "Service Supervisor"
+        ],
+        "company": [
+            "CURICULUM VITAE",
+            "ALPINE COLLEGE OF, MANAGEMENT & TECHOLOGY",
+            "NANDA KI CHOWKI",
+            "I.T.I.",
+            "govt. I.T.I. Majra",
+            "U.A. Board",
+            "Bhoomi Groups of Institution",
+            "DEAL DRDO",
+            "Tata Motors Ltd",
+            "M.B.ll",
+            "BM TVS"
+        ],
+        "university": [
+            "U.P. Board"
+        ],
+        "degree": [
+            "Diploma",
+            "Intermediate"
+        ],
+        "years of experience": [
+            "Four month work experience",
+            "Six month work experience"
+        ],
+        "address": [
+            "H.NO.199",
+            "NEAR POST OFFICE",
+            "VPO-MOTHROWALA",
+            "PREM",
+            "NAGAR",
+            "Niranjanpur",
+            "Raipur road",
+            "Pant Nagar",
+            "Dharashu (Bharethi)"
+        ],
+        "email": [
+            "Email ID",
+            "Gmail.Com"
+        ],
+        "phone": [
+            "+917409270631",
+            "+919927270407"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Basic knowlege": 0.2433,
+            "Ms office": 0.4846,
+            "Ms": 0.2909,
+            "word": 0.4481,
+            "Ms excel": 0.6268,
+            "Ms powerpoint": 0.6517,
+            "mechanical department": 0.1637,
+            "TECHNICAL SKILLS": 0.3422,
+            "MECHNICAL SKILLS": 0.3147
+        },
+        "filename": "cv (4027)_annotated.json"
+    }
+}

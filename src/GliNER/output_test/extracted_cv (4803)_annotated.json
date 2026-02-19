@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "Talented",
+        "experience",
+        "calm",
+        "Open-minded",
+        "traditional and progressive techniques",
+        "Creative",
+        "child psychology and development",
+        "CPR First Aid Certificate",
+        "Problem Solver",
+        "Time Management",
+        "Creative thinking",
+        "Team player",
+        "Certified in Early Childhood Education",
+        "Conflict resolution techniques",
+        "Training in food handling preparation",
+        "Calm and patient",
+        "positive reinforcement method",
+        "speech"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "TEACHER",
+            "early education professional",
+            "Job Title",
+            "Early Childhood Teacher",
+            "teachers",
+            "directors",
+            "therapists"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Talented": 0.1958,
+            "experience": 0.2083,
+            "calm": 0.3395,
+            "Open-minded": 0.3883,
+            "traditional and progressive techniques": 0.32,
+            "Creative": 0.1762,
+            "child psychology and development": 0.5249,
+            "CPR First Aid Certificate": 0.9009,
+            "Problem Solver": 0.256,
+            "Time Management": 0.3584,
+            "Creative thinking": 0.4249,
+            "Team player": 0.5556,
+            "Certified in Early Childhood Education": 0.7807,
+            "Conflict resolution techniques": 0.6319,
+            "Training in food handling preparation": 0.3387,
+            "Calm and patient": 0.6969,
+            "positive reinforcement method": 0.6831,
+            "speech": 0.474
+        },
+        "filename": "cv (4803)_annotated.json"
+    }
+}

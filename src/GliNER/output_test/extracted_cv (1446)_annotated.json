@@ -1,0 +1,107 @@
+{
+    "skills": [
+        "Ability to elicit confidence",
+        "build rapport",
+        "problem solving",
+        "organized",
+        "detail-oriented",
+        "conscientious",
+        "self-starter",
+        "able to strategize and prioritize",
+        "effectively to accomplish multiple tasks",
+        "Bsc-meteorology  Predicti",
+        "Certificate  Computationa",
+        "l analysis",
+        "2014 Pass",
+        "Data capture",
+        "Data entry",
+        "Data cleaning",
+        "Data analysis",
+        "ACHIEVEMENTS",
+        "Top student",
+        "AREA OF INTEREST",
+        "Research",
+        "Data computation and analysis",
+        "environmental services",
+        "COMPUTER SOFT SKILLS",
+        "Office",
+        "SPREADSHEETS",
+        "WORD PROCESSORS",
+        "POWERPOINT",
+        "PUBLISHER",
+        "DATABASE",
+        "NETWORKING"
+    ],
+    "professional_info": {
+        "person name": [
+            "ANDREW KAMWENDAIT C."
+        ],
+        "job title": [
+            "Enumerator",
+            "Intern",
+            "Clerk",
+            "Presiding Officer",
+            "Volunteer Mentorship Teacher"
+        ],
+        "company": [
+            "Pan African Insurance Company",
+            "RAO Computer Centre Busia"
+        ],
+        "university": [
+            "University Of Nairobi",
+            "KCSE"
+        ],
+        "degree": [
+            "Degree Name of School/College",
+            "Toroso High School 2005 B+",
+            "KCPE Primary education St Ann Chesikaki 2001 331/500"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "Kamwendait@gmail.com"
+        ],
+        "phone": [
+            "Phone Number",
+            "0728503678"
+        ]
+    },
+    "metadata": {
+        "total_skills": 31,
+        "confidence_scores": {
+            "Ability to elicit confidence": 0.3019,
+            "build rapport": 0.3668,
+            "problem solving": 0.256,
+            "organized": 0.458,
+            "detail-oriented": 0.3637,
+            "conscientious": 0.2513,
+            "self-starter": 0.3289,
+            "able to strategize and prioritize": 0.2806,
+            "effectively to accomplish multiple tasks": 0.1914,
+            "Bsc-meteorology  Predicti": 0.3299,
+            "Certificate  Computationa": 0.7741,
+            "l analysis": 0.3258,
+            "2014 Pass": 0.1914,
+            "Data capture": 0.274,
+            "Data entry": 0.3592,
+            "Data cleaning": 0.2491,
+            "Data analysis": 0.3039,
+            "ACHIEVEMENTS": 0.2256,
+            "Top student": 0.1943,
+            "AREA OF INTEREST": 0.2979,
+            "Research": 0.3531,
+            "Data computation and analysis": 0.3684,
+            "environmental services": 0.2172,
+            "COMPUTER SOFT SKILLS": 0.1613,
+            "Office": 0.1556,
+            "SPREADSHEETS": 0.452,
+            "WORD PROCESSORS": 0.4489,
+            "POWERPOINT": 0.3473,
+            "PUBLISHER": 0.3232,
+            "DATABASE": 0.4232,
+            "NETWORKING": 0.376
+        },
+        "filename": "cv (1446)_annotated.json"
+    }
+}

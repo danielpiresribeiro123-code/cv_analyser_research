@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "versatile",
+        "productive worker",
+        "solid work ethic",
+        "dynamic",
+        "results-oriented skill",
+        "A way with numbers",
+        "I like working with facts and figures",
+        "A passion for detail",
+        "I am naturally precise",
+        "A love of solitude",
+        "accounting sector",
+        "bookkeeping",
+        "accounting",
+        "audit",
+        "SAP process mapping & alignment",
+        "natural ability",
+        "technical expertise",
+        "Financial Accounting",
+        "Analysis and Reporting",
+        "Project Management",
+        "Creative Team LeadershipSAP Process Mapping & Alignment Organizational Skills",
+        "Time Management",
+        "Adaptability",
+        "Communication",
+        "Openness",
+        "MS Office",
+        "Access"
+    ],
+    "professional_info": {
+        "person name": [
+            "Jomar B. HerreraJomar B. Herrera",
+            "jomar.herrera"
+        ],
+        "job title": [
+            "Accounting Professional",
+            "Business Process Expert"
+        ],
+        "company": [
+            "Accenture (Philippines)",
+            "Maersk Group",
+            "Maersk Filipinas",
+            "Maersk GSC"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "10 years of experience"
+        ],
+        "address": [
+            "Dubai"
+        ],
+        "email": [],
+        "phone": [
+            "Phone",
+            "056 344 0350"
+        ]
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "versatile": 0.4489,
+            "productive worker": 0.2926,
+            "solid work ethic": 0.335,
+            "dynamic": 0.2666,
+            "results-oriented skill": 0.306,
+            "A way with numbers": 0.3098,
+            "I like working with facts and figures": 0.1657,
+            "A passion for detail": 0.2877,
+            "I am naturally precise": 0.2366,
+            "A love of solitude": 0.1826,
+            "accounting sector": 0.1831,
+            "bookkeeping": 0.2171,
+            "accounting": 0.251,
+            "audit": 0.2029,
+            "SAP process mapping & alignment": 0.2909,
+            "natural ability": 0.2464,
+            "technical expertise": 0.382,
+            "Financial Accounting": 0.2746,
+            "Analysis and Reporting": 0.2237,
+            "Project Management": 0.1871,
+            "Creative Team LeadershipSAP Process Mapping & Alignment Organizational Skills": 0.3622,
+            "Time Management": 0.2186,
+            "Adaptability": 0.4647,
+            "Communication": 0.4093,
+            "Openness": 0.287,
+            "MS Office": 0.4624,
+            "Access": 0.305
+        },
+        "filename": "cv (2256)_annotated.json"
+    }
+}

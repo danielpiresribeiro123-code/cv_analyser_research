@@ -1,0 +1,47 @@
+{
+    "skills": [
+        "Skills",
+        "Technical Skills",
+        "SPSS",
+        "Oracle Payroll Tools",
+        "Scout works",
+        "Payroll Department"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohammed Shoiab Gulam Moinuddin Khan",
+            "Employees"
+        ],
+        "job title": [
+            "Analyst",
+            "Officer - People and  Payroll Services",
+            "Compliance Manager",
+            "Wages Clerk"
+        ],
+        "company": [
+            "EY",
+            "Ernst & Young",
+            "State Government"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Ahiri Pukur 1st Lane"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Skills": 0.1617,
+            "Technical Skills": 0.2614,
+            "SPSS": 0.2893,
+            "Oracle Payroll Tools": 0.4404,
+            "Scout works": 0.1683,
+            "Payroll Department": 0.2259
+        },
+        "filename": "cv (220)_annotated.json"
+    }
+}

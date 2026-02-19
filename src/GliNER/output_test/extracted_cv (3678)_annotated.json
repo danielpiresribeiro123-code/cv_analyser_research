@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "Electrical and HSE engineering",
+        "analytical abilities",
+        "new thoughts",
+        "Technical knowledge",
+        "Safety toolbox talk",
+        "permit system",
+        "Method statement",
+        "third party certificates",
+        "Monorail",
+        "Hoist motor",
+        "Chain block",
+        "Web sling",
+        "Mast climb",
+        "Toolbox talk"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohamed Azarudeen Nebosh"
+        ],
+        "job title": [
+            "Designation",
+            "Safety Engineer",
+            "Accountability",
+            "Safety officer"
+        ],
+        "company": [
+            "Aluminum and light industries-ALICO",
+            "Client",
+            "EMAAR",
+            "main contractor"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "The Address BLVD-Dubai",
+            "The Address residence-Fountain View-Dubai"
+        ],
+        "email": [
+            "E-mail",
+            "azar380@gmail.com",
+            "azarafy@gmail.com",
+            "Project manager",
+            "QHSE Manager"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 9597902804"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Electrical and HSE engineering": 0.2995,
+            "analytical abilities": 0.423,
+            "new thoughts": 0.3499,
+            "Technical knowledge": 0.4139,
+            "Safety toolbox talk": 0.2235,
+            "permit system": 0.159,
+            "Method statement": 0.3118,
+            "third party certificates": 0.8192,
+            "Monorail": 0.191,
+            "Hoist motor": 0.1749,
+            "Chain block": 0.1554,
+            "Web sling": 0.2203,
+            "Mast climb": 0.248,
+            "Toolbox talk": 0.188
+        },
+        "filename": "cv (3678)_annotated.json"
+    }
+}

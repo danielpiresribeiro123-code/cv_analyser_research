@@ -1,0 +1,100 @@
+{
+    "skills": [
+        "High school",
+        "Professional Qualification",
+        "G.I.T.I",
+        "Electrician Trade",
+        "Electrician",
+        "Computer Course",
+        "Course on computer concepts",
+        "CCC",
+        "Diploma",
+        "Electrical Trade",
+        "Working Package Knowledge",
+        "Utility Maintenance",
+        "Compressor Maintenance",
+        "Transformer & H.T AND L.T Line Maintenance",
+        "Machine Maintenance",
+        "Automatic SPM Machine",
+        "Centering Facing",
+        "Radius Cutting SPM",
+        "END Cutting SPM",
+        "Center Less Grinding SPM"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUSHIL KUMAR GAUTAM"
+        ],
+        "job title": [
+            "Technician",
+            "Electrician",
+            "DG Operator"
+        ],
+        "company": [
+            "Sec-31 NITHRI",
+            "SAITH GANGASAGAR JATIA",
+            "Polytechnic",
+            "L.B.S. Institute",
+            "DOEACC Society",
+            "K.S.U. India",
+            "Moser Baer PVT LTD.",
+            "Greater NOIDA",
+            "NOIDA Power Company Ltd.",
+            "NPCL",
+            "Global Auto Tech India Ltd",
+            "P.M.D. PVT LTD Sahibabad",
+            "SMIIEL",
+            "MOTHERSON SOMI Systems, Ltd.",
+            "E-4Sector-59"
+        ],
+        "university": [
+            "U.P. Board Allahabad",
+            "U.P Board Allahabad",
+            "SAMPURNANAND University"
+        ],
+        "degree": [
+            "Intermediate",
+            "B.A"
+        ],
+        "years of experience": [
+            "Two Year experience",
+            "One Year experience"
+        ],
+        "address": [
+            "Permanent Address",
+            "VILL – USHMAPUR",
+            "POST"
+        ],
+        "email": [
+            "Email",
+            "rmagautam@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "High school": 0.5006,
+            "Professional Qualification": 0.4132,
+            "G.I.T.I": 0.513,
+            "Electrician Trade": 0.3786,
+            "Electrician": 0.209,
+            "Computer Course": 0.1595,
+            "Course on computer concepts": 0.1663,
+            "CCC": 0.2703,
+            "Diploma": 0.4769,
+            "Electrical Trade": 0.3247,
+            "Working Package Knowledge": 0.2731,
+            "Utility Maintenance": 0.4239,
+            "Compressor Maintenance": 0.4683,
+            "Transformer & H.T AND L.T Line Maintenance": 0.2,
+            "Machine Maintenance": 0.4708,
+            "Automatic SPM Machine": 0.2812,
+            "Centering Facing": 0.3607,
+            "Radius Cutting SPM": 0.4056,
+            "END Cutting SPM": 0.4115,
+            "Center Less Grinding SPM": 0.4089
+        },
+        "filename": "cv (2284)_annotated.json"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "Proven ability",
+        "Excellent Organizational Skills",
+        "Accuracy",
+        "Attention to Detail",
+        "Highly skilled",
+        "Drafting Documents and Communications",
+        "Powerful Verbal & Written Communicator",
+        "wisdom",
+        "Confidentiality",
+        "Extensive experience",
+        "Project Status and Monitoring system",
+        "tenacity",
+        "expertise",
+        "sound  judgment",
+        "Complex Calendar Management",
+        "Document Management",
+        "Typing Speed"
+    ],
+    "professional_info": {
+        "person name": [
+            "Assistant General Manager",
+            "Deputy  General Manager",
+            "Deputy  General  Manager"
+        ],
+        "job title": [
+            "MUNEEB AHMAD",
+            "PROJECT SECRETARY/ DOCUMENT CONTROLLER",
+            "Executives",
+            "Secretary – Project Administration / Coordination",
+            "Project Coordination Manager",
+            "Senior Project Coordinators",
+            "Project Coordination Team"
+        ],
+        "company": [
+            "K.S.A. Ph.",
+            "AL-RASHID ABETONG CO.",
+            "K.S.A."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "7 years of experience"
+        ],
+        "address": [
+            "Riyadh 11442",
+            "Multi Line Telephone System"
+        ],
+        "email": [
+            "Email",
+            "muneebahmad.3254@gmail.com",
+            "emails"
+        ],
+        "phone": [
+            "+966-533766011",
+            "telephone calls"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Proven ability": 0.1991,
+            "Excellent Organizational Skills": 0.3676,
+            "Accuracy": 0.436,
+            "Attention to Detail": 0.4356,
+            "Highly skilled": 0.2351,
+            "Drafting Documents and Communications": 0.2953,
+            "Powerful Verbal & Written Communicator": 0.4066,
+            "wisdom": 0.2306,
+            "Confidentiality": 0.1663,
+            "Extensive experience": 0.3089,
+            "Project Status and Monitoring system": 0.3315,
+            "tenacity": 0.2827,
+            "expertise": 0.3943,
+            "sound  judgment": 0.3728,
+            "Complex Calendar Management": 0.1525,
+            "Document Management": 0.1863,
+            "Typing Speed": 0.2385
+        },
+        "filename": "cv (1860)_annotated.json"
+    }
+}

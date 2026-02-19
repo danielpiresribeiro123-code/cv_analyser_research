@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "Employee relations",
+        "Performance management strategies",
+        "Excellent interpersonal and coaching skills",
+        "SHRM-SCP",
+        "Employee handbook development",
+        "Event management",
+        "Hiring and retention",
+        "Experience",
+        "sales strategies",
+        "arched economic processing"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT",
+            "Manager",
+            "Current",
+            "Director",
+            "management"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "[number]"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Employee relations": 0.4891,
+            "Performance management strategies": 0.3725,
+            "Excellent interpersonal and coaching skills": 0.5313,
+            "SHRM-SCP": 0.9014,
+            "Employee handbook development": 0.3277,
+            "Event management": 0.3209,
+            "Hiring and retention": 0.1977,
+            "Experience": 0.2713,
+            "sales strategies": 0.1627,
+            "arched economic processing": 0.2728
+        },
+        "filename": "cv (4306)_annotated.json"
+    }
+}

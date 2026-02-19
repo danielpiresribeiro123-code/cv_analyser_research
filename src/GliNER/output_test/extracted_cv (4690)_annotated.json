@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "Enthusiastic",
+        "reliable",
+        "business and marketing",
+        "management skills",
+        "business",
+        "Exceptional interpersonal communication skills",
+        "Customer service skills",
+        "Teamwork skills",
+        "Effective leader",
+        "Organized",
+        "Highly",
+        "dependable",
+        "Fast learner",
+        "Able to work under pressure",
+        "Positive attitude and energy",
+        "Strong work ethic",
+        "Internet services",
+        "organized office",
+        "Management"
+    ],
+    "professional_info": {
+        "person name": [
+            "Current"
+        ],
+        "job title": [
+            "ASSISTANT FOOTBALL COACH",
+            "recent graduate",
+            "Leader of the accountability program",
+            "Leadership Council",
+            "Member",
+            "coaching staff",
+            "Salvation Army Volunteer",
+            "Current",
+            "Property Maintenance Assistant"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [
+            "Utica College"
+        ],
+        "degree": [
+            "Bachelor of Science"
+        ],
+        "years of experience": [
+            "four years"
+        ],
+        "address": [
+            "City",
+            "State",
+            "Utica",
+            "NY"
+        ],
+        "email": [],
+        "phone": [
+            "phone calls"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Enthusiastic": 0.5447,
+            "reliable": 0.4331,
+            "business and marketing": 0.2842,
+            "management skills": 0.7053,
+            "business": 0.3176,
+            "Exceptional interpersonal communication skills": 0.7642,
+            "Customer service skills": 0.7505,
+            "Teamwork skills": 0.7913,
+            "Effective leader": 0.5727,
+            "Organized": 0.6096,
+            "Highly": 0.287,
+            "dependable": 0.4666,
+            "Fast learner": 0.6058,
+            "Able to work under pressure": 0.5416,
+            "Positive attitude and energy": 0.4769,
+            "Strong work ethic": 0.6046,
+            "Internet services": 0.3695,
+            "organized office": 0.1659,
+            "Management": 0.5327
+        },
+        "filename": "cv (4690)_annotated.json"
+    }
+}

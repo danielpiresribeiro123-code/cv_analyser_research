@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "English",
+        "Hindi",
+        "Education",
+        "03 year Diploma in Electrical Engineering",
+        "02 Year Diploma certificate in Electrical",
+        "10+2 Sr Sec Education",
+        "Transformers",
+        "Breakers",
+        "ACB",
+        "SF6",
+        "VFD",
+        "motors",
+        "P.D.B.",
+        "L.D.B .",
+        "Calculations",
+        "U.P.S.",
+        "Battery & Battery Chargers",
+        "Electrical Heat Tracing system",
+        "SEHMS",
+        "computer system",
+        "Instrumentations"
+    ],
+    "professional_info": {
+        "person name": [
+            "Prakash",
+            "Kheta Ram Mali",
+            "Ankita",
+            "Raghav",
+            "Prakash Mali"
+        ],
+        "job title": [
+            "prakashp.12888"
+        ],
+        "company": [
+            "Indian",
+            "Hindu",
+            "Oil  &  Gas",
+            "oil & Gas",
+            "Oil  &Gas"
+        ],
+        "university": [
+            "SAP"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Married",
+            "8+  yrs.",
+            "Experience"
+        ],
+        "address": [],
+        "email": [
+            "Skype ID"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "English": 0.4985,
+            "Hindi": 0.7743,
+            "Education": 0.1912,
+            "03 year Diploma in Electrical Engineering": 0.5137,
+            "02 Year Diploma certificate in Electrical": 0.481,
+            "10+2 Sr Sec Education": 0.2442,
+            "Transformers": 0.1921,
+            "Breakers": 0.1516,
+            "ACB": 0.1622,
+            "SF6": 0.2396,
+            "VFD": 0.3472,
+            "motors": 0.2452,
+            "P.D.B.": 0.4138,
+            "L.D.B .": 0.3889,
+            "Calculations": 0.3979,
+            "U.P.S.": 0.3273,
+            "Battery & Battery Chargers": 0.356,
+            "Electrical Heat Tracing system": 0.2785,
+            "SEHMS": 0.2723,
+            "computer system": 0.2142,
+            "Instrumentations": 0.2264
+        },
+        "filename": "cv (395)_annotated.json"
+    }
+}

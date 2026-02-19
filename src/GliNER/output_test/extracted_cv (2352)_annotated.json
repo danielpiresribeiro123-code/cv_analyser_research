@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "MECHANICAL ENGINEERING",
+        "MACHINE TECHNOLOGY",
+        "CNC MACHINE",
+        "METAL CUTTING PRINCIPLE",
+        "GOOD COMUNICATION SKILL",
+        "SELF MOTIVATED",
+        "HARD WORKING",
+        "GOAL ORIENTED",
+        "FLEXIBILITY",
+        "TECHNICAL SKILL",
+        "SOFTWARE                    AUTOCAD",
+        "WINDOWS XP/2000/7",
+        "SOFTWARE                 MS OFFICE",
+        "INTERNATE APPLICATION",
+        "INTERMEDIATE-2007",
+        "MATRICULATION -2005",
+        "POPPET VALVE",
+        "ELECTROMAGNETIC PISTON",
+        "D.O.B    -   19-04-1990",
+        "FRESHER",
+        "UNMARRIED"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHD JAVED",
+            "MR. SIRAJUDDIN",
+            "INDIAN"
+        ],
+        "job title": [
+            "MECHANICAL ENGINEER",
+            "PROJECT  UNDERTAKEN"
+        ],
+        "company": [
+            "U.P BOARD",
+            "WOOD CONTRACTOR"
+        ],
+        "university": [
+            "U.P TECHNICAL UNIVERSITY",
+            "U.P. TECHNICAL UNIVERSITY"
+        ],
+        "degree": [
+            "QUALIFIED ENGINEERING GRADUATE",
+            "B. TECH IN MECHANICAL, ENGINEERING",
+            "B. TECH IN MECHANICAL ENGINEERING",
+            "DIPLOMA IN MECHANICAL ENGINEERING"
+        ],
+        "years of experience": [],
+        "address": [
+            "H.NO-109",
+            "STREET  MIYAJI MOKHA",
+            "AFZALGARH",
+            "BIJNOR",
+            "U.P-246722"
+        ],
+        "email": [
+            "CONTACT",
+            "EMAIL",
+            "mohd.javed999@gmail.com"
+        ],
+        "phone": [
+            "+91-9891011568"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "MECHANICAL ENGINEERING": 0.4516,
+            "MACHINE TECHNOLOGY": 0.2126,
+            "CNC MACHINE": 0.3891,
+            "METAL CUTTING PRINCIPLE": 0.479,
+            "GOOD COMUNICATION SKILL": 0.1567,
+            "SELF MOTIVATED": 0.437,
+            "HARD WORKING": 0.3091,
+            "GOAL ORIENTED": 0.2044,
+            "FLEXIBILITY": 0.2734,
+            "TECHNICAL SKILL": 0.5663,
+            "SOFTWARE                    AUTOCAD": 0.4649,
+            "WINDOWS XP/2000/7": 0.8329,
+            "SOFTWARE                 MS OFFICE": 0.5373,
+            "INTERNATE APPLICATION": 0.6486,
+            "INTERMEDIATE-2007": 0.3283,
+            "MATRICULATION -2005": 0.1817,
+            "POPPET VALVE": 0.3211,
+            "ELECTROMAGNETIC PISTON": 0.3494,
+            "D.O.B    -   19-04-1990": 0.2764,
+            "FRESHER": 0.3666,
+            "UNMARRIED": 0.2739
+        },
+        "filename": "cv (2352)_annotated.json"
+    }
+}

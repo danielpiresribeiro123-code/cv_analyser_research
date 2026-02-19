@@ -1,0 +1,103 @@
+{
+    "skills": [
+        "Malayalam",
+        "English",
+        "Tamil",
+        "S.S.L.C",
+        "My Strengths",
+        "Strong individuality",
+        "Win-Win aptitude",
+        "Dedicated to job",
+        "Positive approach",
+        "Motivated team Player",
+        "COMPUTER KNOWLEDGE",
+        "Taxation software",
+        "Winman",
+        "Microsoft Windows 7",
+        "2000",
+        "XP",
+        "VISTA",
+        "Ms Office",
+        "Tally ERP 9",
+        "AREA OF INTEREST",
+        "Business Developing",
+        "Accounting",
+        "Marketing",
+        "Customer Care"
+    ],
+    "professional_info": {
+        "person name": [
+            "GANGA NIPU",
+            "Husband",
+            "NIPU N PILAI",
+            "N REGUNATH",
+            "MAYA"
+        ],
+        "job title": [
+            "Female",
+            "Designation",
+            "Business development manager"
+        ],
+        "company": [
+            "Higher  Secondary  Board",
+            "TATA AIA",
+            "LIFE INSURANCE COMPANY LTD",
+            "ALAPPUZHA"
+        ],
+        "university": [
+            "University",
+            "Institute of Management in KERALA"
+        ],
+        "degree": [
+            "Hindu",
+            "MBA",
+            "Master of Business Administration",
+            "Bachelor of Business Administration"
+        ],
+        "years of experience": [
+            "Professional Experience"
+        ],
+        "address": [
+            "Indian"
+        ],
+        "email": [
+            "Email",
+            "gangarnath.82@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 - 9645346106",
+            "+91 - 9633107609"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Malayalam": 0.7861,
+            "English": 0.697,
+            "Tamil": 0.73,
+            "S.S.L.C": 0.2008,
+            "My Strengths": 0.2903,
+            "Strong individuality": 0.5038,
+            "Win-Win aptitude": 0.3872,
+            "Dedicated to job": 0.2633,
+            "Positive approach": 0.3398,
+            "Motivated team Player": 0.4956,
+            "COMPUTER KNOWLEDGE": 0.5004,
+            "Taxation software": 0.1797,
+            "Winman": 0.2662,
+            "Microsoft Windows 7": 0.7147,
+            "2000": 0.3427,
+            "XP": 0.4212,
+            "VISTA": 0.7763,
+            "Ms Office": 0.9449,
+            "Tally ERP 9": 0.5286,
+            "AREA OF INTEREST": 0.1941,
+            "Business Developing": 0.1825,
+            "Accounting": 0.3496,
+            "Marketing": 0.2417,
+            "Customer Care": 0.2033
+        },
+        "filename": "cv (955)_annotated.json"
+    }
+}

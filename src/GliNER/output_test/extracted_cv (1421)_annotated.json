@@ -1,0 +1,49 @@
+{
+    "skills": [
+        "Educational qualification",
+        "computer basic",
+        "alone",
+        "Hindi",
+        "Yours faithfully"
+    ],
+    "professional_info": {
+        "person name": [
+            "Prateek Agarwal",
+            "Vinod kumar agrawal",
+            "Indian",
+            "Prateek"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "b.com"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "N-143 anand nagar",
+            "jagai purwa",
+            "Kanpur-208007",
+            "Kanpur"
+        ],
+        "email": [
+            "E-mail",
+            "coolprateek96@gmail.com"
+        ],
+        "phone": [
+            "Contact no",
+            "- 9305542734"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Educational qualification": 0.3552,
+            "computer basic": 0.6759,
+            "alone": 0.24,
+            "Hindi": 0.6817,
+            "Yours faithfully": 0.2473
+        },
+        "filename": "cv (1421)_annotated.json"
+    }
+}

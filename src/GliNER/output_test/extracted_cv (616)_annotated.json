@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "Competent & diligent",
+        "Multiskill T echnician",
+        "PRPFESSIONAL QUALIFICATION",
+        "Electrical Engg",
+        "COMPUTER KNOWLEGED",
+        "CCC (Computer course of concept)",
+        "MS word",
+        "Excel",
+        "Electrical installation"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAMNARESH BHARDVAJ"
+        ],
+        "job title": [
+            "challenging and senior position"
+        ],
+        "company": [
+            "Company Name",
+            "techmahindra ltd",
+            "AFM",
+            "emloy",
+            "Dynamic Engg Ltd",
+            "UPPCL",
+            "NIEIT"
+        ],
+        "university": [
+            "UP",
+            "Polytechnic",
+            "BTEUP  Lucknow",
+            "UP Board"
+        ],
+        "degree": [
+            "Diploma"
+        ],
+        "years of experience": [
+            "Experience",
+            "PROFESSIONAL EXPERIENCE",
+            "Three years"
+        ],
+        "address": [
+            "PO-Patilagouspur",
+            "E Mail",
+            "Dist"
+        ],
+        "email": [
+            "rnbhardvaj9936@gmail.com",
+            "Mob"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Competent & diligent": 0.4353,
+            "Multiskill T echnician": 0.2511,
+            "PRPFESSIONAL QUALIFICATION": 0.1539,
+            "Electrical Engg": 0.2836,
+            "COMPUTER KNOWLEGED": 0.4883,
+            "CCC (Computer course of concept)": 0.3005,
+            "MS word": 0.2895,
+            "Excel": 0.2577,
+            "Electrical installation": 0.1746
+        },
+        "filename": "cv (616)_annotated.json"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "B a r e i l l y",
+        "U . P . B O A R D",
+        "EnglishTyping",
+        "AdvancedDiplomainComputerApplications",
+        "English",
+        "Hindi",
+        "Urdu",
+        "Read",
+        "Write",
+        "Speak",
+        "M9126595"
+    ],
+    "professional_info": {
+        "person name": [
+            "sharikmohammad111",
+            "Iwantgrowmycarrieringood",
+            "I"
+        ],
+        "job title": [
+            "ComputerOprater",
+            "CustomerServiceLead"
+        ],
+        "company": [
+            "B.Com"
+        ],
+        "university": [
+            "HigherSecondary",
+            "CCC"
+        ],
+        "degree": [
+            "SeniorSecondary"
+        ],
+        "years of experience": [],
+        "address": [
+            "PostBhojipura",
+            "Bareilly"
+        ],
+        "email": [
+            "gmail"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "B a r e i l l y": 0.2009,
+            "U . P . B O A R D": 0.1606,
+            "EnglishTyping": 0.5019,
+            "AdvancedDiplomainComputerApplications": 0.4338,
+            "English": 0.7851,
+            "Hindi": 0.7151,
+            "Urdu": 0.6659,
+            "Read": 0.2819,
+            "Write": 0.2167,
+            "Speak": 0.2907,
+            "M9126595": 0.3267
+        },
+        "filename": "cv (2634)_annotated.json"
+    }
+}

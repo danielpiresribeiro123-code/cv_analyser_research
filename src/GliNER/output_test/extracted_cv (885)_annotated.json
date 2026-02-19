@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "SINGLE",
+        "FEMALE",
+        "Team work",
+        "interpersonal skills",
+        "Quick decision making skills",
+        "quick learning skill",
+        "leadership skills",
+        "Flexible",
+        "Trust worthiness",
+        "open",
+        "faithful",
+        "telling the truth always",
+        "Catering  and  Hotel, Management",
+        "Microsoft Word",
+        "Internet packages",
+        "Communication",
+        "Speaking skills",
+        "Effective communication skills",
+        "SKILLS",
+        "Computer skills",
+        "Restaurant skills",
+        "Cooking skills",
+        "Front office skills",
+        "Analytical and goal oriented"
+    ],
+    "professional_info": {
+        "person name": [
+            "NALWANGA ANNET"
+        ],
+        "job title": [
+            "Restaurant Manager"
+        ],
+        "company": [
+            "Microsoft",
+            "PROTEA HOTEL KAMPALA"
+        ],
+        "university": [],
+        "degree": [
+            "Bachelor’s  Degree"
+        ],
+        "years of experience": [],
+        "address": [
+            "Contact Address"
+        ],
+        "email": [
+            "Email",
+            "annet27n@gmail.com"
+        ],
+        "phone": [
+            "Telephone (Mob)",
+            "+256701571670"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "SINGLE": 0.288,
+            "FEMALE": 0.2563,
+            "Team work": 0.4126,
+            "interpersonal skills": 0.2745,
+            "Quick decision making skills": 0.5769,
+            "quick learning skill": 0.4792,
+            "leadership skills": 0.606,
+            "Flexible": 0.4283,
+            "Trust worthiness": 0.3949,
+            "open": 0.1602,
+            "faithful": 0.192,
+            "telling the truth always": 0.1611,
+            "Catering  and  Hotel, Management": 0.5474,
+            "Microsoft Word": 0.3259,
+            "Internet packages": 0.3575,
+            "Communication": 0.2914,
+            "Speaking skills": 0.3141,
+            "Effective communication skills": 0.5202,
+            "SKILLS": 0.1592,
+            "Computer skills": 0.6539,
+            "Restaurant skills": 0.6921,
+            "Cooking skills": 0.7634,
+            "Front office skills": 0.4095,
+            "Analytical and goal oriented": 0.2776
+        },
+        "filename": "cv (885)_annotated.json"
+    }
+}

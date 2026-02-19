@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "ASP.NET 2010",
+        ".Net",
+        "C",
+        "C++",
+        "Basic knowledge",
+        "SQL",
+        "java",
+        "HTML",
+        "Communication Technology",
+        "Office tools",
+        "Online Airline ticket Reservation  System",
+        "Online payment system",
+        "RSA Algorithm",
+        "Secure Message Transfer System"
+    ],
+    "professional_info": {
+        "person name": [
+            "NIGITHA XAVIER"
+        ],
+        "job title": [],
+        "company": [
+            "Information",
+            "TELECOM TECHNOLOGIES",
+            "BSNL",
+            "company"
+        ],
+        "university": [
+            "TechnologyRajagiri School of",
+            "Gandhi",
+            "University2009-, 2013Cumulative47"
+        ],
+        "degree": [
+            "B.Tech"
+        ],
+        "years of experience": [],
+        "address": [
+            "Anjiparambil House",
+            "Elamakkara P.O",
+            "Vayanashala Road",
+            "Kochi-682026"
+        ],
+        "email": [
+            "Email",
+            "nikki9nicki@gmail.com"
+        ],
+        "phone": [
+            "Tel",
+            "+918086330557"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "ASP.NET 2010": 0.3819,
+            ".Net": 0.4229,
+            "C": 0.832,
+            "C++": 0.7984,
+            "Basic knowledge": 0.4399,
+            "SQL": 0.6063,
+            "java": 0.8951,
+            "HTML": 0.3941,
+            "Communication Technology": 0.3814,
+            "Office tools": 0.8717,
+            "Online Airline ticket Reservation  System": 0.2238,
+            "Online payment system": 0.1753,
+            "RSA Algorithm": 0.3478,
+            "Secure Message Transfer System": 0.1569
+        },
+        "filename": "cv (1160)_annotated.json"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "self starter",
+        "Excellent proactive attitude",
+        "strong  ability",
+        "accounting skills",
+        "remarkable organizational and time management skills",
+        "Personal Objectives",
+        "Accountancy Skills",
+        "Reconciliation",
+        "Payroll system",
+        "quickbooks",
+        "International financial reporting standards",
+        "IFRS",
+        "Petty cash book",
+        "Statutory returns",
+        "NSSF",
+        "NHIF",
+        "PAYE",
+        "NITA",
+        "VAT",
+        "Data entry",
+        "F inance  and Economics",
+        "Certified Public A ccountant",
+        "Financial Accounting",
+        "Economics",
+        "Cost Accounting"
+    ],
+    "professional_info": {
+        "person name": [
+            "Simon B. Makan",
+            "Founder"
+        ],
+        "job title": [
+            "CPA",
+            "professional accountant",
+            "auditors",
+            "financial analysits"
+        ],
+        "company": [
+            "CITIZEN INSTITUTE OF PROFESSIONAL STUDIES",
+            "GOALCONGRUENCE & TRAINING SERVICES"
+        ],
+        "university": [
+            "Kenyatta University"
+        ],
+        "degree": [
+            "Bachellor degree"
+        ],
+        "years of experience": [
+            "seven  (7) years experience"
+        ],
+        "address": [
+            "P.O BOX 53492 -00200",
+            "Nairobi, KENYA",
+            "Ongata Rongai"
+        ],
+        "email": [
+            "0728546345/0721697445. simonmakan@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "self starter": 0.2,
+            "Excellent proactive attitude": 0.4835,
+            "strong  ability": 0.1872,
+            "accounting skills": 0.3783,
+            "remarkable organizational and time management skills": 0.3497,
+            "Personal Objectives": 0.1567,
+            "Accountancy Skills": 0.3717,
+            "Reconciliation": 0.414,
+            "Payroll system": 0.5179,
+            "quickbooks": 0.5713,
+            "International financial reporting standards": 0.8978,
+            "IFRS": 0.7947,
+            "Petty cash book": 0.5618,
+            "Statutory returns": 0.2508,
+            "NSSF": 0.3147,
+            "NHIF": 0.3845,
+            "PAYE": 0.412,
+            "NITA": 0.3336,
+            "VAT": 0.2607,
+            "Data entry": 0.4792,
+            "F inance  and Economics": 0.3852,
+            "Certified Public A ccountant": 0.474,
+            "Financial Accounting": 0.3152,
+            "Economics": 0.5098,
+            "Cost Accounting": 0.1662
+        },
+        "filename": "cv (1328)_annotated.json"
+    }
+}

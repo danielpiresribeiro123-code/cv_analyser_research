@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "academic skills",
+        "maturity",
+        "innovation",
+        "Educational Qualification",
+        "Production and Industrial Engineering",
+        "Technology Based Entrepreneurship Development Programme",
+        "Quality Control",
+        "Ergonomics symbols",
+        "Digitalized Domestic Refrigerator Test Rig"
+    ],
+    "professional_info": {
+        "person name": [
+            "SUMEET MAHAJAN"
+        ],
+        "job title": [],
+        "company": [
+            "R&D Polytecnica",
+            "Central Tool Room",
+            "New Swan Enterprises Unit-II",
+            "New Swan Auto Comp Pvt. LTD"
+        ],
+        "university": [
+            "Gulzar Group of Institutes",
+            "Shishu Model High School",
+            "Standard Room Research & Development Centre for Bicycle & Sewing machine"
+        ],
+        "degree": [
+            "4 year Graduate Engineering Degree Course",
+            "B.Tech",
+            "Mechanical Engineering",
+            "Diploma",
+            "P.S.E.B"
+        ],
+        "years of experience": [
+            "experience"
+        ],
+        "address": [
+            "Ho.no.57-A",
+            "St. No. 0",
+            "Kabir Nagar"
+        ],
+        "email": [
+            "sumitmahajan008065500751@yahoo.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "academic skills": 0.3568,
+            "maturity": 0.3061,
+            "innovation": 0.3927,
+            "Educational Qualification": 0.1768,
+            "Production and Industrial Engineering": 0.4265,
+            "Technology Based Entrepreneurship Development Programme": 0.1792,
+            "Quality Control": 0.1768,
+            "Ergonomics symbols": 0.2178,
+            "Digitalized Domestic Refrigerator Test Rig": 0.3536
+        },
+        "filename": "cv (2147)_annotated.json"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "MCWG",
+        "ECNR",
+        "Communication",
+        "Planning and organizing",
+        "planning and organizational skills",
+        "Systems knowledge",
+        "Gulf Experience",
+        "Diploma Computer"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHOKEEN  ALI"
+        ],
+        "job title": [
+            "Computer Operator",
+            "Data Entry Opeartor/Compoter Operator",
+            "Data Entry Operator"
+        ],
+        "company": [
+            "Data Matrix Solution Pvt. Ltd .",
+            "Samruddha Jeevan Multi State",
+            "Multipurpose Co- Operative Society Ltd.",
+            "Supermarket"
+        ],
+        "university": [
+            "DegreeBoard Institution StartEnd",
+            "BCAHNB UniversityIMS College Roorkee",
+            "XIIUP BoardAdarsh Inter College Telheri",
+            "XIUP BoardAdarsh Inter College Telheri"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Village+Post- Bachiti",
+            "Pin Code-247551"
+        ],
+        "email": [
+            "Email",
+            "gmail.com",
+            "20072010"
+        ],
+        "phone": [
+            "+917895787362",
+            "telephone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "MCWG": 0.2054,
+            "ECNR": 0.347,
+            "Communication": 0.254,
+            "Planning and organizing": 0.3967,
+            "planning and organizational skills": 0.2238,
+            "Systems knowledge": 0.4003,
+            "Gulf Experience": 0.2095,
+            "Diploma Computer": 0.2847
+        },
+        "filename": "cv (1685)_annotated.json"
+    }
+}

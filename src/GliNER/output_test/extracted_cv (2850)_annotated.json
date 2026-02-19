@@ -1,0 +1,98 @@
+{
+    "skills": [
+        "TECHNICAL SKILLS",
+        "Basic Knowledge of Computer Application",
+        "MS Office",
+        "HOBBIES",
+        "Playing Cricket",
+        "Listening MusicKEY SKILLS",
+        "Highly motivated and eager to learn new things",
+        "Strong Motivational and leadership skills",
+        "COMPETENCE",
+        "Good Communication Skills",
+        "Positive Attitude",
+        "Hard Working",
+        "Male",
+        "Unmarried",
+        "Language Proficiency",
+        "English",
+        "Urdu",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAZID ALI",
+            "PawaMahaveer",
+            "Mr. Nizamuddin Ali",
+            "Indian",
+            "Muslim"
+        ],
+        "job title": [
+            "P4968695"
+        ],
+        "company": [
+            "CURRICULUM VITAE",
+            "DEGREE BOARD",
+            "COLLEGE YEAR Of",
+            "Intermediate",
+            "EDGE TECH Automation",
+            "Pvt. Ltd."
+        ],
+        "university": [
+            "UNIVERSITY SCHOOL",
+            "12thU.P. BoardSantKabir",
+            "10thU.P. Board",
+            "UPPCL 132KV Sub-Station"
+        ],
+        "degree": [
+            "Diploma in",
+            "Inter College 201056%"
+        ],
+        "years of experience": [
+            "3-Years",
+            "1-Yearexperience"
+        ],
+        "address": [
+            "F-169",
+            "AbulFazal Enclave Part-2",
+            "ShaheenBagh",
+            "Jamia Nagar",
+            "Lucknow201675%",
+            "Internet",
+            "Post. Fazil Nagar"
+        ],
+        "email": [
+            "Email",
+            "sazid50@gmail.com"
+        ],
+        "phone": [
+            "Mob Number",
+            "+91 9838616556",
+            "+91 8826655696"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "TECHNICAL SKILLS": 0.5335,
+            "Basic Knowledge of Computer Application": 0.2273,
+            "MS Office": 0.6794,
+            "HOBBIES": 0.167,
+            "Playing Cricket": 0.1532,
+            "Listening MusicKEY SKILLS": 0.2416,
+            "Highly motivated and eager to learn new things": 0.2752,
+            "Strong Motivational and leadership skills": 0.2167,
+            "COMPETENCE": 0.4359,
+            "Good Communication Skills": 0.4073,
+            "Positive Attitude": 0.3238,
+            "Hard Working": 0.1609,
+            "Male": 0.2513,
+            "Unmarried": 0.4037,
+            "Language Proficiency": 0.3264,
+            "English": 0.7469,
+            "Urdu": 0.4711,
+            "Hindi": 0.6589
+        },
+        "filename": "cv (2850)_annotated.json"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "relationship between groundwater depth and individual plant species",
+        "relationship between vegetation productivity and water availability",
+        "EDYS updates",
+        "landscape-level ecological model",
+        "seasonal gas exchange model",
+        "dynamic photosynthesis model",
+        "data loggers",
+        "radiation sensors"
+    ],
+    "professional_info": {
+        "person name": [
+            "ELKE NAUMBURG",
+            "Ms. Naumburg"
+        ],
+        "job title": [
+            "TITLE",
+            "Ecohydrologist",
+            "Postdoctoral Research Assistant",
+            "Ecophysiological Research Assistant",
+            "Ecological Research Assistant"
+        ],
+        "company": [
+            "Glorieta Geoscience Inc.",
+            "Pacifica Services, Inc."
+        ],
+        "university": [
+            "University of Nevada, Las Vegas",
+            "Duke University",
+            "Northern Arizona University"
+        ],
+        "degree": [],
+        "years of experience": [
+            "1996 - 2000"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "relationship between groundwater depth and individual plant species": 0.1768,
+            "relationship between vegetation productivity and water availability": 0.198,
+            "EDYS updates": 0.5198,
+            "landscape-level ecological model": 0.3475,
+            "seasonal gas exchange model": 0.3861,
+            "dynamic photosynthesis model": 0.2376,
+            "data loggers": 0.2992,
+            "radiation sensors": 0.3259
+        },
+        "filename": "cv (1266)_annotated.json"
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "skills": [
+        "Advanced Databases",
+        "Web Programming",
+        "Java",
+        "Programming",
+        "Networking",
+        "IT Security",
+        "oSophomore Honors Award",
+        "COMPUTER SKILLS",
+        "Fluency",
+        "C++",
+        "PHP",
+        "Linux",
+        "SQL",
+        "HTML",
+        "CSS",
+        "Dreamweaver",
+        "Cloudscape",
+        "Familiarity",
+        "JavaScript",
+        "Perl",
+        "Python",
+        "CORBA",
+        "EJBs",
+        "XML",
+        "DOM",
+        "XSLT",
+        "Proficiency",
+        "Microsoft Office",
+        "Windows 9x",
+        "XP",
+        "MacOS",
+        "Unix",
+        "PowerDesigner",
+        "RMI",
+        "Swing",
+        "DOM",
+        "Apache’s",
+        "Xerces Parser",
+        "Adobe Photoshop 7.0"
+    ],
+    "professional_info": {
+        "person name": [
+            "LOREN SHEVITZ"
+        ],
+        "job title": [
+            "Customer Relations Model",
+            "Project Manager",
+            "co-webmaster",
+            "Technical consultant"
+        ],
+        "company": [
+            "Shircago Music",
+            "Hillel"
+        ],
+        "university": [
+            "University of Chicago",
+            "University of Michigan (Ann Arbor)"
+        ],
+        "degree": [
+            "LOREN@SHEVITZ.ORG",
+            "Bachelor of Arts in Psychology",
+            "oResidential College graduate"
+        ],
+        "years of experience": [],
+        "address": [
+            "CHICAGO",
+            "60614-5367"
+        ],
+        "email": [
+            "Master’s in Computer Science",
+            "international Jewish a cappella email list"
+        ],
+        "phone": [
+            "345 W. FULLERTON #2101",
+            "(773) 665-1234 HOME",
+            "(773) 368-3591"
+        ]
+    },
+    "metadata": {
+        "total_skills": 39,
+        "confidence_scores": {
+            "Advanced Databases": 0.6256,
+            "Web Programming": 0.6172,
+            "Java": 0.946,
+            "Programming": 0.2205,
+            "Networking": 0.5597,
+            "IT Security": 0.2654,
+            "oSophomore Honors Award": 0.5259,
+            "COMPUTER SKILLS": 0.1531,
+            "Fluency": 0.3523,
+            "C++": 0.813,
+            "PHP": 0.9604,
+            "Linux": 0.8459,
+            "SQL": 0.3855,
+            "HTML": 0.6307,
+            "CSS": 0.3713,
+            "Dreamweaver": 0.3725,
+            "Cloudscape": 0.3771,
+            "Familiarity": 0.2237,
+            "JavaScript": 0.9491,
+            "Perl": 0.9384,
+            "Python": 0.9263,
+            "CORBA": 0.3716,
+            "EJBs": 0.5487,
+            "XML": 0.586,
+            "DOM": 0.2994,
+            "XSLT": 0.3575,
+            "Proficiency": 0.2647,
+            "Microsoft Office": 0.6836,
+            "Windows 9x": 0.871,
+            "XP": 0.8599,
+            "MacOS": 0.9083,
+            "Unix": 0.9025,
+            "PowerDesigner": 0.4877,
+            "RMI": 0.283,
+            "Swing": 0.3423,
+            "Apache’s": 0.267,
+            "Xerces Parser": 0.4697,
+            "Adobe Photoshop 7.0": 0.2401
+        },
+        "filename": "cv (1222)_annotated.json"
+    }
+}

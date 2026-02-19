@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "CIC",
+        "ERAM automaton",
+        "Certified",
+        "En Route Air Traffic control experience",
+        "Effective listening",
+        "Adaptable",
+        "Fast learner",
+        "Strong collaborative team Member",
+        "Application of risk-management Principles",
+        "Learning style assessment",
+        "ERAM Subject Matter Expert (SME)",
+        "Experience",
+        "minimum separation standard"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "AIR TRAFFIC CONTROLLER",
+            "SME",
+            "ATCS"
+        ],
+        "company": [
+            "Company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "32 years"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "CIC": 0.2001,
+            "ERAM automaton": 0.2162,
+            "Certified": 0.3411,
+            "En Route Air Traffic control experience": 0.1807,
+            "Effective listening": 0.6292,
+            "Adaptable": 0.6448,
+            "Fast learner": 0.661,
+            "Strong collaborative team Member": 0.6235,
+            "Application of risk-management Principles": 0.1918,
+            "Learning style assessment": 0.1547,
+            "ERAM Subject Matter Expert (SME)": 0.324,
+            "Experience": 0.1855,
+            "minimum separation standard": 0.7145
+        },
+        "filename": "cv (4697)_annotated.json"
+    }
+}

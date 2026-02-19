@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "computer skills",
+        "CompTIA",
+        "Vast technical knowledge",
+        "Troubleshooting proficiency",
+        "DHCP/DNS",
+        "CompTIA A+",
+        "Net+",
+        "Database servers",
+        "Excellent problem solving skills",
+        "Drive duplication and imaging knowledge",
+        "Troubleshooting",
+        "CCTV-DVR Camera systems",
+        "Servers",
+        "network racks/patch panels",
+        "VoIP",
+        "BDR data recovery systems",
+        "StorageCraft",
+        "Datto",
+        "Intronis",
+        "business class cloud backup solutions",
+        "DLP best practices",
+        "Windows",
+        "VMware"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INFORMATION TECHNOLOGY SPECIALIST",
+            "field service technician",
+            "IT Systems Administrator"
+        ],
+        "company": [
+            "Lexmark",
+            "Hewlett Packard",
+            "Microsoft",
+            "Fujitsu",
+            "ICÂ³",
+            "ETA",
+            "FEMA",
+            "Company Name",
+            "VEEAM"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "twelve years",
+            "Exceptional telephone etiquette"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "computer skills": 0.4045,
+            "CompTIA": 0.333,
+            "Vast technical knowledge": 0.4284,
+            "Troubleshooting proficiency": 0.5935,
+            "DHCP/DNS": 0.3222,
+            "CompTIA A+": 0.8457,
+            "Net+": 0.8642,
+            "Database servers": 0.3888,
+            "Excellent problem solving skills": 0.2918,
+            "Drive duplication and imaging knowledge": 0.2674,
+            "Troubleshooting": 0.4072,
+            "CCTV-DVR Camera systems": 0.1904,
+            "Servers": 0.1633,
+            "network racks/patch panels": 0.16,
+            "VoIP": 0.2323,
+            "BDR data recovery systems": 0.3769,
+            "StorageCraft": 0.1617,
+            "Datto": 0.1747,
+            "Intronis": 0.1755,
+            "business class cloud backup solutions": 0.2756,
+            "DLP best practices": 0.2284,
+            "Windows": 0.8373,
+            "VMware": 0.2203
+        },
+        "filename": "cv (4506)_annotated.json"
+    }
+}

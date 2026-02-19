@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "media relations",
+        "executive eminence",
+        "thought leadership",
+        "brand awareness",
+        "Strong background",
+        "multi-channel communications",
+        "brand eminence",
+        "stakeholder engagement",
+        "Superior media relations skills",
+        "Excellent writing skills",
+        "executive speeches",
+        "Ability to work across teams and geographies",
+        "Technical Skills and Qualifications",
+        "Executive Positioning & Communications",
+        "Content Development",
+        "Executive Platform Development",
+        "Ghostwriting",
+        "Social Strategy",
+        "Speakers' Bureau",
+        "content strategy",
+        "product positioning and messaging"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT",
+            "Senior Vice President",
+            "Group Vice President",
+            "Chairman and the Leader"
+        ],
+        "company": [
+            "Company Name",
+            "Deloitte Tax and Audit",
+            "Deloitte LLP",
+            "Deloitte Growth Enterprise Services",
+            "Deloitte Consulting",
+            "Deloitte"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "15 years of experience"
+        ],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "media relations": 0.2533,
+            "executive eminence": 0.5577,
+            "thought leadership": 0.4943,
+            "brand awareness": 0.2762,
+            "Strong background": 0.1706,
+            "multi-channel communications": 0.2093,
+            "brand eminence": 0.1957,
+            "stakeholder engagement": 0.1796,
+            "Superior media relations skills": 0.3738,
+            "Excellent writing skills": 0.3609,
+            "executive speeches": 0.1753,
+            "Ability to work across teams and geographies": 0.21,
+            "Technical Skills and Qualifications": 0.2381,
+            "Executive Positioning & Communications": 0.5577,
+            "Content Development": 0.155,
+            "Executive Platform Development": 0.4399,
+            "Ghostwriting": 0.1547,
+            "Social Strategy": 0.4112,
+            "Speakers' Bureau": 0.204,
+            "content strategy": 0.1711,
+            "product positioning and messaging": 0.2693
+        },
+        "filename": "cv (4640)_annotated.json"
+    }
+}

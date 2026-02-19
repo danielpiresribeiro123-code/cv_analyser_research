@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "skills",
+        "knowledge",
+        "Solar Radiation Resource Assessment",
+        "Data Graph Tool",
+        "PVSyst",
+        "Site Feasibility Study",
+        "Software Known",
+        "QGIS",
+        "CGPA",
+        "CGPA",
+        "Comput",
+        "er",
+        "Science",
+        "AREA OF INTEREST",
+        "Computer Networks",
+        "Digital Communication",
+        "embedded Systems"
+    ],
+    "professional_info": {
+        "person name": [
+            "ALAGU PANDI P"
+        ],
+        "job title": [
+            "Designation",
+            "Project Engineer",
+            "team chief"
+        ],
+        "company": [],
+        "university": [
+            "RVS School of Engineering and Technology",
+            "NATIONAL INSTITUTE OF WIND ENERGY",
+            "NIWE",
+            "GSES",
+            "C.E.O.A Mat. Higher",
+            "CBSEKendriya Vidyalaya Higher"
+        ],
+        "degree": [
+            "B.ERVS School of Engineering, and Technology",
+            "XII"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Mail",
+            "alagu8330@gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "+91-8883965327"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "skills": 0.1593,
+            "knowledge": 0.2616,
+            "Solar Radiation Resource Assessment": 0.1932,
+            "Data Graph Tool": 0.4008,
+            "PVSyst": 0.2353,
+            "Site Feasibility Study": 0.1601,
+            "Software Known": 0.1573,
+            "QGIS": 0.4279,
+            "CGPA": 0.2114,
+            "Comput": 0.2787,
+            "er": 0.1754,
+            "Science": 0.2663,
+            "AREA OF INTEREST": 0.1712,
+            "Computer Networks": 0.537,
+            "Digital Communication": 0.3137,
+            "embedded Systems": 0.2255
+        },
+        "filename": "cv (4163)_annotated.json"
+    }
+}

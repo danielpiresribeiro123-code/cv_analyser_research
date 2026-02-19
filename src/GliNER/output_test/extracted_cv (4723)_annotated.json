@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "proactive behavior modification",
+        "positive reinforcement strategies",
+        "classroom management",
+        "4-H access",
+        "4-H online",
+        "generational differences",
+        "self-direction",
+        "team player",
+        "trouble shooting",
+        "record keeping",
+        "problem solving",
+        "management of volunteer base"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "SUBSTITUTE TEACHER",
+            "On-call substitute for grades K-12",
+            "classroom teacher",
+            "teacher's aide",
+            "class teacher",
+            "4-H Program Assistant",
+            "Open Campus Assistant",
+            "Community Outreach Coordinator",
+            "teachers aide"
+        ],
+        "company": [
+            "Company Name",
+            "Tillamook County Commissioners",
+            "business owners"
+        ],
+        "university": [
+            "OSU"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "proactive behavior modification": 0.3241,
+            "positive reinforcement strategies": 0.2047,
+            "classroom management": 0.1845,
+            "4-H access": 0.2719,
+            "4-H online": 0.2806,
+            "generational differences": 0.1632,
+            "self-direction": 0.481,
+            "team player": 0.5327,
+            "trouble shooting": 0.5374,
+            "record keeping": 0.4203,
+            "problem solving": 0.4264,
+            "management of volunteer base": 0.3548
+        },
+        "filename": "cv (4723)_annotated.json"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "MARKETING MANAGEMENT",
+        "Business Reengineering",
+        "Business Development",
+        "Resource Management",
+        "Financial Management",
+        "Operation",
+        "Construction",
+        "Project Management",
+        "Account Management",
+        "Real Estate industry",
+        "Skillful",
+        "turnkey projects",
+        "market research",
+        "branding and promotion",
+        "Housing projects",
+        "organizational quality standards",
+        "Expertise",
+        "renowned reputation",
+        "real estate market",
+        "strategic business planning",
+        "purchase section",
+        "administration work"
+    ],
+    "professional_info": {
+        "person name": [
+            "Nawas Nazeer"
+        ],
+        "job title": [
+            "Seasoned professional",
+            "SENIOR MANAGER"
+        ],
+        "company": [
+            "Janani Housing Pvt. Ltd.",
+            "Jemi  Housing Ltd.",
+            "Jemi Housing Ltd.",
+            "Jancy Construction",
+            "Janani Housing"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "16 years of enriched experience"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "nawasjanani@gmail.com"
+        ],
+        "phone": [
+            "+91 9677888889"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "MARKETING MANAGEMENT": 0.4417,
+            "Business Reengineering": 0.4515,
+            "Business Development": 0.3653,
+            "Resource Management": 0.1935,
+            "Financial Management": 0.2799,
+            "Operation": 0.2484,
+            "Construction": 0.1607,
+            "Project Management": 0.4095,
+            "Account Management": 0.2922,
+            "Real Estate industry": 0.1681,
+            "Skillful": 0.2227,
+            "turnkey projects": 0.2417,
+            "market research": 0.3814,
+            "branding and promotion": 0.3,
+            "Housing projects": 0.2123,
+            "organizational quality standards": 0.813,
+            "Expertise": 0.1646,
+            "renowned reputation": 0.2152,
+            "real estate market": 0.2006,
+            "strategic business planning": 0.1896,
+            "purchase section": 0.1958,
+            "administration work": 0.1688
+        },
+        "filename": "cv (2922)_annotated.json"
+    }
+}

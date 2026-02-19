@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "customer service",
+        "commitment to people",
+        "team player award",
+        "Administrative Employee of the year",
+        "desire to work",
+        "exemplary costumer service skills",
+        "Reliable and punctual",
+        "Cash handling",
+        "Neat",
+        "professional appearance",
+        "Comfortable standing for long time periods",
+        "Delivers exceptional customer service",
+        "Engaging personality",
+        "Excellent multi-tasker",
+        "Administrative Employee of the Year Award",
+        "Commitment to Quality",
+        "Commitment to People Group Award",
+        "Greater Boston Federal Executive Support Personnel Award",
+        "l confidential files",
+        "Facility Emergency Security Plan",
+        "payroll data"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "AVIATION SAFETY ASSISTANT",
+            "administrative assistant"
+        ],
+        "company": [
+            "Federal Aviation Administration",
+            "company",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "17 years"
+        ],
+        "address": [
+            "City , State"
+        ],
+        "email": [],
+        "phone": [
+            "telephone availability list"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "customer service": 0.1629,
+            "commitment to people": 0.4285,
+            "team player award": 0.633,
+            "Administrative Employee of the year": 0.759,
+            "desire to work": 0.3263,
+            "exemplary costumer service skills": 0.3073,
+            "Reliable and punctual": 0.4856,
+            "Cash handling": 0.2647,
+            "Neat": 0.219,
+            "professional appearance": 0.2008,
+            "Comfortable standing for long time periods": 0.1831,
+            "Delivers exceptional customer service": 0.1869,
+            "Engaging personality": 0.4153,
+            "Excellent multi-tasker": 0.3193,
+            "Administrative Employee of the Year Award": 0.6408,
+            "Commitment to Quality": 0.2313,
+            "Commitment to People Group Award": 0.361,
+            "Greater Boston Federal Executive Support Personnel Award": 0.3245,
+            "l confidential files": 0.2255,
+            "Facility Emergency Security Plan": 0.3414,
+            "payroll data": 0.1883
+        },
+        "filename": "cv (4748)_annotated.json"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "HSE",
+        "Competency",
+        "HSE Management system",
+        "HSE  standards",
+        "Proficient",
+        "ISO 14001:2004",
+        "OHSAS 18001:2007",
+        "Civil Draftsmanship",
+        "CAD",
+        "Excellent communication",
+        "people/team building skills",
+        "BOCW Act",
+        "OSHAS Std",
+        "MS Office applications",
+        "Environmental Management",
+        "Environmental Management system"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ranadeb Chatterjee"
+        ],
+        "job title": [
+            "competent Supervisor",
+            "Safety Supervisor",
+            "Safety Asst.officer"
+        ],
+        "company": [
+            "McNally Bharat Engineering Company Limited",
+            "Kochi Metro Rail Project",
+            "CEC-ITDCEM-TPL-JV",
+            "Mumbai Metro Rail Underground Project"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "3 years  of experience"
+        ],
+        "address": [],
+        "email": [
+            "Email ID.- rchatterjee2592@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "HSE": 0.273,
+            "Competency": 0.5638,
+            "HSE Management system": 0.2799,
+            "HSE  standards": 0.307,
+            "Proficient": 0.405,
+            "ISO 14001:2004": 0.8905,
+            "OHSAS 18001:2007": 0.9374,
+            "Civil Draftsmanship": 0.3243,
+            "CAD": 0.2803,
+            "Excellent communication": 0.3264,
+            "people/team building skills": 0.3402,
+            "BOCW Act": 0.3733,
+            "OSHAS Std": 0.4188,
+            "MS Office applications": 0.5936,
+            "Environmental Management": 0.2447,
+            "Environmental Management system": 0.2584
+        },
+        "filename": "cv (207)_annotated.json"
+    }
+}

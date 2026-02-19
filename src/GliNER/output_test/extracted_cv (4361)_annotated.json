@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "Accomplished and detail-oriented professional",
+        "excellent organizational skills",
+        "ability to manage complex projects with accuracy",
+        "Excellent communication and management skills",
+        "Disciplined approach to tasks",
+        "ability to anticipate potential obstacles",
+        "Professional Selling Skills",
+        "Professional Selling Skills Applications (PSA)",
+        "Six Sigma",
+        "Lean Strategies",
+        "Lean Techniques",
+        "Reducing Variation to Improve Quality",
+        "Lean Logic",
+        "Lean Value Experience",
+        "State Windows",
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Adobe Pro",
+        "Defense Connect Online",
+        "Web- based Contact Management Databases",
+        "strong expertise",
+        "recruiting practices",
+        "recruiting programs",
+        "policies",
+        "classification techniques",
+        "recruiting techniques",
+        "Navy and Marine Corps Commendation Medal"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "RECRUITER-IN-CHARGE",
+            "navy recruiters",
+            "recruiters",
+            "Recruiter"
+        ],
+        "company": [
+            "Company Name",
+            "NRD"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Outlook"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "Accomplished and detail-oriented professional": 0.1916,
+            "excellent organizational skills": 0.4709,
+            "ability to manage complex projects with accuracy": 0.2363,
+            "Excellent communication and management skills": 0.6215,
+            "Disciplined approach to tasks": 0.387,
+            "ability to anticipate potential obstacles": 0.4493,
+            "Professional Selling Skills": 0.4286,
+            "Professional Selling Skills Applications (PSA)": 0.1899,
+            "Six Sigma": 0.3532,
+            "Lean Strategies": 0.6451,
+            "Lean Techniques": 0.6496,
+            "Reducing Variation to Improve Quality": 0.4101,
+            "Lean Logic": 0.6788,
+            "Lean Value Experience": 0.154,
+            "State Windows": 0.3427,
+            "Word": 0.4655,
+            "Excel": 0.4192,
+            "PowerPoint": 0.4686,
+            "Adobe Pro": 0.6865,
+            "Defense Connect Online": 0.616,
+            "Web- based Contact Management Databases": 0.6791,
+            "strong expertise": 0.1638,
+            "recruiting practices": 0.3145,
+            "recruiting programs": 0.2189,
+            "policies": 0.1506,
+            "classification techniques": 0.4895,
+            "recruiting techniques": 0.2497,
+            "Navy and Marine Corps Commendation Medal": 0.5796
+        },
+        "filename": "cv (4361)_annotated.json"
+    }
+}

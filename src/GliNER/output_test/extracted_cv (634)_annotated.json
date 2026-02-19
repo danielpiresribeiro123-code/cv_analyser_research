@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "expertise",
+        "Mechanical Engineering support",
+        "experience",
+        "Top Drive",
+        "Draw works",
+        "Intermediate and upper racking arm",
+        "Iron Rough Neck",
+        "Tech crane L-200",
+        "GUSTO Crane",
+        "Knuckle Boom Crane",
+        "Cameron collet type LMRP connector",
+        "Cameron ‘U’ BOP",
+        "Hydraulic and mechanical cranes",
+        "Iron roughnecks"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAHUL BHAT"
+        ],
+        "job title": [
+            "Dynamic",
+            "Lead Mechanical Engineer",
+            "EXPERIENCE",
+            "Rig Mechanic"
+        ],
+        "company": [
+            "Jasper offshore Ltd.",
+            "Jasper explorer",
+            "National Oil well Varco",
+            "National Oil well",
+            "Varco",
+            "Aker Kvaerner",
+            "Aker Kvaerner/ NOV",
+            "NOV"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "bhatrahul66@gmail.com"
+        ],
+        "phone": [
+            "Ph no.",
+            "+91 7889311103"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "expertise": 0.1628,
+            "Mechanical Engineering support": 0.2005,
+            "experience": 0.166,
+            "Top Drive": 0.2091,
+            "Draw works": 0.342,
+            "Intermediate and upper racking arm": 0.157,
+            "Iron Rough Neck": 0.2926,
+            "Tech crane L-200": 0.164,
+            "GUSTO Crane": 0.25,
+            "Knuckle Boom Crane": 0.2226,
+            "Cameron collet type LMRP connector": 0.1576,
+            "Cameron ‘U’ BOP": 0.2685,
+            "Hydraulic and mechanical cranes": 0.1968,
+            "Iron roughnecks": 0.26
+        },
+        "filename": "cv (634)_annotated.json"
+    }
+}

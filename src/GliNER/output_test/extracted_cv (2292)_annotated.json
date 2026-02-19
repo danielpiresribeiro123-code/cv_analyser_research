@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "evaluate and recommend alternatives",
+        "CAREER SUMMERY",
+        "expertise",
+        "modern methodology",
+        "KEY SKILLS",
+        "BORN ON – 9TH OCT 1993",
+        "GENDER – MALE",
+        "MARITAL STATUS",
+        "ODIA",
+        "ENGLISH",
+        "HINDI",
+        "MOTHER"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAMIR RANJAN ROUT",
+            "SAMIR.SAMIR16",
+            "SAMIR-ROUT-B0604A5B",
+            "INDIAN",
+            "SEEMARANI ROUT",
+            "NIRANJAN ROUTJUNIOR"
+        ],
+        "job title": [
+            "M",
+            "P0458823",
+            "Electrical Engineer",
+            "electrical  engineer",
+            "Junior assistant manager",
+            "transmission  line  project  engineer"
+        ],
+        "company": [
+            "Krishna  Power, Construction (P) LTD.",
+            "KRISHNA POWER, CONSTRUCTION (P) LTD."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "experience",
+            "EXPERIENCE2Personal",
+            "SINGLE"
+        ],
+        "address": [
+            "HTTPS",
+            "AT-BANADIHAPATANA",
+            "PO-BARUNADIHA",
+            "VIA- RAJKANIKA",
+            "DIST-KENDRAPARA"
+        ],
+        "email": [
+            "GMAIL.CO"
+        ],
+        "phone": [
+            "+91-7749889700",
+            "+91-9090582862"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "evaluate and recommend alternatives": 0.1747,
+            "CAREER SUMMERY": 0.2232,
+            "expertise": 0.2006,
+            "modern methodology": 0.9133,
+            "KEY SKILLS": 0.2195,
+            "BORN ON – 9TH OCT 1993": 0.1653,
+            "GENDER – MALE": 0.2617,
+            "MARITAL STATUS": 0.2257,
+            "ODIA": 0.3066,
+            "ENGLISH": 0.5153,
+            "HINDI": 0.334,
+            "MOTHER": 0.194
+        },
+        "filename": "cv (2292)_annotated.json"
+    }
+}

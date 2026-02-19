@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "Office Administration",
+        "Secretarial Functions",
+        "Housekeeping Management",
+        "Drafting",
+        "expertise",
+        "professional skills",
+        "PG Diploma in Personnel Management & Industrial Relations",
+        "Computer",
+        "Diploma in Computer Application",
+        "MS Office",
+        "Diploma in Advanced Software Tech.",
+        "Working knowledge",
+        "TALLY",
+        "ERP Software",
+        "Shorthand",
+        "English",
+        "Typewriting",
+        "Tamil",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "MD",
+            "Praveen Uthrardh",
+            "R. Venkatesan"
+        ],
+        "job title": [
+            "HR & Admin / Secretarial Functions Professional",
+            "professional",
+            "Manager  –  Admin  &  Sales  Coordinator",
+            "Personal Secretary",
+            "MD"
+        ],
+        "company": [
+            "Ready LED Lighting Pvt Ltd."
+        ],
+        "university": [],
+        "degree": [
+            "Master of Business Administration (Human Resource Management)",
+            "Bachelor of Commerce"
+        ],
+        "years of experience": [
+            "10 years of experience"
+        ],
+        "address": [
+            "ANUSUYA S Flat No.F-4",
+            "2nd Main Road"
+        ],
+        "email": [
+            "E-mail",
+            "sm_anu@rediffmail.com",
+            "8056111151"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Office Administration": 0.2536,
+            "Secretarial Functions": 0.3354,
+            "Housekeeping Management": 0.2548,
+            "Drafting": 0.3637,
+            "expertise": 0.3138,
+            "professional skills": 0.2347,
+            "PG Diploma in Personnel Management & Industrial Relations": 0.6512,
+            "Computer": 0.3428,
+            "Diploma in Computer Application": 0.7063,
+            "MS Office": 0.6459,
+            "Diploma in Advanced Software Tech.": 0.6998,
+            "Working knowledge": 0.1838,
+            "TALLY": 0.4604,
+            "ERP Software": 0.5549,
+            "Shorthand": 0.2809,
+            "English": 0.6483,
+            "Typewriting": 0.2706,
+            "Tamil": 0.6522,
+            "Hindi": 0.6379
+        },
+        "filename": "cv (1495)_annotated.json"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "creativity",
+        "10+2",
+        "KEY SKILLS",
+        "Excellent analytical skills",
+        "conceptual thinking",
+        "MS Office",
+        "Excellent written and oral communication skills",
+        "Excellent problem-solving",
+        "time management",
+        "organizational skills",
+        "Reading Newspapers",
+        "Listening to music",
+        "Cooking",
+        "Watching action movies",
+        "watching movies",
+        "Married",
+        "English",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "Leena Bajaj",
+            "Indian"
+        ],
+        "job title": [
+            "Student Coordinator"
+        ],
+        "company": [],
+        "university": [
+            "Delhi University",
+            "CBSE"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "687",
+            "BHOLA Nagar",
+            "Kotla"
+        ],
+        "email": [
+            "B.A.",
+            "E-MAIL ID",
+            "leenabajaj8@gmail.com"
+        ],
+        "phone": [
+            "CONTACT NO",
+            "+91-8447293618"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "creativity": 0.4463,
+            "10+2": 0.1514,
+            "KEY SKILLS": 0.258,
+            "Excellent analytical skills": 0.544,
+            "conceptual thinking": 0.4745,
+            "MS Office": 0.8472,
+            "Excellent written and oral communication skills": 0.4859,
+            "Excellent problem-solving": 0.3677,
+            "time management": 0.2226,
+            "organizational skills": 0.279,
+            "Reading Newspapers": 0.2367,
+            "Listening to music": 0.4233,
+            "Cooking": 0.4593,
+            "Watching action movies": 0.4116,
+            "watching movies": 0.4315,
+            "Married": 0.3217,
+            "English": 0.7397,
+            "Hindi": 0.7872
+        },
+        "filename": "cv (3188)_annotated.json"
+    }
+}

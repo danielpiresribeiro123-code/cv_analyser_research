@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "PERSONAL SKILLS",
+        "Able to deal with people",
+        "hard work",
+        "confidence",
+        "honesty",
+        "helpful mentality",
+        "COMPUTER PROFICIENCY",
+        "Punctuality",
+        "Unmarried",
+        "Hindi",
+        "English",
+        "Punjabi"
+    ],
+    "professional_info": {
+        "person name": [
+            "ISRAR KHAN",
+            "Abrar Khan",
+            "Asiya Begum",
+            "Indian"
+        ],
+        "job title": [
+            "Sales Promoter"
+        ],
+        "company": [
+            "J.M.I.C. Gonda",
+            "SITI CABLE PVT.LTD.",
+            "Dish TV"
+        ],
+        "university": [
+            "Dr.R.M.L. Avadh University",
+            "Indian Computer Institute"
+        ],
+        "degree": [
+            "B.Com",
+            "FCA",
+            "D.O.B."
+        ],
+        "years of experience": [],
+        "address": [
+            "271123",
+            "Rani Bagh Delhi",
+            "Vill- Chistipur (Mugaljot)",
+            "P.O.-Khorash"
+        ],
+        "email": [
+            "EMAIL-israrkhan.khan775@gmail.com"
+        ],
+        "phone": [
+            "MOBILE NO.-9838283674"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "PERSONAL SKILLS": 0.2842,
+            "Able to deal with people": 0.5677,
+            "hard work": 0.3439,
+            "confidence": 0.4843,
+            "honesty": 0.7372,
+            "helpful mentality": 0.5732,
+            "COMPUTER PROFICIENCY": 0.6807,
+            "Punctuality": 0.2599,
+            "Unmarried": 0.3911,
+            "Hindi": 0.871,
+            "English": 0.8647,
+            "Punjabi": 0.8808
+        },
+        "filename": "cv (2773)_annotated.json"
+    }
+}

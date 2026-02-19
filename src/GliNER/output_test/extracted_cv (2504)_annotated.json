@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "EDUCATIONAL QUALIFICATION",
+        "S.N",
+        "OEXAMINATION",
+        "SCHOOLPASSED",
+        "APPEARING",
+        "PASSED",
+        "PROFESSIONAL QUALIFICATION",
+        "Ms Office",
+        "Internet",
+        "AIRCONDITIONER & REFRIGERATION FIELD",
+        "PERSONAL IDENTITY",
+        "Marital Status",
+        "Unmarried",
+        "Language Know",
+        "Hindi",
+        "English",
+        "Hobbies",
+        "Listening Music"
+    ],
+    "professional_info": {
+        "person name": [
+            "AFZAL HUSSAIN",
+            "afzal.hussain00786",
+            "Mohd. Tahir Hussain",
+            "Indian"
+        ],
+        "job title": [
+            "Religion",
+            "Muslim",
+            "Signature"
+        ],
+        "company": [
+            "SNOWHILL AIRCONDITIONER"
+        ],
+        "university": [
+            "UNIVERSITY/ COLLEGE",
+            "1UP BOARD(12th)",
+            "Rajkiya inter collage",
+            "2UP BOARD(10th)"
+        ],
+        "degree": [],
+        "years of experience": [
+            "WORK EXPERIENCE"
+        ],
+        "address": [
+            "VASUNDHARA SEC 16B",
+            "GHAZIABAD",
+            "Nandgram ghazibad up."
+        ],
+        "email": [
+            "Email",
+            "gmail"
+        ],
+        "phone": [
+            "Contact No +918802711486"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "EDUCATIONAL QUALIFICATION": 0.3055,
+            "S.N": 0.1792,
+            "OEXAMINATION": 0.4348,
+            "SCHOOLPASSED": 0.4009,
+            "APPEARING": 0.1994,
+            "PASSED": 0.337,
+            "PROFESSIONAL QUALIFICATION": 0.5244,
+            "Ms Office": 0.5109,
+            "Internet": 0.3143,
+            "AIRCONDITIONER & REFRIGERATION FIELD": 0.1579,
+            "PERSONAL IDENTITY": 0.3657,
+            "Marital Status": 0.372,
+            "Unmarried": 0.5442,
+            "Language Know": 0.2348,
+            "Hindi": 0.6365,
+            "English": 0.6543,
+            "Hobbies": 0.2593,
+            "Listening Music": 0.1879
+        },
+        "filename": "cv (2504)_annotated.json"
+    }
+}

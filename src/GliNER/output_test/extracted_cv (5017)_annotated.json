@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "data science",
+        "machine, learning",
+        "Data Analysis",
+        "Data Mining",
+        "Data Modeling",
+        "Data Processing",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Artificial, Intelligence",
+        "Statistics",
+        "SQL",
+        "Tableau",
+        "PowerBI",
+        "Power BI"
+    ],
+    "professional_info": {
+        "person name": [
+            "Willfred Dixon"
+        ],
+        "job title": [
+            "ASSOCIATE",
+            "DATA ANALYST",
+            "Executive Profile",
+            "TUC"
+        ],
+        "company": [
+            "IBM",
+            "company"
+        ],
+        "university": [
+            "Bhimrao Sen College"
+        ],
+        "degree": [
+            "BCA"
+        ],
+        "years of experience": [],
+        "address": [
+            "Jharkhand"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "data science": 0.4729,
+            "machine, learning": 0.2007,
+            "Data Analysis": 0.6253,
+            "Data Mining": 0.6879,
+            "Data Modeling": 0.64,
+            "Data Processing": 0.6266,
+            "Machine Learning": 0.9587,
+            "Natural Language Processing": 0.6846,
+            "Artificial, Intelligence": 0.1632,
+            "Statistics": 0.4992,
+            "SQL": 0.7842,
+            "Tableau": 0.4829,
+            "PowerBI": 0.3607,
+            "Power BI": 0.3708
+        },
+        "filename": "cv (5017)_annotated.json"
+    }
+}

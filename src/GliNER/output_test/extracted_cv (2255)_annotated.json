@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "Production Operation",
+        "general preparedness",
+        "MOB.NO",
+        "Production and Maintenance",
+        "XIIthH.P BOARD",
+        "XthH.P BOARD",
+        "yarn availability"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sumit",
+            "Thakur",
+            "SUMIT THAKUR",
+            "VILL",
+            "SUNDERNAGAR",
+            "ADARSH SHISHU"
+        ],
+        "job title": [
+            "manager",
+            "Knitting Manufacturing"
+        ],
+        "company": [
+            "M/s Arvind Mill",
+            "M/s. Arvind Mill",
+            "M/s. Fashion gauge knitwear Industries"
+        ],
+        "university": [
+            "University",
+            "HIMTU J.N.G.E.C"
+        ],
+        "degree": [
+            "B. Tech"
+        ],
+        "years of experience": [],
+        "address": [
+            "Vaibhavi infrastructure",
+            "D-401",
+            "Ahmedabad 380001",
+            "School"
+        ],
+        "email": [
+            "E-mail",
+            "samthakur1991786@gmail.com",
+            "+91  8263945440",
+            "+917016624374"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Production Operation": 0.3338,
+            "general preparedness": 0.1518,
+            "MOB.NO": 0.1872,
+            "Production and Maintenance": 0.3207,
+            "XIIthH.P BOARD": 0.1837,
+            "XthH.P BOARD": 0.1675,
+            "yarn availability": 0.1647
+        },
+        "filename": "cv (2255)_annotated.json"
+    }
+}

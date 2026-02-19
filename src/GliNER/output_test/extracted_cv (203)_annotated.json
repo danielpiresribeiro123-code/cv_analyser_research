@@ -1,0 +1,97 @@
+{
+    "skills": [
+        "ACADEMIC EXCELLENCE",
+        "cgpa",
+        "Auto",
+        "PERSONAL PURSUIT",
+        "Automobile field",
+        "Self-confident and Self-motivated",
+        "Communication Skill",
+        "Automobile sa fety",
+        "Moto Sports Engineering",
+        "Trouble shooting",
+        "Customer management",
+        "Strength",
+        "Quick learner",
+        "good grasping ability",
+        "Action -oriented and result -focused",
+        "Hardworking",
+        "EXTRA CURRICULAR ACTIVITY",
+        "Build CATERARM  car model for display",
+        "Design and Development of ON -ROAD TWO SEATER SPORTS CAR",
+        "Mid-Engine set up with independent double A -arm",
+        "Push -rod suspension",
+        "eco -skeleton  structure",
+        "Race C ars",
+        "Male",
+        "Travelling",
+        "Reading",
+        "Marital"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMED SUBAIR.S",
+            "Mohamed Sub air.S",
+            "Suhaibudeen",
+            "Pathumuthu  Suhara"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "S.S.L.C",
+            "Bukhariya Matriculat ion Higher",
+            "State Board of",
+            "H.S.C",
+            "Bukhariya Matriculation Higher",
+            "Vels University"
+        ],
+        "degree": [
+            "B.E"
+        ],
+        "years of experience": [],
+        "address": [
+            "Chennai",
+            "HYUNDAI"
+        ],
+        "email": [
+            "mohamedsubair317@gmail.com",
+            "Contact"
+        ],
+        "phone": [
+            "+91 8608997736"
+        ]
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "ACADEMIC EXCELLENCE": 0.2448,
+            "cgpa": 0.2483,
+            "Auto": 0.1943,
+            "PERSONAL PURSUIT": 0.1923,
+            "Automobile field": 0.2069,
+            "Self-confident and Self-motivated": 0.3305,
+            "Communication Skill": 0.1641,
+            "Automobile sa fety": 0.2461,
+            "Moto Sports Engineering": 0.4272,
+            "Trouble shooting": 0.4932,
+            "Customer management": 0.4738,
+            "Strength": 0.3282,
+            "Quick learner": 0.4066,
+            "good grasping ability": 0.3757,
+            "Action -oriented and result -focused": 0.2251,
+            "Hardworking": 0.4132,
+            "EXTRA CURRICULAR ACTIVITY": 0.181,
+            "Build CATERARM  car model for display": 0.1752,
+            "Design and Development of ON -ROAD TWO SEATER SPORTS CAR": 0.2339,
+            "Mid-Engine set up with independent double A -arm": 0.28,
+            "Push -rod suspension": 0.2831,
+            "eco -skeleton  structure": 0.2896,
+            "Race C ars": 0.2299,
+            "Male": 0.2498,
+            "Travelling": 0.2452,
+            "Reading": 0.249,
+            "Marital": 0.1536
+        },
+        "filename": "cv (203)_annotated.json"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "Management concentration",
+        "Financial Management"
+    ],
+    "professional_info": {
+        "person name": [
+            "JOSE IGNACIO DE OTEYZA"
+        ],
+        "job title": [
+            "Vice President of  Sloan Club Latino",
+            "Member of Finance Club",
+            "Consultant",
+            "Business Analyst",
+            "Core member of the team"
+        ],
+        "company": [
+            "MANHATTAN BANK",
+            "Global Power Group",
+            "Latin America utility company",
+            "Latin American gas company",
+            "International Fixed Income Group",
+            "Latin American Telecom company",
+            "third largest commercial bank in Venezuela",
+            "largest Venezuelan automobile and machinery retailer company",
+            "bankrupted coating corporation"
+        ],
+        "university": [
+            "mit.edu",
+            "SLOAN SCHOOL OF MANAGEMENT"
+        ],
+        "degree": [
+            "MBA",
+            "Bachelor of Arts in Economics"
+        ],
+        "years of experience": [],
+        "address": [
+            "931 Massachusetts Avenue",
+            "Apt. 505",
+            "Cambridge, MA",
+            "02139"
+        ],
+        "email": [
+            "(617) 864-0417",
+            "e-mail"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "Management concentration": 0.4053,
+            "Financial Management": 0.8186
+        },
+        "filename": "cv (1202)_annotated.json"
+    }
+}

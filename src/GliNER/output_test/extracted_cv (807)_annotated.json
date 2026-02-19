@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "Elle",
+        "Glamour",
+        "Glamour - UK",
+        "Grazia",
+        "Harper's & Queen",
+        "Harper’s Bazaar"
+    ],
+    "professional_info": {
+        "person name": [
+            "Aisha Tyler",
+            "Angela Kinsey",
+            "Brooke Burke",
+            "Christina Aquilera",
+            "Chynna Phillips",
+            "Edie Falco",
+            "Elle Macpherson",
+            "Hilary Duff",
+            "Howard Stern",
+            "Jennifer Esposito",
+            "Jill Hennessey",
+            "Josie Maran",
+            "Lauren Ambrose",
+            "Madeleine Stowe",
+            "Madonna",
+            "Marcia Gay Harden",
+            "Maria Shriver",
+            "Marin Mazzie",
+            "Molly Sims",
+            "Patricia Heaton",
+            "Peggy Lipton",
+            "Penelope Ann Miller",
+            "Petra Nemcova",
+            "Sara Ramirez",
+            "Hillary Clinton",
+            "Stacy Keibler",
+            "Talisa Soto"
+        ],
+        "job title": [
+            "Hairstylist"
+        ],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Elle": 0.1757,
+            "Glamour": 0.1511,
+            "Glamour - UK": 0.2024,
+            "Grazia": 0.1505,
+            "Harper's & Queen": 0.1583,
+            "Harper’s Bazaar": 0.1745
+        },
+        "filename": "cv (807)_annotated.json"
+    }
+}

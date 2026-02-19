@@ -1,0 +1,96 @@
+{
+    "skills": [
+        "Result -oriented",
+        "adaptable",
+        "self -motivated",
+        "ardent  learner",
+        "team leading capabilities",
+        "compe titive oral and written communication skills",
+        "C areer oriented",
+        "financial  & FMCG Retail  sector",
+        "Sales",
+        "Marketing",
+        "C ommunication",
+        "Business Development",
+        "Team Manag ement",
+        "Heav y Machinery,  Equipment & Commercial Vehicle Finance",
+        "Business Loans",
+        "Trade Facilities",
+        "Business Credit Cards",
+        "Corporate & Individual Liability  Sourcing",
+        "Portfolio Management",
+        "Market Research",
+        "money laundering",
+        "bank  compliance guidelines",
+        "best  practices",
+        "SME & Commercial Finance",
+        "GFC",
+        "product development",
+        "credit policy",
+        "market feedback"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHITH KRISHNAN"
+        ],
+        "job title": [
+            "management professional",
+            "Business Banker",
+            "Manager Direct Sales",
+            "Senior Sales Officers",
+            "Sales Officers"
+        ],
+        "company": [
+            "Mashreq Bank",
+            "RBG Gulf Finance Co rporation PJSC"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "8+ years"
+        ],
+        "address": [],
+        "email": [
+            "gmail.com"
+        ],
+        "phone": [
+            "+971 56 3186777",
+            "Tel",
+            "+971 -2-6431962"
+        ]
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "Result -oriented": 0.419,
+            "adaptable": 0.4768,
+            "self -motivated": 0.354,
+            "ardent  learner": 0.4394,
+            "team leading capabilities": 0.4683,
+            "compe titive oral and written communication skills": 0.3636,
+            "C areer oriented": 0.3832,
+            "financial  & FMCG Retail  sector": 0.1518,
+            "Sales": 0.2353,
+            "Marketing": 0.3011,
+            "C ommunication": 0.183,
+            "Business Development": 0.416,
+            "Team Manag ement": 0.1504,
+            "Heav y Machinery,  Equipment & Commercial Vehicle Finance": 0.2559,
+            "Business Loans": 0.5927,
+            "Trade Facilities": 0.5619,
+            "Business Credit Cards": 0.5553,
+            "Corporate & Individual Liability  Sourcing": 0.61,
+            "Portfolio Management": 0.5475,
+            "Market Research": 0.4511,
+            "money laundering": 0.3099,
+            "bank  compliance guidelines": 0.1699,
+            "best  practices": 0.1807,
+            "SME & Commercial Finance": 0.2925,
+            "GFC": 0.1587,
+            "product development": 0.3105,
+            "credit policy": 0.1813,
+            "market feedback": 0.217
+        },
+        "filename": "cv (1182)_annotated.json"
+    }
+}

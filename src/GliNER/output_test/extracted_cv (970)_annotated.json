@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "Area of Special Interest",
+        "Computer Assisted and Conventional Total Knee Replacement",
+        "Hip Replacement",
+        "Knee Arthroscopic Surgery",
+        "Complex Trauma",
+        "Research in Arthroplasty and Arthroscopy SurgeryProfessional"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dr.Vijay Kumar Sohanlal",
+            "Dr.Anthony Spriggins",
+            "Dr.Roger Patterson",
+            "Dr.Arun Mullaji"
+        ],
+        "job title": [
+            "Consultant Joint Replacement and Orthopaedic Surgeon",
+            "Fellow Director",
+            "Assistant Professor",
+            "Registrar"
+        ],
+        "company": [
+            "Fortis Malar Hospital",
+            "SPORTSMED - SA      Adelaide",
+            "Breach Candy Hospital"
+        ],
+        "university": [
+            "Sri Ramachandra University",
+            "Sri Ramachandra Medical College & Research Institute",
+            "Mysore University",
+            "Adichunchana Giri Institute Of Medical Sciences",
+            "SRM Medical College And Research       Centre"
+        ],
+        "degree": [
+            "M.B.B.S",
+            "Masters in Orthopaedic Surgery",
+            "Post Graduation",
+            "Fellowship-     Adult Arthroplasty and Reconstructive       SurgeryFellow Director",
+            "Fellowship -     Adult Knee and Hip ArthroplastyFellow Director"
+        ],
+        "years of experience": [
+            "April 2007",
+            "April 2002"
+        ],
+        "address": [
+            "Arihant Vaikunt Apartment",
+            "Block 1",
+            "Flat 3A",
+            "123 - 125A Bricklin Road",
+            "Purasawalkam",
+            "Potheri"
+        ],
+        "email": [
+            "E-mail",
+            "vijay.saklecha@gmail.com"
+        ],
+        "phone": [
+            "+91 98401 93315"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Area of Special Interest": 0.2153,
+            "Computer Assisted and Conventional Total Knee Replacement": 0.6686,
+            "Hip Replacement": 0.332,
+            "Knee Arthroscopic Surgery": 0.3729,
+            "Complex Trauma": 0.5171,
+            "Research in Arthroplasty and Arthroscopy SurgeryProfessional": 0.303
+        },
+        "filename": "cv (970)_annotated.json"
+    }
+}

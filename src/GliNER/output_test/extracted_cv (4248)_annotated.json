@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "Information Technology Management",
+        "multiple certifications",
+        "planning",
+        "peripherals",
+        "Detail-oriented and decisive",
+        "communication and leadership skills",
+        "Expertise",
+        "Network Engineering",
+        "Helpdesk Administration",
+        "Software Licensing",
+        "Disaster Recovery",
+        "Strategic Planning/Analysis",
+        "TeamBuilding/Training",
+        "Quality Assurance",
+        "Troubleshooting",
+        "Problem Solving",
+        "Process Improvement",
+        "application database",
+        "office technologies",
+        "information systems",
+        "anti-spam/anti- virus servers",
+        "hardware and software",
+        "LAN/WAN infrastructure",
+        "security",
+        "enterprise backup solution"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INFORMATION TECHNOLOGY MANAGER"
+        ],
+        "company": [
+            "Company Name",
+            "A bankruptcy Trustee office"
+        ],
+        "university": [],
+        "degree": [
+            "Masters of Science degree"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "email"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "Information Technology Management": 0.4439,
+            "multiple certifications": 0.8451,
+            "planning": 0.1685,
+            "peripherals": 0.2206,
+            "Detail-oriented and decisive": 0.3713,
+            "communication and leadership skills": 0.4435,
+            "Expertise": 0.2408,
+            "Network Engineering": 0.4794,
+            "Helpdesk Administration": 0.3423,
+            "Software Licensing": 0.2734,
+            "Disaster Recovery": 0.1817,
+            "Strategic Planning/Analysis": 0.2359,
+            "TeamBuilding/Training": 0.1537,
+            "Quality Assurance": 0.3108,
+            "Troubleshooting": 0.244,
+            "Problem Solving": 0.2068,
+            "Process Improvement": 0.1756,
+            "application database": 0.387,
+            "office technologies": 0.216,
+            "information systems": 0.3296,
+            "anti-spam/anti- virus servers": 0.3185,
+            "hardware and software": 0.1919,
+            "LAN/WAN infrastructure": 0.1768,
+            "security": 0.1594,
+            "enterprise backup solution": 0.1679
+        },
+        "filename": "cv (4248)_annotated.json"
+    }
+}

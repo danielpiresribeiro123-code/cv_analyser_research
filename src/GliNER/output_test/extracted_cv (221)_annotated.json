@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "Confident and Determined",
+        "Ability to cope up with different situations",
+        "AREA OF INTEREST",
+        "Automobile",
+        "Manufacturing Science",
+        "Mechanics",
+        "Internet Browsing & Surfing",
+        "English & Hindi",
+        "Single"
+    ],
+    "professional_info": {
+        "person name": [
+            "ANIL KUMAR KUSHAWAHA",
+            "Mr. Bishun Kushawaha"
+        ],
+        "job title": [
+            "Production Engineer"
+        ],
+        "company": [
+            "Sandhu Technocrats Pvt. Ltd.",
+            "VIDEOCON INDUSTRIES LIMITED",
+            "Indian /  Hindu"
+        ],
+        "university": [
+            "Uttar Pradesh Technical University",
+            "Intermediate UP Board",
+            "High School UP Board"
+        ],
+        "degree": [
+            "B.Tech (Mechanical)",
+            "Syringe Actuated  Robotic Arm",
+            "B.Tech.   ( Mechanical, Engineering)"
+        ],
+        "years of experience": [
+            "One Month"
+        ],
+        "address": [
+            "Vigyan Nagar",
+            "Vill+Post - Pipara Mustakil Agarawa",
+            "PIN  - 274409"
+        ],
+        "email": [
+            "+91-9793755252",
+            "E-mail",
+            "anilk3286@gmail.comINTERPERSONAL"
+        ],
+        "phone": [
+            "Contact No."
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Confident and Determined": 0.3036,
+            "Ability to cope up with different situations": 0.2484,
+            "AREA OF INTEREST": 0.3426,
+            "Automobile": 0.219,
+            "Manufacturing Science": 0.408,
+            "Mechanics": 0.3407,
+            "Internet Browsing & Surfing": 0.1716,
+            "English & Hindi": 0.5692,
+            "Single": 0.3256
+        },
+        "filename": "cv (221)_annotated.json"
+    }
+}

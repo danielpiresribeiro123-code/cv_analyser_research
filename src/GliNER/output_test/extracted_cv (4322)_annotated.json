@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Information Systems and Networking",
+        "software",
+        "security",
+        "Windows",
+        "DHCP server",
+        "Domain Controllers",
+        "active directory",
+        "layer 3 thru 5 switches",
+        "ghost server",
+        "KBOX server",
+        "smart board",
+        "license server",
+        "intermapper",
+        "virtual machines",
+        "Polycom qdx 6000",
+        "Tandberg"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INFORMATION TECHNOLOGY SPECIALIST",
+            "users",
+            "company users",
+            "Computer Technical Specialist",
+            "Faculty and Staff",
+            "network Administrators"
+        ],
+        "company": [
+            "Company Name",
+            "company",
+            "vendors"
+        ],
+        "university": [
+            "McIntosh",
+            "school of Engineering and applied science"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "e-mail accounts",
+            "PDA s"
+        ],
+        "phone": [
+            "android phones"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Information Systems and Networking": 0.2222,
+            "software": 0.3372,
+            "security": 0.1701,
+            "Windows": 0.9726,
+            "DHCP server": 0.3035,
+            "Domain Controllers": 0.3195,
+            "active directory": 0.4266,
+            "layer 3 thru 5 switches": 0.3724,
+            "ghost server": 0.2799,
+            "KBOX server": 0.3276,
+            "smart board": 0.2218,
+            "license server": 0.1556,
+            "intermapper": 0.364,
+            "virtual machines": 0.259,
+            "Polycom qdx 6000": 0.4122,
+            "Tandberg": 0.242
+        },
+        "filename": "cv (4322)_annotated.json"
+    }
+}

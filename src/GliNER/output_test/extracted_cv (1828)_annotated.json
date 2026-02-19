@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "AUTO CADD",
+        "HDCA",
+        "Windows 7",
+        "Windows 8 .1",
+        "Windows10",
+        "MS Word",
+        "MS Excel",
+        "power point",
+        "Proteus",
+        "Basic C & C++",
+        "Java",
+        "PROJECT TITTLE",
+        "Single Axis Solar Panel Tracking System (diploma)",
+        "ELECTRICAL CADD",
+        "PLC SCADA",
+        "PCB Design",
+        "Electrical Machines",
+        "Willingness  to learn new things",
+        "Capability of working hard"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohamed sathak",
+            "MOHAMED BADUSHA N",
+            "FATHER’S NAM E",
+            "NAINA   MOH AMED M P"
+        ],
+        "job title": [
+            "Team worker"
+        ],
+        "company": [],
+        "university": [
+            "engineering college",
+            "ANNA",
+            "UNIVERSITY",
+            "POLYTECHNIC COLLEGE",
+            "DOTE",
+            "S.S.L.C",
+            "ISLAMIAH MATRICULATION",
+            "HIGHER SECONDARY",
+            "STATE BOARD"
+        ],
+        "degree": [
+            "B.E",
+            "DIPLOMA"
+        ],
+        "years of experience": [],
+        "address": [
+            "9/8A",
+            "AADARUTHAN STREET"
+        ],
+        "email": [
+            "EMAIL ID",
+            "badushah63 @gmail.com"
+        ],
+        "phone": [
+            "MOBILE NO",
+            "+91 9944866891"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "AUTO CADD": 0.3795,
+            "HDCA": 0.4084,
+            "Windows 7": 0.9597,
+            "Windows 8 .1": 0.9401,
+            "Windows10": 0.8024,
+            "MS Word": 0.4754,
+            "MS Excel": 0.4152,
+            "power point": 0.3996,
+            "Proteus": 0.2416,
+            "Basic C & C++": 0.6202,
+            "Java": 0.8221,
+            "PROJECT TITTLE": 0.4057,
+            "Single Axis Solar Panel Tracking System (diploma)": 0.3204,
+            "ELECTRICAL CADD": 0.2864,
+            "PLC SCADA": 0.354,
+            "PCB Design": 0.2248,
+            "Electrical Machines": 0.2426,
+            "Willingness  to learn new things": 0.1502,
+            "Capability of working hard": 0.1526
+        },
+        "filename": "cv (1828)_annotated.json"
+    }
+}

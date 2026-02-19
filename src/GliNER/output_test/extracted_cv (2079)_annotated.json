@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "M.E",
+        "Communication",
+        "ECE",
+        "Engineering",
+        "REVERSIBLE DATA HIDING IN ENCRYPTED IMAGES",
+        "Skills",
+        "Design",
+        "Matlab",
+        "Windows 2007",
+        "Internet",
+        "Reversible  data  hiding",
+        "RDH",
+        "DIPLOMA",
+        "Hardware and Networking"
+    ],
+    "professional_info": {
+        "person name": [
+            "MANJU MERIN KOSHY"
+        ],
+        "job title": [
+            "committed & dedicated people",
+            "key player",
+            "lecturer"
+        ],
+        "company": [
+            "leading corporate",
+            "secondry Education200880",
+            "secondry education200675Current"
+        ],
+        "university": [
+            "Degree College University/BoardYear of",
+            "St.Xavier`s catholic",
+            "College of EngineeringAnna University",
+            "Musaliar college of",
+            "TechnologyMG university",
+            "ThiruvallaCentral board of",
+            "MavelikaraIndian council of",
+            "Archana College of"
+        ],
+        "degree": [
+            "B.TECH",
+            "Matlab"
+        ],
+        "years of experience": [
+            "1 year"
+        ],
+        "address": [
+            "Kunchattil House",
+            "Thazhakara p.o",
+            "Mavelikara              Mobile No.",
+            "NO:9495352563",
+            "Pin-690102"
+        ],
+        "email": [
+            "merin.koshy5@gmail.com"
+        ],
+        "phone": [
+            "Alappuzha District                                                    Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "M.E": 0.6301,
+            "Communication": 0.282,
+            "ECE": 0.4198,
+            "Engineering": 0.2436,
+            "REVERSIBLE DATA HIDING IN ENCRYPTED IMAGES": 0.4203,
+            "Skills": 0.1536,
+            "Design": 0.4402,
+            "Matlab": 0.3511,
+            "Windows 2007": 0.9595,
+            "Internet": 0.7579,
+            "Reversible  data  hiding": 0.6418,
+            "RDH": 0.2389,
+            "DIPLOMA": 0.6196,
+            "Hardware and Networking": 0.2308
+        },
+        "filename": "cv (2079)_annotated.json"
+    }
+}

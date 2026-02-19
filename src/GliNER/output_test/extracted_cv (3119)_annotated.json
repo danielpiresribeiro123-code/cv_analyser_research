@@ -1,0 +1,102 @@
+{
+    "skills": [
+        "Mechanical Engineering",
+        "Intermediate in Science",
+        "Matriculation",
+        "PG Diploma",
+        "Industrial  Process  Plant  Robotics Automation",
+        "PGDIPPRA",
+        "Industrial Automation Tools",
+        "PLC",
+        "DCS",
+        "SCADA",
+        "VFD",
+        "TECHNICAL SKILLS",
+        "DCS",
+        "Programming  languages",
+        "LD  (Ladder  Diagram)",
+        "FBD (Functional  Block Diagram)",
+        "SCADA",
+        "PC  &  PLC interface",
+        "HMI",
+        "Human Machine Interface",
+        "DCS interface",
+        "Pressure Switches",
+        "GSM modem",
+        "Knowledge in Panel wiring",
+        "PID"
+    ],
+    "professional_info": {
+        "person name": [
+            "BHAGWAN SAHAY BAIRWA"
+        ],
+        "job title": [],
+        "company": [
+            "B.N. Joshi Government Senior Secondary School",
+            "Technocrat  Automation  Pvt.  Limited",
+            "Siemens",
+            "AB (Allen Bradley)",
+            "ABB",
+            "Schneider",
+            "GE-Fanuc",
+            "Keyence",
+            "Omron",
+            "Messung",
+            "Mitsubishi",
+            "Delta"
+        ],
+        "university": [
+            "Government Engineering College",
+            "RTU",
+            "RBSE"
+        ],
+        "degree": [
+            "Bachelor of Technology (Mechanical Engineering)",
+            "IAO  Accredited"
+        ],
+        "years of experience": [
+            "1  year hands on practical experience"
+        ],
+        "address": [
+            "Kota",
+            "Chennai"
+        ],
+        "email": [
+            "Email",
+            "bhagwansahayb1@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-8003449288/8562836987"
+        ]
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "Mechanical Engineering": 0.3949,
+            "Intermediate in Science": 0.2031,
+            "Matriculation": 0.1742,
+            "PG Diploma": 0.3882,
+            "Industrial  Process  Plant  Robotics Automation": 0.2317,
+            "PGDIPPRA": 0.2309,
+            "Industrial Automation Tools": 0.6059,
+            "PLC": 0.204,
+            "DCS": 0.1817,
+            "SCADA": 0.2223,
+            "VFD": 0.3721,
+            "TECHNICAL SKILLS": 0.2929,
+            "Programming  languages": 0.2448,
+            "LD  (Ladder  Diagram)": 0.4159,
+            "FBD (Functional  Block Diagram)": 0.3808,
+            "PC  &  PLC interface": 0.2207,
+            "HMI": 0.5605,
+            "Human Machine Interface": 0.1732,
+            "DCS interface": 0.2084,
+            "Pressure Switches": 0.2008,
+            "GSM modem": 0.2078,
+            "Knowledge in Panel wiring": 0.2817,
+            "PID": 0.1931
+        },
+        "filename": "cv (3119)_annotated.json"
+    }
+}

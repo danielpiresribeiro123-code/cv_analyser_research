@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "technical and personal skills",
+        "telecom management system",
+        "employee supervision",
+        "work planning",
+        "PPM schedules"
+    ],
+    "professional_info": {
+        "person name": [
+            "Shahbaz Khurram"
+        ],
+        "job title": [
+            "dynamic professional",
+            "service and  maintenance Engineer",
+            "Service and Maintenance Engineer",
+            "Engineer- Service & Maintenance Accountabilities",
+            "Engineer- Maintenance Accountabilities"
+        ],
+        "company": [
+            "M/s Harpy core network India private Ltd.",
+            "M/s Harpy core network India private limited company",
+            "AMCO SAFT India limited",
+            "RELIANCE JIO",
+            "LTE Project",
+            "M/s Harpy Core Network India Pvt. Ltd",
+            "M/s East India Technology Pvt. Ltd"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "3.1 years experience"
+        ],
+        "address": [
+            "Jalandhar"
+        ],
+        "email": [
+            "E-Mail",
+            "gmail.com"
+        ],
+        "phone": [
+            "+91-7880975397"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "technical and personal skills": 0.218,
+            "telecom management system": 0.2045,
+            "employee supervision": 0.1692,
+            "work planning": 0.1847,
+            "PPM schedules": 0.2313
+        },
+        "filename": "cv (294)_annotated.json"
+    }
+}

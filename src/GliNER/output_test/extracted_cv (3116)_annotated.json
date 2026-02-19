@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "technical  and  managerial  competencies",
+        "ISO requirements",
+        "technical knowledge"
+    ],
+    "professional_info": {
+        "person name": [
+            "SRINIVASAN"
+        ],
+        "job title": [
+            "Molding Foreman / Team Lead",
+            "Mechanical Trainee Apprentice",
+            "Die cast operator",
+            "Molding Foreman",
+            "Team lead"
+        ],
+        "company": [
+            "Abu Dhabi Carnation Metal Industries Est",
+            "Fenner India Ltd",
+            "KLN Polytechnic College",
+            "SSLC",
+            "Ambika Matric Higher Sec School"
+        ],
+        "university": [],
+        "degree": [
+            "Diploma (Mechanical Engineering)"
+        ],
+        "years of experience": [
+            "8 years of experience"
+        ],
+        "address": [
+            "No: 19",
+            "Ondi muthu mastri lane",
+            "South Veli Street",
+            "Madurai-625001"
+        ],
+        "email": [
+            "E-mail",
+            "srini21uae@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-8220479434"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "technical  and  managerial  competencies": 0.3332,
+            "ISO requirements": 0.3095,
+            "technical knowledge": 0.1996
+        },
+        "filename": "cv (3116)_annotated.json"
+    }
+}

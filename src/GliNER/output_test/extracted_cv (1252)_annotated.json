@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "CAREER OBJECTIVE",
+        "clear objective",
+        "team player",
+        "leadership quality",
+        "focus on the area and /or  scope of work",
+        "HANDLING CORE RESPONSIBILITIES",
+        "Branch Targets",
+        "Business objectives",
+        "Complaints Handling"
+    ],
+    "professional_info": {
+        "person name": [
+            "JAVED SOLANKI",
+            "javed4uforever",
+            "javedsolanki",
+            "I"
+        ],
+        "job title": [],
+        "company": [
+            "yahoo",
+            "rediffmailcom"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Ambamata Road",
+            "PALGHAR (W)",
+            "Dist. Thane",
+            "Pin- 401404. India"
+        ],
+        "email": [
+            "javed4uforever@yahoo.com"
+        ],
+        "phone": [
+            "Cell",
+            "08898308434",
+            "8898308434"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "CAREER OBJECTIVE": 0.352,
+            "clear objective": 0.1718,
+            "team player": 0.4476,
+            "leadership quality": 0.5868,
+            "focus on the area and /or  scope of work": 0.2549,
+            "HANDLING CORE RESPONSIBILITIES": 0.1552,
+            "Branch Targets": 0.3017,
+            "Business objectives": 0.4547,
+            "Complaints Handling": 0.23
+        },
+        "filename": "cv (1252)_annotated.json"
+    }
+}

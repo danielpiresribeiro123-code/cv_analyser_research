@@ -1,0 +1,50 @@
+{
+    "skills": [
+        "Diploma in Electronics Communication Engineering"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Electrical Engineer",
+            "Electrical Site Engineer"
+        ],
+        "company": [
+            "Aluminium Smelter & Refinery(oil & Gas",
+            "State Board of Technical Education",
+            "Asura Construction",
+            "Carillion Qatar Building Company",
+            "Mandarin Oriental Hotel",
+            "Modern Centre Electrical & Sanitary LLC",
+            "MA’ADEN ALUMINIUM SMELTER  & REFINERY PROJECT (Saudi Arabia)",
+            "Nasser's Al Hajri Corporation",
+            "ETA M&E"
+        ],
+        "university": [
+            "Anna  University"
+        ],
+        "degree": [
+            "BE  in  Electrical  &  Electronics  Engineering"
+        ],
+        "years of experience": [
+            "5 Years",
+            "3 Years",
+            "8 Years",
+            "7  Years"
+        ],
+        "address": [],
+        "email": [
+            "aliahamedjak@gmail.com",
+            "+91 9566650280AHAMED ALI.J.A.K"
+        ],
+        "phone": [
+            "Mobile Number"
+        ]
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "Diploma in Electronics Communication Engineering": 0.6024
+        },
+        "filename": "cv (4089)_annotated.json"
+    }
+}

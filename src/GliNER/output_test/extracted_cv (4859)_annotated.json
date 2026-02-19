@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "PROFILE",
+        "Coercive and determined individual",
+        "Understanding",
+        "competency",
+        "Machine Learning",
+        "Cloud Architecture",
+        "Conversational AI",
+        "Natural Language",
+        "Processing",
+        "Transformers",
+        "HuggingFace",
+        "RNN",
+        "LSTM",
+        "GRU",
+        "EXPERIENCE",
+        "NLP",
+        "chatbot",
+        "on-website",
+        "Cloud Infrastructure",
+        "NPTELPROJECTS",
+        "correlation",
+        "BERT",
+        "Sentiment"
+    ],
+    "professional_info": {
+        "person name": [
+            "AMELIA BAKER"
+        ],
+        "job title": [
+            "Associate System Engineer Intern",
+            "SYSTEM ENGINEER"
+        ],
+        "company": [
+            "Tech Mahindra"
+        ],
+        "university": [
+            "SJU College"
+        ],
+        "degree": [
+            "B.Tech(ECE)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "PROFILE": 0.4066,
+            "Coercive and determined individual": 0.3597,
+            "Understanding": 0.2408,
+            "competency": 0.4483,
+            "Machine Learning": 0.3751,
+            "Cloud Architecture": 0.7667,
+            "Conversational AI": 0.3362,
+            "Natural Language": 0.7126,
+            "Processing": 0.3211,
+            "Transformers": 0.2952,
+            "HuggingFace": 0.4191,
+            "RNN": 0.8934,
+            "LSTM": 0.8462,
+            "GRU": 0.7557,
+            "EXPERIENCE": 0.3172,
+            "NLP": 0.1693,
+            "chatbot": 0.1875,
+            "on-website": 0.1857,
+            "Cloud Infrastructure": 0.796,
+            "NPTELPROJECTS": 0.2836,
+            "correlation": 0.1697,
+            "BERT": 0.4715,
+            "Sentiment": 0.1965
+        },
+        "filename": "cv (4859)_annotated.json"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "staffing",
+        "Brand development",
+        "Brand recognition optimization",
+        "Knowledge of market trends",
+        "Quality leadership",
+        "Operations management",
+        "Full service restaurant background",
+        "Hiring and training",
+        "Ability to handle fast-paced environment",
+        "methodology",
+        "website",
+        "social media"
+    ],
+    "professional_info": {
+        "person name": [
+            "DecisiveÂ",
+            "Current",
+            "Company Name"
+        ],
+        "job title": [
+            "MARKETING & PUBLIC RELATIONS MANAGER",
+            "Marketing Manager",
+            "Restaurant Manager"
+        ],
+        "company": [
+            "The ONE Group"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "email"
+        ],
+        "phone": [
+            "phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "staffing": 0.1553,
+            "Brand development": 0.4125,
+            "Brand recognition optimization": 0.3527,
+            "Knowledge of market trends": 0.2134,
+            "Quality leadership": 0.5201,
+            "Operations management": 0.5555,
+            "Full service restaurant background": 0.3545,
+            "Hiring and training": 0.2431,
+            "Ability to handle fast-paced environment": 0.2919,
+            "methodology": 0.4201,
+            "website": 0.4402,
+            "social media": 0.2112
+        },
+        "filename": "cv (4710)_annotated.json"
+    }
+}

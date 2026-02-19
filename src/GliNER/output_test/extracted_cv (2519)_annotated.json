@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "Expertise"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Turbine  Engineer",
+            "Executive -Mechanical Engineer",
+            "turbine operator"
+        ],
+        "company": [
+            "E.Saravanan S/o.D.Eliyavel",
+            "Thiyagarajer College of Engineering",
+            "K.S.R Polytechnic College",
+            "DOTE",
+            "M/s. Shandong Tiejun Electric Power Engineering Company Ltd.",
+            "M/s. Saraswathy India private Ltd.",
+            "Shree Ambika Sugars Limited (Power division)"
+        ],
+        "university": [
+            "Anna University"
+        ],
+        "degree": [
+            "B.E  MECHANICAL ENGINEERING",
+            "Diploma in Automobile Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "Mamoondy road",
+            "Health-sub-centre",
+            "Attayampatti (po)",
+            "Salem (Dt)-637501",
+            "Qingdao"
+        ],
+        "email": [
+            "Email",
+            "saravanane490@gmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "Expertise": 0.2193
+        },
+        "filename": "cv (2519)_annotated.json"
+    }
+}

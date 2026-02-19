@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Solutions-focused",
+        "versatile management professional",
+        "Effective communicator",
+        "certification",
+        "Microsoft Office Suit",
+        "Microsoft Word",
+        "Internet",
+        "Excel",
+        "Publisher",
+        "PERSONAL ATTRIBUTES",
+        "technical project management tools",
+        "plans",
+        "schedules",
+        "responsibility and compliance matrices",
+        "technical source data"
+    ],
+    "professional_info": {
+        "person name": [
+            "UNMANNED AVIATION TECHNICIAN SUPERVISOR",
+            "William Russ",
+            "Robert Jones"
+        ],
+        "job title": [
+            "Unmanned Aviation Systems Maintenance Controller",
+            "Unmanned Aviation Technician Supervisor",
+            "Production, Planning, and Expediting Clerk"
+        ],
+        "company": [
+            "Marine Cops",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "6 years",
+            "3 years"
+        ],
+        "address": [],
+        "email": [
+            "Outlook"
+        ],
+        "phone": [
+            "Tel",
+            "760.830.7097",
+            "910.467.4439"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Solutions-focused": 0.3144,
+            "versatile management professional": 0.3206,
+            "Effective communicator": 0.6727,
+            "certification": 0.76,
+            "Microsoft Office Suit": 0.8858,
+            "Microsoft Word": 0.6093,
+            "Internet": 0.3932,
+            "Excel": 0.461,
+            "Publisher": 0.4729,
+            "PERSONAL ATTRIBUTES": 0.3359,
+            "technical project management tools": 0.5086,
+            "plans": 0.2016,
+            "schedules": 0.2233,
+            "responsibility and compliance matrices": 0.3942,
+            "technical source data": 0.1989
+        },
+        "filename": "cv (4387)_annotated.json"
+    }
+}

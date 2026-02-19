@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "PERSONAL COMPETENCY",
+        "Excellent team worker",
+        "Interpersonal and communication skills",
+        "Electrical &",
+        "Engineering",
+        "COMPUTER SKILLS",
+        "basics of C",
+        "C++",
+        "MS office",
+        "Designin g Tools",
+        "Matlab",
+        "Windows XP",
+        "PROFICIENCY IN LANGUAGE",
+        "Language  Speak  Read  Write",
+        "English",
+        "Tamil",
+        "PERSONAL DETAIL S"
+    ],
+    "professional_info": {
+        "person name": [
+            "M. MOHAMED  MAHADHIR"
+        ],
+        "job title": [
+            "CAREER OBJECTIVE",
+            "challen ging position"
+        ],
+        "company": [],
+        "university": [
+            "INSTITUTION  UNIVERSITY",
+            "Ponnaiyah",
+            "Ramajay am Institute",
+            "PRIST",
+            "University",
+            "State Board of"
+        ],
+        "degree": [
+            "PASSING  AGGREGATE",
+            "B.TECH",
+            "HSC  Veludayar Higher",
+            "SSLC  Veludayar Higher"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "mohamedmahathir861@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 -8675842994"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "PERSONAL COMPETENCY": 0.4134,
+            "Excellent team worker": 0.5588,
+            "Interpersonal and communication skills": 0.3657,
+            "Electrical &": 0.1648,
+            "Engineering": 0.2764,
+            "COMPUTER SKILLS": 0.2464,
+            "basics of C": 0.6868,
+            "C++": 0.8723,
+            "MS office": 0.8091,
+            "Designin g Tools": 0.6385,
+            "Matlab": 0.3646,
+            "Windows XP": 0.9517,
+            "PROFICIENCY IN LANGUAGE": 0.3032,
+            "Language  Speak  Read  Write": 0.258,
+            "English": 0.6461,
+            "Tamil": 0.5136,
+            "PERSONAL DETAIL S": 0.1676
+        },
+        "filename": "cv (2696)_annotated.json"
+    }
+}

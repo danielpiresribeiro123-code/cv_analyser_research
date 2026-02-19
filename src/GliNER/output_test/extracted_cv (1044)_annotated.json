@@ -1,0 +1,52 @@
+{
+    "skills": [
+        "platinum certification",
+        "Managed radio airplay tracking information system",
+        "gold certification"
+    ],
+    "professional_info": {
+        "person name": [
+            "WENDY B. MILLER"
+        ],
+        "job title": [
+            "Teaching Assistant",
+            "Sloan Student Senator",
+            "Psychology minor",
+            "SongCatcher Software Product Manager",
+            "Radio Promotion and Marketing Coordinator",
+            "CFO"
+        ],
+        "company": [
+            "distribution company",
+            "distribution companies"
+        ],
+        "university": [
+            "mit",
+            "SLOAN SCHOOL OF MANAGEMENT",
+            "Sloan",
+            "UNIVERSITY"
+        ],
+        "degree": [
+            "Masters in Business Administration",
+            "B.A."
+        ],
+        "years of experience": [],
+        "address": [
+            "6 Phillips St.",
+            "Boston, MA",
+            "02114",
+            "Cambridge, MA"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "platinum certification": 0.8884,
+            "Managed radio airplay tracking information system": 0.2013,
+            "gold certification": 0.8045
+        },
+        "filename": "cv (1044)_annotated.json"
+    }
+}

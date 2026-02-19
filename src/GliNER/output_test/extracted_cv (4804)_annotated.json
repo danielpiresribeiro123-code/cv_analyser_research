@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "operations",
+        "communications",
+        "media",
+        "public relations",
+        "creative and logical hybrid",
+        "enthusiasm and determination",
+        "creative content",
+        "social media platforms",
+        "Computer proficient",
+        "Windows",
+        "Adobe Photoshop",
+        "Cision",
+        "Vocus",
+        "Wikipedia page"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "PUBLIC RELATIONS MANAGER",
+            "Main media contact",
+            "Member of creative content team",
+            "Press AttachÃ"
+        ],
+        "company": [
+            "Apple",
+            "Company Name",
+            "company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "emails",
+            "press email address"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "operations": 0.2385,
+            "communications": 0.2225,
+            "media": 0.184,
+            "public relations": 0.2531,
+            "creative and logical hybrid": 0.1623,
+            "enthusiasm and determination": 0.1826,
+            "creative content": 0.177,
+            "social media platforms": 0.3736,
+            "Computer proficient": 0.3908,
+            "Windows": 0.6694,
+            "Adobe Photoshop": 0.6652,
+            "Cision": 0.4651,
+            "Vocus": 0.6145,
+            "Wikipedia page": 0.1521
+        },
+        "filename": "cv (4804)_annotated.json"
+    }
+}

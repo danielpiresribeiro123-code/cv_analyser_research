@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "productivity",
+        "Operations management",
+        "Project trackingÂ",
+        "Waterfall framework",
+        "Scrum methodology",
+        "Enterprise platforms",
+        "Salary structure/compensation analysis",
+        "Calm under pressure",
+        "Compensation/benefits administration",
+        "Staff development",
+        "Client communication",
+        "Experience",
+        "end-to-end customer experience",
+        "SaaS",
+        "product technical performance measures",
+        "VMware",
+        "Active Directory"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INFORMATION TECHNOLOGY MANAGER",
+            "Dedicated",
+            "IT Manager",
+            "IT Administrator"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "State",
+            "Chicago",
+            "Houston"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "productivity": 0.2455,
+            "Operations management": 0.3403,
+            "Project trackingÂ": 0.3082,
+            "Waterfall framework": 0.6585,
+            "Scrum methodology": 0.8346,
+            "Enterprise platforms": 0.3608,
+            "Salary structure/compensation analysis": 0.2866,
+            "Calm under pressure": 0.1696,
+            "Compensation/benefits administration": 0.2478,
+            "Staff development": 0.4183,
+            "Client communication": 0.2953,
+            "Experience": 0.2994,
+            "end-to-end customer experience": 0.2174,
+            "SaaS": 0.211,
+            "product technical performance measures": 0.166,
+            "VMware": 0.6036,
+            "Active Directory": 0.2952
+        },
+        "filename": "cv (4254)_annotated.json"
+    }
+}

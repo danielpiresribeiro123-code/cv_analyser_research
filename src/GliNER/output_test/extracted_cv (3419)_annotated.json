@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "Estimation or",
+        "competent",
+        "comprehensive knowledge",
+        "ISO 9001:2008"
+    ],
+    "professional_info": {
+        "person name": [
+            "P.MANOJ",
+            "S/O. S. Prabhakar"
+        ],
+        "job title": [
+            "Estimation or",
+            "Design Engineer",
+            "Design Engineering",
+            "Estimation Engineer",
+            "Engineer-Panel Design (Switchgear Industry)",
+            "Design Engineer (Switchgear Industry)"
+        ],
+        "company": [
+            "Eaton",
+            "Schneider",
+            "Electric",
+            "L&T",
+            "ABB",
+            "Siemens",
+            "Excel Metal Industries",
+            "Qatari German Switchgear Company W.L.L.",
+            "Baliga Lighting Equipments Pvt. Ltd.",
+            "Diplomat Switchgear",
+            "ISO",
+            "Hensel Electric India Pvt. Ltd.",
+            "Areva T&D India Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "2009 to 2011"
+        ],
+        "address": [
+            "Plot No: 172",
+            "Venkateshwara Nagar",
+            "1ST Street",
+            "Pozichalur",
+            "Chennai - 600 074"
+        ],
+        "email": [
+            "ymail.com"
+        ],
+        "phone": [
+            "Mob.no",
+            "+919566299790"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Estimation or": 0.2954,
+            "competent": 0.2155,
+            "comprehensive knowledge": 0.1994,
+            "ISO 9001:2008": 0.8114
+        },
+        "filename": "cv (3419)_annotated.json"
+    }
+}

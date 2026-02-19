@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "Financial Analysis",
+        "Investment Banking",
+        "Quality Operations",
+        "Fund Administration",
+        "Portfolio & Fund Accounting",
+        "Operations & Consulting",
+        "Expertise",
+        "Financial Management",
+        "Strategic Management",
+        "Private Banking",
+        "Fund Accounting",
+        "Option portfolios",
+        "Communication Skill",
+        "Operations Management",
+        "Process Management",
+        "Client Rela tionship Management",
+        "healthy business relations",
+        "Quality Management",
+        "quality management"
+    ],
+    "professional_info": {
+        "person name": [
+            "Jaison Vincent Pathilchira"
+        ],
+        "job title": [
+            "FINANCE MANAGEMENT PROFESSIONAL",
+            "Portfolio Administ ration",
+            "accomplished professional",
+            "Portfolio Managers"
+        ],
+        "company": [
+            "Blackrock Solutions",
+            "Wall Street Office",
+            "ePAM"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "experience of over 5 years"
+        ],
+        "address": [
+            "Muscat, Oman"
+        ],
+        "email": [
+            "E-Mail",
+            "jaison.vincent1389@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+968 93129561"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Financial Analysis": 0.1739,
+            "Investment Banking": 0.2155,
+            "Quality Operations": 0.1719,
+            "Fund Administration": 0.3054,
+            "Portfolio & Fund Accounting": 0.2832,
+            "Operations & Consulting": 0.3053,
+            "Expertise": 0.2234,
+            "Financial Management": 0.2735,
+            "Strategic Management": 0.3091,
+            "Private Banking": 0.1998,
+            "Fund Accounting": 0.3044,
+            "Option portfolios": 0.1728,
+            "Communication Skill": 0.3268,
+            "Operations Management": 0.4572,
+            "Process Management": 0.4099,
+            "Client Rela tionship Management": 0.3211,
+            "healthy business relations": 0.1691,
+            "Quality Management": 0.2984,
+            "quality management": 0.2822
+        },
+        "filename": "cv (1256)_annotated.json"
+    }
+}

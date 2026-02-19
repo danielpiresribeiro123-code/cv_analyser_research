@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "retail standards",
+        "X STANDARD",
+        "MS office",
+        "MS Dos",
+        "Tally",
+        "Kerridge",
+        "Excellent written and verbal skills",
+        "Good presentation skills",
+        "Able to work in team environment",
+        "good listener",
+        "Proficient communication skills",
+        "Ability to master new concepts, ideas"
+    ],
+    "professional_info": {
+        "person name": [
+            "ALWIN JOSEPH TAURO"
+        ],
+        "job title": [
+            "Product Consultant",
+            "Customer Advisor",
+            "Customer",
+            "Advisor-Sales"
+        ],
+        "company": [
+            "Towell Auto Center LLC",
+            "Mazda & Geely Cars",
+            "Peninsular Honda Car showroom Mangalore",
+            "Frontline AutoMobiles",
+            "St Aloyosius college Manglore",
+            "II PUC",
+            "Govt college Manglore",
+            "S .J.R.C.J.C Balehonnur"
+        ],
+        "university": [
+            "Sacred Heart College Madanthyar",
+            "manglore university"
+        ],
+        "degree": [
+            "B.com"
+        ],
+        "years of experience": [
+            "5 Years & 8 Months"
+        ],
+        "address": [],
+        "email": [
+            "emails",
+            "Alvi.rj7@gmail.com",
+            "+968 95189591",
+            "+91 8762936364"
+        ],
+        "phone": [
+            "telephone calls"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "retail standards": 0.1603,
+            "X STANDARD": 0.4569,
+            "MS office": 0.7193,
+            "MS Dos": 0.5338,
+            "Tally": 0.4283,
+            "Kerridge": 0.4344,
+            "Excellent written and verbal skills": 0.5739,
+            "Good presentation skills": 0.6285,
+            "Able to work in team environment": 0.288,
+            "good listener": 0.4058,
+            "Proficient communication skills": 0.565,
+            "Ability to master new concepts, ideas": 0.2991
+        },
+        "filename": "cv (1051)_annotated.json"
+    }
+}

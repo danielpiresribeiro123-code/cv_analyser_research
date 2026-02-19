@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "Construction Management",
+        "Planning",
+        "Billing",
+        "Structural & Steel Structural building",
+        "Pre-Fabricated  engineering",
+        "Pre-engineered  building",
+        "Project  Management",
+        "Construction Management",
+        "expertise",
+        "planning",
+        "construction  projects",
+        "Comprehensive knowledge",
+        "quality control",
+        "Excellent communication & interpersonal skills",
+        "team building",
+        "problem solving",
+        "organisational abilities"
+    ],
+    "professional_info": {
+        "person name": [
+            "SANJIV KUMAR SINHA"
+        ],
+        "job title": [
+            "dynamic professional",
+            "project  planner",
+            "Project Manager",
+            "Deputy Project Manager(Project )",
+            "Project Incharge",
+            "Site Engineer (Project)",
+            "Site Incharge",
+            "Site Engineer"
+        ],
+        "company": [
+            "growth oriented organization",
+            "BPTP Limited",
+            "Kalindee Rail Nirman(Engineers)  Ltd.",
+            "M/s BCC Promoter & Developers",
+            "V.R.C Construction (I) Pvt Ltd.",
+            "M.L.",
+            "M/s Supertech Construction (P) Ltd.",
+            "M/s Arora Construction (P) Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "19+Years"
+        ],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "sanjiv.sinha01@hotmail.com",
+            "sanjiv.sinha2016@gmail.com",
+            "sanjiv.sinha2016@gmail.comSkype"
+        ],
+        "phone": [
+            "Phone",
+            "+91-8800093211 (M)",
+            "+91-8447395299"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Construction Management": 0.5777,
+            "Planning": 0.3085,
+            "Billing": 0.3746,
+            "Structural & Steel Structural building": 0.4955,
+            "Pre-Fabricated  engineering": 0.4322,
+            "Pre-engineered  building": 0.3071,
+            "Project  Management": 0.5882,
+            "expertise": 0.2485,
+            "planning": 0.2671,
+            "construction  projects": 0.1502,
+            "Comprehensive knowledge": 0.2685,
+            "quality control": 0.3202,
+            "Excellent communication & interpersonal skills": 0.4596,
+            "team building": 0.2193,
+            "problem solving": 0.3082,
+            "organisational abilities": 0.2273
+        },
+        "filename": "cv (2873)_annotated.json"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "Education & Professional Certification",
+        "RAILWAY TRACK SECURITY SYSTEM",
+        "Ceiling Layout",
+        "Switchboard Layout",
+        "BOQ",
+        "BDV",
+        "Calibrator",
+        "HV Divider"
+    ],
+    "professional_info": {
+        "person name": [
+            "ROHIL PRAVIN PATEL"
+        ],
+        "job title": [
+            "DESIGN ENGINEER & SITE SUPERVISOR",
+            "TRAINEE ENGINEER"
+        ],
+        "company": [
+            "Luminous Electrical Engineers & Contractors",
+            "Institute for Design of Electrical Measuring Instruments -"
+        ],
+        "university": [
+            "Yadavrao Tasgaonkar Institute of Engineering & Technology",
+            "K J Somaiya Polytechnic",
+            "R N Gandhi High School",
+            "Tasgaonkar Institute of Engineering & Technology",
+            "K. J. Somaiya Polytechnic",
+            "Fr. C Rodrigues Institute of Technology"
+        ],
+        "degree": [
+            "BACHELOR OF ENGINEERING",
+            "Bachelor of Engineering  (Electrical Engineering)",
+            "Diploma  in Electrical Engineering",
+            "Matriculation (Science)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Vidyavihar",
+            "Ghatkopar",
+            "Sion"
+        ],
+        "email": [
+            "Email",
+            "rohil93patel@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 9819548576"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Education & Professional Certification": 0.803,
+            "RAILWAY TRACK SECURITY SYSTEM": 0.1706,
+            "Ceiling Layout": 0.1757,
+            "Switchboard Layout": 0.2258,
+            "BOQ": 0.1579,
+            "BDV": 0.2072,
+            "Calibrator": 0.1538,
+            "HV Divider": 0.2574
+        },
+        "filename": "cv (3207)_annotated.json"
+    }
+}

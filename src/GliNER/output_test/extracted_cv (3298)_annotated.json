@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "theoretical knowledge",
+        "structured framework",
+        "FinanceMinor",
+        "Marketing",
+        "General",
+        "Finance",
+        "MS Excel",
+        "SPSS Software",
+        "Hindi",
+        "English",
+        "Single"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ranjeet Singh",
+            "Mr. Gurmeet Singh"
+        ],
+        "job title": [
+            "Head Boy and House Captain"
+        ],
+        "company": [
+            "Business School",
+            "Bikanervala, Foods Pvt. Ltd."
+        ],
+        "university": [
+            "GGSIPU",
+            "CBSE"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "G-33 2nd Floor",
+            "Sant Nagar Ext.",
+            "New Delhi-110018"
+        ],
+        "email": [
+            "Email id",
+            "ranjeetmatharu.singh@gmail.com",
+            "Indian"
+        ],
+        "phone": [
+            "Contact",
+            "+91-9953154467",
+            "+91-9910113641"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "theoretical knowledge": 0.1799,
+            "structured framework": 0.396,
+            "FinanceMinor": 0.8284,
+            "Marketing": 0.8754,
+            "General": 0.3114,
+            "Finance": 0.4602,
+            "MS Excel": 0.5272,
+            "SPSS Software": 0.4004,
+            "Hindi": 0.8385,
+            "English": 0.8116,
+            "Single": 0.4062
+        },
+        "filename": "cv (3298)_annotated.json"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "Diligent",
+        "resourceful",
+        "qualified",
+        "pipe, structural fabrication and erection",
+        "high standards",
+        "logical",
+        "analytical skills",
+        "confidence",
+        "determination",
+        "focus",
+        "confidence",
+        "management",
+        "Effective technical skills",
+        "Problem-solving skills",
+        "Verbal and written communication skills",
+        "Commercial awareness",
+        "Team working skills",
+        "Time management",
+        "equipment",
+        "tools",
+        "construction methodologies",
+        "applicable standards or specifications"
+    ],
+    "professional_info": {
+        "person name": [
+            "MANU ABRAHAM"
+        ],
+        "job title": [
+            "MECHANICAL ENGINEER",
+            "Mechanical  engineer",
+            "Site Engineer",
+            "Project Manager"
+        ],
+        "company": [
+            "CAREER PROGRESSION Company",
+            "C B USMAN",
+            "Contractor",
+            "BPCL refinery"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "2 year experience"
+        ],
+        "address": [
+            "Address",
+            "ELAMPADATHU, MANJADITHARA, PALLICKAL P.O 690503"
+        ],
+        "email": [
+            "Email",
+            "manu.abraham19@gmail.com"
+        ],
+        "phone": [
+            "+ (91) 9656748541",
+            "Phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Diligent": 0.3092,
+            "resourceful": 0.2673,
+            "qualified": 0.251,
+            "pipe, structural fabrication and erection": 0.1848,
+            "high standards": 0.4113,
+            "logical": 0.1537,
+            "analytical skills": 0.4237,
+            "confidence": 0.1844,
+            "determination": 0.2065,
+            "focus": 0.2608,
+            "management": 0.1576,
+            "Effective technical skills": 0.5168,
+            "Problem-solving skills": 0.6051,
+            "Verbal and written communication skills": 0.1909,
+            "Commercial awareness": 0.1836,
+            "Team working skills": 0.2235,
+            "Time management": 0.1817,
+            "equipment": 0.1705,
+            "tools": 0.1668,
+            "construction methodologies": 0.4158,
+            "applicable standards or specifications": 0.2932
+        },
+        "filename": "cv (2698)_annotated.json"
+    }
+}

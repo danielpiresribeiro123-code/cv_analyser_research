@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "Biology",
+        "CERTIFICATION AND LICENSURE",
+        "BOARD CERTIFICATION"
+    ],
+    "professional_info": {
+        "person name": [
+            "BRUCE C. KNICKELBEIN"
+        ],
+        "job title": [
+            "D.P.M.",
+            "Surgical Resident",
+            "Diplomate",
+            "Fellow"
+        ],
+        "company": [
+            "Indiana Regional Medical Center",
+            "Indiana Ambulatory Surgical Associates",
+            "Podiatry Hospital of Pittsburgh",
+            "American Board of Podiatric Surgery",
+            "American Board of Podiatric Surgeons",
+            "American College of Foot and Ankle Surgeons",
+            "Pennsylvania Podiatry Association",
+            "American Podiatry Association"
+        ],
+        "university": [
+            "Temple University School of Podiatric Medicine",
+            "Indiana University of Pennsylvania"
+        ],
+        "degree": [
+            "Bachelor of Science"
+        ],
+        "years of experience": [
+            "Married"
+        ],
+        "address": [
+            "983 Philadelphia Street",
+            "Bethel Park"
+        ],
+        "email": [
+            "www.pacosm.com"
+        ],
+        "phone": [
+            "Office Phone",
+            "724.465.2676"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "Biology": 0.4049,
+            "CERTIFICATION AND LICENSURE": 0.6593,
+            "BOARD CERTIFICATION": 0.7184
+        },
+        "filename": "cv (1217)_annotated.json"
+    }
+}

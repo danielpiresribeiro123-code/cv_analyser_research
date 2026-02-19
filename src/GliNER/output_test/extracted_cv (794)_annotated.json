@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "VANDANA SHARMA",
+            "Mr. Gurpreet Singh"
+        ],
+        "job title": [
+            "senior financial Services Manager",
+            "financial manager",
+            "Senior  Financial Services Manager",
+            "CSM"
+        ],
+        "company": [
+            "ICICI Bank",
+            "INDUSIND Bank",
+            "ASHWANI Imports & Exports Ludhiana",
+            "RIMT  College",
+            "Punjab School Education Board",
+            "ICICI  bank",
+            "Ashwani Imports & exports"
+        ],
+        "university": [
+            "Punjab Technical University",
+            "Guru Nanak Dev  University"
+        ],
+        "degree": [
+            "Master in Business Administration",
+            "M.B.A) International  Business",
+            "Graduation B.com (Prof.)",
+            "Intermediate",
+            "Matriculation"
+        ],
+        "years of experience": [
+            "four years of experience",
+            "five months",
+            "Four Years"
+        ],
+        "address": [
+            "H.no 167"
+        ],
+        "email": [
+            "Email",
+            "vandanas46@yahoo"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 9988372542"
+        ]
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "English": 0.7523
+        },
+        "filename": "cv (794)_annotated.json"
+    }
+}

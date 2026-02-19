@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "Civil Engineering",
+        "Building Construction",
+        "Glass concrete",
+        "IT PROFICIENCY",
+        "Elementry knowledge",
+        "C",
+        "C++",
+        "Microsoft Office Applications",
+        "WINDOWS XP",
+        "VISTA",
+        "INTERPERSONAL SKILL",
+        "Excellent Communication",
+        "Confident",
+        "D etermined",
+        "Ability to co pe up with different situations",
+        "Language Known",
+        "English",
+        "Hindi",
+        "Unmarried",
+        "Internet Browsing",
+        "hard working person",
+        "positive attitude",
+        "commit ted",
+        "person",
+        "high self -esteem"
+    ],
+    "professional_info": {
+        "person name": [
+            "Shubh ashish Bhatt",
+            "Mr. U.S.Sharma"
+        ],
+        "job title": [
+            "Result Oriented Approach"
+        ],
+        "company": [
+            "Uttar Pradesh Rajkiya Nirman Nigam Ltd",
+            "NCC ltd.",
+            "Nagarjuna construction company"
+        ],
+        "university": [
+            "Babu Banarasi Das University"
+        ],
+        "degree": [
+            "B.Tech"
+        ],
+        "years of experience": [],
+        "address": [
+            "537 Bha/728",
+            "Bharat Nagar",
+            "Sitapur Road"
+        ],
+        "email": [
+            "Email",
+            "shubh .bhatt007 @gmail.com",
+            "Mob"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "Civil Engineering": 0.2289,
+            "Building Construction": 0.2761,
+            "Glass concrete": 0.3557,
+            "IT PROFICIENCY": 0.4013,
+            "Elementry knowledge": 0.2795,
+            "C": 0.7358,
+            "C++": 0.8402,
+            "Microsoft Office Applications": 0.5214,
+            "WINDOWS XP": 0.9252,
+            "VISTA": 0.4479,
+            "INTERPERSONAL SKILL": 0.2957,
+            "Excellent Communication": 0.2116,
+            "Confident": 0.307,
+            "D etermined": 0.1723,
+            "Ability to co pe up with different situations": 0.1934,
+            "Language Known": 0.1551,
+            "English": 0.7644,
+            "Hindi": 0.7041,
+            "Unmarried": 0.1786,
+            "Internet Browsing": 0.2584,
+            "hard working person": 0.4663,
+            "positive attitude": 0.1813,
+            "commit ted": 0.443,
+            "person": 0.1527,
+            "high self -esteem": 0.2866
+        },
+        "filename": "cv (48)_annotated.json"
+    }
+}

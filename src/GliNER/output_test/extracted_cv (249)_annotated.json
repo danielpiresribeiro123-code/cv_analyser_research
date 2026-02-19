@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "CIVIL ENGINEERING",
+        "FIRST CLASS",
+        "QUANTITY SURVEYING AND VALUATION",
+        "Auto CAD",
+        "3ds Max",
+        "Land Survey",
+        "Quantity Take Off",
+        "Desktop Publishing",
+        "Hardware Design",
+        "MS Office",
+        "Soil stabilization using Natural Admixtures",
+        "Analysis and Design of Shopping Complex",
+        "N4469844",
+        "Male",
+        "Indian Driving License"
+    ],
+    "professional_info": {
+        "person name": [
+            "M S MOHAMED IQBAL",
+            "M M MOHAMED ANAS"
+        ],
+        "job title": [
+            "Resident - Engineer",
+            "Civil Site Engineer"
+        ],
+        "company": [],
+        "university": [
+            "NATIONAL COLLEGE OF ENGINEERING",
+            "ANNAMALAI UNIVERSITY",
+            "DARUSSALAM HIGHER SECONDARY SCHOOL",
+            "Loyal Builders"
+        ],
+        "degree": [
+            "Bachelors of Engineering",
+            "PG",
+            "HSC",
+            "SSLC"
+        ],
+        "years of experience": [],
+        "address": [
+            "67/30,Attakkulam  Street",
+            "Kadayanallur Tk",
+            "English& Tamil"
+        ],
+        "email": [
+            "Mail ID",
+            "triplem1826@gmail.com",
+            "Contact No",
+            "+97450212172"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "CIVIL ENGINEERING": 0.3092,
+            "FIRST CLASS": 0.2344,
+            "QUANTITY SURVEYING AND VALUATION": 0.2717,
+            "Auto CAD": 0.3885,
+            "3ds Max": 0.4855,
+            "Land Survey": 0.1794,
+            "Quantity Take Off": 0.171,
+            "Desktop Publishing": 0.2926,
+            "Hardware Design": 0.3098,
+            "MS Office": 0.439,
+            "Soil stabilization using Natural Admixtures": 0.3334,
+            "Analysis and Design of Shopping Complex": 0.3874,
+            "N4469844": 0.151,
+            "Male": 0.171,
+            "Indian Driving License": 0.3596
+        },
+        "filename": "cv (249)_annotated.json"
+    }
+}

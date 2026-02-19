@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "Specialization",
+        "Electrical Engineering",
+        "functional ability",
+        "skills",
+        "potential",
+        "Electrical Dept",
+        "ISO/TS -2009 /16949"
+    ],
+    "professional_info": {
+        "person name": [
+            "AKASH N. LANGADE"
+        ],
+        "job title": [
+            "Project E ngineer /Maintenance Engineer"
+        ],
+        "company": [
+            "growth oriented professional organization",
+            "Automotive casting",
+            "Aluminum  Manufacturing",
+            "VARRON AUTO KAST LTD",
+            "PCE Make",
+            "TUV",
+            "Thermal Systech",
+            "NECO GROUP OF INDUSTRIES LTD"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Abhijit Socity",
+            "Near durga temple",
+            "Aradhana nagar",
+            "Nagpur"
+        ],
+        "email": [
+            "E-mail",
+            "akashlangade05@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "8983452675"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Specialization": 0.2053,
+            "Electrical Engineering": 0.7507,
+            "functional ability": 0.338,
+            "skills": 0.3026,
+            "potential": 0.182,
+            "Electrical Dept": 0.2224,
+            "ISO/TS -2009 /16949": 0.7324
+        },
+        "filename": "cv (2836)_annotated.json"
+    }
+}

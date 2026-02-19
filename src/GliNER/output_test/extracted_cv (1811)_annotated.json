@@ -1,0 +1,109 @@
+{
+    "skills": [
+        "Employee safety",
+        "Fire prevention",
+        "Accident prevention",
+        "Internal Auditing",
+        "Assessment methods",
+        "Confined space safety",
+        "Rigging and sling safety",
+        "Auto CAD",
+        "MS Office",
+        "PERSONAL SKILLS",
+        "Passionate",
+        "Forward thinking",
+        "Focused",
+        "Hard working",
+        "energetic",
+        "versatile",
+        "problem -solver",
+        "genuine interest",
+        "best practice health and  safety standards",
+        "Keen",
+        "organizational and communication skills",
+        "professionalism",
+        "enthusiasm",
+        "EHS strategy",
+        "relevant standards",
+        "root cause analysis",
+        "third party certification",
+        "vehicle license",
+        "making checklist",
+        "operator competency",
+        "certification",
+        "license",
+        "Safety equipment",
+        "PPE",
+        "Firefighting equipment"
+    ],
+    "professional_info": {
+        "person name": [
+            "VIVEK RAJA"
+        ],
+        "job title": [
+            "Safety Officer",
+            "KSA SAFETY SUPERVISOR"
+        ],
+        "company": [
+            "reputable employer",
+            "RAK  Ceramic",
+            "Albilad firefighting  system  Ltd"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "WORK EXPERIENCE",
+            "TOTAL 7 YEARS"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "vivekraja89@yahoo.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+918248107929"
+        ]
+    },
+    "metadata": {
+        "total_skills": 35,
+        "confidence_scores": {
+            "Employee safety": 0.1776,
+            "Fire prevention": 0.2012,
+            "Accident prevention": 0.2357,
+            "Internal Auditing": 0.158,
+            "Assessment methods": 0.1872,
+            "Confined space safety": 0.2681,
+            "Rigging and sling safety": 0.1844,
+            "Auto CAD": 0.3614,
+            "MS Office": 0.5674,
+            "PERSONAL SKILLS": 0.1515,
+            "Passionate": 0.3974,
+            "Forward thinking": 0.1995,
+            "Focused": 0.262,
+            "Hard working": 0.332,
+            "energetic": 0.318,
+            "versatile": 0.2004,
+            "problem -solver": 0.3583,
+            "genuine interest": 0.2641,
+            "best practice health and  safety standards": 0.3341,
+            "Keen": 0.252,
+            "organizational and communication skills": 0.1871,
+            "professionalism": 0.3121,
+            "enthusiasm": 0.3842,
+            "EHS strategy": 0.1856,
+            "relevant standards": 0.3284,
+            "root cause analysis": 0.1746,
+            "third party certification": 0.9134,
+            "vehicle license": 0.321,
+            "making checklist": 0.1655,
+            "operator competency": 0.8645,
+            "certification": 0.5145,
+            "license": 0.2829,
+            "Safety equipment": 0.1617,
+            "PPE": 0.188,
+            "Firefighting equipment": 0.2104
+        },
+        "filename": "cv (1811)_annotated.json"
+    }
+}

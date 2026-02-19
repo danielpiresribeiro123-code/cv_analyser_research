@@ -1,0 +1,49 @@
+{
+    "skills": [
+        "TE C HN I C A L S K I L L",
+        "product development",
+        "primer base coat top development",
+        "Product Devlopment",
+        "Marathi",
+        "Hindi",
+        "English",
+        "ED UC A T I O N"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sandanshiv Nilesh Shivaji"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "North Maharashtra University2004",
+            "North Maharashtra University2009"
+        ],
+        "degree": [
+            "M.Sc."
+        ],
+        "years of experience": [],
+        "address": [
+            "Plot No. 54 Daulat Nager"
+        ],
+        "email": [
+            "E-mail",
+            "nilesh.sandanshiv@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "TE C HN I C A L S K I L L": 0.2374,
+            "product development": 0.2605,
+            "primer base coat top development": 0.2088,
+            "Product Devlopment": 0.2646,
+            "Marathi": 0.7734,
+            "Hindi": 0.7531,
+            "English": 0.7311,
+            "ED UC A T I O N": 0.1998
+        },
+        "filename": "cv (3358)_annotated.json"
+    }
+}

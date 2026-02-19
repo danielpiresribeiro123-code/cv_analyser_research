@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "machine vision",
+        "Simultaneous Localization and Ma pping (SLAM)",
+        "electrical engineering",
+        "product development",
+        "Android",
+        "Bluet ooth",
+        "application development",
+        "graphic design elements",
+        "User Experience Design",
+        "product development",
+        "interpersonal skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "Lawrence Swift",
+            "Lawrence.Swift",
+            "Mr. Gary Hill",
+            "Mr. Hill",
+            "uncle",
+            "I"
+        ],
+        "job title": [
+            "division manager",
+            "Instructional Aide for the Severely Handicapped",
+            "Interpreter for the Deaf and Hard of Hearing"
+        ],
+        "company": [
+            "The Robot Company",
+            "Mission Control Console Group",
+            "Mission Control and Computing Center (MC3) Section",
+            "MarVac  Electronics",
+            "promising up -and-coming company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "1234  My Drive",
+            "Huntington Beach",
+            "1250 Bellflower Blvd."
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "machine vision": 0.3292,
+            "Simultaneous Localization and Ma pping (SLAM)": 0.2569,
+            "electrical engineering": 0.3753,
+            "product development": 0.4255,
+            "Android": 0.4548,
+            "Bluet ooth": 0.3066,
+            "application development": 0.3667,
+            "graphic design elements": 0.182,
+            "User Experience Design": 0.3147,
+            "interpersonal skills": 0.599
+        },
+        "filename": "cv (1086)_annotated.json"
+    }
+}

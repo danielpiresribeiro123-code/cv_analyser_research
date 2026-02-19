@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "skill",
+        "Villa Projects",
+        "approved method",
+        "certificates",
+        "Method statements"
+    ],
+    "professional_info": {
+        "person name": [
+            "JAMES PRAKASH"
+        ],
+        "job title": [
+            "PLUMBING  SIT ENGINEER",
+            "FACILTY MANAGEMENT",
+            "professional",
+            "client representatives",
+            "Testing & Commissioning team"
+        ],
+        "company": [
+            "CURRICULAM VITAE",
+            "progressive organization",
+            "design department",
+            "company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Years of Experience",
+            "18 Years",
+            "12 Years"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "jamesprakash062@gmail.com"
+        ],
+        "phone": [
+            "Mobile No",
+            "+971503875998"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "skill": 0.1541,
+            "Villa Projects": 0.2425,
+            "approved method": 0.5324,
+            "certificates": 0.8261,
+            "Method statements": 0.3764
+        },
+        "filename": "cv (1815)_annotated.json"
+    }
+}

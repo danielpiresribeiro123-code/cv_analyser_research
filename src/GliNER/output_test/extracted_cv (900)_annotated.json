@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "Civil engineering",
+        "Structural Engineering",
+        "English",
+        "French",
+        "AutoCad",
+        "MathCad",
+        "SteelExpress",
+        "Tekla",
+        "VB Express",
+        "Axis VM",
+        "Ansys",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "PowerPoint",
+        "professional practice",
+        "TDK Earthquake resistance sensitiv ity of industrial steel buildings",
+        "OTDK Earthquake resistance sensitivity of industrial steel buildings",
+        "Married"
+    ],
+    "professional_info": {
+        "person name": [
+            "Izabella Gazdusné Wusinczky",
+            "Joó",
+            "Attila László",
+            "Dunai, László",
+            "Gheorghiu -Dej"
+        ],
+        "job title": [
+            "Civil Engineer",
+            "CEOS",
+            "MSc diploma civil engineer",
+            "Prof. Ottó Halász"
+        ],
+        "company": [
+            "Civil Engineering Optimal Solutions",
+            "Department of",
+            "Adeptus Plc.",
+            "Földvári Engineering Ltd."
+        ],
+        "university": [
+            "Fényi Gyula Jesuit Secondary School",
+            "Budapest University of Technology and Economics"
+        ],
+        "degree": [
+            "MSC in Civil Engineering",
+            "BME"
+        ],
+        "years of experience": [],
+        "address": [
+            "H-1054 Budapest",
+            "Vértanúk tere 1.",
+            "H-1135 Budapest"
+        ],
+        "email": [
+            "Email",
+            "iwgazdus@ce -os.eu",
+            "E-mail"
+        ],
+        "phone": [
+            "Tel.",
+            "+36/ 30/863 -04-29",
+            "Phone number",
+            "+36/30/863 -04-29"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Civil engineering": 0.3915,
+            "Structural Engineering": 0.6523,
+            "English": 0.6568,
+            "French": 0.7316,
+            "AutoCad": 0.459,
+            "MathCad": 0.5242,
+            "SteelExpress": 0.5672,
+            "Tekla": 0.5463,
+            "VB Express": 0.7211,
+            "Axis VM": 0.6446,
+            "Ansys": 0.412,
+            "Microsoft Word": 0.7118,
+            "Microsoft Excel": 0.6984,
+            "PowerPoint": 0.5661,
+            "professional practice": 0.21,
+            "TDK Earthquake resistance sensitiv ity of industrial steel buildings": 0.2204,
+            "OTDK Earthquake resistance sensitivity of industrial steel buildings": 0.2093,
+            "Married": 0.1589
+        },
+        "filename": "cv (900)_annotated.json"
+    }
+}

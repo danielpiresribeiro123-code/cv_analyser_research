@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "highly motivated and ambitious individual",
+        "excellent management skills",
+        "proven ability",
+        "lead by example",
+        "consistently hit targets",
+        "improve best practices",
+        "organize time efficiently",
+        "Inventory tracking",
+        "Budget management",
+        "Shipment consolidations planning",
+        "Inventory control",
+        "Warehouse and fulfillment",
+        "Logistics network analysis",
+        "Detail-oriented Strategic planner",
+        "Cost reduction",
+        "Flexible Works well independently",
+        "Customer service-oriented",
+        "Navy and Marine Corps Achievement Medal",
+        "uncompromising work ethic",
+        "daily determination",
+        "unique skill",
+        "Certificate of Commendation",
+        "superior leadership",
+        "organizational skills",
+        "managerial abilities",
+        "inventory management technique"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "SERGEANT E-5 AVIATION SUPPLY SPECIALIST",
+            "squad leader",
+            "Maintenance Material Control Expediter",
+            "Expeditionary Airfields Supply Warehouse Clerk",
+            "Corporals"
+        ],
+        "company": [
+            "VMA-211",
+            "Marine Wing Support Squadron 271",
+            "Company Name Order"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "highly motivated and ambitious individual": 0.3256,
+            "excellent management skills": 0.3034,
+            "proven ability": 0.1767,
+            "lead by example": 0.3095,
+            "consistently hit targets": 0.2958,
+            "improve best practices": 0.2389,
+            "organize time efficiently": 0.4084,
+            "Inventory tracking": 0.3,
+            "Budget management": 0.2526,
+            "Shipment consolidations planning": 0.1781,
+            "Inventory control": 0.1905,
+            "Warehouse and fulfillment": 0.1565,
+            "Logistics network analysis": 0.2144,
+            "Detail-oriented Strategic planner": 0.2025,
+            "Cost reduction": 0.28,
+            "Flexible Works well independently": 0.1563,
+            "Customer service-oriented": 0.2326,
+            "Navy and Marine Corps Achievement Medal": 0.8379,
+            "uncompromising work ethic": 0.3548,
+            "daily determination": 0.3071,
+            "unique skill": 0.3114,
+            "Certificate of Commendation": 0.8398,
+            "superior leadership": 0.3773,
+            "organizational skills": 0.4594,
+            "managerial abilities": 0.2974,
+            "inventory management technique": 0.2119
+        },
+        "filename": "cv (4555)_annotated.json"
+    }
+}

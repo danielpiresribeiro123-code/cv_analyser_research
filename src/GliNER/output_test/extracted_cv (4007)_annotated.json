@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "Dynamic",
+        "Competent",
+        "focused",
+        "goal-oriented",
+        "Ability",
+        "analyze",
+        "BUSINESS DEVELOPMENT",
+        "PRODUCT DEVELOPMENT / MANAGEMENT BRAND MANAGEMENT CHANNEL MANAGEMENT",
+        "STRATEGY PLANNING",
+        "OPERATION MANAGEMENT",
+        "CLIENT RELATIONSHIP MANAGEMENT"
+    ],
+    "professional_info": {
+        "person name": [
+            "PARTHA ROY CHOWDHURY"
+        ],
+        "job title": [
+            "DIVISIONAL MANAGER",
+            "DEPUTY MANAGER"
+        ],
+        "company": [
+            "PV Solar Solutions",
+            "Industrial Batteries",
+            "PSBG",
+            "REEM BATTERI ES & POWER APPLIANCES CO.",
+            "SAOC",
+            "TECNED",
+            "DELTA",
+            "INVT",
+            "MHB",
+            "REEM",
+            "GE",
+            "Oil & Gas Company",
+            "PCI LTD",
+            "MAX HEALT HCARE",
+            "Medical Institution",
+            "M/s Eaton Power"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "NEW DELHI"
+        ],
+        "email": [
+            "Email",
+            "amipartha1973@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+96899423869"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Dynamic": 0.5622,
+            "Competent": 0.5889,
+            "focused": 0.4147,
+            "goal-oriented": 0.1893,
+            "Ability": 0.2944,
+            "analyze": 0.3259,
+            "BUSINESS DEVELOPMENT": 0.2733,
+            "PRODUCT DEVELOPMENT / MANAGEMENT BRAND MANAGEMENT CHANNEL MANAGEMENT": 0.2762,
+            "STRATEGY PLANNING": 0.1903,
+            "OPERATION MANAGEMENT": 0.2042,
+            "CLIENT RELATIONSHIP MANAGEMENT": 0.3512
+        },
+        "filename": "cv (4007)_annotated.json"
+    }
+}

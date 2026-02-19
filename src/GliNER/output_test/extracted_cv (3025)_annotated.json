@@ -1,0 +1,105 @@
+{
+    "skills": [
+        "ELECTRICAL FIELD",
+        "GCC DRIVING LICENCE",
+        "technical skill",
+        "effective communicator",
+        "excellent relationship building",
+        "interpersonal skills",
+        "Strong",
+        "analytical",
+        "problem solving",
+        "organizational abilities",
+        "flexible",
+        "detail oriented",
+        "Installation",
+        "cable tray",
+        "Breakers JOB",
+        "SF-6/ACB Switchgear",
+        "EMLTP",
+        "LIFT & ESCALATOR PANNEL",
+        "SUMP PUMP’s PANNELS",
+        "SIGNALLING SYSTEM",
+        "COMMUNICATION SYSTEM",
+        "PSD SYSTEM",
+        "BHS SYSTEM",
+        "TVS SYSTEM",
+        "LIFT & ESCLATOR SYSTEM",
+        "ALL SYSTEM PLC’S OF STATION CONTROL SYSTEM",
+        "UPS SYSTEM & FIRE SYSTEM",
+        "Window – 2003",
+        "XP",
+        "7, 8.1",
+        "MS- Office",
+        "MS-Excel",
+        "MS-Word"
+    ],
+    "professional_info": {
+        "person name": [
+            "MD NAWAZ SHARIF"
+        ],
+        "job title": [
+            "Electrical Shift IN-charge"
+        ],
+        "company": [
+            "OMAN NATIONAL ENGINEERING AND INVESTMENT CO.",
+            "SAOG",
+            "Blue Star"
+        ],
+        "university": [],
+        "degree": [
+            "Diploma in Electrical Engineering"
+        ],
+        "years of experience": [
+            "6 YEARS EXPERIENCE",
+            "6 years"
+        ],
+        "address": [],
+        "email": [
+            "E-MAIL",
+            "nawaz9802@gmail.com"
+        ],
+        "phone": [
+            "CONTACT NO +968 96430732"
+        ]
+    },
+    "metadata": {
+        "total_skills": 33,
+        "confidence_scores": {
+            "ELECTRICAL FIELD": 0.4609,
+            "GCC DRIVING LICENCE": 0.177,
+            "technical skill": 0.3103,
+            "effective communicator": 0.6255,
+            "excellent relationship building": 0.3235,
+            "interpersonal skills": 0.2167,
+            "Strong": 0.2874,
+            "analytical": 0.4835,
+            "problem solving": 0.3706,
+            "organizational abilities": 0.1517,
+            "flexible": 0.1602,
+            "detail oriented": 0.2276,
+            "Installation": 0.1772,
+            "cable tray": 0.1598,
+            "Breakers JOB": 0.162,
+            "SF-6/ACB Switchgear": 0.1505,
+            "EMLTP": 0.1548,
+            "LIFT & ESCALATOR PANNEL": 0.1591,
+            "SUMP PUMP’s PANNELS": 0.1632,
+            "SIGNALLING SYSTEM": 0.3131,
+            "COMMUNICATION SYSTEM": 0.2848,
+            "PSD SYSTEM": 0.3331,
+            "BHS SYSTEM": 0.3549,
+            "TVS SYSTEM": 0.298,
+            "LIFT & ESCLATOR SYSTEM": 0.2802,
+            "ALL SYSTEM PLC’S OF STATION CONTROL SYSTEM": 0.276,
+            "UPS SYSTEM & FIRE SYSTEM": 0.2325,
+            "Window – 2003": 0.8825,
+            "XP": 0.7395,
+            "7, 8.1": 0.207,
+            "MS- Office": 0.7366,
+            "MS-Excel": 0.6427,
+            "MS-Word": 0.5953
+        },
+        "filename": "cv (3025)_annotated.json"
+    }
+}

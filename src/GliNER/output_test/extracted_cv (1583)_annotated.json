@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "SUMMARY",
+        "ACADEMIC CREDENTIALS",
+        "2015B.E(CIVIL)",
+        "KEY SKILLS",
+        "analytically & logically",
+        "Sharp grasping power",
+        "initiative",
+        "Windows",
+        "MS-Office",
+        "Internet Applications",
+        "AUTO CAD",
+        "STAAD PRO",
+        "CERTIFICATES",
+        "Male",
+        "Unmarried",
+        "English",
+        "Hindi",
+        "Listening songs",
+        "Cooking"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHAILESH KUMAR",
+            "Mr. Shiv kumar",
+            "Hindu",
+            "Indian"
+        ],
+        "job title": [
+            "Civil Engineer",
+            "SAND TESTING MACHINE",
+            "Title",
+            "BRIDGE CONSTRUCTION"
+        ],
+        "company": [
+            "UP BRIDGE CORPORATION",
+            "R.G.P.V.",
+            "UP BOARD",
+            "UP STATE BRIDGE CORPORATION LTD"
+        ],
+        "university": [
+            "RKDF College Of Technology & Research"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "226/61 AUYODHA DHAM",
+            "H.NO.-199/62 Vill-Tahapur"
+        ],
+        "email": [
+            "7566814603",
+            "E-Mail Id.",
+            "skp603@gmail.com"
+        ],
+        "phone": [
+            "Contact No.",
+            "+919452825883"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "SUMMARY": 0.1711,
+            "ACADEMIC CREDENTIALS": 0.1751,
+            "2015B.E(CIVIL)": 0.2906,
+            "KEY SKILLS": 0.2521,
+            "analytically & logically": 0.1759,
+            "Sharp grasping power": 0.2483,
+            "initiative": 0.2951,
+            "Windows": 0.6829,
+            "MS-Office": 0.735,
+            "Internet Applications": 0.6289,
+            "AUTO CAD": 0.4736,
+            "STAAD PRO": 0.4992,
+            "CERTIFICATES": 0.4356,
+            "Male": 0.327,
+            "Unmarried": 0.3512,
+            "English": 0.4924,
+            "Hindi": 0.4334,
+            "Listening songs": 0.1949,
+            "Cooking": 0.319
+        },
+        "filename": "cv (1583)_annotated.json"
+    }
+}

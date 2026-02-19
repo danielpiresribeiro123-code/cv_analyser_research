@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "Electronics and Communication",
+        "Parallel & distributed computer architectures",
+        "network of workstations (NOWs)/clusters",
+        "communication networks &communication mechanisms",
+        "QoSsupport",
+        "performance evaluation",
+        "fault-tolerant comput ing",
+        "mobile computing",
+        "multimedia systems"
+    ],
+    "professional_info": {
+        "person name": [
+            "Das",
+            "R.E.C.Rourkela",
+            "B.I.T.Sindri",
+            "Rourkela",
+            "C. R.",
+            "L. N. Bhuyan",
+            "Lin",
+            "T. L. Sheu",
+            "C. R. Das",
+            "T.-Y. Feng",
+            "C"
+        ],
+        "job title": [
+            "das",
+            "Pennsy lvania Professor",
+            "Pennsylva nia Associate Professor",
+            "Pennsylva nia Assistant Professor",
+            "Research/Teaching Assistant",
+            "In dia Lecturer",
+            "Indi a Lecturer"
+        ],
+        "company": [],
+        "university": [
+            "ThePennsylvania State University",
+            "University ofLouisi ana",
+            "Sambalpur University",
+            "Ranchi University",
+            "The Pennsylvania StateUniversity",
+            "University of Louisiana",
+            "Indian Institute of Technology",
+            "Radarand Communication Center Regional Engineering College"
+        ],
+        "degree": [
+            "Ph.D.",
+            "M.S.in Electrical Engineering",
+            "B.S."
+        ],
+        "years of experience": [],
+        "address": [
+            "105 Atlee Ci cle",
+            "PA16803",
+            "354F IST Building",
+            "University Park",
+            "PA16802",
+            "Internet"
+        ],
+        "email": [
+            "E-Mail"
+        ],
+        "phone": [
+            "Tel",
+            "(814) 237- 6362",
+            "(814) 865-0194",
+            "Fax",
+            "(814) 865-3176"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Electronics and Communication": 0.1503,
+            "Parallel & distributed computer architectures": 0.5251,
+            "network of workstations (NOWs)/clusters": 0.4086,
+            "communication networks &communication mechanisms": 0.4173,
+            "QoSsupport": 0.2182,
+            "performance evaluation": 0.2676,
+            "fault-tolerant comput ing": 0.1512,
+            "mobile computing": 0.3513,
+            "multimedia systems": 0.344
+        },
+        "filename": "cv (895)_annotated.json"
+    }
+}

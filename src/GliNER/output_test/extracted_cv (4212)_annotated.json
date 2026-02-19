@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "Network",
+        "CCNA",
+        "Cisco Certified Network Associate",
+        "CSCO12955323",
+        "MCSE",
+        "Microsoft Certified System Engineer",
+        "DCA",
+        "Diploma in Computer Application",
+        "EIGRP",
+        "OSPF",
+        "BGP",
+        "dynamic  routing",
+        "IP addressing and sub netting",
+        "Routing concepts",
+        "NETWORKING",
+        "Security  administration",
+        "security on Router via Access list",
+        "Operating System"
+    ],
+    "professional_info": {
+        "person name": [
+            "KHUSTER RAZA",
+            "khusterkhan1992"
+        ],
+        "job title": [
+            "Administrator",
+            "Network Administrator",
+            "Network Engineer"
+        ],
+        "company": [
+            "IntermediB.S.E.BMIRZA",
+            "Cisco",
+            "Vertex Costumer India Solution Private, Ltd.",
+            "Microchip Info Tech System Private, Limited"
+        ],
+        "university": [
+            "DegreeUniversity / Boards",
+            "nM.M.H.A & P",
+            "UNIVERSITYM.M.H.A & P",
+            "UNIVERSITY2013"
+        ],
+        "degree": [
+            "Bachelor",
+            "OL2007"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-mail",
+            "gmail.com",
+            "91-9891505392"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Network": 0.3052,
+            "CCNA": 0.8719,
+            "Cisco Certified Network Associate": 0.6758,
+            "CSCO12955323": 0.5386,
+            "MCSE": 0.7023,
+            "Microsoft Certified System Engineer": 0.4595,
+            "DCA": 0.4933,
+            "Diploma in Computer Application": 0.4478,
+            "EIGRP": 0.9715,
+            "OSPF": 0.9684,
+            "BGP": 0.9624,
+            "dynamic  routing": 0.1554,
+            "IP addressing and sub netting": 0.271,
+            "Routing concepts": 0.302,
+            "NETWORKING": 0.2964,
+            "Security  administration": 0.2094,
+            "security on Router via Access list": 0.2074,
+            "Operating System": 0.5506
+        },
+        "filename": "cv (4212)_annotated.json"
+    }
+}

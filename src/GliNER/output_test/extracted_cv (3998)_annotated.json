@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "resourceful",
+        "innovative",
+        "flexible",
+        "diode selection process section",
+        "Male",
+        "Single",
+        "English",
+        "Tamil",
+        "Urdu",
+        "Operating System",
+        "Windows 7&8",
+        "Server",
+        "Mat lab"
+    ],
+    "professional_info": {
+        "person name": [
+            "NIZAM MOHIDEEN.K",
+            "S. Khaja Mohideen",
+            "S. Ansar Bi"
+        ],
+        "job title": [
+            "ROLE",
+            "Assembly Technician"
+        ],
+        "company": [
+            "S.S.L.CState BoardSt. Joseph Higher",
+            "M/s. EATON - MTL Instruments Pvt Ltd"
+        ],
+        "university": [
+            "DEEEAnna UniversityCentral Polytechnic"
+        ],
+        "degree": [],
+        "years of experience": [
+            "1 year"
+        ],
+        "address": [
+            "No.48",
+            "New Mosque Street",
+            "Kovalam-603112",
+            "Chennai"
+        ],
+        "email": [
+            "Email",
+            "nizammohideen.k@gmail.com",
+            "College - TharamaniApril – 2016"
+        ],
+        "phone": [
+            "Mobile no",
+            "+91 7448579102"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "resourceful": 0.2977,
+            "innovative": 0.2249,
+            "flexible": 0.1792,
+            "diode selection process section": 0.1897,
+            "Male": 0.1885,
+            "Single": 0.3344,
+            "English": 0.3731,
+            "Tamil": 0.2042,
+            "Urdu": 0.3058,
+            "Operating System": 0.2594,
+            "Windows 7&8": 0.8753,
+            "Server": 0.4076,
+            "Mat lab": 0.2341
+        },
+        "filename": "cv (3998)_annotated.json"
+    }
+}

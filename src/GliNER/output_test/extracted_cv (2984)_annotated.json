@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "SOFTWARE SKILLS",
+        "Auto Cad",
+        "Good communication skills",
+        "Ability to work with in a team",
+        "Hard worker",
+        "Male",
+        "English",
+        "Hindi",
+        "cricket"
+    ],
+    "professional_info": {
+        "person name": [
+            "MITHILESH SINGH YADAV",
+            "mithileshsinghyadav",
+            "Mr.Chandra Bhan Singh Yadav",
+            "Indian"
+        ],
+        "job title": [
+            "responsible position"
+        ],
+        "company": [
+            "Intermediate  U.P Board",
+            "High School  U.P Board",
+            "Solid Works .",
+            "DIESEL LOCOMOTIVE WORKS (DLW) VARANASI",
+            "NPTI"
+        ],
+        "university": [
+            "United College Of Engineeri ng & Research",
+            "Uttar Pradesh Technical University",
+            "U.P.T.U."
+        ],
+        "degree": [
+            "B.Tech.",
+            "Mechanical Engineering",
+            "B.Tech"
+        ],
+        "years of experience": [],
+        "address": [
+            "D-70 Alpha -1",
+            "Greater Noida",
+            "Khanpur Raghubar",
+            "Jakhanian"
+        ],
+        "email": [
+            "Contact no",
+            "E-mail",
+            "outlook.com"
+        ],
+        "phone": [
+            "+91 7839114151"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "SOFTWARE SKILLS": 0.2067,
+            "Auto Cad": 0.6466,
+            "Good communication skills": 0.1854,
+            "Ability to work with in a team": 0.1502,
+            "Hard worker": 0.2989,
+            "Male": 0.1985,
+            "English": 0.6632,
+            "Hindi": 0.7589,
+            "cricket": 0.209
+        },
+        "filename": "cv (2984)_annotated.json"
+    }
+}

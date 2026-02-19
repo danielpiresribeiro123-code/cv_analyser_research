@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "Information Assurance",
+        "Cyber Network Defense",
+        "Skills",
+        "Desktops",
+        "TCP/IP Configuration",
+        "Active Directory",
+        "Strong software and application knowledge",
+        "Microsoft Office",
+        "Remedy",
+        "Information Technology Service Management",
+        "ITSM",
+        "Scanners",
+        "Monitors",
+        "Active, Directory",
+        "Information Technology Service Managment",
+        "Experience with Information TechnologyÂ"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [],
+        "company": [
+            "Cisco",
+            "Avaya",
+            "Microsoft"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Information Assurance": 0.2729,
+            "Cyber Network Defense": 0.1803,
+            "Skills": 0.1857,
+            "Desktops": 0.2337,
+            "TCP/IP Configuration": 0.2533,
+            "Active Directory": 0.6968,
+            "Strong software and application knowledge": 0.158,
+            "Microsoft Office": 0.8677,
+            "Remedy": 0.6027,
+            "Information Technology Service Management": 0.295,
+            "ITSM": 0.2801,
+            "Scanners": 0.1661,
+            "Monitors": 0.182,
+            "Active, Directory": 0.319,
+            "Information Technology Service Managment": 0.2716,
+            "Experience with Information TechnologyÂ": 0.2036
+        },
+        "filename": "cv (4258)_annotated.json"
+    }
+}

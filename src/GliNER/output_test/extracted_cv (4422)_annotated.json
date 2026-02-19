@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Passionate",
+        "Friendly",
+        "outgoing",
+        "adaptable",
+        "Classroom management",
+        "Creation of forms for data",
+        "Payroll",
+        "Maintain tuition data and receipts",
+        "Knowledge of",
+        "excel/word/power point",
+        "Work within a budget",
+        "Snack/Meal Planning",
+        "Team building",
+        "Creation of forms for dataÂ",
+        "excel/word/power pointÂ",
+        "Work within a budget",
+        "Schedule activities and field tripsÂ"
+    ],
+    "professional_info": {
+        "person name": [
+            "Amelia Gambetti"
+        ],
+        "job title": [
+            "LEAD TEACHER",
+            "Director",
+            "Lead teacher/site director",
+            "Patient educator"
+        ],
+        "company": [
+            "USI",
+            "Deaconess Children's",
+            "Little Husky World",
+            "TLC Nursery",
+            "Reggio Municipal Schools",
+            "Deaconess Children's CenterÂ",
+            "Little Husky WorldÂ"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "25, years experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Passionate": 0.355,
+            "Friendly": 0.5152,
+            "outgoing": 0.3862,
+            "adaptable": 0.4204,
+            "Classroom management": 0.5838,
+            "Creation of forms for data": 0.3336,
+            "Payroll": 0.3529,
+            "Maintain tuition data and receipts": 0.1708,
+            "Knowledge of": 0.1854,
+            "excel/word/power point": 0.3457,
+            "Work within a budget": 0.2,
+            "Snack/Meal Planning": 0.3852,
+            "Team building": 0.4052,
+            "Creation of forms for dataÂ": 0.4453,
+            "excel/word/power pointÂ": 0.3131,
+            "Schedule activities and field tripsÂ": 0.1504
+        },
+        "filename": "cv (4422)_annotated.json"
+    }
+}

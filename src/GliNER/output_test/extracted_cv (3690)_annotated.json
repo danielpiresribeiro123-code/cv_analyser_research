@@ -1,0 +1,91 @@
+{
+    "skills": [
+        "Male",
+        "English",
+        "Hindi",
+        "Tamil",
+        "structural design and analysis skills",
+        "planning and management skills",
+        "ACADEMIC RECORD",
+        "TECHNICAL CERTIFICATE",
+        "Hull Structural Design Concept",
+        "PROFESSIONAL SOFTWARE",
+        "Marine design software",
+        "Aveva Marine Tribon SP6",
+        "Structural design and analysis software",
+        "DNV Genie",
+        "AutoCAD   (2D and 3D)",
+        "Oracle Primavera P6 R8.2",
+        "KNOWLEDGE OF CODES, STANDARDS AND CLASS RULES",
+        "API-RP 2A WSD Planning",
+        "IACS international construction Standard",
+        "Certificate of Appreciation"
+    ],
+    "professional_info": {
+        "person name": [
+            "NAJEEFULLAH"
+        ],
+        "job title": [
+            "Naval Architect"
+        ],
+        "company": [
+            "Naval Architecture & Offshore Engineering",
+            "DNV Academy",
+            "CSC computer education",
+            "Autodesk",
+            "AISC",
+            "Royal Institut e of Naval Architect (RINA)",
+            "Society of Naval Architect and Marine Engineer (SNAME)",
+            "NKOM",
+            "Overseas Ship holding Group, Inc.",
+            "OSG",
+            "LNG Al -Gharrafa",
+            "Nakilat – Keppel Offshore and Marine Ltd"
+        ],
+        "university": [
+            "AMET University"
+        ],
+        "degree": [
+            "Honors Diploma in Computer Applications"
+        ],
+        "years of experience": [
+            "Married"
+        ],
+        "address": [
+            "No.74, 4TH Main Road",
+            "CIT Nagar"
+        ],
+        "email": [
+            "gmail.com"
+        ],
+        "phone": [
+            "+91 94862 73667"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Male": 0.1867,
+            "English": 0.6114,
+            "Hindi": 0.67,
+            "Tamil": 0.4167,
+            "structural design and analysis skills": 0.5398,
+            "planning and management skills": 0.3444,
+            "ACADEMIC RECORD": 0.1994,
+            "TECHNICAL CERTIFICATE": 0.5799,
+            "Hull Structural Design Concept": 0.3261,
+            "PROFESSIONAL SOFTWARE": 0.1936,
+            "Marine design software": 0.2742,
+            "Aveva Marine Tribon SP6": 0.5014,
+            "Structural design and analysis software": 0.3361,
+            "DNV Genie": 0.2391,
+            "AutoCAD   (2D and 3D)": 0.2776,
+            "Oracle Primavera P6 R8.2": 0.4089,
+            "KNOWLEDGE OF CODES, STANDARDS AND CLASS RULES": 0.1577,
+            "API-RP 2A WSD Planning": 0.2484,
+            "IACS international construction Standard": 0.4591,
+            "Certificate of Appreciation": 0.5476
+        },
+        "filename": "cv (3690)_annotated.json"
+    }
+}

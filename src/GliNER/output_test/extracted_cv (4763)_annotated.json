@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "enthusiastic",
+        "communication",
+        "account management",
+        "conflict resolution",
+        "skills",
+        "customer service",
+        "Motivated by competition",
+        "Self-starter",
+        "Negotiation",
+        "De-escalation",
+        "Time Management",
+        "Logistics",
+        "Project Management",
+        "Strong interpersonal skills",
+        "MS Office",
+        "Customer-oriented",
+        "Skilled multi-tasker",
+        "Exceptional customer service skills",
+        "leadership",
+        "product knowledge",
+        "corporate standards",
+        "database",
+        "customer service"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "FLIGHT MANAGER",
+            "Sales Associate",
+            "permanent employee",
+            "Front Desk Coordinator",
+            "client"
+        ],
+        "company": [
+            "Company Name",
+            "client"
+        ],
+        "university": [
+            "Kent State University"
+        ],
+        "degree": [
+            "Bachelor of Applied Studies"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": [
+            "phone calls"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "enthusiastic": 0.2385,
+            "communication": 0.4118,
+            "account management": 0.69,
+            "conflict resolution": 0.6463,
+            "skills": 0.2649,
+            "customer service": 0.3898,
+            "Motivated by competition": 0.1531,
+            "Self-starter": 0.5412,
+            "Negotiation": 0.4401,
+            "De-escalation": 0.4064,
+            "Time Management": 0.2668,
+            "Logistics": 0.3653,
+            "Project Management": 0.6945,
+            "Strong interpersonal skills": 0.6997,
+            "MS Office": 0.612,
+            "Customer-oriented": 0.5118,
+            "Skilled multi-tasker": 0.6646,
+            "Exceptional customer service skills": 0.6139,
+            "leadership": 0.4044,
+            "product knowledge": 0.4275,
+            "corporate standards": 0.6676,
+            "database": 0.6249
+        },
+        "filename": "cv (4763)_annotated.json"
+    }
+}

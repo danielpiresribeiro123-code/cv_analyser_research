@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "machine learning",
+        "deep learning",
+        "Artificial Intelligence",
+        "data discovery",
+        "exploration",
+        "Other Activities",
+        "Azure Certification",
+        "Projects",
+        "Object Detection",
+        "transfer learningSkills",
+        "Data Analysis",
+        "Data Analytics",
+        "Data  Mining",
+        "Linear Regression",
+        "Exploration",
+        "Sequential Analysis",
+        "frameworks",
+        "Machine, Learning",
+        "data",
+        "large warehouses"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mia Park"
+        ],
+        "job title": [
+            "PROJECT ENGINEER",
+            "Executive Profile",
+            "Associate Project Engineer",
+            "Developer"
+        ],
+        "company": [],
+        "university": [
+            "WTPL",
+            "Goverment College Of Engineering And",
+            "Ceramic Technology"
+        ],
+        "degree": [
+            "B.Tech(Computers)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "machine learning": 0.9391,
+            "deep learning": 0.9516,
+            "Artificial Intelligence": 0.6577,
+            "data discovery": 0.3699,
+            "exploration": 0.3536,
+            "Other Activities": 0.1809,
+            "Azure Certification": 0.8141,
+            "Projects": 0.1968,
+            "Object Detection": 0.1894,
+            "transfer learningSkills": 0.1814,
+            "Data Analysis": 0.4757,
+            "Data Analytics": 0.4384,
+            "Data  Mining": 0.5483,
+            "Linear Regression": 0.3383,
+            "Exploration": 0.3623,
+            "Sequential Analysis": 0.5872,
+            "frameworks": 0.4012,
+            "Machine, Learning": 0.4241,
+            "data": 0.16,
+            "large warehouses": 0.3859
+        },
+        "filename": "cv (4852)_annotated.json"
+    }
+}

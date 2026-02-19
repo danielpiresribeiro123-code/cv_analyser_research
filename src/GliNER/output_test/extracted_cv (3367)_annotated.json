@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "Capable to work with a team efficiently",
+        "Leadership quality",
+        "Honest",
+        "Flexibility",
+        "Optimistic",
+        "Adaptability",
+        "Self-motivated",
+        "Technical Skills",
+        "Microsoft Office2003/07/10",
+        "Power Point",
+        "Excel",
+        "Window XP/7/8",
+        "Professional Qualification",
+        "Academic Credentials",
+        "ClassYearSchool/College Board Percentage",
+        "CREATIVE"
+    ],
+    "professional_info": {
+        "person name": [
+            "ADNAN ANSARI"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "University",
+            "Uttar Pradesh Technical"
+        ],
+        "degree": [
+            "B. Tech in"
+        ],
+        "years of experience": [],
+        "address": [
+            "A-128",
+            "Joshi Colony",
+            "Pin Code-110092"
+        ],
+        "email": [
+            "Adnancivil@yahoo.in",
+            "+91-9643602601"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "Capable to work with a team efficiently": 0.3359,
+            "Leadership quality": 0.4319,
+            "Honest": 0.51,
+            "Flexibility": 0.4424,
+            "Optimistic": 0.5159,
+            "Adaptability": 0.3937,
+            "Self-motivated": 0.3979,
+            "Technical Skills": 0.4884,
+            "Microsoft Office2003/07/10": 0.5667,
+            "Power Point": 0.5682,
+            "Excel": 0.4374,
+            "Window XP/7/8": 0.5998,
+            "Professional Qualification": 0.3949,
+            "Academic Credentials": 0.4846,
+            "ClassYearSchool/College Board Percentage": 0.1783,
+            "CREATIVE": 0.6234
+        },
+        "filename": "cv (3367)_annotated.json"
+    }
+}

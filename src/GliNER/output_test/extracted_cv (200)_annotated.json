@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "TECHNICAL SKILLS",
+        "AutoCAD",
+        "CATIA",
+        "Stress Analysis Software",
+        "CAESAR 2",
+        "Windows",
+        "XP",
+        "PDS",
+        "IPMCS",
+        "P&ids",
+        "CEASAR II",
+        "EDS"
+    ],
+    "professional_info": {
+        "person name": [
+            "Manish Saini"
+        ],
+        "job title": [
+            "job",
+            "job satisfaction"
+        ],
+        "company": [
+            "B.TechM.D University",
+            "Diploma (Mech. Engg.)Board of Technical Education",
+            "Engineers India Ltd."
+        ],
+        "university": [
+            "Shri Balwant Institute of Technology",
+            "RohtakShri Balwant Institute of Technology",
+            "DelhiGuru Nanak Dev Polytechnic"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "H.No-89",
+            "Extn-2D",
+            "Nangloi",
+            "Bhikaji Cama Place"
+        ],
+        "email": [
+            "E-mail",
+            "manishsaini9910@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+91-9910909571"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "TECHNICAL SKILLS": 0.151,
+            "AutoCAD": 0.3552,
+            "CATIA": 0.4851,
+            "Stress Analysis Software": 0.4318,
+            "CAESAR 2": 0.472,
+            "Windows": 0.8392,
+            "XP": 0.3532,
+            "PDS": 0.422,
+            "IPMCS": 0.3306,
+            "P&ids": 0.2244,
+            "CEASAR II": 0.5302,
+            "EDS": 0.3186
+        },
+        "filename": "cv (200)_annotated.json"
+    }
+}

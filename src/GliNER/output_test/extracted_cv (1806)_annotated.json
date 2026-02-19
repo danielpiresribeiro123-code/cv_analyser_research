@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "9871470924",
+        "Technical Qualification",
+        "Intermediate",
+        "PLC system",
+        "access control system",
+        "Maintenance and operation of building automation system",
+        "Managerial / Executive"
+    ],
+    "professional_info": {
+        "person name": [
+            "Krishan Singh Malhan"
+        ],
+        "job title": [
+            "Sr. Engineer",
+            "Site Engineer",
+            "HVAC Supervisor",
+            "Sr. Technician"
+        ],
+        "company": [
+            "naval Dockyard Bombay",
+            "Haryana Board (PCM)",
+            "MGF Metropolitan Mall Gurgaon",
+            "M/S SICCL",
+            "Sahara Mall Gurgaon",
+            "Foreign companies",
+            "Gulf",
+            "Naval Dockyard"
+        ],
+        "university": [],
+        "degree": [
+            "Diploma in Mechanical (Air conditioning and refrigeration)"
+        ],
+        "years of experience": [
+            "1987",
+            "Planning"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "ksmalhan2010@gmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "9871470924": 0.229,
+            "Technical Qualification": 0.1712,
+            "Intermediate": 0.4115,
+            "PLC system": 0.247,
+            "access control system": 0.2492,
+            "Maintenance and operation of building automation system": 0.1567,
+            "Managerial / Executive": 0.5454
+        },
+        "filename": "cv (1806)_annotated.json"
+    }
+}

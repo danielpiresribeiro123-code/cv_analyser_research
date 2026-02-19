@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "creativity",
+        "School / College Board / University Year",
+        "Computer Basic Knowledge",
+        "MS Office",
+        "Excel",
+        "Tally 9.0",
+        "Internet",
+        "browsing",
+        "STRENGTHS",
+        "Goal-oriented",
+        "Trainable",
+        "Self-driven",
+        "Positive Attitude",
+        "PERSONALPROFILE",
+        "Male",
+        "Married",
+        "English",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "AWADHESH VERMA",
+            "Shri Motilal Verma",
+            "Indian"
+        ],
+        "job title": [
+            "SECURITY OFFICER"
+        ],
+        "company": [
+            "Arkan Security Management Solutions L.L.C  Dubai",
+            "Emrill Services L.L.C  Dubai",
+            "Emaar Boulevard Central"
+        ],
+        "university": [
+            "University(D.D.U)2006",
+            "NIIT"
+        ],
+        "degree": [
+            "B.A Gorakhpur",
+            "10+2 Allahabad (U.P) Board 2003",
+            "10th Allahabad (U.P) Board 2001"
+        ],
+        "years of experience": [
+            "WORK EXPERIENCE"
+        ],
+        "address": [
+            "At- Kushinagar U.P India",
+            "Burj",
+            "Vill. Bulhawa Bazar Post. Chhitauni"
+        ],
+        "email": [
+            "Email",
+            "awadheshverma7785@gmail.com"
+        ],
+        "phone": [
+            "+919506758000"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "creativity": 0.3296,
+            "School / College Board / University Year": 0.3222,
+            "Computer Basic Knowledge": 0.4877,
+            "MS Office": 0.6725,
+            "Excel": 0.4437,
+            "Tally 9.0": 0.5483,
+            "Internet": 0.7986,
+            "browsing": 0.3211,
+            "STRENGTHS": 0.2616,
+            "Goal-oriented": 0.3998,
+            "Trainable": 0.2331,
+            "Self-driven": 0.3981,
+            "Positive Attitude": 0.3878,
+            "PERSONALPROFILE": 0.4378,
+            "Male": 0.1921,
+            "Married": 0.343,
+            "English": 0.4626,
+            "Hindi": 0.5044
+        },
+        "filename": "cv (248)_annotated.json"
+    }
+}

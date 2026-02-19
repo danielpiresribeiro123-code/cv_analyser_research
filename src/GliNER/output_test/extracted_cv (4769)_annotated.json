@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "Solutions-focused",
+        "Effective communicator",
+        "Microsoft Office Suite",
+        "Word",
+        "Excel",
+        "Project",
+        "Global War on Terrorism Service Medal",
+        "Project Planning Policy",
+        "Project"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "SUPERINTENDENT II",
+            "management professional",
+            "Initiator in Safety",
+            "Assigned Program Manager",
+            "Management",
+            "Program Manager",
+            "Aviation Ordnanceman First Class",
+            "Materials Handler",
+            "permanent employee"
+        ],
+        "company": [
+            "US NAVY",
+            "Company Name",
+            "Company",
+            "Navy Munitions Command CONUS East Division"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Outlook"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Solutions-focused": 0.3409,
+            "Effective communicator": 0.3818,
+            "Microsoft Office Suite": 0.7943,
+            "Word": 0.6567,
+            "Excel": 0.6384,
+            "Project": 0.3869,
+            "Global War on Terrorism Service Medal": 0.9425,
+            "Project Planning Policy": 0.2608
+        },
+        "filename": "cv (4769)_annotated.json"
+    }
+}

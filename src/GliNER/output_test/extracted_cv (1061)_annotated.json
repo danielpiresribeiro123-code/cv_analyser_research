@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "TECHNICAL SKILLS",
+        "Primary skills",
+        "C#",
+        "C++",
+        "Windows 7",
+        "Windows xp",
+        "Windows 2000",
+        "C",
+        ".NET",
+        "Data Base",
+        "SQL",
+        "Web Technologies",
+        "HTML",
+        "Kavilayil House",
+        "CERTIFICATION   IN  ASP.NET",
+        "Malayalam",
+        "Single",
+        "Internet browsing"
+    ],
+    "professional_info": {
+        "person name": [
+            "fresh graduate",
+            "Adoor",
+            "PathanamthittaAnoop V",
+            "K N   Vijayan",
+            "Adoor(p.o)",
+            "Pathanamthitta",
+            "Anoop V"
+        ],
+        "job title": [],
+        "company": [
+            "firm",
+            "Kerala Board 2008",
+            "Kavilayil (H)"
+        ],
+        "university": [
+            "VTU 2013",
+            "High School Kerala Board 2006",
+            "Indian / Hindu"
+        ],
+        "degree": [
+            "B.E"
+        ],
+        "years of experience": [],
+        "address": [
+            "Present Address"
+        ],
+        "email": [
+            "Contact No.",
+            "E-mail",
+            "anoopcseng@gmail.comObject"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "TECHNICAL SKILLS": 0.2315,
+            "Primary skills": 0.2603,
+            "C#": 0.9187,
+            "C++": 0.8932,
+            "Windows 7": 0.9667,
+            "Windows xp": 0.9662,
+            "Windows 2000": 0.9763,
+            "C": 0.879,
+            ".NET": 0.5951,
+            "Data Base": 0.2613,
+            "SQL": 0.4874,
+            "Web Technologies": 0.4583,
+            "HTML": 0.866,
+            "Kavilayil House": 0.2274,
+            "CERTIFICATION   IN  ASP.NET": 0.5919,
+            "Malayalam": 0.2626,
+            "Single": 0.2381,
+            "Internet browsing": 0.16
+        },
+        "filename": "cv (1061)_annotated.json"
+    }
+}

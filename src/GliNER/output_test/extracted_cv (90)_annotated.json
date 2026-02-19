@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "pile foundation work",
+        "Conventional shuttering",
+        "lay out",
+        "labur heandl",
+        "Education Qualification",
+        "Diploma in Civil Engineering",
+        "AutoCAD 2014",
+        "Un Married"
+    ],
+    "professional_info": {
+        "person name": [
+            "HARDEEP",
+            "SHIVRAJ SINGH"
+        ],
+        "job title": [
+            "CIVIL ENGINEER",
+            "SUPERVISOR (SITE WORK)",
+            "CIVIL ENGG.",
+            "Senior CIVIL ENGG.",
+            "Inter mediate"
+        ],
+        "company": [
+            "R.S. CONSTRUCTIONS",
+            "M/S VIJAY NIRMAN COMPANY PVT. LTD",
+            "SYNERGY INFRAPLANNERS LIMITED",
+            "UP BOARD"
+        ],
+        "university": [
+            "TEERTHANKER MAHAVIR UNIVERSITY"
+        ],
+        "degree": [],
+        "years of experience": [
+            "5 Years  experience",
+            "2 Years",
+            "Male"
+        ],
+        "address": [
+            "LUCKNOW",
+            "DEHRADUN"
+        ],
+        "email": [
+            "E-Mail",
+            "gmail"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "pile foundation work": 0.1687,
+            "Conventional shuttering": 0.2218,
+            "lay out": 0.1503,
+            "labur heandl": 0.2213,
+            "Education Qualification": 0.1878,
+            "Diploma in Civil Engineering": 0.5632,
+            "AutoCAD 2014": 0.2298,
+            "Un Married": 0.1545
+        },
+        "filename": "cv (90)_annotated.json"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "D.O.B.",
+        "English",
+        "writing",
+        "IELTS",
+        "Hindi",
+        "Microsoft office package",
+        "Auto Cad Draft (2D)"
+    ],
+    "professional_info": {
+        "person name": [
+            "Anil Paudel"
+        ],
+        "job title": [
+            "Electrical Engineer",
+            "Project Engineer",
+            "Electrical Maintenance  Engineer"
+        ],
+        "company": [
+            "Cosmic Electrical Engineering Associates Pvt. Ltd",
+            "Cosmic Electrical Engineering Associates Pvt. Ltd.",
+            "CEEA",
+            "B.P. Koir ala institute of health Science"
+        ],
+        "university": [
+            "Khwo pa College of Engineering",
+            "Tribhuvan University"
+        ],
+        "degree": [
+            "Bachelor in Electrical Engineering"
+        ],
+        "years of experience": [
+            "4 years of experience",
+            "experience",
+            "PROFESSIONAL EXPERIENCE"
+        ],
+        "address": [
+            "Dang",
+            "Bhaktapur",
+            "Kathmandu",
+            "Ghopa",
+            "Dharan"
+        ],
+        "email": [
+            "Email",
+            "anilpo@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+977 9851172992"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "D.O.B.": 0.4163,
+            "English": 0.7522,
+            "writing": 0.154,
+            "IELTS": 0.2856,
+            "Hindi": 0.8292,
+            "Microsoft office package": 0.5423,
+            "Auto Cad Draft (2D)": 0.3174
+        },
+        "filename": "cv (3214)_annotated.json"
+    }
+}

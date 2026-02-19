@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "Supply Chain Management",
+        "Procurement Purchasing",
+        "Marketing",
+        "Logistics and Supply Chain Management",
+        "basics  of  Logistics  &  Supply  Chain Management",
+        "Proficiency",
+        "ERP",
+        "R software",
+        "TORA",
+        "eye for detail",
+        "IT Skills",
+        "MS Office 2007",
+        "2010",
+        "2013",
+        "MS Excel 2007",
+        "Windows Vista",
+        "7",
+        "8",
+        "Outlook",
+        "Supply  Chain Management"
+    ],
+    "professional_info": {
+        "person name": [
+            "Hariprakash kumar"
+        ],
+        "job title": [
+            "procurement executive",
+            "Associate Procurement",
+            "Analytical and quality-oriented professional",
+            "Associate",
+            "budding  professional"
+        ],
+        "company": [
+            "PGDM",
+            "Compton Computers India Pvt. Ltd.",
+            "Mayanks  IT  Solutions  Pvt. Ltd.",
+            "Techjockey InfoTech Pvt.Ltd.",
+            "Sheela Foam  India  Pvt.  Ltd.",
+            "Techjockey Infotech Pvt. Ltd.",
+            "High School Barauli"
+        ],
+        "university": [
+            "IBA",
+            "Rajasthan  Technical University Kota",
+            "Bihar  Board",
+            "Kamla rai college",
+            "Bihar Board"
+        ],
+        "degree": [
+            "B.Tech."
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": [
+            "+91-7053377457 hariprakash100@gmail.com"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Supply Chain Management": 0.308,
+            "Procurement Purchasing": 0.2317,
+            "Marketing": 0.2867,
+            "Logistics and Supply Chain Management": 0.1792,
+            "basics  of  Logistics  &  Supply  Chain Management": 0.2097,
+            "Proficiency": 0.1713,
+            "ERP": 0.2689,
+            "R software": 0.2413,
+            "TORA": 0.3297,
+            "eye for detail": 0.1902,
+            "IT Skills": 0.2506,
+            "MS Office 2007": 0.4356,
+            "2010": 0.3417,
+            "2013": 0.2104,
+            "MS Excel 2007": 0.5207,
+            "Windows Vista": 0.9505,
+            "7": 0.1776,
+            "8": 0.2021,
+            "Outlook": 0.3972,
+            "Supply  Chain Management": 0.4452
+        },
+        "filename": "cv (262)_annotated.json"
+    }
+}

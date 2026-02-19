@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "Marital Status",
+        "English",
+        "Kannada",
+        "Hindi",
+        "Urdu",
+        "Marathi"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sanafathima Sayyed",
+            "Adam Sayyed",
+            "Indian",
+            "SanaFathima"
+        ],
+        "job title": [
+            "Un-Married",
+            "Faculty cum Admin"
+        ],
+        "company": [
+            "Concise Technologies"
+        ],
+        "university": [
+            "B.com"
+        ],
+        "degree": [
+            "Graduation",
+            "Diploma in Computer Management"
+        ],
+        "years of experience": [],
+        "address": [
+            "#Third Cross Road",
+            "Patel Mniyappa",
+            "Layout",
+            "V Naganahalli",
+            "Hebbal",
+            "Bangalore",
+            "560033"
+        ],
+        "email": [
+            "Sanashaa786@gmail.com"
+        ],
+        "phone": [
+            "Contact",
+            "7259913572",
+            "Email"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Marital Status": 0.2014,
+            "English": 0.9508,
+            "Kannada": 0.922,
+            "Hindi": 0.9287,
+            "Urdu": 0.9254,
+            "Marathi": 0.9381
+        },
+        "filename": "cv (1163)_annotated.json"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "skills": [
+        "Male",
+        "abilities",
+        "professional proficiency",
+        "Professional    Qualifications",
+        "COMPUTER COURSE",
+        "COMPUTER SKILLS",
+        "Expertise",
+        "SAP",
+        "MS-OFFICE",
+        "HTML",
+        "Marital Status",
+        "Single",
+        "Listening to Music",
+        "English",
+        "Punjabi",
+        "Hindi",
+        "Areas  of  Expertise",
+        "I.Sales ( Back Office)",
+        "Sale Planning",
+        "Processing sale orders",
+        "customer databases"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAHUL CHOPRA",
+            "I"
+        ],
+        "job title": [
+            "D.C.A",
+            "Designation",
+            "Backend Planning Officer",
+            "Department – Sales & Marketing"
+        ],
+        "company": [
+            "Punjab School Education Board",
+            "Relishsoft Education Academy",
+            "HERO CYCLES LTD."
+        ],
+        "university": [
+            "Punjab University"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Total Work Experience",
+            "2 Years & 8 months"
+        ],
+        "address": [
+            "H/no-4611",
+            "ST",
+            "No.-4",
+            "Shiva Ji  Nagar",
+            "Ludhiana",
+            "Pin -141008",
+            "Internet"
+        ],
+        "email": [
+            "E-mail",
+            "chopra.rahul9219@gmail.com",
+            "GRADUATION",
+            "B.C.A"
+        ],
+        "phone": [
+            "+91-, 8968915229"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Male": 0.1691,
+            "abilities": 0.2498,
+            "professional proficiency": 0.2432,
+            "Professional    Qualifications": 0.1879,
+            "COMPUTER COURSE": 0.1927,
+            "COMPUTER SKILLS": 0.362,
+            "Expertise": 0.3101,
+            "SAP": 0.2434,
+            "MS-OFFICE": 0.2208,
+            "HTML": 0.2292,
+            "Marital Status": 0.3808,
+            "Single": 0.2779,
+            "Listening to Music": 0.2589,
+            "English": 0.564,
+            "Punjabi": 0.7751,
+            "Hindi": 0.6574,
+            "Areas  of  Expertise": 0.2168,
+            "I.Sales ( Back Office)": 0.1874,
+            "Sale Planning": 0.2102,
+            "Processing sale orders": 0.1529,
+            "customer databases": 0.1532
+        },
+        "filename": "cv (729)_annotated.json"
+    }
+}

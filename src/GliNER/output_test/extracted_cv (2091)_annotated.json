@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "conceptual and logical",
+        "reasoning skills",
+        "consistent value-addition",
+        "ACADEMIC QUALIFICATION",
+        "COMPUTER TYPING",
+        "TECHNOLOGY2015",
+        "Construction and Maintenance of Line and Substation",
+        "Electricity supply of proper quality",
+        "Release New Connection",
+        "Revenue Management System",
+        "Minor Project",
+        "HOME ATOMATION SYSTEM USING PIR",
+        "Major Project",
+        "TEMPERATURE CONTROL FAN",
+        "COMPUTER PROFICIENCIES",
+        "Operating System",
+        "All Windows Platforms",
+        "Software/Applications",
+        "MS Office",
+        "Internet & Other Basic Applications"
+    ],
+    "professional_info": {
+        "person name": [
+            "DINESH KUMAR PATEL",
+            "Sudha Ram Patel",
+            "Droupati"
+        ],
+        "job title": [
+            "Designation",
+            "ELECTRICAL ENGINEER"
+        ],
+        "company": [
+            "DR. C. V. RAMAN",
+            "12TH (PCM)SARASWATI HR.",
+            "KORBA (C.G.)",
+            "SPECTRUM COAL & POWER LIMITED",
+            "RATIJA",
+            "KORBA"
+        ],
+        "university": [
+            "UNIVERSITY2014"
+        ],
+        "degree": [
+            "BE (EEE)"
+        ],
+        "years of experience": [
+            "Professional Experience"
+        ],
+        "address": [
+            "Address"
+        ],
+        "email": [
+            "Email",
+            "dpatel156@gmail.com"
+        ],
+        "phone": [
+            "Contact No.",
+            "+917415763585"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "conceptual and logical": 0.2795,
+            "reasoning skills": 0.337,
+            "consistent value-addition": 0.3656,
+            "ACADEMIC QUALIFICATION": 0.2788,
+            "COMPUTER TYPING": 0.277,
+            "TECHNOLOGY2015": 0.3054,
+            "Construction and Maintenance of Line and Substation": 0.2449,
+            "Electricity supply of proper quality": 0.1786,
+            "Release New Connection": 0.2045,
+            "Revenue Management System": 0.2665,
+            "Minor Project": 0.2816,
+            "HOME ATOMATION SYSTEM USING PIR": 0.2678,
+            "Major Project": 0.2939,
+            "TEMPERATURE CONTROL FAN": 0.3791,
+            "COMPUTER PROFICIENCIES": 0.2611,
+            "Operating System": 0.2676,
+            "All Windows Platforms": 0.612,
+            "Software/Applications": 0.1812,
+            "MS Office": 0.7876,
+            "Internet & Other Basic Applications": 0.516
+        },
+        "filename": "cv (2091)_annotated.json"
+    }
+}

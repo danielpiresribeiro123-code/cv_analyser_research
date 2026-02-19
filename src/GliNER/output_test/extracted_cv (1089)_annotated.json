@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "value -adding leadership",
+        "salgs - og marketing effektivitet",
+        "kunde - og medarbejder - tilfredshed",
+        "kundeservice",
+        "produkt management",
+        "virksomhedskultur",
+        "kundebasen",
+        "kundebase"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Divisionsdirektør & Group Business Development",
+            "Consultancy & Interim Management",
+            "Business & Financial Improvement Director",
+            "Chief Operating Officer",
+            "Project Director",
+            "Commercial Project Director",
+            "Salgssupport -Direktør",
+            "Chef for Strategisk Business Unit (DK)",
+            "Logistik - og Indkøbschef",
+            "Adm. Direktør",
+            "Marketingchef",
+            "Projektleder",
+            "Marketingkoordinator",
+            "Bestyrelsesformand"
+        ],
+        "company": [
+            "AnyCom A/S"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "value -adding leadership": 0.6066,
+            "salgs - og marketing effektivitet": 0.1818,
+            "kunde - og medarbejder - tilfredshed": 0.1795,
+            "kundeservice": 0.3387,
+            "produkt management": 0.3813,
+            "virksomhedskultur": 0.1907,
+            "kundebasen": 0.2248,
+            "kundebase": 0.1682
+        },
+        "filename": "cv (1089)_annotated.json"
+    }
+}

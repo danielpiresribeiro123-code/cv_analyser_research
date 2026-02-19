@@ -1,0 +1,37 @@
+{
+    "skills": [
+        "BB"
+    ],
+    "professional_info": {
+        "person name": [
+            "Christophe Declercq",
+            "ChristopheBDeclercq",
+            "ChristopheBDeclercqB"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "Institut de Veille Sanitaire",
+            "UnitéBAir",
+            "DépartementBSantéBenvironnement",
+            "InstitutBdeBveilleBsanitaire",
+            "BFranceB"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Saint«Maurice"
+        ],
+        "email": [
+            "invs.sante.fr"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "BB": 0.1512
+        },
+        "filename": "cv (1309)_annotated.json"
+    }
+}

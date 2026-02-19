@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "job satisfaction",
+        "Key Skills",
+        "Strong analytical skills",
+        "Able to handle the people very calmly and effectively",
+        "Know the working of all basic medical instruments",
+        "Diploma in Hardware Networking",
+        "DCA+ CCA",
+        "Diploma in computer Application",
+        "PGDCA",
+        "Post Graduate Diploma in Computer Application",
+        "PROFESSIONAL EXPERIENCE"
+    ],
+    "professional_info": {
+        "person name": [
+            "AAKASH SHAHA",
+            "CARRER OBJEVTIVE"
+        ],
+        "job title": [
+            "Job title",
+            "Accounts & Customer service"
+        ],
+        "company": [
+            "professionally managed company",
+            "HPCL",
+            "Hindustan petroleum corporation limited",
+            "ESSEL VIDHUT VITRAN PVT LTD"
+        ],
+        "university": [
+            "Vikram University"
+        ],
+        "degree": [
+            "B.Com Graduation",
+            "Higher Secondary Certificate (H.S.C) MP Board",
+            "Secondary school Certificate (S.S.C) MP Board"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Aakash.smart29@gmail.com"
+        ],
+        "phone": [
+            "Contact no",
+            "+91 9713377500"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "job satisfaction": 0.1554,
+            "Key Skills": 0.2344,
+            "Strong analytical skills": 0.48,
+            "Able to handle the people very calmly and effectively": 0.1534,
+            "Know the working of all basic medical instruments": 0.2235,
+            "Diploma in Hardware Networking": 0.6952,
+            "DCA+ CCA": 0.5536,
+            "Diploma in computer Application": 0.4696,
+            "PGDCA": 0.7733,
+            "Post Graduate Diploma in Computer Application": 0.6116,
+            "PROFESSIONAL EXPERIENCE": 0.2369
+        },
+        "filename": "cv (966)_annotated.json"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "current competencies",
+        "knowledge",
+        "experience",
+        "innovative and resourceful",
+        "Electronics and Instrumentation",
+        "Operations and Human Resource Management Programme",
+        "Client Liaison",
+        "Project Management",
+        "Maintenance Management",
+        "Petrochemical & Fertilizers",
+        "Ammonia Plant",
+        "Yokogawa centum XL",
+        "Yokogawa Centum VP R6.03",
+        "Prosafe-RS R3",
+        "Phosphoric Acid Plant"
+    ],
+    "professional_info": {
+        "person name": [
+            "Patterson Gnanasamy",
+            "Patterson Suresh"
+        ],
+        "job title": [
+            "Designation",
+            "Assistant Manager-Projects (Instrumentation)"
+        ],
+        "company": [
+            "Green Star Fertilizers",
+            "Southern Petrochemical Industries Limited",
+            "August PLC"
+        ],
+        "university": [],
+        "degree": [
+            "Bachelors of Technology",
+            "Masters of Business Administration"
+        ],
+        "years of experience": [
+            "5 years of experience"
+        ],
+        "address": [],
+        "email": [
+            "e-mail",
+            "pattersonsfj@gmail.com",
+            "Skype id"
+        ],
+        "phone": [
+            "+91-9500649490"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "current competencies": 0.1849,
+            "knowledge": 0.1785,
+            "experience": 0.1835,
+            "innovative and resourceful": 0.2413,
+            "Electronics and Instrumentation": 0.3118,
+            "Operations and Human Resource Management Programme": 0.2893,
+            "Client Liaison": 0.4697,
+            "Project Management": 0.7244,
+            "Maintenance Management": 0.6378,
+            "Petrochemical & Fertilizers": 0.2087,
+            "Ammonia Plant": 0.3257,
+            "Yokogawa centum XL": 0.325,
+            "Yokogawa Centum VP R6.03": 0.3667,
+            "Prosafe-RS R3": 0.3018,
+            "Phosphoric Acid Plant": 0.204
+        },
+        "filename": "cv (2014)_annotated.json"
+    }
+}

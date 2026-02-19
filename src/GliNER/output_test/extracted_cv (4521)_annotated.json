@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "effective decision making",
+        "analytical",
+        "organizational",
+        "communication",
+        "problem solving",
+        "cross-functional team leadership",
+        "operations and project management",
+        "strong sense of accountability and initiative",
+        "Comfortable managing complex operations autonomously",
+        "strategic focus",
+        "ethical",
+        "professional",
+        "personal excellence",
+        "Strategic planning",
+        "Global and strategic sourcing",
+        "Negotiations expert",
+        "Team building",
+        "Inventory control",
+        "Contract management",
+        "Relationship building",
+        "Troubleshooting and problem solving",
+        "Affirmative Action compliance",
+        "Personnel records maintenance",
+        "Employee relations",
+        "Defense Travel System",
+        "Government Travel Charge Card",
+        "Government Purchase Card",
+        "analytical spreadsheets",
+        "Aviation Resource Management"
+    ],
+    "professional_info": {
+        "person name": [
+            "AVIATION EXECUTIVE OFFICER"
+        ],
+        "job title": [
+            "Seasoned leader",
+            "detachment commanding officer",
+            "supervisor"
+        ],
+        "company": [
+            "Current Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 29,
+        "confidence_scores": {
+            "effective decision making": 0.3697,
+            "analytical": 0.4501,
+            "organizational": 0.3812,
+            "communication": 0.3082,
+            "problem solving": 0.4003,
+            "cross-functional team leadership": 0.5741,
+            "operations and project management": 0.3989,
+            "strong sense of accountability and initiative": 0.3166,
+            "Comfortable managing complex operations autonomously": 0.3797,
+            "strategic focus": 0.3973,
+            "ethical": 0.1973,
+            "professional": 0.1942,
+            "personal excellence": 0.256,
+            "Strategic planning": 0.5115,
+            "Global and strategic sourcing": 0.1836,
+            "Negotiations expert": 0.1844,
+            "Team building": 0.3008,
+            "Inventory control": 0.3549,
+            "Contract management": 0.3067,
+            "Relationship building": 0.1608,
+            "Troubleshooting and problem solving": 0.2204,
+            "Affirmative Action compliance": 0.1653,
+            "Personnel records maintenance": 0.4248,
+            "Employee relations": 0.2024,
+            "Defense Travel System": 0.3504,
+            "Government Travel Charge Card": 0.1648,
+            "Government Purchase Card": 0.3317,
+            "analytical spreadsheets": 0.3013,
+            "Aviation Resource Management": 0.1815
+        },
+        "filename": "cv (4521)_annotated.json"
+    }
+}

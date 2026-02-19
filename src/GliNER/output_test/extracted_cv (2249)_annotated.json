@@ -1,0 +1,111 @@
+{
+    "skills": [
+        "C",
+        "C++",
+        "CORE JAVA",
+        "J2EE",
+        "Web Technologies",
+        "HTML",
+        "CSS",
+        "JAVASCRIPT",
+        "Netbeans IDE 7.1",
+        "Eclipse SDK 2.2",
+        "Database",
+        "MySQL",
+        "MS ACCESS",
+        "Windows 7/8",
+        "XP",
+        "2000",
+        "ANDROID",
+        "fundamentals",
+        "Good verbal and written communication skills",
+        "Eager to learn new technologies",
+        "Active team player",
+        "self-starter",
+        "Intelligent",
+        "punctual",
+        "hard working",
+        "responsible",
+        "adaptable",
+        "ability to work well under pressure",
+        "Certifications",
+        "certification  course",
+        "Core  Java",
+        "Java",
+        "ONLINE CHATTING PORTAL",
+        "Online chatting portal"
+    ],
+    "professional_info": {
+        "person name": [
+            "Deepak Saini"
+        ],
+        "job title": [
+            "Software Developer"
+        ],
+        "company": [
+            "TCIL- IT",
+            "VANDANA IT SOLUTIONS",
+            "U.S.S.M. SCHOOL",
+            "C.B.S.E. Board"
+        ],
+        "university": [
+            "U.I.E.T",
+            "KURUKSHETRA  University"
+        ],
+        "degree": [
+            "B.TECH(Computer Science)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-mail",
+            "sainideepak142@gmail.com",
+            "Educational Qualifications",
+            "12th"
+        ],
+        "phone": [
+            "Phone",
+            "+91-8901025242"
+        ]
+    },
+    "metadata": {
+        "total_skills": 34,
+        "confidence_scores": {
+            "C": 0.928,
+            "C++": 0.8818,
+            "CORE JAVA": 0.8711,
+            "J2EE": 0.8164,
+            "Web Technologies": 0.2503,
+            "HTML": 0.8956,
+            "CSS": 0.7564,
+            "JAVASCRIPT": 0.7855,
+            "Netbeans IDE 7.1": 0.3916,
+            "Eclipse SDK 2.2": 0.4822,
+            "Database": 0.2252,
+            "MySQL": 0.5138,
+            "MS ACCESS": 0.4445,
+            "Windows 7/8": 0.9344,
+            "XP": 0.9012,
+            "2000": 0.7789,
+            "ANDROID": 0.5708,
+            "fundamentals": 0.2009,
+            "Good verbal and written communication skills": 0.2918,
+            "Eager to learn new technologies": 0.2789,
+            "Active team player": 0.4162,
+            "self-starter": 0.3811,
+            "Intelligent": 0.3121,
+            "punctual": 0.2574,
+            "hard working": 0.3484,
+            "responsible": 0.3383,
+            "adaptable": 0.1628,
+            "ability to work well under pressure": 0.1742,
+            "Certifications": 0.5278,
+            "certification  course": 0.2401,
+            "Core  Java": 0.6075,
+            "Java": 0.5391,
+            "ONLINE CHATTING PORTAL": 0.358,
+            "Online chatting portal": 0.2736
+        },
+        "filename": "cv (2249)_annotated.json"
+    }
+}

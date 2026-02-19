@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "Educational Qualification",
+        "10+2 (Science)",
+        "MS-Office",
+        "Word",
+        "Adv. Excel",
+        "Power point",
+        "SAP Ver.7.3",
+        "MM & SD",
+        "English",
+        "Customer Service &    Support",
+        "Vendor Coordination",
+        "SAP Tcode",
+        "MIGO",
+        "ZCSBRIR",
+        "MB51",
+        "NVF01",
+        "VL10B",
+        "NVL02N",
+        "MB53",
+        "Quality Management",
+        "Inventory Management"
+    ],
+    "professional_info": {
+        "person name": [
+            "Md. Shaiyad Hussain"
+        ],
+        "job title": [
+            "Store Operation Executive",
+            "Logistics/Store Executive"
+        ],
+        "company": [
+            "Sapthaang Services Pvt Ltd",
+            "Wipro Infotech",
+            "Wipro Ltd-InfoTech"
+        ],
+        "university": [
+            "JSEB (Ranchi)",
+            "JAC (Ranchi)",
+            "MCRP",
+            "University"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Plot#151 & 152",
+            "Aali village",
+            "Sarita Vihar",
+            "Badarpur",
+            "New Delhi-110076",
+            "Mob#9873367903",
+            "New Delhi"
+        ],
+        "email": [
+            "Email",
+            "shaiyadh@yahoo.com",
+            "B.C.A",
+            "Outlook"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Educational Qualification": 0.2775,
+            "10+2 (Science)": 0.1593,
+            "MS-Office": 0.4627,
+            "Word": 0.4845,
+            "Adv. Excel": 0.4781,
+            "Power point": 0.5124,
+            "SAP Ver.7.3": 0.3124,
+            "MM & SD": 0.4356,
+            "English": 0.6087,
+            "Customer Service &    Support": 0.1922,
+            "Vendor Coordination": 0.1944,
+            "SAP Tcode": 0.2317,
+            "MIGO": 0.2866,
+            "ZCSBRIR": 0.2599,
+            "MB51": 0.2284,
+            "NVF01": 0.2009,
+            "VL10B": 0.2445,
+            "NVL02N": 0.2417,
+            "MB53": 0.2153,
+            "Quality Management": 0.3432,
+            "Inventory Management": 0.3864
+        },
+        "filename": "cv (105)_annotated.json"
+    }
+}

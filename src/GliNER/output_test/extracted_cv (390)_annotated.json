@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "Scaffolding",
+        "Oil  & Gas Onshore / Offshore  and",
+        "Construction",
+        "SadraSadaf Gas Project"
+    ],
+    "professional_info": {
+        "person name": [
+            "ISHAM ABDUL AZEEZ",
+            "Vettor P.O Varkala"
+        ],
+        "job title": [
+            "Supervisor",
+            "Scaffolding Inspector",
+            "Scaffolding",
+            "Coordinator",
+            "Scaffolding Specialist",
+            "Scaffolding Engineer",
+            "Scaffolding  operation",
+            "head",
+            "Scaffolding coordinator",
+            "Scaffolding Supervisor",
+            "Inspector",
+            "Scaffolding Operation",
+            "Scaffolding  Supervisor",
+            "Scaffolding  Specialist",
+            "Scaffolding  Foreman",
+            "Supervise"
+        ],
+        "company": [
+            "Chevron",
+            "Marcegaglia",
+            "SKS",
+            "WOOD",
+            "scaffolding  operation",
+            "Peterson",
+            "SKSWOOD",
+            "Ipedex",
+            "Statoil",
+            "QGM",
+            "UK Scaffolding",
+            "PCH",
+            "BP"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "experience",
+            "15 Years"
+        ],
+        "address": [
+            "Vayalil veedu",
+            "Trivandrum-695312"
+        ],
+        "email": [
+            "E-mail",
+            "ishamrusi@yahoo.com",
+            "ishamvarkala@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "00919946121311"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Scaffolding": 0.2308,
+            "Oil  & Gas Onshore / Offshore  and": 0.2327,
+            "Construction": 0.2577,
+            "SadraSadaf Gas Project": 0.1955
+        },
+        "filename": "cv (390)_annotated.json"
+    }
+}

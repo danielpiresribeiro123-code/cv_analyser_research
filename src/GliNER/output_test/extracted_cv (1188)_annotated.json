@@ -1,0 +1,46 @@
+{
+    "skills": [],
+    "professional_info": {
+        "person name": [
+            "Loren Shevitz",
+            "Christian Elser",
+            "Founder",
+            "Co-Founder",
+            "Founding member",
+            "Chester",
+            "Aaron Alon",
+            "An Ephesian"
+        ],
+        "job title": [
+            "director",
+            "business manager",
+            "arranger",
+            "conductor",
+            "section leader"
+        ],
+        "company": [],
+        "university": [
+            "Northwestern",
+            "University of Michigan",
+            "Western Michigan University",
+            "University of Chicago"
+        ],
+        "degree": [
+            "M.M."
+        ],
+        "years of experience": [],
+        "address": [
+            "345 W. Fullerton Pkwy.",
+            "60614-2853"
+        ],
+        "email": [
+            "loren@shevitz.org"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 0,
+        "confidence_scores": {},
+        "filename": "cv (1188)_annotated.json"
+    }
+}

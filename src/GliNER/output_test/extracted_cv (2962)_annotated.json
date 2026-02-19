@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "code calculation",
+        "3D modeling",
+        "piping construction",
+        "piping design",
+        "ASME B31.3IPEBS",
+        "Mechanical engineering",
+        "P & ID’s",
+        "PDMS",
+        "ASME"
+    ],
+    "professional_info": {
+        "person name": [
+            "SADDAM HUSSAIN"
+        ],
+        "job title": [
+            "MECHANICAL",
+            "ENGINEERENGINEER",
+            "saddam92907",
+            "graduate",
+            "mechanical engineer",
+            "Jr. Mechanical Engineer"
+        ],
+        "company": [
+            "Instituti",
+            "INDIAA",
+            "Annamal",
+            "AZAD FABRICATORS",
+            "Hot Air Generator",
+            "SHREE CEMENT LTD"
+        ],
+        "university": [
+            "Universi",
+            "ai",
+            "universit",
+            "y72.8",
+            "Secondary ICSE"
+        ],
+        "degree": [
+            "PG Diploma",
+            "Intermediate(10+2) JAC"
+        ],
+        "years of experience": [
+            "WORK EXPERIENCE"
+        ],
+        "address": [
+            "H.no: 499",
+            "Kabir colony (East)",
+            "old purulia Road no: 1/A",
+            "Zakir nagar",
+            "Jamshedpur-832110s",
+            "Ranchi67",
+            "Delhi 69",
+            "Khuskherra"
+        ],
+        "email": [
+            "Email",
+            "saddamhussy92@gmail.com"
+        ],
+        "phone": [
+            "CONTACT NO",
+            "+91-7992333498",
+            "Skype"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "code calculation": 0.1523,
+            "3D modeling": 0.2227,
+            "piping construction": 0.2472,
+            "piping design": 0.278,
+            "ASME B31.3IPEBS": 0.8921,
+            "Mechanical engineering": 0.2084,
+            "P & ID’s": 0.3673,
+            "PDMS": 0.4778,
+            "ASME": 0.4362
+        },
+        "filename": "cv (2962)_annotated.json"
+    }
+}

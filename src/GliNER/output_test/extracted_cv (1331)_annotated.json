@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "English Language and Literature",
+        "skills",
+        "Writing Ads script",
+        "English",
+        "college of Arts and Social Sciences Library",
+        "Books shelving",
+        "Creative writing",
+        "Time management",
+        "Social communication",
+        "Excellent level",
+        "Writing",
+        "Devoted and hard worker",
+        "Multi-tasks",
+        "Capable of working within a team",
+        "Managing social accounts",
+        "Quick learner",
+        "Leadership",
+        "Able to use computer"
+    ],
+    "professional_info": {
+        "person name": [
+            "HUDA HAMED  ALRIYAMI",
+            "Dr. Hussan Rashid Shuqair Abdul Jawwad",
+            "Mr. Mahmood Sulaiman Almuhrzi"
+        ],
+        "job title": [
+            "Fresh graduate",
+            "Copywriter",
+            "Ideas Maker",
+            "Freelance Translator",
+            "Librarian",
+            "Part time job"
+        ],
+        "company": [
+            "Marketing Agency"
+        ],
+        "university": [
+            "Sultan Qaboos University",
+            "College of Nussing",
+            "Sultan Qaboos"
+        ],
+        "degree": [
+            "Bachelor of English Language and Literature"
+        ],
+        "years of experience": [],
+        "address": [
+            "Address",
+            "Samail",
+            "Almadra"
+        ],
+        "email": [
+            "Email",
+            "hudahamed224@gmail.com"
+        ],
+        "phone": [
+            "Phone #",
+            "92607224 \\ 92991245",
+            "+968 99216071"
+        ]
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "English Language and Literature": 0.3332,
+            "skills": 0.2869,
+            "Writing Ads script": 0.2233,
+            "English": 0.2536,
+            "college of Arts and Social Sciences Library": 0.7546,
+            "Books shelving": 0.1623,
+            "Creative writing": 0.5226,
+            "Time management": 0.2924,
+            "Social communication": 0.3864,
+            "Excellent level": 0.2077,
+            "Writing": 0.3407,
+            "Devoted and hard worker": 0.6267,
+            "Multi-tasks": 0.4294,
+            "Capable of working within a team": 0.4275,
+            "Managing social accounts": 0.2319,
+            "Quick learner": 0.6011,
+            "Leadership": 0.5974,
+            "Able to use computer": 0.4087
+        },
+        "filename": "cv (1331)_annotated.json"
+    }
+}

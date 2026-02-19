@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "professional skills",
+        "Medical field",
+        "Fractures of the Patella",
+        "Excision Arthroplasty of the Elbow",
+        "Excision of the Trapezium for Carpometacarpal Arthritis of the Thumb"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dr. Iyer Krishna Mohan",
+            "Iyer Krishna Mohan",
+            "M. Ch. Orth.",
+            "M. S. Orth.",
+            "F.C.P.S. Orth .",
+            "D`Orth",
+            "M.C.P.S."
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "University of Liverpool",
+            "University of Mumbai",
+            "College of Physicians & Surgeons",
+            "Unive rsity of Mumbai"
+        ],
+        "degree": [
+            "Educational & Professional Qualification",
+            "M.B.B.S.",
+            "Fellowship in Orthopaedic Surgery",
+            "Master’s Degree in Orthopaedic Surgery"
+        ],
+        "years of experience": [
+            "basic experience"
+        ],
+        "address": [
+            "Cliff House",
+            "Room3",
+            "Claybrook Road",
+            "LONDON  W6  8ND",
+            "Flat 120 / H 2K",
+            "First Floor",
+            "Kailash Apartments",
+            "8th Main"
+        ],
+        "email": [
+            "E-mail",
+            "kmiyer28@hotmail.com"
+        ],
+        "phone": [
+            "Contact",
+            "Mobile",
+            "07753 146896",
+            "Res. 0091 80 23347529",
+            "Fax",
+            "0091 80 23460230"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "professional skills": 0.2011,
+            "Medical field": 0.1861,
+            "Fractures of the Patella": 0.2065,
+            "Excision Arthroplasty of the Elbow": 0.3685,
+            "Excision of the Trapezium for Carpometacarpal Arthritis of the Thumb": 0.2892
+        },
+        "filename": "cv (975)_annotated.json"
+    }
+}

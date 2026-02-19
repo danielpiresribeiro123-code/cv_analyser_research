@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "Educational Qualifications",
+        "I.T.I",
+        "TURNER trade",
+        "Machinery",
+        "Maintenance & HVAC System",
+        "Calibration Documentation",
+        "cooling tower",
+        "Blender"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ripan Kumar",
+            "Tanah"
+        ],
+        "job title": [
+            "Senior",
+            "Technician"
+        ],
+        "company": [
+            "H.P.",
+            "Govt. ITI Shimla (H.P.)",
+            "H.P Board of School Education Dharamshala",
+            "Jupiter Solar Power Ltd",
+            "Baddi. H.P",
+            "Sun Pharmaceutical Industries ltd",
+            "Ranbaxy laboratories",
+            "M/s Nahar Fabric Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Working Experience",
+            "5.5 Years Exp."
+        ],
+        "address": [
+            "Teh. Bangana distt.  una"
+        ],
+        "email": [
+            "ripankumar222@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Educational Qualifications": 0.2229,
+            "I.T.I": 0.2745,
+            "TURNER trade": 0.2673,
+            "Machinery": 0.193,
+            "Maintenance & HVAC System": 0.2223,
+            "Calibration Documentation": 0.2401,
+            "cooling tower": 0.1547,
+            "Blender": 0.1595
+        },
+        "filename": "cv (2096)_annotated.json"
+    }
+}

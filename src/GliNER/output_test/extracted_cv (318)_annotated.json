@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "MSOfficePackage",
+        "AutoCadd",
+        "AbletocommunicateinEnglish",
+        "Hindi",
+        "Urdu",
+        "STRENGTHS",
+        "Openmindedtoworkincomplexenvironment",
+        "Managedevelopmentofprogramstrategies",
+        "Individual&teamworkingCapability",
+        "HardworkingsincerityandHonesty",
+        "InternetSurfing",
+        "ENGLISH"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHAHZADALAM",
+            "Mr.AFTABALAM",
+            "RUKHSANABEGUM"
+        ],
+        "job title": [
+            "WorkingasSr.EngineerinH.B.INFRASTRUCTURE",
+            "WorkingasAsst.EngineerinDESIGNCONSULTANTS",
+            "ClientAndConsultant",
+            "UNMARRIED"
+        ],
+        "company": [
+            "SR.NOCOURSE INSTITUTE",
+            "B.TECH INTEGRALUNIVERSITY"
+        ],
+        "university": [
+            "HIGHSCHOOLDR.VSSSINTERCOLLEGE",
+            "INDIAN"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "-105/107ChamanGanj",
+            "U.PSinceJUNE",
+            "U.PSince5TH",
+            "U.PSince1st"
+        ],
+        "email": [
+            "EmailId",
+            "shahzad0512@gmail.com",
+            "L3104083"
+        ],
+        "phone": [
+            "MobileNo",
+            "+919307925459",
+            "+917905316134"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "MSOfficePackage": 0.3931,
+            "AutoCadd": 0.3073,
+            "AbletocommunicateinEnglish": 0.1684,
+            "Hindi": 0.7914,
+            "Urdu": 0.8106,
+            "STRENGTHS": 0.1923,
+            "Openmindedtoworkincomplexenvironment": 0.1763,
+            "Managedevelopmentofprogramstrategies": 0.1592,
+            "Individual&teamworkingCapability": 0.1904,
+            "HardworkingsincerityandHonesty": 0.1813,
+            "InternetSurfing": 0.1529,
+            "ENGLISH": 0.8374
+        },
+        "filename": "cv (318)_annotated.json"
+    }
+}

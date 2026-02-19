@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Diploma in",
+        "Computer",
+        "Physics",
+        "Chemistry",
+        "Math",
+        "All subject"
+    ],
+    "professional_info": {
+        "person name": [
+            "Akash  Kumawat",
+            "Prakash Chand Kumawat",
+            "akash10ritmee",
+            "12th  Class",
+            "10th Class"
+        ],
+        "job title": [
+            "Maintenance & Side Engineer",
+            "Computer Data  Operator"
+        ],
+        "company": [
+            "Board  Specialization  Institute",
+            "Institute Of",
+            "Triveni Public Sr.",
+            "Development Corporation"
+        ],
+        "university": [
+            "Education  University",
+            "university",
+            "Electrical  Rajdha ni",
+            "Mahaveer",
+            "Open",
+            "Jaipur Vidyut Vitran Nigam Limited(Jvvnl)",
+            "Rajasthan Skill And Livehoods"
+        ],
+        "degree": [
+            "B.tech  Rajasthan",
+            "Basic  Vardhman",
+            "BSER",
+            "Sc. Jaipur"
+        ],
+        "years of experience": [
+            "Four  Years Experience",
+            "One Years  Training Experience"
+        ],
+        "address": [
+            "Jaipur"
+        ],
+        "email": [
+            "Email",
+            "gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 9782601314"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Diploma in": 0.1864,
+            "Computer": 0.4073,
+            "Physics": 0.8144,
+            "Chemistry": 0.8071,
+            "Math": 0.5259,
+            "All subject": 0.2471
+        },
+        "filename": "cv (2065)_annotated.json"
+    }
+}

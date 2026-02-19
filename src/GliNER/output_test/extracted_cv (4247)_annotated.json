@@ -1,0 +1,99 @@
+{
+    "skills": [
+        "Productive",
+        "Expedite",
+        "Logistics",
+        "Customer Service",
+        "Finance",
+        "Accounting",
+        "Purchasing",
+        "Inventory Control",
+        "Shipping",
+        "Receiving",
+        "Bookkeeping",
+        "Ability to act independently",
+        "Ability to respond consistently",
+        "Ability to maintain positive company image and brand",
+        "Ability to perform work accurately and thoroughly",
+        "Efficient organization and time-management skills",
+        "Ability to prioritize tasks",
+        "courteous and professional demeanor",
+        "Strong negotiation skills",
+        "Ability to work well under pressure",
+        "Intermediate to advanced computer skills",
+        "MS Office suite",
+        "work-related software",
+        "Aviation industry",
+        "well-seasoned professional",
+        "experience",
+        "experienced and knowledgeable",
+        "production coordinating",
+        "aircraft documentation",
+        "purchasing"
+    ],
+    "professional_info": {
+        "person name": [
+            "Current Company Name"
+        ],
+        "job title": [
+            "PURCHASER / PRODUCTION COORDINATOR",
+            "professional",
+            "leads",
+            "project managers",
+            "customer representatives"
+        ],
+        "company": [
+            "Boeing",
+            "Airbus",
+            "Bombardier",
+            "Dornier",
+            "Lockheed",
+            "Flightstar"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "12 years",
+            "15 years of experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 30,
+        "confidence_scores": {
+            "Productive": 0.2694,
+            "Expedite": 0.1581,
+            "Logistics": 0.1981,
+            "Customer Service": 0.1591,
+            "Finance": 0.1665,
+            "Accounting": 0.1917,
+            "Purchasing": 0.2495,
+            "Inventory Control": 0.5126,
+            "Shipping": 0.19,
+            "Receiving": 0.2873,
+            "Bookkeeping": 0.2093,
+            "Ability to act independently": 0.2112,
+            "Ability to respond consistently": 0.2561,
+            "Ability to maintain positive company image and brand": 0.1668,
+            "Ability to perform work accurately and thoroughly": 0.4294,
+            "Efficient organization and time-management skills": 0.2832,
+            "Ability to prioritize tasks": 0.2487,
+            "courteous and professional demeanor": 0.5094,
+            "Strong negotiation skills": 0.4176,
+            "Ability to work well under pressure": 0.3507,
+            "Intermediate to advanced computer skills": 0.4424,
+            "MS Office suite": 0.8777,
+            "work-related software": 0.3474,
+            "Aviation industry": 0.1942,
+            "well-seasoned professional": 0.2575,
+            "experience": 0.2113,
+            "experienced and knowledgeable": 0.1509,
+            "production coordinating": 0.1578,
+            "aircraft documentation": 0.1552,
+            "purchasing": 0.2888
+        },
+        "filename": "cv (4247)_annotated.json"
+    }
+}

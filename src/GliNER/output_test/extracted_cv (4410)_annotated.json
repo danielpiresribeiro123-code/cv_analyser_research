@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "Hard-working",
+        "experience",
+        "Administration",
+        "Customer service-oriented",
+        "Microsoft Word",
+        "Excel",
+        "PowerPoint",
+        "Detail oriented",
+        "Planning/coordinating",
+        "Team leadership",
+        "Professional demeanor",
+        "Customer Service",
+        "Customer Satisfaction",
+        "Critical thinker",
+        "Excellent research skills",
+        "Accomplishments",
+        "Leadership",
+        "business accounting skills",
+        "Sensitive to the needs of geriatric patients",
+        "reassurance",
+        "encouragement",
+        "awareness",
+        "attention to detail",
+        "integrity"
+    ],
+    "professional_info": {
+        "person name": [
+            "CONSULTANT"
+        ],
+        "job title": [
+            "entry-level Office Assistant",
+            "Administrative Assistant",
+            "Consultant",
+            "consultants",
+            "Consulted",
+            "Caregiver",
+            "Customer Service Associate",
+            "customer service representatives",
+            "team member"
+        ],
+        "company": [
+            "Company Name",
+            "Tupperware"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "State",
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Hard-working": 0.4812,
+            "experience": 0.1663,
+            "Administration": 0.1757,
+            "Customer service-oriented": 0.3659,
+            "Microsoft Word": 0.6501,
+            "Excel": 0.4658,
+            "PowerPoint": 0.5506,
+            "Detail oriented": 0.5493,
+            "Planning/coordinating": 0.3278,
+            "Team leadership": 0.6465,
+            "Professional demeanor": 0.596,
+            "Customer Service": 0.3778,
+            "Customer Satisfaction": 0.5143,
+            "Critical thinker": 0.6031,
+            "Excellent research skills": 0.5591,
+            "Accomplishments": 0.2208,
+            "Leadership": 0.3874,
+            "business accounting skills": 0.1813,
+            "Sensitive to the needs of geriatric patients": 0.2759,
+            "reassurance": 0.17,
+            "encouragement": 0.2916,
+            "awareness": 0.3534,
+            "attention to detail": 0.4371,
+            "integrity": 0.4185
+        },
+        "filename": "cv (4410)_annotated.json"
+    }
+}

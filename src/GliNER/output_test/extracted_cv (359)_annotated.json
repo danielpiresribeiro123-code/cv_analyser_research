@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "Civil Engineering",
+        "Design & construction of  Substations and  Buildings",
+        "Time management",
+        "Civil Project",
+        "Al Khurmah Substation",
+        "Al Barsha Substation",
+        "Golf community Substation",
+        "Installation"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Consultants",
+            "Site Engineer"
+        ],
+        "company": [
+            "Dubai Electricity & Water Authority",
+            "ETA Star Engin eering & Contracting Company",
+            "Saudi Electricity Company",
+            "ETA Power Projects Division",
+            "Dubai Electrici ty & Water Authority",
+            "DEWA",
+            "Energo project E ntel (EPE)"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "5 years’ experience",
+            "4 years"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "hamdhan1661@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+971 52 6836306"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Civil Engineering": 0.6634,
+            "Design & construction of  Substations and  Buildings": 0.177,
+            "Time management": 0.1679,
+            "Civil Project": 0.1682,
+            "Al Khurmah Substation": 0.174,
+            "Al Barsha Substation": 0.2001,
+            "Golf community Substation": 0.1828,
+            "Installation": 0.1555
+        },
+        "filename": "cv (359)_annotated.json"
+    }
+}

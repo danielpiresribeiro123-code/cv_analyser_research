@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "Matric hr sec",
+        "Matric hr sec2011Matriculation",
+        "Key Skills",
+        "Good understanding skills",
+        "Fluency",
+        "Tamil",
+        "English",
+        "Hindi",
+        "Good leadership qualities",
+        "Efficient communication skills",
+        "Good reasoning and analysing ability",
+        "Flexible to work under pressure",
+        "Professional certifications",
+        "Certificate courses in Computer Languages",
+        "Leadership Qualities"
+    ],
+    "professional_info": {
+        "person name": [
+            "S.NANDHINE"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "College",
+            "M.sc",
+            "MathematicsWomen’s",
+            "Christian",
+            "college2018Autonomous",
+            "B.sc",
+            "MathematicsMOP",
+            "Vaishnav",
+            "college for",
+            "HSC Vani",
+            "Vidhyalaya",
+            "SSLC Vani",
+            "VIT",
+            "LOYOLA"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Current and Permanent Mailing Address",
+            "No 8",
+            "Kamarajar salai",
+            "Gandhi Nagar",
+            "Moovarasampet",
+            "Chennai -91"
+        ],
+        "email": [
+            "E-mail id",
+            "nandhinesri@gmail.com"
+        ],
+        "phone": [
+            "Contact number",
+            "(+91)9171894489"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Matric hr sec": 0.4519,
+            "Matric hr sec2011Matriculation": 0.231,
+            "Key Skills": 0.1866,
+            "Good understanding skills": 0.4774,
+            "Fluency": 0.1909,
+            "Tamil": 0.6709,
+            "English": 0.7971,
+            "Hindi": 0.8749,
+            "Good leadership qualities": 0.482,
+            "Efficient communication skills": 0.3902,
+            "Good reasoning and analysing ability": 0.4294,
+            "Flexible to work under pressure": 0.2789,
+            "Professional certifications": 0.7575,
+            "Certificate courses in Computer Languages": 0.4642,
+            "Leadership Qualities": 0.2906
+        },
+        "filename": "cv (1607)_annotated.json"
+    }
+}

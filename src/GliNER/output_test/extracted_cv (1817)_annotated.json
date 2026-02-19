@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Gender",
+        "Male",
+        "Nationality",
+        "Marital Status",
+        "Unmarried",
+        "Professional Competency",
+        "Personal Traits",
+        "Highly motivated and willing to learn new things",
+        "Strong motivational and leadership skills",
+        "Ability to produce best result in pressure situation"
+    ],
+    "professional_info": {
+        "person name": [
+            "Shashi Kant",
+            "Chauhan",
+            "Mr. Samai ChauhanObjective"
+        ],
+        "job title": [
+            "Engineer"
+        ],
+        "company": [],
+        "university": [
+            "CBSE",
+            "semKurukshetra",
+            "university"
+        ],
+        "degree": [
+            "B.Tech – Mechanical",
+            "Intermediate",
+            "B.tech",
+            "B.tech 2nd",
+            "B.tech 3rd",
+            "B.tech 4th",
+            "B.tech 5th",
+            "B.tech 6th",
+            "B.tech 7th",
+            "B.tech 8th"
+        ],
+        "years of experience": [],
+        "address": [
+            "L-Ist-A House No. 632/14",
+            "Sangam Vihar"
+        ],
+        "email": [
+            "E-Mail",
+            "Shashiknt25@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+91-8588020621",
+            "+91-9818985858"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Gender": 0.2773,
+            "Male": 0.2244,
+            "Nationality": 0.1701,
+            "Marital Status": 0.2536,
+            "Unmarried": 0.2467,
+            "Professional Competency": 0.4404,
+            "Personal Traits": 0.2861,
+            "Highly motivated and willing to learn new things": 0.2214,
+            "Strong motivational and leadership skills": 0.2462,
+            "Ability to produce best result in pressure situation": 0.1699
+        },
+        "filename": "cv (1817)_annotated.json"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "skills",
+        "talent",
+        "experience",
+        "knowledge",
+        "Computer science",
+        "Male",
+        "Married",
+        "Strength",
+        "Planning",
+        "Coordination",
+        "Execution and Monitoring",
+        "Hindi",
+        "English",
+        "Listening Music",
+        "Watching TV"
+    ],
+    "professional_info": {
+        "person name": [
+            "Aditya Kumar",
+            "Hira Kant Jha",
+            "Indian"
+        ],
+        "job title": [],
+        "company": [
+            "AI-SATS"
+        ],
+        "university": [
+            "Madras University"
+        ],
+        "degree": [
+            "C.S.A.",
+            "B.SC"
+        ],
+        "years of experience": [],
+        "address": [
+            "UG 1",
+            "RZ 233/C",
+            "Street No 5",
+            "RajNagar-1",
+            "Palam Colony",
+            "New Delhi",
+            "New Delhi-45"
+        ],
+        "email": [
+            "E-mail",
+            "-akjha9891@gmail.com"
+        ],
+        "phone": [
+            "+91-8010507584"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "skills": 0.1715,
+            "talent": 0.2521,
+            "experience": 0.1936,
+            "knowledge": 0.3449,
+            "Computer science": 0.1603,
+            "Male": 0.2847,
+            "Married": 0.232,
+            "Strength": 0.256,
+            "Planning": 0.3027,
+            "Coordination": 0.1922,
+            "Execution and Monitoring": 0.2029,
+            "Hindi": 0.8246,
+            "English": 0.7883,
+            "Listening Music": 0.2088,
+            "Watching TV": 0.1518
+        },
+        "filename": "cv (570)_annotated.json"
+    }
+}

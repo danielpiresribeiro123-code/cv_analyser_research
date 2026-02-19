@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "skills",
+        "Software Auto CADD",
+        "CATIA",
+        "Working knowledge",
+        "MS Office",
+        "English",
+        "Hindi",
+        "AREAS OF INTEREST",
+        "I.C Machines",
+        "Production workshops",
+        "Designing",
+        "Marketing",
+        "STRENGTH",
+        "Positive attitude",
+        "Vibrant",
+        "efficient",
+        "go- getter",
+        "Ability to effectively interact with all age group",
+        "Sketching"
+    ],
+    "professional_info": {
+        "person name": [
+            "PANKAJ KUMAR VERMA",
+            "Mr. Jeet Bahadur Verma"
+        ],
+        "job title": [],
+        "company": [
+            "Post- Agrico",
+            "B.E MECHANICAL ENGINEERING",
+            "ITC"
+        ],
+        "university": [
+            "ANNAMALAI UNIVERSITY",
+            "JHARKHAND ACADEMIC COUNCIL",
+            "A.J.K COLLEGE",
+            "GURU NANAK HIGH SCHOOL"
+        ],
+        "degree": [
+            "XII (HSC)"
+        ],
+        "years of experience": [],
+        "address": [
+            "H. No. 1",
+            "Line No. 1",
+            "Bhuiyadih Nand Nagar",
+            "Pin-831009"
+        ],
+        "email": [
+            "Email",
+            "pankajmech11@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9245160916"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "skills": 0.2162,
+            "Software Auto CADD": 0.3844,
+            "CATIA": 0.3924,
+            "Working knowledge": 0.3121,
+            "MS Office": 0.7372,
+            "English": 0.4902,
+            "Hindi": 0.7947,
+            "AREAS OF INTEREST": 0.3122,
+            "I.C Machines": 0.1725,
+            "Production workshops": 0.1585,
+            "Designing": 0.3499,
+            "Marketing": 0.1599,
+            "STRENGTH": 0.3956,
+            "Positive attitude": 0.2925,
+            "Vibrant": 0.4522,
+            "efficient": 0.2923,
+            "go- getter": 0.4052,
+            "Ability to effectively interact with all age group": 0.2819,
+            "Sketching": 0.3668
+        },
+        "filename": "cv (764)_annotated.json"
+    }
+}

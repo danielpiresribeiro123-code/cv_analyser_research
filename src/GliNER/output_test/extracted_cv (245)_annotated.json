@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "ACADEMIC QUALIFICATION",
+        "Energy  efficient  Homogeneous  clustering  algorithm",
+        "PROFESSIONAL QUALIFICATION",
+        "Electronics and communication engineering",
+        "Outdoors electric network",
+        "Outdoors Telecommunication network"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMAD AZHARUDDIN"
+        ],
+        "job title": [
+            "Project QA/QC Engineer",
+            "Project Engineer"
+        ],
+        "company": [
+            "ISC",
+            "Present  Company",
+            "IBN  OMARIAH  CO.",
+            "IOC",
+            "IBN Omairah Company",
+            "IBN OMARIAH CO."
+        ],
+        "university": [
+            "ICSE",
+            "Sri Krishna Institute of Technology"
+        ],
+        "degree": [
+            "Advance B.E"
+        ],
+        "years of experience": [],
+        "address": [
+            "Landour bazaar habib building house No.207"
+        ],
+        "email": [
+            "Email",
+            "md.shabbir8899@gmail.com",
+            "mohd.uzar@gmail.com"
+        ],
+        "phone": [
+            "+966540319144"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "ACADEMIC QUALIFICATION": 0.3817,
+            "Energy  efficient  Homogeneous  clustering  algorithm": 0.2936,
+            "PROFESSIONAL QUALIFICATION": 0.177,
+            "Electronics and communication engineering": 0.2792,
+            "Outdoors electric network": 0.1556,
+            "Outdoors Telecommunication network": 0.2079
+        },
+        "filename": "cv (245)_annotated.json"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "computer literate",
+        "window",
+        "strong work ethic",
+        "Homeland Security",
+        "Homeland Security",
+        "Liberal Studies",
+        "time management"
+    ],
+    "professional_info": {
+        "person name": [
+            "ASSISTANT TEACHER",
+            "I",
+            "Company Name"
+        ],
+        "job title": [
+            "summer camp counselor",
+            "fitness instructor",
+            "visitation specialist",
+            "child care",
+            "delivery driving",
+            "coach",
+            "disaster specialist",
+            "Disaster services",
+            "volunteers",
+            "Assistant teacher",
+            "Discipline children"
+        ],
+        "company": [
+            "ISU Flying Cyclones",
+            "private businesses"
+        ],
+        "university": [
+            "Walden University",
+            "American Military University",
+            "Iowa State University"
+        ],
+        "degree": [
+            "CDL",
+            "Private pilot license",
+            "MVR",
+            "Ph.D.",
+            "Master of Arts",
+            "Bachelor of Science"
+        ],
+        "years of experience": [],
+        "address": [
+            "City , State",
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "computer literate": 0.4167,
+            "window": 0.1639,
+            "strong work ethic": 0.5116,
+            "Homeland Security": 0.279,
+            "Liberal Studies": 0.2886,
+            "time management": 0.2665
+        },
+        "filename": "cv (4568)_annotated.json"
+    }
+}

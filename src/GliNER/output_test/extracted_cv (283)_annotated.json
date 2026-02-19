@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "HR & Administration",
+        "Human Resources Management",
+        "General Administration",
+        "people  Management",
+        "Sourcing  Candidates",
+        "keen planner",
+        "Adequate knowledge of statutory Acts",
+        "industry best practice",
+        "Recruitment & Negotiation Skill",
+        "Sound judgment and Decision Making skills",
+        "Strong influencing skills",
+        "Achievement oriented Team builder",
+        "Pervasive Communicator",
+        "Human Resources",
+        "HR",
+        "screening candidates"
+    ],
+    "professional_info": {
+        "person name": [
+            "PRADEEP KUMAR"
+        ],
+        "job title": [
+            "HR & Admin professional",
+            "enterprising  leader",
+            "HR",
+            "Chennai Management Skills",
+            "Assistant Manager",
+            "HR& Admin officer",
+            "HR Executive",
+            "HR Assistant"
+        ],
+        "company": [
+            "Aasaan Jobs private  Ltd",
+            "Aasaan Jobs P Ltd",
+            "Siesta Hospitality Services Ltd",
+            "ECIL",
+            "Apex Knowledge Solutions p Ltd",
+            "Leela Scottish Lace P Ltd"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "9+ yrs"
+        ],
+        "address": [],
+        "email": [
+            "E - Mail",
+            "drpkmba@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 77087 35770 / 95664 75657"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "HR & Administration": 0.3124,
+            "Human Resources Management": 0.2292,
+            "General Administration": 0.3169,
+            "people  Management": 0.2949,
+            "Sourcing  Candidates": 0.1788,
+            "keen planner": 0.2384,
+            "Adequate knowledge of statutory Acts": 0.1716,
+            "industry best practice": 0.3962,
+            "Recruitment & Negotiation Skill": 0.3282,
+            "Sound judgment and Decision Making skills": 0.3939,
+            "Strong influencing skills": 0.3226,
+            "Achievement oriented Team builder": 0.3728,
+            "Pervasive Communicator": 0.2748,
+            "Human Resources": 0.2081,
+            "HR": 0.1943,
+            "screening candidates": 0.3167
+        },
+        "filename": "cv (283)_annotated.json"
+    }
+}

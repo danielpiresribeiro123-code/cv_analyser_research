@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "BASIC ACADEMIC CREDENTIALS",
+        "Qualification Board",
+        "Civil",
+        "Engineering",
+        "Estimation Of Runoff Over The Kolar Dam Catchment",
+        "SCS Curve Number Method",
+        "IT’S PROFICIENCY",
+        "Auto cad.",
+        "Microsoft Office Word",
+        "Microsoft Office Excel",
+        "Microsoft Office Power Point",
+        "Jalud water treatment plant",
+        "Civil Engineering",
+        "Kabitkhedi sewage treatment plant",
+        "RMC plant",
+        "Asphalt plant",
+        "Bhawarkunwa water treatment plant",
+        "ACHIEVEMENTS",
+        "INTERPERSONAL SKILL",
+        "Confident and Determined",
+        "Ability to cope up with different situations",
+        "PERSONAL"
+    ],
+    "professional_info": {
+        "person name": [
+            "fresh graduate"
+        ],
+        "job title": [
+            "CAREER OBJECTIVE"
+        ],
+        "company": [
+            "Parmanent Adderess",
+            "At&Post-Hirri",
+            "RGPV",
+            "Intermediate Christian Eminent H S School",
+            "High School M S M Gyanoday H S School",
+            "Company",
+            "MP PWD"
+        ],
+        "university": [],
+        "degree": [
+            "B.E.",
+            "B.E"
+        ],
+        "years of experience": [],
+        "address": [
+            "Internet Browsing",
+            "Present Address",
+            "4-1-108/2/4",
+            "Plot-7",
+            "Street-3 Bhawani Nagar"
+        ],
+        "email": [
+            "+919977774426",
+            "E-mail",
+            "shubhamsewaiwar@gmail.com"
+        ],
+        "phone": [
+            "Contact No."
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "BASIC ACADEMIC CREDENTIALS": 0.2118,
+            "Qualification Board": 0.2119,
+            "Civil": 0.4044,
+            "Engineering": 0.2407,
+            "Estimation Of Runoff Over The Kolar Dam Catchment": 0.18,
+            "SCS Curve Number Method": 0.2604,
+            "IT’S PROFICIENCY": 0.331,
+            "Auto cad.": 0.4556,
+            "Microsoft Office Word": 0.5514,
+            "Microsoft Office Excel": 0.4854,
+            "Microsoft Office Power Point": 0.413,
+            "Jalud water treatment plant": 0.5275,
+            "Civil Engineering": 0.7249,
+            "Kabitkhedi sewage treatment plant": 0.3069,
+            "RMC plant": 0.2596,
+            "Asphalt plant": 0.2973,
+            "Bhawarkunwa water treatment plant": 0.4923,
+            "ACHIEVEMENTS": 0.1571,
+            "INTERPERSONAL SKILL": 0.3332,
+            "Confident and Determined": 0.3334,
+            "Ability to cope up with different situations": 0.2353,
+            "PERSONAL": 0.1786
+        },
+        "filename": "cv (2983)_annotated.json"
+    }
+}

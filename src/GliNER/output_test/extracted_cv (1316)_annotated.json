@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "Finance  and  Marketing",
+        "intense expertise",
+        "wealth management advisory",
+        "banking",
+        "Investment Products",
+        "comprehensive understanding",
+        "structured products",
+        "abilities of independently handling a wide spectrum of activities",
+        "innate abilities to withstand work pressure",
+        "exceptional talent",
+        "problem solving",
+        "reasoned thought process",
+        "excellent track record of employer satisfaction",
+        "well versed with the modalities of corporate culture",
+        "High Net worth clients",
+        "Exceptional  understanding",
+        "Educational Qualification"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dinesh Joghee Sockkan",
+            "jsdinesh"
+        ],
+        "job title": [
+            "Well-organized and meticulous professional",
+            "Highly effective communicator",
+            "Computer savvy individual",
+            "Partner & Investment Consultant",
+            "Assistant Manager",
+            "Business Development Executive",
+            "Branch Manager",
+            "Sales Manager",
+            "Relationship Manager"
+        ],
+        "company": [
+            "M/s Excite Consultants",
+            "Kotak Securities Limited",
+            "ICICI Securities Limited",
+            "Unicon Securities Private Limited",
+            "India bulls Securities Limited"
+        ],
+        "university": [],
+        "degree": [
+            "MBA  graduate",
+            "Masters in Business Administration"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": [
+            "Mobile",
+            "+91 9585444236"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Finance  and  Marketing": 0.5389,
+            "intense expertise": 0.1501,
+            "wealth management advisory": 0.3023,
+            "banking": 0.2572,
+            "Investment Products": 0.1715,
+            "comprehensive understanding": 0.1881,
+            "structured products": 0.2426,
+            "abilities of independently handling a wide spectrum of activities": 0.1988,
+            "innate abilities to withstand work pressure": 0.2236,
+            "exceptional talent": 0.2311,
+            "problem solving": 0.2299,
+            "reasoned thought process": 0.2124,
+            "excellent track record of employer satisfaction": 0.2756,
+            "well versed with the modalities of corporate culture": 0.1543,
+            "High Net worth clients": 0.1887,
+            "Exceptional  understanding": 0.187,
+            "Educational Qualification": 0.1646
+        },
+        "filename": "cv (1316)_annotated.json"
+    }
+}

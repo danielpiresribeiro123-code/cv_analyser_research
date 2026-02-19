@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "Expertise",
+        "Innovative",
+        "Flexible",
+        "positive attitude",
+        "willingness to collaborate with others",
+        "Time management skill",
+        "Ability to perform physically demanding work",
+        "SRU 59 & 45",
+        "Ruwais Refinery Expansion",
+        "Jetty Loading line and Berth -1 Structure"
+    ],
+    "professional_info": {
+        "person name": [
+            "JAGABAR SATHIK"
+        ],
+        "job title": [
+            "PIPING AND MECHANICAL SUPERVISOR",
+            "SNOPSHOTS",
+            "competent professional",
+            "Mechanical Supervisor"
+        ],
+        "company": [
+            "well-organized company",
+            "WLL.Abu Dhabi-UAE",
+            "Abudhabi Gas Industries",
+            "GASCO",
+            "Abudhabi Oil Refining Company",
+            "M/s DELPI TVS"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "irsathik@gmail.com",
+            "00971505698994"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Expertise": 0.3692,
+            "Innovative": 0.1696,
+            "Flexible": 0.3664,
+            "positive attitude": 0.4041,
+            "willingness to collaborate with others": 0.4105,
+            "Time management skill": 0.3647,
+            "Ability to perform physically demanding work": 0.3714,
+            "SRU 59 & 45": 0.1698,
+            "Ruwais Refinery Expansion": 0.3086,
+            "Jetty Loading line and Berth -1 Structure": 0.1861
+        },
+        "filename": "cv (3491)_annotated.json"
+    }
+}

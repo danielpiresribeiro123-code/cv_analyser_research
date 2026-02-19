@@ -1,0 +1,91 @@
+{
+    "skills": [
+        "team management",
+        "administrative accountability",
+        "supply management",
+        "Responsibility",
+        "accountability",
+        "trust",
+        "judgment",
+        "leadership",
+        "Pride",
+        "Honor",
+        "Courage",
+        "Commitment",
+        "Effective team leader",
+        "Supply and logistics planning",
+        "Data management",
+        "Extremely organized",
+        "Six Sigma",
+        "HAZMAT handling",
+        "Trained in emergency response",
+        "CPR certified",
+        "Secret Security Clearance",
+        "Valid CA driver license",
+        "Global War on Terrorism Service Medal",
+        "Global War on Terrorism Expeditionary Medal",
+        "Afghanistan Campaign Medal",
+        "North Atlantic Treaty Organization Medal NON-Article 5",
+        "Good Conduct",
+        "Presidential Unit Citation"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "AVIATION SUPPLY SPECIALIST",
+            "Military professional",
+            "Leader of Marines",
+            "Inventory Specialist",
+            "aviation supply specialists"
+        ],
+        "company": [
+            "Aviation Supply Department",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "11 years experience",
+            "experience"
+        ],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "team management": 0.5369,
+            "administrative accountability": 0.4134,
+            "supply management": 0.5019,
+            "Responsibility": 0.6083,
+            "accountability": 0.6339,
+            "trust": 0.5843,
+            "judgment": 0.663,
+            "leadership": 0.565,
+            "Pride": 0.5885,
+            "Honor": 0.6186,
+            "Courage": 0.5838,
+            "Commitment": 0.4993,
+            "Effective team leader": 0.3205,
+            "Supply and logistics planning": 0.3505,
+            "Data management": 0.5645,
+            "Extremely organized": 0.5909,
+            "Six Sigma": 0.4358,
+            "HAZMAT handling": 0.4927,
+            "Trained in emergency response": 0.1871,
+            "CPR certified": 0.6555,
+            "Secret Security Clearance": 0.8306,
+            "Valid CA driver license": 0.2815,
+            "Global War on Terrorism Service Medal": 0.8716,
+            "Global War on Terrorism Expeditionary Medal": 0.8659,
+            "Afghanistan Campaign Medal": 0.8468,
+            "North Atlantic Treaty Organization Medal NON-Article 5": 0.751,
+            "Good Conduct": 0.6525,
+            "Presidential Unit Citation": 0.8912
+        },
+        "filename": "cv (4664)_annotated.json"
+    }
+}

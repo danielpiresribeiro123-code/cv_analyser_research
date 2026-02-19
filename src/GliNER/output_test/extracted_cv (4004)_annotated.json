@@ -1,0 +1,46 @@
+{
+    "skills": [
+        "highly talented",
+        "professional",
+        "Proper management of materials and workmanship"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sheik Maideen",
+            "sheikdeen1"
+        ],
+        "job title": [
+            "Assistant Civil Engineer",
+            "Civil Engineer",
+            "Civil Site Engineer",
+            "Assistant Civil Site Engineer",
+            "Site Supervisor",
+            "Project director"
+        ],
+        "company": [
+            "Elite Contractors Chennai Pvt Ltd",
+            "Pyramid Constructions"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "sheikdeen93@gmail.com",
+            "Skype"
+        ],
+        "phone": [
+            "Mobile",
+            "+919841797769"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "highly talented": 0.1606,
+            "professional": 0.1538,
+            "Proper management of materials and workmanship": 0.2163
+        },
+        "filename": "cv (4004)_annotated.json"
+    }
+}

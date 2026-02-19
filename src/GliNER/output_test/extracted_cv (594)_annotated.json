@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "Married",
+        "Male",
+        "Hindi",
+        "English",
+        "WORKING EXPERIENCE"
+    ],
+    "professional_info": {
+        "person name": [
+            "PIPE FITTER",
+            "CHANDRA SHEKHAR SINGH",
+            "Late Shree Indrajeet Singh",
+            "GENDER",
+            "PIPE FITTER18",
+            "PIPE FITTER12",
+            "PIPE FITTER02",
+            "PIPE FITTER15",
+            "PIPE FITTER14"
+        ],
+        "job title": [],
+        "company": [
+            "Indian",
+            "Essar Projects Ltd.",
+            "Larsen & Toubro Ltd.",
+            "Bridge & Roof Co. (I) Ltd.",
+            "S.M.K. Engineering Pvt. Ltd",
+            "TABAS TECH CONT LLC"
+        ],
+        "university": [],
+        "degree": [
+            "12th Passed / Graduation (BA)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Village-Gosai Patti",
+            "Post - Gauri Ibrahim",
+            "Dist. – Kushinagar  U.P. 274406"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Married": 0.3291,
+            "Male": 0.2952,
+            "Hindi": 0.8992,
+            "English": 0.9129,
+            "WORKING EXPERIENCE": 0.2124
+        },
+        "filename": "cv (594)_annotated.json"
+    }
+}

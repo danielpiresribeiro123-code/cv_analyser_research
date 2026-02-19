@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "civil engineering",
+        "strong developing skills",
+        "strategy",
+        "talent",
+        "developed skills",
+        "construction planning",
+        "project management",
+        "QA/QC",
+        "quantity surveying",
+        "construction planning",
+        "strong analytical skills",
+        "quantity surveying",
+        "highly competent individual",
+        "team leadership",
+        "expert technical advice"
+    ],
+    "professional_info": {
+        "person name": [
+            "I",
+            "Naser M Al Baddh"
+        ],
+        "job title": [
+            "senior authority",
+            "Civil Engineer"
+        ],
+        "company": [
+            "NBTC Group",
+            "Constructions MGT (Manifold Group Trunk Line)",
+            "KOC at Kuwait",
+            "Oil and Gas",
+            "MILES Engineering and Construction Solutions LLC"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "SELVAM MOORTHY 736",
+            "South Street",
+            "Po-622515"
+        ],
+        "email": [
+            "E-mail",
+            "mspcivil52@gmail.com"
+        ],
+        "phone": [
+            "+91-8608235389"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "civil engineering": 0.6042,
+            "strong developing skills": 0.2649,
+            "strategy": 0.2555,
+            "talent": 0.2578,
+            "developed skills": 0.1674,
+            "construction planning": 0.1927,
+            "project management": 0.5389,
+            "QA/QC": 0.3246,
+            "quantity surveying": 0.1873,
+            "strong analytical skills": 0.4873,
+            "highly competent individual": 0.2206,
+            "team leadership": 0.5101,
+            "expert technical advice": 0.3302
+        },
+        "filename": "cv (3197)_annotated.json"
+    }
+}

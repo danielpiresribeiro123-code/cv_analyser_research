@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Single",
+        "A+",
+        "N+",
+        "MCSE 2003",
+        "CCNA 2time",
+        "Arabicread",
+        "Englishread",
+        "Hindi speak",
+        "Internet",
+        "communicate",
+        "help disk",
+        "Desktop support",
+        "skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "Moosa MaulaBakhsh Abdullah Albalushi",
+            "Omani"
+        ],
+        "job title": [
+            "Executive",
+            "Designation",
+            "Computer Engineer",
+            "SR-ASSISTANT",
+            "ASSISTANT-IT OPERATIONSCompany",
+            "network Technician",
+            "system administrator assistant"
+        ],
+        "company": [
+            "MHD – Info Tech",
+            "BAHWAN TRADING COMPANY LLC"
+        ],
+        "university": [
+            "Majan College University College"
+        ],
+        "degree": [
+            "M.S-office2003",
+            "M.S-Exchange 2010"
+        ],
+        "years of experience": [],
+        "address": [
+            "Address",
+            "Wadi Al Hatat"
+        ],
+        "email": [
+            "scorpion_kicks@yahoo.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Single": 0.3149,
+            "A+": 0.4835,
+            "N+": 0.433,
+            "MCSE 2003": 0.9021,
+            "CCNA 2time": 0.8559,
+            "Arabicread": 0.3839,
+            "Englishread": 0.2089,
+            "Hindi speak": 0.3238,
+            "Internet": 0.2105,
+            "communicate": 0.3016,
+            "help disk": 0.1521,
+            "Desktop support": 0.2898,
+            "skills": 0.1878
+        },
+        "filename": "cv (882)_annotated.json"
+    }
+}

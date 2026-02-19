@@ -1,0 +1,113 @@
+{
+    "skills": [
+        "Manual Testing",
+        "Proficiency",
+        "SDLC",
+        "STLC",
+        "Defect Life Cycle",
+        "Knowledge",
+        "Test Plan",
+        "Traceability Matrix",
+        "Knowledge of writing",
+        "Functional",
+        "Integration",
+        "System Testing",
+        "Smoke",
+        "Regression",
+        "Compatibility",
+        "Automation Testing",
+        "QTP",
+        "Checkpoint",
+        "Output",
+        "values",
+        "Object Repository",
+        "Parameterization",
+        "MS Excel",
+        "Data",
+        "tables",
+        "Software Language",
+        "C",
+        "Banking",
+        "Receipt Tracking",
+        "Strengths",
+        "System and Operational Analysis",
+        "Good Communication Skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "Name",
+            "Indira Gandhi",
+            "NellikuzhiMahatma"
+        ],
+        "job title": [
+            "Team Worker"
+        ],
+        "company": [
+            "SONY",
+            "SPYROSYS"
+        ],
+        "university": [
+            "SubjectCollege",
+            "Institute of",
+            "HSEComputer",
+            "ScienceGBHSS",
+            "Aluva State201280",
+            "SSLCHoly Family HS",
+            "AngamalyState201098"
+        ],
+        "degree": [
+            "UniversityPassing",
+            "B-TechECE",
+            "Gandhi2016CGPA"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "sonyavarachan00@gmail.com",
+            "management"
+        ],
+        "phone": [
+            "Phone",
+            "9947737613"
+        ]
+    },
+    "metadata": {
+        "total_skills": 32,
+        "confidence_scores": {
+            "Manual Testing": 0.4316,
+            "Proficiency": 0.1755,
+            "SDLC": 0.4221,
+            "STLC": 0.4429,
+            "Defect Life Cycle": 0.5049,
+            "Knowledge": 0.3088,
+            "Test Plan": 0.2518,
+            "Traceability Matrix": 0.464,
+            "Knowledge of writing": 0.2351,
+            "Functional": 0.2233,
+            "Integration": 0.3007,
+            "System Testing": 0.2918,
+            "Smoke": 0.2794,
+            "Regression": 0.3654,
+            "Compatibility": 0.3556,
+            "Automation Testing": 0.4297,
+            "QTP": 0.3364,
+            "Checkpoint": 0.2626,
+            "Output": 0.2453,
+            "values": 0.1949,
+            "Object Repository": 0.365,
+            "Parameterization": 0.1857,
+            "MS Excel": 0.1687,
+            "Data": 0.1874,
+            "tables": 0.191,
+            "Software Language": 0.4738,
+            "C": 0.5491,
+            "Banking": 0.1504,
+            "Receipt Tracking": 0.2223,
+            "Strengths": 0.2235,
+            "System and Operational Analysis": 0.3043,
+            "Good Communication Skills": 0.2854
+        },
+        "filename": "cv (767)_annotated.json"
+    }
+}

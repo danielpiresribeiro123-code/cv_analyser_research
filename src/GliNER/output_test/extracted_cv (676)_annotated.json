@@ -1,0 +1,99 @@
+{
+    "skills": [
+        "MaritalStatus",
+        "Single",
+        "Marathi",
+        "Hindi",
+        "English",
+        "DiplomaMechanicalMSBTEBOARD2016",
+        "AggregateofDME MSBTEBOARD2016",
+        "AutoCAD",
+        "ProjectManagementWORKINGEXPERIENCE",
+        "Production",
+        "GoodKnowledgeaboutdrawingsofBending",
+        "QualityControl&Planning",
+        "Maintaining5SActivitiesinShopFloor",
+        "handlingalltypesofsettings",
+        "Smoothlinerunningwithoutanybreakdowns",
+        "Goodknowledgeaboutalltypesofdiesandpunches",
+        "bevelprotector",
+        "LEANconcept",
+        "TPM",
+        "KAIZENEMS",
+        "Knowledgethefollowingmachinesinshop",
+        "STRENGTHS",
+        "PositiveThinking&Attitude",
+        "QuickLearn&Application",
+        "GoodCommunication",
+        "Hardworking",
+        "knowledgeandbelief"
+    ],
+    "professional_info": {
+        "person name": [
+            "WadghulePramodUttam",
+            "WadghulePramod"
+        ],
+        "job title": [
+            "Male",
+            "Sr.",
+            "ApprenticeTraineeEngineer"
+        ],
+        "company": [
+            "Qualification Board/Universit",
+            "SULZERIndiaLimitedKondhapuriPuneFor1YEARS"
+        ],
+        "university": [
+            "S.S.C. Maharashtra",
+            "HSC Maharashtra"
+        ],
+        "degree": [],
+        "years of experience": [
+            "09/03/1995",
+            "03July2016to30June2017"
+        ],
+        "address": [
+            "A/P–TakaliBhima",
+            "Tal–Shirur",
+            "Dist-Pune",
+            "Pin-412208"
+        ],
+        "email": [
+            "EmailId",
+            "wadghulep@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "MaritalStatus": 0.1549,
+            "Single": 0.3429,
+            "Marathi": 0.7739,
+            "Hindi": 0.8394,
+            "English": 0.6873,
+            "DiplomaMechanicalMSBTEBOARD2016": 0.578,
+            "AggregateofDME MSBTEBOARD2016": 0.1683,
+            "AutoCAD": 0.3895,
+            "ProjectManagementWORKINGEXPERIENCE": 0.2714,
+            "Production": 0.2741,
+            "GoodKnowledgeaboutdrawingsofBending": 0.3988,
+            "QualityControl&Planning": 0.3837,
+            "Maintaining5SActivitiesinShopFloor": 0.3725,
+            "handlingalltypesofsettings": 0.1693,
+            "Smoothlinerunningwithoutanybreakdowns": 0.369,
+            "Goodknowledgeaboutalltypesofdiesandpunches": 0.4449,
+            "bevelprotector": 0.1971,
+            "LEANconcept": 0.3856,
+            "TPM": 0.274,
+            "KAIZENEMS": 0.3139,
+            "Knowledgethefollowingmachinesinshop": 0.2397,
+            "STRENGTHS": 0.2182,
+            "PositiveThinking&Attitude": 0.2356,
+            "QuickLearn&Application": 0.2415,
+            "GoodCommunication": 0.287,
+            "Hardworking": 0.3319,
+            "knowledgeandbelief": 0.1707
+        },
+        "filename": "cv (676)_annotated.json"
+    }
+}

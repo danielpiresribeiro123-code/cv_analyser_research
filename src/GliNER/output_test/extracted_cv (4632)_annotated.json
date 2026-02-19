@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "PUBLIC RELATIONS",
+        "Driven and compassionate",
+        "Employee Management and Leadership",
+        "Event Coordination and Management",
+        "Sales and Marketing",
+        "Account Management",
+        "Business Relations",
+        "Office Management",
+        "Database Management",
+        "Public Speaking",
+        "Customer Service",
+        "Staffing management ability",
+        "Proven patience",
+        "Motivation techniques",
+        "Confident public speaker",
+        "Conflict resolution",
+        "Government relations",
+        "Personal and professional integrity",
+        "Sound decision making",
+        "Staff training and development",
+        "Cultural awareness",
+        "Critical thinking proficiency",
+        "Miami-Dade Public Library"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "healthcare professional",
+            "Human Resources Professional",
+            "Public Relations Liaison/Sales Representative"
+        ],
+        "company": [
+            "Company Name",
+            "Millennium"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "15 years"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "PUBLIC RELATIONS": 0.2312,
+            "Driven and compassionate": 0.2584,
+            "Employee Management and Leadership": 0.5228,
+            "Event Coordination and Management": 0.4337,
+            "Sales and Marketing": 0.2752,
+            "Account Management": 0.5049,
+            "Business Relations": 0.4389,
+            "Office Management": 0.6182,
+            "Database Management": 0.3918,
+            "Public Speaking": 0.1868,
+            "Customer Service": 0.3081,
+            "Staffing management ability": 0.5431,
+            "Proven patience": 0.2166,
+            "Motivation techniques": 0.1523,
+            "Confident public speaker": 0.3745,
+            "Conflict resolution": 0.2675,
+            "Government relations": 0.3694,
+            "Personal and professional integrity": 0.3843,
+            "Sound decision making": 0.2343,
+            "Staff training and development": 0.1974,
+            "Cultural awareness": 0.321,
+            "Critical thinking proficiency": 0.3395,
+            "Miami-Dade Public Library": 0.8108
+        },
+        "filename": "cv (4632)_annotated.json"
+    }
+}

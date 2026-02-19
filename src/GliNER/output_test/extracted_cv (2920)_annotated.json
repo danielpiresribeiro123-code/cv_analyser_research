@@ -1,0 +1,102 @@
+{
+    "skills": [
+        "creative",
+        "Academic Qualification",
+        "Technical Skills",
+        "C++",
+        "Visual C++",
+        "Visual Basics",
+        "HTML",
+        "Sybase",
+        "Windows 95",
+        "Windows 98",
+        "Windows-NT",
+        "MS-Dos",
+        "Unix",
+        "Visual Basics",
+        "SQL",
+        "TCP/IP",
+        "LAN",
+        "INTERNET",
+        "MS-Office",
+        "mainframe database",
+        "Reward Trackers",
+        "Xcom",
+        "FTP",
+        "Mini system",
+        "SQL",
+        "CL",
+        "As/400"
+    ],
+    "professional_info": {
+        "person name": [
+            "Naqui Abbas",
+            "Naqui_Abbas",
+            "Syed_Abbas1982",
+            "SyedAbbas2554"
+        ],
+        "job title": [
+            "IT Professional",
+            "Job Role",
+            "administrator"
+        ],
+        "company": [
+            "American Express",
+            "TRS",
+            "PSPL"
+        ],
+        "university": [
+            "NIIT New Delhi",
+            "Pondicherry University"
+        ],
+        "degree": [
+            "Graduation (Hons)",
+            "M. B. A. (IT)"
+        ],
+        "years of experience": [],
+        "address": [
+            "J- Extension",
+            "Laxmi Nagar New Delhi"
+        ],
+        "email": [
+            "Email",
+            "Master Degree"
+        ],
+        "phone": [
+            "Tel-9873538782",
+            "09504742835",
+            "061542-78014"
+        ]
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "creative": 0.1554,
+            "Academic Qualification": 0.1574,
+            "Technical Skills": 0.1874,
+            "C++": 0.9143,
+            "Visual C++": 0.8588,
+            "Visual Basics": 0.5627,
+            "HTML": 0.2791,
+            "Sybase": 0.2423,
+            "Windows 95": 0.9743,
+            "Windows 98": 0.9579,
+            "Windows-NT": 0.9102,
+            "MS-Dos": 0.7646,
+            "Unix": 0.7981,
+            "SQL": 0.7783,
+            "TCP/IP": 0.7126,
+            "LAN": 0.5387,
+            "INTERNET": 0.5689,
+            "MS-Office": 0.6004,
+            "mainframe database": 0.6827,
+            "Reward Trackers": 0.3966,
+            "Xcom": 0.4171,
+            "FTP": 0.3532,
+            "Mini system": 0.1995,
+            "CL": 0.5854,
+            "As/400": 0.2085
+        },
+        "filename": "cv (2920)_annotated.json"
+    }
+}

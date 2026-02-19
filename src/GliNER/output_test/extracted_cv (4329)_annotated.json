@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "Microsoft Office",
+        "MS Words",
+        "Power Point",
+        "Excel",
+        "Access",
+        "Publisher SPSS 16.0",
+        "Interpersonal Skills",
+        "Experience",
+        "Symphony House Pusat Dagangan Dana 1",
+        "Seksyen 13",
+        "PROFESSIONAL LEVEL",
+        "Malaysia Institute of Chartered Secretary",
+        "CORPORATE ADMINISTRATION",
+        "MANAGEMENT AND OFFICE MANAGEMENT",
+        "PUBLIC RELATION",
+        "DIPLOMA IN PUBLIC ADMINISTRATION",
+        "PUBLIC ADMINISTRATION",
+        "POLICY AND ADMINISTRATION",
+        "OFFICE MANAGEMENT"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "ASSISTANT COMPANY SECRETARY",
+            "Summary",
+            "Reliable Legal Secretary",
+            "Organized Legal",
+            "Secretary",
+            "Highlights",
+            "Executive Secretarial",
+            "PRACTICAL STUDENT",
+            "BACHELOR IN CORPORATE ADMINISTRATION",
+            "SECRETARIALÂ"
+        ],
+        "company": [
+            "Company Name",
+            "Selangor Darul EhsanÂ",
+            "Selangor Darul Ehsan",
+            "MALAYSIA"
+        ],
+        "university": [
+            "MAICSA",
+            "Universiti Teknologi MARA"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "SH 6A",
+            "Jalan Mutiara",
+            "Â Level 8",
+            "No. 7-1F",
+            "Jalan Boling Padang G 13/G",
+            "Tingkat 3"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "Microsoft Office": 0.8532,
+            "MS Words": 0.7933,
+            "Power Point": 0.692,
+            "Excel": 0.5217,
+            "Access": 0.6246,
+            "Publisher SPSS 16.0": 0.4876,
+            "Interpersonal Skills": 0.3631,
+            "Experience": 0.228,
+            "Symphony House Pusat Dagangan Dana 1": 0.338,
+            "Seksyen 13": 0.1759,
+            "PROFESSIONAL LEVEL": 0.3625,
+            "Malaysia Institute of Chartered Secretary": 0.3501,
+            "CORPORATE ADMINISTRATION": 0.298,
+            "MANAGEMENT AND OFFICE MANAGEMENT": 0.3068,
+            "PUBLIC RELATION": 0.1857,
+            "DIPLOMA IN PUBLIC ADMINISTRATION": 0.6007,
+            "PUBLIC ADMINISTRATION": 0.2626,
+            "POLICY AND ADMINISTRATION": 0.1746,
+            "OFFICE MANAGEMENT": 0.2807
+        },
+        "filename": "cv (4329)_annotated.json"
+    }
+}

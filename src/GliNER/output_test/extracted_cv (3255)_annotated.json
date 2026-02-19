@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "highly talented",
+        "professional",
+        "successful professional",
+        "Civil Construction",
+        "Pranahitha-Chevella Lift Irrigation Project",
+        "Single Line Road Bridge",
+        "Sri Komaram Bheem Medium Reservoir Project"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sai Chaitanya Maddipati"
+        ],
+        "job title": [
+            "Civil Engineer",
+            "Civil Site Engineer"
+        ],
+        "company": [
+            "Navayuga Engineering Company Limited"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "2  Years"
+        ],
+        "address": [],
+        "email": [
+            "EMAIL",
+            "chaitumaddipati5@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 9490477693",
+            "+91 9502653461"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "highly talented": 0.2185,
+            "professional": 0.2008,
+            "successful professional": 0.1641,
+            "Civil Construction": 0.1805,
+            "Pranahitha-Chevella Lift Irrigation Project": 0.2853,
+            "Single Line Road Bridge": 0.18,
+            "Sri Komaram Bheem Medium Reservoir Project": 0.2997
+        },
+        "filename": "cv (3255)_annotated.json"
+    }
+}

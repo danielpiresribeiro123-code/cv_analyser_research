@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "Machine Learning",
+        "Bert",
+        "XLNet",
+        "GPT-2",
+        "data exploration",
+        "PROFICIENT SKILLS",
+        "Natural Language",
+        "Processing",
+        "Deep Learning",
+        "Sentiment",
+        "Analysis",
+        "Python",
+        "NLTK",
+        "GPT",
+        "Text Analysis",
+        "Text Extraction",
+        "OCR",
+        "Tensorflow",
+        "keras Certified",
+        "P R O J E C T S",
+        "ASL",
+        "voice"
+    ],
+    "professional_info": {
+        "person name": [
+            "HOWARD GOODMAN"
+        ],
+        "job title": [
+            "FRESHER",
+            "NLP ENGINEER",
+            "NLP Developer Intern"
+        ],
+        "company": [],
+        "university": [
+            "Rajiv Gandhi Memorial University"
+        ],
+        "degree": [
+            "B.TECH(Electrical)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Delhi"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Machine Learning": 0.4574,
+            "Bert": 0.6959,
+            "XLNet": 0.8235,
+            "GPT-2": 0.8145,
+            "data exploration": 0.2782,
+            "PROFICIENT SKILLS": 0.2778,
+            "Natural Language": 0.2013,
+            "Processing": 0.3429,
+            "Deep Learning": 0.3742,
+            "Sentiment": 0.3918,
+            "Analysis": 0.3423,
+            "Python": 0.918,
+            "NLTK": 0.6906,
+            "GPT": 0.5469,
+            "Text Analysis": 0.4966,
+            "Text Extraction": 0.5151,
+            "OCR": 0.4197,
+            "Tensorflow": 0.323,
+            "keras Certified": 0.9018,
+            "P R O J E C T S": 0.759,
+            "ASL": 0.8309,
+            "voice": 0.2959
+        },
+        "filename": "cv (4945)_annotated.json"
+    }
+}

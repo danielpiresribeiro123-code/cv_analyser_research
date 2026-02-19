@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "Highly Motivated",
+        "Professional and Interpersonal Skills",
+        "Team",
+        "math",
+        "chemistry",
+        "physics",
+        "English",
+        "Male",
+        "Single",
+        "Language Known",
+        "Hindi",
+        "Net Surfing",
+        "Watching News & Work for"
+    ],
+    "professional_info": {
+        "person name": [
+            "Shahjad Husain Saifi",
+            "Mohd. Hanish",
+            "Indian"
+        ],
+        "job title": [
+            "Supervisor"
+        ],
+        "company": [
+            "SHAHJAD HUSAIN SAIFI",
+            "STORE KIPPER",
+            "U.P. Board",
+            "Jaypee Greens Golf & Spa Resort"
+        ],
+        "university": [
+            "Barelly"
+        ],
+        "degree": [
+            "BA",
+            "Economis & Geograohy"
+        ],
+        "years of experience": [
+            "Experience",
+            "6     Year"
+        ],
+        "address": [
+            "381",
+            "Jawahar Mohalla",
+            "Patpar Ganj Delhi-110091",
+            "Village Berkhera",
+            "Post Suawala Tehsil Dhampur  Bijnor (UP)"
+        ],
+        "email": [
+            "E-mail",
+            "shahjad.9210906675@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Highly Motivated": 0.2949,
+            "Professional and Interpersonal Skills": 0.1597,
+            "Team": 0.1971,
+            "math": 0.4021,
+            "chemistry": 0.5541,
+            "physics": 0.5613,
+            "English": 0.936,
+            "Male": 0.2311,
+            "Single": 0.3292,
+            "Language Known": 0.1593,
+            "Hindi": 0.925,
+            "Net Surfing": 0.3216,
+            "Watching News & Work for": 0.1636
+        },
+        "filename": "cv (528)_annotated.json"
+    }
+}

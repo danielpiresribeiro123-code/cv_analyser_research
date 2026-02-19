@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Materials Engineering",
+        "Mechanical Engineering",
+        "Thermal Engineering",
+        "Category of Engineering and Technology"
+    ],
+    "professional_info": {
+        "person name": [
+            "Juan Antonio Aguilar Garib",
+            "jaguilar"
+        ],
+        "job title": [
+            "Dr.",
+            "Visiting Scholar",
+            "Professor",
+            "Faculty Staff",
+            "SNI Fellow"
+        ],
+        "company": [
+            "Center for Energy and Environmental Resources",
+            "HYLSA Research and Development"
+        ],
+        "university": [
+            "University of Texas at Austin",
+            "Universidad Autónoma de Nuevo León",
+            "Instituto Tecnológico de Saltillo",
+            "Instituto Tecnológico y de Estudios Superiores de Monterrey",
+            "Mexican Steel Corporation",
+            "UANL"
+        ],
+        "degree": [
+            "Doctorate",
+            "Master of Science: Metallurgy"
+        ],
+        "years of experience": [],
+        "address": [
+            "Work Home",
+            "Internet",
+            "FIME-UANL Ap. 076F",
+            "Cd. Universitaria",
+            "San Nicolás de los Garza",
+            "5843",
+            "Las Misiones",
+            "San  Nicolás  de  los Garza"
+        ],
+        "email": [
+            "e-mail",
+            "aaguilar@uanl.mx",
+            "jaguilar@gama.fime.uanl.mx",
+            "http://gama.fime.uanl.mx"
+        ],
+        "phone": [
+            "Tel.",
+            "(52+81) 8329-4020 x 5770",
+            "Fax",
+            "(52+81) 8332-0904Santo  Domingo  327",
+            "Tel",
+            "8352-1665Internet"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Materials Engineering": 0.6839,
+            "Mechanical Engineering": 0.6903,
+            "Thermal Engineering": 0.3041,
+            "Category of Engineering and Technology": 0.2323
+        },
+        "filename": "cv (1361)_annotated.json"
+    }
+}

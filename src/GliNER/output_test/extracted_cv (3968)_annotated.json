@@ -1,0 +1,106 @@
+{
+    "skills": [
+        "Network Infrastructure",
+        "System Administration",
+        "Technical Support",
+        "IT Security",
+        "Windows",
+        "Insightful knowledge",
+        "Desktop/server management",
+        "network planning & implementation",
+        "LAN",
+        "WAN",
+        "maintenance of hardware",
+        "User account administration",
+        "knowledge",
+        "transparent  bridging",
+        "Ethernet",
+        "802.  11b  &  11a",
+        "routing protocols",
+        "RIP (1 & 2)",
+        "IGRP",
+        "OSPF",
+        "EIGRP",
+        "team management",
+        "analytical and problem-solving skills",
+        "IP addressing and sub netting",
+        "Routing concepts",
+        "V LAN configuration",
+        "Network Cabling",
+        "development stages",
+        "redundant LAN Design",
+        "TCP/ IP Engineering",
+        "DHCP",
+        "I P polices",
+        "source based routing",
+        "Access lists",
+        "User administration"
+    ],
+    "professional_info": {
+        "person name": [
+            "Asfak"
+        ],
+        "job title": [
+            "Result-driven professional",
+            "Technical  Support  Engineer"
+        ],
+        "company": [
+            "PC  Solution  Pvt.  Ltd.",
+            "Engineers India Limited"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "effective communicator"
+        ],
+        "address": [],
+        "email": [
+            "Contact",
+            "9810720595",
+            "Email",
+            "asfak.anjum@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 35,
+        "confidence_scores": {
+            "Network Infrastructure": 0.2225,
+            "System Administration": 0.3795,
+            "Technical Support": 0.3512,
+            "IT Security": 0.2542,
+            "Windows": 0.5572,
+            "Insightful knowledge": 0.5017,
+            "Desktop/server management": 0.2072,
+            "network planning & implementation": 0.2437,
+            "LAN": 0.164,
+            "WAN": 0.1654,
+            "maintenance of hardware": 0.1659,
+            "User account administration": 0.2549,
+            "knowledge": 0.3392,
+            "transparent  bridging": 0.3892,
+            "Ethernet": 0.7805,
+            "802.  11b  &  11a": 0.4572,
+            "routing protocols": 0.3136,
+            "RIP (1 & 2)": 0.6459,
+            "IGRP": 0.8136,
+            "OSPF": 0.8338,
+            "EIGRP": 0.8087,
+            "team management": 0.3763,
+            "analytical and problem-solving skills": 0.1979,
+            "IP addressing and sub netting": 0.2928,
+            "Routing concepts": 0.2955,
+            "V LAN configuration": 0.2134,
+            "Network Cabling": 0.2946,
+            "development stages": 0.1603,
+            "redundant LAN Design": 0.1501,
+            "TCP/ IP Engineering": 0.3373,
+            "DHCP": 0.5342,
+            "I P polices": 0.4757,
+            "source based routing": 0.4958,
+            "Access lists": 0.3723,
+            "User administration": 0.2662
+        },
+        "filename": "cv (3968)_annotated.json"
+    }
+}

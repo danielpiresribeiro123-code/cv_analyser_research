@@ -1,0 +1,34 @@
+{
+    "skills": [
+        "Los Angeles"
+    ],
+    "professional_info": {
+        "person name": [
+            "Glenn Nutley",
+            "glennnutley"
+        ],
+        "job title": [
+            "Hair and Makeup Artist"
+        ],
+        "company": [
+            "cloutier remix .com",
+            "cloutierremix"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue",
+            "90034"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "Los Angeles": 0.3359
+        },
+        "filename": "cv (959)_annotated.json"
+    }
+}

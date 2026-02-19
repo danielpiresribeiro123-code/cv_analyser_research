@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "competitive spirit",
+        "resourceful",
+        "innovative",
+        "flexible",
+        "Mechanical and Civil",
+        "Architecture & ID",
+        "Master’s Degree",
+        "ELECTRICAL POWER SYSTEMS",
+        "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "Intermediate Examination (10+2)",
+        "Secondary School Certificate (10th)"
+    ],
+    "professional_info": {
+        "person name": [
+            "ZulfakharAhamed",
+            "zullu4u11",
+            "experienced professionals"
+        ],
+        "job title": [
+            "Electrical Engineer",
+            "Electrical Site Engineer",
+            "Low current Engineer",
+            "MEP & Project Engineer",
+            "Electrical  Engineer",
+            "Low  current  Engineer"
+        ],
+        "company": [
+            "Nalanda Jr College",
+            "Board of Intermediate Education",
+            "Khadri High School",
+            "Board of Secondary Education",
+            "Lead  construction  company",
+            "SASCO  Group",
+            "Imperial Trading & Contracting company",
+            "W.L.L.",
+            "Engineering Consulting Company",
+            "Gulf  Ware  House  Construction  Project  Qatar",
+            "FIRST  POINT CONSTRUCTION SERVICES PVT.LTD",
+            "First Point Construction Services Pvt. Ltd"
+        ],
+        "university": [
+            "Jawaharlal Nehru Technological University",
+            "JNTU Anantapur"
+        ],
+        "degree": [
+            "Bachelor’s Degree"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "zullu4u  @gmail.com"
+        ],
+        "phone": [
+            "+974-3142 4554",
+            "Skype"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "competitive spirit": 0.2859,
+            "resourceful": 0.2469,
+            "innovative": 0.2628,
+            "flexible": 0.2399,
+            "Mechanical and Civil": 0.4432,
+            "Architecture & ID": 0.4892,
+            "Master’s Degree": 0.8369,
+            "ELECTRICAL POWER SYSTEMS": 0.5313,
+            "ELECTRICAL AND ELECTRONICS ENGINEERING": 0.5483,
+            "Intermediate Examination (10+2)": 0.4737,
+            "Secondary School Certificate (10th)": 0.6919
+        },
+        "filename": "cv (3984)_annotated.json"
+    }
+}

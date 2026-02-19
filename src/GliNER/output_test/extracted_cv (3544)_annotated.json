@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "creativity",
+        "talents",
+        "hard work",
+        "dedication",
+        "integrity",
+        "Basic Thermodynamics",
+        "Refrigeration & Air Conditioning",
+        "Power Cycles",
+        "Fluid Mechanics",
+        "STRENGTH",
+        "Able to Handle high pressure situation effectively",
+        "Possitive attitude",
+        "flexible",
+        "Indipendant working ability",
+        "team player",
+        "efficient enough to lead & manage a team",
+        "Compressed Air Vehicle",
+        "TECHNICAL SKILLS",
+        "Basic knowledge",
+        "AutoCAD-2D",
+        "Windows-8"
+    ],
+    "professional_info": {
+        "person name": [
+            "MO FAISAL",
+            "Nayak Saray",
+            "MO FAISALMO FAISAL"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "P.O.-Afzalgarh",
+            "DBIT Dehradun",
+            "UP Board",
+            "B.TECH."
+        ],
+        "degree": [
+            "B.TECH Mechanical Engineering",
+            "B.Tech.",
+            "10+2"
+        ],
+        "years of experience": [],
+        "address": [
+            "Bijnor-246722",
+            "Operating Systems"
+        ],
+        "email": [
+            "E-mail",
+            "mohdfaisalfff@gtmail.com",
+            "8273429179",
+            "Email",
+            "mohdfaisalfff@gmail.com"
+        ],
+        "phone": [
+            "(+91) 9012460727"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "creativity": 0.3951,
+            "talents": 0.1649,
+            "hard work": 0.1657,
+            "dedication": 0.1982,
+            "integrity": 0.2121,
+            "Basic Thermodynamics": 0.7101,
+            "Refrigeration & Air Conditioning": 0.4675,
+            "Power Cycles": 0.4202,
+            "Fluid Mechanics": 0.6399,
+            "STRENGTH": 0.235,
+            "Able to Handle high pressure situation effectively": 0.2588,
+            "Possitive attitude": 0.2088,
+            "flexible": 0.2652,
+            "Indipendant working ability": 0.3446,
+            "team player": 0.4326,
+            "efficient enough to lead & manage a team": 0.2051,
+            "Compressed Air Vehicle": 0.1745,
+            "TECHNICAL SKILLS": 0.162,
+            "Basic knowledge": 0.3028,
+            "AutoCAD-2D": 0.4084,
+            "Windows-8": 0.9013
+        },
+        "filename": "cv (3544)_annotated.json"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "Inventory Management",
+        "IT Skills",
+        "Proficient user",
+        "Microsoft Excel",
+        "Tally.erp 9 Accounting Package",
+        "EPCG License Documentation",
+        "Duty Drawback Documentation",
+        "MEIS & SEIS Documentation",
+        "Advance License Documentation",
+        "Bill of Entry",
+        "Invoicing",
+        "Book Keeping",
+        "Petty Cash Handling",
+        "Bank Reconciliation",
+        "Accounts Receivable"
+    ],
+    "professional_info": {
+        "person name": [
+            "Shobhith Rai Budaloor"
+        ],
+        "job title": [
+            "Executive",
+            "Accounts Assistant"
+        ],
+        "company": [
+            "Bharath Agrovet Industries",
+            "DEXTROUS INC",
+            "Indirect Tax Consulting Company",
+            "Poultry Company"
+        ],
+        "university": [
+            "Vivekananda College of Engineering and Technology",
+            "Vis veswaraya Technical University",
+            "Sri Dharmastala Manjunatheshwara College",
+            "Mangalore University"
+        ],
+        "degree": [
+            "MBA in Financial Management",
+            "Bachelor of Business Management"
+        ],
+        "years of experience": [
+            "Working experience"
+        ],
+        "address": [
+            "Near Labib Trading and Contracting L.L.C"
+        ],
+        "email": [
+            "Email",
+            "shobhith.rai@gmail.com"
+        ],
+        "phone": [
+            "Cellphone No",
+            "+968 90650094"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Inventory Management": 0.4261,
+            "IT Skills": 0.4622,
+            "Proficient user": 0.2255,
+            "Microsoft Excel": 0.4996,
+            "Tally.erp 9 Accounting Package": 0.5295,
+            "EPCG License Documentation": 0.1927,
+            "Duty Drawback Documentation": 0.1883,
+            "MEIS & SEIS Documentation": 0.1593,
+            "Advance License Documentation": 0.2741,
+            "Bill of Entry": 0.1826,
+            "Invoicing": 0.1562,
+            "Book Keeping": 0.3143,
+            "Petty Cash Handling": 0.3161,
+            "Bank Reconciliation": 0.3676,
+            "Accounts Receivable": 0.4303
+        },
+        "filename": "cv (1117)_annotated.json"
+    }
+}

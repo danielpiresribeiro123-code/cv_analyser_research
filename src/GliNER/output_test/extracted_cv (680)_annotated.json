@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "functional",
+        "Examination YearOfPassing Board/University Percentage",
+        "G.S.H.E.B",
+        "Specialization",
+        "1)B.E-E.C",
+        "Male",
+        "Gujarati",
+        "Hindi",
+        "English",
+        "PI",
+        "BACHELOROFENGINEERING"
+    ],
+    "professional_info": {
+        "person name": [
+            "Iintendtoestablishmyselfasagoodengineer",
+            "KAPADIYAMAHESHMANJIBHAI",
+            "Indian",
+            "Iherebydeclarethattheinformationfurnishedaboveistruetothebestofmyknowledge",
+            "MaheshKapadiya"
+        ],
+        "job title": [],
+        "company": [
+            "Gujarat",
+            "BSNL"
+        ],
+        "university": [
+            "TECHNOLOGICALUNIVERSITY",
+            "Collage GovernmentEngineeringCollege",
+            "Technological",
+            "University",
+            "GTU",
+            "Instituteofplasmaresearch"
+        ],
+        "degree": [
+            "BachelorOfEngineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "Morchand",
+            "Ta",
+            "Ghogha",
+            "364050"
+        ],
+        "email": [
+            "Email",
+            "maheshkapadiya95@gmail.com",
+            "+919737730671"
+        ],
+        "phone": [
+            "AT",
+            "Mo"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "functional": 0.1852,
+            "Examination YearOfPassing Board/University Percentage": 0.1718,
+            "G.S.H.E.B": 0.1707,
+            "Specialization": 0.1575,
+            "1)B.E-E.C": 0.2314,
+            "Male": 0.1867,
+            "Gujarati": 0.7122,
+            "Hindi": 0.7284,
+            "English": 0.54,
+            "PI": 0.1672,
+            "BACHELOROFENGINEERING": 0.1585
+        },
+        "filename": "cv (680)_annotated.json"
+    }
+}

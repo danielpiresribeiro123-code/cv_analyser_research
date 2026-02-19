@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "Project Engineering & Management",
+        "technical skills",
+        "flexible & innovative",
+        "Facilities management",
+        "construction",
+        "primavera P6",
+        "B.O.Q.",
+        "Proficiency",
+        "Primavera-P6",
+        "AutoCAD",
+        "MS Word & Excel",
+        "3d Studio Max",
+        "Photoshop",
+        "Well developed written & verbal communication skills",
+        "Technical qualification",
+        "primavera",
+        "BOQ"
+    ],
+    "professional_info": {
+        "person name": [
+            "Zaheer khan",
+            "Mr. Shakeel Khan",
+            "Architects",
+            "Engineers",
+            "surveyors"
+        ],
+        "job title": [
+            "Project Engineer",
+            "site managers",
+            "Junior"
+        ],
+        "company": [
+            "Inter mediate",
+            "Projet ria",
+            "P.V.T company",
+            "Ramnagarh nainital uttarakhand"
+        ],
+        "university": [
+            "Education High School",
+            "U P Board Allahabad",
+            "Govt. polytechnic"
+        ],
+        "degree": [
+            "Diploma in civil engineering"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "zaheerkhan639@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Project Engineering & Management": 0.2477,
+            "technical skills": 0.4567,
+            "flexible & innovative": 0.171,
+            "Facilities management": 0.26,
+            "construction": 0.2591,
+            "primavera P6": 0.31,
+            "B.O.Q.": 0.2366,
+            "Proficiency": 0.2356,
+            "Primavera-P6": 0.6297,
+            "AutoCAD": 0.5472,
+            "MS Word & Excel": 0.6228,
+            "3d Studio Max": 0.7773,
+            "Photoshop": 0.5409,
+            "Well developed written & verbal communication skills": 0.1809,
+            "Technical qualification": 0.1601,
+            "primavera": 0.2005,
+            "BOQ": 0.1563
+        },
+        "filename": "cv (3891)_annotated.json"
+    }
+}

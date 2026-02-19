@@ -1,0 +1,52 @@
+{
+    "skills": [
+        "SEX",
+        "MALE",
+        "GENERAL",
+        "HEIGHT",
+        "WEIGHT",
+        "BENGALI",
+        "ENGLISH",
+        "HINDI"
+    ],
+    "professional_info": {
+        "person name": [
+            "SURAJIT CHATTERJEE",
+            "SAGARASHIS CHATTERJEE",
+            "HINDU",
+            "NAME"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "BOSEPARA",
+            "MADHABGANJ",
+            "P.O.: BISHNUPUR",
+            "P.S.:BISHNUPUR, DIST: BANKURA",
+            "PIN: 722122",
+            "Bishnupur"
+        ],
+        "email": [
+            "CONTACT NO",
+            "9749242838"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "SEX": 0.1753,
+            "MALE": 0.2847,
+            "GENERAL": 0.3234,
+            "HEIGHT": 0.1965,
+            "WEIGHT": 0.1613,
+            "BENGALI": 0.7644,
+            "ENGLISH": 0.6431,
+            "HINDI": 0.6917
+        },
+        "filename": "cv (707)_annotated.json"
+    }
+}

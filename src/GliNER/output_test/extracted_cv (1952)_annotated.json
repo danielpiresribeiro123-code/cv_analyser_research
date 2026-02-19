@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "Irrigation Innovation",
+        "Standard Board/University YearMarks",
+        "Diploma Board of Technical Education",
+        "XII (vocational) N.I.O.S",
+        "X C.B.S.E.",
+        "ISI standards",
+        "KEY STRENGTH",
+        "Hard working",
+        "learning attitude",
+        "confidence",
+        "high commitment level",
+        "ability to handle work pressure",
+        "ability to work in team",
+        "COMPUTER SKILLS"
+    ],
+    "professional_info": {
+        "person name": [
+            "DEEPAK MALIK",
+            "deepak.malik9454"
+        ],
+        "job title": [
+            "engineers",
+            "Trainee Engineer",
+            "Site Engineer"
+        ],
+        "company": [
+            "MCD",
+            "DRA Infracon Pvt. Ltd.",
+            "B.R. Kohli Constructions Private Limited",
+            "Puri Buildwell Private Limited",
+            "Made Easy Group"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "201367.94 %",
+            "April 2017"
+        ],
+        "address": [
+            "LAXMI PARK",
+            "NANGLOI",
+            "NEW DELHI",
+            "110041",
+            "Grade Separator at Rani",
+            "Jhansi Road",
+            "NEW DELHI - 110041"
+        ],
+        "email": [
+            "DOB-06th Sep 1995",
+            "gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Irrigation Innovation": 0.1551,
+            "Standard Board/University YearMarks": 0.7193,
+            "Diploma Board of Technical Education": 0.5842,
+            "XII (vocational) N.I.O.S": 0.5532,
+            "X C.B.S.E.": 0.6939,
+            "ISI standards": 0.56,
+            "KEY STRENGTH": 0.1594,
+            "Hard working": 0.3937,
+            "learning attitude": 0.4475,
+            "confidence": 0.5029,
+            "high commitment level": 0.4711,
+            "ability to handle work pressure": 0.501,
+            "ability to work in team": 0.2009,
+            "COMPUTER SKILLS": 0.2939
+        },
+        "filename": "cv (1952)_annotated.json"
+    }
+}

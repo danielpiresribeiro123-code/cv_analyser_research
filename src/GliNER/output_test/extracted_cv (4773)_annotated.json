@@ -1,0 +1,103 @@
+{
+    "skills": [
+        "Ambitious professional",
+        "public relations",
+        "Hard-working",
+        "education",
+        "Mac",
+        "PC",
+        "Microsoft Office",
+        "Excel",
+        "PowerPoint",
+        "Word",
+        "WordPress",
+        "alerts",
+        "Trapit",
+        "Photoshop",
+        "HRIS databases",
+        "Research Databases",
+        "Human Resources Information System Databases",
+        "Dean's List",
+        "Dan Doyle Memorial Scholarship",
+        "Outstanding Classroom Citizenship Award",
+        "Academic Excellence Award",
+        "City",
+        "Strong organizational skills",
+        "ability to multi task",
+        "Ability to troubleshoot",
+        "Experience with confidential and sensitive information",
+        "Strong Customer",
+        "Service skills",
+        "Learning Management System"
+    ],
+    "professional_info": {
+        "person name": [
+            "Company Name"
+        ],
+        "job title": [
+            "HUMAN RESOURCES ADMINISTRATIVE ASSISTANT/EXECUTIVE ASSISTANT",
+            "Career Focus",
+            "entry-level job seeker",
+            "Street Team Member",
+            "brand ambassador"
+        ],
+        "company": [
+            "EBSCO Host",
+            "Hootsuite",
+            "Google",
+            "Twitter",
+            "Facebook",
+            "Ceridian",
+            "Kronos",
+            "Cision",
+            "WinnStart"
+        ],
+        "university": [
+            "Westfield State University"
+        ],
+        "degree": [
+            "Phi Kappa Phi Honors Society"
+        ],
+        "years of experience": [],
+        "address": [
+            "State"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 29,
+        "confidence_scores": {
+            "Ambitious professional": 0.3253,
+            "public relations": 0.1502,
+            "Hard-working": 0.365,
+            "education": 0.2143,
+            "Mac": 0.6205,
+            "PC": 0.6151,
+            "Microsoft Office": 0.4751,
+            "Excel": 0.4044,
+            "PowerPoint": 0.3935,
+            "Word": 0.4179,
+            "WordPress": 0.3397,
+            "alerts": 0.3632,
+            "Trapit": 0.3778,
+            "Photoshop": 0.2984,
+            "HRIS databases": 0.5923,
+            "Research Databases": 0.7013,
+            "Human Resources Information System Databases": 0.4513,
+            "Dean's List": 0.4543,
+            "Dan Doyle Memorial Scholarship": 0.5154,
+            "Outstanding Classroom Citizenship Award": 0.5224,
+            "Academic Excellence Award": 0.69,
+            "City": 0.5769,
+            "Strong organizational skills": 0.2863,
+            "ability to multi task": 0.2902,
+            "Ability to troubleshoot": 0.394,
+            "Experience with confidential and sensitive information": 0.2498,
+            "Strong Customer": 0.2612,
+            "Service skills": 0.2092,
+            "Learning Management System": 0.3645
+        },
+        "filename": "cv (4773)_annotated.json"
+    }
+}

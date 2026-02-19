@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "Accounting",
+        "GCC Experience",
+        "Education Certificate",
+        "Team Player",
+        "Commerce",
+        "Acounting",
+        "Economics",
+        "SOFTWARE PROFICIENCY",
+        "Peachtree Application Software",
+        "Quickbook Software",
+        "Tally",
+        "SAP",
+        "Accounts",
+        "Proficient",
+        "Excel",
+        "Word",
+        "GENERALCONTRACTING",
+        "DECORATION",
+        "LANDSCAPE",
+        "General Ledger",
+        "Account Payable/Account Receivable",
+        "Bank Transaction and Reconciliation"
+    ],
+    "professional_info": {
+        "person name": [
+            "R.ARUNKUMAR"
+        ],
+        "job title": [
+            "accountant",
+            "End user"
+        ],
+        "company": [
+            "Velmultitech engg college",
+            "INFRASTRUCTURE AND BUILDING COMPANY"
+        ],
+        "university": [
+            "Thiagarajar college",
+            "Madurai kamaraj university",
+            "Anna university"
+        ],
+        "degree": [
+            "Accounting Degree",
+            "MBA"
+        ],
+        "years of experience": [
+            "7years experience"
+        ],
+        "address": [
+            "Shri venkata villa",
+            "Old15",
+            "newno 22 shankarapuram",
+            "Box-600094choolaimedu chennai"
+        ],
+        "email": [
+            "Email",
+            "arun632@gmail.com",
+            "atkore000@gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "+ 91-8754852664 Whats app +97431038847"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Accounting": 0.6079,
+            "GCC Experience": 0.1541,
+            "Education Certificate": 0.7687,
+            "Team Player": 0.3805,
+            "Commerce": 0.5837,
+            "Acounting": 0.282,
+            "Economics": 0.6153,
+            "SOFTWARE PROFICIENCY": 0.2938,
+            "Peachtree Application Software": 0.3629,
+            "Quickbook Software": 0.2822,
+            "Tally": 0.5514,
+            "SAP": 0.4057,
+            "Accounts": 0.3082,
+            "Proficient": 0.1966,
+            "Excel": 0.5408,
+            "Word": 0.4162,
+            "GENERALCONTRACTING": 0.3363,
+            "DECORATION": 0.3628,
+            "LANDSCAPE": 0.2325,
+            "General Ledger": 0.4652,
+            "Account Payable/Account Receivable": 0.4329,
+            "Bank Transaction and Reconciliation": 0.402
+        },
+        "filename": "cv (3791)_annotated.json"
+    }
+}

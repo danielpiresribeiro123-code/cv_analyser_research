@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "openness",
+        "ability to take up challenges",
+        "persistence",
+        "personal strength",
+        "R.B.S.E",
+        "DCA",
+        "Computer Diploma",
+        "RS-CIT+DCA",
+        "Operating systems",
+        "MS Office",
+        "Oracle SQL",
+        "ICMS",
+        "WINSCP",
+        "Internet",
+        "ACMES",
+        "Galaxy"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Support Executive",
+            "Manager",
+            "Application Support Executive"
+        ],
+        "company": [
+            "Pc Doc’s Services",
+            "Delhi International Airport Limited",
+            "ICMS TEAM",
+            "Jai Balaji Indane Gas Agency",
+            "Indian oil corporation Ltd Rajasthan",
+            "JNS INSTRUMENTS LTD",
+            "Indira Gandhi International Airport",
+            "DIAL",
+            "Public Private Partnership Initiative",
+            "GMR Group",
+            "Airports Authority of India"
+        ],
+        "university": [
+            "Rajasthan University",
+            "University of Jammu",
+            "Vardhaman open University",
+            "Vardhaman open  University"
+        ],
+        "degree": [
+            "B.A",
+            "B.Ed.",
+            "M.A"
+        ],
+        "years of experience": [],
+        "address": [
+            "DESHRAJ B-143",
+            "Aali Vihar",
+            "Sarita Vihar",
+            "Delhi - 76",
+            "Mobile"
+        ],
+        "email": [
+            "Email",
+            "Drbairwa1@gmail.com"
+        ],
+        "phone": [
+            "+91 9509757652"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "openness": 0.4529,
+            "ability to take up challenges": 0.4521,
+            "persistence": 0.5321,
+            "personal strength": 0.2167,
+            "R.B.S.E": 0.2955,
+            "DCA": 0.4932,
+            "Computer Diploma": 0.48,
+            "RS-CIT+DCA": 0.2944,
+            "Operating systems": 0.2328,
+            "MS Office": 0.6801,
+            "Oracle SQL": 0.4245,
+            "ICMS": 0.1721,
+            "WINSCP": 0.3036,
+            "Internet": 0.5528,
+            "ACMES": 0.2988,
+            "Galaxy": 0.4363
+        },
+        "filename": "cv (204)_annotated.json"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "Construction Management",
+        "Site Management",
+        "Project Management",
+        "Site Managem ent",
+        "Resource Planning",
+        "Vendor Development",
+        "Material Management",
+        "Liaison & Coordination",
+        "Team Management",
+        "flair",
+        "modern construction methodologies",
+        "quality standards",
+        "construction of highways",
+        "commercial buildings",
+        "residential buildings",
+        "coordination",
+        "analytical skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "S. THIRUMALAI"
+        ],
+        "job title": [
+            "SENIOR MANAGEMENT PROFESSIONAL",
+            "Multi-faceted professional",
+            "dynamic & result oriented professional",
+            "Sr.Project Engineer",
+            "strategic planner",
+            "Project in-charge",
+            "Construction Manager",
+            "Project Engineer",
+            "Foreman",
+            "Key Result Areas"
+        ],
+        "company": [
+            "ETA ASCON",
+            "ETA ASCON Construction",
+            "Sonee infra Structure pvt.ltd",
+            "Oman Oryx Trading & Contracting Co. LLC",
+            "Besix Construct Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "25 years",
+            "17 years",
+            "8 Years",
+            "effective communicator"
+        ],
+        "address": [
+            "Chennai"
+        ],
+        "email": [
+            "E-Mail",
+            "thirumalai1969@yahoo.co.in"
+        ],
+        "phone": [
+            "+91-94895 38055"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Construction Management": 0.7314,
+            "Site Management": 0.5058,
+            "Project Management": 0.674,
+            "Site Managem ent": 0.195,
+            "Resource Planning": 0.5279,
+            "Vendor Development": 0.3047,
+            "Material Management": 0.4963,
+            "Liaison & Coordination": 0.4165,
+            "Team Management": 0.5177,
+            "flair": 0.1607,
+            "modern construction methodologies": 0.7964,
+            "quality standards": 0.7612,
+            "construction of highways": 0.2865,
+            "commercial buildings": 0.3301,
+            "residential buildings": 0.386,
+            "coordination": 0.2851,
+            "analytical skills": 0.2389
+        },
+        "filename": "cv (448)_annotated.json"
+    }
+}

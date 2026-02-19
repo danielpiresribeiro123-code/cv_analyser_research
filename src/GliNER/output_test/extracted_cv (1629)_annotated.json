@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "CAREER OBJECTIVE",
+        "creativity",
+        "Advance Diploma in Computer Application One Year",
+        "B. A. Pursuing",
+        "Sex",
+        "Marital status",
+        "Single",
+        "Hindi",
+        "English",
+        "Urdu",
+        "Observing"
+    ],
+    "professional_info": {
+        "person name": [
+            "DANISH KHAN",
+            "Rashid Khan",
+            "Indian"
+        ],
+        "job title": [
+            "Civil Draftman"
+        ],
+        "company": [
+            "MILANBUILD WELL PVT LTD"
+        ],
+        "university": [
+            "UNIVERSITY",
+            "College2010",
+            "College 2012U. P. Board",
+            "College  2015"
+        ],
+        "degree": [
+            "Final year G. F."
+        ],
+        "years of experience": [
+            "1 year Experience"
+        ],
+        "address": [
+            "Permanent Address",
+            "H.N.2",
+            "Zer Qila",
+            "Shahjahanpur"
+        ],
+        "email": [
+            "Email",
+            "dadanishkh9568@outlook.com",
+            "8958595672",
+            "Mail"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "CAREER OBJECTIVE": 0.1763,
+            "creativity": 0.2505,
+            "Advance Diploma in Computer Application One Year": 0.542,
+            "B. A. Pursuing": 0.4305,
+            "Sex": 0.3174,
+            "Marital status": 0.1998,
+            "Single": 0.4316,
+            "Hindi": 0.9296,
+            "English": 0.8702,
+            "Urdu": 0.8486,
+            "Observing": 0.2306
+        },
+        "filename": "cv (1629)_annotated.json"
+    }
+}

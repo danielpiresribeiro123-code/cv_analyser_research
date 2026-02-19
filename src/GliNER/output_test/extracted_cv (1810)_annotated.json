@@ -1,0 +1,100 @@
+{
+    "skills": [
+        "English",
+        "Hindi",
+        "Malayalam",
+        "Tamil",
+        "Arabic",
+        "flair",
+        "modern construction methodologies",
+        "quality standards",
+        "Expertise",
+        "Quantity surveying/ planning",
+        "Interface Engineering",
+        "method engineering",
+        "development",
+        "contract administration",
+        "resource planning",
+        "Indian Standards",
+        "British Codes",
+        "Euro Codes",
+        "sub-contractor contractual terms and conditions",
+        "expertise",
+        "planning and executing construction projects",
+        "flair",
+        "ambitious",
+        "excellent interpersonal",
+        "analytical",
+        "team building",
+        "team player",
+        "unlimited loyalty and commitment"
+    ],
+    "professional_info": {
+        "person name": [
+            "SURESH KUMAR MAHENDRAN",
+            "civresh"
+        ],
+        "job title": [
+            "Present position",
+            "Project Engineer",
+            "result -oriented professional",
+            "strategic planner",
+            "team play er"
+        ],
+        "company": [
+            "Present Company",
+            "FCC  Construction  (Saudi Co)",
+            "Fomento de Construcciones y Contratas",
+            "Riyadh Metro",
+            "Indian",
+            "India / KSA",
+            "FAST"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "8.8 years"
+        ],
+        "address": [],
+        "email": [
+            "civresh @gmail.com"
+        ],
+        "phone": [
+            "Contact Number",
+            "+966) 558 651 933"
+        ]
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "English": 0.7317,
+            "Hindi": 0.7938,
+            "Malayalam": 0.6454,
+            "Tamil": 0.6161,
+            "Arabic": 0.6937,
+            "flair": 0.2159,
+            "modern construction methodologies": 0.6051,
+            "quality standards": 0.6342,
+            "Expertise": 0.2986,
+            "Quantity surveying/ planning": 0.445,
+            "Interface Engineering": 0.4998,
+            "method engineering": 0.3821,
+            "development": 0.2983,
+            "contract administration": 0.1908,
+            "resource planning": 0.2776,
+            "Indian Standards": 0.8244,
+            "British Codes": 0.7944,
+            "Euro Codes": 0.8418,
+            "sub-contractor contractual terms and conditions": 0.1506,
+            "expertise": 0.3,
+            "planning and executing construction projects": 0.1723,
+            "ambitious": 0.175,
+            "excellent interpersonal": 0.4149,
+            "analytical": 0.2539,
+            "team building": 0.2954,
+            "team player": 0.2271,
+            "unlimited loyalty and commitment": 0.2947
+        },
+        "filename": "cv (1810)_annotated.json"
+    }
+}

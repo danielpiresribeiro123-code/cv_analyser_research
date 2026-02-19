@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "Urdu",
+        "Hindi",
+        "English",
+        "Sports",
+        "Gaining Technical Knowledge",
+        "Facility management  services",
+        "Professional skill"
+    ],
+    "professional_info": {
+        "person name": [
+            "TAHSEEL KHAN",
+            "Male",
+            "Indian",
+            "Baseer Khan"
+        ],
+        "job title": [
+            "technical client",
+            "Professional Qualifications"
+        ],
+        "company": [
+            "JAIPRAKASH ASSOCIATES Pvt. Ltd .",
+            "SAP"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Married"
+        ],
+        "address": [
+            "Village Chirchita",
+            "Post‐ Mukimpur",
+            "Disst‐ Bulandshahr",
+            "CONTACT ADDRESS",
+            "Village Asgarpur",
+            "Sector‐128",
+            "Noida‐201304"
+        ],
+        "email": [
+            "E-MAIL",
+            "sahil.erac@gmail.com"
+        ],
+        "phone": [
+            "PHONE",
+            "+91-9891095402"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Urdu": 0.782,
+            "Hindi": 0.8342,
+            "English": 0.8172,
+            "Sports": 0.1742,
+            "Gaining Technical Knowledge": 0.2133,
+            "Facility management  services": 0.2232,
+            "Professional skill": 0.4584
+        },
+        "filename": "cv (2199)_annotated.json"
+    }
+}

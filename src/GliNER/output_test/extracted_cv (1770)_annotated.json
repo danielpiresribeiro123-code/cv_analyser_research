@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "English",
+        "Hindi",
+        "sincerity",
+        "individual skill",
+        "dedication",
+        "team spirit",
+        "Strengths",
+        "Maintaining good interpersonal skills",
+        "Comprehensive problem solving abilities",
+        "Passion to learn and meet challenges",
+        "Technical Expertise",
+        "Basic knowledge",
+        "Fundamental",
+        "MS-Windows",
+        "MS-Word",
+        "MS- Power Point",
+        "MS-Excel",
+        "PageMaker",
+        "Photoshop",
+        "CoralDraw",
+        "Tally",
+        "National Accreditation Board for Hospitals & Healthcare Providers",
+        "cutting edge technology"
+    ],
+    "professional_info": {
+        "person name": [
+            "ABDUL ASLAF",
+            "Male"
+        ],
+        "job title": [
+            "Front Office Assistant"
+        ],
+        "company": [
+            "ICARE Eye Hospital",
+            "ICARE",
+            "Fortis Hospitals Limited Noida"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "E-380",
+            "Street no-12",
+            "Shastri Park",
+            "Delhi-110053",
+            "Internet",
+            "Sector-26"
+        ],
+        "email": [
+            "Email",
+            "abdul.aslaf2@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+91 9971902209"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "English": 0.3985,
+            "Hindi": 0.6329,
+            "sincerity": 0.2179,
+            "individual skill": 0.4326,
+            "dedication": 0.2826,
+            "team spirit": 0.294,
+            "Strengths": 0.2286,
+            "Maintaining good interpersonal skills": 0.4466,
+            "Comprehensive problem solving abilities": 0.3571,
+            "Passion to learn and meet challenges": 0.1908,
+            "Technical Expertise": 0.2882,
+            "Basic knowledge": 0.2183,
+            "Fundamental": 0.432,
+            "MS-Windows": 0.419,
+            "MS-Word": 0.2819,
+            "MS- Power Point": 0.46,
+            "MS-Excel": 0.3151,
+            "PageMaker": 0.3768,
+            "Photoshop": 0.4634,
+            "CoralDraw": 0.4266,
+            "Tally": 0.4315,
+            "National Accreditation Board for Hospitals & Healthcare Providers": 0.329,
+            "cutting edge technology": 0.229
+        },
+        "filename": "cv (1770)_annotated.json"
+    }
+}

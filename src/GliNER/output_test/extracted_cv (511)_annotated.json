@@ -1,0 +1,99 @@
+{
+    "skills": [
+        "creativity",
+        "leadership",
+        "management",
+        "innovative",
+        "foresight",
+        "qualities",
+        "professional skills",
+        "National Urdu",
+        "Computer Knowledge",
+        "Fundamentals of computer",
+        "MS-Office",
+        "MS-Word",
+        "MS-Excel",
+        "MS-Power point",
+        "STRENGTH",
+        "Flexible",
+        "Optimistic",
+        "Confident",
+        "Creative thinking",
+        "decision making capacity",
+        "Able to work on Multiple Project",
+        "Management",
+        "Management",
+        "Production"
+    ],
+    "professional_info": {
+        "person name": [
+            "MASROOF ALAM"
+        ],
+        "job title": [
+            "Assistant Manager"
+        ],
+        "company": [
+            "kotak Mahindra Bank ltd",
+            "ITM"
+        ],
+        "university": [
+            "MBASDSN Group of",
+            "Collage",
+            "BKT",
+            "Lucknow/University",
+            "Maulana Azad",
+            "University",
+            "U.P. board",
+            "U.P.  board"
+        ],
+        "degree": [
+            "Course Collage/ University  Year",
+            "B.com",
+            "Intermediate",
+            "High school"
+        ],
+        "years of experience": [],
+        "address": [
+            "Village- Dudhwaniya Buzurg",
+            "POST- Barhni",
+            "Siddharth Nagar"
+        ],
+        "email": [
+            "E-mail",
+            "khanmasroofalam@gmail.com"
+        ],
+        "phone": [
+            "Contact",
+            "+91-8563801840/8977888617"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "creativity": 0.5418,
+            "leadership": 0.4263,
+            "management": 0.4244,
+            "innovative": 0.4594,
+            "foresight": 0.5054,
+            "qualities": 0.2325,
+            "professional skills": 0.1621,
+            "National Urdu": 0.2199,
+            "Computer Knowledge": 0.237,
+            "Fundamentals of computer": 0.186,
+            "MS-Office": 0.4868,
+            "MS-Word": 0.4944,
+            "MS-Excel": 0.525,
+            "MS-Power point": 0.6394,
+            "STRENGTH": 0.2577,
+            "Flexible": 0.3744,
+            "Optimistic": 0.349,
+            "Confident": 0.2624,
+            "Creative thinking": 0.4141,
+            "decision making capacity": 0.2088,
+            "Able to work on Multiple Project": 0.1856,
+            "Management": 0.3305,
+            "Production": 0.2844
+        },
+        "filename": "cv (511)_annotated.json"
+    }
+}

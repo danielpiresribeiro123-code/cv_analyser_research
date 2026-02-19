@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "knowledge",
+        "excellent communication skills",
+        "Clinical Skills",
+        "Medical Terminology",
+        "Anatomy and Physiology",
+        "IM",
+        "ID",
+        "Sub-Q",
+        "Z-track technique",
+        "Butterfly",
+        "Vaccutainer",
+        "Needle & Syringe",
+        "Capillary",
+        "current Cardiopulmonary Resuscitation",
+        "Certification",
+        "Administrative Skills",
+        "proficient",
+        "Microsoft Office Suite",
+        "various operating systems",
+        "various software applications",
+        "ICD-9",
+        "CPT billing & coding procedures",
+        "patient files",
+        "competent",
+        "standard office equipment & procedures",
+        "excellent interpersonal communication skills-verbal",
+        "City",
+        "EMR software"
+    ],
+    "professional_info": {
+        "person name": [
+            "TEACHER"
+        ],
+        "job title": [
+            "Medical Assistant",
+            "Medical"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "knowledge": 0.2341,
+            "excellent communication skills": 0.4308,
+            "Clinical Skills": 0.515,
+            "Medical Terminology": 0.3724,
+            "Anatomy and Physiology": 0.4644,
+            "IM": 0.3559,
+            "ID": 0.2481,
+            "Sub-Q": 0.4377,
+            "Z-track technique": 0.4074,
+            "Butterfly": 0.4749,
+            "Vaccutainer": 0.4066,
+            "Needle & Syringe": 0.3361,
+            "Capillary": 0.3707,
+            "current Cardiopulmonary Resuscitation": 0.3629,
+            "Certification": 0.884,
+            "Administrative Skills": 0.418,
+            "proficient": 0.5232,
+            "Microsoft Office Suite": 0.9507,
+            "various operating systems": 0.7201,
+            "various software applications": 0.1669,
+            "ICD-9": 0.3665,
+            "CPT billing & coding procedures": 0.1872,
+            "patient files": 0.1569,
+            "competent": 0.3996,
+            "standard office equipment & procedures": 0.2642,
+            "excellent interpersonal communication skills-verbal": 0.4892,
+            "City": 0.1831,
+            "EMR software": 0.4544
+        },
+        "filename": "cv (4669)_annotated.json"
+    }
+}

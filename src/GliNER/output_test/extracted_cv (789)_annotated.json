@@ -1,0 +1,53 @@
+{
+    "skills": [
+        "Entertainment Weekly",
+        "Marie Claire",
+        "Teen Vogue",
+        "V Magazine"
+    ],
+    "professional_info": {
+        "person name": [
+            "Brooke Elliott",
+            "Brooke Shields",
+            "Jamie Lynn Sigler",
+            "Jill Hennessy",
+            "Kim Raver",
+            "Rachel Griffiths",
+            "Tricia Helfer",
+            "Willow Shields",
+            "Tina Turnbow",
+            "Alexei Hay",
+            "Andrew Eccles",
+            "Annie Leibovitz",
+            "Arthur Elgort",
+            "Chris Militscher",
+            "David Bailey",
+            "Don Flood",
+            "Greg Delves",
+            "Jonty Davies",
+            "Karen Collins",
+            "Freddie Helwig"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue",
+            "90034"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Entertainment Weekly": 0.1597,
+            "Marie Claire": 0.2142,
+            "Teen Vogue": 0.2073,
+            "V Magazine": 0.1732
+        },
+        "filename": "cv (789)_annotated.json"
+    }
+}

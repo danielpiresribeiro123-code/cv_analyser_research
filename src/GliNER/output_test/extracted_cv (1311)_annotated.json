@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "Male",
+        "Single",
+        "English",
+        "Kiswahili",
+        "agricultural",
+        "economies and                                       resource management",
+        "computer packages",
+        "Primary Education",
+        "CAREER OBJECTIVE",
+        "dynamic individual",
+        "skills",
+        "abilities"
+    ],
+    "professional_info": {
+        "person name": [
+            "Otwoma Daniel Aywa",
+            "Kenyan",
+            "Christian",
+            "Mr. Henry M. Rechiena",
+            "Dr. P.M Nyagweso",
+            "Winfred Kilonzo"
+        ],
+        "job title": [
+            "clerk",
+            "untrained Teacher",
+            "Intern",
+            "Chief Principal",
+            "Head of Department of Economics and Agricultural Resource, Management"
+        ],
+        "company": [
+            "Mitchell Cotts freight",
+            "Mang’u High school"
+        ],
+        "university": [
+            "Moi University"
+        ],
+        "degree": [
+            "bachelor of science",
+            "Second Class (Upper Division)",
+            "A level (secondary education)"
+        ],
+        "years of experience": [
+            "WORKING EXPERIENCE",
+            "2008 – 2009"
+        ],
+        "address": [
+            "P.O Box 314",
+            "P. O Box 39003"
+        ],
+        "email": [
+            "EMAIL ADDRESS",
+            "danotwoma54@gmail.com"
+        ],
+        "phone": [
+            "TEL",
+            "0716824192",
+            "0725361835"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Male": 0.194,
+            "Single": 0.3431,
+            "English": 0.6171,
+            "Kiswahili": 0.6481,
+            "agricultural": 0.2193,
+            "economies and                                       resource management": 0.4203,
+            "computer packages": 0.3046,
+            "Primary Education": 0.1764,
+            "CAREER OBJECTIVE": 0.1757,
+            "dynamic individual": 0.5357,
+            "skills": 0.2127,
+            "abilities": 0.3463
+        },
+        "filename": "cv (1311)_annotated.json"
+    }
+}

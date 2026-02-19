@@ -1,0 +1,52 @@
+{
+    "skills": [
+        "Accounts Payable",
+        "accounts  receivable  ledgers",
+        "Office Premises",
+        "Accounts Payable & Receivables section",
+        "GL accounts"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "shameel.iqbal1",
+            "Sr. Accounts Executive",
+            "Accounts Officer"
+        ],
+        "company": [
+            "SHAMEEL IQBAL",
+            "QUETTA TEXTILE MILLS LIMITED",
+            "ARTISTIC DENIM MILLS LIMITED"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Apartment No. 02",
+            "Anjum Mansion",
+            "A.M.1",
+            "Burns Road Karachi",
+            "Pakistan-74200"
+        ],
+        "email": [
+            "Email",
+            "shamyel@live.com"
+        ],
+        "phone": [
+            "+9221-32637834",
+            "Cell",
+            "+92345-3040689"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Accounts Payable": 0.2003,
+            "accounts  receivable  ledgers": 0.2038,
+            "Office Premises": 0.164,
+            "Accounts Payable & Receivables section": 0.1778,
+            "GL accounts": 0.1821
+        },
+        "filename": "cv (1075)_annotated.json"
+    }
+}

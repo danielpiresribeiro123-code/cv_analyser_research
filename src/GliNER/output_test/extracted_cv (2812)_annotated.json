@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "professional skills",
+        "AutoCAD (2d and 3d)",
+        "Microsoft Project",
+        "Microsoft Office",
+        "Concerto",
+        "BAAN",
+        "PLM",
+        "Realization",
+        "Strength",
+        "Hard Working",
+        "Like changes and challenges",
+        "Helpful nature",
+        "Flexibility",
+        "English",
+        "Hindi",
+        "Gujarati",
+        "core mechanical field",
+        "ASME standards",
+        "piping standards"
+    ],
+    "professional_info": {
+        "person name": [
+            "Harshil N. Shah",
+            "l",
+            "a"
+        ],
+        "job title": [
+            "Engineerin",
+            "gSaurashtr",
+            "Planning engineer"
+        ],
+        "company": [
+            "eBoard",
+            "H.S.C Gujarat",
+            "BoardJivanbharti",
+            "S.S.C Gujarat",
+            "Hi-Tech Applicator",
+            "Hi-Tech"
+        ],
+        "university": [
+            "Degree Institut",
+            "UniversityYear of",
+            "UniversityC. U. Shah College"
+        ],
+        "degree": [
+            "B.E.",
+            "passin",
+            "gPercenta",
+            "ge",
+            "Mechanica"
+        ],
+        "years of experience": [
+            "2.6 years experience"
+        ],
+        "address": [],
+        "email": [
+            "harshil_shah_hs@yahoo.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "professional skills": 0.2353,
+            "AutoCAD (2d and 3d)": 0.3861,
+            "Microsoft Project": 0.6572,
+            "Microsoft Office": 0.6908,
+            "Concerto": 0.436,
+            "BAAN": 0.5137,
+            "PLM": 0.6519,
+            "Realization": 0.3929,
+            "Strength": 0.2866,
+            "Hard Working": 0.473,
+            "Like changes and challenges": 0.2551,
+            "Helpful nature": 0.5186,
+            "Flexibility": 0.4793,
+            "English": 0.7678,
+            "Hindi": 0.8483,
+            "Gujarati": 0.8939,
+            "core mechanical field": 0.3776,
+            "ASME standards": 0.6474,
+            "piping standards": 0.4336
+        },
+        "filename": "cv (2812)_annotated.json"
+    }
+}

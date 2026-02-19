@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "highly motivated person",
+        "good attitude",
+        "analytical and development skills",
+        "Knowledge and Pleasure",
+        "Certificate      ITI Digha Patna          NCVT 2004  1st",
+        "Maintenance and Project",
+        "DB. Dressing",
+        "Pipe fitting",
+        "power Lighting Wiring",
+        "Cable Tray Trunking",
+        "panel board Internal Wiring",
+        "Good Knowledge",
+        "PPM",
+        "Fault Tracing",
+        "Good knowledge about all types of equipment",
+        "Married",
+        "English",
+        "Urdu",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHD. SHAKIL ANWAR",
+            "Md. Mumtaz Alam",
+            "Indian"
+        ],
+        "job title": [
+            "Industrial Trade",
+            "Electrician"
+        ],
+        "company": [
+            "EDUCATION COLLEGE",
+            "High SchoolShafi muslim high",
+            "schoolBihar School",
+            "SAUDI BINLADEN GROUP",
+            "SAUDI OGER LTD",
+            "ROHINI INDUSTRIES ELECT LTD"
+        ],
+        "university": [
+            "Intermediate ScienceMillat College",
+            "VILL P.O-MILKICHAK"
+        ],
+        "degree": [],
+        "years of experience": [
+            "6 Years"
+        ],
+        "address": [
+            "Laheriasarai",
+            "P.S-LAHERIASARAI STAE- BIHAR",
+            "Dist. Darbhanga (846004)"
+        ],
+        "email": [
+            "shakilanwaramir@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "highly motivated person": 0.3662,
+            "good attitude": 0.4251,
+            "analytical and development skills": 0.3964,
+            "Knowledge and Pleasure": 0.1836,
+            "Certificate      ITI Digha Patna          NCVT 2004  1st": 0.549,
+            "Maintenance and Project": 0.2452,
+            "DB. Dressing": 0.2512,
+            "Pipe fitting": 0.2878,
+            "power Lighting Wiring": 0.2264,
+            "Cable Tray Trunking": 0.1835,
+            "panel board Internal Wiring": 0.2783,
+            "Good Knowledge": 0.1929,
+            "PPM": 0.1536,
+            "Fault Tracing": 0.3162,
+            "Good knowledge about all types of equipment": 0.2011,
+            "Married": 0.4304,
+            "English": 0.5109,
+            "Urdu": 0.5637,
+            "Hindi": 0.6292
+        },
+        "filename": "cv (4189)_annotated.json"
+    }
+}

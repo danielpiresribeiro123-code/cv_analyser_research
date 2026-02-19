@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Machine Learning",
+        "Natural Language Processing",
+        "Learning",
+        "Python",
+        "data processing tools",
+        "PROFICIENT SKILLS",
+        "Natural Language",
+        "Processing",
+        "Deep Learning",
+        "Analysis",
+        "Numpy",
+        "Pandas",
+        "Scikit",
+        "Learn",
+        "Tensorflow",
+        "Keras",
+        "PySpark",
+        "Artistry"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "DATA PROCESSING INTERN",
+            "intern",
+            "Data Processing Junior Intern"
+        ],
+        "company": [],
+        "university": [],
+        "degree": [
+            "B.Tech"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Machine Learning": 0.4706,
+            "Natural Language Processing": 0.3411,
+            "Learning": 0.1754,
+            "Python": 0.9755,
+            "data processing tools": 0.4098,
+            "PROFICIENT SKILLS": 0.2723,
+            "Natural Language": 0.2748,
+            "Processing": 0.2301,
+            "Deep Learning": 0.3937,
+            "Analysis": 0.3174,
+            "Numpy": 0.4863,
+            "Pandas": 0.4134,
+            "Scikit": 0.3812,
+            "Learn": 0.3935,
+            "Tensorflow": 0.5203,
+            "Keras": 0.6665,
+            "PySpark": 0.3044,
+            "Artistry": 0.742
+        },
+        "filename": "cv (4836)_annotated.json"
+    }
+}

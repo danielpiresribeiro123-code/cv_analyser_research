@@ -1,0 +1,53 @@
+{
+    "skills": [
+        "Course &"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sadiqbasha360"
+        ],
+        "job title": [
+            "VASIM ASIF.S",
+            "ASSISTANT  ENGINEER",
+            "SITE ENGINEER",
+            "QA/QC Engineer"
+        ],
+        "company": [
+            "ETA  CONSTRUCTIONS (I) LTD",
+            "ETA STAR Verde",
+            "SS  CONSTRUCTIONS"
+        ],
+        "university": [
+            "University"
+        ],
+        "degree": [
+            "B.E"
+        ],
+        "years of experience": [
+            "4  Years"
+        ],
+        "address": [
+            "Valasaravakkam",
+            "Chennai",
+            "Medavakkam",
+            "kottivakkam",
+            "Kovalam"
+        ],
+        "email": [
+            "Email",
+            "vasim.civil50@gmail.com",
+            "BoardYear Of"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9941065341"
+        ]
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "Course &": 0.1905
+        },
+        "filename": "cv (515)_annotated.json"
+    }
+}

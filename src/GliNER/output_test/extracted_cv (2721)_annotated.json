@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "MARKS",
+        "MADHYAMIK  W.B.B.S.E  2009",
+        "TECHNICAL QUALIFICATION",
+        "POLYTECHNIC",
+        "DIPLOMA",
+        "W.B.S.C.T.E",
+        "I.T.I",
+        "PASSED (ELECTRONICS, MECH)",
+        "NCVT",
+        "GENERAL",
+        "MALE",
+        "BENGALI",
+        "ENGLISH"
+    ],
+    "professional_info": {
+        "person name": [
+            "NAME",
+            "KAUSHIK MITRA",
+            "TAPAS KUMAR MITRA",
+            "NAME OF",
+            "INDIAN"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "VILL+P.O :-RAJBALLAVPUR",
+            "P.S:-HABRA",
+            "DIST: -24 PGS(N)"
+        ],
+        "email": [
+            "EMAIL",
+            "plzmailkaushik2012@gmail.com"
+        ],
+        "phone": [
+            "PHONE",
+            "7797192384"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "MARKS": 0.2108,
+            "MADHYAMIK  W.B.B.S.E  2009": 0.3455,
+            "TECHNICAL QUALIFICATION": 0.1677,
+            "POLYTECHNIC": 0.4614,
+            "DIPLOMA": 0.2737,
+            "W.B.S.C.T.E": 0.2113,
+            "I.T.I": 0.3574,
+            "PASSED (ELECTRONICS, MECH)": 0.172,
+            "NCVT": 0.217,
+            "GENERAL": 0.1801,
+            "MALE": 0.2204,
+            "BENGALI": 0.6467,
+            "ENGLISH": 0.8032
+        },
+        "filename": "cv (2721)_annotated.json"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "TECHNICAL SKILLS",
+        "AutoCAD 2013",
+        "CATIA V5R20",
+        "CREO 2.0",
+        "Inventer 2013",
+        "MS-Office",
+        "AutoCAD",
+        "Certified Professional in Product Design by CAD Centre"
+    ],
+    "professional_info": {
+        "person name": [
+            "Rohit Tiwari"
+        ],
+        "job title": [
+            "Title"
+        ],
+        "company": [
+            "B.Tech MEKrishna Institute Of Technology",
+            "Technical University201576.52 %",
+            "IntermediateKendriya Vidyalaya",
+            "KanpurCBSE Board",
+            "High-SchoolKendriya Vidyalaya",
+            "Honda Cars India Limited",
+            "Krishna Institute of Technology",
+            "Bharat Heavy Electrical Limited"
+        ],
+        "university": [],
+        "degree": [
+            "Honours"
+        ],
+        "years of experience": [],
+        "address": [
+            "Tapukara"
+        ],
+        "email": [
+            "E-mail",
+            "tiwari.rohit99@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91- 9598611200"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "TECHNICAL SKILLS": 0.3401,
+            "AutoCAD 2013": 0.8645,
+            "CATIA V5R20": 0.8005,
+            "CREO 2.0": 0.5445,
+            "Inventer 2013": 0.6805,
+            "MS-Office": 0.9309,
+            "AutoCAD": 0.4758,
+            "Certified Professional in Product Design by CAD Centre": 0.6515
+        },
+        "filename": "cv (1949)_annotated.json"
+    }
+}

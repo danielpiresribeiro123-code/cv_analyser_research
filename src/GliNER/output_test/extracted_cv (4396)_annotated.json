@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "Skills",
+        "Assessment",
+        "Project Management",
+        "Process Improvements",
+        "systems",
+        "internal controls",
+        "Professional Training and Development",
+        "electronic health care software",
+        "standard tools and processes",
+        "adult learning theory",
+        "group dynamics",
+        "group facilitation",
+        "needs analysis",
+        "program design and evaluation and change",
+        "management",
+        "WebEx sessions",
+        "IT infrastructures",
+        "Device Service & Support",
+        "budget control",
+        "production timetable",
+        "status reporting"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT",
+            "training manager",
+            "coordinator",
+            "PROJECT MANAGER",
+            "reports"
+        ],
+        "company": [
+            "Company Name",
+            "Community Health Systems",
+            "CHS"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City",
+            "Franklin, TN"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Skills": 0.1768,
+            "Assessment": 0.215,
+            "Project Management": 0.7012,
+            "Process Improvements": 0.2123,
+            "systems": 0.1765,
+            "internal controls": 0.2141,
+            "Professional Training and Development": 0.5414,
+            "electronic health care software": 0.3621,
+            "standard tools and processes": 0.2583,
+            "adult learning theory": 0.6977,
+            "group dynamics": 0.4736,
+            "group facilitation": 0.5453,
+            "needs analysis": 0.5921,
+            "program design and evaluation and change": 0.3695,
+            "management": 0.2417,
+            "WebEx sessions": 0.2156,
+            "IT infrastructures": 0.2665,
+            "Device Service & Support": 0.159,
+            "budget control": 0.166,
+            "production timetable": 0.1886,
+            "status reporting": 0.1724
+        },
+        "filename": "cv (4396)_annotated.json"
+    }
+}

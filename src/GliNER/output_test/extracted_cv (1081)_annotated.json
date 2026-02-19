@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "Department of Geology",
+        "Structural geology",
+        "plate tectonics",
+        "Mineralogy",
+        "Physical Geology"
+    ],
+    "professional_info": {
+        "person name": [
+            "W. A. Sullivan",
+            "Walter A. (Bill) Sullivan",
+            "Dr. Arthur W. Snoke",
+            "Dr. Richard D. Law",
+            "Dr. Joseph L. Allen",
+            "Sullivan",
+            "W. A.",
+            "Boyd",
+            "Monz",
+            "Beane, R. J."
+        ],
+        "job title": [
+            "Associate Professor of Geology",
+            "Assistant Professor of Geology",
+            "Visiting Assistant Professor of Geology",
+            "Graduate Teaching Assistant"
+        ],
+        "company": [],
+        "university": [
+            "Colby College",
+            "University of Wyoming",
+            "Virginia Polytechnical Institute and State University",
+            "Concord University",
+            "Virginia Tech"
+        ],
+        "degree": [
+            "Ph.D.",
+            "M.S.",
+            "B.S.",
+            "Summa Cum Laude"
+        ],
+        "years of experience": [],
+        "address": [
+            "5803 Mayflower Hill",
+            "Waterville, ME",
+            "Laramie, Wyo.",
+            "Blacksburg, Va.",
+            "Athens, W. Va."
+        ],
+        "email": [
+            "E-mail",
+            "wasulliv@colby.edu"
+        ],
+        "phone": [
+            "Phone",
+            "(207) 859-5803"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Department of Geology": 0.4071,
+            "Structural geology": 0.92,
+            "plate tectonics": 0.8181,
+            "Mineralogy": 0.2317,
+            "Physical Geology": 0.5726
+        },
+        "filename": "cv (1081)_annotated.json"
+    }
+}

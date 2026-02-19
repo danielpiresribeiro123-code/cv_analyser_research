@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "Actively seeking job",
+        "enthusiast",
+        "very keen to learn &",
+        "eagerly looking for opportunities",
+        "Other Activities",
+        "MACHINE LEARNING",
+        "Python",
+        "Projects",
+        "Mine and analyze data",
+        "databases",
+        "product development",
+        "techniques and business strategies",
+        "Skills",
+        "Data science",
+        "Deep learning",
+        "Neural",
+        "Networks",
+        "Artificial Intelligence",
+        "Natural",
+        "Language Processing",
+        "Pattern Recognition",
+        "Predictive Analytics",
+        "Logistic regression",
+        "software development"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ellie Mackey"
+        ],
+        "job title": [
+            "FRESHER INTERN",
+            "Executive Profile",
+            "Intern Trainee"
+        ],
+        "company": [
+            "Electronics &",
+            "Telecommunication",
+            "BB House of Developers"
+        ],
+        "university": [
+            "B.CA St. Subhash College"
+        ],
+        "degree": [
+            "Master's degree"
+        ],
+        "years of experience": [],
+        "address": [
+            "Hyderabad 2020"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Actively seeking job": 0.4471,
+            "enthusiast": 0.4159,
+            "very keen to learn &": 0.3991,
+            "eagerly looking for opportunities": 0.2772,
+            "Other Activities": 0.2309,
+            "MACHINE LEARNING": 0.7881,
+            "Python": 0.5074,
+            "Projects": 0.4703,
+            "Mine and analyze data": 0.1901,
+            "databases": 0.3098,
+            "product development": 0.4094,
+            "techniques and business strategies": 0.2775,
+            "Skills": 0.1584,
+            "Data science": 0.63,
+            "Deep learning": 0.8129,
+            "Neural": 0.6813,
+            "Networks": 0.4478,
+            "Artificial Intelligence": 0.6351,
+            "Natural": 0.4792,
+            "Language Processing": 0.5526,
+            "Pattern Recognition": 0.6346,
+            "Predictive Analytics": 0.6668,
+            "Logistic regression": 0.689,
+            "software development": 0.2871
+        },
+        "filename": "cv (5011)_annotated.json"
+    }
+}

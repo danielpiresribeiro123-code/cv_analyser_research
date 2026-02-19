@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "+20100 1877 466",
+        "solar design",
+        "REVIT",
+        "PMP"
+    ],
+    "professional_info": {
+        "person name": [
+            "Khalid Othman"
+        ],
+        "job title": [
+            "Solar Thermal Energy Engineer",
+            "professional engineer",
+            "design and site solar professional engineer",
+            "certified trainer engineer",
+            "Senior",
+            "Design and Site Engineer",
+            "Design Engineer for solar pumping system",
+            "Design Engineer",
+            "Senior site and design engineer",
+            "Site Engineer",
+            "Site and Design Engineer",
+            "design and installation engineer",
+            "site installation engineer"
+        ],
+        "company": [
+            "linkedin",
+            "Renewables Academy",
+            "RENAC",
+            "Navis Works",
+            "Egyptian Systems",
+            "Acropol",
+            "TAQAMISR",
+            "PEPSICO Factory",
+            "Construction Products"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Male",
+            "5 years of Experience"
+        ],
+        "address": [
+            "Togary St.",
+            "41516",
+            "+20100 1877 466",
+            "English"
+        ],
+        "email": [
+            "khalidothman88@gmail.com"
+        ],
+        "phone": [
+            "WhatsApp"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "+20100 1877 466": 0.1572,
+            "solar design": 0.4334,
+            "REVIT": 0.5146,
+            "PMP": 0.8679
+        },
+        "filename": "cv (223)_annotated.json"
+    }
+}

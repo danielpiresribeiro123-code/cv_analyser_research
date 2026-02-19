@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "10+2",
+        "ADCA",
+        "TALLY  9",
+        "INTERNET",
+        "DTP",
+        "Hindi",
+        "English",
+        "Urdu"
+    ],
+    "professional_info": {
+        "person name": [
+            "MD.SHAMSAD ALAM",
+            "Md.Hasnain",
+            "Shamsad Alam"
+        ],
+        "job title": [
+            "forward looking",
+            "strategic decision making",
+            "Spare Parts Manager",
+            "Service Advisor",
+            "C.R.M"
+        ],
+        "company": [
+            "C.N. Collage Ramgarh (Jharkhand)",
+            "Jharkhand Intermediate Education Council Ranchi",
+            "WAVE CITY COMPUTER CENTRE RAMGARH",
+            "ICICI  PRUDENTIAL  LIFE  INSURANCE  COMPENY  LTD.",
+            "SHREE HYUNDAI (A Unit Of Ranju Automobiles Pvt. Ltd)",
+            "Bokaro",
+            "Shree Hyundai Bokaro",
+            "Hyundai"
+        ],
+        "university": [
+            "Jharkhand Board Academic Council Ranchi",
+            "Indian  Institute  of  Motor Industry (India) AMIMI Madras"
+        ],
+        "degree": [
+            "Graduation B.Com",
+            "MULTIMEDEA",
+            "Automobile  Engineering    (Diploma)"
+        ],
+        "years of experience": [
+            "Two years  work experience",
+            "Married",
+            "Male"
+        ],
+        "address": [
+            "Mob",
+            "Present Address",
+            "P. O.  Digwar"
+        ],
+        "email": [
+            "Email",
+            "shamsadalam77@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "10+2": 0.2236,
+            "ADCA": 0.7034,
+            "TALLY  9": 0.7584,
+            "INTERNET": 0.3477,
+            "DTP": 0.5643,
+            "Hindi": 0.635,
+            "English": 0.6649,
+            "Urdu": 0.6656
+        },
+        "filename": "cv (527)_annotated.json"
+    }
+}

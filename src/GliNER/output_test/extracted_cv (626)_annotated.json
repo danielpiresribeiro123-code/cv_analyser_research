@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "MSOffice2007",
+        "D.T.P.",
+        "AutoCAD2013",
+        "STAADPRO",
+        "REVIT",
+        "StrengthofMaterials",
+        "BuildingMaterials",
+        "ConcreteTechnology",
+        "Bridge",
+        "Design",
+        "FieldsofExposure",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Flexibletoaccommodateinanysortofsituation",
+        "ProblemSolvingandAnalyticalSkills",
+        "PresentationSkills",
+        "English",
+        "Hindi",
+        "Telugu",
+        "Urdu"
+    ],
+    "professional_info": {
+        "person name": [
+            "PATHANMASTHANKHAN",
+            "VITARKA2K14asa",
+            "SAVISKAR2K15asa",
+            "PATHANMASTHANKHANName"
+        ],
+        "job title": [
+            "CIVILENGINEER"
+        ],
+        "company": [],
+        "university": [
+            "JawaharlalNehruTechnologicalUniversity",
+            "NarayanaJuniorCollege",
+            "ZIONE.M.H.School",
+            "CEMECTechnologies",
+            "InstituteofScienceandTechnology"
+        ],
+        "degree": [
+            "B.Tech–CivilEngineering 2016",
+            "ClassXIIIntermediate 2012",
+            "ClassX(SSC) 2010",
+            "B.Tech"
+        ],
+        "years of experience": [],
+        "address": [
+            "61/8-1",
+            "NabikotaStreet",
+            "R.V.NagarPost"
+        ],
+        "email": [
+            "masthan861@gmail.com"
+        ],
+        "phone": [
+            "+917396109883"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "MSOffice2007": 0.7622,
+            "D.T.P.": 0.4049,
+            "AutoCAD2013": 0.7127,
+            "STAADPRO": 0.5207,
+            "REVIT": 0.2816,
+            "StrengthofMaterials": 0.4333,
+            "BuildingMaterials": 0.4589,
+            "ConcreteTechnology": 0.4726,
+            "Bridge": 0.3113,
+            "Design": 0.2952,
+            "FieldsofExposure": 0.183,
+            "Mathematics": 0.4957,
+            "Physics": 0.3755,
+            "Chemistry": 0.3833,
+            "Flexibletoaccommodateinanysortofsituation": 0.1587,
+            "ProblemSolvingandAnalyticalSkills": 0.3315,
+            "PresentationSkills": 0.1513,
+            "English": 0.2624,
+            "Hindi": 0.3466,
+            "Telugu": 0.2987,
+            "Urdu": 0.4018
+        },
+        "filename": "cv (626)_annotated.json"
+    }
+}

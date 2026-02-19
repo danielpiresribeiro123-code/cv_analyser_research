@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "Highly Motivated",
+        "Professional and Interpersonal Skills",
+        "Intermediate",
+        "math",
+        "chemistry",
+        "physics",
+        "English",
+        "Indian Language",
+        "Hindi",
+        "Net Surfing"
+    ],
+    "professional_info": {
+        "person name": [
+            "Shahjad Husain Saifi",
+            "Mohd. Hanish"
+        ],
+        "job title": [
+            "Supervisor"
+        ],
+        "company": [
+            "SHAHJAD HUSAIN SAIFI",
+            "U.P. Board",
+            "High School",
+            "Jaypee Greens Golf & Spa Resort"
+        ],
+        "university": [
+            "Barelly"
+        ],
+        "degree": [
+            "BA",
+            "Economis & Geograohy"
+        ],
+        "years of experience": [
+            "Experience",
+            "6     Year",
+            "Male",
+            "Single"
+        ],
+        "address": [
+            "Jawahar Mohalla",
+            "Village Berkhera",
+            "Post Suawala Tehsil Dhampur  Bijnor (UP)"
+        ],
+        "email": [
+            "E-mail",
+            "shahjad.9210906675@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Highly Motivated": 0.2323,
+            "Professional and Interpersonal Skills": 0.1633,
+            "Intermediate": 0.2054,
+            "math": 0.519,
+            "chemistry": 0.6688,
+            "physics": 0.6454,
+            "English": 0.9294,
+            "Indian Language": 0.2567,
+            "Hindi": 0.8832,
+            "Net Surfing": 0.216
+        },
+        "filename": "cv (3085)_annotated.json"
+    }
+}

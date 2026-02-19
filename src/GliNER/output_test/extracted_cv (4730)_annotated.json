@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "Versatile and solutions-driven professional",
+        "outstanding strategic planning",
+        "Motivated and multifaceted candidate",
+        "sales management",
+        "general business administration",
+        "CRM",
+        "HR",
+        "operations planning",
+        "coordination",
+        "Proficient",
+        "filing system",
+        "media technology",
+        "reception",
+        "safety standards",
+        "customer database"
+    ],
+    "professional_info": {
+        "person name": [
+            "natalia garcia"
+        ],
+        "job title": [
+            "ASSISTANT TO MANAGING DIRECTOR",
+            "Business Management Professional",
+            "Managing Director",
+            "Business Manager"
+        ],
+        "company": [
+            "Company Name",
+            "Managing Director"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City"
+        ],
+        "email": [
+            "mail"
+        ],
+        "phone": [
+            "phone calls"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Versatile and solutions-driven professional": 0.215,
+            "outstanding strategic planning": 0.191,
+            "Motivated and multifaceted candidate": 0.1928,
+            "sales management": 0.4698,
+            "general business administration": 0.4765,
+            "CRM": 0.5966,
+            "HR": 0.3334,
+            "operations planning": 0.5119,
+            "coordination": 0.2963,
+            "Proficient": 0.1957,
+            "filing system": 0.257,
+            "media technology": 0.1808,
+            "reception": 0.1701,
+            "safety standards": 0.2598,
+            "customer database": 0.5799
+        },
+        "filename": "cv (4730)_annotated.json"
+    }
+}

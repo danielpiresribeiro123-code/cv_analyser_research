@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "Mechanical Engineering",
+        "Production",
+        "Manufacturing science",
+        "CAD",
+        "Physics",
+        "Chem istry",
+        "Math",
+        "English",
+        "Hindi",
+        "Mathili",
+        "Mathematics",
+        "Science",
+        "Social",
+        "MATHURA",
+        "Plant Mentance",
+        "Quality Control",
+        "Bush Menufacturing",
+        "Computer Application",
+        "Knowledge",
+        "Cad/Cam",
+        "Desining"
+    ],
+    "professional_info": {
+        "person name": [
+            "HARENDERA KUMAR",
+            "Mr.SOHAN LAL",
+            "PASWAN  VILL"
+        ],
+        "job title": [],
+        "company": [
+            "Schdeva Institute of",
+            "A.K.T.U  Lucknow",
+            "Automobial",
+            "Machin Desine",
+            "C.M.Collage",
+            "DBG(Bihar)",
+            "Watson HIGH School",
+            "I.O.C.L",
+            "OR",
+            "BENRA CO.PVT LTD",
+            "AGRA.  HGU",
+            "Autodesk",
+            "D.O.B"
+        ],
+        "university": [],
+        "degree": [
+            "B.Tech.(ME)   2017"
+        ],
+        "years of experience": [],
+        "address": [
+            "House No 858",
+            "Gali No 4",
+            "Sai Nagar"
+        ],
+        "email": [
+            "E-Mail",
+            "Hpaswan17@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "8909880356",
+            "9939743024"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "Mechanical Engineering": 0.5027,
+            "Production": 0.2468,
+            "Manufacturing science": 0.6699,
+            "CAD": 0.4253,
+            "Physics": 0.5251,
+            "Chem istry": 0.483,
+            "Math": 0.6847,
+            "English": 0.8316,
+            "Hindi": 0.8956,
+            "Mathili": 0.7069,
+            "Mathematics": 0.2097,
+            "Science": 0.4904,
+            "Social": 0.2323,
+            "MATHURA": 0.376,
+            "Plant Mentance": 0.3893,
+            "Quality Control": 0.2663,
+            "Bush Menufacturing": 0.2147,
+            "Computer Application": 0.2128,
+            "Knowledge": 0.18,
+            "Cad/Cam": 0.2294,
+            "Desining": 0.1512
+        },
+        "filename": "cv (1474)_annotated.json"
+    }
+}

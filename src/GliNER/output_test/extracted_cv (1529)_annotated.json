@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "Finacial Market",
+        "Operations",
+        "Anti money Laundering",
+        "Foreign Exchange",
+        "Money Markets",
+        "Languages"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Graduated in Commerce",
+            "Senior  Officer-  Financial  Markets",
+            "Analyst"
+        ],
+        "company": [
+            "Scope International",
+            "Global Reconciliation Unit",
+            "HSC Asan Memorial",
+            "Matriculation Higher",
+            "SSLCAsan Memorial"
+        ],
+        "university": [
+            "COURSECOLLEGE/SCHOOL UNIVERSITY",
+            "B.ComM.O.P Vaishnav College",
+            "University2007-10",
+            "Board2007",
+            "ChennaiCentral Board 2005"
+        ],
+        "degree": [],
+        "years of experience": [
+            "4.3 years experience"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "shrunans@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9710922339 chennai 600091"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Finacial Market": 0.3491,
+            "Operations": 0.5167,
+            "Anti money Laundering": 0.6396,
+            "Foreign Exchange": 0.3777,
+            "Money Markets": 0.1542,
+            "Languages": 0.1632
+        },
+        "filename": "cv (1529)_annotated.json"
+    }
+}

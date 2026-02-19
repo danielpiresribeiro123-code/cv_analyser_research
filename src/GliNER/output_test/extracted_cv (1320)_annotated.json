@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "Male",
+        "Single",
+        "English",
+        "Kiswahili",
+        "Second Class Honours",
+        "Quantitative and Qualitative Data"
+    ],
+    "professional_info": {
+        "person name": [
+            "Edwin Masika Wanjala",
+            "Kenyan",
+            "Edwin Wanjala",
+            "Mrs. Felistus N Butali"
+        ],
+        "job title": [
+            "Volunteer",
+            "Principle Officer",
+            "Social Worker Intern",
+            "Office Assistant",
+            "Research Assistant"
+        ],
+        "company": [
+            "Teremi High School",
+            "Kenya Certificate of Secondary Education",
+            "Office of the First Lady Bungoma County",
+            "Environmental Sustainable Options",
+            "Jaramogi Oginga Odinga Teaching and, Referral Hospital",
+            "PLHA",
+            "Mediquick Tropical Medicine",
+            "Vaccines and Consultancy Services",
+            "Ipsos/Synovate Kenya",
+            "Ministry of Foreign Affairs-EAC Division"
+        ],
+        "university": [
+            "University of Nairobi"
+        ],
+        "degree": [
+            "BA in Sociology and Public Administration"
+        ],
+        "years of experience": [
+            "August 2014"
+        ],
+        "address": [],
+        "email": [
+            "E-mail address",
+            "wanjalamasik@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+254- 716-524-165"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Male": 0.2549,
+            "Single": 0.3569,
+            "English": 0.733,
+            "Kiswahili": 0.7215,
+            "Second Class Honours": 0.3913,
+            "Quantitative and Qualitative Data": 0.1866
+        },
+        "filename": "cv (1320)_annotated.json"
+    }
+}

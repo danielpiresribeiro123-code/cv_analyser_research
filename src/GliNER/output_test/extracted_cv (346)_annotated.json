@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "Gender",
+        "Male",
+        "Civil Status",
+        "Single",
+        "Vocational Diploma /ShortCourse",
+        "Certificate",
+        "Education Field",
+        "Others",
+        "ITITradeFitter",
+        "SKILLS",
+        "Skill",
+        "Computer Hardware",
+        "LANGUAGES SPOKEN",
+        "Proficiency Level",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHAHID ANSARI",
+            "Indian"
+        ],
+        "job title": [],
+        "company": [
+            "School/University",
+            "LocalComputer shop"
+        ],
+        "university": [
+            "MultiCraftPvtLtd"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Yrs. of Experience"
+        ],
+        "address": [
+            "Permanent Address"
+        ],
+        "email": [
+            "9732613619",
+            "shahidansari4399@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Gender": 0.1682,
+            "Male": 0.2479,
+            "Civil Status": 0.2031,
+            "Single": 0.3248,
+            "Vocational Diploma /ShortCourse": 0.864,
+            "Certificate": 0.7396,
+            "Education Field": 0.1818,
+            "Others": 0.3357,
+            "ITITradeFitter": 0.4836,
+            "SKILLS": 0.1575,
+            "Skill": 0.1552,
+            "Computer Hardware": 0.2222,
+            "LANGUAGES SPOKEN": 0.2608,
+            "Proficiency Level": 0.3294,
+            "Hindi": 0.9579
+        },
+        "filename": "cv (346)_annotated.json"
+    }
+}

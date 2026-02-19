@@ -1,0 +1,100 @@
+{
+    "skills": [
+        "professional knowledge",
+        "strengths",
+        "Computer Skill",
+        "Certificate in Basic  Computer",
+        "Tally ERP 9",
+        "MS Excel /Ms Word",
+        "2007",
+        "Vista",
+        "Stores organization and administration",
+        "Maintenance of stock location and bin card",
+        "Cardex system of accounting",
+        "Provisioning of stores",
+        "Stock verification and reconciliation",
+        "Inventory control activities",
+        "Order processing and demand forecasting",
+        "Report preparation",
+        "Be Cool",
+        "Patience",
+        "Be Positive",
+        "Punctual",
+        "Self Motivated",
+        "Good communication and Presentation skills",
+        "Believe in self Work and Study",
+        "English",
+        "Hindi",
+        "Bhojpuri",
+        "Singing the Song"
+    ],
+    "professional_info": {
+        "person name": [
+            "SANDIP KUMAR GOND",
+            "Late Janardan Gond"
+        ],
+        "job title": [
+            "Storekeeper"
+        ],
+        "company": [
+            "ISKCON  Food  Relief"
+        ],
+        "university": [
+            "10th2010UP",
+            "12th2012UP",
+            "VIJAY INSTITUTE  Gola bazaar Gorakhpur"
+        ],
+        "degree": [
+            "B.A2015DDU"
+        ],
+        "years of experience": [
+            "Two  Year  Experience",
+            "January,16 1995"
+        ],
+        "address": [
+            "Internet",
+            "Microsoft Windows XP"
+        ],
+        "email": [
+            "E-mail",
+            "skgsandipg@gmail.com",
+            "91-9716449904"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "professional knowledge": 0.2136,
+            "strengths": 0.3395,
+            "Computer Skill": 0.3867,
+            "Certificate in Basic  Computer": 0.5874,
+            "Tally ERP 9": 0.5838,
+            "MS Excel /Ms Word": 0.4583,
+            "2007": 0.4163,
+            "Vista": 0.7262,
+            "Stores organization and administration": 0.244,
+            "Maintenance of stock location and bin card": 0.155,
+            "Cardex system of accounting": 0.2821,
+            "Provisioning of stores": 0.1545,
+            "Stock verification and reconciliation": 0.3298,
+            "Inventory control activities": 0.1976,
+            "Order processing and demand forecasting": 0.1596,
+            "Report preparation": 0.3145,
+            "Be Cool": 0.4645,
+            "Patience": 0.3893,
+            "Be Positive": 0.477,
+            "Punctual": 0.4723,
+            "Self Motivated": 0.6207,
+            "Good communication and Presentation skills": 0.3852,
+            "Believe in self Work and Study": 0.3285,
+            "English": 0.6582,
+            "Hindi": 0.6458,
+            "Bhojpuri": 0.5942,
+            "Singing the Song": 0.167
+        },
+        "filename": "cv (3709)_annotated.json"
+    }
+}

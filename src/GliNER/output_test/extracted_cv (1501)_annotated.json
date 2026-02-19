@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "Education & Research",
+        "Hindi",
+        "Certificate in Guidance",
+        "XII",
+        "X",
+        "Advanced Fabrication and Modeling of Microphotosynthetic Electrochemical Cell",
+        "Linguistic Abilities",
+        "English",
+        "Telugu",
+        "Speak",
+        "Sanskrit",
+        "Tamil"
+    ],
+    "professional_info": {
+        "person name": [
+            "Shakila Saraswathi S",
+            "Sankaran R",
+            "Meena S"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "IGNOU",
+            "Vemu  Institute  of  Technology",
+            "Jawaharlal  Nehru Technological University",
+            "Sri Vidya Vikas Junior college",
+            "State board of Andhra Pradesh",
+            "Oxford English Medium High School",
+            "Sathya Sai CBSE School"
+        ],
+        "degree": [
+            "Masters",
+            "B.  Tech  (EEE)"
+        ],
+        "years of experience": [
+            "Married"
+        ],
+        "address": [
+            "New No: 38",
+            "F1",
+            "Cauvery Krishna apartment",
+            "bharathiyar 2nd street",
+            "palavanthangal"
+        ],
+        "email": [
+            "E-Mail",
+            "sankaranars.44@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 9652034125"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Education & Research": 0.2004,
+            "Hindi": 0.8502,
+            "Certificate in Guidance": 0.5535,
+            "XII": 0.1683,
+            "X": 0.1612,
+            "Advanced Fabrication and Modeling of Microphotosynthetic Electrochemical Cell": 0.2772,
+            "Linguistic Abilities": 0.2558,
+            "English": 0.8167,
+            "Telugu": 0.7734,
+            "Speak": 0.1698,
+            "Sanskrit": 0.6821,
+            "Tamil": 0.8471
+        },
+        "filename": "cv (1501)_annotated.json"
+    }
+}

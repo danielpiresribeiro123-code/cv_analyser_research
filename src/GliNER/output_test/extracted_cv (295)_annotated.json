@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "skills",
+        "Diploma in Electronics Engineer",
+        "Industrial Automation Training",
+        "PLC",
+        "SCADA",
+        "INSTRUMENTATION",
+        "DCSs Drive",
+        "HMI",
+        "10th Passed",
+        "Earthling system",
+        "vacuum circuit breaker",
+        "Wave trap",
+        "Area of interest",
+        "Protection system",
+        "Electrical Design",
+        "Relay Testing",
+        "Transformer Testing and Installation"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHD",
+            "ABID EKBAL",
+            "I"
+        ],
+        "job title": [
+            "Supervisor Engineer",
+            "Service Engineer"
+        ],
+        "company": [
+            "SUN AIRVOICE PVT LTD",
+            "Jaina  Marketing",
+            "Service City  India Ltd",
+            "Prolific Systems &Technology Pvt Ltd.",
+            "Bihar School Examination Board Patna"
+        ],
+        "university": [
+            "AMIE",
+            "Jamia Millia Islamia"
+        ],
+        "degree": [
+            "Bachelor of Electrical Engineer"
+        ],
+        "years of experience": [
+            "2012"
+        ],
+        "address": [
+            "H-45/16 Batla House",
+            "Jamia Nagar",
+            "New Delhi-110025",
+            "Noida"
+        ],
+        "email": [
+            "Email ID",
+            "abidiqbaljmi@gmail.com"
+        ],
+        "phone": [
+            "+91-8802587316",
+            "+91-8287033618"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "skills": 0.1521,
+            "Diploma in Electronics Engineer": 0.6556,
+            "Industrial Automation Training": 0.1765,
+            "PLC": 0.5656,
+            "SCADA": 0.6671,
+            "INSTRUMENTATION": 0.2127,
+            "DCSs Drive": 0.3634,
+            "HMI": 0.6072,
+            "10th Passed": 0.2682,
+            "Earthling system": 0.1886,
+            "vacuum circuit breaker": 0.1827,
+            "Wave trap": 0.1897,
+            "Area of interest": 0.161,
+            "Protection system": 0.3588,
+            "Electrical Design": 0.4775,
+            "Relay Testing": 0.2447,
+            "Transformer Testing and Installation": 0.157
+        },
+        "filename": "cv (295)_annotated.json"
+    }
+}

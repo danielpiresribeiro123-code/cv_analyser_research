@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "FELLOW",
+        "Minimally invasive subvastus knee Arthroplasty",
+        "Dept of Orthopaedics"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dr. KEVIN R. CHOKSEY",
+            "Kevin Rajesh Choksey",
+            "Dr. Nilen Shah",
+            "Dr. Sandeep Adke"
+        ],
+        "job title": [
+            "Male",
+            "Associate orthopaedic and knee replacement",
+            "consultant",
+            "FELLOW",
+            "Assistant",
+            "professor",
+            "Clinical Hands"
+        ],
+        "company": [],
+        "university": [
+            "Asutosh hospital",
+            "B.J. Medical College",
+            "Gujarat University"
+        ],
+        "degree": [
+            "M.B.B.S.",
+            "M.S.",
+            "MBBS",
+            "G-48360",
+            "MS Ortho-> G-21245",
+            "M.S. ORTHOPAEDICS"
+        ],
+        "years of experience": [],
+        "address": [
+            "SAIRAM",
+            "Piplawali street",
+            "Mahuva. -364290"
+        ],
+        "email": [
+            "Email",
+            "kwins936@gmail.com"
+        ],
+        "phone": [
+            "(02844) 222278",
+            "(+91) 9099852552"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "FELLOW": 0.2087,
+            "Minimally invasive subvastus knee Arthroplasty": 0.2805,
+            "Dept of Orthopaedics": 0.1583
+        },
+        "filename": "cv (969)_annotated.json"
+    }
+}

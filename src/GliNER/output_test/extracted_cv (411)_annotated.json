@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "management",
+        "skills",
+        "communication skills",
+        "finance",
+        "PROFESSIONAL QUALIFICATION",
+        "Three Years Diploma in Mechanical Engg.",
+        "ACADEMIC QUALIFICATION",
+        "Windows XP",
+        "Windows 7",
+        "Windows 8",
+        "Internet",
+        "Surfing",
+        "MS office Excel",
+        "Marital"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mr.Lalman Maurya"
+        ],
+        "job title": [
+            "HVAC, SITE ENGINEER",
+            "HVAC SITE, ENGINEER"
+        ],
+        "company": [
+            "Board of  Technical Education U.P.Lucknow",
+            "10TH PT J L N INTER COLLEGE BANSGAON",
+            "UBAID CONSTRUCTIONs & CONSULTANTS",
+            "3 STEPS ENGINEERING HVAC SOLUTIONS",
+            "Imperial Auto Industries Limited"
+        ],
+        "university": [
+            "Shri Krishna College of  Engineering Baghpat (U.P.)",
+            "GORAKHPUR UP BOARD        2008",
+            "GORAKHPUR  UP BOARD        2010"
+        ],
+        "degree": [],
+        "years of experience": [
+            "WORKING EXPERIENCE"
+        ],
+        "address": [
+            "INDRAJEET MAURYA",
+            "VILL- FULHAR KHURD",
+            "POST- BANSGAON",
+            "DISTRICT- GORAKHPUR",
+            "UTTER PRADESH",
+            "273403"
+        ],
+        "email": [
+            "EMAIL ID",
+            "imaurya2018@gmail.com"
+        ],
+        "phone": [
+            "+919818043477",
+            "+917523085511"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "management": 0.2462,
+            "skills": 0.1888,
+            "communication skills": 0.3346,
+            "finance": 0.1752,
+            "PROFESSIONAL QUALIFICATION": 0.1971,
+            "Three Years Diploma in Mechanical Engg.": 0.5204,
+            "ACADEMIC QUALIFICATION": 0.2184,
+            "Windows XP": 0.9834,
+            "Windows 7": 0.9833,
+            "Windows 8": 0.9753,
+            "Internet": 0.7586,
+            "Surfing": 0.1568,
+            "MS office Excel": 0.4128,
+            "Marital": 0.2584
+        },
+        "filename": "cv (411)_annotated.json"
+    }
+}

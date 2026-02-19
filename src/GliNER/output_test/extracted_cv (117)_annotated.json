@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "creativity",
+        "professional skills",
+        "hard working",
+        "good",
+        "communication skills",
+        "ready to take up challenging responsibility",
+        "COMPUTER QUALIFICATION",
+        "computer Accountant",
+        "CIA",
+        "DCA 6th Month Computer course",
+        "STRENGTH",
+        "ØHard working",
+        "work with honesty",
+        "Punctuality",
+        "Sincere",
+        "Language known",
+        "Hindi",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "Loni Dehat",
+            "Mohd Iliyas",
+            "Indian",
+            "Muslim"
+        ],
+        "job title": [
+            "EDUCATION QUALIFICATION"
+        ],
+        "company": [
+            "U.P. Board",
+            "Shamli",
+            "Bpo",
+            "Teamspace finance Services Pvt Ltd",
+            "ICICI BANK  LTD."
+        ],
+        "university": [
+            "CCS University Meerut"
+        ],
+        "degree": [
+            "M.Com"
+        ],
+        "years of experience": [],
+        "address": [
+            "Ashok Vihar",
+            "Ghaziabad"
+        ],
+        "email": [
+            "Pin- 201102",
+            "E-mail",
+            "irshadm387@gmail.com",
+            "9718428153"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "creativity": 0.4358,
+            "professional skills": 0.3033,
+            "hard working": 0.5066,
+            "good": 0.1592,
+            "communication skills": 0.4173,
+            "ready to take up challenging responsibility": 0.1743,
+            "COMPUTER QUALIFICATION": 0.1866,
+            "computer Accountant": 0.2066,
+            "CIA": 0.1957,
+            "DCA 6th Month Computer course": 0.4228,
+            "STRENGTH": 0.4095,
+            "ØHard working": 0.1824,
+            "work with honesty": 0.3616,
+            "Punctuality": 0.3709,
+            "Sincere": 0.3822,
+            "Language known": 0.1685,
+            "Hindi": 0.6398,
+            "English": 0.663
+        },
+        "filename": "cv (117)_annotated.json"
+    }
+}

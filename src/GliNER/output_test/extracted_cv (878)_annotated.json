@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "WWD",
+        "Zink",
+        "Zink Magazine"
+    ],
+    "professional_info": {
+        "person name": [
+            "Alex Denis",
+            "Alice Eve",
+            "Amy Ryan",
+            "Angie Harmon",
+            "Archie Panjabi",
+            "Carmindy Bowyer",
+            "Chris Colfer",
+            "Elizabeth Reaser",
+            "Ellen Barkin",
+            "Emile Hirsh",
+            "Ethan Zohn",
+            "Gloria Reuben",
+            "Jamie Chung",
+            "Jen Schefft",
+            "Katia Winter",
+            "Katy Sagal",
+            "Kelly McCreary",
+            "Kevin Jonas",
+            "Kevin McHale",
+            "Kim Cattrall",
+            "Kim Raver",
+            "Lisa Edelstein",
+            "Mark Sailing",
+            "Michael Caine",
+            "Michelle Borth",
+            "Nikki Glaser",
+            "Olivia Thirlby",
+            "Sara Rue",
+            "Sara Schaefer",
+            "Shannon Woodward",
+            "Thea Gill",
+            "Tia Mowry",
+            "Tiffany Thiessen",
+            "Zac Posen",
+            "Michael Duenas",
+            "Aaron Richter",
+            "Adam Cantor",
+            "Alexander Thompson",
+            "Andrea Blanch",
+            "Ben Shaul",
+            "Brendan Berdinski"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue",
+            "90034",
+            "310. 839. 8722"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "WWD": 0.155,
+            "Zink": 0.2039,
+            "Zink Magazine": 0.1821
+        },
+        "filename": "cv (878)_annotated.json"
+    }
+}

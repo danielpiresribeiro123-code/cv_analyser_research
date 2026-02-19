@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "accurate skills",
+        "analytical skills",
+        "Firebase",
+        "GCP",
+        "Big Data Analytics",
+        "P R O J E C T S",
+        "Video Recommender System",
+        "NLP",
+        "text extraction",
+        "Business Analytics",
+        "Data Analysis",
+        "Machine",
+        "Learning",
+        "SQL",
+        "Firebase",
+        "AWS",
+        "Cloud",
+        "Infrastructure",
+        "Python",
+        "Text Mining",
+        "Database Management and Processing",
+        "Time Series Analysis",
+        "Research Analysis",
+        "Pricing Engine",
+        "Optimising Route",
+        "Mechanism development",
+        "EDUCATIONAL HISTORY"
+    ],
+    "professional_info": {
+        "person name": [
+            "JIMMY GARTNER"
+        ],
+        "job title": [
+            "DA T A  M A N A G E R",
+            "Data Scientist"
+        ],
+        "company": [
+            "company"
+        ],
+        "university": [
+            "University"
+        ],
+        "degree": [
+            "B.Sc (Statistics)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "accurate skills": 0.2778,
+            "analytical skills": 0.3753,
+            "Firebase": 0.3351,
+            "GCP": 0.9112,
+            "Big Data Analytics": 0.4385,
+            "P R O J E C T S": 0.4675,
+            "Video Recommender System": 0.3567,
+            "NLP": 0.379,
+            "text extraction": 0.166,
+            "Business Analytics": 0.4439,
+            "Data Analysis": 0.5481,
+            "Machine": 0.2922,
+            "Learning": 0.2537,
+            "SQL": 0.2791,
+            "AWS": 0.8601,
+            "Cloud": 0.4551,
+            "Infrastructure": 0.2869,
+            "Python": 0.7904,
+            "Text Mining": 0.5207,
+            "Database Management and Processing": 0.3049,
+            "Time Series Analysis": 0.5306,
+            "Research Analysis": 0.5368,
+            "Pricing Engine": 0.239,
+            "Optimising Route": 0.1676,
+            "Mechanism development": 0.3081,
+            "EDUCATIONAL HISTORY": 0.2478
+        },
+        "filename": "cv (4856)_annotated.json"
+    }
+}

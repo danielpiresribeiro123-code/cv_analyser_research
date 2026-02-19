@@ -1,0 +1,103 @@
+{
+    "skills": [
+        "Software Testing",
+        "Manual Testing Proficiency",
+        "SDLC",
+        "STLC",
+        "Defect Life Cycle",
+        "Knowledge",
+        "Test Plan",
+        "Tracebility Matrix",
+        "Functional",
+        "Integration",
+        "System Testing",
+        "Knowledge on Smoke",
+        "Regression",
+        "Compatibility",
+        "Testing Automation Testing",
+        "QTP",
+        "QTP",
+        "Checkpoint",
+        "Output values",
+        "TECHNICAL SKILLS",
+        "C",
+        "MATLAB",
+        "VHDL",
+        "PROJECT",
+        "WIRELESS GESTURE CONTROLLED ROBOT",
+        "microcontroller",
+        "SIXTH SENCE TECHNOLOGY",
+        "CERTIFICATE",
+        "Sixth Sense Technology",
+        "STRENGTHS",
+        "good communicator",
+        "Quick in adapting to changing environment",
+        "Enthusiastic"
+    ],
+    "professional_info": {
+        "person name": [
+            "Male"
+        ],
+        "job title": [],
+        "company": [
+            "PARAMEKKAVU VIDYA MANDIR",
+            "SPYROSYS",
+            "KALOOR",
+            "Matlab"
+        ],
+        "university": [
+            "Electronics & Communication Engineering",
+            "Mala Educational Trust of Engineering",
+            "C.N.N.G.H.S School"
+        ],
+        "degree": [
+            "B.Tech"
+        ],
+        "years of experience": [],
+        "address": [
+            "Vallachira P.O"
+        ],
+        "email": [
+            "esreenath000@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 33,
+        "confidence_scores": {
+            "Software Testing": 0.5156,
+            "Manual Testing Proficiency": 0.2986,
+            "SDLC": 0.4403,
+            "STLC": 0.3698,
+            "Defect Life Cycle": 0.5827,
+            "Knowledge": 0.2272,
+            "Test Plan": 0.2364,
+            "Tracebility Matrix": 0.443,
+            "Functional": 0.2334,
+            "Integration": 0.2726,
+            "System Testing": 0.4025,
+            "Knowledge on Smoke": 0.2386,
+            "Regression": 0.3681,
+            "Compatibility": 0.3252,
+            "Testing Automation Testing": 0.1597,
+            "QTP": 0.3779,
+            "Checkpoint": 0.3596,
+            "Output values": 0.331,
+            "TECHNICAL SKILLS": 0.2323,
+            "C": 0.6485,
+            "MATLAB": 0.6489,
+            "VHDL": 0.6087,
+            "PROJECT": 0.1715,
+            "WIRELESS GESTURE CONTROLLED ROBOT": 0.2115,
+            "microcontroller": 0.1971,
+            "SIXTH SENCE TECHNOLOGY": 0.4078,
+            "CERTIFICATE": 0.8828,
+            "Sixth Sense Technology": 0.3842,
+            "STRENGTHS": 0.2064,
+            "good communicator": 0.3481,
+            "Quick in adapting to changing environment": 0.1533,
+            "Enthusiastic": 0.4457
+        },
+        "filename": "cv (768)_annotated.json"
+    }
+}

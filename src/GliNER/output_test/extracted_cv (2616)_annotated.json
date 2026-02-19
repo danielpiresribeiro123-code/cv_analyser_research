@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "hardworking individual",
+        "dedicated team player",
+        "Digital Image Processing",
+        "Programming in C/C++",
+        "Principle of Management",
+        "Mat lab",
+        "Xilinx ISE",
+        "Multisim",
+        "NI Lab view",
+        "Pcb design",
+        "Mevis lab",
+        "Real time Embedded Systems Programming",
+        "TI C2000 & its applications",
+        "Embedded System & its application using MSP430",
+        "ARUDINO MICROCONTROLLER",
+        "Virtual Colonoscopy"
+    ],
+    "professional_info": {
+        "person name": [
+            "SETHUPATHI RAJA.R"
+        ],
+        "job title": [],
+        "company": [
+            "THINK LABS",
+            "NATIONAL INSTRUMENTS",
+            "STEPS",
+            "TEXAS, INSTRUMENTS",
+            "NRC IIT Kharagpur",
+            "DR.NGP Institute of, Technology",
+            "XIIGovt Kallar Hr.Sec School",
+            "XGovt Kallar Hr.Sec School",
+            "Dr.N.G.P, Institute of Technology",
+            "Institute of Electrical and Electronics, Engineers",
+            "IEEE",
+            "ICACT"
+        ],
+        "university": [
+            "Anna University"
+        ],
+        "degree": [
+            "B.E.(ECE)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Chennai201563%"
+        ],
+        "email": [
+            "gmail.com"
+        ],
+        "phone": [
+            "Contact number",
+            "91 8056905939"
+        ]
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "hardworking individual": 0.1593,
+            "dedicated team player": 0.2178,
+            "Digital Image Processing": 0.3979,
+            "Programming in C/C++": 0.2912,
+            "Principle of Management": 0.2762,
+            "Mat lab": 0.6198,
+            "Xilinx ISE": 0.4572,
+            "Multisim": 0.4518,
+            "NI Lab view": 0.4547,
+            "Pcb design": 0.6716,
+            "Mevis lab": 0.5839,
+            "Real time Embedded Systems Programming": 0.2977,
+            "TI C2000 & its applications": 0.2855,
+            "Embedded System & its application using MSP430": 0.229,
+            "ARUDINO MICROCONTROLLER": 0.3014,
+            "Virtual Colonoscopy": 0.1842
+        },
+        "filename": "cv (2616)_annotated.json"
+    }
+}

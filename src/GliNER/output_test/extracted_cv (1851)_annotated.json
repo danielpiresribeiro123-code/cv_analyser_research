@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "Logistics",
+        "logististics",
+        "inventory  management",
+        "stock  Analysis",
+        "operation  management",
+        "WMS(Uniware)",
+        "FMCG Inventory",
+        "Operation Management",
+        "WMS (Uniware)",
+        "Excel",
+        "Basic computer knowladge",
+        "Ms Word"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mukesh kumar"
+        ],
+        "job title": [
+            "Executive",
+            "Associate",
+            "accountant",
+            "Warehouse Associate"
+        ],
+        "company": [
+            "GatiKwe",
+            "snapdeal",
+            "Om Logistics"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "09714502039"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "mjangir35@gmail.com",
+            "E-mail",
+            "Microsoft outlook",
+            "outlook expess"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Logistics": 0.2922,
+            "logististics": 0.4596,
+            "inventory  management": 0.5526,
+            "stock  Analysis": 0.4408,
+            "operation  management": 0.4998,
+            "WMS(Uniware)": 0.4574,
+            "FMCG Inventory": 0.1899,
+            "Operation Management": 0.4264,
+            "WMS (Uniware)": 0.3796,
+            "Excel": 0.2574,
+            "Basic computer knowladge": 0.1815,
+            "Ms Word": 0.2913
+        },
+        "filename": "cv (1851)_annotated.json"
+    }
+}

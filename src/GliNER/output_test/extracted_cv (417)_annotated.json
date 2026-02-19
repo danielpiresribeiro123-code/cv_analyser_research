@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "Client Relationship Management",
+        "N umerical Relay testing",
+        "RTD",
+        "Education & Credentials",
+        "Technical Skills",
+        "IEC",
+        "IEEE",
+        "Circuit Breaker Analyzer",
+        "CT Analyzer",
+        "Transformer Testing Kits",
+        "DC winding Resistance",
+        "SFRA",
+        "V ector Group",
+        "CMC256",
+        "CMC156",
+        "Freja 300",
+        "Sverker 760",
+        "Sverker 900",
+        "S1",
+        "MS-Office",
+        "MS Power Project & Win dows",
+        "ELECTRICAL OPERATIONS & MAINTENANCE"
+    ],
+    "professional_info": {
+        "person name": [
+            "Padarti Sireesha Aditya"
+        ],
+        "job title": [
+            "Executive Profile",
+            "Electrical Commissioning & Maintenance specialist",
+            "Communicator Innovator",
+            "Intuitive",
+            "Trainee  Engineer",
+            "Testing Engineer"
+        ],
+        "company": [
+            "Megger make",
+            "Micom",
+            "Digsi -Siemens",
+            "PCM -ABB",
+            "Enervista - GE",
+            "Sepam - Schneider",
+            "Vasavi Power Services Pvt. Ltd.",
+            "Jayashree Electromech Pvt"
+        ],
+        "university": [
+            "Jawaharlal Nehru Techn ological University, Hyderabad"
+        ],
+        "degree": [
+            "B.Tech."
+        ],
+        "years of experience": [
+            "4.0 years of experience",
+            "2009",
+            "2013 to 2015"
+        ],
+        "address": [],
+        "email": [
+            "srinivas.263@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Client Relationship Management": 0.1753,
+            "N umerical Relay testing": 0.1902,
+            "RTD": 0.2521,
+            "Education & Credentials": 0.4589,
+            "Technical Skills": 0.3739,
+            "IEC": 0.8851,
+            "IEEE": 0.7697,
+            "Circuit Breaker Analyzer": 0.2929,
+            "CT Analyzer": 0.2339,
+            "Transformer Testing Kits": 0.2134,
+            "DC winding Resistance": 0.5292,
+            "SFRA": 0.5046,
+            "V ector Group": 0.1733,
+            "CMC256": 0.3741,
+            "CMC156": 0.4129,
+            "Freja 300": 0.5271,
+            "Sverker 760": 0.3104,
+            "Sverker 900": 0.1713,
+            "S1": 0.1597,
+            "MS-Office": 0.4151,
+            "MS Power Project & Win dows": 0.259,
+            "ELECTRICAL OPERATIONS & MAINTENANCE": 0.1839
+        },
+        "filename": "cv (417)_annotated.json"
+    }
+}

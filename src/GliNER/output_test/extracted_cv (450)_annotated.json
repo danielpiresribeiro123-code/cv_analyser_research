@@ -1,0 +1,47 @@
+{
+    "skills": [
+        "Building Management System",
+        "BMS",
+        "RSC Conduit & Cable trucking",
+        "King Abdullah financial district"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "WASIM ANWAR Electronics & Communication EngineeringEmail",
+            "Consultant",
+            "BMS Site Engineer",
+            "Lead sub- contractor"
+        ],
+        "company": [
+            "progressive & well-established company",
+            "Saudi Bin Laden Group",
+            "Capital Market Authority",
+            "CASS",
+            "Johnson control"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "four years of experience"
+        ],
+        "address": [],
+        "email": [
+            "wasimiimt01@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "(+91) 8273679393"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "Building Management System": 0.3069,
+            "BMS": 0.2578,
+            "RSC Conduit & Cable trucking": 0.2235,
+            "King Abdullah financial district": 0.1934
+        },
+        "filename": "cv (450)_annotated.json"
+    }
+}

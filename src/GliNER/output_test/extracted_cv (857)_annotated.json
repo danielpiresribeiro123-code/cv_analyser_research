@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "Statistics",
+        "Advanced Statistical Method",
+        "Data Analysis &Machine Learning",
+        "GRE",
+        "Quan titative",
+        "Verbal",
+        "Natural Resource & Environ mental S ciences",
+        "Applied Statistical Methods",
+        "Natural Resource Economics",
+        "GIS",
+        "SAT",
+        "Math",
+        "Writing",
+        "Quantitative Financial Analytics",
+        "fundamental analysis",
+        "SAS",
+        "R",
+        "Excel",
+        "Poisson Re gressio n analyses",
+        "GIS",
+        "ArcGIS",
+        "Natural Nature Reserve database",
+        "SQL",
+        "Chinese"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Research Assistant"
+        ],
+        "company": [],
+        "university": [
+            "Rice Un iversity",
+            "University of Il linois at Urbana Champaign",
+            "Rice University"
+        ],
+        "degree": [
+            "Master of Science",
+            "Bachelor of Sc ience"
+        ],
+        "years of experience": [],
+        "address": [
+            "Houst on",
+            "Urban a",
+            "Houston",
+            "Beijin g"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Statistics": 0.4577,
+            "Advanced Statistical Method": 0.3255,
+            "Data Analysis &Machine Learning": 0.3485,
+            "GRE": 0.7768,
+            "Quan titative": 0.2498,
+            "Verbal": 0.5727,
+            "Natural Resource & Environ mental S ciences": 0.1748,
+            "Applied Statistical Methods": 0.3997,
+            "Natural Resource Economics": 0.4871,
+            "GIS": 0.2064,
+            "SAT": 0.6242,
+            "Math": 0.3656,
+            "Writing": 0.2879,
+            "Quantitative Financial Analytics": 0.2779,
+            "fundamental analysis": 0.3525,
+            "SAS": 0.3284,
+            "R": 0.3164,
+            "Excel": 0.4003,
+            "Poisson Re gressio n analyses": 0.261,
+            "ArcGIS": 0.3367,
+            "Natural Nature Reserve database": 0.3862,
+            "SQL": 0.2158,
+            "Chinese": 0.1552
+        },
+        "filename": "cv (857)_annotated.json"
+    }
+}

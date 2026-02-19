@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "Degree"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dr. Mohit Kumar Patralekh",
+            "Shri Gautam Kumar Patralekh",
+            "Dr. (Smt.) Sadhana Patralekh",
+            "Dr. Sadhana Patralekh"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "Kendriya Vidyalaya",
+            "C.B.S.E",
+            "Kendriya Vidyalay",
+            "University College of, Medical Sciences and GTB",
+            "University of Delhi",
+            "National Board of Examinations"
+        ],
+        "degree": [
+            "Matriculation (10th)",
+            "Senior Secondary",
+            "M.B.B.S"
+        ],
+        "years of experience": [],
+        "address": [
+            "Current Address",
+            "C1-160/161",
+            "Sector 16",
+            "Permanent Address",
+            "Baiju Mandir Lane",
+            "Correspondence Address",
+            "C1 - 160/161",
+            "MCI-IMR/08/1166",
+            "DMC/R/03678"
+        ],
+        "email": [
+            "orcid.org/0000-0003-0265-6540",
+            "mohit@orcid"
+        ],
+        "phone": [
+            "Contact Number",
+            "09968057359",
+            "09818538294",
+            "2010-1"
+        ]
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "Degree": 0.1964
+        },
+        "filename": "cv (938)_annotated.json"
+    }
+}

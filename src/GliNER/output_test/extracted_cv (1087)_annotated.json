@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "job Satisfaction",
+        "self development",
+        "personal",
+        "INFORMATION TECHNOLOGY",
+        "AREAS OF PROFICIENCY",
+        "Windows Server 2003",
+        "Windows",
+        "2000 server",
+        "XP",
+        "8.",
+        "Installation Upgradation and Implementation",
+        "System Administration",
+        "Networking & Network Administration",
+        "Performance Tuning",
+        "Troubleshooting"
+    ],
+    "professional_info": {
+        "person name": [
+            "THILEEPANKUMARAPPA",
+            "veerapandipudur"
+        ],
+        "job title": [
+            "SYSTEM ADMIN"
+        ],
+        "company": [
+            "Red Hat Enterprise Linux",
+            "UNIVERSAL IT  RESOURCES"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "3/112 NO.24",
+            "Chinathadagam road",
+            "Coimbatore-641108"
+        ],
+        "email": [],
+        "phone": [
+            "+91 9952553575"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "job Satisfaction": 0.2498,
+            "self development": 0.1608,
+            "personal": 0.1543,
+            "INFORMATION TECHNOLOGY": 0.4588,
+            "AREAS OF PROFICIENCY": 0.1803,
+            "Windows Server 2003": 0.9271,
+            "Windows": 0.7899,
+            "2000 server": 0.7844,
+            "XP": 0.858,
+            "8.": 0.3625,
+            "Installation Upgradation and Implementation": 0.319,
+            "System Administration": 0.4977,
+            "Networking & Network Administration": 0.4505,
+            "Performance Tuning": 0.4691,
+            "Troubleshooting": 0.2537
+        },
+        "filename": "cv (1087)_annotated.json"
+    }
+}

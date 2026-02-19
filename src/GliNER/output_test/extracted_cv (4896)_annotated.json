@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "Software",
+        "out the box methodology",
+        "PROFICIENT SKILLS",
+        "Data Analysis",
+        "Data Science",
+        "Machine",
+        "Learning",
+        "Customer Analytics",
+        "Natural",
+        "Language Processing",
+        "Python",
+        "SQL",
+        "MS",
+        "Artificial Intelligence",
+        "Creation of processes",
+        "Cron",
+        "EDUCATIONAL HISTORY"
+    ],
+    "professional_info": {
+        "person name": [
+            "ASHLEY HAYDON",
+            "I"
+        ],
+        "job title": [
+            "I N T E R N",
+            "PROFESSIONAL PROFILE",
+            "fresher",
+            "developer",
+            "intern",
+            "star performer",
+            "SDE Intern"
+        ],
+        "company": [
+            "Magicpin",
+            "JECO"
+        ],
+        "university": [],
+        "degree": [
+            "B.Tech/B.E. (Computers)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Noida"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Software": 0.2615,
+            "out the box methodology": 0.9116,
+            "PROFICIENT SKILLS": 0.3292,
+            "Data Analysis": 0.7607,
+            "Data Science": 0.7481,
+            "Machine": 0.6892,
+            "Learning": 0.7638,
+            "Customer Analytics": 0.7316,
+            "Natural": 0.8038,
+            "Language Processing": 0.6607,
+            "Python": 0.9943,
+            "SQL": 0.3541,
+            "MS": 0.2834,
+            "Artificial Intelligence": 0.8395,
+            "Creation of processes": 0.2464,
+            "Cron": 0.2199,
+            "EDUCATIONAL HISTORY": 0.1715
+        },
+        "filename": "cv (4896)_annotated.json"
+    }
+}

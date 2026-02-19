@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "Skills",
+        "Excel",
+        "Word",
+        "PowerPoint",
+        "OneNote",
+        "Experience",
+        "Business Administration Management",
+        "documentation",
+        "selection of materials",
+        "plumbing"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "SUBSTITUTE TEACHER",
+            "Maintenance Technician",
+            "facility manager",
+            "Sales Associate"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [
+            "Eastern Oregon University"
+        ],
+        "degree": [
+            "Bachelor of Arts"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Outlook"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Skills": 0.355,
+            "Excel": 0.2446,
+            "Word": 0.2956,
+            "PowerPoint": 0.2993,
+            "OneNote": 0.4848,
+            "Experience": 0.2368,
+            "Business Administration Management": 0.7231,
+            "documentation": 0.1773,
+            "selection of materials": 0.1695,
+            "plumbing": 0.2612
+        },
+        "filename": "cv (4253)_annotated.json"
+    }
+}

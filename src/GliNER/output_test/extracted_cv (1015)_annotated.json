@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "CELEBRITIES",
+        "MNDR",
+        "Surface Twin",
+        "ADVERTISING",
+        "MUSIC VIDEO"
+    ],
+    "professional_info": {
+        "person name": [
+            "Charles McNair",
+            "Amanda Blank",
+            "Candy Spelling",
+            "Lykke LI",
+            "Sebastian Bach",
+            "Anna Wolf",
+            "Benny Horne",
+            "Christopher Micaud",
+            "Christopher Starbody",
+            "Dan Jackson",
+            "Francios Nars",
+            "Jerome Corpuz",
+            "Micaela Rosato",
+            "Paul Gilmore",
+            "Terry Tsiolis",
+            "Eugene Souleiman",
+            "Malcolm Edwards",
+            "Esther Langham",
+            "Luigi Murenu",
+            "Marc Lopez",
+            "Paris Bokhee",
+            "Serena Radaelli",
+            "Mitch Stone"
+        ],
+        "job title": [
+            "Hairstylist",
+            "EDITORIAL",
+            "Might Like you Better",
+            "PHOTOGRAPHERS",
+            "ASSISTANT TO HIGH PROFILE ARTISTS",
+            "Art Partner"
+        ],
+        "company": [
+            "Antenna",
+            "Cosmopolitan",
+            "Elle",
+            "Elle – Japan",
+            "Nylon Paper Russh",
+            "Vogue",
+            "Vogue-Homme Japan",
+            "Bon International",
+            "Nike",
+            "S.P.A.N.K.",
+            "Target",
+            "Uniqlo",
+            "Streeters UK & NYC",
+            "D & V Management UK",
+            "Art & Commerce",
+            "Streeters NYC",
+            "Cloutier"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "CELEBRITIES": 0.2166,
+            "MNDR": 0.3986,
+            "Surface Twin": 0.4176,
+            "ADVERTISING": 0.3015,
+            "MUSIC VIDEO": 0.2399
+        },
+        "filename": "cv (1015)_annotated.json"
+    }
+}

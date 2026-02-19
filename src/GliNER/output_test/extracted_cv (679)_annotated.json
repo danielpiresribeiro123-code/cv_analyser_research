@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "IT consulting",
+        "M anaged Business Services and Business Analysis",
+        "Agile Test Management",
+        "Integrati on testing",
+        "Management Consulting practice",
+        "English",
+        "Tax Workflow",
+        "Sequence BI",
+        "Digita",
+        "Alpha -tax",
+        "D ocument Review Tool",
+        "SQL",
+        "VSTS",
+        "Service Now",
+        "Sprint planning",
+        "test management",
+        "TFS"
+    ],
+    "professional_info": {
+        "person name": [
+            "Santoosh Venkatram"
+        ],
+        "job title": [
+            "team player",
+            "Scrum master",
+            "Test lead",
+            "Process Quality Lead",
+            "Assistant Manager",
+            "Product owner"
+        ],
+        "company": [
+            "reputed organisation",
+            "KPMG"
+        ],
+        "university": [],
+        "degree": [
+            "Bachelor  of Engineering"
+        ],
+        "years of experience": [
+            "+91 94800 02037",
+            "9 years  of experience"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "santooshv@gmail.com",
+            "Degree"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "IT consulting": 0.2609,
+            "M anaged Business Services and Business Analysis": 0.2401,
+            "Agile Test Management": 0.547,
+            "Integrati on testing": 0.2274,
+            "Management Consulting practice": 0.2671,
+            "English": 0.8356,
+            "Tax Workflow": 0.2713,
+            "Sequence BI": 0.5039,
+            "Digita": 0.2904,
+            "Alpha -tax": 0.4926,
+            "D ocument Review Tool": 0.4731,
+            "SQL": 0.2897,
+            "VSTS": 0.3177,
+            "Service Now": 0.518,
+            "Sprint planning": 0.3075,
+            "test management": 0.2168,
+            "TFS": 0.3932
+        },
+        "filename": "cv (679)_annotated.json"
+    }
+}

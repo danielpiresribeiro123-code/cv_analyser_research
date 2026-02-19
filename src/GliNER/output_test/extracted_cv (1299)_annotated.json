@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "Key Supporting Skills",
+        "marketing",
+        "managerial economics",
+        "Skilled",
+        "finance",
+        "management",
+        "recruiting",
+        "economics",
+        "trade",
+        "Microsoft Office products",
+        "good communication and interpersonal skills",
+        "Arabic",
+        "English Language",
+        "Personal Skills",
+        "Versatile",
+        "patient",
+        "thrifty",
+        "tenacious individual",
+        "proven ability to meet deadlines",
+        "Enthusiastic",
+        "knowledge-hungry  learner",
+        "Proven relationship-builder",
+        "unsurpassed interpersonal skills",
+        "Managerial  Economics"
+    ],
+    "professional_info": {
+        "person name": [
+            "First NameAzza",
+            "Last NameAl Jaradi",
+            "salim41193"
+        ],
+        "job title": [
+            "part-time supply manager",
+            "leader"
+        ],
+        "company": [],
+        "university": [
+            "UniversityUniversity Putra Malaysia",
+            "UPM"
+        ],
+        "degree": [],
+        "years of experience": [
+            "2016-2018",
+            "2014-2018",
+            "2013-2018",
+            "2007-2011"
+        ],
+        "address": [],
+        "email": [
+            "Emailazza",
+            "gmail"
+        ],
+        "phone": [
+            "Mobile",
+            "+968-9469-4220"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Key Supporting Skills": 0.1871,
+            "marketing": 0.5553,
+            "managerial economics": 0.5423,
+            "Skilled": 0.2243,
+            "finance": 0.2812,
+            "management": 0.4753,
+            "recruiting": 0.2548,
+            "economics": 0.6578,
+            "trade": 0.4836,
+            "Microsoft Office products": 0.2811,
+            "good communication and interpersonal skills": 0.1886,
+            "Arabic": 0.3759,
+            "English Language": 0.3616,
+            "Personal Skills": 0.1823,
+            "Versatile": 0.59,
+            "patient": 0.3233,
+            "thrifty": 0.3338,
+            "tenacious individual": 0.2874,
+            "proven ability to meet deadlines": 0.1698,
+            "Enthusiastic": 0.5115,
+            "knowledge-hungry  learner": 0.4136,
+            "Proven relationship-builder": 0.6114,
+            "unsurpassed interpersonal skills": 0.3377,
+            "Managerial  Economics": 0.6131
+        },
+        "filename": "cv (1299)_annotated.json"
+    }
+}

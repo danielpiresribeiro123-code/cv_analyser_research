@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "ITSM",
+        "CITRIX",
+        "U2000",
+        "M2000"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Transmission Engineer",
+            "production and service engineer",
+            "Network Engineer",
+            "Fault management engineer",
+            "Fault  management  engineer",
+            "technician",
+            "Transmision engineer"
+        ],
+        "company": [
+            "NOKIA SIEMENS NETWORKS",
+            "Sertel Electronics pvt ltd.",
+            "TIKONA DIGITAL NETWORKS",
+            "Nokia Siemens",
+            "ORCA TRANSMISSON TEAM",
+            "ABB",
+            "YIL",
+            "Yokogawa India Limited",
+            "IBPL",
+            "Ind Bharath Thermal Power LTD",
+            "ERL",
+            "Easun Reyrolle"
+        ],
+        "university": [
+            "SSLC (10TH) Government High School at Dhalavoi",
+            "12th Government Higher Secondary School Sendurai",
+            "Dhanalakshmi Srinivasan Engineering College",
+            "JJ college of Engineering and Technology Trichy"
+        ],
+        "degree": [
+            "B.E",
+            "Bachelor of Engineering in Electronics and Communication",
+            "M.E",
+            "Master of Engineering in Applied Electronices"
+        ],
+        "years of experience": [
+            "+91 8940051688",
+            "6 month Experience"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "sureshkan123 @gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "ITSM": 0.8702,
+            "CITRIX": 0.734,
+            "U2000": 0.6406,
+            "M2000": 0.6151
+        },
+        "filename": "cv (388)_annotated.json"
+    }
+}

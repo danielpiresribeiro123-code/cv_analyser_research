@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "Electro-Mechanical  field",
+        "analytical",
+        "professional  skills",
+        "Mechanical Engineering",
+        "Diploma in HVAC Designing & Drafting",
+        "HVAC",
+        "Fire Fighting",
+        "Plumbing works",
+        "Team  Management",
+        "SAES",
+        "SAMSS SAEP",
+        "SATIP",
+        "SAER",
+        "Saudi Aramco Standards"
+    ],
+    "professional_info": {
+        "person name": [
+            "NAWAZ AHMAD ANSARI"
+        ],
+        "job title": [
+            "Senior Mechanical Engineer",
+            "professional",
+            "Project Engineer",
+            "Design Consultant"
+        ],
+        "company": [
+            "professional company",
+            "1st Div.",
+            "Dhanush Computers Ltd.",
+            "M.R Al-Khathlan Co. for Contracting",
+            "JACOBS ZATE",
+            "AL-KHOBAR",
+            "Jacobs-Zate",
+            "Saudi  Aramco"
+        ],
+        "university": [
+            "Rajasthan Technical University"
+        ],
+        "degree": [
+            "B.Tech"
+        ],
+        "years of experience": [
+            "7 years of experience"
+        ],
+        "address": [
+            "P.O BOX No- 3893",
+            "Dammam- 38481"
+        ],
+        "email": [
+            "E-mail",
+            "nawazahmad123@gmail.com"
+        ],
+        "phone": [
+            "Contact",
+            "+966-597882735"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Electro-Mechanical  field": 0.2154,
+            "analytical": 0.2212,
+            "professional  skills": 0.3761,
+            "Mechanical Engineering": 0.2933,
+            "Diploma in HVAC Designing & Drafting": 0.4638,
+            "HVAC": 0.3827,
+            "Fire Fighting": 0.3244,
+            "Plumbing works": 0.1522,
+            "Team  Management": 0.1572,
+            "SAES": 0.865,
+            "SAMSS SAEP": 0.8125,
+            "SATIP": 0.8747,
+            "SAER": 0.8858,
+            "Saudi Aramco Standards": 0.2684
+        },
+        "filename": "cv (530)_annotated.json"
+    }
+}

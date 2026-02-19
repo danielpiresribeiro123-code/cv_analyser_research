@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "SAS",
+        "ETL",
+        "Banking",
+        "ShellTOOLS",
+        "Linux",
+        "Unix",
+        "Windows",
+        "SAS Management console",
+        "Oracle 11g",
+        "Technology/Tools",
+        "ShellScripts",
+        "sas",
+        "libname",
+        "Proc import",
+        "shell scripts"
+    ],
+    "professional_info": {
+        "person name": [
+            "PRakash B. Jadhav"
+        ],
+        "job title": [
+            "Sas DeveloperSummary",
+            "Designation",
+            "sas.prakash.jadhav",
+            "Consultant",
+            "Role"
+        ],
+        "company": [
+            "Sas India",
+            "TCS India",
+            "IDFC Bank"
+        ],
+        "university": [
+            "North Maharashtra University",
+            "Tilak Maharashtra University"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Master of Computer application",
+            "Bachelor of computer science",
+            "Post Graduation",
+            "Graduation EXPERIENCE",
+            "@gmail.com",
+            "9619398964CONTACT",
+            "sas.prakash.jadhav@gmail.com",
+            "9619398964"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "SAS": 0.5522,
+            "ETL": 0.1772,
+            "Banking": 0.1728,
+            "ShellTOOLS": 0.3747,
+            "Linux": 0.9509,
+            "Unix": 0.8391,
+            "Windows": 0.7018,
+            "SAS Management console": 0.6397,
+            "Oracle 11g": 0.2047,
+            "Technology/Tools": 0.1761,
+            "ShellScripts": 0.3755,
+            "sas": 0.1609,
+            "libname": 0.4209,
+            "Proc import": 0.1507,
+            "shell scripts": 0.3879
+        },
+        "filename": "cv (590)_annotated.json"
+    }
+}

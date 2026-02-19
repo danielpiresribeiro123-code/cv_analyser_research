@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "TECHNICAL SKILLS",
+        "MS Office",
+        "Word",
+        "Power Point",
+        "Excel",
+        "SOFT SKILLS",
+        "good  communication skills",
+        "Good Management Skills",
+        "Leadership  Quality",
+        "grooming personality",
+        "Excellent  Convincing  Power",
+        "D.O.B"
+    ],
+    "professional_info": {
+        "person name": [
+            "Prof. Massom Reza",
+            "Tausif Raza",
+            "Lt. Abdul Rashid",
+            "Mehrun Nesha"
+        ],
+        "job title": [],
+        "company": [
+            "company",
+            "Urdu College Gopalganj B.S.E.B  Patna",
+            "B.S.E.B"
+        ],
+        "university": [
+            "TAUSIF  RAZA",
+            "Al-falah University Dhauj Faridabad",
+            "Al-falah University",
+            "TAUSIF RAZA"
+        ],
+        "degree": [
+            "Diploma in Civil Engineering",
+            "Intermediate"
+        ],
+        "years of experience": [
+            "experience",
+            "Age"
+        ],
+        "address": [
+            "P-88/89",
+            "BATLA HOUSE   JAMIA  NAGAR"
+        ],
+        "email": [
+            "razatausif043@gmail.com"
+        ],
+        "phone": [
+            "+91- 9716058709",
+            "P1046685"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "TECHNICAL SKILLS": 0.3242,
+            "MS Office": 0.8239,
+            "Word": 0.2472,
+            "Power Point": 0.5518,
+            "Excel": 0.2995,
+            "SOFT SKILLS": 0.3192,
+            "good  communication skills": 0.3124,
+            "Good Management Skills": 0.4898,
+            "Leadership  Quality": 0.6028,
+            "grooming personality": 0.6055,
+            "Excellent  Convincing  Power": 0.5992,
+            "D.O.B": 0.3892
+        },
+        "filename": "cv (1621)_annotated.json"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "committed and dedicated people",
+        "QPS",
+        "Quality",
+        "House keeping",
+        "Product development",
+        "Maintenance",
+        "Material planning",
+        "Logistics",
+        "Error proofing",
+        "KEY SKILLS",
+        "Team Management",
+        "Leadership Quality",
+        "PERSONAL PROFILE",
+        "Tamil",
+        "English",
+        "Single"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ganeshkumar B",
+            "Balu",
+            "Indian"
+        ],
+        "job title": [
+            "Designation",
+            "Production Trining"
+        ],
+        "company": [
+            "Ford India Pvt Ltd.",
+            "TCF (TRIM CHASSIS & FINAL ASSEMBLY)"
+        ],
+        "university": [
+            "DME Elumalaiyan polytechnic",
+            "CollegeApr-2014",
+            "SSLC Sri Guru Gana Sambandar    higher",
+            "secondary schoolApr-2011"
+        ],
+        "degree": [],
+        "years of experience": [
+            "PROFESSIONAL EXPERIENCE"
+        ],
+        "address": [
+            "4/278 North Street",
+            "Mannampandal(post)"
+        ],
+        "email": [
+            "Email",
+            "ganesh420.9395@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "committed and dedicated people": 0.2667,
+            "QPS": 0.1535,
+            "Quality": 0.2786,
+            "House keeping": 0.3384,
+            "Product development": 0.3123,
+            "Maintenance": 0.3761,
+            "Material planning": 0.3582,
+            "Logistics": 0.2825,
+            "Error proofing": 0.2852,
+            "KEY SKILLS": 0.2952,
+            "Team Management": 0.3394,
+            "Leadership Quality": 0.5183,
+            "PERSONAL PROFILE": 0.3018,
+            "Tamil": 0.3225,
+            "English": 0.2948,
+            "Single": 0.3463
+        },
+        "filename": "cv (399)_annotated.json"
+    }
+}

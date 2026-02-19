@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "professional skills",
+        "12th Passed",
+        "Diploma in Hardware & Networking",
+        "GT-CCHNP",
+        "Diploma",
+        "CCTV & SECURITY SURVEILLANCE",
+        "Diploma in Computer Application (DCA)",
+        "Course of Computer Concept (CCC)",
+        "Technical Skills",
+        "Windows",
+        "ADS",
+        "DNS",
+        "DHCP",
+        "WDS",
+        "RIS",
+        "VPN",
+        "FTP",
+        "Outlook",
+        "Management of Wired and Wireless Networks",
+        "RIP",
+        "IGRP",
+        "EIGRP",
+        "Management of CCTV & Security Systems"
+    ],
+    "professional_info": {
+        "person name": [
+            "PANKAJ KUMAR"
+        ],
+        "job title": [
+            "Sr. IT Executive",
+            "Brand Promoter",
+            "Retail Sales Officer"
+        ],
+        "company": [
+            "GT-InfoTech",
+            "BKS Education",
+            "AR&D Infosys Kanpur",
+            "DOEACC",
+            "Microsoft",
+            "Best Western Skycity Hotel Pvt., Ltd.",
+            "HTC",
+            "Kochar-Tech"
+        ],
+        "university": [
+            "C.S.J.M University Kanpur",
+            "U.P. Board"
+        ],
+        "degree": [
+            "Bachelor in Science"
+        ],
+        "years of experience": [],
+        "address": [
+            "A-407 Awas Vikas Colony",
+            "Pin Code-241124"
+        ],
+        "email": [
+            "pnkj.tech@gmail.com"
+        ],
+        "phone": [
+            "+918896018402"
+        ]
+    },
+    "metadata": {
+        "total_skills": 23,
+        "confidence_scores": {
+            "professional skills": 0.4126,
+            "12th Passed": 0.2216,
+            "Diploma in Hardware & Networking": 0.5335,
+            "GT-CCHNP": 0.5853,
+            "Diploma": 0.2296,
+            "CCTV & SECURITY SURVEILLANCE": 0.2848,
+            "Diploma in Computer Application (DCA)": 0.4517,
+            "Course of Computer Concept (CCC)": 0.1967,
+            "Technical Skills": 0.3424,
+            "Windows": 0.251,
+            "ADS": 0.2803,
+            "DNS": 0.7425,
+            "DHCP": 0.7597,
+            "WDS": 0.551,
+            "RIS": 0.46,
+            "VPN": 0.6828,
+            "FTP": 0.6654,
+            "Outlook": 0.2551,
+            "Management of Wired and Wireless Networks": 0.1554,
+            "RIP": 0.8164,
+            "IGRP": 0.8202,
+            "EIGRP": 0.8369,
+            "Management of CCTV & Security Systems": 0.175
+        },
+        "filename": "cv (2768)_annotated.json"
+    }
+}

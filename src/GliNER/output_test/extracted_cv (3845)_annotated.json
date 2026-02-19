@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "experience",
+        "qualified professional",
+        "command over",
+        "loyal",
+        "individual",
+        "ambition",
+        "experience",
+        "Graduation",
+        "Arts",
+        "Postgraduate diploma",
+        "computer application",
+        "Self Motivated",
+        "qualified professionally",
+        "data entry",
+        "Self-confident",
+        "SAP"
+    ],
+    "professional_info": {
+        "person name": [
+            "I",
+            "Rajeeb Kumar Nayak"
+        ],
+        "job title": [
+            "Executive"
+        ],
+        "company": [
+            "BBSR",
+            "Heritage Health TPA PVT LTD",
+            "LCC InfoTech Ltd",
+            "USBM",
+            "United school of Business Management College",
+            "Gokul Refoils & Solvent L TD Kolkata"
+        ],
+        "university": [
+            "Utkal University",
+            "FM University"
+        ],
+        "degree": [
+            "PGDCA",
+            "MBA"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-mail",
+            "nayak.rajeeb@gmail.com",
+            "Contact- 9937945489"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "experience": 0.1646,
+            "qualified professional": 0.2525,
+            "command over": 0.185,
+            "loyal": 0.4102,
+            "individual": 0.2113,
+            "ambition": 0.1996,
+            "Graduation": 0.2858,
+            "Arts": 0.2354,
+            "Postgraduate diploma": 0.2544,
+            "computer application": 0.1711,
+            "Self Motivated": 0.5785,
+            "qualified professionally": 0.2546,
+            "data entry": 0.4113,
+            "Self-confident": 0.4218,
+            "SAP": 0.1806
+        },
+        "filename": "cv (3845)_annotated.json"
+    }
+}

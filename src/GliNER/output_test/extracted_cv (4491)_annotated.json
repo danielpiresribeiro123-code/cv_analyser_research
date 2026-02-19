@@ -1,0 +1,42 @@
+{
+    "skills": [],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "PUBLIC RELATIONS DIRECTOR",
+            "mentor",
+            "Loyallist Leader",
+            "Account Executive"
+        ],
+        "company": [
+            "Company Name",
+            "CadmusCom",
+            "Ralph Lauren",
+            "New Jersey Nets",
+            "Devils Foundation",
+            "CIAP",
+            "WNET-TV",
+            "WNBC-TV-did",
+            "WWOR-TV",
+            "WCAU-TV",
+            "KYW-TV-for",
+            "Comcast",
+            "Medallion Financial Corp.",
+            "Hearts on Fire",
+            "diamond wholesaler"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City , State"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 0,
+        "confidence_scores": {},
+        "filename": "cv (4491)_annotated.json"
+    }
+}

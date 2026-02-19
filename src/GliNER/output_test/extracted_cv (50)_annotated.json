@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "Technical knowledge",
+        "skills",
+        "BASI C ACADEMIC CREDENTIALS",
+        "civil Engineering",
+        "Civil",
+        "IT PROFICIENCY",
+        "Windows 10",
+        "XP",
+        "7",
+        "Microsoft Office Word",
+        "Microsoft Office Excel",
+        "Microsoft Office Power Point",
+        "C",
+        "DESIGNING SOFTWARE SKILL",
+        "AUTO CAD",
+        "CATIA",
+        "C POGRAMING",
+        "INTERPERSONAL SKILL",
+        "Confident and Determined",
+        "Ability to cop e up with different situations",
+        "Hard Working",
+        "Team player"
+    ],
+    "professional_info": {
+        "person name": [
+            "Lalitranjanojha",
+            "Junior Engineer"
+        ],
+        "job title": [
+            "ROLE",
+            "PRO ENGINEER"
+        ],
+        "company": [
+            "firm",
+            "High School  Saraswati Sishu Vidya Mandir"
+        ],
+        "university": [
+            "Intermediate  National Institute Of Opening"
+        ],
+        "degree": [
+            "Diploma (Civil ) SIET",
+            "Diploma"
+        ],
+        "years of experience": [],
+        "address": [
+            "2ndline",
+            "Pin code -764020",
+            "Operating Sy stem",
+            "Internet  Browsing"
+        ],
+        "email": [
+            "+91-8763376197",
+            "E-mail",
+            "yahoomail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Technical knowledge": 0.5447,
+            "skills": 0.1743,
+            "BASI C ACADEMIC CREDENTIALS": 0.2032,
+            "civil Engineering": 0.2606,
+            "Civil": 0.316,
+            "IT PROFICIENCY": 0.4954,
+            "Windows 10": 0.91,
+            "XP": 0.8784,
+            "7": 0.7284,
+            "Microsoft Office Word": 0.5678,
+            "Microsoft Office Excel": 0.5964,
+            "Microsoft Office Power Point": 0.4822,
+            "C": 0.26,
+            "DESIGNING SOFTWARE SKILL": 0.4931,
+            "AUTO CAD": 0.6661,
+            "CATIA": 0.3556,
+            "C POGRAMING": 0.4031,
+            "INTERPERSONAL SKILL": 0.1606,
+            "Confident and Determined": 0.3251,
+            "Ability to cop e up with different situations": 0.1818,
+            "Hard Working": 0.2498,
+            "Team player": 0.2889
+        },
+        "filename": "cv (50)_annotated.json"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "technical leadership",
+        "helpdesk support experience",
+        "BIOS",
+        "Software Applications",
+        "active directory administration",
+        "Novel",
+        "Windows",
+        "Robocopy",
+        "PROFESSIONALEXPERIENCE",
+        "Network Attached Storage",
+        "eDirectory",
+        "NDS Report Generator",
+        "Carbon Copy",
+        "Robocopy",
+        "Remote Desktop Connection"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "INFORMATION TECHNOLOGY SUPPORT SPECIALISTNETWORK SPECIALIST",
+            "PC TECHNICIAN",
+            "IT CONSULTANT",
+            "Information Technology Support Specialist",
+            "Network Specialist",
+            "Customer Engineer",
+            "Systems Analyst"
+        ],
+        "company": [
+            "Company Name",
+            "INTEL",
+            "AMD",
+            "DELL",
+            "HP",
+            "IBM",
+            "MICROSOFT",
+            "Apollo",
+            "SunTrust",
+            "Novel"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "10 years"
+        ],
+        "address": [],
+        "email": [
+            "Outlook"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "technical leadership": 0.2436,
+            "helpdesk support experience": 0.1993,
+            "BIOS": 0.1696,
+            "Software Applications": 0.3552,
+            "active directory administration": 0.1724,
+            "Novel": 0.2024,
+            "Windows": 0.8372,
+            "Robocopy": 0.3829,
+            "PROFESSIONALEXPERIENCE": 0.2019,
+            "Network Attached Storage": 0.2343,
+            "eDirectory": 0.4165,
+            "NDS Report Generator": 0.4955,
+            "Carbon Copy": 0.4322,
+            "Remote Desktop Connection": 0.1833
+        },
+        "filename": "cv (4437)_annotated.json"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "Strategic Management",
+        "secure DSL access",
+        "improved customer management",
+        "calling features and advanced services",
+        "telecommuting solutions",
+        "ASP solutions"
+    ],
+    "professional_info": {
+        "person name": [
+            "BRIAN P. TOLL",
+            "btoll"
+        ],
+        "job title": [
+            "Teaching Assistant",
+            "Lead Organizer",
+            "Business Development / Sales",
+            "Senior Consultant",
+            "Business Analyst"
+        ],
+        "company": [
+            "SLOAN",
+            "WHARTON",
+            "Nortel Networks",
+            "Major Account",
+            "Service Provider and Carrier LOB",
+            "San Francisco Consulting Group",
+            "KPMG Consulting",
+            "Verizon/Bell Atlantic",
+            "New York State Public Service Commission",
+            "KPMG",
+            "American Management Systems",
+            "Telecommunications Industry Group",
+            "KPN Telecom"
+        ],
+        "university": [
+            "mit",
+            "Wharton"
+        ],
+        "degree": [
+            "MBA",
+            "Bachelors of Science in Economics"
+        ],
+        "years of experience": [],
+        "address": [
+            "41 Grove Street",
+            "Apt. 3",
+            "02114"
+        ],
+        "email": [
+            "Class of 2001"
+        ],
+        "phone": [
+            "Phone",
+            "(617) 742-8110"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Strategic Management": 0.3929,
+            "secure DSL access": 0.2803,
+            "improved customer management": 0.2743,
+            "calling features and advanced services": 0.3188,
+            "telecommuting solutions": 0.3862,
+            "ASP solutions": 0.493
+        },
+        "filename": "cv (1401)_annotated.json"
+    }
+}

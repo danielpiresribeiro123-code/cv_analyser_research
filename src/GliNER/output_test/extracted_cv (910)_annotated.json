@@ -1,0 +1,35 @@
+{
+    "skills": [
+        "Los Angeles"
+    ],
+    "professional_info": {
+        "person name": [
+            "Joy Fennell",
+            "joyfennell"
+        ],
+        "job title": [
+            "Makeup Artist"
+        ],
+        "company": [
+            "cloutierremix",
+            "cloutier remix .com"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue",
+            "California",
+            "90034"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "Los Angeles": 0.3423
+        },
+        "filename": "cv (910)_annotated.json"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "D.O.B.",
+        "ACADEMIC & WORKING EXP",
+        "solar power",
+        "PROJECT-NTPC 250MW GURJARKHEDI MADDYA PRADESH"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohd Tariq"
+        ],
+        "job title": [
+            "Mechanical engineer",
+            "site supervisor",
+            "Title"
+        ],
+        "company": [
+            "Vikram Solar",
+            "NTPC",
+            "VIKRAM SOLAR Pvt Ltd",
+            "GIPCL",
+            "LANCO",
+            "TATA POWER",
+            "BHEL",
+            "ADANI GROUP",
+            "Nextracker",
+            "AZURE POWER"
+        ],
+        "university": [
+            "UPTU college",
+            "IEC-CET GREATER NOIDA-2015 10+12",
+            "UP Board college",
+            "M Y U INTER COLLEGE UTRAULA"
+        ],
+        "degree": [
+            "First class bachelor degree",
+            "B.tech"
+        ],
+        "years of experience": [],
+        "address": [
+            "Delhi"
+        ],
+        "email": [
+            "Email",
+            "khan.tariq27@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91 9724949055"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "D.O.B.": 0.3098,
+            "ACADEMIC & WORKING EXP": 0.178,
+            "solar power": 0.1603,
+            "PROJECT-NTPC 250MW GURJARKHEDI MADDYA PRADESH": 0.2014
+        },
+        "filename": "cv (522)_annotated.json"
+    }
+}

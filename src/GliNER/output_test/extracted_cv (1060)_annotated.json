@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "ADVERTISING",
+        "ON-AIR APPEARANCES",
+        "T3 H air Tool Tutorials"
+    ],
+    "professional_info": {
+        "person name": [
+            "Anna Lyles",
+            "annalyles",
+            "Addison Timlin",
+            "Anna Camp",
+            "Brie Larson",
+            "Courtney Love",
+            "Danneel Ackles",
+            "Darren Criss",
+            "Eloise Mumford",
+            "Erica Packer",
+            "Gary Owen",
+            "Jamie Joseph",
+            "Kaitlyn Dever",
+            "Meredith Hagner",
+            "Nikki Reed",
+            "Paris Hilton",
+            "Rebecca Rittenhouse",
+            "Sarah Hyland",
+            "Sheila Vand",
+            "Taran Killam",
+            "Anna Sui",
+            "Monique L'Huillier",
+            "Nanette Lepore",
+            "Wes Gordon",
+            "Yigal Azrouel"
+        ],
+        "job title": [
+            "Hairstylist"
+        ],
+        "company": [
+            "Darling",
+            "Foam",
+            "Hellion",
+            "Hunger",
+            "Improper Bostonian",
+            "India Magazine  Line",
+            "Nylon",
+            "Paper",
+            "The Fashion Sight",
+            "Treats!",
+            "Visionario s",
+            "Forever 21",
+            "Made Eyewear",
+            "Bella + Canvas",
+            "Atelier Versace",
+            "Bebe",
+            "Bottega Ven eta",
+            "CFDA",
+            "Chanel",
+            "Desigual",
+            "Jil Sander  Joie",
+            "Prada",
+            "Valentino  Haute Couture",
+            "VPL",
+            "E! – Herbal Essence s",
+            "E!",
+            "Forever21"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue",
+            "Los Angeles, California",
+            "90034"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "ADVERTISING": 0.2065,
+            "ON-AIR APPEARANCES": 0.2001,
+            "T3 H air Tool Tutorials": 0.3555
+        },
+        "filename": "cv (1060)_annotated.json"
+    }
+}

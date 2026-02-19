@@ -1,0 +1,91 @@
+{
+    "skills": [
+        "standard efficiency",
+        "Heat Exchangers and Chiller",
+        "Pumps and Compressors",
+        "Reactors",
+        "Sigma Mixers",
+        "Fluidized Bed Dryers",
+        "Tray Dryers",
+        "Vacuum Dryers",
+        "Hammer mills",
+        "Micropulverizes",
+        "Chemical Engineering",
+        "Simulation Packages",
+        "ASPEN HYSIS",
+        "HTRI",
+        "PDMS",
+        "Programming Languages",
+        "Basics of C",
+        "MS Office Word",
+        "Excel",
+        "PowerPointAcademic",
+        "Senior Secondary School Examination",
+        "Certificate Courses",
+        "Process Design Engineering",
+        "PFD & P&ID"
+    ],
+    "professional_info": {
+        "person name": [
+            "ASHFAK AHMAD"
+        ],
+        "job title": [
+            "Production Engineer",
+            "plant manager"
+        ],
+        "company": [
+            "OREN HYDROCARBON PRIVATE LIMITED",
+            "Polly Anionic Cellulose (Technical & Purified Grade)",
+            "Lucknow Christian Inter College  Affiliated to Uttar Pradesh Board",
+            "Lalilta Inter College Chaukhara Affiliated to Uttar Pradesh Board",
+            "EDPTI"
+        ],
+        "university": [
+            "Annamalai University"
+        ],
+        "degree": [
+            "Bachelors of Engineering in Chemical Engineering"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-mail",
+            "contact2ashfak@gmail.com"
+        ],
+        "phone": [
+            "Contact Number",
+            "+91-8008162312",
+            "+91-7800128170"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "standard efficiency": 0.1916,
+            "Heat Exchangers and Chiller": 0.2005,
+            "Pumps and Compressors": 0.158,
+            "Reactors": 0.1515,
+            "Sigma Mixers": 0.247,
+            "Fluidized Bed Dryers": 0.1863,
+            "Tray Dryers": 0.1702,
+            "Vacuum Dryers": 0.2228,
+            "Hammer mills": 0.2259,
+            "Micropulverizes": 0.162,
+            "Chemical Engineering": 0.3516,
+            "Simulation Packages": 0.2333,
+            "ASPEN HYSIS": 0.573,
+            "HTRI": 0.4281,
+            "PDMS": 0.5758,
+            "Programming Languages": 0.21,
+            "Basics of C": 0.6806,
+            "MS Office Word": 0.443,
+            "Excel": 0.4144,
+            "PowerPointAcademic": 0.2975,
+            "Senior Secondary School Examination": 0.3024,
+            "Certificate Courses": 0.2744,
+            "Process Design Engineering": 0.4947,
+            "PFD & P&ID": 0.1859
+        },
+        "filename": "cv (1899)_annotated.json"
+    }
+}

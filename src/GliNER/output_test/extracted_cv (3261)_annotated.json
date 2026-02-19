@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "attention",
+        "Proficient computer skills",
+        "word processing",
+        "software",
+        "database",
+        "Excellent ability",
+        "hardworking and dedicated worker"
+    ],
+    "professional_info": {
+        "person name": [
+            "ARIES T. NAPIZA",
+            "ARIES TANGONAN NAPIZA",
+            "el_supremo1524"
+        ],
+        "job title": [
+            "el_supremo1524",
+            "Management",
+            "HRD ADMIN",
+            "COORDINATOR",
+            "HR ADMIN COORDINATOR",
+            "Human Resources Manager"
+        ],
+        "company": [
+            "outlook",
+            "your organization",
+            "your company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "two years"
+        ],
+        "address": [
+            "MOBILE",
+            "Al Murraqabbat",
+            "Dubai, UAE"
+        ],
+        "email": [
+            "EMAIL",
+            "0545207658",
+            "e-mail"
+        ],
+        "phone": [
+            "phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "attention": 0.3105,
+            "Proficient computer skills": 0.52,
+            "word processing": 0.4158,
+            "software": 0.1703,
+            "database": 0.6638,
+            "Excellent ability": 0.3603,
+            "hardworking and dedicated worker": 0.2336
+        },
+        "filename": "cv (3261)_annotated.json"
+    }
+}

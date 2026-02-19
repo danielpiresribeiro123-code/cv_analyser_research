@@ -1,0 +1,102 @@
+{
+    "skills": [
+        "Single",
+        "English",
+        "Kiswahili",
+        "Luhya",
+        "focused",
+        "self-motivated",
+        "passionate",
+        "team player",
+        "specialized knowledge",
+        "management",
+        "duty performance",
+        "competitive individual",
+        "right skills",
+        "knowledge",
+        "attitude",
+        "Diploma in Supply Chain Management",
+        "year 3   Credit",
+        "Year 2   Pass",
+        "Year1    pass",
+        "Kenya Certificate of Secondary Education",
+        "Computer skills",
+        "Driving skills",
+        "Leadership skills",
+        "leadership",
+        "on-communication protocol",
+        "information management",
+        "Team work",
+        "effective leadership"
+    ],
+    "professional_info": {
+        "person name": [
+            "ASHTON KAPUKHA MASOLO",
+            "Kenyan",
+            "Christian"
+        ],
+        "job title": [
+            "IEBC Chairman",
+            "minister for welfare"
+        ],
+        "company": [
+            "Kisiwa Technical Training Institute",
+            "Miluki Primary School",
+            "Mastermind",
+            "Malakis LTD Co"
+        ],
+        "university": [
+            "St Mathias Secondary",
+            "K.C.S.E",
+            "Kenya Certificate of Primary Education"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "P.O BOX 632- 50200"
+        ],
+        "email": [
+            "EMAIL ADDRESS",
+            "ashtonmasolo22@gmail.com",
+            "IEBC Commissioner"
+        ],
+        "phone": [
+            "TELEPHONE",
+            "0712732212"
+        ]
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "Single": 0.2954,
+            "English": 0.6286,
+            "Kiswahili": 0.5554,
+            "Luhya": 0.5283,
+            "focused": 0.4629,
+            "self-motivated": 0.3503,
+            "passionate": 0.2477,
+            "team player": 0.4623,
+            "specialized knowledge": 0.3297,
+            "management": 0.3366,
+            "duty performance": 0.3226,
+            "competitive individual": 0.6537,
+            "right skills": 0.1762,
+            "knowledge": 0.257,
+            "attitude": 0.1665,
+            "Diploma in Supply Chain Management": 0.7702,
+            "year 3   Credit": 0.1508,
+            "Year 2   Pass": 0.2571,
+            "Year1    pass": 0.1772,
+            "Kenya Certificate of Secondary Education": 0.3316,
+            "Computer skills": 0.5754,
+            "Driving skills": 0.5705,
+            "Leadership skills": 0.43,
+            "leadership": 0.1577,
+            "on-communication protocol": 0.9266,
+            "information management": 0.3014,
+            "Team work": 0.3763,
+            "effective leadership": 0.3011
+        },
+        "filename": "cv (1391)_annotated.json"
+    }
+}

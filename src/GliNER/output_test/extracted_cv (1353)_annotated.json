@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "Doctorado",
+        "Maestría",
+        "Metalurgia",
+        "Licenciatura",
+        "Premio  Tecnos  2000",
+        "HYLSA"
+    ],
+    "professional_info": {
+        "person name": [
+            "Juan Antonio Aguilar Garib",
+            "Zarel  Valdez  Nava",
+            "Ubaldo  Ortiz  Méndez",
+            "Jorge Domingo  Berrún Castañón",
+            "RicardoViramontes Brown",
+            "Zarel Valdez Nava"
+        ],
+        "job title": [],
+        "company": [
+            "UANL-CONACYT-KEMET-UPS-MARION TECHNOLOGIES",
+            "UANL- CONACYT",
+            "ECOS- ANUIES",
+            "FIME- CONACYT",
+            "FIME -HYLSA"
+        ],
+        "university": [
+            "uanl",
+            "Universidad Autónoma de Nuevo León",
+            "Instituto Tecnológico de Saltillo",
+            "UANL-UPS"
+        ],
+        "degree": [
+            "Ingeniería de Materiales",
+            "Ingeniería Mecánica"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Doctorado": 0.2096,
+            "Maestría": 0.1504,
+            "Metalurgia": 0.2239,
+            "Licenciatura": 0.2213,
+            "Premio  Tecnos  2000": 0.468,
+            "HYLSA": 0.1608
+        },
+        "filename": "cv (1353)_annotated.json"
+    }
+}

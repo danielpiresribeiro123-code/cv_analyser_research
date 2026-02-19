@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "Web",
+        "Web design",
+        "development",
+        "Graphic design",
+        "Packaging",
+        "Industrial design",
+        "typography",
+        "Graphic Designing",
+        "people",
+        "PERSONAL STATEMENT"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Freelance Designer",
+            "freelance",
+            "designer"
+        ],
+        "company": [
+            "designing company"
+        ],
+        "university": [],
+        "degree": [
+            "B.A."
+        ],
+        "years of experience": [
+            "2 years of experience"
+        ],
+        "address": [
+            "Kunduthode",
+            "673513",
+            "Kozhikode",
+            "keralaAddress"
+        ],
+        "email": [
+            "binceg@gmail.com",
+            "EDUCATION"
+        ],
+        "phone": [
+            "+91 9645228683bincegeorge94"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Web": 0.1606,
+            "Web design": 0.5712,
+            "development": 0.5156,
+            "Graphic design": 0.6791,
+            "Packaging": 0.5204,
+            "Industrial design": 0.7318,
+            "typography": 0.4155,
+            "Graphic Designing": 0.2036,
+            "people": 0.2472,
+            "PERSONAL STATEMENT": 0.1577
+        },
+        "filename": "cv (1007)_annotated.json"
+    }
+}

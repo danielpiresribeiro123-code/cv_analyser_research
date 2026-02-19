@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "creatively",
+        "Diploma in Mechanical",
+        "LicenceGovt.ITI Mettur Dam",
+        "INTERPERSONAL SKILLS",
+        "Self Confident",
+        "Adoptability",
+        "Creative And logical thinking",
+        "Hard & smart working",
+        "Research & development skills",
+        "HOBBIES",
+        "DYHE- Diploma in Yoga Human Excellent",
+        "Operation  FRP",
+        "IGFR  Machines and Maintenance  Works",
+        "Operation  RO  Plant  and  DM  Plant   than  Maintenance  Works",
+        "Knowledge  in power  Factor  Maintain   Works",
+        "Maintenance  for  LT  Panel  and  Machine Control Panels",
+        "Preventive Schedule Maintenance  Works"
+    ],
+    "professional_info": {
+        "person name": [
+            "V.MURUGESAN",
+            "S/O A.Vellaiyan"
+        ],
+        "job title": [
+            "Electrician With B-",
+            "Process Associate- FRP Maintenance",
+            "Apprentices Training  (Tool Room Department)"
+        ],
+        "company": [
+            "HTL   Ltd",
+            "Hosur",
+            "TITAN  COMPANY  Ltd"
+        ],
+        "university": [
+            "Cource Institute/Board",
+            "EngineeringGovernment  Polytechnic",
+            "SSLC Govt.Hr.Sec.School",
+            "Barathiar University"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "7/448",
+            "Kaligoundanoor  (Vill)",
+            "Vellar (Po)",
+            "Salem (Dt)",
+            "Tamilnadu ( State)",
+            "Dharmapuri",
+            "Avalpoondurai. Erode"
+        ],
+        "email": [
+            "E-mail",
+            "murugesanmech4@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+91- 9791771192",
+            "7810007516"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "creatively": 0.3143,
+            "Diploma in Mechanical": 0.6384,
+            "LicenceGovt.ITI Mettur Dam": 0.2416,
+            "INTERPERSONAL SKILLS": 0.2367,
+            "Self Confident": 0.33,
+            "Adoptability": 0.2017,
+            "Creative And logical thinking": 0.336,
+            "Hard & smart working": 0.3499,
+            "Research & development skills": 0.2144,
+            "HOBBIES": 0.2742,
+            "DYHE- Diploma in Yoga Human Excellent": 0.3659,
+            "Operation  FRP": 0.2268,
+            "IGFR  Machines and Maintenance  Works": 0.2878,
+            "Operation  RO  Plant  and  DM  Plant   than  Maintenance  Works": 0.1758,
+            "Knowledge  in power  Factor  Maintain   Works": 0.1982,
+            "Maintenance  for  LT  Panel  and  Machine Control Panels": 0.1958,
+            "Preventive Schedule Maintenance  Works": 0.2589
+        },
+        "filename": "cv (67)_annotated.json"
+    }
+}

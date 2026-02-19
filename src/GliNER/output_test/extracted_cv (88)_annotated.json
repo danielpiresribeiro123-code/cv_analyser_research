@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "BE Automobile  Engineering",
+        "NEBOSH",
+        "international general certificate",
+        "IOSH",
+        "Mental and physical willingness to hard work",
+        "quick learner"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMED IQUBAL"
+        ],
+        "job title": [
+            "SAFETY OFFICER",
+            "Competent professional",
+            "SCAFFOLDING INSPECTOR"
+        ],
+        "company": [
+            "paavai group of institution namakkal",
+            "EKK INFRASTRUCTURE pvt, Ltd"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "3 YEARS"
+        ],
+        "address": [
+            "block 214/8",
+            "shake  colony",
+            "Al Karama",
+            "Dubai"
+        ],
+        "email": [
+            "(+971 )056196 1996",
+            "Email id",
+            "iqubalpmna 1@gmail.com"
+        ],
+        "phone": [
+            "UAE mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "BE Automobile  Engineering": 0.8815,
+            "NEBOSH": 0.4704,
+            "international general certificate": 0.3414,
+            "IOSH": 0.303,
+            "Mental and physical willingness to hard work": 0.1849,
+            "quick learner": 0.2524
+        },
+        "filename": "cv (88)_annotated.json"
+    }
+}

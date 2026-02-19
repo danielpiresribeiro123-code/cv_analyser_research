@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "LAKHIMPUR KHERI",
+        "Area of Interest",
+        "Building Materials and Construction",
+        "Technical Skills",
+        "Software Skills",
+        "Auto CADD 2D",
+        "STAAD PRO V8I",
+        "Application Skill",
+        "M.S. Power Point",
+        "M.S. Word",
+        "Meritorious Student Certificate",
+        "Decision-making leadership",
+        "acceptance of responsibility",
+        "Quick learner",
+        "resourceful",
+        "productive",
+        "good sense of humour",
+        "Comprehensive problem solving abilities",
+        "Smart worker",
+        "creative"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mr. ABHINAV DHAKA",
+            "Prof.  B.L SWAMI",
+            "Prof. K.G. RANGA RAJU"
+        ],
+        "job title": [],
+        "company": [
+            "Board of Intermediate Education",
+            "Board of High school Education",
+            "Pro Group"
+        ],
+        "university": [
+            "GLA University",
+            "LUCKNOW UNIVERSITY",
+            "IIT GUWAHATI"
+        ],
+        "degree": [
+            "B. Tech In Civil Engineering",
+            "Intermediate",
+            "High school"
+        ],
+        "years of experience": [],
+        "address": [
+            "SHIV COLONY",
+            "Pin No-262701"
+        ],
+        "email": [
+            "E-mail",
+            "amity618@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "07500590924"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "LAKHIMPUR KHERI": 0.2979,
+            "Area of Interest": 0.189,
+            "Building Materials and Construction": 0.3218,
+            "Technical Skills": 0.1652,
+            "Software Skills": 0.2072,
+            "Auto CADD 2D": 0.6484,
+            "STAAD PRO V8I": 0.7333,
+            "Application Skill": 0.1815,
+            "M.S. Power Point": 0.6377,
+            "M.S. Word": 0.5416,
+            "Meritorious Student Certificate": 0.5826,
+            "Decision-making leadership": 0.5977,
+            "acceptance of responsibility": 0.2453,
+            "Quick learner": 0.4793,
+            "resourceful": 0.4372,
+            "productive": 0.3838,
+            "good sense of humour": 0.4794,
+            "Comprehensive problem solving abilities": 0.3781,
+            "Smart worker": 0.311,
+            "creative": 0.2814
+        },
+        "filename": "cv (440)_annotated.json"
+    }
+}

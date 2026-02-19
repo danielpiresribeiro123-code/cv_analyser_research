@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "non-profit management",
+        "grant-writing",
+        "fund raising",
+        "development",
+        "marketing",
+        "public relations",
+        "staff development",
+        "accountability"
+    ],
+    "professional_info": {
+        "person name": [
+            "Current"
+        ],
+        "job title": [
+            "EXECUTIVE DIRECTOR",
+            "Non-Profit Executive Director",
+            "Board of Directors",
+            "Public Relations Officer"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "15 years"
+        ],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "non-profit management": 0.2562,
+            "grant-writing": 0.2826,
+            "fund raising": 0.1687,
+            "development": 0.3003,
+            "marketing": 0.4004,
+            "public relations": 0.3443,
+            "staff development": 0.174,
+            "accountability": 0.1663
+        },
+        "filename": "cv (4346)_annotated.json"
+    }
+}

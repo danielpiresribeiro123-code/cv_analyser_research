@@ -1,0 +1,71 @@
+{
+    "skills": [
+        "professional edge",
+        "creativity",
+        "strengths",
+        "interpersonal skills",
+        "Extremely well-organized and efficient",
+        "Quickly learn procedures and methods",
+        "Strong bookkeeping and managerial experience",
+        "Capable of, handling projects concurrently",
+        "Excellent public relations and customer contact ability",
+        "Finance",
+        "Solution Accounting Software",
+        "Tally & Excel",
+        "Store Management",
+        "Head Office",
+        "Tally"
+    ],
+    "professional_info": {
+        "person name": [
+            "Shashi Kumar",
+            "V.P.O.Rajot"
+        ],
+        "job title": [
+            "Accounts Executive",
+            "Reporting",
+            "Accounts Officer",
+            "Accountant"
+        ],
+        "company": [
+            "Harinder Investments Ltd.",
+            "Akal Academy Makhangarh",
+            "Takshila School"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Teh.Baijnath"
+        ],
+        "email": [
+            "E-mail",
+            "maniram1970@yahoo.com"
+        ],
+        "phone": [
+            "Mobile",
+            "-+91-9779675271"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "professional edge": 0.2112,
+            "creativity": 0.2398,
+            "strengths": 0.3375,
+            "interpersonal skills": 0.6696,
+            "Extremely well-organized and efficient": 0.4024,
+            "Quickly learn procedures and methods": 0.1811,
+            "Strong bookkeeping and managerial experience": 0.2954,
+            "Capable of, handling projects concurrently": 0.1671,
+            "Excellent public relations and customer contact ability": 0.3588,
+            "Finance": 0.3351,
+            "Solution Accounting Software": 0.3805,
+            "Tally & Excel": 0.3882,
+            "Store Management": 0.1905,
+            "Head Office": 0.1913,
+            "Tally": 0.1798
+        },
+        "filename": "cv (2724)_annotated.json"
+    }
+}

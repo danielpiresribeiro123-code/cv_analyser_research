@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "Computer Science Professional Program",
+        "HTML",
+        "PHP",
+        "Java",
+        "C",
+        "SQL",
+        "networking",
+        "Internet security",
+        "Michigan Terminal System",
+        "MS Word",
+        "MS Excel"
+    ],
+    "professional_info": {
+        "person name": [
+            "Loren Shevitz",
+            "JULIANFIRSTBORNSTEIN"
+        ],
+        "job title": [
+            "DIRECTOR",
+            "VOLUNTEER",
+            "ENGLISH TUTOR",
+            "RESEARCH ASSISTANT",
+            "psychologist",
+            "COMPUTER CONSULTANT"
+        ],
+        "company": [
+            "ResComp"
+        ],
+        "university": [
+            "University of Chicago",
+            "University of Michigan"
+        ],
+        "degree": [
+            "loren@shevitz.org",
+            "MASTER OF SCIENCE (COMPUTER SCIENCE)"
+        ],
+        "years of experience": [],
+        "address": [
+            "345 W. Fullerton Pkwy.",
+            "Chicago, IL",
+            "60614-2853"
+        ],
+        "email": [
+            "email"
+        ],
+        "phone": [
+            "(773) 665-1234e-mail"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Computer Science Professional Program": 0.2224,
+            "HTML": 0.785,
+            "PHP": 0.9365,
+            "Java": 0.9413,
+            "C": 0.8825,
+            "SQL": 0.803,
+            "networking": 0.5688,
+            "Internet security": 0.4965,
+            "Michigan Terminal System": 0.1897,
+            "MS Word": 0.4521,
+            "MS Excel": 0.3965
+        },
+        "filename": "cv (1344)_annotated.json"
+    }
+}

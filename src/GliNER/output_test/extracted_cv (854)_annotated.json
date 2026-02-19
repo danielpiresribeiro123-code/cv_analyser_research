@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "B.A. Degree",
+        "Technical  Skills",
+        "Python",
+        "SQL",
+        "R",
+        "Unix Script",
+        "Excel",
+        "Access",
+        "Pig Latin",
+        "MapReduce",
+        "Date Science",
+        "Data Mining",
+        "Quantitative Financial Analytics",
+        "Multivariate Analysis",
+        "Financial Time Series",
+        "Stochastic Process",
+        "Risk Management",
+        "Regr ession & Statistical Computing",
+        "SAS Certified Programmer",
+        "SAS 9",
+        "Web Graph",
+        "AWS",
+        "Hadoop",
+        "Pig",
+        "Amazon EC2",
+        "Page Rank Algorithm",
+        "Twitter Streaming API"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [],
+        "company": [],
+        "university": [
+            "George R. Brown School of Engineerin g",
+            "Rice University",
+            "George R. Brown School of Engineering"
+        ],
+        "degree": [
+            "Professional Master’s Degree",
+            "Qualifications"
+        ],
+        "years of experience": [
+            "EXPERIENCE"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "B.A. Degree": 0.5644,
+            "Technical  Skills": 0.2541,
+            "Python": 0.9814,
+            "SQL": 0.3337,
+            "R": 0.7195,
+            "Unix Script": 0.4458,
+            "Excel": 0.2656,
+            "Access": 0.3728,
+            "Pig Latin": 0.4883,
+            "MapReduce": 0.5321,
+            "Date Science": 0.1937,
+            "Data Mining": 0.399,
+            "Quantitative Financial Analytics": 0.3384,
+            "Multivariate Analysis": 0.4223,
+            "Financial Time Series": 0.3714,
+            "Stochastic Process": 0.3846,
+            "Risk Management": 0.1744,
+            "Regr ession & Statistical Computing": 0.269,
+            "SAS Certified Programmer": 0.6036,
+            "SAS 9": 0.3126,
+            "Web Graph": 0.7471,
+            "AWS": 0.8788,
+            "Hadoop": 0.415,
+            "Pig": 0.3773,
+            "Amazon EC2": 0.9315,
+            "Page Rank Algorithm": 0.5381,
+            "Twitter Streaming API": 0.2671
+        },
+        "filename": "cv (854)_annotated.json"
+    }
+}

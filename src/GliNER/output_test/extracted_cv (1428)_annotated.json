@@ -1,0 +1,95 @@
+{
+    "skills": [
+        "technical experience",
+        "water",
+        "geotechnical",
+        "EIA",
+        "mineral analysis",
+        "geological skills",
+        "G.I.S skills",
+        "ArcGIS",
+        "Driver",
+        "certificate course",
+        "Geo-Map production",
+        "NTSA Number 2352399",
+        "Interpex 1XD software",
+        "Microsoft officeI",
+        "proficient knowledge",
+        "interpex software",
+        "Excel sheet",
+        "Power Point",
+        "word",
+        "spreadsheet",
+        "Microsoft office",
+        "Detailed analysis",
+        "Seisimager",
+        "Geophysical",
+        "hydrogeological"
+    ],
+    "professional_info": {
+        "person name": [
+            "DAN KIBET"
+        ],
+        "job title": [
+            "GEOLOGIST",
+            "HYDROGEOLOGIST",
+            "hydro-geologist",
+            "geotechnical  expert",
+            "geotechnical expert",
+            "dedicated worker",
+            "hydro geologist",
+            "Geology"
+        ],
+        "company": [
+            "county government of Bungoma",
+            "Everesta",
+            "Earth Water  Limited",
+            "UNHCR",
+            "KRCS",
+            "Schlumberger",
+            "Everesta water limited",
+            "Bungoma county government"
+        ],
+        "university": [
+            "South Eastern Kenya University"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "technical experience": 0.1661,
+            "water": 0.169,
+            "geotechnical": 0.3477,
+            "EIA": 0.3607,
+            "mineral analysis": 0.3393,
+            "geological skills": 0.3772,
+            "G.I.S skills": 0.4555,
+            "ArcGIS": 0.5287,
+            "Driver": 0.1771,
+            "certificate course": 0.2174,
+            "Geo-Map production": 0.2522,
+            "NTSA Number 2352399": 0.2345,
+            "Interpex 1XD software": 0.3448,
+            "Microsoft officeI": 0.6818,
+            "proficient knowledge": 0.2963,
+            "interpex software": 0.444,
+            "Excel sheet": 0.6458,
+            "Power Point": 0.5508,
+            "word": 0.399,
+            "spreadsheet": 0.4776,
+            "Microsoft office": 0.8081,
+            "Detailed analysis": 0.1838,
+            "Seisimager": 0.4719,
+            "Geophysical": 0.164,
+            "hydrogeological": 0.1592
+        },
+        "filename": "cv (1428)_annotated.json"
+    }
+}

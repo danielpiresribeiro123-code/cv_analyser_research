@@ -1,0 +1,52 @@
+{
+    "skills": [
+        "equipment",
+        "material flow management systems",
+        "customer service logs",
+        "training or safety records",
+        "automated systems",
+        "accounting",
+        "product volumes or mixes",
+        "logistics quality management"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHYAM PRAKASH"
+        ],
+        "job title": [
+            "Logistic manager"
+        ],
+        "company": [
+            "Nirbhay Management Services PVT. LTD",
+            "Binani cement"
+        ],
+        "university": [
+            "IGNOU",
+            "Delhi University",
+            "SMU"
+        ],
+        "degree": [
+            "Bachelor of Information Technology (BIT)",
+            "B.A",
+            "MBA"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "equipment": 0.1556,
+            "material flow management systems": 0.3031,
+            "customer service logs": 0.3015,
+            "training or safety records": 0.1509,
+            "automated systems": 0.3528,
+            "accounting": 0.23,
+            "product volumes or mixes": 0.157,
+            "logistics quality management": 0.1679
+        },
+        "filename": "cv (1700)_annotated.json"
+    }
+}

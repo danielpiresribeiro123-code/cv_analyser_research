@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "No-329",
+        "Welding inspection",
+        "Fitting",
+        "Cutting",
+        "Grinding",
+        "jobs",
+        "welder knowledge",
+        "Total Safety",
+        "Confined space"
+    ],
+    "professional_info": {
+        "person name": [
+            "AFTAB ALAM ANSARI"
+        ],
+        "job title": [
+            "ITI holder"
+        ],
+        "company": [
+            "Agrico Sitaramdera",
+            "TIG AND ARC WELDER 6G"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "8thyears’ experience"
+        ],
+        "address": [
+            "D   Bhalubasa Muslim Basti",
+            "Jamshedpur Dist"
+        ],
+        "email": [
+            "Email",
+            "aftab5609@gmail.com"
+        ],
+        "phone": [
+            "Contact no",
+            "+919771210730 / 7070999718"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "No-329": 0.1698,
+            "Welding inspection": 0.3873,
+            "Fitting": 0.2907,
+            "Cutting": 0.311,
+            "Grinding": 0.4014,
+            "jobs": 0.2013,
+            "welder knowledge": 0.2334,
+            "Total Safety": 0.4026,
+            "Confined space": 0.6309
+        },
+        "filename": "cv (1654)_annotated.json"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "FIRE FIGHTING",
+        "HVAC & PLUMBING",
+        "MEP system",
+        "Maintenance",
+        "Ducting",
+        "plumbing",
+        "Chilled water and fire fighting",
+        "FM200",
+        "Package unit",
+        "Central air conditioning",
+        "Plant",
+        "utility piping",
+        "Heat  exchanger",
+        "AHU",
+        "FAHU",
+        "FCU",
+        "Make Up",
+        "Motorized  Damper",
+        "Volume  Control  dampers",
+        "Fire"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAUSHAN KUMAR SHARMA"
+        ],
+        "job title": [
+            "MECHANICAL ENGINEER"
+        ],
+        "company": [
+            "MEP/Electro-mechanical",
+            "consulting/contracting/construction organizations"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Home"
+        ],
+        "email": [
+            "Skype",
+            "Email",
+            "sharmasep1991@gmail.com",
+            "Personal"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-7484957718",
+            "+91-9955933841"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "FIRE FIGHTING": 0.4244,
+            "HVAC & PLUMBING": 0.3376,
+            "MEP system": 0.2968,
+            "Maintenance": 0.1587,
+            "Ducting": 0.2393,
+            "plumbing": 0.2106,
+            "Chilled water and fire fighting": 0.1505,
+            "FM200": 0.2003,
+            "Package unit": 0.4604,
+            "Central air conditioning": 0.1853,
+            "Plant": 0.222,
+            "utility piping": 0.1715,
+            "Heat  exchanger": 0.2632,
+            "AHU": 0.2486,
+            "FAHU": 0.3042,
+            "FCU": 0.3872,
+            "Make Up": 0.154,
+            "Motorized  Damper": 0.2457,
+            "Volume  Control  dampers": 0.2847,
+            "Fire": 0.1793
+        },
+        "filename": "cv (3513)_annotated.json"
+    }
+}

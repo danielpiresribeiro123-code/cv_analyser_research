@@ -1,0 +1,64 @@
+{
+    "skills": [
+        "client data",
+        "Data Analysis & Research",
+        "Analyzing raw data",
+        "Excel",
+        "Access",
+        "Google shopping",
+        "Inbuilt Labeling tool",
+        "Label Scope Tool",
+        "Inbuilt Tool",
+        "Merlot",
+        "training data",
+        "artificially intelligent classifier"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sunny Kumar Yadav"
+        ],
+        "job title": [
+            "Data Analyst",
+            "Customer Care Executive",
+            "Quality analyst"
+        ],
+        "company": [
+            "COMPANY",
+            "VERTEX SOLUTION",
+            "NOIDA SEC-4",
+            "VODAFONE PROCESS-  FIRST BILL",
+            "TECH MAHINDRA",
+            "GOOGLE PROCESS- MERLOT",
+            "Google",
+            "INTELENET GLOBAL SERVICES"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "gmail.com"
+        ],
+        "phone": [
+            "+91-9871616600"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "client data": 0.281,
+            "Data Analysis & Research": 0.5254,
+            "Analyzing raw data": 0.3482,
+            "Excel": 0.1611,
+            "Access": 0.3903,
+            "Google shopping": 0.2682,
+            "Inbuilt Labeling tool": 0.5135,
+            "Label Scope Tool": 0.2672,
+            "Inbuilt Tool": 0.3408,
+            "Merlot": 0.3334,
+            "training data": 0.2677,
+            "artificially intelligent classifier": 0.2755
+        },
+        "filename": "cv (2244)_annotated.json"
+    }
+}

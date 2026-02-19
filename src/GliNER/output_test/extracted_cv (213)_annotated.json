@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "INDOS 11EL3369",
+        "STCW",
+        "Advance Fire Fighting",
+        "7Sea Skills",
+        "Maritime",
+        "Medical First Aid",
+        "Proficiency in Survival Craft &",
+        "Rescue BoatPSCRB",
+        "Gear (Operational Level)",
+        "Course(Operational Level)",
+        "Fire Prevention and Fire",
+        "Fighting(Refresher)",
+        "FPFF(R)"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sankar Saravanan"
+        ],
+        "job title": [
+            "ChennaiRank Fourth Engineer"
+        ],
+        "company": [],
+        "university": [
+            "INSTITUTEUNIVERSITY",
+            "EngineeringAMET University",
+            "University2015",
+            "ErodeBoard of",
+            "CoimbatoreBoard of"
+        ],
+        "degree": [
+            "B.E Marine",
+            "ChennaiDeemed",
+            "HSCIDEAL Higher sec",
+            "SSLCBharathi Matric",
+            "Higher Sec School",
+            "Matriculation",
+            "MFA",
+            "High Voltage Safety &Switch",
+            "CMC",
+            "Marine College",
+            "ERS",
+            "PMA"
+        ],
+        "years of experience": [],
+        "address": [
+            "Devakottai",
+            "7HIMT",
+            "54304.12.201"
+        ],
+        "email": [
+            "EmailSankar.s1730@gmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "INDOS 11EL3369": 0.388,
+            "STCW": 0.695,
+            "Advance Fire Fighting": 0.291,
+            "7Sea Skills": 0.3643,
+            "Maritime": 0.4118,
+            "Medical First Aid": 0.2675,
+            "Proficiency in Survival Craft &": 0.248,
+            "Rescue BoatPSCRB": 0.2465,
+            "Gear (Operational Level)": 0.3312,
+            "Course(Operational Level)": 0.2614,
+            "Fire Prevention and Fire": 0.2973,
+            "Fighting(Refresher)": 0.1514,
+            "FPFF(R)": 0.449
+        },
+        "filename": "cv (213)_annotated.json"
+    }
+}

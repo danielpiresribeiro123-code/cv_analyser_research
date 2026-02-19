@@ -1,0 +1,94 @@
+{
+    "skills": [
+        "English",
+        "Hindi",
+        "Malayalam",
+        "Tamil",
+        "Arabic",
+        "MSE Wall",
+        "modern construction methodologies",
+        "quality standards",
+        "Expertise",
+        "Quantity surveying/ planning",
+        "Interface Engineering",
+        "method engineering",
+        "development",
+        "contract administration",
+        "resour ce planning",
+        "Indian Standards",
+        "British Codes",
+        "Euro Codes",
+        "expertise",
+        "planning and executing construction projects",
+        "certification of contractor bills",
+        "ambitious",
+        "team player",
+        "excellent interpersonal",
+        "analytical",
+        "team building"
+    ],
+    "professional_info": {
+        "person name": [
+            "SURESH KUMAR MAHENDRAN",
+            "civresh"
+        ],
+        "job title": [
+            "Project Engineer",
+            "result -oriented professional",
+            "strategic planner"
+        ],
+        "company": [
+            "Fast Consortium Ltd. Co",
+            "Strukton International",
+            "Riyadh Metro  (KSA)",
+            "Indian"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "9 years , 4 months"
+        ],
+        "address": [],
+        "email": [
+            "sureshmahej@gmail.com",
+            "civresh@gmail.com"
+        ],
+        "phone": [
+            "Contact Number",
+            "+966) 558 651 933",
+            "+966)  549 157 309"
+        ]
+    },
+    "metadata": {
+        "total_skills": 26,
+        "confidence_scores": {
+            "English": 0.7438,
+            "Hindi": 0.778,
+            "Malayalam": 0.6984,
+            "Tamil": 0.6515,
+            "Arabic": 0.6569,
+            "MSE Wall": 0.1761,
+            "modern construction methodologies": 0.5894,
+            "quality standards": 0.6609,
+            "Expertise": 0.3009,
+            "Quantity surveying/ planning": 0.4672,
+            "Interface Engineering": 0.5142,
+            "method engineering": 0.4011,
+            "development": 0.2992,
+            "contract administration": 0.1634,
+            "resour ce planning": 0.3103,
+            "Indian Standards": 0.7902,
+            "British Codes": 0.7831,
+            "Euro Codes": 0.8329,
+            "expertise": 0.3058,
+            "planning and executing construction projects": 0.1973,
+            "certification of contractor bills": 0.6867,
+            "ambitious": 0.2598,
+            "team player": 0.2795,
+            "excellent interpersonal": 0.4887,
+            "analytical": 0.2472,
+            "team building": 0.3016
+        },
+        "filename": "cv (3874)_annotated.json"
+    }
+}

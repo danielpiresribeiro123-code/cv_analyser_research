@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "ONCGPA",
+        "ARTS AND",
+        "SCIENCE",
+        "HSC STATE BOARD 2010MATHS",
+        "BIOL",
+        "OGY",
+        "SSLC STATE BOARD 2008",
+        "MATHS",
+        "SCIEN",
+        "CE",
+        "OFFICE MANAGEMENT COURSE",
+        "GENDER"
+    ],
+    "professional_info": {
+        "person name": [
+            "CANDIDATE    NAME",
+            "MOHAMED SHAKIL AKTHAR",
+            "aktharifm786",
+            "AFFILIAT",
+            "ED BHARATHIYAR",
+            "B.SC VYSYA",
+            "ED",
+            "PERIYAR",
+            "PGDCA BHARATHIYAR",
+            "CANDIDATE NAME",
+            "H.FIZAL HUSSAIN & V.A.FATHIMA BEGUM",
+            "INDIAN",
+            "akthari786"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "M.SC        PSG COLLEGE OF",
+            "UNIVERSITY"
+        ],
+        "degree": [],
+        "years of experience": [
+            "EXPERIENCE",
+            "FRESHER",
+            "MALE"
+        ],
+        "address": [
+            "266/163",
+            "SURAMANGALAM POST",
+            "SALEM-5"
+        ],
+        "email": [
+            "E-MAIL",
+            "gmail.com",
+            "yahoo.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "ONCGPA": 0.3645,
+            "ARTS AND": 0.2285,
+            "SCIENCE": 0.4287,
+            "HSC STATE BOARD 2010MATHS": 0.2437,
+            "BIOL": 0.5202,
+            "OGY": 0.4644,
+            "SSLC STATE BOARD 2008": 0.3615,
+            "MATHS": 0.674,
+            "SCIEN": 0.5275,
+            "CE": 0.2916,
+            "OFFICE MANAGEMENT COURSE": 0.2191,
+            "GENDER": 0.1823
+        },
+        "filename": "cv (1643)_annotated.json"
+    }
+}

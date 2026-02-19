@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "SCADA  & PLC",
+        "IOT",
+        "ADVANCE DIPLOMA IN COMPUTER APPLICATION",
+        "Computer Language",
+        "C",
+        "MS office",
+        "Power Point",
+        "Internet",
+        "Hard work",
+        "Flexible",
+        "Great team Player",
+        "Fast Learner",
+        "innovative",
+        "Patient and social comfortable",
+        "Well good mind",
+        "presentable",
+        "Personal Skills",
+        "Strong Leadership Skill",
+        "Strong Interpersonal and Communicational Skill",
+        "Working as a Team Member",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "KUNDAN  K  S  SHARMA",
+            "Sugreev Sharma",
+            "Male"
+        ],
+        "job title": [
+            "Educational Qualification"
+        ],
+        "company": [
+            "Prolific  System and, Technologies Pvt. Ltd.",
+            "RSSA Computer Educ ation"
+        ],
+        "university": [
+            "MSBTE",
+            "BSEB",
+            "Indian Institute of Technology"
+        ],
+        "degree": [
+            "Diploma in Electronics  and Communication Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "Mumbai"
+        ],
+        "email": [
+            "e-mail",
+            "kks004501@outlook.com"
+        ],
+        "phone": [
+            "Mob",
+            "+91 8600134112"
+        ]
+    },
+    "metadata": {
+        "total_skills": 21,
+        "confidence_scores": {
+            "SCADA  & PLC": 0.2675,
+            "IOT": 0.2391,
+            "ADVANCE DIPLOMA IN COMPUTER APPLICATION": 0.5485,
+            "Computer Language": 0.7177,
+            "C": 0.1718,
+            "MS office": 0.4635,
+            "Power Point": 0.3939,
+            "Internet": 0.4755,
+            "Hard work": 0.2398,
+            "Flexible": 0.2694,
+            "Great team Player": 0.5468,
+            "Fast Learner": 0.4306,
+            "innovative": 0.2457,
+            "Patient and social comfortable": 0.327,
+            "Well good mind": 0.1615,
+            "presentable": 0.223,
+            "Personal Skills": 0.2008,
+            "Strong Leadership Skill": 0.3293,
+            "Strong Interpersonal and Communicational Skill": 0.602,
+            "Working as a Team Member": 0.3136,
+            "English": 0.4299
+        },
+        "filename": "cv (1789)_annotated.json"
+    }
+}

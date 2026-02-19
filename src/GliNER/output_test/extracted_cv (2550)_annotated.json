@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "Qualities",
+        "Capabilities",
+        "Knowledge",
+        "commitment",
+        "HR (HUMAN RESOURCE)",
+        "Professionalism",
+        "HR &ADMIN  Management",
+        "Public Relation Office Management",
+        "Man power supply chain management",
+        "Purchase quality",
+        "Typing",
+        "English",
+        "Expert in use of computer",
+        "HUMAN RESOURCE MANAGEMENT",
+        "Maintain Employee’s personal files and records",
+        "Tracking Attendance",
+        "Managing Employee Staff Accommodation and Labour camp management"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "HR AND ADMIN OR LOGISTIC OPERATION ASSISTANT",
+            "JOB SATISFACION",
+            "HR& ADMIN & PRO EXECUTIVE",
+            "HR & ADMIN & PRO ASSISTANT",
+            "HR&ADMINASSISTANT"
+        ],
+        "company": [
+            "HERO FOOD PRODUCTS",
+            "HAVELLS INDIA LTD",
+            "BRAND AWARNESS",
+            "KRS LOGISTICS",
+            "POWER GROUP OF COMPANY",
+            "POINEER HOSPTIAL"
+        ],
+        "university": [],
+        "degree": [
+            "MBA",
+            "BBA"
+        ],
+        "years of experience": [
+            "Aug 2008"
+        ],
+        "address": [
+            "Arabic",
+            "DUBAI, UAE"
+        ],
+        "email": [
+            "+971543669345",
+            "E-mail",
+            "noorhaaziq@yahoo.com"
+        ],
+        "phone": [
+            "Contact No"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "Qualities": 0.1709,
+            "Capabilities": 0.3442,
+            "Knowledge": 0.3137,
+            "commitment": 0.1947,
+            "HR (HUMAN RESOURCE)": 0.3483,
+            "Professionalism": 0.3956,
+            "HR &ADMIN  Management": 0.5436,
+            "Public Relation Office Management": 0.2904,
+            "Man power supply chain management": 0.2672,
+            "Purchase quality": 0.2639,
+            "Typing": 0.2156,
+            "English": 0.3471,
+            "Expert in use of computer": 0.2467,
+            "HUMAN RESOURCE MANAGEMENT": 0.6961,
+            "Maintain Employee’s personal files and records": 0.1553,
+            "Tracking Attendance": 0.1709,
+            "Managing Employee Staff Accommodation and Labour camp management": 0.1883
+        },
+        "filename": "cv (2550)_annotated.json"
+    }
+}

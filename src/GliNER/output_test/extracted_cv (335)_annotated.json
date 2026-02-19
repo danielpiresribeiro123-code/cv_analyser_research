@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "Finance & Accounts",
+        "Costing",
+        "MIS",
+        "Finance & CO Module",
+        "EPICOR ERP",
+        "Tally ERP",
+        "Consolidation of Accounts",
+        "IFRS",
+        "extensive expertise",
+        "Financial Accounting",
+        "Finance and Accounts",
+        "Indian GAAP",
+        "BIG 4",
+        "Overhead Rate absorption"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CA PANKAJ KUMAR SINGH",
+            "MIDDLE MANAGEMENT PROFESSIONAL",
+            "Middle Level Executive",
+            "Manager"
+        ],
+        "company": [
+            "FIBER PLUS LLC",
+            "Fiber  Plus  LLC",
+            "FPL",
+            "RAK Investment Authority",
+            "RAKIA"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "singh.kr.pankaj@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+971 556615428"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Finance & Accounts": 0.3195,
+            "Costing": 0.3116,
+            "MIS": 0.1734,
+            "Finance & CO Module": 0.2162,
+            "EPICOR ERP": 0.4867,
+            "Tally ERP": 0.5142,
+            "Consolidation of Accounts": 0.1893,
+            "IFRS": 0.7641,
+            "extensive expertise": 0.1779,
+            "Financial Accounting": 0.2686,
+            "Finance and Accounts": 0.4982,
+            "Indian GAAP": 0.4207,
+            "BIG 4": 0.3226,
+            "Overhead Rate absorption": 0.1722
+        },
+        "filename": "cv (335)_annotated.json"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "skills": [
+        "People en Espanol"
+    ],
+    "professional_info": {
+        "person name": [
+            "Elizabeth Ulloa",
+            "Alejandro Chaban",
+            "Ashley Scott",
+            "Ana Beatriz Barros",
+            "Blythe Danner",
+            "Chelsea Tyler",
+            "Crystal Renn",
+            "Darryl Hannah",
+            "David Arquette",
+            "Demi Lovato",
+            "Diego Luna",
+            "Edward Norton",
+            "Eva Longoria",
+            "Felicity Huffman",
+            "Janine Green",
+            "Helen Mirren",
+            "Irina Shayk",
+            "Jamie Lynn Spears",
+            "John Corbett",
+            "John Newman",
+            "Jon Bovi",
+            "Josh Duhamel",
+            "Kate del Castillo",
+            "Kate McKinnon",
+            "Kate Walsh",
+            "Katherine Heigl",
+            "Laura Vandervoort",
+            "Lenny Kravitz",
+            "Leonardo DiCaprio",
+            "Marisa Miller",
+            "Morrissey",
+            "Nadine Velazquez",
+            "Natasha Wagner",
+            "Nicole Trunfio",
+            "Paola Turbay",
+            "Paul McCartney",
+            "Petra Nemcova",
+            "Sheryl Crow",
+            "Taye Diggs",
+            "Taylor Kitsch",
+            "Thora Birch",
+            "Tom Ford",
+            "Tom Hanks",
+            "Tony Goldwyn",
+            "Tricia Helfer",
+            "Vanessa Villela",
+            "Zulay Henao",
+            "Alan Cresto",
+            "Albert Sanchez",
+            "Alberto Tolot",
+            "Billie Woodruff",
+            "Christopher Katke",
+            "Coliena Rentmeester",
+            "David LaChapelle",
+            "Francis Lawrence",
+            "Isabel Snyder",
+            "Joseph Kahn",
+            "Mark Liddell",
+            "Nino Munoz",
+            "Oberto Gigli",
+            "Randall Slavin",
+            "Sheryl Nields",
+            "Andrew Charles",
+            "Jennifer Lopez",
+            "Britney Spears",
+            "Michael Angel"
+        ],
+        "job title": [
+            "Makeup Artist"
+        ],
+        "company": [
+            "Alfa Romeo",
+            "Nissan",
+            "Glamour",
+            "GQ",
+            "Esika"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "People en Espanol": 0.2048
+        },
+        "filename": "cv (942)_annotated.json"
+    }
+}

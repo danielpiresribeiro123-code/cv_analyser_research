@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "Teaching Field",
+        "English",
+        "MP",
+        "Sex",
+        "Linguistic ability",
+        "Malayalam",
+        "Mother Tongue",
+        "Hindi",
+        "Tamil",
+        "Home Making",
+        "Social Service",
+        "Listening"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHREEJA RENJIT"
+        ],
+        "job title": [
+            "Guest Lecturer",
+            "Transaction Monitoring Officer",
+            "Female"
+        ],
+        "company": [
+            "Allsec Technologies"
+        ],
+        "university": [
+            "Sree Sankara Global Acadamy",
+            "St. Thomas High School",
+            "NSS Hindu College",
+            "CTETCBSE New Delhi",
+            "Mahatma  Gandhi  University",
+            "GG University"
+        ],
+        "degree": [
+            "B.ED",
+            "M.A",
+            "B.A"
+        ],
+        "years of experience": [
+            "14 Years plus experience",
+            "Married"
+        ],
+        "address": [
+            "DS1 Crystal Court Apts.",
+            "44 Medavakkam Main Road",
+            "Ganesh Nagar",
+            "Chennai -600091",
+            "Vadukkupattu",
+            "Keelkattilai"
+        ],
+        "email": [
+            "E-Mail Id",
+            "shreejarenjit@yahoo.in"
+        ],
+        "phone": [
+            "PHONE",
+            "044  22475506",
+            "MOB",
+            "91 9940503434/91 8056540099"
+        ]
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "Teaching Field": 0.16,
+            "English": 0.7107,
+            "MP": 0.2367,
+            "Sex": 0.2789,
+            "Linguistic ability": 0.4651,
+            "Malayalam": 0.883,
+            "Mother Tongue": 0.1879,
+            "Hindi": 0.7911,
+            "Tamil": 0.7764,
+            "Home Making": 0.2689,
+            "Social Service": 0.2298,
+            "Listening": 0.2663
+        },
+        "filename": "cv (1517)_annotated.json"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "Mechanical, Engineering",
+        "Tata  407van",
+        "Ace  hydra",
+        "WORK & TECHNICAL SKILLS",
+        "Expertise",
+        "quick  trouble shooting",
+        "excel software",
+        "Good technical skills",
+        "Good skills",
+        "DESIGN, MODELING AND ANALYSIS OF A TRAIN BRAKE"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAO VAMSI KRISHNA",
+            "vamsikrishna5252"
+        ],
+        "job title": [
+            "ASSISTANT   ENGINEER",
+            "Co-Ordinate with all site technicians"
+        ],
+        "company": [
+            "nCollege/Board/University Durati",
+            "onPercentag",
+            "V.S.M.College of Engineering",
+            "C.G.P.A",
+            "SRI CHAITANYA jr college",
+            "KAKINADA2007-0953%",
+            "BOTHRA SHIPPING SERVICES PVT LTD",
+            "KAKINADA",
+            "LIEBHERR"
+        ],
+        "university": [
+            "Andhra University",
+            "Andhra Pradesh2009-13 6.7"
+        ],
+        "degree": [
+            "B.E"
+        ],
+        "years of experience": [
+            "WORK EXPERIENCE"
+        ],
+        "address": [],
+        "email": [
+            "91-9666615037",
+            "Email",
+            "gmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Mechanical, Engineering": 0.5984,
+            "Tata  407van": 0.1662,
+            "Ace  hydra": 0.2974,
+            "WORK & TECHNICAL SKILLS": 0.205,
+            "Expertise": 0.3225,
+            "quick  trouble shooting": 0.3258,
+            "excel software": 0.3141,
+            "Good technical skills": 0.3445,
+            "Good skills": 0.177,
+            "DESIGN, MODELING AND ANALYSIS OF A TRAIN BRAKE": 0.1845
+        },
+        "filename": "cv (2998)_annotated.json"
+    }
+}

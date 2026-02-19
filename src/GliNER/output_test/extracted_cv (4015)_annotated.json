@@ -1,0 +1,82 @@
+{
+    "skills": [
+        "HVAC",
+        "Hardworking",
+        "self-motivated",
+        "dependable",
+        "SKILLS",
+        "Problem solving",
+        "Revit",
+        "Strong attention to detail",
+        "Microsoft Office",
+        "proficient",
+        "Communication skills",
+        "Monitor and Verify Document",
+        "Barclays Youth Employ ability Initiative",
+        "Playing cricket",
+        "Hindi",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "ZAFAR",
+            "IQBAL",
+            "Asad"
+        ],
+        "job title": [
+            "Hvac site Engineer",
+            "Matriculation"
+        ],
+        "company": [
+            "Indiana Contractors",
+            "JNJV High School - Nawada, BiharCERTIFICATIONS",
+            "Indian Railway",
+            "GTT",
+            "NASSCOM Foundation"
+        ],
+        "university": [
+            "GL Bajaj Institute of Technology and Management - Greater Noida",
+            "Government Polytechnic - Darbhanga"
+        ],
+        "degree": [
+            "Bachelor of Technology : Mechanical engineering",
+            "Diploma in Engineering : Mechanical engineering"
+        ],
+        "years of experience": [
+            "Marital status",
+            "Un-Married"
+        ],
+        "address": [
+            "okhla",
+            "New Delhi",
+            "Delhi 110025"
+        ],
+        "email": [
+            "C: 9899843651",
+            "iqbal.asad150@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 16,
+        "confidence_scores": {
+            "HVAC": 0.1559,
+            "Hardworking": 0.3881,
+            "self-motivated": 0.3492,
+            "dependable": 0.4081,
+            "SKILLS": 0.1723,
+            "Problem solving": 0.4375,
+            "Revit": 0.5904,
+            "Strong attention to detail": 0.4222,
+            "Microsoft Office": 0.7043,
+            "proficient": 0.2186,
+            "Communication skills": 0.1599,
+            "Monitor and Verify Document": 0.1777,
+            "Barclays Youth Employ ability Initiative": 0.1759,
+            "Playing cricket": 0.1814,
+            "Hindi": 0.849,
+            "English": 0.8105
+        },
+        "filename": "cv (4015)_annotated.json"
+    }
+}

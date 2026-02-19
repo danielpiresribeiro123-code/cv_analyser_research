@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "Electrical and Electronic Engineering",
+        "2009       SSC",
+        "Technical Skills",
+        "Computer Skills",
+        "Ms Office",
+        "Good Communication Skills",
+        "Excellent Leadership",
+        "Qualities",
+        "Strengths",
+        "Self-confidence",
+        "Flexibility and Adaptibility",
+        "Hard Working Nature",
+        "Great Patience",
+        "Basic MATLAB",
+        "SIMULINK",
+        "ENERGY AUDIT",
+        "UPQC",
+        "unified power Quality Compensator-Q",
+        "English",
+        "Hindi",
+        "Urdu",
+        "Telugu"
+    ],
+    "professional_info": {
+        "person name": [
+            "Shaik Zafrulla",
+            "Sk Zafrulla",
+            "Sk Samad",
+            "INDIAN"
+        ],
+        "job title": [
+            "Teacher"
+        ],
+        "company": [],
+        "university": [
+            "Sree Venkateswara  College",
+            "JNTUA  University",
+            "Sri  chaitanya  Junior  College"
+        ],
+        "degree": [
+            "B.tech."
+        ],
+        "years of experience": [
+            "9700807702",
+            "Experience"
+        ],
+        "address": [
+            "D.no.25-2-1557",
+            "3rd Street",
+            "Podalakur Road",
+            "Nellore-524004",
+            "2017"
+        ],
+        "email": [
+            "Email",
+            "zafrulla.shaik22@gmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Electrical and Electronic Engineering": 0.1516,
+            "2009       SSC": 0.2082,
+            "Technical Skills": 0.3241,
+            "Computer Skills": 0.4611,
+            "Ms Office": 0.333,
+            "Good Communication Skills": 0.4962,
+            "Excellent Leadership": 0.6627,
+            "Qualities": 0.2427,
+            "Strengths": 0.1901,
+            "Self-confidence": 0.4736,
+            "Flexibility and Adaptibility": 0.4589,
+            "Hard Working Nature": 0.4879,
+            "Great Patience": 0.4733,
+            "Basic MATLAB": 0.1522,
+            "SIMULINK": 0.2664,
+            "ENERGY AUDIT": 0.2018,
+            "UPQC": 0.3871,
+            "unified power Quality Compensator-Q": 0.1933,
+            "English": 0.717,
+            "Hindi": 0.7674,
+            "Urdu": 0.6834,
+            "Telugu": 0.6236
+        },
+        "filename": "cv (1593)_annotated.json"
+    }
+}

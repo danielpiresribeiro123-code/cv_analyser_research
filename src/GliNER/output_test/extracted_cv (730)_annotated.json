@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "Management",
+        "Computer Science",
+        "Commerce &",
+        "Laxmi cine",
+        "Soft skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ms. Kansara Priyanka Mukeshbhai",
+            "Chotalal Parekh"
+        ],
+        "job title": [],
+        "company": [
+            "H.S.CGujarat Secondary &"
+        ],
+        "university": [
+            "UNIVERSITY/BOARDYR. OF",
+            "Gujarat Technological",
+            "University",
+            "AhmedabadPursuingNaran Lala School of",
+            "B.ComVeer Narmad South",
+            "Surat2014Naran Lala College of",
+            "IIM Calcutta",
+            "GTU"
+        ],
+        "degree": [
+            "M.B.A"
+        ],
+        "years of experience": [],
+        "address": [
+            "kamla kiran building",
+            "charpul road"
+        ],
+        "email": [
+            "priyankakansara4@gmail.com",
+            "Contact",
+            "+ 918460222010"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Management": 0.3323,
+            "Computer Science": 0.6735,
+            "Commerce &": 0.3133,
+            "Laxmi cine": 0.2652,
+            "Soft skills": 0.2148
+        },
+        "filename": "cv (730)_annotated.json"
+    }
+}

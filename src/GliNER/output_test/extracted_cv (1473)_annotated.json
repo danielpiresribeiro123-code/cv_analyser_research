@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "Information technology",
+        "local Delivery Note",
+        "COMPUTER PROFICIENCY",
+        "FOCUS",
+        "NET BEANS",
+        "MSOFFICE",
+        "DREAMWEAVER",
+        "Web Design",
+        "Testing",
+        "Networking",
+        "STRENGTH",
+        "Positive thinking",
+        "Self-confident",
+        "Dedicated and Hardworking"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMED AZEEZ K S",
+            "LATE. SHEIK NAZIMUDEEN K.S."
+        ],
+        "job title": [
+            "Secretarial Admin",
+            "Document Controller",
+            "WAREHOUSE IN-CHARGE",
+            "Warehouse In Charge",
+            "Admin",
+            "Male"
+        ],
+        "company": [
+            "GOLDEN SYSTEM ELECTRONICS FZCO DUBAI-UAE",
+            "IT Distribution Projects",
+            "HIGHER SECONDARY SCHOOL",
+            "Muslim Higher Secondary School",
+            "SECONDARY SCHOOL"
+        ],
+        "university": [
+            "Aalim Muhammed Salegh College of, Engineering",
+            "ANNA, UNIVERSITY",
+            "DR.Zakir Hussain College",
+            "ALAGAPPA UNIVERSITY"
+        ],
+        "degree": [
+            "MASTER OF COMPUTER APPLICATION",
+            "BACHELOR OF COMPUTER SCIENCE"
+        ],
+        "years of experience": [],
+        "address": [
+            "Address"
+        ],
+        "email": [
+            "E-mail id",
+            "azeezferoze@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9944946968"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Information technology": 0.5388,
+            "local Delivery Note": 0.1574,
+            "COMPUTER PROFICIENCY": 0.3973,
+            "FOCUS": 0.4596,
+            "NET BEANS": 0.5192,
+            "MSOFFICE": 0.4254,
+            "DREAMWEAVER": 0.5023,
+            "Web Design": 0.2807,
+            "Testing": 0.1621,
+            "Networking": 0.2718,
+            "STRENGTH": 0.2097,
+            "Positive thinking": 0.3604,
+            "Self-confident": 0.1881,
+            "Dedicated and Hardworking": 0.2869
+        },
+        "filename": "cv (1473)_annotated.json"
+    }
+}

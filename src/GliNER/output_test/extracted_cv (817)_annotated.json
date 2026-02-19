@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "Madam\tNail\tPro"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sally Wang",
+            "sallywang",
+            "Adrienne Maloof",
+            "Alyssa Miller",
+            "Beyonce",
+            "Bristol Palin",
+            "Carole Radziwell",
+            "Cindy Margolis",
+            "Dave Steward",
+            "Duane Martin",
+            "Gary Dourdan",
+            "Jada Pinkett Smith",
+            "Lionel Ritchie",
+            "Mariah Carey",
+            "Mary J. Blige",
+            "Mel B.",
+            "Michelle Williams",
+            "Mindy Kaling",
+            "Nicky Hilton",
+            "Queen Latifah",
+            "Toni Braxton",
+            "Shakira",
+            "Skeet Ulrich",
+            "Sofia Vergara",
+            "Solange",
+            "Zach Galifinakis",
+            "Ardell",
+            "Andrea",
+            "Paul Mitchell",
+            "Samantha Thavasa",
+            "Sheri Bodell",
+            "Alberto Tolot",
+            "Andrew MacPherson",
+            "Anthony Mandler",
+            "Anthony Miner",
+            "Bryan Barber",
+            "Cliff Watts",
+            "Dorit Thies",
+            "Ellen Von Unwerth",
+            "Elliston Lutz",
+            "Jake Nava",
+            "Jean Baptiste",
+            "Jonas Akerlund",
+            "Joseph Kahn",
+            "Leslie Kee",
+            "Lionel Deluy",
+            "Malina",
+            "Matthew Rolston",
+            "Michel Comte",
+            "Richard Reinsdorf",
+            "Sophia Muller"
+        ],
+        "job title": [],
+        "company": [
+            "DSW",
+            "Guess",
+            "McDonalds",
+            "Mitsubishi",
+            "Old Navy",
+            "Pepsi",
+            "Julie Brothers"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632\t\tLa\tCienega\tAvenue",
+            "90034",
+            "310.\t839.\t8722"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "Madam\tNail\tPro": 0.1677
+        },
+        "filename": "cv (817)_annotated.json"
+    }
+}

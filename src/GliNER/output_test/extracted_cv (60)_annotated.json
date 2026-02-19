@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "knowledge",
+        "ACADEMIC QUALIFICATION",
+        "management"
+    ],
+    "professional_info": {
+        "person name": [
+            "PRIYANKA SANGANERIA GUPTA"
+        ],
+        "job title": [
+            "lTermResul",
+            "Chartere",
+            "AccountanI.C.A.",
+            "I.Fina",
+            "rResul",
+            "articled assistant",
+            "Trainee"
+        ],
+        "company": [
+            "CourseInstituteLeve",
+            "Class XIIBhartiya Vidya Bhavan",
+            "Inland World Logistic Pvt. Ltd.",
+            "S. K. Agrawal & Co."
+        ],
+        "university": [
+            "ExaminationCollege/ School Yea",
+            "The Bhawanipore Education",
+            "Society       College",
+            "XBhartiya Vidya Bhavan (CBSE)"
+        ],
+        "degree": [
+            "B.Com (Honors)"
+        ],
+        "years of experience": [],
+        "address": [
+            "7D",
+            "Megha Tower-1",
+            "Ghod dod",
+            "road",
+            "Surat",
+            "225 PC",
+            "Kolkata"
+        ],
+        "email": [
+            "capriyankagupta2014@gmail.com",
+            "CPTAug 2007"
+        ],
+        "phone": [
+            "+91-, 7878321456"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "knowledge": 0.1595,
+            "ACADEMIC QUALIFICATION": 0.2722,
+            "management": 0.1859
+        },
+        "filename": "cv (60)_annotated.json"
+    }
+}

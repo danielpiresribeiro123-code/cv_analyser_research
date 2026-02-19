@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "Gender  Female",
+        "Tamil",
+        "English",
+        "Computer  Knowledge",
+        "PGDCA",
+        "Type Writing",
+        "RESEARCH PAPERS",
+        "passion for education",
+        "SSLC",
+        "WORK EXPERIENCE"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sritharan.  P",
+            "Indian",
+            "RISHA SRITHARAN"
+        ],
+        "job title": [
+            "Dedicated  Post Graduate  Teacher",
+            "TGT"
+        ],
+        "company": [],
+        "university": [
+            "State Board",
+            "St. John Vianney’s  Girls High School",
+            "L.M.S. Hr. Sec.  School",
+            "Scott Christian  College (Autonomous)",
+            "Manonmaniam  Sundaranar  University",
+            "Immanual  Arasar College of Education",
+            "TNTEU",
+            "Lady Willington  College of Advanced  Education",
+            "The Ashram group of Institutions"
+        ],
+        "degree": [
+            "HSC (Mathematics  Biology)",
+            "B.Sc (Botany)",
+            "M.Sc (Botany)",
+            "M.Phil (Botany)",
+            "B.Ed",
+            "M.Ed (2 year Course)"
+        ],
+        "years of experience": [],
+        "address": [
+            "No 48/12",
+            "Second Floor",
+            "Ramagiri  Nagar 2nd Street",
+            "Velachery"
+        ],
+        "email": [
+            "om.rishasri@gmail.com",
+            "8870294801"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "Gender  Female": 0.1915,
+            "Tamil": 0.8147,
+            "English": 0.8217,
+            "Computer  Knowledge": 0.3395,
+            "PGDCA": 0.9192,
+            "Type Writing": 0.2603,
+            "RESEARCH PAPERS": 0.1514,
+            "passion for education": 0.1581,
+            "SSLC": 0.6624,
+            "WORK EXPERIENCE": 0.217
+        },
+        "filename": "cv (1636)_annotated.json"
+    }
+}

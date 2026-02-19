@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "MEP",
+        "Electrical",
+        "Subject(s)Div.",
+        "All Subjects1st",
+        "Mathematics1st",
+        "Electrical Engineering2nd",
+        "Electrical EngineeringPassed",
+        "Electrical Engineering1st"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dilip Chatterjee",
+            "Late shri J. Chatterjee"
+        ],
+        "job title": [
+            "Manager  /  Engineer",
+            "Sr. Manager MEP",
+            "MEP Head"
+        ],
+        "company": [
+            "Crossings Infrastructures Private Limited",
+            "Larsen  &  Toubro  Limited",
+            "DLF",
+            "Larsen  &  Toubro",
+            "L&T  Construction"
+        ],
+        "university": [],
+        "degree": [
+            "B.E."
+        ],
+        "years of experience": [
+            "Married"
+        ],
+        "address": [
+            "Present Address",
+            "New Delhi"
+        ],
+        "email": [
+            "E-mail",
+            "dilip_satna@yahoo.com"
+        ],
+        "phone": [
+            "Mobile",
+            "0091- 728 999 7706"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "MEP": 0.4096,
+            "Electrical": 0.4334,
+            "Subject(s)Div.": 0.1585,
+            "All Subjects1st": 0.216,
+            "Mathematics1st": 0.6633,
+            "Electrical Engineering2nd": 0.8495,
+            "Electrical EngineeringPassed": 0.8204,
+            "Electrical Engineering1st": 0.8772
+        },
+        "filename": "cv (159)_annotated.json"
+    }
+}

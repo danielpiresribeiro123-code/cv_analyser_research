@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "Knowledge",
+        "FCS",
+        "DCS",
+        "PLC fire/Gas and Telecommunication/instrument",
+        "Proficient",
+        "PEFS"
+    ],
+    "professional_info": {
+        "person name": [
+            "ARVIND KUMAR"
+        ],
+        "job title": [
+            "Post Applied for",
+            "Instrumentation Engineer",
+            "Designation-operation & maintainence engineer",
+            "Designation-Instrumentation supervisor"
+        ],
+        "company": [
+            "ROURKELA",
+            "ORISSA",
+            "K.M.P.M COLLEGE(JAMSHEDPUR)",
+            "signode india pvt ltd",
+            "tata steel",
+            "Project-COIL PACKAGING LINE",
+            "Gulf Petrochemical Services & trading, LLC.Oman",
+            "MUSCAT SOHAR PIPELINE PRODUCTS",
+            "OIL REFINARY",
+            "KHAZZAN GAS PROJECT(BRITISH, PETROLIUM)",
+            "OMAN refineries and storage tanks  supply station",
+            "ORPIC"
+        ],
+        "university": [
+            "BALI CHELA SCHOOL(JAMSHEDPUR)"
+        ],
+        "degree": [
+            "B.TECH In ELECTRONICS AND",
+            "SSC"
+        ],
+        "years of experience": [
+            "3 yrs of experience"
+        ],
+        "address": [],
+        "email": [
+            "Mob",
+            "+918797606915",
+            "e-mail-arvind701kumar@gmail.com"
+        ],
+        "phone": [
+            "+96895542164"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Knowledge": 0.1719,
+            "FCS": 0.4236,
+            "DCS": 0.4394,
+            "PLC fire/Gas and Telecommunication/instrument": 0.2356,
+            "Proficient": 0.2016,
+            "PEFS": 0.1759
+        },
+        "filename": "cv (2024)_annotated.json"
+    }
+}

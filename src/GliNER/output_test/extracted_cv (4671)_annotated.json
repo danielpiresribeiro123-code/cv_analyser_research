@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "internet",
+        "skills",
+        "Teaching License",
+        "Kind and empathetic",
+        "Standardized testing techniques",
+        "Critical thinker",
+        "Positive and encouraging",
+        "Adept classroom manager",
+        "Excellent Design Talent"
+    ],
+    "professional_info": {
+        "person name": [
+            "I",
+            "founding member"
+        ],
+        "job title": [
+            "Floral Designerwrite",
+            "certified professional floral designer",
+            "employees",
+            "Owner/Operator"
+        ],
+        "company": [
+            "AIFD",
+            "The Tropicana Hotel",
+            "Las Vegas Hilton",
+            "Caesar's Palace",
+            "Garden of the Nile Flower Shop"
+        ],
+        "university": [
+            "Louisiana State University Agriculture School"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "internet": 0.3675,
+            "skills": 0.1652,
+            "Teaching License": 0.1507,
+            "Kind and empathetic": 0.3162,
+            "Standardized testing techniques": 0.3444,
+            "Critical thinker": 0.1994,
+            "Positive and encouraging": 0.292,
+            "Adept classroom manager": 0.2609,
+            "Excellent Design Talent": 0.4791
+        },
+        "filename": "cv (4671)_annotated.json"
+    }
+}

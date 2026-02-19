@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "Tools & Technology",
+        "Data analysis and Reporting",
+        "Management Information System (MIS)",
+        "Internet Research",
+        "Data Analysis",
+        "Data Formatting and Reporting",
+        "EXCEL"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dinesh Kumar Shukla"
+        ],
+        "job title": [
+            "Management Information System Professional",
+            "Designation",
+            "Supervisor",
+            "Patrolling Inspector",
+            "Store Keeper"
+        ],
+        "company": [
+            "Knight Watch Security LTD.",
+            "Tata Power Delhi Distribution LTD",
+            "Premier Shield PVT. LTD."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Add- B-11 Gali No.2",
+            "New Delhi"
+        ],
+        "email": [
+            "E-Mail",
+            "dshukla56@gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "+91-8802571278",
+            "7503747234"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Tools & Technology": 0.286,
+            "Data analysis and Reporting": 0.3067,
+            "Management Information System (MIS)": 0.2553,
+            "Internet Research": 0.4337,
+            "Data Analysis": 0.4118,
+            "Data Formatting and Reporting": 0.423,
+            "EXCEL": 0.4813
+        },
+        "filename": "cv (3063)_annotated.json"
+    }
+}

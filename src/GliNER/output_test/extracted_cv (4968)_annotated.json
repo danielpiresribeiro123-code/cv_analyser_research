@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "Deep learning",
+        "Python",
+        "SQL",
+        "Keras",
+        "PyTorch",
+        "PySpark",
+        "Data Science",
+        "Analysis",
+        "Machine Learning",
+        "Natural",
+        "Language Processing",
+        "Computer Vision",
+        "Recognition",
+        "NLP",
+        "OpenCV",
+        "Computer Vision",
+        "SVM",
+        "Random Forest",
+        "Logistic Regression",
+        "Linear",
+        "Regression",
+        "KNN",
+        "K-means Clustering",
+        "YOLO",
+        "DeepSpeech",
+        "FCN",
+        "SMILES",
+        "OSRA",
+        "SMILES",
+        "Natural Language Mastery"
+    ],
+    "professional_info": {
+        "person name": [
+            "RACHEL DAWN"
+        ],
+        "job title": [
+            "DATA SCIENTIST"
+        ],
+        "company": [
+            "Baidu",
+            "Innoplexus"
+        ],
+        "university": [
+            "Indian Institute of, Technology (IIT)",
+            "Kharagpur"
+        ],
+        "degree": [
+            "Dual Degree",
+            "B.tech",
+            "M.Tech"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 30,
+        "confidence_scores": {
+            "Deep learning": 0.4364,
+            "Python": 0.8754,
+            "SQL": 0.2428,
+            "Keras": 0.4333,
+            "PyTorch": 0.4664,
+            "PySpark": 0.4963,
+            "Data Science": 0.2075,
+            "Analysis": 0.1627,
+            "Machine Learning": 0.1992,
+            "Natural": 0.1813,
+            "Language Processing": 0.1933,
+            "Computer Vision": 0.1992,
+            "Recognition": 0.2389,
+            "NLP": 0.3584,
+            "OpenCV": 0.2926,
+            "SVM": 0.9032,
+            "Random Forest": 0.854,
+            "Logistic Regression": 0.8208,
+            "Linear": 0.2842,
+            "Regression": 0.169,
+            "KNN": 0.9013,
+            "K-means Clustering": 0.6301,
+            "YOLO": 0.8739,
+            "DeepSpeech": 0.4447,
+            "FCN": 0.8291,
+            "SMILES": 0.2385,
+            "OSRA": 0.4845,
+            "Natural Language Mastery": 0.1708
+        },
+        "filename": "cv (4968)_annotated.json"
+    }
+}

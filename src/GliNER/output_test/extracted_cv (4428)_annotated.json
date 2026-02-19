@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "Radio Station Programming",
+        "On-Air Broadcast execution",
+        "Skill Highlights",
+        "syndicated radio programs",
+        "Digital Content Analysis",
+        "Syndicated Development and Management",
+        "Brand Management",
+        "Digital Content Delivery",
+        "Social Media Integration"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT",
+            "Executive Profile",
+            "Broadcast Management",
+            "Media Sales",
+            "Affiliate Sales Manager",
+            "Local Brand Manager",
+            "On-Air Personality",
+            "Social Media Integrator",
+            "Digital Content Developer",
+            "Email Marketer",
+            "Brand Manager",
+            "social media integrators",
+            "Sr. Director",
+            "affiliate sales",
+            "Operations Director",
+            "Media Consulting",
+            "Affiliate Sales Management and Analysis"
+        ],
+        "company": [
+            "Company Name",
+            "local radio stations",
+            "major record labels",
+            "WWDM-FM"
+        ],
+        "university": [
+            "Mass Communications",
+            "Lincoln College"
+        ],
+        "degree": [
+            "Associate of Arts"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Radio Station Programming": 0.1771,
+            "On-Air Broadcast execution": 0.2056,
+            "Skill Highlights": 0.1935,
+            "syndicated radio programs": 0.1627,
+            "Digital Content Analysis": 0.2803,
+            "Syndicated Development and Management": 0.2207,
+            "Brand Management": 0.2439,
+            "Digital Content Delivery": 0.2752,
+            "Social Media Integration": 0.3085
+        },
+        "filename": "cv (4428)_annotated.json"
+    }
+}

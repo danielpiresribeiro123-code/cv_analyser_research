@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "Educational Qualification",
+        "Management2016",
+        "Key Skills",
+        "Key Competencies",
+        "Self-Motivating",
+        "Good Communication Skills",
+        "Flexible and Adaptive",
+        "Punctuality & Sincerity",
+        "Teamwork Skills",
+        "MS Office 2007",
+        "Word",
+        "Excel",
+        "Power Point",
+        "Programming Language",
+        "C",
+        "JAVA",
+        "Math",
+        "English",
+        "hindi",
+        "Operating System",
+        "Data Base Management System",
+        "LIBRARY MANAGEMENT SYSTEM",
+        "Computer Shop Management system",
+        "Internet",
+        "telecommunications systems"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [],
+        "company": [
+            "Intermediate",
+            "UPBlooming buds",
+            "technosys",
+            "company Ltd."
+        ],
+        "university": [
+            "University School",
+            "College",
+            "Intermediate college",
+            "AKTU  Institute Of",
+            "Technology and",
+            "INDIAN RAILWAY  SIGNAL AND"
+        ],
+        "degree": [
+            "College201264",
+            "B-Tech(Computer Science andEngineering)"
+        ],
+        "years of experience": [
+            "Experience",
+            "2 year experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 25,
+        "confidence_scores": {
+            "Educational Qualification": 0.1796,
+            "Management2016": 0.3519,
+            "Key Skills": 0.1994,
+            "Key Competencies": 0.1932,
+            "Self-Motivating": 0.2077,
+            "Good Communication Skills": 0.2325,
+            "Flexible and Adaptive": 0.331,
+            "Punctuality & Sincerity": 0.1554,
+            "Teamwork Skills": 0.2554,
+            "MS Office 2007": 0.8174,
+            "Word": 0.4109,
+            "Excel": 0.3221,
+            "Power Point": 0.4586,
+            "Programming Language": 0.3588,
+            "C": 0.8814,
+            "JAVA": 0.6084,
+            "Math": 0.3501,
+            "English": 0.3949,
+            "hindi": 0.2964,
+            "Operating System": 0.3476,
+            "Data Base Management System": 0.6622,
+            "LIBRARY MANAGEMENT SYSTEM": 0.6268,
+            "Computer Shop Management system": 0.5627,
+            "Internet": 0.7692,
+            "telecommunications systems": 0.1678
+        },
+        "filename": "cv (214)_annotated.json"
+    }
+}

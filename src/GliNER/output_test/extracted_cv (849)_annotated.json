@@ -1,0 +1,102 @@
+{
+    "skills": [
+        "WWW",
+        "Computer Science",
+        "UNIX",
+        "GNU/Linux",
+        "LPIC-1 2009",
+        "software engineering",
+        "debugging",
+        "human/computer interaction",
+        "Psychology",
+        "UNIX /GNU/Linux",
+        "Web HTML and CSS",
+        "Web",
+        "CGI",
+        "TCP/IP",
+        "computer architecture",
+        "C programming",
+        "Windows 9x",
+        "Visual Basic",
+        "IBM OS/390 MVS JCL",
+        "programming",
+        "PPP",
+        "SunOS",
+        "Solaris",
+        "Ultrix"
+    ],
+    "professional_info": {
+        "person name": [
+            "Ian D .Allen",
+            "idallen"
+        ],
+        "job title": [
+            "Professor of Information and Communications Technologies",
+            "Computer Systems Administrator",
+            "Professor",
+            "Network Technical Director",
+            "Research Systems Manager"
+        ],
+        "company": [],
+        "university": [
+            "Uni versity of Waterloo",
+            "University of Waterloo",
+            "Algonquin College of Applied Arts and Technology",
+            "Uni versity of W aterloo"
+        ],
+        "degree": [
+            "Master of Mathematics",
+            "MMath",
+            "Honours Bachelor of Arts",
+            "Dean’ sList"
+        ],
+        "years of experience": [
+            "3 years",
+            "5 years"
+        ],
+        "address": [
+            "K1R 6S9Telephone",
+            "www.ncf.ca",
+            "www.cgl.uwaterloo.ca"
+        ],
+        "email": [
+            "E-Mail",
+            "idallen@idallen.ca",
+            "www.idallen.com"
+        ],
+        "phone": [
+            "22 Oak Street",
+            "+1 (613) 235-6216"
+        ]
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "WWW": 0.7587,
+            "Computer Science": 0.2232,
+            "UNIX": 0.6002,
+            "GNU/Linux": 0.2809,
+            "LPIC-1 2009": 0.3804,
+            "software engineering": 0.2505,
+            "debugging": 0.2123,
+            "human/computer interaction": 0.1937,
+            "Psychology": 0.3178,
+            "UNIX /GNU/Linux": 0.438,
+            "Web HTML and CSS": 0.5217,
+            "Web": 0.5143,
+            "CGI": 0.187,
+            "TCP/IP": 0.2564,
+            "computer architecture": 0.2375,
+            "C programming": 0.2329,
+            "Windows 9x": 0.6193,
+            "Visual Basic": 0.6467,
+            "IBM OS/390 MVS JCL": 0.5299,
+            "programming": 0.2032,
+            "PPP": 0.2212,
+            "SunOS": 0.6667,
+            "Solaris": 0.5891,
+            "Ultrix": 0.3941
+        },
+        "filename": "cv (849)_annotated.json"
+    }
+}

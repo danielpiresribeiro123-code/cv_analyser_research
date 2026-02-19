@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "standards",
+        "renewable -energy sector"
+    ],
+    "professional_info": {
+        "person name": [
+            "Midhun A Sathyan",
+            "midhunasathyan"
+        ],
+        "job title": [
+            "Project Engineer"
+        ],
+        "company": [
+            "ZARIUS",
+            "Alternate Energy Corporation",
+            "Viswajyothi CMI",
+            "Fedaral institute of Sicence and Technology",
+            "Gold Hub",
+            "St.Johns Hospital"
+        ],
+        "university": [
+            "Institute of career Development",
+            "Govt Law College"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Angamaly",
+            "Mookan nur",
+            "Kollam",
+            "Kozhikode",
+            "gulbarga",
+            "Bangalore"
+        ],
+        "email": [
+            "gmail.com"
+        ],
+        "phone": [
+            "+91 90 37 33133 5"
+        ]
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "standards": 0.295,
+            "renewable -energy sector": 0.1631
+        },
+        "filename": "cv (3912)_annotated.json"
+    }
+}

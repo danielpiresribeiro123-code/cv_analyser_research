@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "knowledge",
+        "conceptual skills",
+        "Customer end & internal rejection  analysis",
+        "AREA"
+    ],
+    "professional_info": {
+        "person name": [
+            "ABDUL RAZACK"
+        ],
+        "job title": [
+            "DESIGNATION",
+            "Quality Inspector"
+        ],
+        "company": [],
+        "university": [
+            "Bharathiyar  college of engineering",
+            "HSC  St.Mary’s hr.sec.school",
+            "SSLC  St.Mary’s hr.sec.school",
+            "GESTAMP AUTOMOTIVE INDIA PRIVATE LIMITED"
+        ],
+        "degree": [
+            "B.TECH"
+        ],
+        "years of experience": [
+            "WORKING EXPERIENCE"
+        ],
+        "address": [
+            "Hor Al Anz",
+            "Deira",
+            "Dubai"
+        ],
+        "email": [
+            "Email",
+            "arshad21294@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+971 589379868",
+            "+91 8098778672"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "knowledge": 0.2902,
+            "conceptual skills": 0.426,
+            "Customer end & internal rejection  analysis": 0.2087,
+            "AREA": 0.2375
+        },
+        "filename": "cv (2934)_annotated.json"
+    }
+}

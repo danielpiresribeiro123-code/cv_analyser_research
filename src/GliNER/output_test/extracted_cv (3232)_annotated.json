@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "highly motivated person",
+        "good attitude",
+        "analytical and development skills",
+        "Knowledge and Pleasure",
+        "Certificate         RITI          NCVT 1998  1st",
+        "Maintenance and Project",
+        "DB. Dressing",
+        "Pipe fitting",
+        "power Lighting Wiring",
+        "Cable Tray Trunking",
+        "panel board Internal Wiring",
+        "Good Knowledge",
+        "PPM",
+        "DB",
+        "Fault Tracing",
+        "Good knowledge about all types of equipment",
+        "Married",
+        "English",
+        "Urdu",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHD. SHAKIL ANWAR",
+            "M/S SALIMABDUL ALSAVA",
+            "Md. Mumtaz Alam"
+        ],
+        "job title": [
+            "Industrial Trade",
+            "Electrician"
+        ],
+        "company": [
+            "EDUCATION COLLEGE",
+            "High SchoolShafi muslim high",
+            "schoolBihar School",
+            "ARABIAN BEMCO CONTRACTING CO.LTD."
+        ],
+        "university": [
+            "Intermediate ScienceMillat College",
+            "VILL P.O-MILKICHAK"
+        ],
+        "degree": [],
+        "years of experience": [
+            "7.5 Years"
+        ],
+        "address": [
+            "Laheriasarai",
+            "P.S-LAHERIASARAI STAE- BIHAR",
+            "Dist. Darbhanga (846004)"
+        ],
+        "email": [
+            "Qamarhadisiddiqui52@gmail.com",
+            "shakilanwar46@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "highly motivated person": 0.45,
+            "good attitude": 0.4405,
+            "analytical and development skills": 0.3537,
+            "Knowledge and Pleasure": 0.1623,
+            "Certificate         RITI          NCVT 1998  1st": 0.7489,
+            "Maintenance and Project": 0.2461,
+            "DB. Dressing": 0.2669,
+            "Pipe fitting": 0.2891,
+            "power Lighting Wiring": 0.2253,
+            "Cable Tray Trunking": 0.1948,
+            "panel board Internal Wiring": 0.2667,
+            "Good Knowledge": 0.1979,
+            "PPM": 0.1643,
+            "DB": 0.1765,
+            "Fault Tracing": 0.3105,
+            "Good knowledge about all types of equipment": 0.2111,
+            "Married": 0.4356,
+            "English": 0.4962,
+            "Urdu": 0.5702,
+            "Hindi": 0.6045
+        },
+        "filename": "cv (3232)_annotated.json"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "CAREER OBJECTIVE",
+        "sincerity",
+        "perfectionism",
+        "positive thinking",
+        "Intermediate (12th)",
+        "Analysis of automatic transmission",
+        "TECHNICAL SKILLS",
+        "Auto CAD",
+        "Milling",
+        "Planing",
+        "Heat treatment",
+        "CNC Machines"
+    ],
+    "professional_info": {
+        "person name": [
+            "ANIL KUMAR",
+            "I",
+            "Fresher",
+            "Mr. Uday vir singh",
+            "Mrs. Shri Devi",
+            "Male"
+        ],
+        "job title": [
+            "job",
+            "PROJECT TITLE"
+        ],
+        "company": [],
+        "university": [
+            "Uttar Pradesh Technical",
+            "University",
+            "U.P Board",
+            "Indian"
+        ],
+        "degree": [
+            "Bachelor of Technology in Mechanical Engineering"
+        ],
+        "years of experience": [
+            "EXPERIENCE",
+            "married"
+        ],
+        "address": [
+            "Village   – Paigambarpur",
+            "Post      -- Satawara",
+            "Tehsil    -- Debai",
+            "Pin Code -202392",
+            "Mob.",
+            "08954537801"
+        ],
+        "email": [
+            "Email",
+            "rishvaanil@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "CAREER OBJECTIVE": 0.1731,
+            "sincerity": 0.3337,
+            "perfectionism": 0.2787,
+            "positive thinking": 0.2842,
+            "Intermediate (12th)": 0.1591,
+            "Analysis of automatic transmission": 0.4339,
+            "TECHNICAL SKILLS": 0.3239,
+            "Auto CAD": 0.504,
+            "Milling": 0.1665,
+            "Planing": 0.2988,
+            "Heat treatment": 0.4557,
+            "CNC Machines": 0.5521
+        },
+        "filename": "cv (733)_annotated.json"
+    }
+}

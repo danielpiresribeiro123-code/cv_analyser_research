@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "03619989",
+        "Marital Status",
+        "01882760",
+        "Arabic",
+        "English",
+        "Hindi",
+        "Work Experience"
+    ],
+    "professional_info": {
+        "person name": [
+            "Majid Juma Khamis Hamd Al-Badri",
+            "Omani"
+        ],
+        "job title": [
+            "Single",
+            "Education Qualification",
+            "10th",
+            "12th",
+            "Accounts Assistant"
+        ],
+        "company": [
+            "School",
+            "Mezoon International Travel &, Tours LLC"
+        ],
+        "university": [
+            "Sultan Bin Ahmed",
+            "Ruwi Secondary"
+        ],
+        "degree": [],
+        "years of experience": [
+            "06th December 1988"
+        ],
+        "address": [
+            "Permanent Address",
+            "Muttrah, Az Zabadiya"
+        ],
+        "email": [],
+        "phone": [
+            "Mobile",
+            "92261258"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "03619989": 0.1664,
+            "Marital Status": 0.3096,
+            "01882760": 0.159,
+            "Arabic": 0.9412,
+            "English": 0.9259,
+            "Hindi": 0.8758,
+            "Work Experience": 0.2674
+        },
+        "filename": "cv (1174)_annotated.json"
+    }
+}

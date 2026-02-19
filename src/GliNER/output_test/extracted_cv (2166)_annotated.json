@@ -1,0 +1,111 @@
+{
+    "skills": [
+        "Engineering",
+        "skills",
+        "leadership qualities",
+        "English",
+        "Electronics dice",
+        "Farm Bot",
+        "TECHNICAL SKILLS",
+        "Programming skills",
+        "Basic knowledge",
+        "C",
+        "Verilog",
+        "HDL",
+        "Matlab",
+        "Multisim",
+        "Fritzing",
+        "Microsoft O ffice Word",
+        "Microsoft O ffice power point",
+        "Keil Software",
+        "Cadence",
+        "Proteus",
+        "Circuit design",
+        "8086 Micro Processor",
+        "8051 Micro Controller",
+        "Windows",
+        "Linux",
+        "Good team player",
+        "Good comm and over language",
+        "Effective time management capability",
+        "Ability to work hard and learn new skills",
+        "PERSONAL DETAILS",
+        "Kannada",
+        "Hindi"
+    ],
+    "professional_info": {
+        "person name": [
+            "Sheikh Sharoon"
+        ],
+        "job title": [],
+        "company": [
+            "Board",
+            "Xilinx"
+        ],
+        "university": [
+            "University",
+            "St. Joseph",
+            "II PUC     St. Aloysius",
+            "Pre-University",
+            "SSLC",
+            "St. Joseph Engineering College"
+        ],
+        "degree": [
+            "BE(ECE)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Ahmed Nagar",
+            "Post Pejavara",
+            "Via Bajpe",
+            "Kodialbail",
+            "Medium School",
+            "Operating System"
+        ],
+        "email": [
+            "Email",
+            "sheikhsharoon @gmail.com",
+            "Board  2013",
+            "Indian"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 32,
+        "confidence_scores": {
+            "Engineering": 0.31,
+            "skills": 0.1753,
+            "leadership qualities": 0.2811,
+            "English": 0.6591,
+            "Electronics dice": 0.1563,
+            "Farm Bot": 0.1647,
+            "TECHNICAL SKILLS": 0.2765,
+            "Programming skills": 0.3631,
+            "Basic knowledge": 0.1609,
+            "C": 0.7885,
+            "Verilog": 0.9016,
+            "HDL": 0.8439,
+            "Matlab": 0.3682,
+            "Multisim": 0.5159,
+            "Fritzing": 0.5821,
+            "Microsoft O ffice Word": 0.4269,
+            "Microsoft O ffice power point": 0.3209,
+            "Keil Software": 0.6311,
+            "Cadence": 0.2029,
+            "Proteus": 0.5127,
+            "Circuit design": 0.2288,
+            "8086 Micro Processor": 0.2673,
+            "8051 Micro Controller": 0.2488,
+            "Windows": 0.9455,
+            "Linux": 0.9503,
+            "Good team player": 0.2924,
+            "Good comm and over language": 0.1811,
+            "Effective time management capability": 0.2669,
+            "Ability to work hard and learn new skills": 0.1527,
+            "PERSONAL DETAILS": 0.2532,
+            "Kannada": 0.726,
+            "Hindi": 0.7108
+        },
+        "filename": "cv (2166)_annotated.json"
+    }
+}

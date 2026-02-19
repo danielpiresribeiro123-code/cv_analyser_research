@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "Exceptional communicative and interpersonal skills",
+        "well developed personal",
+        "interaction",
+        "Good in organizing and delivering classroom lectures to students",
+        "classroom management",
+        "PERSONAL QUALITIES",
+        "Good listening skills",
+        "Planning and organizational skills",
+        "Patience",
+        "TECHNICAL SKILLS",
+        "Computer",
+        "Ms- Office.",
+        "Typewriting",
+        "Tamil",
+        "English",
+        "STRENGTHS",
+        "Highly optimistic",
+        "Happy and satisfied when I achieve my target and appreciation for goal",
+        "Female",
+        "Unmarried"
+    ],
+    "professional_info": {
+        "person name": [
+            "S. JEYALAKSHMI",
+            "L. SHANMUGAM"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "Municipal Girls’ Higher Secondary School",
+            "Annai Hajira Womens’ College",
+            "The M.D.T. Hindu College",
+            "Manonmaniam Sundaranar University"
+        ],
+        "degree": [
+            "B.Sc.",
+            "M.Sc.",
+            "B.Ed.",
+            "M.Ed."
+        ],
+        "years of experience": [],
+        "address": [
+            "90, Vembadi Street"
+        ],
+        "email": [
+            "Mob: 9944720374",
+            "E-mail",
+            "jeya.19.3@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Exceptional communicative and interpersonal skills": 0.5019,
+            "well developed personal": 0.2103,
+            "interaction": 0.2281,
+            "Good in organizing and delivering classroom lectures to students": 0.1993,
+            "classroom management": 0.683,
+            "PERSONAL QUALITIES": 0.3811,
+            "Good listening skills": 0.6022,
+            "Planning and organizational skills": 0.4256,
+            "Patience": 0.5177,
+            "TECHNICAL SKILLS": 0.3696,
+            "Computer": 0.1693,
+            "Ms- Office.": 0.3224,
+            "Typewriting": 0.1875,
+            "Tamil": 0.9083,
+            "English": 0.9372,
+            "STRENGTHS": 0.2308,
+            "Highly optimistic": 0.4534,
+            "Happy and satisfied when I achieve my target and appreciation for goal": 0.223,
+            "Female": 0.2127,
+            "Unmarried": 0.337
+        },
+        "filename": "cv (1488)_annotated.json"
+    }
+}

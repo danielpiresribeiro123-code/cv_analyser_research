@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "Teen Vogue",
+        "Be Cool"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mia Morgan",
+            "Alejandro Fernandez",
+            "Amanda Hearst",
+            "Angie Harmon",
+            "Anne Hearst",
+            "Betsy Brandt",
+            "Denis Leary",
+            "Kim Raver",
+            "Lydia Hearst",
+            "Mary-Kate Olsen",
+            "Padma Lakshmi",
+            "Vanessa Ferlito",
+            "Vanessa Williams",
+            "Alexei Hay",
+            "Andrew Eccles",
+            "Art Streiber"
+        ],
+        "job title": [],
+        "company": [
+            "American Express",
+            "AT&T",
+            "Barclays Bank",
+            "Bloomingdales",
+            "BMW",
+            "CBS Century 21",
+            "Citibank",
+            "Dooney & Bourke",
+            "HBO",
+            "IBM",
+            "JCPenney",
+            "Jergens",
+            "Liz Claiborne",
+            "Macy’s",
+            "Marshall Fields",
+            "MGM",
+            "NBC",
+            "Neiman Marcus",
+            "Sony Music",
+            "VH-1",
+            "WB",
+            "Oil of Olay"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "2632  La Cienega Avenue",
+            "90034"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "Teen Vogue": 0.1509,
+            "Be Cool": 0.1674
+        },
+        "filename": "cv (877)_annotated.json"
+    }
+}

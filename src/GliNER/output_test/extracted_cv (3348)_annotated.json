@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "MALE",
+        "ENGLISH",
+        "HINDI",
+        "EDUCATION",
+        "EDUCATION",
+        "TECHNICAL EDUCATION",
+        "DIPLOMA IN",
+        "ENGINEERING  BTER"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAJESH MEENA",
+            "MANILAL JI",
+            "KUSHAL MANGRI"
+        ],
+        "job title": [],
+        "company": [
+            "CIVIL"
+        ],
+        "university": [
+            "UNIVERSITY",
+            "10th RBSE",
+            "AJMER  I 64.83",
+            "12th MPSOS",
+            "BHOPAL  I 71.4"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "POST BILDI",
+            "DIST DUNGARPUR  314001",
+            "JODHPUR  RUNNING"
+        ],
+        "email": [],
+        "phone": [
+            "MOBILE NO",
+            "9057922029"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "MALE": 0.1704,
+            "ENGLISH": 0.8814,
+            "HINDI": 0.8686,
+            "EDUCATION": 0.1701,
+            "TECHNICAL EDUCATION": 0.3562,
+            "DIPLOMA IN": 0.7371,
+            "ENGINEERING  BTER": 0.3619
+        },
+        "filename": "cv (3348)_annotated.json"
+    }
+}

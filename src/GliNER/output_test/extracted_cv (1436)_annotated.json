@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "Bachelor’s Degree",
+        "Finance and Banking",
+        "Oman Securities Market Regulations",
+        "Global Financial Compliance",
+        "CFA level 3",
+        "financial  management",
+        "financial  analysis",
+        "corporate finance",
+        "allied proficiency",
+        "administration",
+        "Compliance",
+        "Internal Audit",
+        "AML/CFT",
+        "Listing",
+        "corporate governance",
+        "Due Diligence",
+        "Risk Management",
+        "Financial instruments",
+        "asset  management",
+        "accounting",
+        "AML",
+        "expense controls"
+    ],
+    "professional_info": {
+        "person name": [
+            "Abdullatif A. Shehadeh",
+            "General Manager"
+        ],
+        "job title": [
+            "Financial professional",
+            "Head of Compliance Division",
+            "CEO",
+            "Money laundering reporting officer",
+            "MLRO",
+            "General Manager",
+            "Senior Compliance Officer/ Internal Auditor"
+        ],
+        "company": [
+            "National Securities Company S.A.O.G",
+            "National Portfolio Securities Company P.L.C."
+        ],
+        "university": [
+            "Yarmouk University"
+        ],
+        "degree": [],
+        "years of experience": [
+            "Excellent"
+        ],
+        "address": [],
+        "email": [
+            "E-mail",
+            "hotmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "Phone",
+            "968 91410553"
+        ]
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Bachelor’s Degree": 0.7145,
+            "Finance and Banking": 0.1856,
+            "Oman Securities Market Regulations": 0.1623,
+            "Global Financial Compliance": 0.3722,
+            "CFA level 3": 0.4191,
+            "financial  management": 0.3629,
+            "financial  analysis": 0.4886,
+            "corporate finance": 0.5376,
+            "allied proficiency": 0.329,
+            "administration": 0.2811,
+            "Compliance": 0.3181,
+            "Internal Audit": 0.3497,
+            "AML/CFT": 0.5012,
+            "Listing": 0.2923,
+            "corporate governance": 0.4187,
+            "Due Diligence": 0.3973,
+            "Risk Management": 0.465,
+            "Financial instruments": 0.2709,
+            "asset  management": 0.1722,
+            "accounting": 0.1512,
+            "AML": 0.2072,
+            "expense controls": 0.1537
+        },
+        "filename": "cv (1436)_annotated.json"
+    }
+}

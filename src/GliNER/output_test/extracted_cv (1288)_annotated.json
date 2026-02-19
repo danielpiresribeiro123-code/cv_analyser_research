@@ -1,0 +1,95 @@
+{
+    "skills": [
+        "Hard  work",
+        "team  spirit",
+        "Bachelors of Commerce (Actuarial Science)",
+        "Second Class Honors -  Upper  Division",
+        "Lugulu Boys Primary Kenya Certificate of Primary  Education",
+        "K.C.P.E",
+        "Excellent  written  and  verbal  communication",
+        "Proficient",
+        "Microsoft  office",
+        "Word",
+        "PowerPoint",
+        "Excel",
+        "data  collection",
+        "CAPI",
+        "Accounting",
+        "Strong  leadership  skills",
+        "able  to  prioritize",
+        "PERSONAL  ATTRIBUTES",
+        "creative  mind",
+        "excellent  problem  solving  skills",
+        "Flexible",
+        "Motivated",
+        "persuasive",
+        "goal  oriented",
+        "Attention to  details",
+        "Team - player",
+        "Mathematics  and Business  Studies"
+    ],
+    "professional_info": {
+        "person name": [
+            "HENRY MUHUCHANI"
+        ],
+        "job title": [
+            "Production Supervisor"
+        ],
+        "company": [
+            "Bungoma  High School",
+            "KNBS",
+            "Stanmore High School",
+            "Bungoma  High  School",
+            "Faulu Flour Mills"
+        ],
+        "university": [
+            "Kenyatta  University"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Webuye"
+        ],
+        "email": [
+            "EMAIL",
+            "muhuchanihenry@gmail.com"
+        ],
+        "phone": [
+            "MOBILE PHONE",
+            "+254701770487"
+        ]
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "Hard  work": 0.1639,
+            "team  spirit": 0.1545,
+            "Bachelors of Commerce (Actuarial Science)": 0.2549,
+            "Second Class Honors -  Upper  Division": 0.4699,
+            "Lugulu Boys Primary Kenya Certificate of Primary  Education": 0.4088,
+            "K.C.P.E": 0.2679,
+            "Excellent  written  and  verbal  communication": 0.3044,
+            "Proficient": 0.1809,
+            "Microsoft  office": 0.7055,
+            "Word": 0.3333,
+            "PowerPoint": 0.4336,
+            "Excel": 0.4177,
+            "data  collection": 0.2341,
+            "CAPI": 0.5471,
+            "Accounting": 0.1828,
+            "Strong  leadership  skills": 0.4769,
+            "able  to  prioritize": 0.2118,
+            "PERSONAL  ATTRIBUTES": 0.3543,
+            "creative  mind": 0.4301,
+            "excellent  problem  solving  skills": 0.3893,
+            "Flexible": 0.4003,
+            "Motivated": 0.5445,
+            "persuasive": 0.4239,
+            "goal  oriented": 0.448,
+            "Attention to  details": 0.3895,
+            "Team - player": 0.7083,
+            "Mathematics  and Business  Studies": 0.1969
+        },
+        "filename": "cv (1288)_annotated.json"
+    }
+}

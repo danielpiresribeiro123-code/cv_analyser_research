@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "sales",
+        "marketing",
+        "technical professionals",
+        "database",
+        "Cold calling",
+        "Outdoor sales",
+        "Lead generation",
+        "Gcg international Event management",
+        "promotion and marketing of new products",
+        "market research",
+        "inventory management",
+        "customer service",
+        "Extensive knowledge of electronic products",
+        "inventory management",
+        "politely but firmly",
+        "Inventory and pricing control",
+        "customer data"
+    ],
+    "professional_info": {
+        "person name": [
+            "Shahriar Saaed Niazi"
+        ],
+        "job title": [
+            "sales executive",
+            "business development",
+            "Team leading promoters",
+            "team member",
+            "sales promoter/supervisor"
+        ],
+        "company": [
+            "reputed company",
+            "sme’s",
+            "Samsung",
+            "Gitex",
+            "Tv/Av",
+            "Seven Seas rent a car"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Dubai",
+            "u.a.e."
+        ],
+        "email": [
+            "Shahriar_kniazi@yahoo.com"
+        ],
+        "phone": [
+            "+971502078992",
+            "+923345912599"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "sales": 0.2229,
+            "marketing": 0.1516,
+            "technical professionals": 0.1548,
+            "database": 0.5683,
+            "Cold calling": 0.1806,
+            "Outdoor sales": 0.376,
+            "Lead generation": 0.3189,
+            "Gcg international Event management": 0.2256,
+            "promotion and marketing of new products": 0.1708,
+            "market research": 0.3185,
+            "inventory management": 0.2039,
+            "customer service": 0.177,
+            "Extensive knowledge of electronic products": 0.2149,
+            "politely but firmly": 0.1963,
+            "Inventory and pricing control": 0.327,
+            "customer data": 0.2089
+        },
+        "filename": "cv (2290)_annotated.json"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "BHARAT SONI",
+        "Telecommunication",
+        "Digital electronics  laboratory",
+        "Water Level Indicator",
+        "LED board",
+        "Water Sensor (Conducting Wires)",
+        "Water Beaker",
+        "Resistor",
+        "C",
+        "Linux",
+        "Windows",
+        "Spice tools",
+        "VLSI"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Learner"
+        ],
+        "company": [],
+        "university": [
+            "Mahakal   Institute of Technology & science",
+            "RGPV",
+            "HSSC (12th)Board of secondary education M.P.",
+            "Prasar  Bharati  Doordarshan  Center"
+        ],
+        "degree": [
+            "BE",
+            "HSC  (10th)Board of secondary education M.P.",
+            "Simulink",
+            "MATLAB"
+        ],
+        "years of experience": [
+            "2014"
+        ],
+        "address": [
+            "Goldan shop street nagarkot ujjain",
+            "Internet Surfing"
+        ],
+        "email": [
+            "ak287824@gmail.com",
+            "9575843361"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "BHARAT SONI": 0.1564,
+            "Telecommunication": 0.1886,
+            "Digital electronics  laboratory": 0.1911,
+            "Water Level Indicator": 0.2399,
+            "LED board": 0.2018,
+            "Water Sensor (Conducting Wires)": 0.2123,
+            "Water Beaker": 0.1808,
+            "Resistor": 0.1701,
+            "C": 0.7086,
+            "Linux": 0.9387,
+            "Windows": 0.9319,
+            "Spice tools": 0.6175,
+            "VLSI": 0.407
+        },
+        "filename": "cv (270)_annotated.json"
+    }
+}

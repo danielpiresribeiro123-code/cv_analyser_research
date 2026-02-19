@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "DIPLOMA IN CIVIL ENGINEERING",
+        "QMS",
+        "PQP",
+        "EHS standard"
+    ],
+    "professional_info": {
+        "person name": [
+            "M, OHAMMAD SADDAM"
+        ],
+        "job title": [
+            "Civil Engineering",
+            "client  representative",
+            "Interior  Design  team",
+            "Sub-contractors",
+            "Junior Engineer"
+        ],
+        "company": [
+            "HSBTE (HARYANA)",
+            "ITC SONAR Kolkata Project II",
+            "Client",
+            "ITC LIMITED-Hotel Division",
+            "L&T Construction",
+            "Factories IC",
+            "M/S. Ishita",
+            "Construction",
+            "Raheja Developers Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "3.5 Years"
+        ],
+        "address": [
+            "Sector-92 Gurgaon"
+        ],
+        "email": [
+            "Email",
+            "saddamact@gmail.com"
+        ],
+        "phone": [
+            "+91-9681383089",
+            "8582955744"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "DIPLOMA IN CIVIL ENGINEERING": 0.4972,
+            "QMS": 0.5187,
+            "PQP": 0.6576,
+            "EHS standard": 0.401
+        },
+        "filename": "cv (4044)_annotated.json"
+    }
+}

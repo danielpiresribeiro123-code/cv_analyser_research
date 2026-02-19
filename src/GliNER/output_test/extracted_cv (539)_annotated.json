@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "Male",
+        "Unmarried",
+        "Objective",
+        "NEBOSH IGC Certification",
+        "Good Knowledge of Computer",
+        "MS Office & Internet"
+    ],
+    "professional_info": {
+        "person name": [
+            "NADIM AHMAD",
+            "S Safiullah"
+        ],
+        "job title": [
+            "Indian",
+            "SAFETY OFFICER"
+        ],
+        "company": [
+            "NILEM",
+            "Green World Group",
+            "B.S.E Board Bihar",
+            "El Seif Engineering & Contracting Co.",
+            "Doha Petroleum",
+            "Qatar Petroleum NGL-1",
+            "Shutdown maintenance",
+            "Shah Construction Company Pvt. Ltd."
+        ],
+        "university": [
+            "JNU",
+            "SMU"
+        ],
+        "degree": [
+            "One Year Diploma in Industrial Safety",
+            "HABC Fire Safety",
+            "Master  Of  Business  Administration",
+            "M.B.A  in  H.R",
+            "Bachelor Of Business Administration",
+            "B.B.A",
+            "Intermediate (10+2)",
+            "Matriculation (10th)"
+        ],
+        "years of experience": [
+            "Total experience",
+            "5.5 Years",
+            "3 Years & 6 Months",
+            "June 2010"
+        ],
+        "address": [
+            "1Permanent Address"
+        ],
+        "email": [
+            "Email",
+            "nadim1992@gmail.com"
+        ],
+        "phone": [
+            "Mobile No",
+            "+91-9004978128",
+            "+91-9708246327",
+            "2013"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Male": 0.2938,
+            "Unmarried": 0.3142,
+            "Objective": 0.1856,
+            "NEBOSH IGC Certification": 0.8525,
+            "Good Knowledge of Computer": 0.2646,
+            "MS Office & Internet": 0.3053
+        },
+        "filename": "cv (539)_annotated.json"
+    }
+}

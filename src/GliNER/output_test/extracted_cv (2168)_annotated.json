@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "INSTITUTION  BOARD  COMPLETION",
+        "Execution. Testing",
+        "Sound experience",
+        "applications of Fire Protection",
+        "Hands on experience",
+        "Pipeline  fabrication",
+        "Hose system",
+        "highly passionate",
+        "goal oriented",
+        "team player",
+        "ability to work under pressure",
+        "Fire Alarm System",
+        "Automatic Sprin kler System",
+        "Internal Hydrant ring"
+    ],
+    "professional_info": {
+        "person name": [
+            "MUTTHALAGAN"
+        ],
+        "job title": [
+            "responsible position",
+            "result oriented engineering professional",
+            "Project Engineer"
+        ],
+        "company": [
+            "METEC",
+            "DESIGN AND CONSTRUCTION ENGINEERS INDIA PVT LTD"
+        ],
+        "university": [
+            "B.E Pollachi institute of",
+            "University",
+            "ENGINEERING  Technology",
+            "Subramaniya Desiga  State board",
+            "Swamigal Heigher Sec",
+            "Swamigal Higher Sec"
+        ],
+        "degree": [],
+        "years of experience": [
+            "2 year of experience"
+        ],
+        "address": [
+            "46j/117",
+            "Sannathi Street"
+        ],
+        "email": [
+            "Email ID",
+            "muthalagan222@gmail.com"
+        ],
+        "phone": [
+            "Tamilnadu  Mobile No"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "INSTITUTION  BOARD  COMPLETION": 0.2011,
+            "Execution. Testing": 0.1735,
+            "Sound experience": 0.1626,
+            "applications of Fire Protection": 0.1916,
+            "Hands on experience": 0.2179,
+            "Pipeline  fabrication": 0.2665,
+            "Hose system": 0.166,
+            "highly passionate": 0.255,
+            "goal oriented": 0.3365,
+            "team player": 0.4023,
+            "ability to work under pressure": 0.2319,
+            "Fire Alarm System": 0.2508,
+            "Automatic Sprin kler System": 0.1696,
+            "Internal Hydrant ring": 0.2034
+        },
+        "filename": "cv (2168)_annotated.json"
+    }
+}

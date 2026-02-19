@@ -1,0 +1,66 @@
+{
+    "skills": [
+        "skills",
+        "zeal of knowledge",
+        "technical  skills",
+        "Revenue  generation",
+        "Profitability",
+        "customer database",
+        "Systematic approach",
+        "quick adaptability to new technologies",
+        "Conceptual Knowledge",
+        "CRM & MM Module",
+        "Ability to work with and motivate team",
+        "Wind Energy Business",
+        "world-class expertise"
+    ],
+    "professional_info": {
+        "person name": [
+            "Maruthi  NyasavajhalaMaruthi  Nyasavajhala"
+        ],
+        "job title": [
+            "Business Development / Sales & Marketing",
+            "Professional",
+            "Key member of sales team",
+            "Sr. Executive"
+        ],
+        "company": [
+            "SAP",
+            "Suzlon Energy Ltd.",
+            "Suzlon Group",
+            "Suzlon",
+            "Senvion SE"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "7 years"
+        ],
+        "address": [
+            "Plot No.11",
+            "Flat No.2 Bhagyalakshmi residency Balaji Hills",
+            "Uppal Secunderabad"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "skills": 0.1652,
+            "zeal of knowledge": 0.1614,
+            "technical  skills": 0.4493,
+            "Revenue  generation": 0.1837,
+            "Profitability": 0.1568,
+            "customer database": 0.65,
+            "Systematic approach": 0.1885,
+            "quick adaptability to new technologies": 0.1636,
+            "Conceptual Knowledge": 0.4358,
+            "CRM & MM Module": 0.5568,
+            "Ability to work with and motivate team": 0.1529,
+            "Wind Energy Business": 0.3263,
+            "world-class expertise": 0.448
+        },
+        "filename": "cv (1482)_annotated.json"
+    }
+}

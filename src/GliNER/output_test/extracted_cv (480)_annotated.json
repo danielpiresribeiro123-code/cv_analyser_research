@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "PERSONAL EXPERIENCE",
+        "PERSONAL BACKGROUND",
+        "Sex",
+        "Male",
+        "Marital Status",
+        "Married",
+        "Basic computer knowledge",
+        "English",
+        "Hindi",
+        "Urdu"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMAD JAMSHED",
+            "MOHAMMED JAMSHED"
+        ],
+        "job title": [
+            "STORE KEEPER",
+            "J1198564"
+        ],
+        "company": [
+            "AIRTEL",
+            "JIO",
+            "Qatar Technical aluminum company"
+        ],
+        "university": [],
+        "degree": [
+            "Intermediate"
+        ],
+        "years of experience": [
+            "3 year Experience"
+        ],
+        "address": [
+            "INDER ENCLAVE PHASE-1",
+            "KIRARI SULEMAN NAGAR",
+            "NORTH",
+            "WEST DELHI - 110086"
+        ],
+        "email": [
+            "Email",
+            "mohdjamshed.786jems@gmail.com"
+        ],
+        "phone": [
+            "MOBILE",
+            "+91 8802876921",
+            "+917992204995"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "PERSONAL EXPERIENCE": 0.2686,
+            "PERSONAL BACKGROUND": 0.3433,
+            "Sex": 0.162,
+            "Male": 0.4016,
+            "Marital Status": 0.2282,
+            "Married": 0.3913,
+            "Basic computer knowledge": 0.3597,
+            "English": 0.8831,
+            "Hindi": 0.9136,
+            "Urdu": 0.9166
+        },
+        "filename": "cv (480)_annotated.json"
+    }
+}

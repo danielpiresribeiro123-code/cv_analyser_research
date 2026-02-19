@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "skills",
+        "optimum manner",
+        "interpersonal skills",
+        "Academic Qualifications",
+        "BCOM(ACCOUNTING)",
+        "GHSEB",
+        "Computer skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mr. Chitrak Sawadiyawala"
+        ],
+        "job title": [
+            "professional"
+        ],
+        "company": [
+            "Shree Sai Jalaram Society",
+            "organization"
+        ],
+        "university": [
+            "R Luthra Institute of Management",
+            "GSEB"
+        ],
+        "degree": [
+            "MBA"
+        ],
+        "years of experience": [],
+        "address": [
+            "Address",
+            "C/4",
+            "Chandradeep Society",
+            "Udhna Surat"
+        ],
+        "email": [
+            "Email",
+            "Csawadiyawala@gmail.com",
+            "Mob"
+        ],
+        "phone": [
+            "+91-8238270655"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "skills": 0.2127,
+            "optimum manner": 0.2893,
+            "interpersonal skills": 0.4419,
+            "Academic Qualifications": 0.2097,
+            "BCOM(ACCOUNTING)": 0.2342,
+            "GHSEB": 0.185,
+            "Computer skills": 0.5083
+        },
+        "filename": "cv (375)_annotated.json"
+    }
+}

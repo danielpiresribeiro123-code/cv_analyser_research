@@ -1,0 +1,101 @@
+{
+    "skills": [
+        "GRE",
+        "Data Mining and Statistical Learning",
+        "Bayesian Data Analysis",
+        "Time Series",
+        "Regression",
+        "Data Base System",
+        "SAS",
+        "Statistical Computing and Graphics",
+        "Quantitative Finance",
+        "Energy Economics",
+        "Econometrics",
+        "Real Analysis",
+        "Linear/Abstract Algebra",
+        "Probability Theory",
+        "Stochastic Proc ess",
+        "O/PDEs",
+        "R",
+        "SAS",
+        "MySQL",
+        "Python",
+        "MATLAB",
+        "C++",
+        "Unix shell",
+        "Professional Platforms",
+        "VBA",
+        "Access",
+        "winding number computing",
+        "Monte Carlo simulations",
+        "r ecommendation system"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "applied statistician",
+            "Syndicated Loan Data Analyst",
+            "Quantitative Analyst",
+            "Research Assistant",
+            "Dr. Tomas Kennedy"
+        ],
+        "company": [
+            "Microsoft",
+            "Bloomberg",
+            "FactSet",
+            "Wharton Data Research Services (WDRS)",
+            "Virtus Partners",
+            "China Investment Corporation (CIC)",
+            "CIC"
+        ],
+        "university": [
+            "Rice University",
+            "University of Arizona"
+        ],
+        "degree": [
+            "Master in Statistics",
+            "Graduate in May",
+            "B.S in Mathematics"
+        ],
+        "years of experience": [],
+        "address": [
+            "Houston"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 29,
+        "confidence_scores": {
+            "GRE": 0.7818,
+            "Data Mining and Statistical Learning": 0.4981,
+            "Bayesian Data Analysis": 0.5242,
+            "Time Series": 0.3523,
+            "Regression": 0.3398,
+            "Data Base System": 0.5065,
+            "SAS": 0.2964,
+            "Statistical Computing and Graphics": 0.349,
+            "Quantitative Finance": 0.396,
+            "Energy Economics": 0.4334,
+            "Econometrics": 0.4683,
+            "Real Analysis": 0.4855,
+            "Linear/Abstract Algebra": 0.3579,
+            "Probability Theory": 0.4693,
+            "Stochastic Proc ess": 0.3709,
+            "O/PDEs": 0.3173,
+            "R": 0.6548,
+            "MySQL": 0.3832,
+            "Python": 0.7127,
+            "MATLAB": 0.5956,
+            "C++": 0.6326,
+            "Unix shell": 0.4726,
+            "Professional Platforms": 0.1789,
+            "VBA": 0.2504,
+            "Access": 0.2893,
+            "winding number computing": 0.3789,
+            "Monte Carlo simulations": 0.1553,
+            "r ecommendation system": 0.1884
+        },
+        "filename": "cv (852)_annotated.json"
+    }
+}

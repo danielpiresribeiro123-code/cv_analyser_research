@@ -1,0 +1,53 @@
+{
+    "skills": [
+        "PERSONAL DETAILS",
+        "English",
+        "Telugu",
+        "Tamil",
+        "Hind i",
+        "Licensure"
+    ],
+    "professional_info": {
+        "person name": [
+            "Srikanth Reddy Dumpa"
+        ],
+        "job title": [],
+        "company": [],
+        "university": [
+            "FNB"
+        ],
+        "degree": [
+            "MBBS",
+            "M.S (Orth)"
+        ],
+        "years of experience": [],
+        "address": [
+            "D.No. 25 -16-299",
+            "Adarsh Nagar",
+            "Nallapadu Road",
+            "Guntur – 522005"
+        ],
+        "email": [
+            "E-mail",
+            "srikanthreddy.dr @gmail.com"
+        ],
+        "phone": [
+            "Telephon e",
+            "Mobile",
+            "+91-9885049133",
+            "+91-9597400472"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "PERSONAL DETAILS": 0.1606,
+            "English": 0.906,
+            "Telugu": 0.9087,
+            "Tamil": 0.8949,
+            "Hind i": 0.4478,
+            "Licensure": 0.4314
+        },
+        "filename": "cv (939)_annotated.json"
+    }
+}

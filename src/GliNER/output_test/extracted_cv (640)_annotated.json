@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "OBJECTIVE",
+        "Skills",
+        "sense of dedication",
+        "WORK EXPERIENCE",
+        "FIELD OF INTERESTS",
+        "ELECTRICAL WORK",
+        "HOBBIES",
+        "CRICKET&MUSIC"
+    ],
+    "professional_info": {
+        "person name": [
+            "DEEPAK KUMAR RAJENDRA ASARI",
+            "Aditya Rawal"
+        ],
+        "job title": [
+            "ITI ELECTRICIAN",
+            "ITI ELECTRICIAN APPRENTICESHIP",
+            "ELECTRICIAN MAINTENANCE WORK",
+            "ELECTRICIAN TECHNICIAN",
+            "MAINTENANCE WORK OF ELECTRICIAN WORK",
+            "METER READER",
+            "METER READING WORK",
+            "Computer operator"
+        ],
+        "company": [
+            "S. S. C",
+            "GUJARAT SECONDARY EDUCATION BOARD",
+            "H.S.C",
+            "NATIONAL COUNCIL VOCATIONAL, TRAINING INSTITUTE",
+            "NATIONAL COUNCIL, VOCATIONAL TRAINING INSTITUTE",
+            "SAINT GOBAIN GLASS INDIA LIMITED",
+            "LUPIN LIMITED C/O (A. R. STEEL FABRICATION",
+            "COLGATE PALMOLIVE INDIA LIMITED",
+            "DAKSHIN GUJARAT VIJ COMPANY LIMITED",
+            "INFOSOFT",
+            "DATA INDIA PVT LIMITED"
+        ],
+        "university": [
+            "GUJARAT HIGHER SECONDARY EDUCATION BIARD"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "103-GIRNAR SOCIETY  RAJPIPLA ROAD",
+            "393002",
+            "dcx"
+        ],
+        "email": [
+            "jannatdeep1989@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "9726713342.9033162410"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "OBJECTIVE": 0.1748,
+            "Skills": 0.4399,
+            "sense of dedication": 0.2726,
+            "WORK EXPERIENCE": 0.2404,
+            "FIELD OF INTERESTS": 0.3696,
+            "ELECTRICAL WORK": 0.3824,
+            "HOBBIES": 0.3249,
+            "CRICKET&MUSIC": 0.2325
+        },
+        "filename": "cv (640)_annotated.json"
+    }
+}

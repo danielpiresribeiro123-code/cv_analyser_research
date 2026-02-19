@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "resourceful",
+        "innovate and flexible",
+        "Mecha nical Engineering",
+        "MEP construction",
+        "Strong proficiency",
+        "implementation  and problem analysis",
+        "Innovative and resourceful fresher",
+        "Mechanical engineering",
+        "Problem solving skills",
+        "analytical skills",
+        "Excellent written and communica tion skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "THOUFICK AHAMED"
+        ],
+        "job title": [
+            "MECHANICAL ENGINEER",
+            "Hvac site Engineer",
+            "Mechanical Site Engineer"
+        ],
+        "company": [
+            "M/s FROST Air Engineering (Blue Star)",
+            "Royal Enfield",
+            "ICICI BANK",
+            "main contractor"
+        ],
+        "university": [],
+        "degree": [
+            "Bachelor’s  Degree",
+            "Bachelor of Engineering degree"
+        ],
+        "years of experience": [
+            "1 year of work Experience"
+        ],
+        "address": [
+            "Oragadam",
+            "Phoenix Shopping mall",
+            "Velachery"
+        ],
+        "email": [
+            "Email",
+            "thoufick06ahamed @gmail.com",
+            "Ph. no"
+        ],
+        "phone": [
+            "+971 544727801",
+            "+9 1 9629450403"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "resourceful": 0.1702,
+            "innovate and flexible": 0.1617,
+            "Mecha nical Engineering": 0.2469,
+            "MEP construction": 0.5103,
+            "Strong proficiency": 0.2243,
+            "implementation  and problem analysis": 0.3824,
+            "Innovative and resourceful fresher": 0.2037,
+            "Mechanical engineering": 0.5188,
+            "Problem solving skills": 0.4664,
+            "analytical skills": 0.499,
+            "Excellent written and communica tion skills": 0.2368
+        },
+        "filename": "cv (557)_annotated.json"
+    }
+}

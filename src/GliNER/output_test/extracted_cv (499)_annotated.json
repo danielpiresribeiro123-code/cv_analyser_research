@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "knowledge",
+        "skills",
+        "PROFESSIONAL QUALIFICATION",
+        "ACADEMIC QUALIFICATION",
+        "Qualification Board Percentage Passing year",
+        "Study of Welding",
+        "ISO 9001:2008",
+        "fabrication and assembly methodology",
+        "manufacturing methods"
+    ],
+    "professional_info": {
+        "person name": [
+            "VIKALP CHAUHAN"
+        ],
+        "job title": [
+            "entry level graduate engineer",
+            "Project  Engineer"
+        ],
+        "company": [
+            "Scooters India Pvt. Ltd",
+            "BHAWANI FIRE PROTECTION PVT. LTD.",
+            "BHAWANI STEEL FABRICATORS"
+        ],
+        "university": [
+            "IET Bundelkhand University",
+            "Intermediate UP Board Allahabad",
+            "High School UP Board Allahabad"
+        ],
+        "degree": [
+            "B.Tech(Mechanical, Engineering)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Vaishali",
+            "Ghaziabad",
+            "Permanent Address",
+            "Village & Post – Hafizabad Via",
+            "Sherkot",
+            "Campus"
+        ],
+        "email": [
+            "Email",
+            "Vikalp4208@gmail.com"
+        ],
+        "phone": [
+            "+91-9412528242",
+            "+91-7053746610"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "knowledge": 0.2039,
+            "skills": 0.2074,
+            "PROFESSIONAL QUALIFICATION": 0.2579,
+            "ACADEMIC QUALIFICATION": 0.3357,
+            "Qualification Board Percentage Passing year": 0.1984,
+            "Study of Welding": 0.2983,
+            "ISO 9001:2008": 0.88,
+            "fabrication and assembly methodology": 0.8601,
+            "manufacturing methods": 0.3078
+        },
+        "filename": "cv (499)_annotated.json"
+    }
+}

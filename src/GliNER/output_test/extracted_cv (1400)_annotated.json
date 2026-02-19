@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "College of Science",
+        "MS 6A2",
+        "Astronomy",
+        "Physics",
+        "National Science Foundation Graduate Fellowship",
+        "Certi\fcate of Recognition for Service to Hubble Space Telescope Project",
+        "Astrophysics"
+    ],
+    "professional_info": {
+        "person name": [
+            "KIRK D. BORNE",
+            "kborne",
+            "James E. Gunn"
+        ],
+        "job title": [
+            "kborne",
+            "Associate Professor"
+        ],
+        "company": [
+            "Raytheon"
+        ],
+        "university": [
+            "George Mason University",
+            "Caltech",
+            "Louisiana State University",
+            "UMUC",
+            "Carnegie Institution of Washington",
+            "LSU",
+            "AAS",
+            "AGU",
+            "IAU",
+            "ISI"
+        ],
+        "degree": [
+            "Ph.D.",
+            "M.S.",
+            "B.S.",
+            "Summa Cum Laude"
+        ],
+        "years of experience": [],
+        "address": [
+            "Fairfax"
+        ],
+        "email": [
+            "E-mail"
+        ],
+        "phone": [
+            "Phone",
+            "(703) 993-8402",
+            "(703) 993-9300"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "College of Science": 0.2007,
+            "MS 6A2": 0.3834,
+            "Astronomy": 0.8756,
+            "Physics": 0.8434,
+            "National Science Foundation Graduate Fellowship": 0.1671,
+            "Certi\fcate of Recognition for Service to Hubble Space Telescope Project": 0.1738,
+            "Astrophysics": 0.4949
+        },
+        "filename": "cv (1400)_annotated.json"
+    }
+}

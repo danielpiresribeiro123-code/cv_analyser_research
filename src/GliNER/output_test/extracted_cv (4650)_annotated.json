@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "Excellent interpersonal communication",
+        "customer",
+        "office support skills",
+        "Windows/DOS",
+        "MS Office",
+        "Data Entry",
+        "Internet",
+        "Internet",
+        "Friendly & Informative",
+        "Quick to respond",
+        "Strong sense of accountability",
+        "Achieves business and individual developmental goals",
+        "Able to handle medical emergencies & technical problems",
+        "calm and professional manner",
+        "Commitment",
+        "outstanding customer service",
+        "Very flexible work ethic",
+        "State"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONCIERGE/DOORMAN",
+            "concierge",
+            "residents",
+            "Aviation Ordnanceman"
+        ],
+        "company": [
+            "Company Name",
+            "management",
+            "Navy"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City"
+        ],
+        "email": [
+            "email"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "Excellent interpersonal communication": 0.5474,
+            "customer": 0.2152,
+            "office support skills": 0.2163,
+            "Windows/DOS": 0.8348,
+            "MS Office": 0.9014,
+            "Data Entry": 0.3771,
+            "Internet": 0.1828,
+            "Friendly & Informative": 0.3918,
+            "Quick to respond": 0.6618,
+            "Strong sense of accountability": 0.7443,
+            "Achieves business and individual developmental goals": 0.1698,
+            "Able to handle medical emergencies & technical problems": 0.1571,
+            "calm and professional manner": 0.2007,
+            "Commitment": 0.3667,
+            "outstanding customer service": 0.2261,
+            "Very flexible work ethic": 0.4607,
+            "State": 0.4694
+        },
+        "filename": "cv (4650)_annotated.json"
+    }
+}

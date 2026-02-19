@@ -1,0 +1,52 @@
+{
+    "skills": [
+        "Technical and Organizational Skills",
+        "CRM"
+    ],
+    "professional_info": {
+        "person name": [
+            "PRADIPTA",
+            "KUMAR BAYEE",
+            "Current Employee",
+            "Previous Employee"
+        ],
+        "job title": [
+            "Cash Executive",
+            "ATM Channel  Manager",
+            "Customer Support Executive"
+        ],
+        "company": [
+            "Hitachi Payment Service",
+            "M/S Vendors",
+            "Franchises",
+            "First source  Solut ions Limited",
+            "AXIS Bank Credit Card"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "At",
+            "Deulasahi",
+            "Po",
+            "Olaver",
+            "Rajkanika",
+            "Kendrapara"
+        ],
+        "email": [
+            "gmail"
+        ],
+        "phone": [
+            "Cell No",
+            "+91 -9962842448"
+        ]
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "Technical and Organizational Skills": 0.3037,
+            "CRM": 0.4875
+        },
+        "filename": "cv (3170)_annotated.json"
+    }
+}

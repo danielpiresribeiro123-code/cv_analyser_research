@@ -1,0 +1,80 @@
+{
+    "skills": [
+        "SKILLS",
+        "Python",
+        "SQL",
+        "MySQL",
+        "Tableau",
+        "Power",
+        "Bi",
+        "Pandas",
+        "Numpy",
+        "Matplotlib",
+        "Excel",
+        "Machine Learning",
+        "AWS",
+        "EMR",
+        "EC2",
+        "S3",
+        "Cloud",
+        "Hive",
+        "HQL",
+        "ExcelEDUCATION",
+        "Machine LearningPROJECTS",
+        "Object Recognition"
+    ],
+    "professional_info": {
+        "person name": [
+            "JACOB SMITH",
+            "I"
+        ],
+        "job title": [
+            "F R E S H E R",
+            "Deep Learning Masters",
+            "Face",
+            "Data",
+            "Analyst",
+            "Machine Learning Engineer",
+            "Intern"
+        ],
+        "company": [],
+        "university": [
+            "ECE VIT-AP University 2020"
+        ],
+        "degree": [
+            "B. Tech"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "SKILLS": 0.1633,
+            "Python": 0.944,
+            "SQL": 0.6231,
+            "MySQL": 0.836,
+            "Tableau": 0.2769,
+            "Power": 0.3808,
+            "Bi": 0.4111,
+            "Pandas": 0.4574,
+            "Numpy": 0.3725,
+            "Matplotlib": 0.4387,
+            "Excel": 0.3136,
+            "Machine Learning": 0.5019,
+            "AWS": 0.9098,
+            "EMR": 0.751,
+            "EC2": 0.7579,
+            "S3": 0.6728,
+            "Cloud": 0.2477,
+            "Hive": 0.2736,
+            "HQL": 0.2938,
+            "ExcelEDUCATION": 0.3336,
+            "Machine LearningPROJECTS": 0.4468,
+            "Object Recognition": 0.16
+        },
+        "filename": "cv (4846)_annotated.json"
+    }
+}

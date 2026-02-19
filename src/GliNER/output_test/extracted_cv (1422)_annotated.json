@@ -1,0 +1,47 @@
+{
+    "skills": [
+        "regulatory standards",
+        "GMP",
+        "SAP Support - MM & WM modulePrevious",
+        "Standard Operating Procedure"
+    ],
+    "professional_info": {
+        "person name": [
+            "MANISH RAJ",
+            "manishraj_2003",
+            "Baddi"
+        ],
+        "job title": [
+            "Sr.",
+            "Manager- Stores",
+            "RM",
+            "PM",
+            "Subordinates",
+            "Executive- Stores"
+        ],
+        "company": [
+            "Zydus Healthcare Ltd",
+            "Glenmark Pharmaceuticals Ltd",
+            "Hetero Drugs Ltd.",
+            "USV Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Gangtok"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "regulatory standards": 0.6628,
+            "GMP": 0.2931,
+            "SAP Support - MM & WM modulePrevious": 0.358,
+            "Standard Operating Procedure": 0.4217
+        },
+        "filename": "cv (1422)_annotated.json"
+    }
+}

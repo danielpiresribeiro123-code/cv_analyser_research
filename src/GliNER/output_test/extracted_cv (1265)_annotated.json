@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "Post-doctoral Fellowship in Health & Clinical Psychology",
+        "Personality Psychology",
+        "National  Register of Health Service Providers in Psychology",
+        "Licenses and Certification",
+        "Gerontology Certificate Program",
+        "Certificate of Achievement",
+        "American Assn. Of Counseling and Development",
+        "American Society o f Clinical Hypnosis"
+    ],
+    "professional_info": {
+        "person name": [
+            "Elizabeth L. Richeson"
+        ],
+        "job title": [
+            "Licensed Master Social Worker -Advance Clinical Practitioner",
+            "Licensed Marriage and  Family Therapist",
+            "Chair"
+        ],
+        "company": [],
+        "university": [
+            "California School of Professional Psychology /Alliant International University",
+            "Texas Tech Health Sciences Center",
+            "Howard University",
+            "University of Maryland",
+            "Georgia State University"
+        ],
+        "degree": [
+            "Ph.D.",
+            "M.S.",
+            "M.S. Clinical Psychopharmacology",
+            "M.A. Community Clinical Psychology",
+            "B.A.  Psychology",
+            "Licensed Psychologist"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Post-doctoral Fellowship in Health & Clinical Psychology": 0.2102,
+            "Personality Psychology": 0.4922,
+            "National  Register of Health Service Providers in Psychology": 0.1673,
+            "Licenses and Certification": 0.2097,
+            "Gerontology Certificate Program": 0.5442,
+            "Certificate of Achievement": 0.4147,
+            "American Assn. Of Counseling and Development": 0.1683,
+            "American Society o f Clinical Hypnosis": 0.1697
+        },
+        "filename": "cv (1265)_annotated.json"
+    }
+}

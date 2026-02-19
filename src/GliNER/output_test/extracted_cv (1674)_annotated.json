@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "proficient team leadership",
+        "SCADA",
+        "DCS",
+        "r elay setting software",
+        "Field Data collection",
+        "Asset Management",
+        "German software",
+        "Power & Control",
+        "Field Data collection  software"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMED ADAM M"
+        ],
+        "job title": [
+            "ELECTRICAL  ENGINEER",
+            "Electrica l Project Engineeri ng",
+            "Protection Engineer"
+        ],
+        "company": [
+            "National Grid_KSA",
+            "IPS Energy ME DMCC",
+            "National Grid _ Saudi Arabia",
+            "Sunisland C ontracting LLC"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Total Work Experience",
+            "6 years"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "adammelur@gmail.com"
+        ],
+        "phone": [
+            "00971-52-7865008",
+            "0091 -9842347470"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "proficient team leadership": 0.2972,
+            "SCADA": 0.3466,
+            "DCS": 0.3689,
+            "r elay setting software": 0.3058,
+            "Field Data collection": 0.2153,
+            "Asset Management": 0.6481,
+            "German software": 0.6032,
+            "Power & Control": 0.1663,
+            "Field Data collection  software": 0.5708
+        },
+        "filename": "cv (1674)_annotated.json"
+    }
+}

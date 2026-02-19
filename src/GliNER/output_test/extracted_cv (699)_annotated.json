@@ -1,0 +1,74 @@
+{
+    "skills": [
+        "cutting edge technologies",
+        "technical and analytical abilities",
+        "ambitious and career conscious person",
+        "acquired skills",
+        "STRENGTHS",
+        "Efficient Analytical and Presentation Skills",
+        "Working Knowledge",
+        "Auto CAD",
+        "Ambitious & Realistic",
+        "Courageous  & Constructive",
+        "Honest & Friendly",
+        "Plastering",
+        "Central park-2",
+        "Central park-3",
+        "THE ROOM"
+    ],
+    "professional_info": {
+        "person name": [
+            "SANDEEP SINGH"
+        ],
+        "job title": [
+            "Engineer",
+            "Engineer (Projects)"
+        ],
+        "company": [
+            "result oriented company",
+            "SWETA ESTATES PVT. LTD."
+        ],
+        "university": [
+            "Govt. Polytechnic Ambala City",
+            "H.B.S.E,  Haryana"
+        ],
+        "degree": [
+            "Diploma in Civil Engineering",
+            "Matriculation"
+        ],
+        "years of experience": [
+            "WORK EXPERIENCE",
+            "2 years 6 months"
+        ],
+        "address": [],
+        "email": [
+            "E-mail",
+            "sandeepbanwala0038@gmail.com"
+        ],
+        "phone": [
+            "Contact No.",
+            "+91-9068440094"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "cutting edge technologies": 0.2411,
+            "technical and analytical abilities": 0.2424,
+            "ambitious and career conscious person": 0.2406,
+            "acquired skills": 0.1902,
+            "STRENGTHS": 0.1818,
+            "Efficient Analytical and Presentation Skills": 0.4447,
+            "Working Knowledge": 0.2491,
+            "Auto CAD": 0.351,
+            "Ambitious & Realistic": 0.344,
+            "Courageous  & Constructive": 0.319,
+            "Honest & Friendly": 0.3179,
+            "Plastering": 0.1557,
+            "Central park-2": 0.2155,
+            "Central park-3": 0.1822,
+            "THE ROOM": 0.2058
+        },
+        "filename": "cv (699)_annotated.json"
+    }
+}

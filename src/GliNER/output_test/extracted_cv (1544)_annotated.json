@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "good communication skill",
+        "Organized",
+        "innate ability to stay on task",
+        "effective and efficient",
+        "methods of teaching",
+        "Lesson planning expertise",
+        "IEP familiarity",
+        "Academic performance evaluations",
+        "Designing Question Papers (Activity based )",
+        "Resource Management",
+        "Guidance and counseling",
+        "MS-Office Proficient",
+        "NIOSfamiliarity",
+        "positive reinforcement method",
+        "play way methods",
+        "Co-curriculum",
+        "TMA"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "SUMMARY",
+            "Attentive & Active Educator",
+            "academic supervisor",
+            "CurrentlyworkingasaPrimaryclassteacher",
+            "Coordinatorofindoor"
+        ],
+        "company": [],
+        "university": [
+            "NIOS",
+            "Dr. Siyaaram Academy",
+            "Government Higher Secondary School 90%"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "No.8A",
+            "CIDPoliceQuarters",
+            "VenkadakrishnaRoad",
+            "Mandeveli",
+            "Chennai –600028",
+            "Tamil & English",
+            "Chrompet",
+            "K.K.Nagar",
+            "Thiruvanmiyur"
+        ],
+        "email": [
+            "Email",
+            "jagadeeswarikarpagam@gmail.com"
+        ],
+        "phone": [
+            "Cell",
+            "9962538311"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "good communication skill": 0.3511,
+            "Organized": 0.3791,
+            "innate ability to stay on task": 0.43,
+            "effective and efficient": 0.2065,
+            "methods of teaching": 0.2164,
+            "Lesson planning expertise": 0.3702,
+            "IEP familiarity": 0.3394,
+            "Academic performance evaluations": 0.2933,
+            "Designing Question Papers (Activity based )": 0.1594,
+            "Resource Management": 0.3069,
+            "Guidance and counseling": 0.2058,
+            "MS-Office Proficient": 0.2695,
+            "NIOSfamiliarity": 0.1876,
+            "positive reinforcement method": 0.3908,
+            "play way methods": 0.2619,
+            "Co-curriculum": 0.2095,
+            "TMA": 0.1582
+        },
+        "filename": "cv (1544)_annotated.json"
+    }
+}

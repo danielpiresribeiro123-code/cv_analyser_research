@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "Technical Proficiencies",
+        "MS Office",
+        "Excel",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "technical",
+        "administrative",
+        "leadership",
+        "communication skills",
+        "SECRET security clearance",
+        "senior leadership",
+        "stringent specifications",
+        "quality standards"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "AVIATION MECHANIC",
+            "Quality-focused manager",
+            "State Aviation Mechanic"
+        ],
+        "company": [
+            "Current Company Name",
+            "City"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Technical Proficiencies": 0.4328,
+            "MS Office": 0.7564,
+            "Excel": 0.3163,
+            "Outlook": 0.5286,
+            "PowerPoint": 0.3668,
+            "Word": 0.3944,
+            "technical": 0.3886,
+            "administrative": 0.2487,
+            "leadership": 0.4356,
+            "communication skills": 0.1982,
+            "SECRET security clearance": 0.4159,
+            "senior leadership": 0.1736,
+            "stringent specifications": 0.2628,
+            "quality standards": 0.8665
+        },
+        "filename": "cv (4280)_annotated.json"
+    }
+}

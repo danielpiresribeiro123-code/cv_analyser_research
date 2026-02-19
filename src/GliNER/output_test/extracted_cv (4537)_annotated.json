@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "power and control engineering",
+        "project management",
+        "AutoCAD",
+        "Eagle",
+        "MATlab",
+        "Solidworks Standard",
+        "Solidworks Enterprise PDM",
+        "Solidworks Electrical",
+        "Microsoft Office 2016",
+        "Visio",
+        "Excel",
+        "Microsoft Dynamics GP",
+        "Team Gantt",
+        "RSLogix",
+        "Microsoft Visual C",
+        "C++",
+        "Technical writing",
+        "3D design and simulation software",
+        "Electrical Engineering",
+        "Critical thinking",
+        "SAE",
+        "NEC",
+        "NEMA",
+        "IEEE",
+        "ANSI",
+        "UL",
+        "HSE and OSHA Standards"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "ELECTRICAL ENGINEER"
+        ],
+        "company": [
+            "Allen Bradley",
+            "Company"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "5 years experience",
+            "Strong decision maker"
+        ],
+        "address": [],
+        "email": [
+            "OneNote",
+            "Outlook"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "power and control engineering": 0.2155,
+            "project management": 0.1753,
+            "AutoCAD": 0.2269,
+            "Eagle": 0.2549,
+            "MATlab": 0.2545,
+            "Solidworks Standard": 0.3095,
+            "Solidworks Enterprise PDM": 0.3664,
+            "Solidworks Electrical": 0.2983,
+            "Microsoft Office 2016": 0.6705,
+            "Visio": 0.3146,
+            "Excel": 0.1638,
+            "Microsoft Dynamics GP": 0.424,
+            "Team Gantt": 0.6401,
+            "RSLogix": 0.2677,
+            "Microsoft Visual C": 0.6158,
+            "C++": 0.752,
+            "Technical writing": 0.2122,
+            "3D design and simulation software": 0.1822,
+            "Electrical Engineering": 0.3233,
+            "Critical thinking": 0.2252,
+            "SAE": 0.4609,
+            "NEC": 0.4011,
+            "NEMA": 0.3941,
+            "IEEE": 0.3616,
+            "ANSI": 0.4945,
+            "UL": 0.33,
+            "HSE and OSHA Standards": 0.3427
+        },
+        "filename": "cv (4537)_annotated.json"
+    }
+}

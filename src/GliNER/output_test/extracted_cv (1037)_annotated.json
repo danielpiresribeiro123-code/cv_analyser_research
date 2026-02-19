@@ -1,0 +1,90 @@
+{
+    "skills": [
+        "PROFESSIONAL QUALIFICATION",
+        "Finance-Marketing",
+        "ACEDEMIC QUALIFICATION",
+        "GRADUTI",
+        "Retail Marketing",
+        "STRENGTH",
+        "Hard Working",
+        "Good Listener",
+        "team player",
+        "Sex",
+        "Male",
+        "Hindi",
+        "English",
+        "Punjabi",
+        "Travelling",
+        "Listening Music",
+        "COMPUTER LITRECY",
+        "One year diploma"
+    ],
+    "professional_info": {
+        "person name": [
+            "HARSH SHARMA",
+            "Sh. Rishi Pal Sharma",
+            "Indian"
+        ],
+        "job title": [
+            "Designation",
+            "Management trainee",
+            "Relationship  officer",
+            "CSE",
+            "Finance, Executive"
+        ],
+        "company": [
+            "Religare",
+            "Ujjivan  financial  services.  Ltd.",
+            "SMALL  BUSSINESS BANK",
+            "BUSSINESS LOAN",
+            "LAP",
+            "Reliance Home Loan Finance Ltd.",
+            "GLOBE  AUTOMOBILES  PVT  LTD",
+            "Authorized  Toyota  vehicle  dealer"
+        ],
+        "university": [
+            "Karnal Institute of Technology & Management",
+            "ONKURUKSHETRA",
+            "I.I.C.E Institute"
+        ],
+        "degree": [
+            "MBA"
+        ],
+        "years of experience": [],
+        "address": [
+            "H.NO.59",
+            "R.K.Puram",
+            "Gali no:2A",
+            "Sec-9 Karnal 132001"
+        ],
+        "email": [
+            "Email",
+            "harsh3706@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "PROFESSIONAL QUALIFICATION": 0.3099,
+            "Finance-Marketing": 0.5956,
+            "ACEDEMIC QUALIFICATION": 0.3258,
+            "GRADUTI": 0.2013,
+            "Retail Marketing": 0.3591,
+            "STRENGTH": 0.2799,
+            "Hard Working": 0.4997,
+            "Good Listener": 0.5959,
+            "team player": 0.5802,
+            "Sex": 0.2546,
+            "Male": 0.3905,
+            "Hindi": 0.8816,
+            "English": 0.8916,
+            "Punjabi": 0.8459,
+            "Travelling": 0.2362,
+            "Listening Music": 0.2043,
+            "COMPUTER LITRECY": 0.2653,
+            "One year diploma": 0.2014
+        },
+        "filename": "cv (1037)_annotated.json"
+    }
+}

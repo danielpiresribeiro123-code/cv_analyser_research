@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "quality standards",
+        "Basic computer knowledge",
+        "Diploma in  Auto CAD & STAD.PRO",
+        "12th passed  (PCM)"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAJJAD KHAN"
+        ],
+        "job title": [
+            "civil engineer",
+            "Assistant  Engineer",
+            "Assistant Civil Engineer"
+        ],
+        "company": [
+            "Braintech Infra Pvt Ltd",
+            "SIEMENS LTD",
+            "Empress Infra Pvt Ltd",
+            "H R CAD center",
+            "U.P Board"
+        ],
+        "university": [
+            "Subharti   Polytechnic  University"
+        ],
+        "degree": [
+            "Diploma in Civil Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "Itwan Post",
+            "Delhi",
+            "Gurgaon",
+            "Ghaziabad",
+            "Greater Noida",
+            "Ncr"
+        ],
+        "email": [
+            "Sajjad16khan16@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "quality standards": 0.2881,
+            "Basic computer knowledge": 0.2674,
+            "Diploma in  Auto CAD & STAD.PRO": 0.6649,
+            "12th passed  (PCM)": 0.5036
+        },
+        "filename": "cv (1454)_annotated.json"
+    }
+}

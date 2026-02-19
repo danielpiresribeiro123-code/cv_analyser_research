@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Detail oriented",
+        "organized",
+        "personable",
+        "big picture thinking",
+        "attention to detail",
+        "Relationship building",
+        "Prioritization",
+        "Skills",
+        "Desktop Publishing Software",
+        "Microsoft Office Suite",
+        "Tech savvy",
+        "able to learn new software quickly and efficiently",
+        "Experience",
+        "company website",
+        "internet"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "MARKETING AND SPECIAL EVENTS COORDINATOR",
+            "Event Coordinator",
+            "Special Events and Public Relations Intern",
+            "Special Events Intern",
+            "Special Event Coordinator",
+            "event sales manager",
+            "Public Relations Intern"
+        ],
+        "company": [
+            "Company Name",
+            "company",
+            "Bronx and Central Park Zoo"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Detail oriented": 0.4324,
+            "organized": 0.3401,
+            "personable": 0.272,
+            "big picture thinking": 0.2922,
+            "attention to detail": 0.3488,
+            "Relationship building": 0.3774,
+            "Prioritization": 0.3698,
+            "Skills": 0.1632,
+            "Desktop Publishing Software": 0.3237,
+            "Microsoft Office Suite": 0.9196,
+            "Tech savvy": 0.3817,
+            "able to learn new software quickly and efficiently": 0.2028,
+            "Experience": 0.1704,
+            "company website": 0.1905,
+            "internet": 0.2181
+        },
+        "filename": "cv (4496)_annotated.json"
+    }
+}

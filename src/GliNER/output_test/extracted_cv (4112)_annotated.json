@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "Technical support",
+        "TECHNICAL QUALIFICATION",
+        "Basic Knowledge",
+        "Network Trouble Shooting",
+        "WAN",
+        "DHCP",
+        "remote connection tools",
+        "electrical engineering",
+        "Installing hardware and software systems",
+        "Router configuration",
+        "DYNDNS",
+        "EPABX Configuration to POE Switch",
+        "Firewall Configuration"
+    ],
+    "professional_info": {
+        "person name": [
+            "SYED WASEEM"
+        ],
+        "job title": [
+            "Corporate Secretaryship",
+            "electrician"
+        ],
+        "company": [
+            "H.S.C.",
+            "Govt. Higher Sec. School",
+            "S.S.L.C.",
+            "N.K.T. Boys Higher Sec. School",
+            "UNiCAM SYSTEM",
+            "HIFOCUS Electronics",
+            "India P vt Ltd"
+        ],
+        "university": [
+            "The N ew college"
+        ],
+        "degree": [
+            "B.Com"
+        ],
+        "years of experience": [
+            "1  years  5 months"
+        ],
+        "address": [
+            "No.41/83",
+            "Dr. Natesan Road",
+            "S.R.",
+            "Triplicane",
+            "Chennai – 05",
+            "Royapettah",
+            "Chennai – 14"
+        ],
+        "email": [
+            "Email id",
+            "wsyed5276@gmail.com",
+            "2014",
+            "email"
+        ],
+        "phone": [
+            "Mobile",
+            "9791149437",
+            "phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Technical support": 0.3648,
+            "TECHNICAL QUALIFICATION": 0.2952,
+            "Basic Knowledge": 0.4666,
+            "Network Trouble Shooting": 0.2521,
+            "WAN": 0.1958,
+            "DHCP": 0.2955,
+            "remote connection tools": 0.3811,
+            "electrical engineering": 0.4069,
+            "Installing hardware and software systems": 0.2092,
+            "Router configuration": 0.2128,
+            "DYNDNS": 0.1735,
+            "EPABX Configuration to POE Switch": 0.1706,
+            "Firewall Configuration": 0.1539
+        },
+        "filename": "cv (4112)_annotated.json"
+    }
+}

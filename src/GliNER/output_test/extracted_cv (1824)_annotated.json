@@ -1,0 +1,52 @@
+{
+    "skills": [
+        "PROFESSIONAL SKILL",
+        "Good communication skills",
+        "superior communication skills",
+        "Outstanding organizational skills",
+        "PROFESSIONAL EXPERIENCE"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAM KIER M. AVENIDO"
+        ],
+        "job title": [
+            "staff",
+            "CASHIER/COUNTER BILLS COMPANY",
+            "POSITION",
+            "MATERIAL HANDLER COMPANY",
+            "SALES ASSOCIATE COMPANY"
+        ],
+        "company": [
+            "BATANGAS ENHANCED TECHNOLOGY SYSTEM INC",
+            "BANDAI PHILIPPINES INC.",
+            "STO.TOMAS",
+            "SHOPPING CENTER FASHION DEPT (SM MALL)"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Salah Al Din Road",
+            "Deira Dubai",
+            "English",
+            "MALVAR",
+            "BATANGAS CITY"
+        ],
+        "email": [],
+        "phone": [
+            "056-207-5767"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "PROFESSIONAL SKILL": 0.3899,
+            "Good communication skills": 0.2587,
+            "superior communication skills": 0.1752,
+            "Outstanding organizational skills": 0.3354,
+            "PROFESSIONAL EXPERIENCE": 0.1639
+        },
+        "filename": "cv (1824)_annotated.json"
+    }
+}

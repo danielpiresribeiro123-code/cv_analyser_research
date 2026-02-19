@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "Railway Bridge",
+        "River Pile Foundation",
+        "ConstructionCivil",
+        "BOQ",
+        "Civil"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAYED HAMZA RIZVI"
+        ],
+        "job title": [
+            "civil",
+            "EngineeringCivil",
+            "Engineering201466",
+            "EngineerGarhmukteshwar",
+            "EngineerVarious"
+        ],
+        "company": [
+            "Central Public",
+            "Work Department",
+            "CPWD",
+            "Arvind Techno",
+            "Engineers Pvt.",
+            "Company Name",
+            "Krishna, Contractors Co.",
+            "Chaudhary",
+            "Construction",
+            "Company Pvt."
+        ],
+        "university": [
+            "DegreeBoard / UniversityCollege",
+            "Mahaveer UniversityCollege of",
+            "12thUP BoardA.W. Faiz-e-aam Inter",
+            "10th UP BoardKundan  Model Inter college"
+        ],
+        "degree": [
+            "B.TechTeerthanker"
+        ],
+        "years of experience": [
+            "Experience",
+            "11 months"
+        ],
+        "address": [
+            "Mohalla Peerzada",
+            "244221"
+        ],
+        "email": [
+            "E-Mail",
+            "gmail.com"
+        ],
+        "phone": [
+            "Mobile No",
+            "+919808086592"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Railway Bridge": 0.2442,
+            "River Pile Foundation": 0.1987,
+            "ConstructionCivil": 0.3071,
+            "BOQ": 0.2309,
+            "Civil": 0.3158
+        },
+        "filename": "cv (1706)_annotated.json"
+    }
+}

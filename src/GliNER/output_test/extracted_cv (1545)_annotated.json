@@ -1,0 +1,86 @@
+{
+    "skills": [
+        "Honours Diploma in Computer Application (HDCA)",
+        "Manufacturing",
+        "Automobile (OEM & Ancillary)",
+        "Paint",
+        "Electronics",
+        "Able to handle multi tasks simultaneously",
+        "Non-IT section",
+        "Portals",
+        "database",
+        "referrals",
+        "Contacts",
+        "networking",
+        "technology",
+        "skill set",
+        "skills"
+    ],
+    "professional_info": {
+        "person name": [
+            "M  Priyadharsini"
+        ],
+        "job title": [
+            "Executive Recruiter",
+            "SR Recruiter",
+            "Client Management",
+            "HR – Recruiter",
+            "Talent Acquisition"
+        ],
+        "company": [
+            "Shrimathi Indira Gandhi College",
+            "Jayendra Matriculation Higher Secondary School",
+            "Town Higher Secondary School",
+            "CSC",
+            "ABC STAFFING SOLUTIONS",
+            "VENTURES HRD CENTRE PRIVATE LIMITED"
+        ],
+        "university": [
+            "Bharathidasan University"
+        ],
+        "degree": [
+            "Master of Social Work",
+            "MSW – HR",
+            "Bachelor of Commerce (Bank Management)",
+            "HSC",
+            "SSC"
+        ],
+        "years of experience": [
+            "WORK EXPERIENCE",
+            "experience"
+        ],
+        "address": [
+            "B1 – Chitra Apartments",
+            "Nanmangalam",
+            "Chennai"
+        ],
+        "email": [
+            "harsh3.priya@gmail.com"
+        ],
+        "phone": [
+            "+91-98410 63813",
+            "phone"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Honours Diploma in Computer Application (HDCA)": 0.3579,
+            "Manufacturing": 0.556,
+            "Automobile (OEM & Ancillary)": 0.3492,
+            "Paint": 0.1915,
+            "Electronics": 0.3915,
+            "Able to handle multi tasks simultaneously": 0.1771,
+            "Non-IT section": 0.2149,
+            "Portals": 0.4305,
+            "database": 0.6425,
+            "referrals": 0.23,
+            "Contacts": 0.2741,
+            "networking": 0.3248,
+            "technology": 0.1521,
+            "skill set": 0.2629,
+            "skills": 0.1742
+        },
+        "filename": "cv (1545)_annotated.json"
+    }
+}

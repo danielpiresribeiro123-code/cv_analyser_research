@@ -1,0 +1,93 @@
+{
+    "skills": [
+        "programming",
+        "relational database management",
+        "maintenance",
+        "Database servers",
+        "Structured query language (SQL)",
+        "Programming and design skills",
+        "Document management",
+        "Strong collaborative skills",
+        "Strong analytical skills",
+        "Customer needs assessment",
+        "Excellent problem solving skills",
+        "Technical Skills",
+        "Skills",
+        "Windows",
+        "Unix",
+        "Linux",
+        "Mac OSX",
+        "VMWare",
+        "HTTP",
+        "DNS",
+        "SSH",
+        "SNMP",
+        "DHCP",
+        "FTP",
+        "quickly gaining trust",
+        "Data Preparation",
+        "Administration",
+        "Application Design",
+        "programming",
+        "VPN",
+        "RDMS"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Results-driven Database Administrator"
+        ],
+        "company": [
+            "INFORMATION TECHNOLOGY STUDENT",
+            "Company Name",
+            "FORECLOSURE PROCESSOR PARALEGAL"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Experience",
+            "Years"
+        ],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 31,
+        "confidence_scores": {
+            "programming": 0.2702,
+            "relational database management": 0.3954,
+            "maintenance": 0.2046,
+            "Database servers": 0.4571,
+            "Structured query language (SQL)": 0.4108,
+            "Programming and design skills": 0.5512,
+            "Document management": 0.3545,
+            "Strong collaborative skills": 0.4817,
+            "Strong analytical skills": 0.5838,
+            "Customer needs assessment": 0.3292,
+            "Excellent problem solving skills": 0.5929,
+            "Technical Skills": 0.4265,
+            "Skills": 0.185,
+            "Windows": 0.9601,
+            "Unix": 0.9466,
+            "Linux": 0.9576,
+            "Mac OSX": 0.9058,
+            "VMWare": 0.7291,
+            "HTTP": 0.4478,
+            "DNS": 0.4511,
+            "SSH": 0.6611,
+            "SNMP": 0.4473,
+            "DHCP": 0.6532,
+            "FTP": 0.6927,
+            "quickly gaining trust": 0.187,
+            "Data Preparation": 0.2353,
+            "Administration": 0.1517,
+            "Application Design": 0.428,
+            "VPN": 0.3691,
+            "RDMS": 0.3727
+        },
+        "filename": "cv (4429)_annotated.json"
+    }
+}

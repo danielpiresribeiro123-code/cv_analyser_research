@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "Hardware and Networking",
+        "Basic knowledge",
+        "Microsoft Certified professional",
+        "Domestic data entry",
+        "windows XP",
+        "Vista",
+        "Windows 7",
+        "software",
+        "TCP/IP",
+        "Windows Server 2008",
+        "IP Addressing and Subneting",
+        "RIP",
+        "IGRP",
+        "EIGRP",
+        "Working knowledge",
+        "MS Office",
+        "MS Outlook",
+        "AREAS OF INTEREST",
+        "Single",
+        "English",
+        "Hindi",
+        "Bengali"
+    ],
+    "professional_info": {
+        "person name": [
+            "Murari  yadav",
+            "Lt. Sh. Raj Kumar Yadav",
+            "Murari Yadav"
+        ],
+        "job title": [
+            "IT Professional",
+            "DESKTOP SUPPORT ENGINEER",
+            "Male"
+        ],
+        "company": [
+            "organization of repute",
+            "Jetking",
+            "N.S.D.C"
+        ],
+        "university": [
+            "CBSE"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "RZ-66-b Deep Enclave Vikas Nagar",
+            "Uttam Uagar new delhi-110059",
+            "Vikaspuri"
+        ],
+        "email": [
+            "Email",
+            "ymurari31@gmail.com",
+            "12th",
+            "10th"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 22,
+        "confidence_scores": {
+            "Hardware and Networking": 0.1651,
+            "Basic knowledge": 0.223,
+            "Microsoft Certified professional": 0.9235,
+            "Domestic data entry": 0.3259,
+            "windows XP": 0.9161,
+            "Vista": 0.7668,
+            "Windows 7": 0.9292,
+            "software": 0.1529,
+            "TCP/IP": 0.5381,
+            "Windows Server 2008": 0.6909,
+            "IP Addressing and Subneting": 0.2452,
+            "RIP": 0.4451,
+            "IGRP": 0.8044,
+            "EIGRP": 0.8451,
+            "Working knowledge": 0.2589,
+            "MS Office": 0.5825,
+            "MS Outlook": 0.5274,
+            "AREAS OF INTEREST": 0.2208,
+            "Single": 0.2165,
+            "English": 0.4032,
+            "Hindi": 0.5902,
+            "Bengali": 0.4407
+        },
+        "filename": "cv (2111)_annotated.json"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "Big data analytics",
+        "large scale data refining",
+        "Machine Learning",
+        "PERSONAL",
+        "Data Analysis",
+        "Data Science",
+        "Statistical Analysis",
+        "Time Series Analysis",
+        "Statistical",
+        "Modelling",
+        "Data Manipulation",
+        "Python",
+        "R",
+        "Tableau",
+        "SQL",
+        "Django",
+        "PostgreSQL",
+        "Default Classifier",
+        "Certification",
+        "Advanced Data Analytics"
+    ],
+    "professional_info": {
+        "person name": [
+            "GABRIELLA JOHNSON"
+        ],
+        "job title": [
+            "ANALYST",
+            "Electronics Engineering",
+            "Data scientist"
+        ],
+        "company": [
+            "AMZ Loans and Mortgages",
+            "firm"
+        ],
+        "university": [
+            "Nagpur University"
+        ],
+        "degree": [
+            "B.Tech",
+            "certified Data Analyst"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Big data analytics": 0.5769,
+            "large scale data refining": 0.2639,
+            "Machine Learning": 0.8757,
+            "PERSONAL": 0.378,
+            "Data Analysis": 0.5007,
+            "Data Science": 0.5868,
+            "Statistical Analysis": 0.7106,
+            "Time Series Analysis": 0.625,
+            "Statistical": 0.2545,
+            "Modelling": 0.4885,
+            "Data Manipulation": 0.5145,
+            "Python": 0.9937,
+            "R": 0.9876,
+            "Tableau": 0.4004,
+            "SQL": 0.3235,
+            "Django": 0.5722,
+            "PostgreSQL": 0.9493,
+            "Default Classifier": 0.2956,
+            "Certification": 0.8338,
+            "Advanced Data Analytics": 0.3049
+        },
+        "filename": "cv (4862)_annotated.json"
+    }
+}

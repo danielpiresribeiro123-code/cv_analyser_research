@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "Sales & Marketing",
+        "Channel & Retail Management",
+        "Customer Relationship Management",
+        "strong determination",
+        "passion",
+        "ambition",
+        "Management Skills",
+        "ability to see the big picture",
+        "SAP Programming"
+    ],
+    "professional_info": {
+        "person name": [
+            "Majeed Ahm ed"
+        ],
+        "job title": [
+            "sales & operations professional",
+            "competent professional",
+            "Sales Supervisor",
+            "Sr.Territory Sales Executive",
+            "Sr T.S.E"
+        ],
+        "company": [
+            "Global  Beverages  Company",
+            "fayha  and  berain  water  company",
+            "Idea cellular service pvt ltd.",
+            "idea cellular Ltd"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "6 Years",
+            "2 Years"
+        ],
+        "address": [
+            "3-9-91/6/1",
+            "Reddycolony"
+        ],
+        "email": [
+            "E-mail",
+            "majeed_ahmed94@yahoo.com",
+            "0091 9866103692"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "Sales & Marketing": 0.5244,
+            "Channel & Retail Management": 0.2461,
+            "Customer Relationship Management": 0.185,
+            "strong determination": 0.404,
+            "passion": 0.3827,
+            "ambition": 0.2245,
+            "Management Skills": 0.3621,
+            "ability to see the big picture": 0.4803,
+            "SAP Programming": 0.6023
+        },
+        "filename": "cv (3161)_annotated.json"
+    }
+}

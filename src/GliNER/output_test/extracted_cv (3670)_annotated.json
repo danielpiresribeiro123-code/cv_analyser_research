@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "oll",
+        "international standard",
+        "ibr approved boiler upto 5ton",
+        "building structural",
+        "Qualification & certification",
+        "Diploma course in welding"
+    ],
+    "professional_info": {
+        "person name": [
+            "Shaikh mehtab ali",
+            "shaikh sultan ali"
+        ],
+        "job title": [
+            "fabrication foreman",
+            "Fabrication supervisor",
+            "structural foreman",
+            "senior structural",
+            "fabricator"
+        ],
+        "company": [
+            "Par enterprises pvt Ltd",
+            "Project equipment manufacturers company",
+            "Hidada construction company pvt Ltd.",
+            "Novatech project & equipment company",
+            "Community polytechnic cell"
+        ],
+        "university": [
+            "Higher secondary",
+            "National techno institutions"
+        ],
+        "degree": [
+            "HSC"
+        ],
+        "years of experience": [
+            "2years 10month",
+            "4years 6month"
+        ],
+        "address": [],
+        "email": [
+            "E-mail",
+            "skmehtabali@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "oll": 0.1747,
+            "international standard": 0.6944,
+            "ibr approved boiler upto 5ton": 0.1753,
+            "building structural": 0.2066,
+            "Qualification & certification": 0.6791,
+            "Diploma course in welding": 0.1765
+        },
+        "filename": "cv (3670)_annotated.json"
+    }
+}

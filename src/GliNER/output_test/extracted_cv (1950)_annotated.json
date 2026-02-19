@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "Marketing",
+        "competent technical skills",
+        "touch screen programing",
+        "Textile Market",
+        "SKILL AND INTEREST",
+        "Computer Skill",
+        "Microsoft Office",
+        "Keil Software",
+        "C progarming",
+        "CHESS",
+        "English",
+        "Gujarati",
+        "Hindi",
+        "PERSONAL STRENGTH"
+    ],
+    "professional_info": {
+        "person name": [
+            "MAYANK M. PATEL",
+            "Patel Mayank Manubhai"
+        ],
+        "job title": [
+            "dignified position",
+            "marketing professional"
+        ],
+        "company": [
+            "Department of Business & Industry Management",
+            "M.C.B.S Electronic Pvt Ltd."
+        ],
+        "university": [
+            "V.N.S.G.U",
+            "College Of",
+            "ModasaH.N.G.U"
+        ],
+        "degree": [
+            "MBA",
+            "BE. IN ELECTRONIC & COMMUNICATION",
+            "M.B.A",
+            "M.B.A.",
+            "BE. in E.C.2011Govt Engg",
+            "BE",
+            "Aditya Textile Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "At & Po – B-204 Siddhi Sarajarn App.",
+            "120 Ft. Road"
+        ],
+        "email": [
+            "E-MAIL",
+            "mayank_ec32@yahoo.com"
+        ],
+        "phone": [
+            "+919979632607"
+        ]
+    },
+    "metadata": {
+        "total_skills": 14,
+        "confidence_scores": {
+            "Marketing": 0.65,
+            "competent technical skills": 0.3746,
+            "touch screen programing": 0.3444,
+            "Textile Market": 0.2602,
+            "SKILL AND INTEREST": 0.3197,
+            "Computer Skill": 0.3844,
+            "Microsoft Office": 0.5433,
+            "Keil Software": 0.4471,
+            "C progarming": 0.4154,
+            "CHESS": 0.2351,
+            "English": 0.5043,
+            "Gujarati": 0.7631,
+            "Hindi": 0.6481,
+            "PERSONAL STRENGTH": 0.5518
+        },
+        "filename": "cv (1950)_annotated.json"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "AUTOCAD",
+        "CRM & GALVANIZING (QUALITY CONTROL)",
+        "ISO 9001:2000",
+        "NABL",
+        "TS 16949",
+        "Overall responsibility",
+        "customer specific requirements",
+        "Mechanical Testing",
+        "Hardness Testing",
+        "Spectrometer Analysis",
+        "SOP",
+        "HIRA",
+        "CAPA"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mayank Saraswat"
+        ],
+        "job title": [
+            "key player",
+            "ENGINEER",
+            "JOB PROFILE",
+            "Team Leader"
+        ],
+        "company": [
+            "I.E.T. Khandari Agra",
+            "R.L.V.M. Hathras",
+            "UTTAM VALUE STEELS LTD",
+            "WARDHA",
+            "Uttam Value Steels Limited"
+        ],
+        "university": [
+            "St. Francis Senior Secondary School Hathras"
+        ],
+        "degree": [
+            "B.E. (Mechanical)",
+            "HSC (XII)",
+            "SSC (X)"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "07304838198",
+            "08830237386"
+        ]
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "AUTOCAD": 0.352,
+            "CRM & GALVANIZING (QUALITY CONTROL)": 0.1973,
+            "ISO 9001:2000": 0.9249,
+            "NABL": 0.8498,
+            "TS 16949": 0.9319,
+            "Overall responsibility": 0.1648,
+            "customer specific requirements": 0.1858,
+            "Mechanical Testing": 0.2413,
+            "Hardness Testing": 0.2227,
+            "Spectrometer Analysis": 0.2182,
+            "SOP": 0.2052,
+            "HIRA": 0.2872,
+            "CAPA": 0.1998
+        },
+        "filename": "cv (2819)_annotated.json"
+    }
+}

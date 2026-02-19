@@ -1,0 +1,52 @@
+{
+    "skills": [
+        "honesty  and sincerity",
+        "Tally 9",
+        "ERP",
+        "SAP -B1"
+    ],
+    "professional_info": {
+        "person name": [
+            "IMTIYAZ JAVED"
+        ],
+        "job title": [
+            "Accounts Executive",
+            "Managing Debtors & Creditors",
+            "Accounts/Audit, Executive",
+            "Assistant  Accountant"
+        ],
+        "company": [
+            "Aldivo International Pvt.Ltd.",
+            "Alig And Associates",
+            "Ideal Broadca sting india Pvt.Ltd",
+            "Veeraraghwan and co",
+            "City Bank"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "6 years"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "Imtiyaznd@yahoo.in",
+            "imtiyaznd@gmail.com"
+        ],
+        "phone": [
+            "Telephone",
+            "9990437581",
+            "9810525533"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "honesty  and sincerity": 0.1588,
+            "Tally 9": 0.6086,
+            "ERP": 0.424,
+            "SAP -B1": 0.5704
+        },
+        "filename": "cv (1989)_annotated.json"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "Electrical Engineering",
+        "Electrical &",
+        "Electronics",
+        "Engineering",
+        "WHRB",
+        "CFBC"
+    ],
+    "professional_info": {
+        "person name": [
+            "M VEERESH",
+            "Sri",
+            "Krishnadevaraya"
+        ],
+        "job title": [
+            "Engineers",
+            "Electrical Supervisior",
+            "Electrical  Engineer"
+        ],
+        "company": [
+            "PassingAggregate",
+            "College",
+            "GootyJawaharlal Nehru",
+            "Vidya Vikas Junior",
+            "SSCZ P H",
+            "UndavellySchool Secondery",
+            "OM SAI ELECTRICALS",
+            "Sathavahana Ispat Limited"
+        ],
+        "university": [
+            "CourseInstitutionUniversity / Board Year Of",
+            "University201472.5%",
+            "KurnoolBoard Of",
+            "Board200881.66%"
+        ],
+        "degree": [
+            "B. Tech",
+            "Intermediate",
+            "Intermediate201091.8%",
+            "A Grade"
+        ],
+        "years of experience": [
+            "1 Year 10 Months"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "mveeresh.sil@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9581507523"
+        ]
+    },
+    "metadata": {
+        "total_skills": 6,
+        "confidence_scores": {
+            "Electrical Engineering": 0.5293,
+            "Electrical &": 0.3077,
+            "Electronics": 0.305,
+            "Engineering": 0.6837,
+            "WHRB": 0.2459,
+            "CFBC": 0.4658
+        },
+        "filename": "cv (2839)_annotated.json"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "Fluent writing and speech",
+        "English",
+        "Swahili",
+        "Luhya",
+        "reading",
+        "well read",
+        "passionate about enforcement and implementation",
+        "Occupational Health and  Safety",
+        "environmental  laws",
+        "standards",
+        "Construction",
+        "Transport and Logistics",
+        "Manufacturing",
+        "NEBOSH International General Certificate  in Health and Safety (Ongoing)",
+        "KCSE B+"
+    ],
+    "professional_info": {
+        "person name": [
+            "Abraham Masinde",
+            "male",
+            "abrahamwangila"
+        ],
+        "job title": [
+            "Environment, Health and Safety (EHS)  professional"
+        ],
+        "company": [],
+        "university": [
+            "Kenyatta University",
+            "Kibabii Boys High School",
+            "Pwani University",
+            "Pwani  University",
+            "Multimedia University"
+        ],
+        "degree": [
+            "Bachelor of Science Degree in Environmental Science",
+            "Bachelor of Science in Environmental Science",
+            "Second Class Honours- Upper Division"
+        ],
+        "years of experience": [
+            "married",
+            "project management experience",
+            "seven  years",
+            "2011"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "abrahamwangila@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+254 711447289"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "Fluent writing and speech": 0.2005,
+            "English": 0.5514,
+            "Swahili": 0.7773,
+            "Luhya": 0.6833,
+            "reading": 0.2696,
+            "well read": 0.3922,
+            "passionate about enforcement and implementation": 0.3202,
+            "Occupational Health and  Safety": 0.2316,
+            "environmental  laws": 0.2062,
+            "standards": 0.4132,
+            "Construction": 0.2247,
+            "Transport and Logistics": 0.1634,
+            "Manufacturing": 0.2463,
+            "NEBOSH International General Certificate  in Health and Safety (Ongoing)": 0.6472,
+            "KCSE B+": 0.5405
+        },
+        "filename": "cv (1050)_annotated.json"
+    }
+}

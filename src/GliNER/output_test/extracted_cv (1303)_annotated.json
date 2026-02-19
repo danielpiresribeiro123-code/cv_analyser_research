@@ -1,0 +1,53 @@
+{
+    "skills": [
+        "Sistema Nacional de Inves tigadores Nivel I",
+        "Premio Tecnos 2000"
+    ],
+    "professional_info": {
+        "person name": [
+            "Juan Antonio Aguilar Garib",
+            "juan.aguilargb",
+            "Zare l Valdez Nava",
+            "Ubaldo Ortiz Méndez",
+            "Jorge Domingo Berrún Castañón",
+            "Ri cardoViramontes Brown"
+        ],
+        "job title": [],
+        "company": [
+            "UANL-CONACYT-KEMET-UPS-MARION TECHNOLOGIES",
+            "UANL- CONACYT",
+            "ECOS- ANUIES",
+            "FIME- CONACYT",
+            "FIME -HYLSA",
+            "FIME-HYLSA",
+            "FIME- HYLSA"
+        ],
+        "university": [
+            "uanl",
+            "Universidad Au tónoma de Nuevo León",
+            "Instituto  Tecnológico de Saltillo",
+            "In stituto Tecnológico de Saltillo",
+            "UANL-UPS"
+        ],
+        "degree": [
+            "Doctorado",
+            "Ingeniería de Materiales",
+            "Maestría: Metalurgia",
+            "Licenciatura",
+            "Ingeniería Mecánica",
+            "Ingeniería y Tecnología"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 2,
+        "confidence_scores": {
+            "Sistema Nacional de Inves tigadores Nivel I": 0.1904,
+            "Premio Tecnos 2000": 0.5422
+        },
+        "filename": "cv (1303)_annotated.json"
+    }
+}

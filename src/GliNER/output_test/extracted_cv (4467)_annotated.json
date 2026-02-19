@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "Vast computer skills",
+        "Extensive technical knowledge",
+        "SkyBOOKs aviation maintenance tracking application",
+        "web-based software application",
+        "SaaS",
+        "windows",
+        "Linux",
+        "Navy ERP",
+        "Standard Operating Procedure",
+        "Advanced Skill Management",
+        "ASM application"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "AVIATION RECORDS ANALYST",
+            "Analyst",
+            "Customer service expert",
+            "Functional Analyst",
+            "Technical Support Representative",
+            "SME"
+        ],
+        "company": [
+            "Company Name",
+            "Aviation Records Analyst"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "15 years of professional experience",
+            "Fluent communicator"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Vast computer skills": 0.3456,
+            "Extensive technical knowledge": 0.2492,
+            "SkyBOOKs aviation maintenance tracking application": 0.3797,
+            "web-based software application": 0.2582,
+            "SaaS": 0.2401,
+            "windows": 0.4429,
+            "Linux": 0.4245,
+            "Navy ERP": 0.2436,
+            "Standard Operating Procedure": 0.3493,
+            "Advanced Skill Management": 0.1894,
+            "ASM application": 0.1683
+        },
+        "filename": "cv (4467)_annotated.json"
+    }
+}

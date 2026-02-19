@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Mechanical engineering",
+        "non-metallic & metallic  piping",
+        "Expertise"
+    ],
+    "professional_info": {
+        "person name": [
+            "S. K. GURUCHAL"
+        ],
+        "job title": [
+            "Crude Storage Tank & Piping Engineer",
+            "Asst. Manager",
+            "Piping Engineer",
+            "Assistant Engineer Piping",
+            "Design Engineer Piping",
+            "Engineer"
+        ],
+        "company": [
+            "Chemie- Tech DMCC",
+            "Onshore Construction LLC",
+            "Vedam Design & Technology Centre",
+            "Bharati Shipyard Pvt. Ltd",
+            "Varsha Engineering Services",
+            "Maharashtra Board of Technical Education",
+            "S.S.C, Board of Secondary Education",
+            "Chemie- Tech  DMCC",
+            "Dangote Refinery Plant"
+        ],
+        "university": [
+            "Mumbai University"
+        ],
+        "degree": [
+            "B.E. in Mechanical Engineering",
+            "Diploma in Mechanical Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "Mumbai-421 503",
+            "Mumbai",
+            "Thane"
+        ],
+        "email": [
+            "Email",
+            "swap_guru@rediffmail.com",
+            "swapnil.guruchal"
+        ],
+        "phone": [
+            "+91 8097 162931",
+            "+91 9987 220634",
+            "Skype"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "Mechanical engineering": 0.5324,
+            "non-metallic & metallic  piping": 0.2183,
+            "Expertise": 0.2616
+        },
+        "filename": "cv (2252)_annotated.json"
+    }
+}

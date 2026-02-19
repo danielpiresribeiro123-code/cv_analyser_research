@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "IT",
+        "machine learning",
+        "practices",
+        "Other Activities",
+        "Artificial Intelligence and Robotics",
+        "Projects",
+        "Intelligent Library portal",
+        "Cafeteria Smart management",
+        "Geographic data",
+        "Disaster management",
+        "IoTSkills",
+        "Data Modeling",
+        "Requirement Gathering",
+        "Data Science",
+        "Python",
+        "C++",
+        "C",
+        "Java"
+    ],
+    "professional_info": {
+        "person name": [
+            "Robert Sergey",
+            "F R E S H E R",
+            "I"
+        ],
+        "job title": [
+            "Executive Profile"
+        ],
+        "company": [],
+        "university": [
+            "Symbiosis University Pune"
+        ],
+        "degree": [
+            "B.Tech degree",
+            "B.Tech"
+        ],
+        "years of experience": [
+            "Work Experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "IT": 0.185,
+            "machine learning": 0.8009,
+            "practices": 0.218,
+            "Other Activities": 0.1599,
+            "Artificial Intelligence and Robotics": 0.424,
+            "Projects": 0.2953,
+            "Intelligent Library portal": 0.7524,
+            "Cafeteria Smart management": 0.5033,
+            "Geographic data": 0.5027,
+            "Disaster management": 0.258,
+            "IoTSkills": 0.2796,
+            "Data Modeling": 0.4787,
+            "Requirement Gathering": 0.5535,
+            "Data Science": 0.6746,
+            "Python": 0.9725,
+            "C++": 0.9319,
+            "C": 0.9407,
+            "Java": 0.9747
+        },
+        "filename": "cv (4982)_annotated.json"
+    }
+}

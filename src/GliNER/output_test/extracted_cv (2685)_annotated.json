@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "active",
+        "Electrical and Electronics Engineering",
+        "Professional Diploma",
+        "Auto CAD",
+        "MS Office",
+        "Embedded solution PLC& Industrial automation",
+        "circuit boards",
+        "processors",
+        "electronic equipment",
+        "LV panel",
+        "Low Voltage Electrical Installations",
+        "M.D.B",
+        "SMDB",
+        "DB",
+        "TNEB"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAFIASAN MOHAMED R",
+            "I"
+        ],
+        "job title": [
+            "AC A D E M I C S",
+            "WO R K EX P E R I E N C E",
+            "Site Engineer",
+            "project manager"
+        ],
+        "company": [
+            "Annai College of Polytechnic",
+            "Al Ameen Matric. Hr. Sec School",
+            "K & K Contech Engineering Pvt Ltd"
+        ],
+        "university": [
+            "Bharath University"
+        ],
+        "degree": [
+            "Bachelor of Technology"
+        ],
+        "years of experience": [],
+        "address": [
+            "Chennai"
+        ],
+        "email": [
+            "Mobile",
+            "E-Mail",
+            "rabiasantki54@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "active": 0.2167,
+            "Electrical and Electronics Engineering": 0.4205,
+            "Professional Diploma": 0.6477,
+            "Auto CAD": 0.5595,
+            "MS Office": 0.6087,
+            "Embedded solution PLC& Industrial automation": 0.4093,
+            "circuit boards": 0.2426,
+            "processors": 0.2273,
+            "electronic equipment": 0.1719,
+            "LV panel": 0.1772,
+            "Low Voltage Electrical Installations": 0.2583,
+            "M.D.B": 0.3419,
+            "SMDB": 0.3886,
+            "DB": 0.2815,
+            "TNEB": 0.1684
+        },
+        "filename": "cv (2685)_annotated.json"
+    }
+}

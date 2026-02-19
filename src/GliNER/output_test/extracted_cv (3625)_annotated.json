@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "HEAVY MACHINE/ EQUIPMENT",
+        "Vendor Management & Development",
+        "Proficiency",
+        "MS Office",
+        "MS Excel",
+        "MS PowerPoint",
+        "FOOTWEAR MANUFACTURER",
+        "Special Economic Zone Online works"
+    ],
+    "professional_info": {
+        "person name": [
+            "ERSHAD SHAIK"
+        ],
+        "job title": [
+            "Designation",
+            "Purchase Executive",
+            "Admin Staff"
+        ],
+        "company": [
+            "GLOBAL TECHNICS",
+            "NELLORE",
+            "APACHE FOOTWEAR PVT  LTD",
+            "ADDIDAS GROUP"
+        ],
+        "university": [
+            "CourseInstitutionBoard",
+            "UniversityYear of"
+        ],
+        "degree": [
+            "B.TECH",
+            "IT Netaji Engineering"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "ershad.august18@gmail.com",
+            "Email"
+        ],
+        "phone": [
+            "Email",
+            "Mobile",
+            "+91-7032370878"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "HEAVY MACHINE/ EQUIPMENT": 0.3791,
+            "Vendor Management & Development": 0.3843,
+            "Proficiency": 0.2239,
+            "MS Office": 0.7115,
+            "MS Excel": 0.4252,
+            "MS PowerPoint": 0.4658,
+            "FOOTWEAR MANUFACTURER": 0.2038,
+            "Special Economic Zone Online works": 0.1753
+        },
+        "filename": "cv (3625)_annotated.json"
+    }
+}

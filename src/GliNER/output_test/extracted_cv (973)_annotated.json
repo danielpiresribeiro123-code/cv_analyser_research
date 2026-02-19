@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "company law",
+        "banking law",
+        "Exceptionally fluent in legal terminologies",
+        "company and banking laws",
+        "Researching",
+        "Field collection of data",
+        "Post Graduate Diploma",
+        "Undergraduate Law Degree",
+        "Computer Skills",
+        "Kenya Certificate of Secondary",
+        "Certificate of Primary Education",
+        "Skills",
+        "Research Skills",
+        "Legal Correspondence Preparation",
+        "Legal and Non-legal Research",
+        "Contract and Pre-contract Negotiations",
+        "Court Policies and Programs"
+    ],
+    "professional_info": {
+        "person name": [
+            "MUYALA EDWARD"
+        ],
+        "job title": [
+            "Professional summary",
+            "Enthusiastic legal professional",
+            "Professional and reliable legal assistance",
+            "Enumerator",
+            "Legal intern",
+            "Judicial attachee",
+            "Bankruptcy Expert",
+            "Personal Achievements",
+            "Trained First Aider",
+            "Scout with Ability to Improvise"
+        ],
+        "company": [
+            "One Acre Fund",
+            "Miyenda & co",
+            "Kisumu law court",
+            "Malava Boys High School",
+            "Nzoia Sugar Company"
+        ],
+        "university": [
+            "Kenya School of Law",
+            "Moi University",
+            "Uasin Gishu",
+            "African Institute of, Research and Development   Bungoma",
+            "Primary School                     Bungoma"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "KIBABA",
+            "Nairobi",
+            "Karen"
+        ],
+        "email": [
+            "muyalaeddy@gmail.com",
+            "Leadership"
+        ],
+        "phone": [
+            "+254719240410"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "company law": 0.305,
+            "banking law": 0.3491,
+            "Exceptionally fluent in legal terminologies": 0.2413,
+            "company and banking laws": 0.1574,
+            "Researching": 0.1753,
+            "Field collection of data": 0.2004,
+            "Post Graduate Diploma": 0.8233,
+            "Undergraduate Law Degree": 0.8731,
+            "Computer Skills": 0.3873,
+            "Kenya Certificate of Secondary": 0.1915,
+            "Certificate of Primary Education": 0.3333,
+            "Skills": 0.1799,
+            "Research Skills": 0.3016,
+            "Legal Correspondence Preparation": 0.1514,
+            "Legal and Non-legal Research": 0.1651,
+            "Contract and Pre-contract Negotiations": 0.1831,
+            "Court Policies and Programs": 0.2354
+        },
+        "filename": "cv (973)_annotated.json"
+    }
+}

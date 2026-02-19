@@ -1,0 +1,112 @@
+{
+    "skills": [
+        "Production Data base",
+        "ACDC",
+        "Account  Centre  Data  Centre-Internal  Tool",
+        "RMMC",
+        "Remote",
+        "Monitoring Management Console",
+        "ASM",
+        "Automated Supplies Management",
+        "Portal",
+        "Electrical Safety Audit",
+        "Lightning Risk Assessment",
+        "CEA Regulation",
+        "NFPA 70",
+        "70E",
+        "70B & 780",
+        "IS 3043",
+        "IS 2309",
+        "IEC",
+        "62305",
+        "Manual  Software  Testing  certification",
+        "Q-Spiders  Software  Testing",
+        "AUTOCAD Electrical 2014 Certification",
+        "Key skills",
+        "Excellent Analytical",
+        "Problem solving",
+        "High concentration levels",
+        "good listening skills",
+        "Ability to work under stringent deadlines",
+        "Good Team player",
+        "Technical Skills",
+        "Programming Languages",
+        "Basics of C",
+        "C++",
+        "Windows XP",
+        "Windows 7"
+    ],
+    "professional_info": {
+        "person name": [
+            "SALINI",
+            "Designation"
+        ],
+        "job title": [
+            "Designation",
+            "Process Associate",
+            "Engineer",
+            "Consultant"
+        ],
+        "company": [
+            "Hewlett-Packard Inc.",
+            "Waaree Energies Limited",
+            "Chola MS Risk Services Limited",
+            "CADD Centre"
+        ],
+        "university": [
+            "Training Institute",
+            "ManagementUniversity of Petroleum and Energy"
+        ],
+        "degree": [
+            "MBA in Power"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "8939740811",
+            "Salini.rn@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 35,
+        "confidence_scores": {
+            "Production Data base": 0.5782,
+            "ACDC": 0.3706,
+            "Account  Centre  Data  Centre-Internal  Tool": 0.4171,
+            "RMMC": 0.3802,
+            "Remote": 0.2136,
+            "Monitoring Management Console": 0.4386,
+            "ASM": 0.3938,
+            "Automated Supplies Management": 0.3756,
+            "Portal": 0.377,
+            "Electrical Safety Audit": 0.2211,
+            "Lightning Risk Assessment": 0.2585,
+            "CEA Regulation": 0.7828,
+            "NFPA 70": 0.8667,
+            "70E": 0.6734,
+            "70B & 780": 0.7052,
+            "IS 3043": 0.8154,
+            "IS 2309": 0.824,
+            "IEC": 0.663,
+            "62305": 0.7115,
+            "Manual  Software  Testing  certification": 0.4721,
+            "Q-Spiders  Software  Testing": 0.5317,
+            "AUTOCAD Electrical 2014 Certification": 0.5917,
+            "Key skills": 0.2146,
+            "Excellent Analytical": 0.2137,
+            "Problem solving": 0.2259,
+            "High concentration levels": 0.1918,
+            "good listening skills": 0.2555,
+            "Ability to work under stringent deadlines": 0.1677,
+            "Good Team player": 0.1694,
+            "Technical Skills": 0.2982,
+            "Programming Languages": 0.1515,
+            "Basics of C": 0.425,
+            "C++": 0.5268,
+            "Windows XP": 0.9549,
+            "Windows 7": 0.9747
+        },
+        "filename": "cv (2495)_annotated.json"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Apply For Merchandiser",
+        "Determination",
+        "Unmarried",
+        "English",
+        "Hindi",
+        "Urdu",
+        "Arabic"
+    ],
+    "professional_info": {
+        "person name": [
+            "Farhan Ahmad",
+            "Zubair Akhtar",
+            "Indian"
+        ],
+        "job title": [
+            "Stocker"
+        ],
+        "company": [
+            "B.S.E.B",
+            "Big Bazaar",
+            "Future Group"
+        ],
+        "university": [
+            "RTU",
+            "CBSE"
+        ],
+        "degree": [
+            "BCA",
+            "Intermediate",
+            "Matriculation"
+        ],
+        "years of experience": [
+            "EXPERIENCE",
+            "3 Years"
+        ],
+        "address": [
+            "B 46/4 Lane No 7, Shaheen Bagh",
+            "Delhi 110025"
+        ],
+        "email": [
+            "Email",
+            "farhan77ahmad77@yahoo.in"
+        ],
+        "phone": [
+            "+91-7042816419 / 9582780631"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Apply For Merchandiser": 0.1721,
+            "Determination": 0.4694,
+            "Unmarried": 0.3426,
+            "English": 0.9246,
+            "Hindi": 0.9333,
+            "Urdu": 0.9288,
+            "Arabic": 0.8835
+        },
+        "filename": "cv (1985)_annotated.json"
+    }
+}

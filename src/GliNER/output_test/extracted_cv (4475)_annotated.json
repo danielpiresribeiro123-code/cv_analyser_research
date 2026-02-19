@@ -1,0 +1,88 @@
+{
+    "skills": [
+        "organizational",
+        "problem solving skills",
+        "Microsoft Office",
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Publisher",
+        "Access",
+        "Teaching Strategies GOLD",
+        "CDA-Infants & Toddlers",
+        "Maryland Child Care Credential",
+        "PCS Web",
+        "Leadership skills",
+        "Time management skills",
+        "Verbal communication skills",
+        "Organizational skills",
+        "Teamwork skills",
+        "Teaching skills",
+        "Resourcefulness",
+        "Patience",
+        "Responsibility",
+        "Reliability",
+        "Determination",
+        "Multi-Tasking",
+        "Basic clerical knowledge",
+        "Reliable",
+        "Experience",
+        "professional competence"
+    ],
+    "professional_info": {
+        "person name": [
+            "TEACHER",
+            "Current"
+        ],
+        "job title": [
+            "Education Coordinator",
+            "teacher"
+        ],
+        "company": [
+            "company",
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Outlook"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 28,
+        "confidence_scores": {
+            "organizational": 0.2012,
+            "problem solving skills": 0.3454,
+            "Microsoft Office": 0.775,
+            "Word": 0.5608,
+            "Excel": 0.448,
+            "PowerPoint": 0.4063,
+            "Publisher": 0.6159,
+            "Access": 0.7169,
+            "Teaching Strategies GOLD": 0.1875,
+            "CDA-Infants & Toddlers": 0.5818,
+            "Maryland Child Care Credential": 0.8427,
+            "PCS Web": 0.1849,
+            "Leadership skills": 0.7695,
+            "Time management skills": 0.6626,
+            "Verbal communication skills": 0.5728,
+            "Organizational skills": 0.7517,
+            "Teamwork skills": 0.5547,
+            "Teaching skills": 0.5857,
+            "Resourcefulness": 0.6351,
+            "Patience": 0.5915,
+            "Responsibility": 0.5068,
+            "Reliability": 0.579,
+            "Determination": 0.5999,
+            "Multi-Tasking": 0.6591,
+            "Basic clerical knowledge": 0.643,
+            "Reliable": 0.587,
+            "Experience": 0.2174,
+            "professional competence": 0.3467
+        },
+        "filename": "cv (4475)_annotated.json"
+    }
+}

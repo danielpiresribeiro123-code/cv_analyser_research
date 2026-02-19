@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "specializing in assessments",
+        "Responsible self-starter",
+        "Skill Highlights",
+        "Superior communication skills",
+        "Therapeutic expertise",
+        "Medicaid familiarity",
+        "Psychiatric population familiarity",
+        "Solution-focused counseling",
+        "Exceptional problem solver",
+        "Accomplishments"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "CONSULTANT",
+            "Professional Summary",
+            "Substance Abuse",
+            "Counselor",
+            "Quality management care team member",
+            "Community resources specialist",
+            "clients",
+            "Clinical Case Management Specialist"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "City"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "specializing in assessments": 0.2057,
+            "Responsible self-starter": 0.4874,
+            "Skill Highlights": 0.3131,
+            "Superior communication skills": 0.3375,
+            "Therapeutic expertise": 0.4558,
+            "Medicaid familiarity": 0.3555,
+            "Psychiatric population familiarity": 0.5304,
+            "Solution-focused counseling": 0.3793,
+            "Exceptional problem solver": 0.546,
+            "Accomplishments": 0.3881
+        },
+        "filename": "cv (4535)_annotated.json"
+    }
+}

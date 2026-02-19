@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "internal communications",
+        "creativeness",
+        "strategy",
+        "influence",
+        "Technical Skills",
+        "Healthcare industry experience",
+        "Experience",
+        "experience",
+        "Electronic Health Record systems",
+        "Clinical, Libraries",
+        "marketing strategy"
+    ],
+    "professional_info": {
+        "person name": [
+            "Current"
+        ],
+        "job title": [
+            "COMMUNICATIONS CONSULTANT",
+            "Client-focusedÂ communications professional",
+            "senior executives",
+            "communication leaders",
+            "national program leader",
+            "physician executives"
+        ],
+        "company": [
+            "Company Name",
+            "Kaiser Permanente",
+            "Institute for Healthcare Improvement",
+            "Permanente Medical Groups"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "10 yearsÂ"
+        ],
+        "address": [
+            "City",
+            "State"
+        ],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "internal communications": 0.1744,
+            "creativeness": 0.3417,
+            "strategy": 0.3012,
+            "influence": 0.1749,
+            "Technical Skills": 0.5249,
+            "Healthcare industry experience": 0.2665,
+            "Experience": 0.2439,
+            "experience": 0.2378,
+            "Electronic Health Record systems": 0.4276,
+            "Clinical, Libraries": 0.8543,
+            "marketing strategy": 0.2907
+        },
+        "filename": "cv (4527)_annotated.json"
+    }
+}

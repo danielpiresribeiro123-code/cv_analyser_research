@@ -1,0 +1,91 @@
+{
+    "skills": [
+        "Business Development",
+        "Underwriting",
+        "Sales",
+        "Customer Service",
+        "Professional Experience",
+        "Financial Services",
+        "Business",
+        "Financial  Analysis",
+        "Risk Analysis",
+        "Client Relations",
+        "Presentation Skills",
+        "Underwriting",
+        "Team  – Training  & Management",
+        "Inter Personal Skills",
+        "Finance",
+        "Core Competencies",
+        "Business Development",
+        "suppliers",
+        "Credit  Anal ysis",
+        "Microsoft Moody ’s",
+        "Risk Analyst System",
+        "Bank Statement",
+        "Indivi dual",
+        "Sale & leaseback",
+        "Flex",
+        "cube",
+        "Financial Lease system"
+    ],
+    "professional_info": {
+        "person name": [
+            "Mohammed Imran Khan"
+        ],
+        "job title": [
+            "Credit Analyst"
+        ],
+        "company": [
+            "Gulf Finance Co"
+        ],
+        "university": [
+            "Sikkim Manipal University",
+            "Osmania University"
+        ],
+        "degree": [
+            "MBA",
+            "Master’s in Business Administration",
+            "Bachelor’s in Commerce (Computers)"
+        ],
+        "years of experience": [],
+        "address": [
+            "Riyadh"
+        ],
+        "email": [
+            "+966 – 535057552",
+            "sincere.imran@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "Business Development": 0.2737,
+            "Underwriting": 0.2984,
+            "Sales": 0.2852,
+            "Customer Service": 0.313,
+            "Professional Experience": 0.2568,
+            "Financial Services": 0.2855,
+            "Business": 0.2316,
+            "Financial  Analysis": 0.2476,
+            "Risk Analysis": 0.2322,
+            "Client Relations": 0.1574,
+            "Presentation Skills": 0.4557,
+            "Team  – Training  & Management": 0.3428,
+            "Inter Personal Skills": 0.4187,
+            "Finance": 0.382,
+            "Core Competencies": 0.4031,
+            "suppliers": 0.1783,
+            "Credit  Anal ysis": 0.258,
+            "Microsoft Moody ’s": 0.1993,
+            "Risk Analyst System": 0.3748,
+            "Bank Statement": 0.3418,
+            "Indivi dual": 0.215,
+            "Sale & leaseback": 0.1979,
+            "Flex": 0.2479,
+            "cube": 0.2623,
+            "Financial Lease system": 0.246
+        },
+        "filename": "cv (1348)_annotated.json"
+    }
+}

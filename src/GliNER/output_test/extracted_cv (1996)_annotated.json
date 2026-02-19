@@ -1,0 +1,95 @@
+{
+    "skills": [
+        "Asimskype6",
+        "creative",
+        "Interpersonal communication",
+        "leadership",
+        "analytical and organizational skills",
+        "able to function",
+        "execute individually",
+        "Design",
+        "Site Supervision",
+        "Quality assurance",
+        "Quality control",
+        "proven abilities",
+        "Revit MEP",
+        "Plumbing",
+        "Fire Fighting",
+        "HVAC",
+        "Piping",
+        "mechanical engineering  profession",
+        "Planning & Plotting  Construction",
+        "MEP",
+        "Infra",
+        "Knowledge",
+        "Skills and Abilities",
+        "Preparation of coordination shop drawings",
+        "CHW piping",
+        "Drainage",
+        "Electrical MEP"
+    ],
+    "professional_info": {
+        "person name": [
+            "ASEEM PEER  MOHAMMAD"
+        ],
+        "job title": [],
+        "company": [
+            "AutoCAD",
+            "Oil & Gas"
+        ],
+        "university": [],
+        "degree": [
+            "Diploma  holder"
+        ],
+        "years of experience": [
+            "over  9years  of experience"
+        ],
+        "address": [
+            "Address",
+            "AZEENA MANZIL",
+            "KALUVILAKAM",
+            "Skype"
+        ],
+        "email": [
+            "Email",
+            "asim.goal@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+919061256876"
+        ]
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "Asimskype6": 0.2801,
+            "creative": 0.1968,
+            "Interpersonal communication": 0.6326,
+            "leadership": 0.5797,
+            "analytical and organizational skills": 0.344,
+            "able to function": 0.1897,
+            "execute individually": 0.1864,
+            "Design": 0.475,
+            "Site Supervision": 0.2729,
+            "Quality assurance": 0.4508,
+            "Quality control": 0.3887,
+            "proven abilities": 0.2966,
+            "Revit MEP": 0.3495,
+            "Plumbing": 0.3404,
+            "Fire Fighting": 0.3238,
+            "HVAC": 0.2218,
+            "Piping": 0.1894,
+            "mechanical engineering  profession": 0.1652,
+            "Planning & Plotting  Construction": 0.4281,
+            "MEP": 0.3579,
+            "Infra": 0.1846,
+            "Knowledge": 0.172,
+            "Skills and Abilities": 0.2308,
+            "Preparation of coordination shop drawings": 0.1512,
+            "CHW piping": 0.3182,
+            "Drainage": 0.2325,
+            "Electrical MEP": 0.4346
+        },
+        "filename": "cv (1996)_annotated.json"
+    }
+}

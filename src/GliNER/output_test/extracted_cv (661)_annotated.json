@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "ISO 9001:2015",
+        "Enviornment Audit",
+        "FMEA",
+        "Hazop"
+    ],
+    "professional_info": {
+        "person name": [
+            "MAHESH PREMCHAND KHABRANI"
+        ],
+        "job title": [
+            "Manager (Safety)",
+            "Service Engineer",
+            "Electrical Engineer",
+            "JOB PROFILE",
+            "Safety  Manager"
+        ],
+        "company": [
+            "Garden Silk Mills Limited",
+            "Leading Textile Manufacturing Organization in India",
+            "Arovac Vacuum Pumps",
+            "Harshvardhan Chemicals and Fertilizers",
+            "Power Trading",
+            "Power Plant & Utilities",
+            "garden silk mills ltd",
+            "Rolls Royce - Ulstein Bergen"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "WORK EXPERIENCE",
+            "28 Years"
+        ],
+        "address": [
+            "Postal Address",
+            "A-303",
+            "Shivalik Flats B/H Govindji Park",
+            "Pin-395 007"
+        ],
+        "email": [
+            "E- Mail",
+            "mahesh_khabrani@yahoo.com"
+        ],
+        "phone": [
+            "Telephone Number",
+            "(O)02622-305444",
+            "(R)0261-2254801",
+            "(M)98259-18590"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "ISO 9001:2015": 0.8474,
+            "Enviornment Audit": 0.5466,
+            "FMEA": 0.4898,
+            "Hazop": 0.4492
+        },
+        "filename": "cv (661)_annotated.json"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "skills": [
+        "professional skills",
+        "FIFO",
+        "ISO"
+    ],
+    "professional_info": {
+        "person name": [
+            "Soni Mayank kumar"
+        ],
+        "job title": [
+            "Store Executive",
+            "Store Officer",
+            "Excise Clerk"
+        ],
+        "company": [
+            "Meena Circuits PVT. LTD.",
+            "ECI technologies PVT. LTD.",
+            "M/s Saeplast India (Pvt.) Ltd.",
+            "MNC"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "Sipor",
+            "Sonivas",
+            "Mehsana",
+            "Pin.- 384335"
+        ],
+        "email": [
+            "Email",
+            "smayanks@yahoo. co.",
+            "smayank77@rediffmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "professional skills": 0.2578,
+            "FIFO": 0.1509,
+            "ISO": 0.4711
+        },
+        "filename": "cv (722)_annotated.json"
+    }
+}

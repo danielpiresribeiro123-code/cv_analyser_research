@@ -1,0 +1,85 @@
+{
+    "skills": [
+        "skills",
+        "design and mechanical engineering",
+        "SOFTWARE SKILLSSS",
+        "M S OFFICE",
+        "C++",
+        "OOPS",
+        "AutoCad",
+        "PERSONAL COMPETANCIE",
+        "punctual",
+        "disciplined",
+        "friendly",
+        "communicating in a professional manner",
+        "co-workers",
+        "good at taking direction",
+        "leadership skills",
+        "positive attitude",
+        "CARROT HARVESTER",
+        "Volunteer",
+        "Volleyball champion"
+    ],
+    "professional_info": {
+        "person name": [
+            "KARAN SINGH SHEKHAWAT",
+            "I"
+        ],
+        "job title": [],
+        "company": [
+            "company",
+            "S.noCOLLEGE/SCHOOL UNIVERSITY",
+            "School Govindgarh (Jaipur)",
+            "Indian Railway",
+            "DIESEL SHED PHULERA",
+            "JIEM",
+            "TATA STRIVE"
+        ],
+        "university": [
+            "Jaipur Institute Of Engineering &",
+            "Bright Moon Public Sr. Sec.",
+            "R.B.S.E.",
+            "Deepak Academy Sr. Sec. School"
+        ],
+        "degree": [
+            "ManagementR.T.U. 2012-16"
+        ],
+        "years of experience": [],
+        "address": [
+            "Vill- Balekhan",
+            "Post- loharwara",
+            "Teh- Chomu"
+        ],
+        "email": [
+            "ksskaranbanna@gmail.com"
+        ],
+        "phone": [
+            "+919829986763"
+        ]
+    },
+    "metadata": {
+        "total_skills": 19,
+        "confidence_scores": {
+            "skills": 0.3673,
+            "design and mechanical engineering": 0.3386,
+            "SOFTWARE SKILLSSS": 0.1625,
+            "M S OFFICE": 0.32,
+            "C++": 0.6612,
+            "OOPS": 0.4415,
+            "AutoCad": 0.5293,
+            "PERSONAL COMPETANCIE": 0.2387,
+            "punctual": 0.3718,
+            "disciplined": 0.4027,
+            "friendly": 0.4098,
+            "communicating in a professional manner": 0.3802,
+            "co-workers": 0.2155,
+            "good at taking direction": 0.2145,
+            "leadership skills": 0.3568,
+            "positive attitude": 0.3381,
+            "CARROT HARVESTER": 0.22,
+            "Volunteer": 0.1606,
+            "Volleyball champion": 0.1587
+        },
+        "filename": "cv (2883)_annotated.json"
+    }
+}

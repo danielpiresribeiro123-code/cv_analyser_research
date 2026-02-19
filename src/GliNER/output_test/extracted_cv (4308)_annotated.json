@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "communications",
+        "public relations",
+        "event planning",
+        "media relations",
+        "marketing campaigns",
+        "sales",
+        "messaging",
+        "dissemination techniques and methods",
+        "multimedia production experience",
+        "Project management",
+        "Sound judgment",
+        "web",
+        "CMS applications",
+        "Decisive problem solver",
+        "Team player",
+        "sales and marketing",
+        "graphic design",
+        "webÂ"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "PUBLIC RELATIONS MANAGER",
+            "seasoned professional",
+            "Marketing and sales specialist",
+            "Lead communications professional",
+            "webmaster"
+        ],
+        "company": [
+            "Company Name",
+            "nation's fifth largest truckload carrier",
+            "U.S. Xpress",
+            "usxpress.com"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "30 years of experience"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 18,
+        "confidence_scores": {
+            "communications": 0.2959,
+            "public relations": 0.522,
+            "event planning": 0.1686,
+            "media relations": 0.2928,
+            "marketing campaigns": 0.2393,
+            "sales": 0.2958,
+            "messaging": 0.2497,
+            "dissemination techniques and methods": 0.2036,
+            "multimedia production experience": 0.3376,
+            "Project management": 0.4561,
+            "Sound judgment": 0.2535,
+            "web": 0.4708,
+            "CMS applications": 0.4102,
+            "Decisive problem solver": 0.2537,
+            "Team player": 0.2802,
+            "sales and marketing": 0.1972,
+            "graphic design": 0.2785,
+            "webÂ": 0.3192
+        },
+        "filename": "cv (4308)_annotated.json"
+    }
+}

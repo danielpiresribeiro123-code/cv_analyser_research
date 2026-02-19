@@ -1,0 +1,98 @@
+{
+    "skills": [
+        "TECHNICAL SKILLS",
+        "Windows OS",
+        "Win 98",
+        "XP",
+        "Vista",
+        "Windows 7",
+        "8",
+        "8.1",
+        "MS Office Suite",
+        "Word",
+        "Excel",
+        "Power Point",
+        "Outlook",
+        "Active Directory",
+        "Antivirus",
+        "Internet Security",
+        "Spyware Removal tools",
+        "CCTV Operations",
+        "COMPUTER SKILLS",
+        "Basic Networking Configuration",
+        "System Administration",
+        "Tally",
+        "MS Office",
+        "Visual Basics",
+        "Embedded system",
+        "Hardware and Software System Installation and Maintenance",
+        "Windows 98",
+        "Windows Vista",
+        "motivator",
+        "good administrator",
+        "Excellent knowledge"
+    ],
+    "professional_info": {
+        "person name": [
+            "MOHAMMED BAZIL.J"
+        ],
+        "job title": [
+            "supervisor",
+            "security supervisor",
+            "Security officers",
+            "Initiator"
+        ],
+        "company": [],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "E-Mail",
+            "imanfazi787@gmail.com",
+            "MS Exchange",
+            "MS Outlook"
+        ],
+        "phone": [
+            "Mobile",
+            "0551729556"
+        ]
+    },
+    "metadata": {
+        "total_skills": 31,
+        "confidence_scores": {
+            "TECHNICAL SKILLS": 0.2646,
+            "Windows OS": 0.7903,
+            "Win 98": 0.2229,
+            "XP": 0.571,
+            "Vista": 0.1819,
+            "Windows 7": 0.781,
+            "8": 0.1593,
+            "8.1": 0.421,
+            "MS Office Suite": 0.7788,
+            "Word": 0.2108,
+            "Excel": 0.1889,
+            "Power Point": 0.3283,
+            "Outlook": 0.2446,
+            "Active Directory": 0.3745,
+            "Antivirus": 0.4194,
+            "Internet Security": 0.5019,
+            "Spyware Removal tools": 0.4578,
+            "CCTV Operations": 0.2821,
+            "COMPUTER SKILLS": 0.1882,
+            "Basic Networking Configuration": 0.3712,
+            "System Administration": 0.4218,
+            "Tally": 0.3142,
+            "MS Office": 0.2603,
+            "Visual Basics": 0.5528,
+            "Embedded system": 0.2449,
+            "Hardware and Software System Installation and Maintenance": 0.1862,
+            "Windows 98": 0.4781,
+            "Windows Vista": 0.7153,
+            "motivator": 0.225,
+            "good administrator": 0.1649,
+            "Excellent knowledge": 0.2052
+        },
+        "filename": "cv (2102)_annotated.json"
+    }
+}

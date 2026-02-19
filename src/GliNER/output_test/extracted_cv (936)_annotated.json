@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "Diplomate Of  National Board",
+        "Comprehensive Spine care",
+        "Deformity Correction",
+        "Koch’s Spine",
+        "Spinal Tumors",
+        "Arthroplasty",
+        "Hip and Knee",
+        "Arthroscopy of knee and shoulder"
+    ],
+    "professional_info": {
+        "person name": [
+            "Dr. Ankit Patel",
+            "dr.ankit.p",
+            "P. G. Resident",
+            "Dr Bharat Dave",
+            "Dr. M. M. Prabhakar",
+            "Dr. Bharat Dave",
+            "Dr. G. D. Tharadara",
+            "Dr. H. P. Bhalodia",
+            "Dr. Chirag H. Chudasma"
+        ],
+        "job title": [
+            "Senior Resident",
+            "Consultant Orthopaedic Surgeon",
+            "AO Spine Fellow",
+            "AO Spine Faculty",
+            "Asso",
+            "Asso Prof",
+            "Consultant Arthroscopic surgeon"
+        ],
+        "company": [],
+        "university": [
+            "Seth G. S. Medical College & KEM Hospital",
+            "B. J. Medical College & Civil Hospital",
+            "B. J. Medical College & Civil Hospital Ahmedabad",
+            "Amee Multispeciality Hospital",
+            "B. J. Medical College and Civil Hospital",
+            "The Government Spine Institute and Paraple gia Centre"
+        ],
+        "degree": [
+            "Bachelors of Medicine",
+            "Bachelors of Surgery",
+            "M.B.B.S.",
+            "Masters in Orthopaedic Surgery",
+            "M. S. Orthopaedics",
+            "DNB Orthopaedics"
+        ],
+        "years of experience": [
+            "June 2016",
+            "June 2012",
+            "May 2015"
+        ],
+        "address": [],
+        "email": [
+            "gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "Diplomate Of  National Board": 0.6761,
+            "Comprehensive Spine care": 0.2001,
+            "Deformity Correction": 0.1742,
+            "Koch’s Spine": 0.4084,
+            "Spinal Tumors": 0.2928,
+            "Arthroplasty": 0.3697,
+            "Hip and Knee": 0.2126,
+            "Arthroscopy of knee and shoulder": 0.3287
+        },
+        "filename": "cv (936)_annotated.json"
+    }
+}

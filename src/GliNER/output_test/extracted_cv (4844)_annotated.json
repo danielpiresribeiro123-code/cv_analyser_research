@@ -1,0 +1,83 @@
+{
+    "skills": [
+        "end-to-end analytical solutions",
+        "data",
+        "predictive analytics",
+        "Machine Learning",
+        "Deep",
+        "modelling",
+        "Classification and Regression problems",
+        "Clustering",
+        "Topic",
+        "SKILLS",
+        "Data Science",
+        "Data Analytics",
+        "Database",
+        "Analysis",
+        "Data Mining",
+        "Data Integration",
+        "Statistical",
+        "Natural Language",
+        "Processing",
+        "Python",
+        "SQL",
+        "Flask",
+        "EDUCATION",
+        "PROJECTS"
+    ],
+    "professional_info": {
+        "person name": [
+            "RAJIV GANDHI PROUDYOGIKI",
+            "VISHWAVIDYALAYA"
+        ],
+        "job title": [
+            "data science professional",
+            "MATILDA BENHAMS"
+        ],
+        "company": [
+            "SADHANA CONSULTANTS",
+            "RGPV",
+            "BHOPAL"
+        ],
+        "university": [],
+        "degree": [
+            "B.TECH/B.E. (COMPUTERS)"
+        ],
+        "years of experience": [
+            "1 years"
+        ],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "end-to-end analytical solutions": 0.2053,
+            "data": 0.1578,
+            "predictive analytics": 0.5662,
+            "Machine Learning": 0.8811,
+            "Deep": 0.2772,
+            "modelling": 0.5832,
+            "Classification and Regression problems": 0.2783,
+            "Clustering": 0.378,
+            "Topic": 0.1549,
+            "SKILLS": 0.2507,
+            "Data Science": 0.3658,
+            "Data Analytics": 0.3844,
+            "Database": 0.2899,
+            "Analysis": 0.3117,
+            "Data Mining": 0.5521,
+            "Data Integration": 0.3126,
+            "Statistical": 0.3862,
+            "Natural Language": 0.3313,
+            "Processing": 0.288,
+            "Python": 0.9283,
+            "SQL": 0.3362,
+            "Flask": 0.4361,
+            "EDUCATION": 0.3134,
+            "PROJECTS": 0.1676
+        },
+        "filename": "cv (4844)_annotated.json"
+    }
+}

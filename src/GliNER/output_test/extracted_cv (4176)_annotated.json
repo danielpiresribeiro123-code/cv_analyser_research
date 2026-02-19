@@ -1,0 +1,89 @@
+{
+    "skills": [
+        "Class 12",
+        "Class 10",
+        "highly  skilled",
+        "talented  and  knowledgeable",
+        "extensive knowledge",
+        "Mechanical and Renewable Engineering",
+        "Professional Strengths",
+        "quick and eager learner",
+        "Enthusiastic",
+        "goal oriented",
+        "ability to work under pressure",
+        "Possess great organizational and presentation skills",
+        "English",
+        "Hindi",
+        "Project/ Skills",
+        "Auto Cadd 2D",
+        "Certification",
+        "Boost Convertor",
+        "concentrated solar thermal technology",
+        "Study of Desalination and Filtration of Sea water"
+    ],
+    "professional_info": {
+        "person name": [
+            "ASHISH YADAV",
+            "Ashish  Yadav",
+            "Dr. Rajesh  Kumar",
+            "Dr. J  P  Kesari",
+            "Dr.  R  S  Mishra"
+        ],
+        "job title": [
+            "entry level position"
+        ],
+        "company": [
+            "renowned organization",
+            "Escorts",
+            "NISE",
+            "WRST"
+        ],
+        "university": [
+            "Delhi Technological University2017",
+            "Dronacharya college of engineering",
+            "CBSE"
+        ],
+        "degree": [
+            "Master of Technology  in Renewable Energy & Technology",
+            "M.Tech8",
+            "B.Tech (Mech.)",
+            "M.Tech"
+        ],
+        "years of experience": [],
+        "address": [
+            "RZP -214 Street No 4",
+            "Rajnagar -2"
+        ],
+        "email": [
+            "Email",
+            "6396477ashish@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Class 12": 0.1911,
+            "Class 10": 0.2032,
+            "highly  skilled": 0.2993,
+            "talented  and  knowledgeable": 0.1763,
+            "extensive knowledge": 0.1951,
+            "Mechanical and Renewable Engineering": 0.3089,
+            "Professional Strengths": 0.2629,
+            "quick and eager learner": 0.3629,
+            "Enthusiastic": 0.2836,
+            "goal oriented": 0.3202,
+            "ability to work under pressure": 0.3481,
+            "Possess great organizational and presentation skills": 0.1734,
+            "English": 0.4705,
+            "Hindi": 0.7306,
+            "Project/ Skills": 0.2977,
+            "Auto Cadd 2D": 0.5694,
+            "Certification": 0.1552,
+            "Boost Convertor": 0.1738,
+            "concentrated solar thermal technology": 0.1512,
+            "Study of Desalination and Filtration of Sea water": 0.1727
+        },
+        "filename": "cv (4176)_annotated.json"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "skills": [
+        "Split units",
+        "Team working and management skills",
+        "Mechanical Engineering"
+    ],
+    "professional_info": {
+        "person name": [
+            "SYED MUHAMMA D ZAHID KAUSAR"
+        ],
+        "job title": [
+            "Mechanical Engineer",
+            "Mechanical site e ngineer",
+            "Consultant",
+            "Client’s representative",
+            "Main Contractor"
+        ],
+        "company": [
+            "MEP firms",
+            "Jalandhar P unjab (INDIA )"
+        ],
+        "university": [
+            "Lovely prof essional university"
+        ],
+        "degree": [
+            "Bachelor of Technology",
+            "B.Tech"
+        ],
+        "years of experience": [
+            "Four Years of Working Experience"
+        ],
+        "address": [],
+        "email": [
+            "Email ID",
+            "sm.zahidkausar@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "+9188600 14054",
+            "2011 To 2015"
+        ]
+    },
+    "metadata": {
+        "total_skills": 3,
+        "confidence_scores": {
+            "Split units": 0.2007,
+            "Team working and management skills": 0.2636,
+            "Mechanical Engineering": 0.2178
+        },
+        "filename": "cv (68)_annotated.json"
+    }
+}

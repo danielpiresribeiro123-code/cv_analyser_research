@@ -1,0 +1,76 @@
+{
+    "skills": [
+        "skills and abilities",
+        "innovative",
+        "flexible",
+        "AutoCAD",
+        "G.A Dwgs",
+        "Water Spray system",
+        "Sprinkler system",
+        "knowledge",
+        "TAC",
+        "OISD",
+        "NFPA",
+        "Knowledge of Fire Water Pump selection",
+        "NFPA 20",
+        "NFPA 11",
+        "Knowledge",
+        "Hydrant system",
+        "CO2",
+        "NFPA 12",
+        "IG 541",
+        "NFPA 2001"
+    ],
+    "professional_info": {
+        "person name": [
+            "SHAILESH  KUMAR"
+        ],
+        "job title": [
+            "Design Engineer",
+            "Estimation Engineer"
+        ],
+        "company": [
+            "Consilium SFS Fire and Security Solutions PVT LTD."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "1 years of experience"
+        ],
+        "address": [],
+        "email": [
+            "Email",
+            "shailesh1995@yahoo.com"
+        ],
+        "phone": [
+            "Phone",
+            "+918602037198"
+        ]
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "skills and abilities": 0.1894,
+            "innovative": 0.2174,
+            "flexible": 0.1661,
+            "AutoCAD": 0.2975,
+            "G.A Dwgs": 0.1734,
+            "Water Spray system": 0.1893,
+            "Sprinkler system": 0.1783,
+            "knowledge": 0.2669,
+            "TAC": 0.6168,
+            "OISD": 0.6101,
+            "NFPA": 0.6479,
+            "Knowledge of Fire Water Pump selection": 0.1607,
+            "NFPA 20": 0.6767,
+            "NFPA 11": 0.5633,
+            "Knowledge": 0.1651,
+            "Hydrant system": 0.194,
+            "CO2": 0.4715,
+            "NFPA 12": 0.5298,
+            "IG 541": 0.4737,
+            "NFPA 2001": 0.4817
+        },
+        "filename": "cv (2599)_annotated.json"
+    }
+}

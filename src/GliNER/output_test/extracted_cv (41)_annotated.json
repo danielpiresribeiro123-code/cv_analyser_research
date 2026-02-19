@@ -1,0 +1,77 @@
+{
+    "skills": [
+        "technical skills",
+        "knowledge",
+        "IT infrastructure",
+        "CCTV  infrastructure",
+        "CCTV infrastructure",
+        "RF",
+        "Fiber",
+        "LAN network troubleshooting",
+        "software",
+        "Proficiency",
+        "Wi-Fi radio",
+        "Networking",
+        "TCP/IP",
+        "DHCP",
+        "LAN Troubleshooting",
+        "Windows",
+        "system software"
+    ],
+    "professional_info": {
+        "person name": [
+            "NITIN KUMAR"
+        ],
+        "job title": [
+            "Sr. Engineer",
+            "C.E."
+        ],
+        "company": [
+            "PROFESSIONAL SYNOPSYS",
+            "NET Enterprises",
+            "HCL services ltd.",
+            "Indo Gulf Fertilizer  (ABG Group)",
+            "NCL (Northern coalfield ltd.)",
+            "High court, Allahabad",
+            "High tech carbon (ABG group)",
+            "Renukoot",
+            "Hindalco Ind."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "3 years"
+        ],
+        "address": [],
+        "email": [
+            "ntn.kmr@hotmail.com"
+        ],
+        "phone": [
+            "+91 - 8808600736",
+            "9411923977"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "technical skills": 0.3118,
+            "knowledge": 0.4399,
+            "IT infrastructure": 0.429,
+            "CCTV  infrastructure": 0.4367,
+            "CCTV infrastructure": 0.1968,
+            "RF": 0.2781,
+            "Fiber": 0.2948,
+            "LAN network troubleshooting": 0.2135,
+            "software": 0.1939,
+            "Proficiency": 0.2488,
+            "Wi-Fi radio": 0.4308,
+            "Networking": 0.2707,
+            "TCP/IP": 0.3912,
+            "DHCP": 0.3122,
+            "LAN Troubleshooting": 0.2604,
+            "Windows": 0.5906,
+            "system software": 0.2933
+        },
+        "filename": "cv (41)_annotated.json"
+    }
+}

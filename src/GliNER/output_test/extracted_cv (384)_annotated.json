@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "able",
+        "enthusiastic",
+        "skilled",
+        "reliable",
+        "experience",
+        "skills",
+        "personal attributes",
+        "dedication",
+        "meeting goals",
+        "creativity",
+        "project management",
+        "ONGRID SOLAR SYSTEM"
+    ],
+    "professional_info": {
+        "person name": [
+            "Kalidass"
+        ],
+        "job title": [
+            "Engineer – Projects",
+            "erection Engineer",
+            "Engineer – Marketing",
+            "Engineer - Projects"
+        ],
+        "company": [
+            "Rose Flower Pvt Ltd",
+            "Voltech Engineers Pvt Ltd",
+            "CORPORATION OF CHENNAI PROJECT",
+            "INTEGRAL COACH FACTORY",
+            "ICF",
+            "VIVEKANDHA MATRICULATION SCHOOL",
+            "POLLACHI"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "Email",
+            "sbkalidass@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 12,
+        "confidence_scores": {
+            "able": 0.2981,
+            "enthusiastic": 0.2856,
+            "skilled": 0.3693,
+            "reliable": 0.1906,
+            "experience": 0.4396,
+            "skills": 0.429,
+            "personal attributes": 0.2817,
+            "dedication": 0.5196,
+            "meeting goals": 0.4179,
+            "creativity": 0.3629,
+            "project management": 0.2759,
+            "ONGRID SOLAR SYSTEM": 0.1555
+        },
+        "filename": "cv (384)_annotated.json"
+    }
+}

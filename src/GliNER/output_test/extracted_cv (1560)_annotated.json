@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "Skills",
+        "Excellent programming skills",
+        "Strong technical knowledge",
+        "ability to troubleshoot complex problems",
+        "educational software",
+        "Higher  Secondary  Course  Certificate",
+        "Secondary School Leaving Certificate",
+        "Technical Skills",
+        "C",
+        "C++",
+        "Java",
+        ".Net",
+        "Designing Skill",
+        "Html",
+        "Win7",
+        "Windows XP",
+        "MS-Access",
+        "SQL",
+        "MY-SQL",
+        "MS office",
+        "PG Language",
+        "BE-SQL",
+        "FE-Android OS",
+        "BE-mySQL"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [],
+        "company": [
+            "leading organization"
+        ],
+        "university": [
+            "Jeevan  College of Education",
+            "AVVM Sri Pushpam College",
+            "Shrimathi Indira Gandhi College",
+            "St.Josephs’  Girl’s Higher Secondary School",
+            "St.Josephs’ Girl’s Higher Secondary School"
+        ],
+        "degree": [
+            "B.ed",
+            "MCA",
+            "B.Sc"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "(C) 9894860834",
+            "gayathri11.gayu@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 24,
+        "confidence_scores": {
+            "Skills": 0.1674,
+            "Excellent programming skills": 0.4231,
+            "Strong technical knowledge": 0.3465,
+            "ability to troubleshoot complex problems": 0.162,
+            "educational software": 0.1863,
+            "Higher  Secondary  Course  Certificate": 0.72,
+            "Secondary School Leaving Certificate": 0.6542,
+            "Technical Skills": 0.2644,
+            "C": 0.9338,
+            "C++": 0.8781,
+            "Java": 0.9297,
+            ".Net": 0.7761,
+            "Designing Skill": 0.343,
+            "Html": 0.3784,
+            "Win7": 0.8755,
+            "Windows XP": 0.9313,
+            "MS-Access": 0.6607,
+            "SQL": 0.6956,
+            "MY-SQL": 0.7642,
+            "MS office": 0.6035,
+            "PG Language": 0.1708,
+            "BE-SQL": 0.4741,
+            "FE-Android OS": 0.1707,
+            "BE-mySQL": 0.2868
+        },
+        "filename": "cv (1560)_annotated.json"
+    }
+}

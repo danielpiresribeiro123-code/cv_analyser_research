@@ -1,0 +1,91 @@
+{
+    "skills": [
+        "communication",
+        "Dynamic interpersonal",
+        "analytical",
+        "organizational skills",
+        "Leadership",
+        "Relationship Building",
+        "Strategic Business Focus",
+        "Self-Improvement",
+        "Teamwork",
+        "Decision Making and Judgment",
+        "Adaptability",
+        "Inclusiveness",
+        "Agile",
+        "Quality",
+        "Accountability",
+        "Customer Focus",
+        "Work Ethic",
+        "Resourcefulness",
+        "Communication (verbal and written)",
+        "Critical Thinking",
+        "Flexible",
+        "Initiative Skill",
+        "Project management",
+        "Budgeting expertise",
+        "Employee relations",
+        "Self-motivated",
+        "Staff Development",
+        "Human Resources",
+        "personal and confidential matters"
+    ],
+    "professional_info": {
+        "person name": [
+            "INTERN"
+        ],
+        "job title": [
+            "CLAIM REPRESENTATIVE",
+            "HUMAN RESOURCES GENERALIST",
+            "Executive Profile",
+            "Corporate Communications Manager",
+            "Claim Section Manager"
+        ],
+        "company": [
+            "Company Name City",
+            "Kalamazoo Operations Center",
+            "State Farm"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 29,
+        "confidence_scores": {
+            "communication": 0.288,
+            "Dynamic interpersonal": 0.5959,
+            "analytical": 0.3883,
+            "organizational skills": 0.2671,
+            "Leadership": 0.5462,
+            "Relationship Building": 0.4778,
+            "Strategic Business Focus": 0.3593,
+            "Self-Improvement": 0.522,
+            "Teamwork": 0.4817,
+            "Decision Making and Judgment": 0.3482,
+            "Adaptability": 0.5262,
+            "Inclusiveness": 0.5716,
+            "Agile": 0.4733,
+            "Quality": 0.5499,
+            "Accountability": 0.577,
+            "Customer Focus": 0.3353,
+            "Work Ethic": 0.6061,
+            "Resourcefulness": 0.5843,
+            "Communication (verbal and written)": 0.2736,
+            "Critical Thinking": 0.5981,
+            "Flexible": 0.5708,
+            "Initiative Skill": 0.2359,
+            "Project management": 0.6317,
+            "Budgeting expertise": 0.2264,
+            "Employee relations": 0.3572,
+            "Self-motivated": 0.2435,
+            "Staff Development": 0.2345,
+            "Human Resources": 0.1757,
+            "personal and confidential matters": 0.1714
+        },
+        "filename": "cv (4461)_annotated.json"
+    }
+}

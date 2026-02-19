@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "CO N T A C T DE T A I L S",
+        "Electronics Engineering",
+        "sincerity",
+        "dedication",
+        "Adequate knowledge and experience",
+        "maintenance & management",
+        "information flow and management",
+        "Motivate and Lead Operations Team"
+    ],
+    "professional_info": {
+        "person name": [
+            "Zafar Perwaiz"
+        ],
+        "job title": [
+            "Maintenance Manager",
+            "OB J E C T I V E",
+            "Service Engineers",
+            "Service Area Managers"
+        ],
+        "company": [
+            "Amazin Automations and Solutions India Pvt.Ltd",
+            "PAN India"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "C-93",
+            "2nd Floor",
+            "Lane No.01",
+            "Zakir Nagar",
+            "Okhla",
+            "New DelhiE-Mail"
+        ],
+        "email": [
+            "gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "+91-9891860579"
+        ]
+    },
+    "metadata": {
+        "total_skills": 8,
+        "confidence_scores": {
+            "CO N T A C T DE T A I L S": 0.2665,
+            "Electronics Engineering": 0.8577,
+            "sincerity": 0.1824,
+            "dedication": 0.1944,
+            "Adequate knowledge and experience": 0.1724,
+            "maintenance & management": 0.1831,
+            "information flow and management": 0.2536,
+            "Motivate and Lead Operations Team": 0.1562
+        },
+        "filename": "cv (1779)_annotated.json"
+    }
+}

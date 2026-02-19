@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "commitment to excellence",
+        "Organized",
+        "efficient",
+        "detailed",
+        "organize",
+        "Relate extremely well to diverse staff",
+        "Art team",
+        "HRMS",
+        "salary certificate",
+        "experience certificates"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Premananda Das",
+            "Experienced professional",
+            "EXPERIENCE",
+            "Sr. Executive",
+            "Quality Controllers",
+            "Editors",
+            "project managers",
+            "Administrator",
+            "Human Resources Manager"
+        ],
+        "company": [
+            "MPS Ltd.",
+            "Midmac Contracting Co WLL"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "New Ashok Nagar",
+            "New Delhi",
+            "Noida"
+        ],
+        "email": [
+            "E-mail",
+            "das_prema@rediffmail.com",
+            "mail"
+        ],
+        "phone": [
+            "Phone",
+            "+91 9643994479"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "commitment to excellence": 0.179,
+            "Organized": 0.3746,
+            "efficient": 0.2186,
+            "detailed": 0.2887,
+            "organize": 0.2467,
+            "Relate extremely well to diverse staff": 0.1563,
+            "Art team": 0.2994,
+            "HRMS": 0.7859,
+            "salary certificate": 0.3545,
+            "experience certificates": 0.7325
+        },
+        "filename": "cv (115)_annotated.json"
+    }
+}

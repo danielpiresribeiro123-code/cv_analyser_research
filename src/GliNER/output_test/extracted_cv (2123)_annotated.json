@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "Transformer Re-greasing"
+    ],
+    "professional_info": {
+        "person name": [
+            "R.PRABU"
+        ],
+        "job title": [
+            "Site engineer",
+            "Maintenance",
+            "Foreman",
+            "Electrical Supervisor",
+            "electrician"
+        ],
+        "company": [
+            "Hindusthan",
+            "Engg&Tech",
+            "EXIDE INDUSTRIES LIMITED",
+            "INTEGRATED TRADING & SERVICES CO.W.L.L",
+            "SUBCONTRACT",
+            "KAHRAMAA ELECTRICITY NETWORK AFFAIRS-QATAR",
+            "UG CONSTRUCTIONS LIMITED"
+        ],
+        "university": [
+            "Thanthai Roever",
+            "Polytechnic",
+            "Annamalai University"
+        ],
+        "degree": [
+            "Diploma in Electrical and Electronic Engineering",
+            "BE in Computer Science Engineering",
+            "Diploma in Industrial Safety"
+        ],
+        "years of experience": [
+            "EXPERIENCE",
+            "August 2012"
+        ],
+        "address": [
+            "Doha"
+        ],
+        "email": [
+            "E-Mail",
+            "gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 1,
+        "confidence_scores": {
+            "Transformer Re-greasing": 0.213
+        },
+        "filename": "cv (2123)_annotated.json"
+    }
+}

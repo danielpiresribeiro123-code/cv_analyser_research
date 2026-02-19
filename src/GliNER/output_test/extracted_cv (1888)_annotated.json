@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "technical skills and abilities",
+        "Mechanical Seal",
+        "SPM",
+        "Robotic cell",
+        "Hydraulic press & Assembly line",
+        "GD&T standard",
+        "part modelling",
+        "drafting",
+        "Solidedge ST8",
+        "Good visualization skills",
+        "TeamCenter",
+        "Documentum Webtop",
+        "SAP & e.t.c",
+        "API Plan",
+        "AutoCAD 2010",
+        "Solidedge ST5",
+        "Autocad"
+    ],
+    "professional_info": {
+        "person name": [
+            "Diwakar Kumar Pal Kalepadle"
+        ],
+        "job title": [
+            "Designation",
+            "Design Engineer"
+        ],
+        "company": [
+            "Proudyogiki Vishwavidyalaya80",
+            "EagleBurgmann India Pvt Ltd",
+            "JK Automation & Technology Pvt Ltd"
+        ],
+        "university": [],
+        "degree": [
+            "Bachelor of EngineeringMechanical EngineeringRajiv"
+        ],
+        "years of experience": [
+            "Three year experience"
+        ],
+        "address": [
+            "411039"
+        ],
+        "email": [
+            "Email-id",
+            "pal.diwakar94@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "technical skills and abilities": 0.2423,
+            "Mechanical Seal": 0.1891,
+            "SPM": 0.1515,
+            "Robotic cell": 0.1862,
+            "Hydraulic press & Assembly line": 0.2133,
+            "GD&T standard": 0.9172,
+            "part modelling": 0.1505,
+            "drafting": 0.2008,
+            "Solidedge ST8": 0.1896,
+            "Good visualization skills": 0.3545,
+            "TeamCenter": 0.4576,
+            "Documentum Webtop": 0.5351,
+            "SAP & e.t.c": 0.346,
+            "API Plan": 0.2764,
+            "AutoCAD 2010": 0.3652,
+            "Solidedge ST5": 0.2405,
+            "Autocad": 0.3452
+        },
+        "filename": "cv (1888)_annotated.json"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "skills": [
+        "communication",
+        "Engineering",
+        "science",
+        "MG 2014",
+        "SOFTWARE SKILLS",
+        "MATLAB",
+        "MS Word",
+        "Microprocessor And Microcontroller",
+        "STRENGTH",
+        "Flexible",
+        "Responsible",
+        "working independently",
+        "FINGER  VEIN RECOGNITION SYSTEM",
+        "LIBRARY MANAGEMENT SYSTEM USING  RFID",
+        "Single",
+        "English",
+        "Malayalam"
+    ],
+    "professional_info": {
+        "person name": [
+            "BESSY BABY",
+            "BABY N.K"
+        ],
+        "job title": [
+            "Administrative analyst  / project coordinator",
+            "PERSONAL PROFILE"
+        ],
+        "company": [
+            "KELTRON",
+            "TELK and KELL",
+            "247DOC Healthcare",
+            "Solutions Pvt. Ltd"
+        ],
+        "university": [
+            "Degree",
+            "Universi ty",
+            "Mar Baselios Institute",
+            "ST.George  HSS",
+            "Kothamangala m HSE Board",
+            "ST.Augstin e GHSS"
+        ],
+        "degree": [
+            "B.Tech . Electronics and",
+            "Board Of"
+        ],
+        "years of experience": [
+            "22"
+        ],
+        "address": [
+            "NADUKKARA HOUSE",
+            "THALAKODE P.O",
+            "ERNAKULAM",
+            "PH",
+            "Kerala  2010",
+            "Kerala  2008",
+            "Kalamassery"
+        ],
+        "email": [
+            "Email",
+            "bessyb251 @gmail.com"
+        ],
+        "phone": [
+            "PIN 686693",
+            "+919847336905"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "communication": 0.2568,
+            "Engineering": 0.2554,
+            "science": 0.449,
+            "MG 2014": 0.2395,
+            "SOFTWARE SKILLS": 0.3749,
+            "MATLAB": 0.6114,
+            "MS Word": 0.3404,
+            "Microprocessor And Microcontroller": 0.4171,
+            "STRENGTH": 0.3573,
+            "Flexible": 0.3547,
+            "Responsible": 0.3255,
+            "working independently": 0.1588,
+            "FINGER  VEIN RECOGNITION SYSTEM": 0.1781,
+            "LIBRARY MANAGEMENT SYSTEM USING  RFID": 0.221,
+            "Single": 0.2819,
+            "English": 0.4783,
+            "Malayalam": 0.7504
+        },
+        "filename": "cv (1398)_annotated.json"
+    }
+}

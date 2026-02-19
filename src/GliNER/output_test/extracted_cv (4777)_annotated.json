@@ -1,0 +1,53 @@
+{
+    "skills": [
+        "Highly motivated and results-oriented individual",
+        "Unmanned Aerial Vehicles",
+        "Aeronautical Development and Design",
+        "Structural Analysis",
+        "MATLAB",
+        "AVL",
+        "C Programming",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "AVL",
+        "FlightGear",
+        "SAE Aero Design West"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "Aerospace Engineer",
+            "Team Leader"
+        ],
+        "company": [
+            "Northrop Grumman",
+            "Company Name",
+            "Lockheed Martin"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "Highly motivated and results-oriented individual": 0.2323,
+            "Unmanned Aerial Vehicles": 0.6568,
+            "Aeronautical Development and Design": 0.609,
+            "Structural Analysis": 0.8157,
+            "MATLAB": 0.5697,
+            "AVL": 0.6199,
+            "C Programming": 0.5505,
+            "Microsoft Word": 0.6851,
+            "Microsoft Excel": 0.658,
+            "Microsoft PowerPoint": 0.6911,
+            "FlightGear": 0.6565,
+            "SAE Aero Design West": 0.7546
+        },
+        "filename": "cv (4777)_annotated.json"
+    }
+}

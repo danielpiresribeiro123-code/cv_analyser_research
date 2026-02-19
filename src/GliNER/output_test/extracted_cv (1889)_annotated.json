@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "hiring manager",
+        "B.A",
+        "SSC (10th)",
+        "FIELD EXPERIENCE",
+        "Software Skills",
+        "Basic",
+        "MS Office",
+        "DTTP",
+        "TALLY 9",
+        "Hardware and Networking  (IT Service)",
+        "SALES OFFICE",
+        "Male",
+        "Single"
+    ],
+    "professional_info": {
+        "person name": [
+            "SAYYED GHULAM MOHIYUDDIN",
+            "SAYYED SHAHIRUDDIN",
+            "SHENAZ BI"
+        ],
+        "job title": [
+            "BACHLOR OF COMPUTER",
+            "Store Keeper",
+            "Cleaning Supervisor",
+            "Computer Operator and Account",
+            "Sales Excutive",
+            "SALESMAN",
+            "HR & MANGER"
+        ],
+        "company": [
+            "SYMGA HIGH SCHOOL (GSEB)",
+            "Reliance and Vodafone",
+            "Relince"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "ADDRESS",
+            "7/571"
+        ],
+        "email": [
+            "E-mail",
+            "sayyedbaba92@gmail.com",
+            "+918141190687"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 13,
+        "confidence_scores": {
+            "hiring manager": 0.2313,
+            "B.A": 0.1886,
+            "SSC (10th)": 0.399,
+            "FIELD EXPERIENCE": 0.1802,
+            "Software Skills": 0.2831,
+            "Basic": 0.3454,
+            "MS Office": 0.687,
+            "DTTP": 0.3861,
+            "TALLY 9": 0.2787,
+            "Hardware and Networking  (IT Service)": 0.1557,
+            "SALES OFFICE": 0.1796,
+            "Male": 0.1614,
+            "Single": 0.2881
+        },
+        "filename": "cv (1889)_annotated.json"
+    }
+}

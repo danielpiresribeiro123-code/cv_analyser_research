@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "GENDER",
+        "AGE",
+        "Luhya",
+        "Kiswahili",
+        "English",
+        "PROFESSIONAL AWARDS",
+        "Bachelor of science Degree in Agribusiness and Trade management",
+        "Diploma in Business Management",
+        "Certificate in Bio- Intensive Agriculture",
+        "Horticulture Organic"
+    ],
+    "professional_info": {
+        "person name": [
+            "David Wekesa Saenyi",
+            "Kenyan"
+        ],
+        "job title": [
+            "Male",
+            "Married",
+            "Extension Officer",
+            "Head of Crops under Food Security",
+            "Supervisor",
+            "Farm Manager",
+            "Project Manager"
+        ],
+        "company": [
+            "University – Grade B",
+            "Manor House",
+            "Agricultural Centre- Kitale – Grade A",
+            "K.C.S.E.",
+            "Appropriate Rural Development Agriculture",
+            "A.R.D.A.P",
+            "Baobab Trust Firm – Bamburi Mombasa",
+            "Vumilia Community Based",
+            "Donald Romeo Community Project",
+            "Kitale Industry"
+        ],
+        "university": [
+            "Kenyatta University",
+            "Mount Kenya"
+        ],
+        "degree": [
+            "B. I. A",
+            "Kenya Certificate of Secondary Education",
+            "Kenya Certificate of Primary Education",
+            "Academy Primary School- Bungoma Grade B"
+        ],
+        "years of experience": [],
+        "address": [
+            "PROFESSIONAL CREDENTIALS"
+        ],
+        "email": [
+            "E-mail address",
+            "saenyidavid2009@yahoo.com"
+        ],
+        "phone": [
+            "TELEPHONE",
+            "0728722783"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "GENDER": 0.205,
+            "AGE": 0.274,
+            "Luhya": 0.7659,
+            "Kiswahili": 0.8678,
+            "English": 0.7333,
+            "PROFESSIONAL AWARDS": 0.1628,
+            "Bachelor of science Degree in Agribusiness and Trade management": 0.7199,
+            "Diploma in Business Management": 0.6716,
+            "Certificate in Bio- Intensive Agriculture": 0.4486,
+            "Horticulture Organic": 0.1839
+        },
+        "filename": "cv (1315)_annotated.json"
+    }
+}

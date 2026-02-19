@@ -1,0 +1,78 @@
+{
+    "skills": [
+        "mechanical",
+        "committed and dedicated People",
+        "key player",
+        "Male",
+        "Single",
+        "English",
+        "Hindi",
+        "Oriya",
+        "Mechanical department",
+        "AREAS OF EXPERTISE",
+        "Motor repair and winding",
+        "Well knowledge of all type of diesel engine",
+        "Electrical wiring",
+        "dynamic and multi person",
+        "always ready to take",
+        "sincerity",
+        "discipline"
+    ],
+    "professional_info": {
+        "person name": [
+            "Tapan Kumar Sutar",
+            "Sanjoy Sutar"
+        ],
+        "job title": [
+            "electrician",
+            "Mechanic"
+        ],
+        "company": [
+            "Curriculum Vita",
+            "Indian",
+            "CRESCENT CONTRACTORS PVT LTD.",
+            "PINNACLE PREMIUM projects",
+            "HSR LAYOUT/RING ROAD",
+            "INDERSONS CONSTRUCTION Ltd."
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Two year working experience"
+        ],
+        "address": [
+            "756133",
+            "Hinduism",
+            "Permanent address"
+        ],
+        "email": [
+            "sutartapon@gmail.com"
+        ],
+        "phone": [
+            "Mobile no: 8105678133"
+        ]
+    },
+    "metadata": {
+        "total_skills": 17,
+        "confidence_scores": {
+            "mechanical": 0.4444,
+            "committed and dedicated People": 0.438,
+            "key player": 0.2446,
+            "Male": 0.1889,
+            "Single": 0.2982,
+            "English": 0.7014,
+            "Hindi": 0.7565,
+            "Oriya": 0.6171,
+            "Mechanical department": 0.5301,
+            "AREAS OF EXPERTISE": 0.1547,
+            "Motor repair and winding": 0.3557,
+            "Well knowledge of all type of diesel engine": 0.1679,
+            "Electrical wiring": 0.4332,
+            "dynamic and multi person": 0.3992,
+            "always ready to take": 0.1984,
+            "sincerity": 0.3006,
+            "discipline": 0.1823
+        },
+        "filename": "cv (2008)_annotated.json"
+    }
+}

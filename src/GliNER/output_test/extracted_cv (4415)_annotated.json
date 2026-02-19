@@ -1,0 +1,59 @@
+{
+    "skills": [
+        "Exceptional written and verbal communicator",
+        "Innovative thinker",
+        "Natural leader",
+        "Positive and cheerful",
+        "Active listener",
+        "Staff Development",
+        "curriculum",
+        "NH Child Care Licensing and Operating Standards",
+        "safety standards",
+        "positive attitude",
+        "team player"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "DIRECTOR/PRESCHOOL TEACHER",
+            "Personable education professional",
+            "Registrar",
+            "staff substitutes",
+            "bookkeeper",
+            "teacher",
+            "Kindergarten club teachers",
+            "Lead Teacher"
+        ],
+        "company": [
+            "Company Name"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "email"
+        ],
+        "phone": [
+            "answering machine",
+            "in person"
+        ]
+    },
+    "metadata": {
+        "total_skills": 11,
+        "confidence_scores": {
+            "Exceptional written and verbal communicator": 0.2691,
+            "Innovative thinker": 0.217,
+            "Natural leader": 0.1592,
+            "Positive and cheerful": 0.4059,
+            "Active listener": 0.2715,
+            "Staff Development": 0.2122,
+            "curriculum": 0.197,
+            "NH Child Care Licensing and Operating Standards": 0.6482,
+            "safety standards": 0.213,
+            "positive attitude": 0.494,
+            "team player": 0.1802
+        },
+        "filename": "cv (4415)_annotated.json"
+    }
+}

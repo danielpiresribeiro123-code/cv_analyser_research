@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "12th",
+        "Science",
+        "computational fracture mechanics",
+        "ANSYS"
+    ],
+    "professional_info": {
+        "person name": [
+            "GOURAV MITHARE"
+        ],
+        "job title": [],
+        "company": [
+            "Hind Co-Op Housing Society",
+            "VIAT",
+            "Karnataka PUE Board",
+            "KSEEB",
+            "Solid Works"
+        ],
+        "university": [
+            "VTU",
+            "R.V College of Engineering",
+            "GovindramSeksaria Science PU College",
+            "St. Mary’s High School"
+        ],
+        "degree": [
+            "M. tech Aerospace Propulsion Technology",
+            "B.E Mechanical Engineering"
+        ],
+        "years of experience": [],
+        "address": [
+            "Hindwadi",
+            "Belgaum-590 011"
+        ],
+        "email": [
+            "Email",
+            "gouravmithare@gmail.com"
+        ],
+        "phone": [
+            "Phone",
+            "09483946899"
+        ]
+    },
+    "metadata": {
+        "total_skills": 4,
+        "confidence_scores": {
+            "12th": 0.1823,
+            "Science": 0.5832,
+            "computational fracture mechanics": 0.3743,
+            "ANSYS": 0.4167
+        },
+        "filename": "cv (631)_annotated.json"
+    }
+}

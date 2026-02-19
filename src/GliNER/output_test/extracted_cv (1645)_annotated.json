@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "School201091.5 %",
+        "School2008 78 %",
+        "Reed Relay based Door",
+        "GSM",
+        "TelecomBasics of Telecommunication",
+        "Broadband",
+        "Operations of Telecommunication"
+    ],
+    "professional_info": {
+        "person name": [
+            "V.GAYATHRI"
+        ],
+        "job title": [
+            "teacher",
+            "Physics Teacher"
+        ],
+        "company": [
+            "12thJawahar Higher Secondary",
+            "10thJawahar Higher Secondary",
+            "Tagore Matriculation School",
+            "BSNL",
+            "Neyveli Lignite Corporation, Ltd.",
+            "NLC",
+            "All India Radio",
+            "ISRO",
+            "NLC Ltd."
+        ],
+        "university": [
+            "UNIVERSITY/BOARDYEAR OF",
+            "BE-ECEKCG College of Technology"
+        ],
+        "degree": [],
+        "years of experience": [
+            "EXPERIENCE"
+        ],
+        "address": [
+            "Neyveli Township",
+            "Chennai-27",
+            "Neyveli-3"
+        ],
+        "email": [
+            "Email",
+            "gayathri.2426@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "School201091.5 %": 0.1895,
+            "School2008 78 %": 0.1618,
+            "Reed Relay based Door": 0.291,
+            "GSM": 0.2785,
+            "TelecomBasics of Telecommunication": 0.2377,
+            "Broadband": 0.1524,
+            "Operations of Telecommunication": 0.1867
+        },
+        "filename": "cv (1645)_annotated.json"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "capability",
+        "talents",
+        "skills",
+        "knowledge",
+        "theoretical and technical aspects"
+    ],
+    "professional_info": {
+        "person name": [
+            "S.T.",
+            "MOHAMED SIBAKTHULLA",
+            "S.T.MD"
+        ],
+        "job title": [
+            "WTP Operator (R.O)/Maintenance Control",
+            "Water Treatment Plant Technician",
+            "STP/RO",
+            "Lab. Technician",
+            "WWTP"
+        ],
+        "company": [
+            "Al kharj Military Hospital",
+            "Anan Iskan development Co.",
+            "Emco Engineering Emirates",
+            "Al Ain Municipality",
+            "AECOM Middle East",
+            "Al Khodari & Sons",
+            "Ministry of Water and Electricity"
+        ],
+        "university": [],
+        "degree": [],
+        "years of experience": [
+            "Almost  Eighteen  (18)  years",
+            "May 2014",
+            "October 2012",
+            "July 2011"
+        ],
+        "address": [
+            "Chennai",
+            "Makkah"
+        ],
+        "email": [
+            "Email",
+            "sulthan.thameem@gmail.com"
+        ],
+        "phone": [
+            "Mobile #  0091 8428 61 6690"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "capability": 0.2056,
+            "talents": 0.2448,
+            "skills": 0.4248,
+            "knowledge": 0.3512,
+            "theoretical and technical aspects": 0.2027
+        },
+        "filename": "cv (2450)_annotated.json"
+    }
+}

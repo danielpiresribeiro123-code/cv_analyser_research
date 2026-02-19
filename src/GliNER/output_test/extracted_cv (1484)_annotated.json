@@ -1,0 +1,75 @@
+{
+    "skills": [
+        "OBJECTIVE",
+        "Looking for a career",
+        "M.com (IBO)",
+        "cpca",
+        "Complete taxation software",
+        "tds entry",
+        "vat entry",
+        "excise computation",
+        "LANGUAGE KNOWN",
+        "Hindi",
+        "English",
+        "MARITAL STATUS",
+        "Unmarried",
+        "SKILLS",
+        "work in a team"
+    ],
+    "professional_info": {
+        "person name": [
+            "Deepak",
+            "SH. Tej singh",
+            "Indian",
+            "GENDER",
+            "Male"
+        ],
+        "job title": [],
+        "company": [
+            "CURRICULUM VITAE"
+        ],
+        "university": [
+            "BUDH VIHAR",
+            "CBSE BOARD",
+            "du",
+            "ignou",
+            "national institute of finance account"
+        ],
+        "degree": [],
+        "years of experience": [],
+        "address": [
+            "F1-15",
+            "Phase-I",
+            "New Delhi-110086",
+            "New Delhi"
+        ],
+        "email": [
+            "deep.nature2590@gmail.com",
+            "Graduation"
+        ],
+        "phone": [
+            "Contact No.-9990558172"
+        ]
+    },
+    "metadata": {
+        "total_skills": 15,
+        "confidence_scores": {
+            "OBJECTIVE": 0.1745,
+            "Looking for a career": 0.1931,
+            "M.com (IBO)": 0.3667,
+            "cpca": 0.1537,
+            "Complete taxation software": 0.3212,
+            "tds entry": 0.4628,
+            "vat entry": 0.4392,
+            "excise computation": 0.4195,
+            "LANGUAGE KNOWN": 0.1557,
+            "Hindi": 0.896,
+            "English": 0.8983,
+            "MARITAL STATUS": 0.2336,
+            "Unmarried": 0.3636,
+            "SKILLS": 0.2332,
+            "work in a team": 0.1635
+        },
+        "filename": "cv (1484)_annotated.json"
+    }
+}

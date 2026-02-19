@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "Specialization",
+        "Marketing",
+        "Pharmacy",
+        "Computerized Accountancy",
+        "Documentation"
+    ],
+    "professional_info": {
+        "person name": [
+            "DIVYAM SINGH",
+            "K.V.Bamrauli",
+            "K.V.Birpur"
+        ],
+        "job title": [
+            "Production Manager",
+            "Pharmacist"
+        ],
+        "company": [
+            "School Of Management, Studies (SOMS)",
+            "Institute of Pharmaceutical Sciences",
+            "DCAC",
+            "Kriti Cancer Research Institute and Hospital"
+        ],
+        "university": [
+            "Indira Gandhi National Open University",
+            "IGNOU",
+            "Bundelkhand University",
+            "UPTEC",
+            "CBSE Board",
+            "Adam Laboratories"
+        ],
+        "degree": [
+            "M.B.A.",
+            "B.Pharma",
+            "MBA",
+            "Intermediate",
+            "12th",
+            "PCMB",
+            "High School 10th"
+        ],
+        "years of experience": [
+            "9140512057"
+        ],
+        "address": [
+            "275",
+            "MIG",
+            "Awas Vikas Yozana 2",
+            "Jhunsi"
+        ],
+        "email": [
+            "divyam1980@yahoo.in",
+            "divyambpharmamba@gmail.com"
+        ],
+        "phone": [
+            "Mobile"
+        ]
+    },
+    "metadata": {
+        "total_skills": 5,
+        "confidence_scores": {
+            "Specialization": 0.1551,
+            "Marketing": 0.8634,
+            "Pharmacy": 0.8382,
+            "Computerized Accountancy": 0.8047,
+            "Documentation": 0.186
+        },
+        "filename": "cv (3969)_annotated.json"
+    }
+}

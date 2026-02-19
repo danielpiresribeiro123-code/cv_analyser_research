@@ -1,0 +1,73 @@
+{
+    "skills": [
+        "determined personnel",
+        "solidity",
+        "dedicative personality",
+        "accounting and finance",
+        "MS Office & Tally",
+        "English",
+        "Tamil",
+        "Telugu",
+        "Accounting & Financial Management"
+    ],
+    "professional_info": {
+        "person name": [
+            "S.HEMAVATHY",
+            "M.Srinivasan",
+            "R.Aravind"
+        ],
+        "job title": [
+            "Job  profile",
+            "Graduation"
+        ],
+        "company": [
+            "Organization",
+            "NATHAN LEATHERS",
+            "PERIAMET"
+        ],
+        "university": [
+            "Shri Shankarlal Sundarbai Shasun Jain College",
+            "UNIVERSITY OF MADRAS"
+        ],
+        "degree": [
+            "Bachelor of commerce",
+            "B.com",
+            "Master of business administration",
+            "MBA"
+        ],
+        "years of experience": [
+            "Working Experience",
+            "Experience",
+            "4 yearsPersonnel"
+        ],
+        "address": [
+            "39/19",
+            "kamarajar street",
+            "B.V.Nagar",
+            "Chennai-600061"
+        ],
+        "email": [
+            "E Mail",
+            "hemuhemavathy@gmail.com"
+        ],
+        "phone": [
+            "Mobile",
+            "9884469713"
+        ]
+    },
+    "metadata": {
+        "total_skills": 9,
+        "confidence_scores": {
+            "determined personnel": 0.1804,
+            "solidity": 0.1938,
+            "dedicative personality": 0.2074,
+            "accounting and finance": 0.163,
+            "MS Office & Tally": 0.7035,
+            "English": 0.8043,
+            "Tamil": 0.8585,
+            "Telugu": 0.7505,
+            "Accounting & Financial Management": 0.4095
+        },
+        "filename": "cv (1575)_annotated.json"
+    }
+}

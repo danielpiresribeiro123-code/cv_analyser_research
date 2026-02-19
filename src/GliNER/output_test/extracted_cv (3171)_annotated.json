@@ -1,0 +1,70 @@
+{
+    "skills": [
+        "Academic qualification",
+        "Electrical & Electronics EngineeringAyyappa",
+        "Engineering",
+        "R & D Product Development",
+        "troubleshooting tools",
+        "Vacuum Circuit Breaker",
+        "BATTERY BANK"
+    ],
+    "professional_info": {
+        "person name": [],
+        "job title": [
+            "operation & maintenance of  (Electrical & Electronics)Engineer",
+            "Assistant Engineer"
+        ],
+        "company": [
+            "Aivadhugudi",
+            "Directorate of Technical Education2011-201391",
+            "HSCPachaiyppa’s higher secondary School",
+            "S.S.L.CRamasamychettiar higher secondary school",
+            "CHENNAI RADHA ENGINEERING WORKS (P) LTD.",
+            "Adani Port special Economic zone limited",
+            "CREW PVT LTD.",
+            "RANE TRW STEERING SYSTEM LTD.",
+            "Rane Group",
+            "TRW of United Kingdom",
+            "Hyundai",
+            "Ford",
+            "Tata",
+            "Renault",
+            "M&M",
+            "DICV"
+        ],
+        "university": [
+            "State board of Examination"
+        ],
+        "degree": [],
+        "years of experience": [
+            "2014 Till Now"
+        ],
+        "address": [
+            "SATHIYASUNDHARAM. S #38A",
+            "Shanmuga Nagar",
+            "Lalpuram&(po)",
+            "Manalur"
+        ],
+        "email": [
+            "Email",
+            "shakthiraj46@gmail.com"
+        ],
+        "phone": [
+            "Contact no",
+            "+91 9978029626 Cuddalore -001"
+        ]
+    },
+    "metadata": {
+        "total_skills": 7,
+        "confidence_scores": {
+            "Academic qualification": 0.1935,
+            "Electrical & Electronics EngineeringAyyappa": 0.3377,
+            "Engineering": 0.4523,
+            "R & D Product Development": 0.523,
+            "troubleshooting tools": 0.166,
+            "Vacuum Circuit Breaker": 0.1933,
+            "BATTERY BANK": 0.258
+        },
+        "filename": "cv (3171)_annotated.json"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "skills": [
+        "Skills",
+        "Excellent communication and written skills",
+        "ability to explain the text",
+        "Ability",
+        "Ability of handling situation in an optimistic way",
+        "Excellent basic knowledge of subjects",
+        "ability to teach all sorts of students",
+        "Highly skilled",
+        "Science",
+        "Ability to inspire the students",
+        "Personal Qualities",
+        "Higher Secondary",
+        "Secondary Education",
+        "Certificates",
+        "Certificate course",
+        "NanoScience and technology",
+        "Haematology and Clinical Assessment",
+        "Biology and Bio-Technology",
+        "Tamil",
+        "English"
+    ],
+    "professional_info": {
+        "person name": [
+            "R Dhivya"
+        ],
+        "job title": [
+            "9884560805",
+            "Office Administration",
+            "Teaching"
+        ],
+        "company": [],
+        "university": [
+            "Bharathidasan University",
+            "State Board",
+            "KMC Hospital",
+            "CLRI",
+            "ADYAR"
+        ],
+        "degree": [
+            "Master of Science",
+            "M.Sc Bio-Chemistry",
+            "Bachalor of Science",
+            "B.Sc Bio-Chemistry"
+        ],
+        "years of experience": [],
+        "address": [
+            "Address",
+            "No. 19-A"
+        ],
+        "email": [
+            "Email",
+            "dhivyavkd@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 20,
+        "confidence_scores": {
+            "Skills": 0.2031,
+            "Excellent communication and written skills": 0.2962,
+            "ability to explain the text": 0.4159,
+            "Ability": 0.2551,
+            "Ability of handling situation in an optimistic way": 0.3071,
+            "Excellent basic knowledge of subjects": 0.2161,
+            "ability to teach all sorts of students": 0.2522,
+            "Highly skilled": 0.1762,
+            "Science": 0.415,
+            "Ability to inspire the students": 0.1918,
+            "Personal Qualities": 0.4134,
+            "Higher Secondary": 0.1581,
+            "Secondary Education": 0.245,
+            "Certificates": 0.4918,
+            "Certificate course": 0.3508,
+            "NanoScience and technology": 0.4249,
+            "Haematology and Clinical Assessment": 0.3948,
+            "Biology and Bio-Technology": 0.2702,
+            "Tamil": 0.5052,
+            "English": 0.4843
+        },
+        "filename": "cv (1487)_annotated.json"
+    }
+}

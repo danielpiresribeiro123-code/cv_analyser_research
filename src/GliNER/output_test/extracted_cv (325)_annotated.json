@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "skills",
+        "Mechanical Engineering",
+        "Catia",
+        "Auto Cad",
+        "Data Structure",
+        "C",
+        "C++",
+        "MS -office",
+        "Manufacturing Technology",
+        "Automobile Engineering"
+    ],
+    "professional_info": {
+        "person name": [
+            "IRFAN ANWAR",
+            "OOBBJJEECCTTIIVVEE",
+            "PPRROOFFIICCIIEENNCCYY",
+            "AARREEAA  OOFF  IINNTTEERREESSTT",
+            "PPRROOJJEECCTT  UUNNDDEERRTTAAKKEENN"
+        ],
+        "job title": [
+            "Sales and Services"
+        ],
+        "company": [
+            "established firm"
+        ],
+        "university": [
+            "Eastern Academy of Science and Technology",
+            "Biju Patnaik University of Technology"
+        ],
+        "degree": [
+            "Bachelor of Technology"
+        ],
+        "years of experience": [],
+        "address": [
+            "Bhubaneswar"
+        ],
+        "email": [
+            "E-mail",
+            "ramz.irfanrmz@gmail.com"
+        ],
+        "phone": [
+            "+971-  56 7965004"
+        ]
+    },
+    "metadata": {
+        "total_skills": 10,
+        "confidence_scores": {
+            "skills": 0.1895,
+            "Mechanical Engineering": 0.8537,
+            "Catia": 0.4807,
+            "Auto Cad": 0.6035,
+            "Data Structure": 0.3419,
+            "C": 0.3986,
+            "C++": 0.5827,
+            "MS -office": 0.9452,
+            "Manufacturing Technology": 0.7043,
+            "Automobile Engineering": 0.8909
+        },
+        "filename": "cv (325)_annotated.json"
+    }
+}

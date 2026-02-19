@@ -1,0 +1,96 @@
+{
+    "skills": [
+        "quality  assurance",
+        "program  development",
+        "experience",
+        "Strong Determination",
+        "Self-Confidence",
+        "Hard Working",
+        "Planning & T eam Work",
+        "Industrial Software Development",
+        "JAVA",
+        "C",
+        "C++",
+        ".Net",
+        "SQL Server",
+        "Oracle",
+        "MS Access",
+        "Designing",
+        "HTML 5",
+        "CSS 3",
+        "JSCRIPT",
+        "Windows",
+        "Linux",
+        "Front End",
+        ".net",
+        "office",
+        "Leave Tracking System",
+        "HTML5",
+        "CSS3"
+    ],
+    "professional_info": {
+        "person name": [
+            "SANDIP SHIVAJI BUCHKULE",
+            "T asgaonkar"
+        ],
+        "job title": [],
+        "company": [
+            "Company",
+            "Courier",
+            "courier company"
+        ],
+        "university": [
+            "Institute of",
+            "Engineering and",
+            "T ech.Mumbai",
+            "Vidyapeeth"
+        ],
+        "degree": [
+            "DEGREEYearCollegeUniversity",
+            "MCA2015Yadavrao",
+            "BCA2013Vikas College Tilak",
+            "HSC2010N",
+            "SSC2008Shree Samarth"
+        ],
+        "years of experience": [],
+        "address": [],
+        "email": [
+            "MAIL ID",
+            "buchkulesandip@gmail.com"
+        ],
+        "phone": []
+    },
+    "metadata": {
+        "total_skills": 27,
+        "confidence_scores": {
+            "quality  assurance": 0.3093,
+            "program  development": 0.2651,
+            "experience": 0.1955,
+            "Strong Determination": 0.6566,
+            "Self-Confidence": 0.5076,
+            "Hard Working": 0.5514,
+            "Planning & T eam Work": 0.4363,
+            "Industrial Software Development": 0.3683,
+            "JAVA": 0.9795,
+            "C": 0.903,
+            "C++": 0.9,
+            ".Net": 0.5248,
+            "SQL Server": 0.9364,
+            "Oracle": 0.7128,
+            "MS Access": 0.8542,
+            "Designing": 0.2856,
+            "HTML 5": 0.7356,
+            "CSS 3": 0.6672,
+            "JSCRIPT": 0.849,
+            "Windows": 0.9484,
+            "Linux": 0.9522,
+            "Front End": 0.2109,
+            ".net": 0.5574,
+            "office": 0.2419,
+            "Leave Tracking System": 0.3515,
+            "HTML5": 0.4322,
+            "CSS3": 0.3452
+        },
+        "filename": "cv (1228)_annotated.json"
+    }
+}
