@@ -4,7 +4,6 @@ from utils.path_loader import load_paths
 paths = load_paths()
 
 PROJECT_ROOT = paths["project_root"]
-# print(PROJECT_ROOT)
 
 TEXT_PHOTO_TEST = paths["data"]["datasets_root"] / "labels" / "test"
 SKILL_TABLE_TEST = paths["data"]["skill_tables"] / "labels" / "test"
@@ -13,9 +12,6 @@ SKILL_TABLE_TEST = paths["data"]["skill_tables"] / "labels" / "test"
 from analysis.models.yolo.support.yolo_results import collect_models_results
 from analysis.models.yolo.support.yolo_speed import collect_models_speed
 
-#------------------------------------------
-# Funcões:
-#------------------------------------------
 
 def merge_yolo_results_and_speed(df_yolo_results: pd.DataFrame,
                                  df_yolo_speed: pd.DataFrame) -> pd.DataFrame:
@@ -52,10 +48,6 @@ def merge_yolo_results_and_speed(df_yolo_results: pd.DataFrame,
         suffixes=("", "_speed"),
     )
 
-    # -------------------------------------------------
-    # Criar nome único do modelo
-    # Ex: yolo11s-text-photo-150e4b
-    # -------------------------------------------------
     df_merged["model_name"] = (
         df_merged["yolo_version"].astype(str)+ "-"+ df_merged["task"].astype(str)+ "-"
         + df_merged["train_run"].str.replace("train-", "", regex=False).astype(str))
@@ -119,10 +111,6 @@ def save_dataframe(
 
     return file_path
 
-#------------------------------------------
-# Pipeline
-#------------------------------------------
-
 def create_yolo_models_benchmarks(
     device: str | int = "cpu",
     num_analysed_images: int = 150,
@@ -142,27 +130,26 @@ def create_yolo_models_benchmarks(
     5. Retorna DataFrame final
     """
 
-    # --- 1. Métricas de treino ---
+    # métricas de treino
     df_yolo_results = collect_models_results()
 
-    # --- 2. Velocidade ---
+    # velocidade
     df_yolo_speed = collect_models_speed(
         device=device,
         num_images=num_analysed_images,
         text_photo_imgs_path= text_photo_imgs_path,
         skill_table_imgs_path= skill_table_imgs_path)
 
-    # --- 3. Merge ---
+    # merge 
     df_yolo_final = merge_yolo_results_and_speed(df_yolo_results,df_yolo_speed,)
 
-    # --- 4. Guardar ---
+    # guardar
     save_dataframe(
         df_yolo_final,
         output_path=output_dir,
         filename=filename,
         format=format,)
 
-    # --- 5. Retornar ---
     return df_yolo_final
 
 

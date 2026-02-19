@@ -4,13 +4,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# ==========================================
-# CONFIGURAÇÃO
-# ==========================================
 PASTA_DO_MODELO = "data/processed/results_ner_lowercase"
 PASTA_DESTINO_RELATORIO = "data/comparar_NER/NER"
 NAME = "rel_NER"  # Define aqui o nome do ficheiro
-# ==========================================
 
 def load_trainer_state(output_dir):
     state_path = os.path.join(output_dir, "trainer_state.json")
@@ -38,7 +34,7 @@ def generate_metrics_report(input_dir, save_dir, file_name):
     df_train = df[df["loss"].notna()].copy() if "loss" in df.columns else pd.DataFrame()
 
     if df_eval.empty:
-        print(f"❌ Erro: Dados de avaliação não encontrados em {input_dir}")
+        print(f"Erro: Dados de avaliação não encontrados em {input_dir}")
         return
 
     # 1. Guardar Tabela e Resumo
@@ -83,7 +79,7 @@ def generate_metrics_report(input_dir, save_dir, file_name):
     plt.savefig(f"{save_dir}/{file_name}_graficos.png", dpi=300)
     plt.close()
 
-    print(f"✅ Sucesso! Ficheiros gerados em '{save_dir}':")
+    print(f"Sucesso! Ficheiros gerados em '{save_dir}':")
     print(f"   - {file_name}_graficos.png")
     print(f"   - {file_name}_tabela.csv")
     print(f"   - {file_name}_resumo.txt")

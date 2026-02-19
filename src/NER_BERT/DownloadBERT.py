@@ -22,8 +22,8 @@ def download_bert_model(
 
     id2label = {v: k for k, v in label2id.items()}
 
-    print(f"📥 Download do modelo: {model_name}")
-    print(f"📁 A guardar em: {output_dir.resolve()}")
+    print(f"Download do modelo: {model_name}")
+    print(f"A guardar em: {output_dir.resolve()}")
 
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     tokenizer.save_pretrained(output_dir)
@@ -36,7 +36,7 @@ def download_bert_model(
     )
     model.save_pretrained(output_dir)
 
-    print("✅ Modelo BERT NER pronto.")
+    print("Modelo BERT NER pronto.")
 
 
 label2id = {

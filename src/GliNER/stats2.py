@@ -13,7 +13,7 @@ def gerar_comparativo_visual(num_exemplos=10):
     
     paths_gliner = list(PASTA_GLINER.glob("*.json"))
     if not paths_gliner:
-        print("❌ Nenhum ficheiro do GliNER encontrado.")
+        print("Nenhum ficheiro do GliNER encontrado.")
         return
 
     ficheiros = FICHEIROS_PARA_TESTAR if FICHEIROS_PARA_TESTAR else [f.name.replace("extracted_", "") for f in paths_gliner[:num_exemplos]]
@@ -23,7 +23,7 @@ def gerar_comparativo_visual(num_exemplos=10):
         path_pred = PASTA_GLINER / f"extracted_{nome_arq}"
 
         if not path_gt.exists() or not path_pred.exists():
-            print(f"⚠️ Ficheiro não encontrado: {nome_arq}")
+            print(f"Ficheiro não encontrado: {nome_arq}")
             continue
 
         with open(path_gt, 'r', encoding='utf-8') as f:
@@ -48,8 +48,8 @@ def gerar_comparativo_visual(num_exemplos=10):
         df_comp.to_csv(output_file, index=False, encoding='utf-8-sig')
         
         print(f"\n" + "="*60)
-        print(f"📄 FICHEIRO: {nome_arq}")
-        print(f"📍 Guardado em: {output_file}")
+        print(f"FICHEIRO: {nome_arq}")
+        print(f"Guardado em: {output_file}")
         print("="*60)
         print(df_comp.to_string(index=False))
 

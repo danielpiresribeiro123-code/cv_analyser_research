@@ -38,7 +38,7 @@ def compute_metrics(p, label_list):
 def main():
     # Verifica se a placa gráfica está pronta
     device = "cuda" if torch.cuda.is_available() else "cpu"
-    print(f"🚀 Treino iniciado em: {device.upper()}")
+    print(f"Treino iniciado em: {device.upper()}")
     if torch.cuda.is_available():
         print(f"GPU: {torch.cuda.get_device_name(0)}")
 
@@ -64,7 +64,6 @@ def main():
         label2id=label2id
     )
 
-    # 3. Configurações de Treino Otimizadas para a tua GTX 1050 Ti (4GB VRAM)
     training_args = TrainingArguments(
         output_dir="data/processed/results_ner_lowercase",
         eval_strategy="epoch",
@@ -84,7 +83,7 @@ def main():
 
     data_collator = DataCollatorForTokenClassification(tokenizer)
 
-    # 4. Inicializar o Trainer
+    # 43. Inicializar o Trainer
     trainer = Trainer(
         model=model,
         args=training_args,
@@ -95,7 +94,7 @@ def main():
     )
 
     # 5. Começar o Treino
-    print("✨ A ajustar os pesos do modelo...")
+    print("A ajustar os pesos do modelo...")
     trainer.train()
 
     # 6. Guardar o resultado final
@@ -103,7 +102,7 @@ def main():
     model.save_pretrained(output_dir)
     tokenizer.save_pretrained(output_dir)
     
-    print(f"✅ Sucesso! O teu modelo 'lowercase' está guardado em: {output_dir}")
+    print(f"Sucesso! O teu modelo 'lowercase' está guardado em: {output_dir}")
 
 if __name__ == '__main__':
     main()

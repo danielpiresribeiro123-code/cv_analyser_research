@@ -30,11 +30,10 @@ def split_yolo_from_all(
     images_all = dataset_root / "images" / "all"
     labels_all = dataset_root / "labels" / "all"
 
-    assert images_all.exists(), "❌ images/all não existe"
-    assert labels_all.exists(), "❌ labels/all não existe"
-    assert abs(sum(split) - 1.0) < 1e-6, "❌ As percentagens devem somar 1.0"
+    assert images_all.exists(), "images/all não existe"
+    assert labels_all.exists(), "labels/all não existe"
+    assert abs(sum(split) - 1.0) < 1e-6, "As percentagens devem somar 1.0"
 
-    # ---------- pares válidos ----------
     valid_images = [
         img for img in images_all.iterdir()
         if img.is_file()
@@ -42,13 +41,12 @@ def split_yolo_from_all(
         and (labels_all / f"{img.stem}.txt").exists()
     ]
 
-    print(f"🧹 Pares imagem↔label válidos: {len(valid_images)}")
+    print(f"Pares imagem↔label válidos: {len(valid_images)}")
 
     if not valid_images:
-        print("⚠️ Nenhum par válido encontrado.")
+        print("Nenhum par válido encontrado.")
         return
 
-    # ---------- shuffle ----------
     random.shuffle(valid_images)
 
     n = len(valid_images)
@@ -61,7 +59,6 @@ def split_yolo_from_all(
         "test": valid_images[n_train + n_val:]
     }
 
-    # ---------- copiar ----------
     for split_name, imgs in splits.items():
 
         img_dst = dataset_root / "images" / split_name
@@ -76,13 +73,11 @@ def split_yolo_from_all(
             shutil.copy2(img_path, img_dst / img_path.name)
             shutil.copy2(lbl_path, lbl_dst / lbl_path.name)
 
-    # ---------- resumo ----------
-    print("\n✅ Split concluído:")
+    print("\nSplit concluído:")
     for k, v in splits.items():
         print(f"  {k}: {len(v)} imagens")
 
 
-# ================= USO =================
 split_yolo_from_all(
     dataset_root="C:/Users/danie/Desktop/labellmg/Yolo-CV-Datasets/Skill_tables",
     split=(0.8, 0.1, 0.1)

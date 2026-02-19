@@ -6,9 +6,6 @@ from analysis.train_data.yolo.support.cv_image_analysis import build_images_meta
 from analysis.train_data.yolo.support.cv_txt_labels import analyze_cv_yolo_datasets
 
 
-# =========================================================
-# Paths
-# =========================================================
 paths = load_paths()
 
 PROJECT_ROOT: Path = paths["project_root"]
@@ -23,9 +20,6 @@ SAVE_PATH: Path = PROJECT_ROOT / "src" / "analysis" / "train_data" / "yolo"
 SAVE_PATH.mkdir(parents=True, exist_ok=True)
 
 
-# =========================================================
-# 1) DataFrame completo de análise YOLO
-# =========================================================
 def build_cv_yolo_full_analysis_df(
     text_photo_images: Path,
     text_photo_labels: Path,
@@ -47,9 +41,6 @@ def build_cv_yolo_full_analysis_df(
 
     df = df_images.merge(df_labels, on="filename", how="outer")
 
-    # -------------------------
-    # Flags de pertença
-    # -------------------------
     text_photo_label_names = {p.stem for p in text_photo_labels.glob("*.txt")}
     skill_label_names = {p.stem for p in skill_labels.glob("*.txt")}
 
@@ -61,9 +52,6 @@ def build_cv_yolo_full_analysis_df(
         lambda x: Path(x).stem in skill_label_names if pd.notna(x) else False
     )
 
-    # -------------------------
-    # Normalização de contagens
-    # -------------------------
     for col in ["number_text_block", "number_photo", "number_skill_table"]:
         if col in df.columns:
             df[col] = df[col].fillna(0).astype(int)
@@ -83,9 +71,6 @@ def build_cv_yolo_full_analysis_df(
     return df
 
 
-# =========================================================
-# 2) Summary estatístico (AGORA COM HSV)
-# =========================================================
 def compute_cv_yolo_dataset_summary(df: pd.DataFrame) -> pd.DataFrame:
 
     if df.empty:
@@ -131,9 +116,6 @@ def compute_cv_yolo_dataset_summary(df: pd.DataFrame) -> pd.DataFrame:
     return pd.DataFrame([summary])
 
 
-# =========================================================
-# 3) Texto automático para relatório (AGORA COM HSV)
-# =========================================================
 def generate_eda_text(summary_df: pd.DataFrame) -> str:
 
     if summary_df.empty:
@@ -181,9 +163,6 @@ coverage to support robust YOLO-based layout detection in curriculum vitae docum
 """.strip()
 
 
-# =========================================================
-# 4) Runner completo
-# =========================================================
 def run_full_cv_yolo_eda(save_csv: bool = True):
 
     df = build_cv_yolo_full_analysis_df(

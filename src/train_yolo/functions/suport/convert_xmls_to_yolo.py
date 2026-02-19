@@ -36,7 +36,6 @@ def convert_xmls_to_yolo(
         img_w = float(size.find("width").text)
         img_h = float(size.find("height").text)
 
-        # ---------- tamanho inválido ----------
         if img_w == 0 or img_h == 0:
             ignored_invalid_size.append(xml_file.name)
             continue
@@ -47,7 +46,6 @@ def convert_xmls_to_yolo(
         for obj in root.findall("object"):
             class_name = obj.find("name").text.strip()
 
-            # ---------- classe desconhecida ----------
             if class_name not in class_map:
                 unknown_class_found = True
                 continue
@@ -69,7 +67,6 @@ def convert_xmls_to_yolo(
                 f"{class_id} {x_center:.6f} {y_center:.6f} {width:.6f} {height:.6f}"
             )
 
-        # ---------- nenhuma bbox válida ----------
         if not yolo_lines:
             if unknown_class_found:
                 ignored_unknown_class.append(xml_file.name)
@@ -77,14 +74,12 @@ def convert_xmls_to_yolo(
                 ignored_empty.append(xml_file.name)
             continue
 
-        # ---------- guardar label ----------
         out_txt = output_path / f"{xml_file.stem}.txt"
         out_txt.write_text("\n".join(yolo_lines), encoding="utf-8")
 
         converted.append(xml_file.name)
         print(f"[OK] {xml_file.name} -> {out_txt.name}")
 
-    # ================= RESUMO =================
     print("\n========== RESUMO ==========")
     print(f"Total XML encontrados: {len(xml_files)}")
     print(f"Convertidos com sucesso: {len(converted)}")
@@ -106,7 +101,6 @@ def convert_xmls_to_yolo(
         print("\n".join(ignored_empty))
 
 
-# ================= USO =================
 CLASS_MAP = {"skill_table": 0}
 
 convert_xmls_to_yolo(

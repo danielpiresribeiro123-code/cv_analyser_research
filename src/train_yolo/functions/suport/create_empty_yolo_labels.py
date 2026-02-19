@@ -19,13 +19,11 @@ def create_empty_yolo_labels(
     labels_path = Path(labels_path)
     labels_path.mkdir(parents=True, exist_ok=True)
 
-    # ---------- listar imagens ----------
     image_files = [
         img for img in images_path.iterdir()
         if img.suffix.lower() in image_extensions
     ]
 
-    # ---------- detetar nomes duplicados ----------
     name_counts = Counter(img.stem for img in image_files)
     duplicated_names = {name for name, count in name_counts.items() if count > 1}
 
@@ -36,23 +34,19 @@ def create_empty_yolo_labels(
     for img in image_files:
         stem = img.stem
 
-        # ---------- ignorar duplicados ----------
         if stem in duplicated_names:
             skipped_duplicates.append(img.name)
             continue
 
         label_file = labels_path / f"{stem}.txt"
 
-        # ---------- já existe label ----------
         if label_file.exists():
             skipped_existing.append(img.name)
             continue
 
-        # ---------- criar label vazia ----------
         label_file.write_text("", encoding="utf-8")
         created.append(img.name)
 
-    # ================= RESUMO =================
     print("\n========== RESUMO ==========")
     print(f"Total imagens: {len(image_files)}")
     print(f"Labels vazias criadas: {len(created)}")

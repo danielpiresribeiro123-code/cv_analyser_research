@@ -23,16 +23,16 @@ def train_skill_table_model():
     SAVE_DIR = PROJECT_ROOT / "src" / "train_yolo" / "yolo11s-skill_table"
     SAVE_DIR.mkdir(parents=True, exist_ok=True)
 
-    # 🔎 Validações rápidas (muito recomendadas)
+    # Validações rápidas (muito recomendadas)
     if not DATASET_YAML.exists():
         raise FileNotFoundError(f"data.yaml não encontrado: {DATASET_YAML}")
 
     if not BASE_MODEL.exists():
         raise FileNotFoundError(f"Modelo base não encontrado: {BASE_MODEL}")
 
-    print("📄 Dataset YAML:", DATASET_YAML)
-    print("📦 Modelo base:", BASE_MODEL)
-    print("💾 Resultados em:", SAVE_DIR)
+    print("Dataset YAML:", DATASET_YAML)
+    print("Modelo base:", BASE_MODEL)
+    print("Resultados em:", SAVE_DIR)
 
     model = YOLO(BASE_MODEL)
 

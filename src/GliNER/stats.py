@@ -5,9 +5,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from pathlib import Path
 
-# ==========================================
-# CONFIGURAÇÃO DE CAMINHOS
-# ==========================================
 # Usamos agora a pasta que criaste com os ficheiros filtrados
 PASTA_PROCESSED = Path("data/raw/GliNER_test")
 PASTA_GLINER = Path("src/GliNER/output_test")
@@ -50,7 +47,7 @@ def executar_estatisticas():
     PASTA_RELATORIO.mkdir(parents=True, exist_ok=True)
     resultados = []
     
-    print(f"🚀 Iniciando Comparação: {PASTA_PROCESSED.name} vs GliNER")
+    print(f"Iniciando Comparação: {PASTA_PROCESSED.name} vs GliNER")
 
     # Listar ficheiros na pasta processada
     ficheiros_limpos = list(PASTA_PROCESSED.glob("*.json"))
@@ -88,12 +85,12 @@ def executar_estatisticas():
                 # Debug visual para os casos com F1 baixo
                 if m["f1"] < 0.4:
                     print("\n" + "─"*50)
-                    print(f"📄 FICHEIRO: {f_gt.name}")
-                    print(f"🎯 F1-SCORE: {m['f1']:.2%}")
-                    print(f"✅ [REAL (Annotations)]: {true_skills[:5]}...")
-                    print(f"🤖 [PRED (GliNER IA)]:   {pred_skills[:5]}...")
-                    if m['fn_list']: print(f"❌ Faltou (FN): {m['fn_list'][:3]}")
-                    if m['fp_list']: print(f"➕ Extra (FP):  {m['fp_list'][:3]}")
+                    print(f"FICHEIRO: {f_gt.name}")
+                    print(f"F1-SCORE: {m['f1']:.2%}")
+                    print(f"[REAL (Annotations)]: {true_skills[:5]}...")
+                    print(f"[PRED (GliNER IA)]:   {pred_skills[:5]}...")
+                    if m['fn_list']: print(f"Faltou (FN): {m['fn_list'][:3]}")
+                    if m['fp_list']: print(f"Extra (FP):  {m['fp_list'][:3]}")
                 
                 resultados.append({
                     "ficheiro": f_gt.name,
@@ -103,12 +100,12 @@ def executar_estatisticas():
                 })
 
         except Exception as e:
-            print(f"❌ Erro ao processar {f_gt.name}: {e}")
+            print(f"Erro ao processar {f_gt.name}: {e}")
 
     # 4. Consolidar e Gerar Gráficos
     df = pd.DataFrame(resultados)
     if df.empty:
-        print("❌ Nenhum dado comparável encontrado.")
+        print("Nenhum dado comparável encontrado.")
         return
 
     resumo = pd.DataFrame({
@@ -117,10 +114,10 @@ def executar_estatisticas():
     })
 
     print("\n" + "="*40)
-    print(f"✅ SUCESSO: {len(df)} ficheiros analisados")
-    print(f"📍 Precision Média: {df['precision'].mean():.2%}")
-    print(f"📍 Recall Médio:    {df['recall'].mean():.2%}")
-    print(f"📍 F1-Score Médio:  {df['f1'].mean():.2%}")
+    print(f"SUCESSO: {len(df)} ficheiros analisados")
+    print(f"Precision Média: {df['precision'].mean():.2%}")
+    print(f"Recall Médio:    {df['recall'].mean():.2%}")
+    print(f"F1-Score Médio:  {df['f1'].mean():.2%}")
     print("="*40)
 
     # Exportar resultados

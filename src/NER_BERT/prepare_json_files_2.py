@@ -163,16 +163,16 @@ def build_bert_ner_dataset(
 
     dataset = Dataset.from_list(records)
 
-    print(f"✅ Dataset criado com {len(dataset)} CVs anotados")
-    print(f"⚠️ Sem annotations: {no_annotations}")
-    print(f"⚠️ Texto inválido / erro: {invalid_texts}")
+    print(f"Dataset criado com {len(dataset)} CVs anotados")
+    print(f"Sem annotations: {no_annotations}")
+    print(f"Texto inválido / erro: {invalid_texts}")
 
     if output_dir is not None:
         output_dir.mkdir(parents=True, exist_ok=True)
         output_file = output_dir / "dataset.json"
         dataset.to_json(output_file)
         
-        print(f"💾 Dataset guardado em: {output_file.resolve()}")
+        print(f"Dataset guardado em: {output_file.resolve()}")
     return dataset
 
 
