@@ -52,7 +52,7 @@ def generate_metrics_report(input_dir, save_dir, file_name):
 
     # 2. Gerar Gráficos
     sns.set_theme(style="whitegrid")
-    fig, axes = plt.subplots(2, 2, figsize=(15, 12))
+    fig, axes = plt.subplots(2, 2, figsize=(9, 8))
     fig.suptitle(f'Métricas do Modelo: {file_name}', fontsize=18)
 
     # Loss
