@@ -9,7 +9,7 @@ from pathlib import Path
 # CONFIGURAÇÃO DE CAMINHOS
 # ==========================================
 # Usamos agora a pasta que criaste com os ficheiros filtrados
-PASTA_PROCESSED = Path("data/processed/raw_clean")
+PASTA_PROCESSED = Path("data/raw/GliNER_test")
 PASTA_GLINER = Path("src/GliNER/output_test")
 PASTA_RELATORIO = Path("data/comparar_NER/GliNER")
 
@@ -112,8 +112,8 @@ def executar_estatisticas():
         return
 
     resumo = pd.DataFrame({
-        "Métrica": ["Precision", "Recall", "F1-Score"],
-        "Valor Médio": [df['precision'].mean(), df['recall'].mean(), df['f1'].mean()]
+        "Metric": ["Precision", "Recall", "F1-Score"],
+        "Average": [df['precision'].mean(), df['recall'].mean(), df['f1'].mean()]
     })
 
     print("\n" + "="*40)
@@ -129,12 +129,12 @@ def executar_estatisticas():
     # Gráfico Final
     plt.figure(figsize=(8, 6))
     sns.set_theme(style="whitegrid")
-    ax = sns.barplot(x="Métrica", y="Valor Médio", data=resumo, hue="Métrica", palette="magma", legend=False)
+    ax = sns.barplot(x="Metric", y="Average", data=resumo, hue="Metric", palette="magma", legend=False)
     plt.ylim(0, 1.1)
     for p in ax.patches:
         ax.annotate(f'{p.get_height():.2f}', (p.get_x() + p.get_width() / 2., p.get_height()),
                    ha='center', va='center', xytext=(0, 9), textcoords='offset points')
-    plt.title("Performance GliNER vs Ground Truth (Versão Limpa)")
+    plt.title("Performance GliNER")
     plt.savefig(PASTA_RELATORIO / "grafico_final_limpo.png")
 
 if __name__ == "__main__":
