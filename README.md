@@ -1,166 +1,132 @@
-## Configuração do ambiente (.env)
+# CV GYRO – Research and Model Development
 
-Este projeto utiliza variáveis de ambiente para definir todos os caminhos importantes (dados, modelos, executáveis, etc.).
-Por esse motivo, o ficheiro `.env` é **específico de cada computador** e **não deve ser enviado para o repositório**.
+Research and experimentation repository for **CV GYRO**, developed as a team capstone project for the **Samsung Innovation Campus AI Course at NOVA FCT**.
 
-No repositório existe apenas um ficheiro de exemplo:
+This repository documents the work behind the CV analysis application: dataset preparation, exploratory data analysis, model training, information extraction, and evaluation.
 
-```
-.env.example
-```
+## Final Application
 
-Quando clonares o projeto, deves fazer o seguinte:
+The final application, including its FastAPI backend and React interface, is maintained separately:
 
-1. Criar uma cópia do ficheiro de exemplo:
+**[CV GYRO – Web Application](https://github.com/danielpiresribeiro123-code/cv_analyser_website)**
 
-```bash
-cp .env.example .env
-```
+Use this repository to explore the development process and experiments. Use the application repository to run the web interface.
 
-(no Windows podes simplesmente copiar e renomear o ficheiro manualmente)
+## Research Areas
 
-2. Abrir o ficheiro `.env` e preencher a variável `PROJECT_ROOT` com o caminho onde o projeto está no teu computador.
+- **Dataset preparation:** annotation conversion, dataset splitting, image processing, and data quality experiments.
+- **Exploratory data analysis:** CV layouts, image characteristics, text lengths, and skill distributions.
+- **Layout detection:** YOLO training and evaluation for text blocks, photos, and skill tables.
+- **Text extraction:** OCR experiments, image preprocessing, and extraction from detected regions.
+- **Named entity recognition:** BERT training experiments and GLiNER-based information extraction.
+- **Document understanding:** experimental LayoutLMv3 training and dataset preparation.
+- **Information processing:** combining model outputs with regular expressions and exploring candidate ranking.
+- **Evaluation:** metrics, plots, and analysis of model behaviour.
 
-Exemplo:
+Experimental approaches included here were not necessarily adopted in the final application.
 
-```env
-PROJECT_ROOT=C:/Users/teu_utilizador/Desktop/CapStone
-```
+## Repository Structure
 
+| Path | Contents |
+|---|---|
+| `src/train_yolo/` | YOLO training scripts and dataset preparation utilities |
+| `src/NER_BERT/` | BERT data preparation, training, and analysis |
+| `src/GliNER/` | GLiNER extraction, preprocessing, and analysis |
+| `src/LayoutLMv3/` | Experimental document understanding workflows |
+| `src/ocr/` | OCR and image preprocessing experiments |
+| `src/analysis/` | Dataset exploration and model evaluation |
+| `src/data_edit_files_related/` | File organisation and dataset utilities |
+| `src/data_edit_quality/` | Image degradation and quality experiments |
+| `src/input_processing/` | CV filtering and PDF-to-image conversion |
+| `src/info_extraction/` | Contact extraction, text processing, and ranking |
+| `src/pipelines/` | Experimental CV processing pipeline |
+| `src/utils/` | Shared configuration utilities |
+| `models/trained/` | Trained YOLO checkpoints |
+| `evaluation_results/` | Evaluation summaries and plots |
 
-O resto do ficheiro funciona como configuração automática.
+## Technologies
 
-> O ficheiro `.env` é ignorado pelo Git através do `.gitignore`, garantindo que:
->
-> * Caminhos pessoais não são enviados para o repositório
-> * Cada utilizador pode usar o seu próprio computador sem conflitos
+Python, PyTorch, Ultralytics YOLO, Hugging Face Transformers and Datasets, BERT, GLiNER, LayoutLMv3, PaddleOCR, Tesseract, OpenCV, pandas, scikit-learn, and Jupyter.
 
----
+## Working with the Experiments
 
-## Instalação
+This is a development repository containing notebooks and scripts from different stages of the project. It is not a single, fully packaged application.
 
-Recomenda-se utilizar um **ambiente virtual isolado** antes de instalar o projeto.
+Some experiments require external datasets, additional model downloads, or changes to local paths.
 
----
+### 1. Create a Python environment
 
-### Opção 1 — `venv` (recomendado para VS Code)
+The project declares Python 3.10 or later.
 
 ```bash
 python -m venv .venv
 ```
 
-Ativar:
+Activate it:
 
-**Windows**
-
-```bash
-.venv\Scripts\activate
+**Windows PowerShell**
+```powershell
+.venv\Scripts\Activate.ps1
 ```
 
-**Linux / macOS**
-
+**macOS / Linux**
 ```bash
 source .venv/bin/activate
 ```
 
-Instalar o projeto:
+### 2. Install the declared dependencies
+
+From the repository root:
 
 ```bash
-pip install -e .
+python -m pip install -e ".[dev]"
 ```
 
-Para incluir ferramentas de desenvolvimento (notebooks, formatação, etc.):
+The dependency list does not cover every experimental script. Check the imports and requirements of the experiment you intend to run.
 
-```bash
-pip install -e .[dev]
+OCR engines and GPU support may require separate installation and configuration.
+
+### 3. Configure local paths
+
+Copy `.env.example` to `.env` and configure:
+
+```env
+PROJECT_ROOT=/absolute/path/to/repository
+DATASETS_ROOT=/absolute/path/to/datasets
+DATASETS_SKILL_TABLE=/absolute/path/to/skill-table-dataset
+MODELS_IN_ROOT=${PROJECT_ROOT}/models
+MODELS_OUT_ROOT=/absolute/path/to/external/models
+ENV=dev
 ```
 
----
+The shared path loader expects all these variables. The project and dataset directories must exist.
 
-### Opção 2 — Conda
+Some scripts also contain hard-coded paths or dataset YAML references that must be updated separately. Keep your local `.env` out of version control.
 
-```bash
-conda create -n cv_analyzer python=3.11
-conda activate cv_analyzer
-pip install -e .
-```
+### 4. Select an experiment
 
----
+Start with the relevant notebook or script for the task you want to explore.
 
-### Sobre o comando `pip install -e .`
+Before running it, check:
 
-Este comando:
+- Input dataset paths and annotation formats.
+- Required model checkpoints.
+- Output directories.
+- CPU or GPU settings.
+- Dependencies specific to that experiment.
 
-* instala o **projeto em modo editable**
-* instala automaticamente **todas as dependências definidas no `pyproject.toml`**
-* permite que alterações no código sejam refletidas **sem reinstalar o pacote**
+## Scope and Limitations
 
----
+- Training datasets are not fully included in this repository.
+- Scripts and notebooks reflect different stages of development.
+- Some files are exploratory, superseded, or dependent on a local setup.
+- Saved metrics relate to particular experiments and should not be interpreted as performance guarantees for the final application.
+- Reproducing an experiment requires its corresponding data, configuration, and model versions.
 
-### Nota sobre PyTorch (CPU vs GPU)
+## Team
 
-O `torch` pode exigir instalação específica dependendo da GPU.
+- Daniel Ribeiro
+- Duarte Esteves
+- Tomás Fialho
 
-**CPU:**
-
-```bash
-pip install torch
-```
-
-**CUDA (exemplo CUDA 12.1):**
-
-```bash
-pip install torch --index-url https://download.pytorch.org/whl/cu121
-```
-
-Consulte: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
-
----
-## Models / AIs
-
-São usados:
-
-* **YOLO** → deteção e criação de masks 
-Links:
-
-* YOLO: [https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
-
-
-
-## Remover todos os arquivos ignorados de uma vez (Melhor opção)
-Se você adicionou várias regras ao .gitignore e quer limpar tudo de uma vez:
-1. Commit as alterações do seu .gitignore primeiro.
-2. Execute o seguinte comando para remover tudo o que está no cache e agora está ignorado:
-```bash
-git rm -r --cached .
-```
-3. Adicione novamente os arquivos (o Git agora vai ignorar os arquivos listados no .gitignore):
-```bash
-git add .
-```
-4. Faça o commit dessa limpeza:
-```bash
-git commit -m "Removendo arquivos rastreados que agora estão no .gitignore"
-```
-5. Faça o push (se necessário):
-```bash
-git push
-```
-
-### Extra
-Para cancelar commit antes de push: 
-```bash
-git reset --soft HEAD~1
-```
-
-
-Para fazer commit e push apenas do .gitignore, tens de garantir que só esse ficheiro está staged: 
-```bash
-git reset
-```
-
-```bash
-git add .gitignore
-git commit -m "Atualiza .gitignore"
-git push
-```
+Developed for the Samsung Innovation Campus AI Course at NOVA FCT.
